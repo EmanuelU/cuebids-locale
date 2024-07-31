@@ -1,1 +1,3 @@
 # cuebids-locale
+
+Localisation repo
