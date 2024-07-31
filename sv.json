@@ -114,7 +114,7 @@
     "error_boundary": {
       "info_1": "Ett fel uppstod, vänligen försök igen. Om felet kvarstår kan du kontakta oss på ",
       "info_2": "Discord",
-      "info_3": " eller skicka epost till ",
+      "info_3": " eller skicka e\u2011post till ",
       "info_4": "support@cuebids.com",
       "info_5": ".",
       "try_again": "Försök igen"
@@ -180,8 +180,8 @@
     "sub_map_heart_pre_styled": "Lås upp ",
     "sub_map_heart_styled": "allting",
     "sub_map_heart_post_styled": "!",
-    "payment_loading": "Vängligen vänta medan vi skickar dig till vår betalningsplattform",
-    "select_currency": "Vängligen välj valuta",
+    "payment_loading": "Vänligen vänta medan vi skickar dig till vår betalningsplattform",
+    "select_currency": "Vänligen välj valuta",
     "currency": "Valuta",
     "subscription": "{{sub}}-prenumeration",
     "subs": {
@@ -466,12 +466,33 @@
     "shared_with_users": "Delad med {{users}} användare",
     "share_session": "Dela session",
     "share": "Dela",
+    "shared_notification": "Session delad!",
     "share_with": "Dela med",
     "share_with_friends": "När du delar en session med en vän kan de se er budgivning samt delta i chatten.",
     "unshare": "Sluta dela",
+    "unshared_notification": "Session inte längre delad",
     "remove_access_for": "Ta bort åtkomst för",
     "hand": "Hand",
-    "deals_left": "Givar kvar"
+    "deals_left": "Givar kvar",
+    "print": {
+      "title": "Skriv ut den här sessionen",
+      "confirm_button": "Bekräfta",
+      "info_1": "Den här sessionen kommer att printas som en PDF och skickas till din e\u2011postadress ",
+      "info_2": "Om det här inte är den korrekta e\u2011postadressen, vänligen uppdatera den på dina profilinställningar.",
+      "warning_not_finished": "Du kan bara skriva ut avslutade sessioner.",
+      "warning_no_email": "Ditt konto saknar en e\u2011postadress.",
+      "warning_missing_sub": "Du behöver en Ruterprenumeration för att skriva ut sessioner."
+    },
+    "delete": {
+      "title": "Radera den här sessionen",
+      "confirm_button": "Bekräfta",
+      "info": "Bekräfta radering av den här sessionen. Det kommer inte gå att återställa den.",
+      "info_weekly": "Även om du raderar en veckotävling kommer du inte att kunna delta igen denna vecka.",
+      "info_daily": "Även om du raderar en dagtävling kommer du inte att kunna delta igen idag."
+    },
+    "pro_badge": "PROFFS",
+    "advanced_robots": "Avancerade Robotar",
+    "basic_robots": "Enkla Robotar"
   },
   "friends": {
     "select_friend": "Välj vän",
@@ -524,17 +545,17 @@
     "create_free_account": "Skapa gratis konto",
     "or": "ELLER",
     "messages": {
-      "no_email": "Fyll i din epost-adress och försök igen.",
-      "short_email": "Epost-adressen har fel format.",
+      "no_email": "Fyll i din e\u2011postadress och försök igen.",
+      "short_email": "E\u2011postadressen har fel format.",
       "password_required": "Lösenord krävs (minst 6 tecken).",
-      "pw_reset_error_default": "Något gick fel. Kontrollera att du har stavat rätt på din epost-adress och att det är den du har registrerat på Cuebids. Om du fortfarande har problem, kontakta supporten på support@cuebids.com",
+      "pw_reset_error_default": "Något gick fel. Kontrollera att du har stavat rätt på din e\u2011postadress och att det är den du har registrerat på Cuebids. Om du fortfarande har problem, kontakta supporten på support@cuebids.com",
       "pw_reset_success": "Vi har skickat ett mail till dig med en länk för att återställa ditt lösenord.",
-      "create_account_error_default": "Något gick fel, vänligen försök igen. Kontrollera stavningen på din epost-adress.",
-      "login_error_default": "Något gick fel. Kontrollera att du har stavat rätt på din epost-adress och att det är den du har registrerat på Cuebids. Om du fortfarande har problem, kontakta supporten på support@cuebids.com",
+      "create_account_error_default": "Något gick fel, vänligen försök igen. Kontrollera stavningen på din e\u2011postadress.",
+      "login_error_default": "Något gick fel. Kontrollera att du har stavat rätt på din e\u2011postadress och att det är den du har registrerat på Cuebids. Om du fortfarande har problem, kontakta supporten på support@cuebids.com",
       "login_success": "Välkommen tillbaka!",
       "create_account_success" : "Välkommen till Cuebids! Vi är glada att du är här <3",
-      "auth_invalid_email": "Epost-adressen är ogiltig. Vänligen kontrollera din stavning.",
-      "auth_user_not_found": "Kontot finns inte. \n Vänligen kontrollera din stavning eller försök med en annan epost-adress.",
+      "auth_invalid_email": "E\u2011postadressen är ogiltig. Vänligen kontrollera din stavning.",
+      "auth_user_not_found": "Kontot finns inte. \n Vänligen kontrollera din stavning eller försök med en annan e\u2011postadress.",
       "auth_too_many_requests": "Du har gjort för många försök. Vänligen vänta på att få ditt email eller kontakta supporten på support@cuebids.com",
       "auth_wrong_password": "Felaktigt lösenord. \n Har du glömt ditt lösenord? Klicka på länken för Glömt lösenord."
     },
@@ -656,7 +677,7 @@
     "removal_warning": "Detta konto kommer tas bort. Processen kan ta upp till 30 dagar. Efter ditt konto är borta kommer det inte vara möjligt att återställa det. Om du ångrar dig innan dess, klicka här.",
     "private_apple_login": "Privat Apple-login",
     "unknown": "Okänd",
-    "account_bound": "Kontot är bundet till denna epostadress. Om du behöver byta, kontakta supporten.",
+    "account_bound": "Kontot är bundet till denna e\u2011postadress. Om du behöver byta, kontakta supporten.",
     "notifications": {
       "saved": "Inställningar sparade",
       "verification_email_sent": "Bekräftelsemail skickat",
@@ -665,7 +686,7 @@
     },
     "display_name": "Användarnamn",
     "profile_collapse_title": "Profil",
-    "contact_email_label": "Epost",
+    "contact_email_label": "E\u2011post",
     "same_as_account_label": "Samma som kontot",
     "email_placeholder": "exempel@cuebids.com",
     "avatar_label": "Profilbild",
@@ -715,8 +736,8 @@
     "remove_account_dialog_info": "Detta kommer att markera kontot för borttagning. Processen kan ta tid. Efter att ditt konto är borta kommer det inte längre gå att återställa det. Är du säker på att du vill radera ditt konto?",
     "newsletter_dialog_title": "Prenumerera på nyhetsbrev",
     "newsletter_dialog_confirm": "Bekräfta",
-    "newsletter_dialog_email_info": "Kontrollera att detta är din epostadress - du kan ändra den om det behövs",
-    "newsletter_dialog_apple_email_info": "Privata Apple-epostadresser går inte att använda för att prenumerera på nyhetsbrevet",
+    "newsletter_dialog_email_info": "Kontrollera att detta är din e\u2011postadress - du kan ändra den om det behövs",
+    "newsletter_dialog_apple_email_info": "Privata Apple-e\u2011postadresser går inte att använda för att prenumerera på nyhetsbrevet",
     "subs": {
       "heart": "Hjärter",
       "diamond": "Ruter",
@@ -725,11 +746,11 @@
     "redeem_code_button": "Har du en kod? Lös in den här"
   },
   "subscribe_newsletter": {
-    "verification_in_progress": "Verifiering av epost pågår...",
-    "notification_success": "Epost verifierad",
+    "verification_in_progress": "Verifiering av e\u2011post pågår...",
+    "notification_success": "E\u2011post verifierad",
     "error": "Något gick fel. Försök igen. Om problemet kvarstår, maila support@cuebids.com",
     "try_again": "Försök igen",
-    "success": "Epost verifierad!",
+    "success": "E\u2011post verifierad!",
     "claim_reward": "Hämta belöning"
   },
   "start": {
@@ -1101,7 +1122,7 @@
       "private_info": "Den här gruppen är privat.",
       "loading": "Laddar...",
       "membership_required": "Den här gruppen kräver ett medlemskap.",
-      "native_purchase_info_pre_styled": "Vängligen använd webben ",
+      "native_purchase_info_pre_styled": "Vänligen använd webben ",
       "native_purchase_info_styled": "här",
       "native_purchase_info_post_styled": " för att bli medlem.",
       "purchase_loading": "Vänligen vänta",
@@ -1208,7 +1229,7 @@
     "navigate_with_buttons_info": "Bläddra i budgivningen med pilarna"
   },
   "app": {
-    "email": "Epost",
+    "email": "E\u2011post",
     "password": "Lösenord",
     "save": "Spara",
     "login": "Logga in",
@@ -2094,7 +2115,7 @@
     "message_label": "Meddelande",
     "message_placeholder": "Skriv din feedback här...",
     "contact_details_label": "Kontaktuppgifter",
-    "contact_details_placeholder": "Om du förväntar dig ett svar, ange din epost här",
+    "contact_details_placeholder": "Om du förväntar dig ett svar, ange din e\u2011post här",
     "submit": "Skicka {{category}}",
     "contact_us": "Du kan också kontakta oss på ",
     "or": "eller",

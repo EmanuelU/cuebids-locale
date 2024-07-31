@@ -466,12 +466,33 @@
     "shared_with_users": "Shared with {{users}} users",
     "share_session": "Share session",
     "share": "Share",
+    "shared_notification": "Session shared!",
     "share_with": "Share with",
     "share_with_friends": "When you share a session with a friend, they can flag deals and participate in the chat.",
     "unshare": "Unshare",
+    "unshared_notification": "Session unshared",
     "remove_access_for": "Remove access for",
     "hand": "Hand",
-    "deals_left": "Deals left"
+    "deals_left": "Deals left",
+    "print": {
+      "title": "Print this session",
+      "confirm_button": "Confirm",
+      "info_1": "This session will be printed as a PDF file and sent to your email address ",
+      "info_2": "If this is not the correct email address, please update it in your profile settings.",
+      "warning_not_finished": "You can only print finished sessions.",
+      "warning_no_email": "Your account is missing an email adress.",
+      "warning_missing_sub": "You need a Diamond subscription to print sessions."
+    },
+    "delete": {
+      "title": "Delete this session",
+      "confirm_button": "Confirm",
+      "info": "Confirm deletion of this session. It will not be possible to restore it.",
+      "info_weekly": "Even if you delete a weekly session, you will not be able to participate again this week.",
+      "info_daily": "Even if you delete a daily session, you will not be able to participate again today."
+    },
+    "pro_badge": "PRO",
+    "advanced_robots": "Advanced Robots",
+    "basic_robots": "Basic Robots"
   },
   "friends": {
     "select_friend": "Select friend",
