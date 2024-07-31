@@ -1,0 +1,24 @@
+{
+  "name": "cuebids-locale",
+  "version": "1.0.0",
+  "description": "A package to store and share JSON files for localisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "storage",
+    "shared",
+    "configuration",
+    "data"
+  ],
+  "author": "Emanuel Unge",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanuelU/cuebids-locale.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EmanuelU/cuebids-locale/issues"
+  }
+}
