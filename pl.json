@@ -19,9 +19,9 @@
     "scoring": {
       "name": "Zapis",
       "TEAMS": "IMPy",
-      "PAIRS": "Maxy",
+      "PAIRS": "Maksy",
       "BAM": "BAMy",
-      "RUBBER": "Robry"
+      "RUBBER": "Robrowy"
     },
     "dealer": "Dealer",
     "directions": {
@@ -43,23 +43,23 @@
       "title": "Ankiety"
     },
     "challenge_timer": {
-      "end_at_reset": "Wyzwanie zakończy się przy codziennym resetowaniu."
+      "end_at_reset": "Wyzwanie zakończy się po codziennym resecie."
     },
     "contact_card": {
       "contact": "Kontakt"
     },
     "daily_card": {
-      "title": "Wydarzenie dnia",
+      "title": "Dniówka",
       "pairs": "pary",
       "continue": "Kontynuuj",
-      "leaderboard": "Tabela wyników",
+      "leaderboard": "Ranking",
       "join_event": "Dołącz do wydarzenia"
     },
     "weekly_card": {
-      "title": "Wydarzenie tygodnia",
+      "title": "Tygodniówka",
       "pairs": "pary",
       "continue": "Kontynuuj",
-      "leaderboard": "Tabela wyników",
+      "leaderboard": "Ranking",
       "join_event": "Dołącz do wydarzenia"
     },
     "group_event_card": {
@@ -69,8 +69,8 @@
       "details": "Szczegóły"
     },
     "event_timer": {
-      "scored_in": "Wydarzenie oceniane w",
-      "scoring": "Trwa ocenianie...",
+      "scored_in": "Wydarzenie punktowane w",
+      "scoring": "Trwa punktowanie...",
       "starts_soon": "Zaraz się zaczyna",
       "has_ended": "{{label}} zakończyło się",
       "w": "t",
@@ -89,14 +89,14 @@
       "pro": "PRO"
     },
     "chat": {
-      "placeholder": "Wpisz swoją wiadomość...",
+      "placeholder": "Napisz wiadomość...",
       "send": "Wyślij"
     },
     "unscored_deal": {
       "contract": "Kontrakt",
-      "stars": "Gwiazdy",
-      "fast_scoring": "Szybkie ocenianie",
-      "regular_scoring": "Regularne ocenianie"
+      "stars": "Gwiazdki",
+      "fast_scoring": "Szybkie punktowanie",
+      "regular_scoring": "Zwykłe punktowanie"
     },
     "group_card": {
       "premium_group_badge": "GRUPA PREMIUM"
@@ -108,19 +108,19 @@
       "select_pair": "Wybierz parę"
     },
     "select_friend_dropdown": {
-      "not_mutual_error": "Nie udało się wybrać tego użytkownika, brak wzajemnych przyjaciół.",
+      "not_mutual_error": "Nie udało się wybrać tego użytkownika, brak wspólnych przyjaciół.",
       "no_matches": "Brak przyjaciół spełniających kryteria..."
     },
     "error_boundary": {
-      "info_1": "Wystąpił błąd, spróbuj ponownie. Jeśli błąd będzie się powtarzał, skontaktuj się z nami na ",
-      "info_2": "Discord",
+      "info_1": "Wystąpił błąd, spróbuj ponownie. Jeśli błąd będzie dalej występował, skontaktuj się z nami na ",
+      "info_2": "Discordzie",
       "info_3": " lub wyślij e-mail na ",
       "info_4": "support@cuebids.com",
       "info_5": ".",
       "try_again": "Spróbuj ponownie"
     },
     "weekly_ended": {
-      "info": "Ten tydzień zakończył się i Twoje wyniki nie zostaną zgłoszone do tabeli wyników. Możesz jednak kontynuować licytację."
+      "info": "Ta tygodniówka się zakończyła. Możesz jednak kontynuować licytację, ale Twoje wyniki nie będą liczone do rankingu."
     },
     "invite": {
       "remove": "Usuń",
@@ -135,29 +135,29 @@
       "free": "ZA DARMO"
     },
     "remaining_tickets_warning": {
-      "you_cannot_afford_partner_heart": "Nie możesz sobie pozwolić na tę cenę, ale ponieważ Twój partner ma subskrypcję heart, możesz zagrać!",
-      "you_cannot_afford_partner_heart_short": "Nie możesz sobie pozwolić na tę cenę, ale ponieważ Twój partner ma subskrypcję heart, możesz zagrać!",
-      "you_cannot_afford": "Nie możesz sobie pozwolić na tę cenę. Uzyskaj subskrypcję heart, aby grać bez ograniczeń. Kliknij, aby otworzyć sklep.",
-      "you_cannot_afford_short": "Nie możesz sobie pozwolić na tę cenę. Uzyskaj subskrypcję heart, aby grać bez ograniczeń.",
-      "partner_cannot_afford_you_heart": "Partner nie może sobie pozwolić na tę cenę, ale ponieważ masz subskrypcję heart, mogą zagrać!",
-      "partner_cannot_afford_you_heart_short": "Partner nie może sobie pozwolić na tę cenę, ale ponieważ masz subskrypcję heart, mogą zagrać!",
-      "partner_cannot_afford_you_pay": "Partner nie może sobie pozwolić na tę cenę. Możesz zapłacić za brakujące bilety.",
-      "partner_cannot_afford_you_pay_short": "Partner nie może sobie pozwolić na tę cenę. Możesz zapłacić za brakujące bilety.",
-      "partner_cannot_afford_get_heart": "Partner nie może sobie pozwolić na tę cenę. Jeśli uzyskasz subskrypcję heart, możesz grać bez ograniczeń. Kliknij, aby otworzyć sklep.",
-      "partner_cannot_afford_get_heart_short": "Partner nie może sobie pozwolić na tę cenę. Jeśli uzyskasz subskrypcję heart, możesz grać bez ograniczeń."
+      "you_cannot_afford_partner_heart": "Nie stać Cię na to, ale Twój partner ma subskrypcję kier, więc możesz zagrać!",
+      "you_cannot_afford_partner_heart_short": "Nie stać Cię na to, ale Twój partner ma subskrypcję kier, więc możesz zagrać!",
+      "you_cannot_afford": "Nie stać Cię na to. Kup subskrypcję kier, aby grać bez ograniczeń. Kliknij, aby przejść do sklepu.",
+      "you_cannot_afford_short": "Nie stać Cię na to. Kup subskrypcję kier, aby grać bez ograniczeń.",
+      "partner_cannot_afford_you_heart": "Nie stać na to Twojego partnera, ale ponieważ masz subskrypcję kier, możecie zagrać!",
+      "partner_cannot_afford_you_heart_short": "Nie stać na to Twojego partnera, ale ponieważ masz subskrypcję kier, możecie zagrać!",
+      "partner_cannot_afford_you_pay": "Nie stać na to Twojego partnera. Możesz zapłacić za brakujące bilety.",
+      "partner_cannot_afford_you_pay_short": "Nie stać na to Twojego partnera. Możesz zapłacić za brakujące bilety.",
+      "partner_cannot_afford_get_heart": "Nie stać na to Twojego partnera. Jeśli kupisz subskrypcję kier, możesz grać bez ograniczeń. Kliknij, aby przejść do sklepu.",
+      "partner_cannot_afford_get_heart_short": "Nie stać na to Twojego partnera. Jeśli kupisz subskrypcję kier, możesz grać bez ograniczeń."
     },
     "user_card": {
       "junior": "U18",
-      "junior_info": "U18 oznacza, że jest juniorem poniżej 18 roku życia. Juniorzy mogą ubiegać się o członkostwo juniors w Cuebids za pośrednictwem naszego formularza kontaktowego.",
+      "junior_info": "U18 oznacza, że jesteś juniorem poniżej 18 roku życia. Juniorzy mogą ubiegać się o członkostwo juniors w Cuebids za pośrednictwem naszego formularza kontaktowego.",
       "pro": "PRO",
-      "pro_info": "Profesjonaliści to zawodowi gracze w brydża. W sekcji porównawczej możesz porównać swoje wyniki z wynikami wszystkich profesjonalistów. Jeśli jesteś zawodowym graczem i chcesz uzyskać tę odznakę, skontaktuj się z nami.",
+      "pro_info": "Profesjonaliści to zawodowi gracze w brydża. W sekcji porównawczej możesz zestawić swoje wyniki z wynikami wszystkich profesjonalistów. Jeśli jesteś zawodowym graczem i chcesz uzyskać tę odznakę, skontaktuj się z nami.",
       "robot": "ROBOT",
       "robot_info": "To jest robot, z którym możesz ćwiczyć licytację.",
       "send_friend_request": "Wyślij zaproszenie do znajomych",
       "friend_request_sent": "Zaproszenie do znajomych wysłane do {{displayName}}",
-      "total_stars": "Łączna liczba gwiazd",
-      "weekly_wins": "Wygrane tygodniowe",
-      "daily_wins": "Wygrane dzienne"
+      "total_stars": "Łączna liczba gwiazdek",
+      "weekly_wins": "Wygrane tygodniówki",
+      "daily_wins": "Wygrane dniówki"
     },
     "user_display": {
       "unknown_user": "Nieznany użytkownik",
@@ -180,47 +180,47 @@
     "sub_map_heart_pre_styled": "Odblokuj",
     "sub_map_heart_styled": "wszystko",
     "sub_map_heart_post_styled": "!",
-    "payment_loading": "Proszę czekać, trwa przenoszenie do naszej platformy płatniczej",
-    "select_currency": "Wybierz swoją walutę.",
+    "payment_loading": "Proszę czekać, trwa przekierowanie do naszej platformy płatniczej",
+    "select_currency": "Wybierz walutę.",
     "currency": "Waluta",
     "subscription": "{{sub}} subskrypcja",
     "subs": {
-      "heart": "Heart",
-      "diamond": "Diamond",
-      "club": "Club"
+      "heart": "Kier",
+      "diamond": "Karo",
+      "club": "Trefl"
     },
     "tab_tickets": "Bilety",
     "tab_subscriptions": "Subskrypcje",
-    "tickets_info_1": "Bilety są używane na wydarzenia, wyzwania i zaawansowane tryby praktyki.",
-    "tickets_info_2": "Tutaj możesz kupić pakiety biletów, które trwają do momentu wydania.",
+    "tickets_info_1": "Bilety są używane na wydarzenia, wyzwania i zaawansowane tryby ćwiczeń.",
+    "tickets_info_2": "Tutaj możesz kupić bilety. Bilety nie przedawniają się.",
     "thanks": "Dziękujemy!",
     "already_subscribed": "Jesteś już subskrybentem!",
     "iap_sub_info": "Wygląda na to, że subskrybujesz za pośrednictwem aplikacji mobilnej Cuebids. Aby zarządzać subskrypcją, skorzystaj z aplikacji.",
-    "group_sub_info": "Otrzymałeś darmową subskrypcję od jednej z Twoich grup. Ciesz się!",
-    "junior_sub_info": "Otrzymałeś darmową subskrypcję, ponieważ jesteś juniorem. Ciesz się!",
+    "group_sub_info": "Otrzymałeś darmową subskrypcję od jednej z Twoich grup. Miłej licytacji!",
+    "junior_sub_info": "Otrzymałeś darmową subskrypcję, ponieważ jesteś juniorem. Miłej licytacji!",
     "upgrade_to_diamond": {
       "info_1": "Ulepsz do",
-      "info_2": "Diamond",
-      "info_3": "za",
+      "info_2": "Kara",
+      "info_3": "dla",
       "info_4": "240",
       "info_5": "biletów miesięcznie i",
       "info_6": "więcej",
-      "info_7": "rodzajów rozdania"
+      "info_7": "rodzajów rozdań"
     },
     "upgrade_to_heart": {
       "info_1": "Ulepsz do",
-      "info_2": "Heart",
-      "info_3": "za",
-      "info_4": "nieskończone",
-      "info_5": "bilety i dostęp do",
+      "info_2": "Kiera",
+      "info_3": "dla",
+      "info_4": "nieskończonych",
+      "info_5": "biletów i dostępu do",
       "info_6": "wszystkich",
-      "info_7": "rodzajów rozdania"
+      "info_7": "rodzajów rozdań"
     },
     "manage_subscription_pre_styled": "Kliknij",
     "manage_subscription_styled": "Zarządzaj subskrypcją",
-    "manage_subscription_post_styled": "i kliknij aktualizuj plan.",
+    "manage_subscription_post_styled": "i kliknij zaktualizuj plan.",
     "already_heart": {
-      "info_1": "Subskrypcja Heart to najwyższa subskrypcja i obejmuje",
+      "info_1": "Subskrypcja Kier to najwyższa subskrypcja i obejmuje",
       "info_2": "nieskończone",
       "info_3": "bilety i dostęp do",
       "info_4": "wszystkich",
@@ -228,29 +228,29 @@
     },
     "manage_subscription": "Zarządzaj subskrypcją",
     "manage_subscription_loading": "Proszę czekać",
-    "subscribe_info_1": "Subskrybuj, aby odblokować więcej funkcji i uzyskać stały przepływ biletów.",
+    "subscribe_info_1": "Subskrybuj, aby odblokować więcej funkcji i uzyskać stały przypływ biletów.",
     "subscribe_info_2": "Każdego miesiąca Twoje subskrypcyjne bilety będą odnawiane.",
-    "subscribe_info_3": "Bilety są używane na <strong>wydarzenia</strong> i <strong>zaawansowaną praktykę</strong>.",
+    "subscribe_info_3": "Bilety są używane na <strong>wydarzenia</strong> i <strong>zaawansowane ćwiczenia</strong>.",
     "subscribe_info_4_pre_styled": "Subskrybenci mogą również uzyskać dostęp i ćwiczyć",
-    "subscribe_info_4_styled": "rodzaje rozdania",
+    "subscribe_info_4_styled": "rodzaje rozdań",
     "subscribe_info_4_post_styled": ", takie jak Jacoby 2NT.",
-    "subscribe_info_5_1": "Subskrybenci Heart",
-    "subscribe_info_5_2": "cieszą się <strong>nieskończoną</strong> ilością biletów i dostępem do <strong>wszystkich</strong> rodzajów rozdania.",
+    "subscribe_info_5_1": "Subskrybenci Kier",
+    "subscribe_info_5_2": "cieszą się <strong>nieskończoną</strong> ilością biletów i dostępem do <strong>wszystkich</strong> rodzajów rozdań.",
     "club": {
-      "title": "Club",
-      "deal_types_info": "<strong>5</strong> rodzajów rozdania",
+      "title": "Trefl",
+      "deal_types_info": "<strong>5</strong> rodzajów rozdań",
       "tickets_per_month": " biletów miesięcznie"
     },
     "diamond": {
       "most_popular": "NAJBARDZIEJ POPULARNY",
-      "title": "Diamond",
-      "deal_types_info": "<strong>10</strong> rodzajów rozdania",
+      "title": "Karo",
+      "deal_types_info": "<strong>10</strong> rodzajów rozdań",
       "tickets_per_month": " biletów miesięcznie"
     },
     "heart": {
       "unlock_everything": "ODBLOKUJ WSZYSTKO",
-      "title": "Heart",
-      "deal_types_info": "<strong>Wszystkie</strong> rodzaje rozdania",
+      "title": "Kier",
+      "deal_types_info": "<strong>Wszystkie</strong> rodzaje rozdań",
       "endless_tickets": "<strong>Nieskończone</strong> bilety"
     },
     "payment_failed": "Płatność nie powiodła się. Spróbuj ponownie.",
@@ -259,61 +259,61 @@
     "1500 Tickets": "1500 biletów"
   },
   "go_to_store": {
-    "no_iap_error": "Sklep jest obecnie niedostępny w aplikacji mobilnej. Proszę odwiedzić naszą stronę internetową, aby subskrybować Cuebids."
+    "no_iap_error": "Sklep jest obecnie niedostępny w aplikacji mobilnej. Proszę odwiedzić naszą stronę internetową, aby uzyskać subskrybcję Cuebids."
   },
   "store_thanks": {
     "title": "Dziękujemy za wsparcie!",
-    "info": "Mamy nadzieję, że nadal będziesz cieszyć się Cuebids",
-    "to_start_page": "Na stronę startową",
+    "info": "Mamy nadzieję, że będziesz zadowolony z Cuebids",
+    "to_start_page": "Na stronę główną",
     "50_tickets": "Otrzymałeś 50 biletów",
     "250_tickets": "Otrzymałeś 250 biletów",
     "1500_tickets": "Otrzymałeś 1500 biletów",
     "club": {
-      "info_1_pre_styled": "Teraz jesteś",
-      "info_1_styled": "Club",
-      "info_1_post_styled": " subskrybentem",
-      "info_2": "Ciesz się rodzajami rozdania i dodatkowymi biletami!"
+      "info_1_pre_styled": "Teraz masz subskrybcję ",
+      "info_1_styled": "Trefl",
+      "info_1_post_styled": "",
+      "info_2": "Korzystaj z rodzajów rozdań i dodatkowych biletów!"
     },
     "diamond": {
-      "info_1_pre_styled": "Teraz jesteś",
-      "info_1_styled": "Diamond",
-      "info_1_post_styled": " subskrybentem",
-      "info_2": "Ciesz się rodzajami rozdania i dodatkowymi biletami!"
+      "info_1_pre_styled": "Teraz masz subskrybcję ",
+      "info_1_styled": "Karo",
+      "info_1_post_styled": "",
+      "info_2": "Korzystaj z rodzajów rozdań i dodatkowych biletów!"
     },
     "heart": {
-      "info_1_pre_styled": "Teraz jesteś",
-      "info_1_styled": "Heart",
-      "info_1_post_styled": " subskrybentem",
-      "info_2_pre_styled": "Odblokowałeś wszystko w Cuebids: Wszystkie rodzaje rozdania i na dodatek -",
+      "info_1_pre_styled": "Teraz masz subskrybcję ",
+      "info_1_styled": "Kier",
+      "info_1_post_styled": "",
+      "info_2_pre_styled": "Odblokowałeś wszystko w Cuebids: Wszystkie rodzaje rozdań i na dodatek -",
       "info_2_styled": "masz nieskończone bilety."
     }
   },
   "marketing": {
     "go_store": "Przejdź do sklepu",
-    "unlock_more": "Uzyskaj więcej z Diamond",
+    "unlock_more": "Uzyskaj więcej z Karem",
     "unlock_all": "Odblokuj wszystkie funkcje",
     "features_requires": "Ta funkcja wymaga",
-    "heart_sub": "subskrypcji Heart",
-    "diamond_sub": "subskrypcji Diamond",
-    "club_sub": "subskrypcji Club",
+    "heart_sub": "subskrypcji Kier",
+    "diamond_sub": "subskrypcji Karo",
+    "club_sub": "subskrypcji Trefl",
     "start_trial": "Rozpocznij darmowy okres próbny",
     "subscribe": "Subskrybuj",
     "no_thanks": "Nie, dziękuję",
     "free": "Darmowy",
-    "club": "Club",
-    "diamond": "Diamond",
-    "heart": "Heart",
-    "infinite": "Nieskończony",
-    "all": "WSZYSTKO",
+    "club": "Trefl",
+    "diamond": "Karo",
+    "heart": "Kier",
+    "infinite": "Nieskończone",
+    "all": "WSZYSTKIE",
     "tickets": "Bilety",
-    "deal_types": "Rodzaje rozdania",
-    "custom_scenarios": "Niestandardowe scenariusze",
+    "deal_types": "Rodzaje rozdań",
+    "custom_scenarios": "Spersonalizowane scenariusze",
     "private_groups": "Prywatne grupy"
   },
   "spots": {
-    "select_fed": "Wybierz miejsce do publikacji",
+    "select_fed": "Wybierz miejsce publikacji",
     "title": "Problem licytacyjny",
-    "create_new_spot_button": "Utwórz nowy",
+    "create_new_spot_button": "Utwórz problem",
     "get_random_spot": "Losuj",
     "spot_collapse_header": "Problem",
     "labels": {
@@ -327,15 +327,28 @@
       "too_many_cards": "Za dużo kart",
       "too_few_cards": "Za mało kart",
       "login_to_bid": "Musisz być zalogowany żeby licytować",
-      "login_to_create": "Musisz być zalogowany żeby utworzyć nowy problem",
+      "login_to_create": "Musisz być zalogowany żeby utworzyć problem",
       "select_bid": "Wybierz odzywkę",
-      "description_required": "Opisz problem dokładniej"
+      "description_required": "Opisz problem dokładniej..."
     },
     "undo_bid_button": "Cofnij odzywkę",
     "spot_description_input": "Opis",
     "spot_include_answer_input": "Dołącz odpowiedź",
     "spot_answer_input": "Odpowiedź (opcjonalna, pokazywana ludziom po udzieleniu odpowiedzi)",
-    "bid_abstain_confirm": "Czy na pewno chcesz się wstrzymać od odpowiedzi na tę ankietę? (Nadal będziesz mógł zobaczyć, co inni zlicytowali.)",
+    "spot_create_submit": "Utwórz problem",
+    "bid_description_input": {
+      "placeholder": "Napisz wytłumaczenie... Możesz użyć skrótów: !s - piki, !h - kiery, !d - kara, !c - trefle."
+    },
+    "bid_display-name_input": {
+      "placeholder": "Wpisz swoją nazwę użytkownika"
+    },
+    "no_responses": "Jeszcze nikt nie odpowiedział",
+    "bid_confirm_button": "Prześlij odpowiedź",
+    "bid_abstain_button": "Wstrzymaj się",
+    "bid_abstain_confirm": "Czy na pewno chcesz się wstrzymać od odpowiedzi na tę ankietę? (Nadal będziesz mógł zobaczyć, co inni licytowali.)",
+    "reply_placeholder": "Odpowiedz...",
+    "reply_button": "Wyślij",
+    "total": "W sumie",
     "other": "Inne",
     "all": "Wszystkie",
     "friends": "Znajomi",
@@ -348,10 +361,11 @@
     "edit": "Edytuj ankietę",
     "spot_edit_submit": "Edytuj ankietę",
     "spot_edit_error": "Coś poszło nie tak. Jeśli jest 10 odpowiedzi, nie możesz już edytować ankiety.",
+    "footer": "Doskonal swoją licytację na Cuebids.com",
     "notifications": {
       "bid_on_spot": {
         "header": "Nowe licytacje w ankiecie",
-        "text": "Pojawiły się nowe licytacje w twojej ankiecie!",
+        "text": "Pojawiły się nowe odpowiedzi w twojej ankiecie!",
         "url": "https://cuebids.com/spots/en/{{spotId}}"
       },
       "first_bid_on_spot": {
@@ -368,50 +382,36 @@
         "url": "https://cuebids.com/spots/en/{{spotId}}"
       }
     },
-    "successfully_created": "Ankieta utworzona",
-    "spot_create_submit": "Utwórz problem",
-    "bid_description_input": {
-      "placeholder": "Napisz wytłumaczenie... Możesz użyć skrótów: !s - piki, !h - kiery, !d - kara, !c - trefle."
-    },
-    "bid_display-name_input": {
-      "placeholder": "Wpisz swoją nazwę użytkownika"
-    },
-    "no_responses": "Na razie brak odpowiedzi...",
-    "bid_confirm_button": "Prześlij odpowiedź",
-    "bid_abstain_button": "Wstrzymaj się",
-    "reply_placeholder": "Odpowiedz...",
-    "reply_button": "Wyślij",
-    "total": "W sumie",
-    "footer": "Doskonały swoją licytację na Cuebids.com"
+    "successfully_created": "Ankieta utworzona"
   },
   "leaderboard": {
-    "empty": "Pusta tabela wyników"
+    "empty": "Ranking jest pusty"
   },
   "navbar": {
     "tickets": "bilety",
-    "tickets_usage": "Bilety są używane w wydarzeniach, wyzwaniach i zaawansowanych grach z robotami.",
+    "tickets_usage": "Bilety są używane w wydarzeniach, wyzwaniach i zaawansowanych ćwiczeniach z robotami.",
     "you_have": "Masz",
     "messages": "wiadomości",
-    "subscription_tickets": "Bilety subskrypcyjne",
+    "subscription_tickets": "Bilety z subskrybcji",
     "refreshed": "są odnawiane",
-    "monthly": "miesięcznie.",
+    "monthly": "co miesiąc.",
     "extra_tickets": "Dodatkowe bilety",
-    "saved_for_last": "są zawsze zachowywane na końcu.",
-    "as_a": "Jako",
+    "saved_for_last": "nie przedawniają się.",
+    "as_a": "Jako, że",
     "you_get": "masz",
     "infinite": "nieskończone",
-    "heart": "Heart",
-    "diamond": "Diamond",
-    "club": "Club",
+    "heart": "Kier",
+    "diamond": "Karo",
+    "club": "Trefl",
     "subscriber": " subskrybent",
     "each_month": "każdego miesiąca",
-    "free_user_tickets": "Jako darmowy użytkownik będziesz miał {{tickets}} biletów miesięcznie.",
+    "free_user_tickets": "Jako darmowy użytkownik będziesz miał {{tickets}} bilety miesięcznie.",
     "upgrade_cta": "Ulepsz teraz, aby uzyskać więcej biletów i innych korzyści!",
     "no_iap": "Możesz kupować bilety na naszej stronie internetowej."
   },
   "onboarding": {
     "welcome_title": "Witamy, {{name}}",
-    "skip_step": "Pomiń krok",
+    "skip_step": "Pomiń",
     "step_settings": {
       "title": "Sprawdź ustawienia",
       "text": " Kliknij menu w prawym górnym rogu, a następnie 'Ustawienia'. Wprowadź zmiany w sposobie wyświetlania kart lub innych funkcjach. Pamiętaj, aby zapisać!"
