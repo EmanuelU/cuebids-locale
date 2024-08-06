@@ -898,7 +898,7 @@
     "twoSuiter": "Two suiter",
     "splinter": "Splinter",
     "jacoby2N": "Jacoby 2NT",
-    "gazzilli": "Gazilli",
+    "gazzilli": "Gazzilli",
     "marmic": "Three suited",
     "majorsVsNT": "Majors or NT",
     "minorsVsNT": "Minors or NT",
@@ -1105,7 +1105,7 @@
       "create_group": "Create group"
     },
     "group_session_leaderboard": {
-      "delete_error": "Something went wrong. If there players have started playing the event it cannot be deleted.",
+      "delete_error": "Something went wrong. If players have started playing the event it cannot be deleted.",
       "delete": "Delete event",
       "not_started": "This event has not started yet",
       "finished": "This event has finished",
@@ -1157,7 +1157,7 @@
       "partner_label": "Partner",
       "already_participating_error": "You are already participating in this event.",
       "partner_participating_error": "Your partner is already participating in this event.",
-      "together_participating_error": "You and partner are already participating in this event together.",
+      "together_participating_error": "You and your partner are already participating in this event together.",
       "invite_info": "When you join this event you will send an invite to your partner. When your partner accepts the invite you can start bidding. Both players must have tickets available when the invitation is accepted.",
       "join_event_submit": "Join Event",
       "price_dialog_title": "Join event",
