@@ -910,7 +910,7 @@
     "weakTwoX": "UD efter svaga två"
   },
   "groups": {
-    "replace_deal_confirm": "Är du säker på att du vill byta ut given? Det går inte att ångra.",
+    "replace_deal_confirm": "Är du säker på att du vill byta ut given? Det går inte att ångra. Notera också att den nya given kan få ett annat nummer än den gamla.",
     "make_admin_confirm": "Är du säker på att du vill göra dem till admin?",
     "remove_admin_confirm": "Är du säker på att du vill ta bort admin-rättigheter?",
     "remove_member_confirm": "Är du säker på att du vill ta bort dem från gruppen?",

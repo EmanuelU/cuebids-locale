@@ -910,7 +910,7 @@
     "weakTwoX": "Double After Weak Two"
   },
   "groups": {
-    "replace_deal_confirm": "Are you sure you want to replace this deal? Once replaced the deal is gone forever.",
+    "replace_deal_confirm": "Are you sure you want to replace this deal? Once replaced the deal is gone forever. Also note that the new deal might get a different number than the old.",
     "make_admin_confirm": "Are you sure you want to make them admin?",
     "remove_admin_confirm": "Are you sure you want to remove their admin role?",
     "remove_member_confirm": "Are you sure you want to remove them from the group?",
