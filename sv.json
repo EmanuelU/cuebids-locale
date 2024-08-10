@@ -1897,6 +1897,7 @@
       "cancel": "Avbryt",
       "no_name": "Inget namn"
     },
+    "scenario_edit_new_name": "{{name}} (ny)",
     "scenario_edited_success": "Scenario ändrat",
     "scenario_created_success": "Scenario skapat",
     "scenario_error": "Något gick fel",

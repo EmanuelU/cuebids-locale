@@ -1896,6 +1896,7 @@
       "cancel": "Cancel",
       "no_name": "No name"
     },
+    "scenario_edit_new_name": "{{name}} (new)",
     "scenario_edited_success": "Scenario edited",
     "scenario_created_success": "Scenario created",
     "scenario_error": "Something went wrong",
