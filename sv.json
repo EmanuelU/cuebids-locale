@@ -1042,7 +1042,8 @@
       "free_event_used_info_1": "Du har redan skapat ett gratisevent dena här veckan.",
       "free_event_used_info_2": "Du kan fortfarande skapa ett vanligt event.",
       "group_admin_error": "Endast gruppadministratörer kan skapa event",
-      "create_submit": "Skapa gruppevent"
+      "create_submit": "Skapa gruppevent",
+      "edit_submit": "Spara event"
     },
     "event_draft": {
       "error": "Något gick fel",
@@ -1106,7 +1107,8 @@
     },
     "group_session_leaderboard": {
       "delete_error": "Något gick fel. Om spelare har börjat bjuda kan du inte längre ta bort eventet.",
-      "delete": "Radera event",
+      "delete": "Radera",
+      "edit": "Ändra",
       "not_started": "Det här eventet har inte startat än",
       "finished": "Det här eventet har avslutats",
       "runs_until": "Det här eventet pågår till:",

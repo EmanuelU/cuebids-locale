@@ -1042,7 +1042,8 @@
       "free_event_used_info_1": "You have already created a free event this week.",
       "free_event_used_info_2": "You can still create a normal event.",
       "group_admin_error": "Only group admins can create events",
-      "create_submit": "Create group event"
+      "create_submit": "Create group event",
+      "edit_submit": "Save event"
     },
     "event_draft": {
       "error": "Something went wrong",
@@ -1106,7 +1107,8 @@
     },
     "group_session_leaderboard": {
       "delete_error": "Something went wrong. If there players have started playing the event it cannot be deleted.",
-      "delete": "Delete event",
+      "delete": "Delete",
+      "edit": "Edit",
       "not_started": "This event has not started yet",
       "finished": "This event has finished",
       "runs_until": "This event runs until:",
