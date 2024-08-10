@@ -1624,6 +1624,9 @@
         "balanced_15_17": {
           "name": "Balanced 15-17"
         },
+        "balanced_15_18": {
+          "name": "Balanced 15-18"
+        },
         "balanced_18_19": {
           "name": "Balanced 18-19"
         },
@@ -1694,6 +1697,13 @@
         },
         "command_entry1S": {
           "name": "Will overcall 1!S"
+        },
+        "entry1N": {
+          "name": "1!N overcall",
+          "description": "15-18 balanced"
+        },
+        "command_entry1N": {
+          "name": "Will overcall 1!N"
         },
         "entry2C": {
           "name": "2!C overcall",
