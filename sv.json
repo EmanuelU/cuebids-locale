@@ -1042,7 +1042,8 @@
       "free_event_used_info_1": "Du har redan skapat ett gratisevent dena här veckan.",
       "free_event_used_info_2": "Du kan fortfarande skapa ett vanligt event.",
       "group_admin_error": "Endast gruppadministratörer kan skapa event",
-      "create_submit": "Skapa gruppevent"
+      "create_submit": "Skapa gruppevent",
+      "edit_submit": "Spara event"
     },
     "event_draft": {
       "error": "Något gick fel",
@@ -1106,7 +1107,8 @@
     },
     "group_session_leaderboard": {
       "delete_error": "Något gick fel. Om spelare har börjat bjuda kan du inte längre ta bort eventet.",
-      "delete": "Radera event",
+      "delete": "Radera",
+      "edit": "Ändra",
       "not_started": "Det här eventet har inte startat än",
       "finished": "Det här eventet har avslutats",
       "runs_until": "Det här eventet pågår till:",
@@ -1624,6 +1626,9 @@
         "balanced_15_17": {
           "name": "Balanserad 15-17"
         },
+        "balanced_15_18": {
+          "name": "Balanserad 15-18"
+        },
         "balanced_18_19": {
           "name": "Balanserad 18-19"
         },
@@ -1679,77 +1684,84 @@
           "description": "10-16 HP och 5+!D"
         },
         "command_entry1D": {
-          "name": "Kommer kliva in med 1!D"
+          "name": "Kliver in med 1!D"
         },
         "entry1H": {
           "name": "inkliv med 1!H",
           "description": "10-16 HP och 5+!H"
         },
         "command_entry1H": {
-          "name": "Kommer kliva in med 1!H"
+          "name": "Kliver in med 1!H"
         },
         "entry1S": {
           "name": "inkliv med 1!S",
           "description": "10-16 HP och 5+!S"
         },
         "command_entry1S": {
-          "name": "Kommer kliva in med 1!S"
+          "name": "Kliver in med 1!S"
+        },
+        "entry1N": {
+          "name": "inkliv med 1!N",
+          "description": "15-18 HP och balans"
+        },
+        "command_entry1N": {
+          "name": "Kliver in med 1!N"
         },
         "entry2C": {
           "name": "inkliv med 2!C",
           "description": "11-17 HP och 5+!C"
         },
         "command_entry2C": {
-          "name": "Kommer kliva in med 2!C"
+          "name": "Kliver in med 2!C"
         },
         "entry2D": {
           "name": "inkliv med 2!D",
           "description": "11-17 HP och 5+!D"
         },
         "command_entry2D": {
-          "name": "Kommer kliva in med 2!D"
+          "name": "Kliver in med 2!D"
         },
         "entry2H": {
           "name": "inkliv med 2!H",
           "description": "11-17 HP och 5+!H"
         },
         "command_entry2H": {
-          "name": "Kommer kliva in med 2!H"
+          "name": "Kliver in med 2!H"
         },
         "entry2S": {
           "name": "inkliv med 2!S",
           "description": "11-17 HP och 5+!S"
         },
         "command_entry2S": {
-          "name": "Kommer kliva in med 2!S"
+          "name": "Kliver in med 2!S"
         },
         "entry3C": {
           "name": "inkliv med 3!C",
           "description": "12-18 HP och 5+!C"
         },
         "command_entry3C": {
-          "name": "Kommer kliva in med 3!C"
+          "name": "Kliver in med 3!C"
         },
         "entry3D": {
           "name": "inkliv med 3!D",
           "description": "12-18 HP och 5+!D"
         },
         "command_entry3D": {
-          "name": "Kommer kliva in med 3!D"
+          "name": "Kliver in med 3!D"
         },
         "entry3H": {
           "name": "inkliv med 3!H",
           "description": "12-18 HP och 5+!H"
         },
         "command_entry3H": {
-          "name": "Kommer kliva in med 3!H"
+          "name": "Kliver in med 3!H"
         },
         "entry3S": {
           "name": "inkliv med 3!S",
           "description": "12-18 HP och 5+!S"
         },
         "command_entry3S": {
-          "name": "Kommer kliva in med 3!S"
+          "name": "Kliver in med 3!S"
         },
         "entry2DJump": {
           "name": "Hoppinkliv med 2!D",
