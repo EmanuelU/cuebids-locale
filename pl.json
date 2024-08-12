@@ -53,18 +53,18 @@
       "pairs": "pary",
       "continue": "Kontynuuj",
       "leaderboard": "Ranking",
-      "join_event": "Dołącz do wydarzenia"
+      "join_event": "Dołącz"
     },
     "weekly_card": {
       "title": "Tygodniówka",
       "pairs": "pary",
       "continue": "Kontynuuj",
       "leaderboard": "Ranking",
-      "join_event": "Dołącz do wydarzenia"
+      "join_event": "Dołącz"
     },
     "group_event_card": {
       "pairs": "pary",
-      "join_event": "Dołącz do wydarzenia",
+      "join_event": "Dołącz",
       "finished": "Zakończone",
       "details": "Szczegóły"
     },
