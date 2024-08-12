@@ -1051,11 +1051,11 @@
       "remove_bidding": "Usuń licytację"
     },
     "group": {
-      "tab_events": "Wydarzenia",
+      "tab_events": "Eventy",
       "tab_members": "Członkowie",
       "tab_invited": "Zaproszeni",
       "tab_premium_members": "Członkowie premium",
-      "tab_stats": "Statystyki",
+      "tab_stats": "Raport",
       "create_event": "Utwórz wydarzenie",
       "import_pbn": "Importuj PBN",
       "unfinished_draft_info": "Masz niedokończony szkic",
