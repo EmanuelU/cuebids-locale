@@ -955,7 +955,9 @@
       "title": "Giv {{number}}",
       "subtitle": "Coachning",
       "replace_deal_error": "Något gick fel med att byta ut given: ({{error}})",
+      "rotate_deal_error": "Något gick fel med att rotera given",
       "replace_deal": "Byt ut giv",
+      "rotate_deal": "Rotera giv",
       "present": "Presentera",
       "suggested_bidding": "Budgivningsförslag",
       "show": "Visa",
@@ -1229,7 +1231,8 @@
     "error_generic": "Något gick fel",
     "error_free_weekly_spent": "Du har redan skapat ett gratisevent den här veckan",
     "error_cannot_create_free_event": "Kan inte skapa gratisevent",
-    "error_cannot_replace_played_deal": "Kan inte ersätta given när några par redan har spelat den."
+    "error_cannot_replace_played_deal": "Kan inte ersätta given när några par redan har spelat den.",
+    "error_cannot_rotate_played_deal": "Kan inte rotera given när några par redan har spelat den."
   },
   "share": {
     "navigate_with_buttons_info": "Bläddra i budgivningen med pilarna"
