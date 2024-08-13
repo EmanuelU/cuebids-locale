@@ -955,7 +955,7 @@
       "title": "Hand {{number}}",
       "subtitle": "Coaching",
       "replace_deal_error": "Failed to replace deal: ({{error}})",
-      "rotate_deal_error": "Failed to rotate deal: ({{error}})",
+      "rotate_deal_error": "Failed to rotate deal",
       "replace_deal": "Replace deal",
       "rotate_deal": "Rotate deal",
       "present": "Present",

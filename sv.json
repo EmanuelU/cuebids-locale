@@ -955,7 +955,7 @@
       "title": "Giv {{number}}",
       "subtitle": "Coachning",
       "replace_deal_error": "Något gick fel med att byta ut given: ({{error}})",
-      "rotate_deal_error": "Något gick fel med att rotera given: ({{error}})",
+      "rotate_deal_error": "Något gick fel med att rotera given",
       "replace_deal": "Byt ut giv",
       "rotate_deal": "Rotera giv",
       "present": "Presentera",
