@@ -973,6 +973,10 @@
       "alert_bid_placeholder": "Alertera budet",
       "explain_bid_placeholder": "Förklara budet",
       "pairs": "Par",
+      "contracts": "Kontrakt",
+      "contract": "Kontrakt",
+      "stars": "Stjärnor",
+      "no_pairs_started": "Inga par har startat",
       "join_chat": "Gå med i spelarchatten"
     },
     "coach_session_deal_presentation": {

@@ -972,7 +972,11 @@
       "alert": "Alert",
       "alert_bid_placeholder": "Alert bid",
       "explain_bid_placeholder": "Explain bid",
+      "contracts": "Contracts",
+      "contract": "Contract",
+      "stars": "Stars",
       "pairs": "Pairs",
+      "no_pairs_started": "No pairs have started bidding yet",
       "join_chat": "Join player chat"
     },
     "coach_session_deal_presentation": {
