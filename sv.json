@@ -820,7 +820,7 @@
     "faq": "FAQ",
     "store": "Butik",
     "history": "Historik",
-    "top10": "Top 10",
+    "top10": "Topp 10",
     "shared": "Delade"
   },
   "robots": {
@@ -1281,7 +1281,7 @@
   },
   "refresh": {
     "title": "Du behöver ladda om sidan",
-    "warning": "Det finns en nya version av Cuebids. Du behöver ladda om sidan för att få den nya versionen.",
+    "warning": "Det finns en ny version av Cuebids. Du behöver ladda om sidan för att få den nya versionen.",
     "refresh_button": "Ladda om"
   },
   "session_deal": {
