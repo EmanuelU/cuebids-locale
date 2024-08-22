@@ -720,6 +720,8 @@
     "symbol_size_label": "Rozmiar symboli",
     "style_label": "Styl",
     "order_label": "Kolejność",
+    "two_suits_label": "Two suits",
+    "two_suits_label_false": "Four suits",
     "hcp_label": "Pokaż liczbę HCP",
     "animations_label": "Pokaż animacje",
     "blinking_label": "Pokaż migający kolor",

@@ -724,6 +724,8 @@
     "symbol_size_label": "Symbol size",
     "style_label": "Style",
     "order_label": "Order",
+    "two_suits_label": "Two colors",
+    "two_suits_label_false": "Four colors",
     "hcp_label": "Show HCP count",
     "animations_label": "Show animations",
     "blinking_label": "Show flashing colour",

@@ -724,6 +724,8 @@
     "symbol_size_label": "Symbolstorlek",
     "style_label": "Stil",
     "order_label": "Ordning",
+    "two_suits_label": "Två färger",
+    "two_suits_label_false": "Fyra färger",
     "hcp_label": "Visa poäng",
     "animations_label": "Visa animeringar",
     "blinking_label": "Visa blinkade färger",
