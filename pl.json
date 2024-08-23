@@ -473,7 +473,7 @@
     "unshared_notification": "Udostępnienie cofnięte",
     "remove_access_for": "Usuń dostęp dla",
     "hand": "Ręka",
-    "deals_left": "Pozostałe rozdania",
+    "deals_left": "Pozostało",
     "print": {
       "title": "Eksportuj jako PDF",
       "confirm_button": "Potwierdzam",
@@ -491,8 +491,8 @@
       "info_daily": "Nawet jeśli usuniesz sesję dniówki, nie będziesz mógł znów w niej startować."
     },
     "pro_badge": "PRO",
-    "advanced_robots": "Zaawansowane roboty",
-    "basic_robots": "Podstawowe roboty"
+    "advanced_robots": "Super roboty",
+    "basic_robots": "Zwykłe roboty"
   },
   "friends": {
     "select_friend": "Wybierz znajomego",
@@ -607,6 +607,7 @@
     "challenge_friends": "Rzuć wyzwanie znajomym",
     "ranked_match": "Mecz rankingowy",
     "tab_my_challenges": "Moje wyzwania",
+    "no_challenges": "Nie zagrałeś jeszcze żadnego wyzwania",
     "tab_global": "Globalne",
     "tab_stats": "Statystyki",
     "tab_top": "Top 10",
@@ -626,7 +627,7 @@
     "info": "Zostaniesz sparowany z losowymi przeciwnikami na Twoim poziomie umiejętności i zagracie rankingowe wyzwanie. Zdobędziesz lub stracisz gwiazdki w zależności od wyniku. Spróbuj osiągnąć rangę Asa!",
     "partner": "Partner",
     "partner_disabled_label": "Rankingowe wyzwania wyłączone",
-    "bullet_robots": "Zaawansowane roboty",
+    "bullet_robots": "Super roboty",
     "bullet_boards": "8 stolików",
     "bullet_ranked": "Rankingowe",
     "in_progress": "Wyszukiwanie oponentów w toku... Możesz opuścić tę stronę. Otrzymasz powiadomienie, gdy wyzwanie się rozpocznie.",
@@ -772,9 +773,9 @@
     "subscribed_claim_pending": "Subskrybujesz newslettera. Kliknij tutaj, aby odebrać swoją nagrodę.",
     "invited_to_group_event": "Zaproszono do gry w wydarzeniu grupowym",
     "you_are": "Szukasz ",
-    "somebody_is": "Ktoś szuka ",
-    "looking_for_challenge": "wyzwania",
-    "looking_for_partner": "partnera",
+    "somebody_is": "Ktoś ",
+    "looking_for_challenge": "szuka wyzwania",
+    "looking_for_partner": "szuka partnera",
     "lia_stuck": "Lia utknęła? - kliknij tutaj",
     "completed": "Zakończone",
     "flagged": "Oflagowane",
@@ -835,10 +836,10 @@
   "robots": {
     "robots": "Roboty",
     "none": "Brak",
-    "basic": "Podstawowe",
-    "advanced": "Zaawansowane",
+    "basic": "Proste",
+    "advanced": "Super",
     "none_explain": "Roboty nie będą uczestniczyć w licytacji.",
-    "basic_explain": "Podstawowe roboty będą licytować tylko jeden kolor. Planujemy usunąć je w przyszłej aktualizacji. Wypróbuj zaawansowane roboty dla bardziej realistycznego doświadczenia."
+    "basic_explain": "Proste roboty będą licytować tylko jeden kolor. Planujemy usunąć je w przyszłej aktualizacji. Wypróbuj super roboty dla bardziej realistycznego doświadczenia."
   },
   "lia": {
     "convention_card": "Karta konwencyjna",
@@ -1021,8 +1022,8 @@
       "north": "North",
       "south": "South",
       "robots_none": "Brak",
-      "robots_basic": "Podstawowe",
-      "robots_advanced": "Zaawansowane",
+      "robots_basic": "Proste",
+      "robots_advanced": "Super",
       "boards_label": "Stoliki",
       "robots_label": "Roboty",
       "coach_robot_label": "Graj z trenerem (robot)",
@@ -1032,7 +1033,7 @@
       "coach_robot_info_1_styled_2": "sugerowanej licytacji",
       "coach_robot_info_1_post_styled": ".",
       "coach_robot_info_2_pre_styled": "Jeśli gracz odejdzie od sugerowanej licytacji, nasze ",
-      "coach_robot_info_2_pre_styled_1": "zaawansowane roboty (E/W)",
+      "coach_robot_info_2_pre_styled_1": "super roboty (E/W)",
       "coach_robot_info_2_between_styled": " lub ",
       "coach_robot_info_2_styled_2": "Lia (N/S)",
       "coach_robot_info_2_post_styled": " przejmą kontrolę.",
@@ -1057,7 +1058,8 @@
       "free_event_used_info_1": "Już utworzyłeś darmowe wydarzenie w tym tygodniu.",
       "free_event_used_info_2": "Wciąż możesz utworzyć zwykłe wydarzenie.",
       "group_admin_error": "Tylko administratorzy grupy mogą tworzyć wydarzenia",
-      "create_submit": "Utwórz wydarzenie grupowe"
+      "create_submit": "Utwórz wydarzenie grupowe",
+      "edit_submit": "Zapisz wydarzenie"
     },
     "event_draft": {
       "error": "Coś poszło nie tak",
@@ -1122,6 +1124,7 @@
     "group_session_leaderboard": {
       "delete_error": "Coś poszło nie tak. Jeśli gracze rozpoczęli grę, nie można jej usunąć.",
       "delete": "Usuń wydarzenie",
+      "edit": "Edytuj",
       "not_started": "To wydarzenie jeszcze się nie rozpoczęło",
       "finished": "To wydarzenie zostało zakończone",
       "runs_until": "To wydarzenie trwa do:",
@@ -1152,8 +1155,8 @@
     },
     "join_group_session": {
       "no_robots": "Brak robotów",
-      "basic_robots": "Podstawowe roboty",
-      "advanced_robots": "Zaawansowane roboty",
+      "basic_robots": "Zwykłe roboty",
+      "advanced_robots": "Super roboty",
       "robot_success": "Dołączono do wydarzenia. Sesja rozpoczęta.",
       "robot_error": "Błąd podczas dołączania do wydarzenia ({{error}})",
       "already_invited_success": "Twój znajomy już zaprosił cię do gry. Sesja rozpoczęta",
@@ -1640,6 +1643,9 @@
         "balanced_15_17": {
           "name": "Zrównoważone 15-17"
         },
+        "balanced_15_18": {
+          "name": "Zrównoważone 15-18"
+        },
         "balanced_18_19": {
           "name": "Zrównoważone 18-19"
         },
@@ -1710,6 +1716,13 @@
         },
         "command_entry1S": {
           "name": "Wejdzie 1!S"
+        },
+        "entry1N": {
+          "name": "Wejdzie 1!N",
+          "description": "Zrównoważone 15-18"
+        },
+        "command_entry1N": {
+          "name": "Wejdzie 1!N"
         },
         "entry2C": {
           "name": "Wejście 2!C",
@@ -1912,6 +1925,7 @@
       "cancel": "Anuluj",
       "no_name": "Brak nazwy"
     },
+    "scenario_edit_new_name": "{{name}} (nowy)",
     "scenario_edited_success": "Scenariusz zedytowany",
     "scenario_created_success": "Scenariusz utworzony",
     "scenario_error": "Coś poszło nie tak",
@@ -1970,7 +1984,7 @@
         "vul_all_short": "Obie po",
         "vul_any": "Dowolnie",
         "robots_none": "Brak",
-        "robots_advanced": "Zaawansowane",
+        "robots_advanced": "Super",
         "robots_multi": "Multi",
         "robots_mini_nt": "Mini NT"
       }
@@ -2066,7 +2080,7 @@
     "robots_p1": "Roboty będą cały czas pasować.",
     "robots_subtitle2": "Podstawowe roboty",
     "robots_p2": "Zalicytują swój najlepszy kolor i na podstawie łącznej długości i siły będą licytować do rozsądnego poziomu.",
-    "robots_subtitle3": "Zaawansowane roboty",
+    "robots_subtitle3": "Super roboty",
     "robots_p3": "Będą licytować jak prawdziwi ludzie (w większości przypadków) i używać systemu 5-5-3-3 lub \"Najlepszy młodszy\".",
     "robots_p4": "Dodatkowe funkcje obejmują:",
     "robots_ul_li1": "15-17 NT",
@@ -2094,6 +2108,15 @@
     "scoring_p3": "Im bliżej jesteś najlepszego kontraktu, tym więcej gwiazdek otrzymujesz (0-3).",
     "scoring_p4": "Możesz również zobaczyć % każdego rozdania, który jest porównaniem do tego, co zrobili wszyscy inni, którzy grali to samo rozdanie.",
     "scoring_p5": "Pamiętaj, że licytacje robotów nie będą brane pod uwagę przy symulacjach.",
+    "why_subscribe_title": "Co dostanę za subskrybcję?",
+    "why_subscribe_p1": "Kiedy jesteś subskrybentem, odblokowujesz więcej funkcji Cuebids i ulepszasz swój trening. Im wyższy poziom subskrybcji, tym więcej odblokwujesz. Subskrybenci Kier mają dostęp do wszystkiego. Oto niektóre funkcje, które możesz odblokować:",
+    "why_subscribe_ul_li1": "Więcej typów rozdań",
+    "why_subscribe_ul_li2": "Więcej miesięcznych biletów",
+    "why_subscribe_ul_li3": "Stwórz własne typy rozdań (Scenariusze)",
+    "why_subscribe_ul_li4": "Stwórz własne grupy",
+    "why_subscribe_ul_li5": "Graj w wydarzeniach z Lią",
+    "why_subscribe_p2": "Twoje wsparcie pozwala nam więcej pracować nad Cuebids i poprawiać je dla każdego. Dziękujemy za Wasze wsparcie!",
+    "why_subscribe_store_button": "Kliknij tu, by przejść do sklepu",
     "subscribe_title": "Jak mogę zasubskrybować?",
     "subscribe_store_button": "Kliknij tutaj, aby przejść do naszego sklepu",
     "subscribe_p1": "Odwiedź Cuebids w przeglądarce internetowej lub w aplikacji na iOS. Obecnie nie można się zapisać za pośrednictwem aplikacji na Androida.",
