@@ -1295,6 +1295,8 @@
     "refresh_button": "Refresh"
   },
   "session_deal": {
+    "alert": "Alert",
+    "alert_placeholder": "Artificial",
     "undo": "Undo",
     "undo_failed": "Undo failed",
     "undo_failed_competition": ". In competition you only have 30s to undo a bid.",
