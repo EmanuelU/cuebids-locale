@@ -1295,6 +1295,8 @@
     "refresh_button": "Ladda om"
   },
   "session_deal": {
+    "alert": "Alert",
+    "alert_placeholder": "Artificiellt",
     "undo": "Ångra",
     "undo_failed": "Ångra misslyckades.",
     "undo_failed_competition": ". I tävling har du endast 30 sekunder på dig.",
