@@ -366,20 +366,20 @@
       "bid_on_spot": {
         "header": "Nya bud",
         "text": "Det finns nya bud på ditt problem!",
-        "url": "https://budproblem.se/spots/sv/{{spotId}}"
+        "url": "https://cuebids.com/spots/sv/{{spotId}}"
       },
       "first_bid_on_spot": {
         "header": "Första budet på problem",
         "text": "Du har fått ett första svar på ditt problem!",
-        "url": "https://budproblem.se/spots/sv/{{spotId}}"
+        "url": "https://cuebids.com/spots/sv/{{spotId}}"
       },
       "comment_on_bid": {
         "header": "{{userName}} har kommenterat på ditt bud",
-        "url": "https://budproblem.sv/spots/se/{{spotId}}"
+        "url": "https://cuebids.com/spots/se/{{spotId}}"
       },
       "comment_on_bid_you_follow": {
         "header": "{{userName}} har kommenterat på ett bud du följer",
-        "url": "https://budproblem.sv/spots/se/{{spotId}}"
+        "url": "https://cuebids.com/spots/se/{{spotId}}"
       }
     },
     "successfully_created": "Problem skapat"
