@@ -710,6 +710,11 @@
     "manage_subscription_loading": "Proszę czekać",
     "functionality_collapse_title": "Funkcje",
     "auto_next_label": "Następne rozdanie po licytacji",
+    "notifications_collapse_title": "Powiadomienia",
+    "notification_devices_label": "Urządzenia do powiadomień",
+    "no_notification_devices": "Nie wskazano żadnych urządzeń do powiadomień",
+    "confirm_delete_token": "Nie będziesz dostawać powiadomień na tym urządzeniu",
+    "web": "Sieć",
     "notifications_disabled_info": "Powiadomienia są wyłączone dla tego urządzenia",
     "chat_notifications_label": "Powiadomienia o czacie",
     "poll_notifications_label": "Powiadomienia o nowych ankietach",
@@ -1295,6 +1300,8 @@
     "refresh_button": "Odśwież"
   },
   "session_deal": {
+    "alert": "Alert",
+    "alert_placeholder": "Sztuczne",
     "undo": "Cofnij",
     "undo_failed": "Cofnięcie nie powiodło się",
     "undo_failed_competition": "W grach rankingowych masz tylko 30 sekund na cofnięcie odzywki.",
