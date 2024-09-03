@@ -681,6 +681,7 @@
     "removal_warning": "Detta konto kommer tas bort. Processen kan ta upp till 30 dagar. Efter ditt konto är borta kommer det inte vara möjligt att återställa det. Om du ångrar dig innan dess, klicka här.",
     "private_apple_login": "Privat Apple-login",
     "unknown": "Okänd",
+    "account": "Konto: {{email}}",
     "account_bound": "Kontot är bundet till denna e\u2011postadress. Om du behöver byta, kontakta supporten.",
     "notifications": {
       "saved": "Inställningar sparade",

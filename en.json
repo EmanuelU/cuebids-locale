@@ -681,6 +681,7 @@
     "removal_warning": "This account has been flagged for removal. The process can take some time. After your account is gone, you will no longer be able to restore it. If you change your mind, click here.",
     "private_apple_login": "Private Apple login",
     "unknown": "Unknown",
+    "account": "Account: {{email}}",
     "account_bound": "Your account is bound to this email address. You can have a different contact email, which you can set under 'Profile'",
     "notifications": {
       "saved": "Settings saved",
