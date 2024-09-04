@@ -1334,6 +1334,8 @@
     "feedback_to_cuebids": "Feedback to Cuebids",
     "marked_for_discussion": "Flagged",
     "mark_for_discussion": "Flag for discussion",
+    "like": "Like",
+    "liked": "Liked",
     "post_poll": "Post a poll",
     "poll_not_available": "Poll creation disabled in events",
     "visit_poll": "Visit poll",
