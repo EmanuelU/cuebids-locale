@@ -7,6 +7,10 @@
     "sv": {
       "title": "{{partner}} har bjudit klart",
       "text": "Din tur att bjuda!"
+    },
+    "pl": {
+      "title": "{{partner}} skończył licytować",
+      "text": "Twoja kolej!"
     }
   },
   "partner_started_session": {
@@ -17,6 +21,10 @@
     "sv": {
       "title": "Ny session med {{partner}}",
       "text": "Partner {{partner}} har startat en ny session!"
+    },
+    "pl": {
+      "title": "Nowa sesja z {{partner}}",
+      "text": "Partner {{partner}} rozpoczął nową sesję!"
     }
   },
   "event_joined": {
@@ -27,6 +35,10 @@
     "sv": {
       "title": "Spela event",
       "text": "Du har gått med i {{event}} med partner {{partner}}"
+    },
+    "pl": {
+      "title": "Dołączono do wydarzenia",
+      "text": "Dołączono do {{event}} z partnerem {{partner}}"
     }
   },
   "session_finished": {
@@ -37,6 +49,10 @@
     "sv": {
       "title": "Session avklarad",
       "text": "Du och {{partner}} har bjudit klart"
+    },
+    "pl": {
+      "title": "Sesja zakończona",
+      "text": "Ty i {{partner}} skończyliście licytację"
     }
   },
   "new_friend": {
@@ -47,6 +63,10 @@
     "sv": {
       "title": "Ny vän",
       "text": "{{partner}} har lagt till dig som vän"
+    },
+    "pl": {
+      "title": "Nowy znajomy",
+      "text": "{{partner}} dodał cię do znajomych"
     }
   },
   "friend_request": {
@@ -57,6 +77,10 @@
     "sv": {
       "title": "Ny vänförfrågan",
       "text": "{{partner}} har skickat en vänförfrågan"
+    },
+    "pl": {
+      "title": "Zaproszenie do znajomych",
+      "text": "{{partner}} wysłał Ci zaproszenie do znajomych"
     }
   },
   "challenged": {
@@ -67,6 +91,10 @@
     "sv": {
       "title": "Utmanad!",
       "text": "{{opponent1}} och {{opponent2}} har utmanat er"
+    },
+    "pl": {
+      "title": "Wyzwanie!",
+      "text": "{{opponent1}} i {{opponent2}} rzucili ci wyzwanie"
     }
   },
   "found_matchmaking": {
@@ -77,6 +105,10 @@
     "sv": {
       "title": "Partner hittad",
       "text": "En session har startats med {{partner}} - lycka till!"
+    },
+    "pl": {
+      "title": "Znaleziono mecz",
+      "text": "Rozpoczęto sesję z {{partner}} - powodzenia!"
     }
   },
   "found_challenge": {
@@ -87,6 +119,10 @@
     "sv": {
       "title": "Utmaning startad",
       "text": "Mot {{opponent1}} och {{opponent2}}"
+    },
+    "pl": {
+      "title": "Rozpoczęto wyzwanie",
+      "text": "Kontra {{opponent1}} i {{opponent2}}"
     }
   },
   "group_event_invite": {
@@ -97,16 +133,24 @@
     "sv": {
       "title": "Inbjudan att spela",
       "text": "{{partner}} har bjudit in dig att spela eventet: {{event}}"
+    },
+    "pl": {
+      "title": "Zaproszenie do gry",
+      "text": "{{partner}} zaprosił Cię do zagrania wydarzenia: {{event}}"
     }
   },
   "group_event_accepted": {
     "en": {
-      "title": "Invited accepted",
+      "title": "Invite accepted",
       "text": "{{partner}} has accepted your invite to play event: {{event}}"
     },
     "sv": {
       "title": "Inbjudan att spela",
       "text": "{{partner}} accepterat din inbjudan att spela eventet: {{event}}"
+    },
+    "pl": {
+      "title": "Zaproszenie przyjęte",
+      "text": "{{partner}} zaakceptował twoje zaproszenie do gry w wydarzeniu: {{event}}"
     }
   },
   "group_invite": {
@@ -117,6 +161,10 @@
     "sv": {
       "title": "Gruppinbjudan",
       "text": "Du har blivit inbjuden till gruppen: {{group}}"
+    },
+    "pl": {
+      "title": "Zaproszenie do grupy",
+      "text": "Zostałeś zaproszony do grupy: {{group}}"
     }
   },
   "group_added": {
@@ -127,6 +175,10 @@
     "sv": {
       "title": "Tillagd i grupp",
       "text": "Du har blivit tillagd i gruppen: {{group}}"
+    },
+    "pl": {
+      "title": "Dodano do grupy",
+      "text": "Zostałeś dodany do grupy: {{group}}"
     }
   },
   "group_promotion": {
@@ -137,6 +189,10 @@
     "sv": {
       "title": "Premium gruppmedlem",
       "text": "Du har blivit premium i gruppen: {{group}}"
+    },
+    "pl": {
+      "title": "Członek premium grupy",
+      "text": "Zostałeś awansowany na członka premium grupy: {{group}}"
     }
   },
   "new_group_event": {
@@ -147,6 +203,10 @@
     "sv": {
       "title": "Premium gruppmedlem",
       "text": "Du har blivit premium i gruppen: {{group}}"
+    },
+    "pl": {
+      "title": "Członek premium grupy",
+      "text": "Zostałeś awansowany na członka premium grupy: {{group}}"
     }
   },
   "session_shared": {
@@ -157,6 +217,10 @@
     "sv": {
       "title": "Session delad",
       "text": "{{user}} delade en session med dig"
+    },
+    "pl": {
+      "title": "Udostępniono sesję",
+      "text": "{{user}} udostępnił Ci sesję"
     }
   },
   "new_performance_reports": {
@@ -167,6 +231,10 @@
     "sv": {
       "title": "Nya veckorapporter",
       "text": "Den här veckan bjöd du {{dealsFinished}} givar med {{numberOfPartners}} partners och du snittade {{averageGrade}} stjärnor!"
+    },
+    "pl": {
+      "title": "Nowy raport tygodnia",
+      "text": "W tym tygodniu zagrałeś {{dealsFinished}} rozdań z {{numberOfPartners}} partnerami i uzyskałeś średnio {{averageGrade}} gwiazdek!"
     }
   }
 }
