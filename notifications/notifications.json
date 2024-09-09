@@ -1,0 +1,172 @@
+{
+  "partner_finished_bidding": {
+    "en": {
+      "title": "{{partner}} finished bidding",
+      "text": "It's your turn!"
+    },
+    "sv": {
+      "title": "{{partner}} har bjudit klart",
+      "text": "Din tur att bjuda!"
+    }
+  },
+  "partner_started_session": {
+    "en": {
+      "title": "New session with {{partner}}",
+      "text": "Partner {{partner}} started a new session!"
+    },
+    "sv": {
+      "title": "Ny session med {{partner}}",
+      "text": "Partner {{partner}} har startat en ny session!"
+    }
+  },
+  "event_joined": {
+    "en": {
+      "title": "Event joined",
+      "text": "You have joined the {{event}} with partner {{partner}}"
+    },
+    "sv": {
+      "title": "Spela event",
+      "text": "Du har gått med i {{event}} med partner {{partner}}"
+    }
+  },
+  "session_finished": {
+    "en": {
+      "title": "Session finished",
+      "text": "You and {{partner}} finished bidding"
+    },
+    "sv": {
+      "title": "Session avklarad",
+      "text": "Du och {{partner}} har bjudit klart"
+    }
+  },
+  "new_friend": {
+    "en": {
+      "title": "New friend",
+      "text": "{{partner}} added you as a friend"
+    },
+    "sv": {
+      "title": "Ny vän",
+      "text": "{{partner}} har lagt till dig som vän"
+    }
+  },
+  "friend_request": {
+    "en": {
+      "title": "Friend request",
+      "text": "{{partner}} sent you a friend request"
+    },
+    "sv": {
+      "title": "Ny vänförfrågan",
+      "text": "{{partner}} har skickat en vänförfrågan"
+    }
+  },
+  "challenged": {
+    "en": {
+      "title": "Challenged!",
+      "text": "{{opponent1}} and {{opponent2}} challenged you"
+    },
+    "sv": {
+      "title": "Utmanad!",
+      "text": "{{opponent1}} och {{opponent2}} har utmanat er"
+    }
+  },
+  "found_matchmaking": {
+    "en": {
+      "title": "Found a match",
+      "text": "A session has started with {{partner}} - good luck!"
+    },
+    "sv": {
+      "title": "Partner hittad",
+      "text": "En session har startats med {{partner}} - lycka till!"
+    }
+  },
+  "found_challenge": {
+    "en": {
+      "title": "Challenge started",
+      "text": "Versus {{opponent1}} and {{opponent2}}"
+    },
+    "sv": {
+      "title": "Utmaning startad",
+      "text": "Mot {{opponent1}} och {{opponent2}}"
+    }
+  },
+  "group_event_invite": {
+    "en": {
+      "title": "Invited to play",
+      "text": "{{partner}} invited you to play the event: {{event}}"
+    },
+    "sv": {
+      "title": "Inbjudan att spela",
+      "text": "{{partner}} har bjudit in dig att spela eventet: {{event}}"
+    }
+  },
+  "group_event_accepted": {
+    "en": {
+      "title": "Invited accepted",
+      "text": "{{partner}} has accepted your invite to play event: {{event}}"
+    },
+    "sv": {
+      "title": "Inbjudan att spela",
+      "text": "{{partner}} accepterat din inbjudan att spela eventet: {{event}}"
+    }
+  },
+  "group_invite": {
+    "en": {
+      "title": "Group invite",
+      "text": "You have been invited to the group: {{group}}"
+    },
+    "sv": {
+      "title": "Gruppinbjudan",
+      "text": "Du har blivit inbjuden till gruppen: {{group}}"
+    }
+  },
+  "group_added": {
+    "en": {
+      "title": "Added to group",
+      "text": "You have been added to the group: {{group}}"
+    },
+    "sv": {
+      "title": "Tillagd i grupp",
+      "text": "Du har blivit tillagd i gruppen: {{group}}"
+    }
+  },
+  "group_promotion": {
+    "en": {
+      "title": "Premium group member",
+      "text": "You have been promoted to a premium member of the group: {{group}}"
+    },
+    "sv": {
+      "title": "Premium gruppmedlem",
+      "text": "Du har blivit premium i gruppen: {{group}}"
+    }
+  },
+  "new_group_event": {
+    "en": {
+      "title": "Premium group member",
+      "text": "You have been promoted to a premium member of the group: {{group}}"
+    },
+    "sv": {
+      "title": "Premium gruppmedlem",
+      "text": "Du har blivit premium i gruppen: {{group}}"
+    }
+  },
+  "session_shared": {
+    "en": {
+      "title": "Session shared",
+      "text": "{{user}} shared a session with you"
+    },
+    "sv": {
+      "title": "Session delad",
+      "text": "{{user}} delade en session med dig"
+    }
+  },
+  "new_performance_reports": {
+    "en": {
+      "title": "New weekly reports",
+      "text": "This week you completed {{dealsFinished}} deals with {{numberOfPartners}} partners and you averaged {{averageGrade}} stars!"
+    },
+    "sv": {
+      "title": "Nya veckorapporter",
+      "text": "Den här veckan bjöd du {{dealsFinished}} givar med {{numberOfPartners}} partners och du snittade {{averageGrade}} stjärnor!"
+    }
+  }
+}
