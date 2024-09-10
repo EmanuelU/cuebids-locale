@@ -155,13 +155,13 @@
       "robot_info": "To jest robot, z którym możesz ćwiczyć licytację.",
       "send_friend_request": "Wyślij zaproszenie do znajomych",
       "friend_request_sent": "Zaproszenie do znajomych wysłane do {{displayName}}",
-      "total_stars": "Łączna liczba gwiazdek",
+      "total_stars": "Wszystkie gwiazdki",
       "weekly_wins": "Wygrane tygodniówki",
       "daily_wins": "Wygrane dniówki"
     },
     "user_display": {
       "unknown_user": "Nieznany użytkownik",
-      "last_seen": "Ostatnio widziany {{date}}"
+      "last_seen": "Ostatnio widziano {{date}}"
     }
   },
   "store": {
@@ -581,10 +581,10 @@
     "ranked": "Rankingowe",
     "friendly": "Towarzyskie",
     "wdl": "W/R/P",
-    "win_percent": "Procent wygranych",
+    "win_percent": "%wygranych",
     "boards": "Rozdania",
     "with": "Z",
-    "tot_avg": "SUMA/ŚREDNIA",
+    "tot_avg": "SUMA/ŚRD",
     "more_stats": "Więcej statystyk wyzwań",
     "most_frequent_partner": "Najczęstszy partner",
     "most_frequent_matchup": "Najczęstsze pojedynki",
@@ -2103,7 +2103,7 @@
     "lia_title": "Kim jest Lia - Bot?",
     "lia_p1": "Lia to bot licytacyjny od IntoBridge. Możesz ćwiczyć z Lią, wybierając ją jako swojego partnera z listy.",
     "lia_p2": "Lia gra system SAYC 2/1 i będzie wyjaśniać zarówno swoje odzywki, jak i twoje.",
-    "lia_p3": "Pamiętaj, że mimo że Lia może licytować dość dobrze, nie jest ekspertem i popełnia błędy. Proszę, bądź wyrozumiały!",
+    "lia_p3": "Pamiętaj, że mimo że Lia może licytować dość dobrze, nie jest ekspertem i popełnia błędy. Prosimy o wyrozumiałość!",
     "percentage_title": "Co oznacza % przy rozdaniu?",
     "percentage_p1": "Oprócz punktacji gwiazdkowej, w której Twój wynik jest porównywany do teoretycznie najlepszego wyniku w rozdaniu, jesteś również porównywany do tego, co zrobiły w rozdaniu <strong>wszystkie inne pary</strong>.",
     "percentage_p2": "Do tego używany jest system maksowy.",
@@ -2221,7 +2221,7 @@
     "description": "Zagraj 8 rozdań w jeden dzień przeciw zaawansowanym robotom",
     "partner_label": "Partner",
     "lia_sub_error": "Musisz mieć subskrypcję Diamond, aby grać z Lią w Dniówce.",
-    "fair_play_info": "Proszę o uczciwą grę i nie oszukiwanie ani nie nadużywanie aplikacji, aby uzyskać lepszy wynik. Usuniemy wszelkie nieuczciwe wyniki i wygrane.",
+    "fair_play_info": "Prosimy o uczciwą grę i nie oszukiwanie, ani nie nadużywanie aplikacji, aby uzyskać lepszy wynik. Usuniemy wszelkie nieuczciwe wyniki i wygrane.",
     "already_participating_error": "Już bierzesz udział w tej Dniówce.",
     "partner_participating_error": "Twój partner już bierze udział w tej Dniówce.",
     "banned_error": "Twoje konto jest tymczasowo zawieszone w grach rankingowych.",
@@ -2244,7 +2244,7 @@
     "description": "Zagraj 24 rozdania w tydzień przeciw zaawansowanym robotom",
     "partner_label": "Partner",
     "lia_sub_error": "Musisz mieć subskrypcję Karo, aby grać z Lią w Tygodniówce.",
-    "fair_play_info": "Proszę o uczciwą grę i nie oszukiwanie ani nadużywanie aplikacji, aby uzyskać lepszy wynik. Usuniemy wszelkie nieuczciwe wyniki i wygrane.",
+    "fair_play_info": "Prosimy o uczciwą grę i nie oszukiwanie, ani nie nadużywanie aplikacji, aby uzyskać lepszy wynik. Usuniemy wszelkie nieuczciwe wyniki i wygrane.",
     "already_participating_error": "Już bierzesz udział w tej Tygodniówce.",
     "partner_participating_error": "Twój partner już bierze udział w tej Tygodniówce.",
     "banned_error": "Twoje konto jest tymczasowo zawieszone w grach rankingowych.",
@@ -2340,7 +2340,7 @@
     "select_weekly_info": "Wybierz i zobacz więcej danych",
     "daily_info": "Twoje wyniki w Dniówkach",
     "daily": "Dniówki",
-    "select_daily_info": "Wybierz i zobacz więcej danyc",
+    "select_daily_info": "Wybierz i zobacz więcej danych",
     "no_weekly_info": "Nie ukończyłeś żadnych Tygodniówek w ciągu ostatnich 20 tygodni",
     "no_daily_info": "Nie ukończyłeś żadnych Dniówek w ciągu ostatnich 30 dni"
   },
