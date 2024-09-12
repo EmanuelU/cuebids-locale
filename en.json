@@ -875,6 +875,7 @@
     "no_mutual_friends_info": "You don't have any mutual friends. Make sure you have not accidentally blocked each other. Both you and your partner should check the 'Show blocked' option in the friends area.",
     "scenario_robot_conflict": "Some selected scenarios have a conflict between the robot settings",
     "not_enough_scenarios": "Not enough scenario deals in stock. Please generate more.",
+    "not_enough_deals": "Not enough deals available to start the session, contact support@cuebids.com",
     "error_creating_session": "Something went wrong. Please try again.",
     "starting": "Starting session...",
     "boards": "Boards",
@@ -892,7 +893,8 @@
   "deal_type_select": {
     "random": "Random hands",
     "deal_types": "Deal types",
-    "no_types": "No types..."
+    "no_types": "No types...",
+    "v4_beta": "This is a beta test of the new scoring system. Please report any issues to support@cuebids.com or in the Cuebids Discord server."
   },
   "deal_types": {
     "weak1N": "Balanced 10-13",
@@ -923,7 +925,8 @@
     "michaels": "Two Suited Overcall",
     "oppsMichaels": "Opps Two Suited Overcall",
     "vs2DMulti": "Opps 2D Multi",
-    "weakTwoX": "Double After Weak Two"
+    "weakTwoX": "Double After Weak Two",
+    "v4Beta": "New Scoring Test"
   },
   "groups": {
     "replace_deal_confirm": "Are you sure you want to replace this deal? Once replaced the deal is gone forever. Also note that the new deal might get a different number than the old.",

@@ -874,6 +874,7 @@
     "no_mutual_friends_info": "Nie macie żadnych wspólnych znajomych. Upewnijcie się, że przypadkowo nie zablokowaliście się nawzajem. Powinniście oboje zaznaczyć opcję 'Pokaż zablokowanych' w sekcji znajomych.",
     "scenario_robot_conflict": "Niektóre wybrane scenariusze kłócą się z ustawieniami robotów",
     "not_enough_scenarios": "Niewystarczająca liczba dostępnych scenariuszy. Proszę wygenerować więcej.",
+    "not_enough_deals": "Niewystarczająca liczba dostępnych. Skontaktuj się z pomocą techniczną na support@cuebids.com",
     "error_creating_session": "Coś poszło nie tak. Spróbuj ponownie.",
     "starting": "Rozpoczynanie sesji...",
     "boards": "Rozdania",
@@ -891,7 +892,8 @@
   "deal_type_select": {
     "random": "Losowe rozdania",
     "deal_types": "Typy rozdań",
-    "no_types": "Brak typów..."
+    "no_types": "Brak typów...",
+    "v4_beta": "To jest test wersji beta nowego systemu punktacji. Prosimy o zgłaszanie wszelkich problemów na adres support@cuebids.com lub na serwerze Discord Cuebids."
   },
   "deal_types": {
     "weak1N": "Zrównoważone 10-13",
@@ -922,7 +924,8 @@
     "michaels": "Blok dwukolorowy",
     "oppsMichaels": "Dwukolorówka oponenta",
     "vs2DMulti": "2D Multi przeciwnika",
-    "weakTwoX": "Kontra po słabych dwóch"
+    "weakTwoX": "Kontra po słabych dwóch",
+    "v4Beta": "New Scoring Test"
   },
   "groups": {
     "replace_deal_confirm": "Czy na pewno chcesz zamienić to rozdanie? Po zamianie rozdanie zostanie trwale usunięte.",
