@@ -875,6 +875,7 @@
     "no_mutual_friends_info": "Du har inga gemensamma vänner. Besök vänsidan för att lägga till vänner. Kontrollera så att ni inte råkat blockera varandra.",
     "scenario_robot_conflict": "Valda scenarion har konflikter med robotar. Vänligen välj andra robotar eller scenarion.",
     "not_enough_scenarios": "Inte tillräckligt med givar för detta scenario. Vänligen generera fler.",
+    "not_enough_deals": "Inte tillräckligt med givar för detta antal brickor. Kontakta support@cuebids.com",
     "error_creating_session": "Något gick fel. Vänligen försök igen.",
     "starting": "Startar session...",
     "boards": "Brickor",
@@ -892,7 +893,8 @@
   "deal_type_select": {
     "random": "Slumpade händer",
     "deal_types": "Givtyper",
-    "no_types": "Inga typer..."
+    "no_types": "Inga typer...",
+    "v4_beta": "Detta är en beta test av det nya scoringsystemet. Skicka gärna in synpunkter till support@cuebids.com eller på Cuebids Discord server."
   },
   "deal_types": {
     "weak1N": "Balans 10-13",
@@ -923,7 +925,8 @@
     "michaels": "Tvåfärgsinkliv",
     "oppsMichaels": "Fi Tvåfärgsinkliv",
     "vs2DMulti": "Fi 2ru Multi",
-    "weakTwoX": "UD efter svaga två"
+    "weakTwoX": "UD efter svaga två",
+    "v4Beta": "New Scoring Test"
   },
   "groups": {
     "replace_deal_confirm": "Är du säker på att du vill byta ut given? Det går inte att ångra. Notera också att den nya given kan få ett annat nummer än den gamla.",

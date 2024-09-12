@@ -1,46 +1,46 @@
 {
-  "locale": "en",
-  "lia_lang": "en",
+  "locale": "fr",
+  "lia_lang": "fr",
   "bridge": {
     "vulnerability": {
-      "name": "Vulnerability",
+      "name": "Vulnérabilité",
       "vulnerable": "Vuln",
       "not_vulnerable": "Non vuln",
-      "vuln_vs_not_vuln": "Unfavourable",
-      "not_vuln_vs_vuln": "Favourable",
-      "NONE": "None",
-      "EW": "East/West",
-      "NS": "North/South",
-      "ALL": "All"
+      "vuln_vs_not_vuln": "Défavorable",
+      "not_vuln_vs_vuln": "Favorable",
+      "NONE": "Aucun",
+      "EW": "Est/Ouest",
+      "NS": "Nord/Sud",
+      "ALL": "Tous"
     },
     "hand": {
-      "HCP": "HCP"
+      "HCP": "DH"
     },
     "scoring": {
       "name": "Form",
-      "TEAMS": "Teams",
-      "PAIRS": "Pairs",
+      "TEAMS": "Equipe",
+      "PAIRS": "Paire",
       "BAM": "BAM",
       "RUBBER": "Rubber"
     },
-    "dealer": "Dealer",
+    "dealer": "Donneur",
     "directions": {
-      "N": "North",
-      "E": "East",
-      "S": "South",
-      "W": "West",
-      "P": "None"
+      "N": "Nord",
+      "E": "Est",
+      "S": "Sud",
+      "W": "Ouest",
+      "P": "Aucun"
     },
     "directions_short": {
       "N": "N",
       "E": "E",
       "S": "S",
-      "W": "W"
+      "W": "O"
     }
   },
   "components" : {
     "select_fed": {
-      "title": "Polls"
+      "title": "Sondage"
     },
     "challenge_timer": {
       "end_at_reset": "Challenge will end at daily reset."
@@ -49,465 +49,465 @@
       "contact": "Contact"
     },
     "daily_card": {
-      "title": "Daily event",
-      "pairs": "pairs",
-      "continue": "Continue",
+      "title": "Evénement quotidien",
+      "pairs": "Paires",
+      "continue": "Continuez",
       "leaderboard": "Leaderboard",
-      "join_event": "Join event"
+      "join_event": "Rejoignez l’événement"
     },
     "weekly_card": {
-      "title": "Weekly event",
-      "pairs": "pairs",
-      "continue": "Continue",
+      "title": "Evénement hebdomadaire",
+      "pairs": "Paires",
+      "continue": "Continuez",
       "leaderboard": "Leaderboard",
-      "join_event": "Join event"
+      "join_event": "Rejoignez l’événement"
     },
     "group_event_card": {
-      "pairs": "pairs",
-      "join_event": "Join event",
-      "finished": "Finished",
-      "details": "Details"
+      "pairs": "Paires",
+      "join_event": "Rejoignez l’événement",
+      "finished": "Fini",
+      "details": "Détails"
     },
     "event_timer": {
       "scored_in": "Event scored in",
-      "scoring": "Scoring in progress...",
-      "starts_soon": "Starts soon",
-      "has_ended": "{{label}} has ended",
-      "w": "w",
-      "d": "d",
+      "scoring": "Notation en cours...",
+      "starts_soon": "Débute bientôt",
+      "has_ended": "{{label}} est achevé",
+      "w": "sem",
+      "d": "j",
       "h": "h",
       "m": "m",
       "s": "s"
     },
     "bidding_box": {
-      "good_luck": "Good luck!"
+      "good_luck": "Bonne chance !"
     },
     "challenge_card": {
-      "win": "Win",
-      "loss": "Loss",
-      "draw": "Draw",
+      "win": "Victoire",
+      "loss": "Défaite",
+      "draw": "Nul",
       "pro": "PRO"
     },
     "chat": {
-      "placeholder": "Type your message...",
-        "send": "Send"
+      "placeholder": "Tapez votre message...",
+      "send": "Envoi"
     },
     "unscored_deal": {
-      "contract": "Contract",
-      "stars": "Stars",
-      "fast_scoring" : "Fast scoring",
-      "regular_scoring" : "Regular scoring"
+      "contract": "Contrat",
+      "stars": "Etoiles",
+      "fast_scoring" : "Classement rapide",
+      "regular_scoring" : "Classement normal"
     },
     "group_card": {
-      "premium_group_badge": "PREMIUM GROUP"
+      "premium_group_badge": "GROUPE PREMIUM"
     },
     "group_header": {
-      "premium_group_badge": "PREMIUM GROUP"
+      "premium_group_badge": "GROUPE PREMIUM"
     },
     "select_partnership_dropdown": {
-      "select_pair": "Select pair"
+      "select_pair": "Selectionnez la paire"
     },
     "select_friend_dropdown": {
-      "not_mutual_error": "Could not select this user, not mutual friends.",
-      "no_matches": "No friends match filter..."
+      "not_mutual_error": "Impossible de sélectionner ce joueur, vous n’êtes pas amis.",
+      "no_matches": "Aucun ami ne respecte les critères..."
     },
     "error_boundary": {
-      "info_1": "An error occurred, please try again. If the error persists you can reach us on ",
+      "info_1": "Une erreur s’est produite, merci de réessayer. Si l’erreur persiste, vous pouvez nous contacter sur ",
       "info_2": "Discord",
-      "info_3": " or send an email to ",
+      "info_3": " ou envoyer un email à ",
       "info_4": "support@cuebids.com",
       "info_5": ".",
-      "try_again": "Try again"
+      "try_again": "Réssayez"
     },
     "weekly_ended": {
-      "info": "This weekly has ended and your results will not be submitted to the leaderboard. However, you can still finish bidding the session."
+      "info": "Cet événement hebdomadaire est terminé et vos résultats ne seront pas pris en compte dans le classement. Cependant, vous pouvez encore finir d’enchérir cette session."
     },
     "invite": {
-      "remove": "Remove",
-      "join_event_error": "Error when joining event ({{error}})",
-      "accept": "Accept",
-      "reject": "Reject",
-      "price_dialog_title": "Accept invite",
-      "price_dialog_confirm": "Accept"
+      "remove": "Retirer",
+      "join_event_error": "Erreur en rejoignant l’événement ({{error}})",
+      "accept": "Acceptez",
+      "reject": "Rejetez",
+      "price_dialog_title": "Acceptez l’invitation",
+      "price_dialog_confirm": "Acceptez"
     },
     "price": {
-      "price": "Price ",
-      "free": "FREE"
+      "price": "Prix ",
+      "free": "GRATUIT"
     },
     "remaining_tickets_warning": {
-      "you_cannot_afford_partner_heart": "You cannot afford this price, but since your partner is a heart sub you can play anyway!",
-      "you_cannot_afford_partner_heart_short": "You cannot afford this price, but since your partner is a heart sub you can play anyway!",
-      "you_cannot_afford": "You cannot afford this price. Get the heart sub to play as much as you want. Click to open store.",
-      "you_cannot_afford_short": "You cannot afford this price. Get the heart sub to play as much as you want.",
-      "partner_cannot_afford_you_heart": "Partner cannot afford this price, but since you are a heart sub they can play anyway!",
-      "partner_cannot_afford_you_heart_short": "Partner cannot afford this price, but since you are a heart sub they can play anyway!",
-      "partner_cannot_afford_you_pay": "Partner cannot afford this price. You can pay for their missing tickets.",
-      "partner_cannot_afford_you_pay_short": "Partner cannot afford this price. You can pay for their missing tickets.",
-      "partner_cannot_afford_get_heart": "Partner cannot afford this price. If you get the heart sub you can play as much as you want. Click to open store.",
-      "partner_cannot_afford_get_heart_short": "Partner cannot afford this price. If you get the heart sub you can play as much as you want."
+      "you_cannot_afford_partner_heart": "Vous n’avez pas assez pour payer le prix, mais votre partenaire ayant souscrit l’abonnement Coeur, vous pouvez jouer quand même !",
+      "you_cannot_afford_partner_heart_short": "Vous n’avez pas assez pour ce prix, mais votre partenaire étant Coeur, vous pouvez jouer quand même !",
+      "you_cannot_afford": "Vous n’avez pas assez pour payer ce prix. Prenez l’abonnement coeur pour jouer autant que vous le souhaitez. Cliquez pour ouvrir la boutique.",
+      "you_cannot_afford_short": "Vous n’avez pas assez pour ce prix. Prenez l’abonnement coeur pour jouer autant que vous le souhaitez.",
+      "partner_cannot_afford_you_heart": "Votre partenaire ne peut payer, mais comme vous êtes Coeur, vous pouvez jouer quand même !",
+      "partner_cannot_afford_you_heart_short": "Votre partenaire ne peut payer le prix, mais comme vous êtes Coeur, vous pouvez jouer quand même !",
+      "partner_cannot_afford_you_pay": "Votre partenaire ne peut payer le prix, mais vous pouvez payer les tickets manquants à sa place.",
+      "partner_cannot_afford_you_pay_short": "Votre partenaire ne peut payer le prix, mais vous pouvez payer les tickets manquants.",
+      "partner_cannot_afford_get_heart": "Votre partenaire ne peut payer le prix, si vous prenez l’abonnement Coeur, vous pourrez jouer autant que vous le souhaitez. Cliquez pour ouvrir la boutique.",
+      "partner_cannot_afford_get_heart_short": "Votre partenaire ne peut payer, si vous prenez l’abonnement Cœur, vous pourrez jouer autant que vous le souhaitez."
     },
     "user_card": {
       "junior": "U18",
-      "junior_info": "U18 means they are a junior under the age of 18. Juniors can apply for junior membership of Cuebids via our contacts form.",
+      "junior_info": "U18 signifie qu’ils sont juniors (moins de 18 ans). Les juniors peuvent demander à bénéficier d’un abonnement à un tarif réduit par notre formulaire de contact.",
       "pro": "PRO",
-      "pro_info": "Pros are professional bridge players. In the comparison section of a board, you can compare your results to all the Pros. If you are a professional and would like this badge, please contact us.",
+      "pro_info": "Les pros sont des joueurs de bridge professionnels. Dans la section de comparaison d’une donne, vous pouvez comparer vos résultats à tous ceux des pros. Si vous êtes un professionnel et souhaitez bénéficier de ce badge, contactez nous.",
       "robot": "ROBOT",
-      "robot_info": "This is a robot you can practice bidding with.",
-      "send_friend_request": "Send friend request",
-      "friend_request_sent": "Friend request sent to {{displayName}}",
-      "total_stars": "Total stars",
-      "weekly_wins": "Weekly wins",
-      "daily_wins": "Daily wins"
+      "robot_info": "Ceci est un robot avec lequel vous pouvez vous entraîner à enchérir.",
+      "send_friend_request": "Demander à être ami",
+      "friend_request_sent": "Demander à être ami avec {{displayName}}",
+      "total_stars": "Nombre total d’étoiles",
+      "weekly_wins": "Evénements hebdomadaires gagnés",
+      "daily_wins": "Evénements quotidiens gagnés"
     },
     "user_display": {
-      "unknown_user": "Unknown user",
-      "last_seen": "Last seen {{date}}"
+      "unknown_user": "Utilisateur inconnu",
+      "last_seen": "Vu pour la dernière fois le {{date}}"
     }
   },
   "store": {
-    "not_available":  "Not available",
-    "per_month": "/month",
-    "per_year": "/year",
-    "trial_pre_styled": "Start ",
-    "trial_styled": " FREE  ",
-    "trial_post_styled": " trial",
-    "subscribe": "Subscribe",
-    "store_not_available": "Store is not available",
-    "interval_monthly": "Monthly",
-    "interval_yearly": "Yearly (20% off)",
-    "sub_map_club": "Subscribe to unlock more features and get more tickets!",
-    "sub_map_diamond": "Subscribe to unlock more features and get more tickets!",
-    "sub_map_heart_pre_styled": "Unlock ",
-    "sub_map_heart_styled": "everything",
+    "not_available":  "Indisponible",
+    "per_month": "/mois",
+    "per_year": "/an",
+    "trial_pre_styled": "Débutez",
+    "trial_styled": "un essai",
+    "trial_post_styled": "GRATUIT",
+    "subscribe": "Abonnez vous",
+    "store_not_available": "La boutique est indisponible",
+    "interval_monthly": "Mensuellement",
+    "interval_yearly": "Annuellement (20% de remise)",
+    "sub_map_club": "Abonnez vous pour débloquer plus de fonctionnalités et avoir plus de tickets !",
+    "sub_map_diamond": " Abonnez vous pour débloquer plus de fonctionnalités et avoir plus de tickets !",
+    "sub_map_heart_pre_styled": "Débloquez ",
+    "sub_map_heart_styled": "tout",
     "sub_map_heart_post_styled": "!",
-    "payment_loading": "Please wait while we transfer you to our payment platform",
-    "select_currency": "Please select your currency.",
-    "currency": "Currency",
-    "subscription": "{{sub}} subscription",
+    "payment_loading": "Merci d’attendre pendant que nous vous connectons à notre plateforme de paiement",
+    "select_currency": "Merci de sélectionner votre devise.",
+    "currency": "Devise",
+    "subscription": "{{sub}} abonnement",
     "subs": {
-      "heart": "Heart",
-      "diamond": "Diamond",
-      "club": "Club"
+      "heart": "Coeur",
+      "diamond": "Carreau",
+      "club": "Trèfles"
     },
     "tab_tickets": "Tickets",
-    "tab_subscriptions": "Subscriptions",
-    "tickets_info_1": "Tickets are used for events, challenges and advanced practice modes.",
-    "tickets_info_2": "Here, you can buy packs of tickets that lasts until spent.",
-    "thanks": "Thanks!",
-    "already_subscribed": "You are already subscribed!",
-    "iap_sub_info": "It looks like you subscribed via the Cuebids mobile app. To manage your subscription, please use the app.",
-    "group_sub_info": "You have been given a free subscription from one of your groups. Enjoy!",
-    "junior_sub_info": "You have been given a free subscription since you are a junior. Enjoy!",
+    "tab_subscriptions": "Abonnements",
+    "tickets_info_1": "Les tickets sont utilisés pour les événements, les challenges et pour les modes avancés d’entraînement.",
+    "tickets_info_2": "Ici, vous pouvez acheter des packs de tickets, sans limite de validité.",
+    "thanks": "Merci !",
+    "already_subscribed": "Vous êtes déja abonné !",
+    "iap_sub_info": "Il semble que vous vous êtes abonnés par l’application mobile. Pour gérer votre inscription, merci d’utiliser l’application.",
+    "group_sub_info": "Vous avez reçu une inscription gratuite de la part d’un de vos groups. Profitez en !",
+    "junior_sub_info": "Vous avez reçu une inscription gratuite car vous êtes junior. Profitez en !",
     "upgrade_to_diamond": {
-      "info_1": "Upgrade to ",
-      "info_2": "Diamond",
-      "info_3": " for ",
+      "info_1": "Evoluez vers",
+      "info_2": "Carreau",
+      "info_3": " pour avoir ",
       "info_4": "240",
-      "info_5": " tickets each month and ",
-      "info_6": "more",
-      "info_7": " deal types"
+      "info_5": " tickets chaque mois et ",
+      "info_6": "accès à plus",
+      "info_7": " de types de donne"
     },
     "upgrade_to_heart": {
-      "info_1": "Upgrade to ",
-      "info_2": "Heart",
-      "info_3": " for ",
-      "info_4": "infinite",
-      "info_5": " tickets and access to ",
-      "info_6": "all",
-      "info_7": " deal types"
+      "info_1": "Evoluez vers ",
+      "info_2": "Coeur",
+      "info_3": " pour avoir ",
+      "info_4": "un nombre infini",
+      "info_5": " de tickets et un accès à",
+      "info_6": "tous",
+      "info_7": " les types de donne"
     },
-    "manage_subscription_pre_styled": "Click ",
-    "manage_subscription_styled": "Manage Subscription",
-    "manage_subscription_post_styled": " and then click update plan.",
+    "manage_subscription_pre_styled": "Cliquez sur",
+    "manage_subscription_styled": "Gestion de l’abonnement",
+    "manage_subscription_post_styled": " et après cliquez sur mise à jour de ??.",
     "already_heart": {
-      "info_1": "Heart subscription is the highest subscription and includes ",
-      "info_2": "infinite",
-      "info_3": " tickets and access to ",
-      "info_4": "all",
-      "info_5": " deal types"
+      "info_1": "L’abonnement Coeur est l’abonnement de plus haut niveau et il inclut",
+      "info_2": "un nombre infini",
+      "info_3": "de tickets et un accès à",
+      "info_4": "tous",
+      "info_5": "les types de donne"
     },
-    "manage_subscription" : "Manage Subscription",
-    "manage_subscription_loading" : "Please wait",
-    "subscribe_info_1": "Subscribe to unlock more features and get a steady flow of tickets.",
-    "subscribe_info_2": "Each month, your subscription tickets will be refreshed.",
-    "subscribe_info_3": "Tickets are used for <strong>events</strong> and <strong>advanced practice</strong>.",
-    "subscribe_info_4_pre_styled": "Subscribers can also access and practice ",
-    "subscribe_info_4_styled": "deal types",
-    "subscribe_info_4_post_styled": ", such as Jacoby 2NT.",
-    "subscribe_info_5_1": "Heart subscribers",
-    "subscribe_info_5_2": " enjoy an <strong>infinite</strong> amount of tickets and access to <strong>all</strong> deal types.",
+    "manage_subscription" : "Gestion de l’abonnement",
+    "manage_subscription_loading" : "Merci d’attendre",
+    "subscribe_info_1": "Abonnez vous pour débloquer de nouvelles fonctionnalités et bénéficier de tickets régulièrement.",
+    "subscribe_info_2": "Chaque mois, your subscription tickets will be refreshed.",
+    "subscribe_info_3": "Les tickets sont utilisés pour <strong>les événements</strong> et <strong>les pratiques avancées</strong>.",
+    "subscribe_info_4_pre_styled": "Les abonnés peuvent aussi avoir accès et s’entraîner",
+    "subscribe_info_4_styled": "avec des types de donne",
+    "subscribe_info_4_post_styled": "comme le 2SA Jacoby.",
+    "subscribe_info_5_1": "L’abonnement Coeur",
+    "subscribe_info_5_2": "donne un nombre <strong>infini</strong> de tickets et accès à <strong>tous</strong> les types de donne.",
     "club": {
-      "title": "Club",
-      "deal_types_info": "<strong>5</strong> Deal types",
-      "tickets_per_month": " Tickets per month"
+      "title": "Trèfle",
+      "deal_types_info": "<strong>5</strong> types de donne",
+      "tickets_per_month": " Tickets par mois"
     },
     "diamond": {
-      "most_popular": "MOST POPULAR",
-      "title": "Diamond",
-      "deal_types_info": "<strong>10</strong> Deal types",
-      "tickets_per_month": " Tickets per month"
+      "most_popular": "LE PLUS POPULAIRE",
+      "title": "Carreau",
+      "deal_types_info": "<strong>10</strong> types de donne",
+      "tickets_per_month": " Tickets par mois"
     },
     "heart": {
-      "unlock_everything": "UNLOCK EVERYTHING",
-      "title": "Heart",
-      "deal_types_info": "<strong>All</strong> Deal types",
-      "endless_tickets": "<strong>Endless</strong> Tickets"
+      "unlock_everything": "DEBLOQUEZ TOUT",
+      "title": "Coeur",
+      "deal_types_info": "<strong>Tous</strong> les types de donnes",
+      "endless_tickets": "<strong>Nombre illimité</strong> de tickets"
     },
-    "payment_failed": "Payment failed. Please try again.",
+    "payment_failed": "Le paiement a échoué. Merci de réessayer.",
     "50 Tickets": "50 Tickets",
     "250 Tickets": "250 Tickets",
     "1500 Tickets": "1500 Tickets"
   },
   "go_to_store": {
-    "no_iap_error": "Store is currently not available in the mobile app. Please visit our website to subscribe to Cuebids."
+    "no_iap_error": "La boutique est actuellement indisponible dans l’application mobile. Merci d’utiliser notre site web pour vous abonner à Cuebids."
   },
   "store_thanks": {
-    "title": "Thanks for your support!",
-    "info": "We hope you continue to enjoy Cuebids",
+    "title": "Merci pour votre soutien !",
+    "info": "Nous espérons que vous continuerez à profiter de Cuebids",
     "to_start_page": "To start page",
-    "50_tickets": "You have received 50 tickets",
-    "250_tickets": "You have received 250 tickets",
-    "1500_tickets": "You have received 1500 tickets",
+    "50_tickets": "Vous avez reçu 50 tickets",
+    "250_tickets": "Vous avez reçu 250 tickets",
+    "1500_tickets": "Vous avez reçu 1500 tickets",
     "club": {
-      "info_1_pre_styled": "You are now a ",
-      "info_1_styled": "Club",
-      "info_1_post_styled": " subscriber",
-      "info_2": "Please enjoy the deal types and the extra tickets!"
+      "info_1_pre_styled": "Vous êtes maintenant un abonné ",
+      "info_1_styled": "Trèfle",
+      "info_1_post_styled": "",
+      "info_2": "Profitez des types de donne et de tickets supplémentaires !"
     },
     "diamond": {
-      "info_1_pre_styled": "You are now a ",
-      "info_1_styled": "Diamond",
-      "info_1_post_styled": " subscriber",
-      "info_2": "Please enjoy the deal types and the extra tickets!"
+      "info_1_pre_styled": "Vous êtes maintenant un abonné ",
+      "info_1_styled": "Carreau",
+      "info_1_post_styled": "",
+      "info_2": "Profitez des types de donne et de tickets supplémentaires !"
     },
     "heart": {
-      "info_1_pre_styled": "You are now a ",
-      "info_1_styled": "Heart",
-      "info_1_post_styled": " subscriber",
-      "info_2_pre_styled": "You have unlocked everything in Cuebids: All the deal types and on top - ",
-      "info_2_styled": "you have endless tickets."
+      "info_1_pre_styled": "Vous êtes maintenant un abonné ",
+      "info_1_styled": "Coeur",
+      "info_1_post_styled": "",
+      "info_2_pre_styled": "Vous avez accès à tout Cuebids : tous les types de donne et surtout,",
+      "info_2_styled": "vous avez un nombre illimité de tickets."
     }
   },
   "marketing": {
-    "go_store": "Go to store",
-    "unlock_more": "Get More with Diamond",
-    "unlock_all": "Unlock all features",
-    "features_requires": "This feature requires a ",
-    "heart_sub": "Heart subscription",
-    "diamond_sub": "Diamond subscription",
-    "club_sub": "Club subscription",
-    "start_trial": "Start free trial",
-    "subscribe": "Subscribe",
-    "no_thanks": "No thanks",
-    "free": "Free",
-    "club": "Club",
-    "diamond": "Diamond",
-    "heart": "Heart",
-    "infinite": "Unlimited",
-    "all": "ALL",
+    "go_store": "Allez à la boutique",
+    "unlock_more": "Obtenez en plus avec l’abonnement Carreau",
+    "unlock_all": "Débloquez toutes les fonctionnalités",
+    "features_requires": "Cette fonctionnalité nécessite un ",
+    "heart_sub": "abonnement Coeur",
+    "diamond_sub": "abonnement Carreau",
+    "club_sub": "abonnement Trèfle",
+    "start_trial": "Commencez un essai gratuit",
+    "subscribe": "Inscrivez vous",
+    "no_thanks": "Non, merci",
+    "free": "Gratuit",
+    "club": "Trèfle",
+    "diamond": "Carreau",
+    "heart": "Coeur",
+    "infinite": "Illimité",
+    "all": "TOUT",
     "tickets": "Tickets",
-    "deal_types": "Deal types",
-    "custom_scenarios": "Custom scenarios",
-    "private_groups": "Private groups"
+    "deal_types": "Types de donne",
+    "custom_scenarios": "Scénarios personnalisés",
+    "private_groups": "Groupes privés"
   },
   "spots": {
-    "select_fed": "Select where to post",
-    "title": "Bidding polls",
-    "create_new_spot_button": "Create poll",
-    "get_random_spot": "Random poll",
-    "spot_collapse_header": "The problem",
+    "select_fed": "Choisissez où poster",
+    "title": "Sondages d’enchères",
+    "create_new_spot_button": "Créez un sondage",
+    "get_random_spot": "Sondage aléatoire",
+    "spot_collapse_header": "Le problème",
     "labels": {
-      "by": "By",
+      "by": "Par",
       "description": "Description",
-      "hand": "Hand",
-      "reason": "Reasoning",
-      "bid": "Bid"
+      "hand": "Main",
+      "reason": "Raisonnement",
+      "bid": "Enchère"
     },
     "warnings": {
-      "too_many_cards": "Too many cards",
-      "too_few_cards": "Too few cards",
-      "login_to_bid": "You must be logged in to bid",
-      "login_to_create": "You must be logged in to create a poll",
-      "select_bid": "Select a bid",
-      "description_required": "Describe the poll in more details..."
+      "too_many_cards": "Trop de cartes",
+      "too_few_cards": "Pas assez de cartes",
+      "login_to_bid": "Vous devez être connecté pour enchérir",
+      "login_to_create": "Vous devez être connecté pour créer un sondage",
+      "select_bid": "Choisissez votre enchère",
+      "description_required": "Décrivez le sondage avec plus de détails..."
     },
-    "undo_bid_button": "Undo bid",
+    "undo_bid_button": "Annuler l’enchère",
     "spot_description_input": "Description",
-    "spot_include_answer_input": "Include answer",
-    "spot_answer_input": "Answer (optional, shown to people after they reply)",
-    "spot_create_submit": "Create poll",
+    "spot_include_answer_input": "Inclure la réponse",
+    "spot_answer_input": "Réponse (optionnel, sera montrée aux utilisateurs quand ils auront répondu)",
+    "spot_create_submit": "Créez un sondage",
     "bid_description_input": {
-      "placeholder": "Reasoning goes here... You can type !s for spades, !h for hearts, !d for diamonds and !c for clubs."
+      "placeholder": "Expliquez votre enchère... Vous pouvez écrire !s pour piques, !h pour coeurs, !d pour carreau and !c pour trèfle."
     },
     "bid_display-name_input": {
-      "placeholder": "Enter your name"
+      "placeholder": "Entrez votre nom"
     },
-    "no_responses": "No responses yet",
-    "bid_confirm_button": "Submit bid",
-    "bid_abstain_button": "Abstain",
-    "bid_abstain_confirm": "Are you sure you want to abstain from answering this poll? (You will still be able to see what others have bid.)",
-    "reply_placeholder": "Reply...",
-    "reply_button": "Send",
+    "no_responses": "Pas encore de réponses",
+    "bid_confirm_button": "Soumettre l’enchère",
+    "bid_abstain_button": "S’abstenir",
+    "bid_abstain_confirm": "Etes-vous sûr que vous voulez vous abstenir de répondre à ce sondage ? (vous verrez quand même les enchères des autres joueurs.)",
+    "reply_placeholder": "Réponse...",
+    "reply_button": "Envoi",
     "total": "Total",
-    "other": "Other",
-    "all": "All",
-    "friends": "Friends",
-    "mine": "Mine",
+    "other": "Autre",
+    "all": "Tout",
+    "friends": "Amis",
+    "mine": "Les miens",
     "pros": "Pros",
     "pros_new": "Apply here to become a ",
-    "delete": "Delete poll",
-    "delete_confirm": "Are you sure you want to delete this poll?",
-    "spot_delete_error": "Something went wrong. If there are 10 answers you cannot delete the poll anymore.",
-    "edit": "Edit poll",
-    "spot_edit_submit": "Edit poll",
-    "spot_edit_error": "Something went wrong. If there are 10 answers you cannot edit the poll anymore.",
-    "footer": "Perfect your bidding at Cuebids.com",
+    "delete": "Supprimer le sondage",
+    "delete_confirm": "Etes-vous sûr de vouloir supprimer ce sondage ?",
+    "spot_delete_error": "Quelque chose s’est mal passé. S’il y a plus de 10 réponses, vous ne pouvez plus supprimer ce sondage.",
+    "edit": "Modifier le sondage",
+    "spot_edit_submit": "Modifier le sondage",
+    "spot_edit_error": "Quelque chose s’est mal passé. S’il y a plus de 10 réponses, vous ne pouvez plus modifier ce sondage.",
+    "footer": "Améliorez vos enchères sur Cuebids.com",
     "notifications": {
       "bid_on_spot": {
-        "header": "New bids on poll",
-        "text": "There are new bids on your poll!",
+        "header": "Nouvelles enchères sur le sondage",
+        "text": "Il y a de nouvelles enchères pour votre sondage !",
         "url": "https://cuebids.com/spots/en/{{spotId}}"
       },
       "first_bid_on_spot": {
-        "header": "First bid on poll",
-        "text": "You got your first reply to your poll!",
-        "url": "https://cuebids.com/spots/en/{{spotId}}"
+        "header": "Première enchère pour ce sondage",
+        "text": "Vous avez reçu la première réponse à votre sondage !",
+        "url": "https://cuebids.com/spots/fr/{{spotId}}"
       },
       "comment_on_bid": {
-        "header": "{{userName}} has commented on your bid",
-        "url": "https://cuebids.com/spots/en/{{spotId}}"
+        "header": "{{userName}} a commenté votre enchère",
+        "url": "https://cuebids.com/spots/fr/{{spotId}}"
       },
       "comment_on_bid_you_follow": {
-        "header": "{{userName}} has commented on a bid you follow",
-        "url": "https://cuebids.com/spots/en/{{spotId}}"
+        "header": "{{userName}} a commenté une enchère que vous suivez",
+        "url": "https://cuebids.com/spots/fr/{{spotId}}"
       }
     },
-    "successfully_created": "Poll created"
+    "successfully_created": "Sondage créé"
   },
   "leaderboard": {
-    "empty": "Leaderboard empty"
+    "empty": "Le classement est vide"
   },
   "navbar": {
     "tickets": "tickets",
-    "tickets_usage": "Tickets are used in events, challenges and advanced robot games.",
-    "you_have": "You have",
-    "messages": "messages",
-    "subscription_tickets": "Subscription tickets",
-    "refreshed": "are refreshed",
-    "monthly": "monthly.",
-    "extra_tickets": "Extra tickets",
-    "saved_for_last": "are always saved for last.",
-    "as_a": "As a",
-    "you_get": "you have",
-    "infinite": "unlimited",
-    "heart": "Heart",
-    "diamond": "Diamond",
-    "club": "Club",
-    "subscriber": " subscriber",
-    "each_month": "each month",
-    "free_user_tickets": "As a free user, you will have {{tickets}} tickets each month.",
-    "upgrade_cta": "Upgrade now to get more tickets and other benefits!",
-    "no_iap": "You can buy tickets on our website."
+    "tickets_usage": " Les tickets sont utilisés pour les événements, les challenges et pour les modes avancés avec le robot.",
+    "you_have": "Vous avez",
+    "messages": "des messages",
+    "subscription_tickets": "Les tickets des abonnements",
+    "refreshed": "sont mis à jour",
+    "monthly": "mensuellement.",
+    "extra_tickets": "Les tickets supplémentaires",
+    "saved_for_last": "sont toujours conservés pour durer.",
+    "as_a": "Comme",
+    "you_get": "vous avez",
+    "infinite": "illimité",
+    "heart": "Coeur",
+    "diamond": "Carreau",
+    "club": "Trèfle",
+    "subscriber": " abonné",
+    "each_month": "chaque mois",
+    "free_user_tickets": "En tant qu’utilisateur gratuit, vous aurez {{tickets}} tickets chaque mois.",
+    "upgrade_cta": "Mettez à niveau maintenant pour avoir plus de tickets et d’autres avantages !",
+    "no_iap": "Vous pouvez acheter des tickets sur note site web."
   },
   "onboarding": {
-    "welcome_title": "Welcome, {{name}}",
-    "skip_step": "Skip step",
+    "welcome_title": "Bienvenue, {{name}}",
+    "skip_step": "Passez l’étape",
     "step_settings": {
-      "title": "Check settings",
-      "text": " Click the menu at the top right, and then 'Settings' Make changes to how you display cards, or other features. Remember to hit save!"
+      "title": "Vérifiez les paramètres",
+      "text": " Cliquez sur le menu en haut à droite, puis sur 'Paramètres'. Faites des changements sur comment les cartes seront affichées et d’autres réglages. N’oubliez pas de cliquer sur sauvegarder !"
     },
     "step_bidding": {
-      "title": "Bidding",
-      "text": "Try bidding a couple of boards with Lia the bot. Lia will bid using 2 over 1 system! You will learn how bidding on Cuebids works",
-      "more": "If you want to play with a friend instead, you can skip this step.",
-      "try": "Try a session with Lia",
-      "lia_session_started": "Session with Lia has started. Find it at the bottom of this page.",
-      "click_on_session": "Click on a deal to navigate to it. If the row is highlighted, it is your turn to bid.",
-      "partners_turn": "It's your partner's turn on all deals.",
-      "partners_turn_deal": "It is your partner's turn to bid on this deal. Click the green button to go to the next deal where it is your turn.",
-      "click_to_navigate": "Click on the session to navigate to it. If the row is red you have deals where it is your turn.",
-      "compare": "Here you can see what others have done. Click on a contract row to see who has bid that. Click on a pair to see how they bid.",
-      "contracts": "Here you can see some other hypothetical contracts and what they would have scored.",
-      "error": "Error when creating session ({{error}})"
+      "title": "Enchère",
+      "text": "Essayer d’enchérir quelques donnes avec le robot Lia. Lia enchérira en utilisant le système 2 sur 2 ! Vous apprendrez comment les enchères fonctionnent sur Cuebid",
+      "more": "Si vous préférez jouer avec un ami, vous pouvez passer cette étape.",
+      "try": "Essayez une une session avec Lia",
+      "lia_session_started": "La session avec Lia a commencé. Vous la trouverez en bas de la page.",
+      "click_on_session": "Cliquez sur une donne pour naviguer vers elle. Si la ligne est surlignée, c’est votre tour d’enchérir.",
+      "partners_turn": "C’est le tour de votre partenaire sur toutes les donnes.",
+      "partners_turn_deal": "C’est le tour de votre partenaire d’enchérir cette donne. Cliquez sur le bouton vert pour aller à la donne suivante que vous devez enchérir.",
+      "click_to_navigate": "Cliquez sur une session pour naviguer vers elle. Si la ligne est rouge, vous avez des donnes à enchérir.",
+      "compare": "Ici, vous pouvez voir ce que les autres ont fait. Cliquez sur un contrat, pour voir qui a fait cette enchère. Cliquez sur une paire pour voir comment ils ont enchéri.",
+      "contracts": "Ici vous pouvez vour les autres contrats possibles et quelle note leur est donnée.",
+      "error": "Erreur en créant la session ({{error}})"
     },
     "step_friend": {
-      "title": "Add a friend",
-      "pending_requests_info": "You do not have any mutual friends. Perhaps your partner has not accepted your friend request yet.",
-      "info": "There are four ways you can add friends. You can get to the friends page in the bottom menu, at the rightmost option. Then you click the \"Add\" button.",
-      "friend_key_info": "Add your friend via their <strong>Friend Key</strong>.",
-      "search_info": "Find your friend by searching for their name. Send them a friend request when you find them.",
-      "send_friend_key_info": "Send your friend your <strong>Friend Key</strong>. They can then add you as a friend.",
-      "your_key": "Your key: ",
-      "link_info": "Send your friend your invite link. You can copy the link on the \"Add friends\" page. When they follow the link you will become friends.",
-      "no_partner_info": "If you would like to bid without a partner, there are two ways to do that",
-      "lia_info": "Play with <strong>Lia - The Bot</strong>, by clicking on <strong>Practice</strong> and then <strong>With Robot</strong>.",
-      "matchmaking_info": "Click on <strong>Practice</strong> and then <strong>Random partner</strong>. Note that it might take a while to find a partner this way."
+      "title": "Ajoutez un ami",
+      "pending_requests_info": "Vous n’avez pas d’ami communs. Peut être que votre partenaire n’a pas encore accepté vour demande d’ami.",
+      "info": "Il y a 4 manières pour ajouter des amis. Vous devez aller sur la page des amis, tout à droite dans le menu du bas. Puis cliquez sur le bouton \"Ajouter\".",
+      "friend_key_info": "Ajouter un ami via le <strong>Code Ami</strong>.",
+      "search_info": "Trouvez votre ami en cherchant avec son nom. Envoyez-lui une demande d’ami quand vous l’aurez trouvé.",
+      "send_friend_key_info": "Envoyez à votre ami votre <strong>Code Ami</strong>. Il pourra vous ajouter comme ami.",
+      "your_key": "Votre code : ",
+      "link_info": "Envoyez le lien d’invitation à votre ami. Vous pouvez copier le lien sur la page \"Ajouter des amis\". Quand ils utiliseront le lien, vous deviendrez amis.",
+      "no_partner_info": "Si vous souhaitez enchérir sans partenaire, il y a 2 manières de le faire",
+      "lia_info": "Jouez avec <strong>Lia – Le robot</strong>, en cliquant sur <strong>Entrainement</strong> puis sur <strong>Avec Robot</strong>.",
+      "matchmaking_info": "Cliquez sur <strong>Entraînement</strong> puis sur <strong>Partner aléatoire</strong>. Attention, cela peut prendre un peu de temps pour trouver un partenaire de cette manière."
     },
     "step_help": {
-      "title": "More information",
-      "info_1_pre_link": "On our ",
-      "info_1_link": "FAQ page",
-      "info_1_post_link": " you will find more information on how Cuebids works.\nFor example you can read more about the grading system and our robots.\nYou can reach it from the menu and can come back to it at any time.",
-      "info_2_pre_link": "If you would like to contact us, check out the",
-      "info_2_link": "contact page",
+      "title": "Plus d’informations",
+      "info_1_pre_link": "sur notre ",
+      "info_1_link": "page des FAQ",
+      "info_1_post_link": " vous trouverez plus d’informations sur comment Cuebids fonctionne.\nPar exemple, vous pouvez en savoir plus sur le système de notation et nos robots.\nVous pouvez y accéder à partir du menu et y revenir à n’importe quel moment.",
+      "info_2_pre_link": "Si vous voulez nous contacter, consultez la",
+      "info_2_link": "page de contact",
       "info_2_post_link": ".",
-      "info_3_pre_link": "To chat, provide feedback or talk to developers and users - ",
-      "info_3_link": "Join our Discord server",
-      "enjoy": "Enjoy Cuebids!",
-      "confirm": "Got it!"
+      "info_3_pre_link": "Pour échanger, faire des commentaires ou parler aux développeurs et utilisateurs - ",
+      "info_3_link": "Rejoignez notre serveur Discord",
+      "enjoy": "Profitez de Cuebids !",
+      "confirm": "J’ai compris !"
     },
     "step_create_session": {
-      "title": "Start bidding",
-      "info": "Now you can start bidding with your friends! You or your partner should create a session. In the menu above, click on <strong>Practice</strong> and then <strong>With a friend</strong>. You can also bid with <strong>Lia</strong> this way.",
-      "link": "or click here"
+      "title": "Commencer à enchérir",
+      "info": "Maintenant, vous pouvez commencer à enchérir avec vos amis ! Vous ou votre partenaire pouvez créer une session. Dans le menu ci-dessus, cliquez sur <strong>Entraînement</strong> et puis sur <strong>avec un ami</strong>. Vous pouvez aussi enchérir avec <strong>Lia</strong> this way.",
+      "link": "ou cliquez ici"
     }
   },
   "session": {
-    "shared_with_users": "Shared with {{users}} users",
-    "share_session": "Share session",
-    "share": "Share",
-    "shared_notification": "Session shared!",
-    "share_with": "Share with",
-    "share_with_friends": "When you share a session with a friend, they can flag deals and participate in the chat.",
-    "unshare": "Unshare",
-    "unshared_notification": "Session unshared",
-    "remove_access_for": "Remove access for",
-    "hand": "Hand",
-    "deals_left": "Deals left",
+    "shared_with_users": "Partagé avec {{users}} users",
+    "share_session": "Partager la session",
+    "share": "Partagée",
+    "shared_notification": "Session partagée !",
+    "share_with": "Partagé avec",
+    "share_with_friends": "Quand vous partagez une session avec un ami, il peut signaler des donnes et participer au chat.",
+    "unshare": "Non partagé",
+    "unshared_notification": "Session non partagée",
+    "remove_access_for": "Supprimer l’accès à",
+    "hand": "Main",
+    "deals_left": "Donnes restantes",
     "print": {
-      "title": "Print this session",
-      "confirm_button": "Confirm",
-      "info_1": "This session will be printed as a PDF file and sent to your email address ",
-      "info_2": "If this is not the correct email address, please update it in your profile settings.",
-      "warning_not_finished": "You can only print finished sessions.",
-      "warning_no_email": "Your account is missing an email adress.",
-      "warning_missing_sub": "You need a Diamond subscription to print sessions."
+      "title": "Imprimer cette session",
+      "confirm_button": "Confirmer",
+      "info_1": "Cette session sera imprimée en fichier PDF et envoyée à votre adresse email",
+      "info_2": "Si cette adresse email n’est pas correct, merci de la mettre à jour dans les paramètres de votre profil.",
+      "warning_not_finished": "Vous ne pouvez imprimer que les sessions terminées.",
+      "warning_no_email": "L’adresse email est manquante dans votre profil.",
+      "warning_missing_sub": "UN abonnement Carreau est nécessaire pour imprimer des sessions."
     },
     "delete": {
-      "title": "Delete this session",
-      "confirm_button": "Confirm",
-      "info": "Confirm deletion of this session. It will not be possible to restore it.",
-      "info_weekly": "Even if you delete a weekly session, you will not be able to participate again this week.",
-      "info_daily": "Even if you delete a daily session, you will not be able to participate again today."
+      "title": "Supprimer cette session",
+      "confirm_button": "Confirmer",
+      "info": "Confirmez la suppression de cette session. Il ne sera pas possible de la restaurer.",
+      "info_weekly": "Même si vous effacer une session hebdomadaire, vous ne pourrez plus participer à nouveau cette semaine.",
+      "info_daily": " Même si vous effacer une session quotidienne, vous ne pourrez plus participer à nouveau aujourd’hui."
     },
     "pro_badge": "PRO",
-    "advanced_robots": "Advanced Robots",
-    "basic_robots": "Basic Robots"
+    "advanced_robots": "Robots avancés",
+    "basic_robots": "Robots basiques"
   },
   "friends": {
-    "select_friend": "Select friend",
-    "add_friends_cta": "Visit friends page and add some friends to play with"
+    "select_friend": "Sélectionnez un ami",
+    "add_friends_cta": "Visitez la page des amis et ajoutez vos amis pour enchérir avec eux"
   },
   "profile": {
-    "notifications_saved": "Settings saved",
+    "notifications_saved": "Paramètres sauvegardés",
     "avatar": "Avatar",
-    "display_name": "Display name",
-    "display_name_placeholder": "Enter a user name",
-    "new_spots_notifications": "Notifications for new polls",
+    "display_name": "Nom affiché",
+    "display_name_placeholder": "Entrez un nom d’utilisateur",
+    "new_spots_notifications": "Notifications pour les nouveaux sondages",
     "errors": {
-      "display_name_too_short": "Too short",
-      "display_name_forbidden_characters": "Forbidden characters",
-      "display_name_invalid": "Invalid display name"
+      "display_name_too_short": "Trop court",
+      "display_name_forbidden_characters": "Caractères interdits",
+      "display_name_invalid": "Nom affiché invalide"
     }
   },
   "login": {
@@ -696,7 +696,7 @@
     "email_placeholder": "example@cuebids.com",
     "avatar_label": "Avatar",
     "flag_label": "Flag",
-    "flag_automatic": "Get automatically ",
+    "flag_automatic": "Get automatically ",
     "public_flag_label": "Public flag",
     "verify_mid": "Verifiera medlemsnummer",
     "connect_to_sbf": "Koppla konto till Sbf",
@@ -875,7 +875,6 @@
     "no_mutual_friends_info": "You don't have any mutual friends. Make sure you have not accidentally blocked each other. Both you and your partner should check the 'Show blocked' option in the friends area.",
     "scenario_robot_conflict": "Some selected scenarios have a conflict between the robot settings",
     "not_enough_scenarios": "Not enough scenario deals in stock. Please generate more.",
-    "not_enough_deals": "Not enough deals available to start the session, contact support@cuebids.com",
     "error_creating_session": "Something went wrong. Please try again.",
     "starting": "Starting session...",
     "boards": "Boards",
@@ -893,8 +892,7 @@
   "deal_type_select": {
     "random": "Random hands",
     "deal_types": "Deal types",
-    "no_types": "No types...",
-    "v4_beta": "This is a beta test of the new scoring system. Please report any issues to support@cuebids.com or in the Cuebids Discord server."
+    "no_types": "No types..."
   },
   "deal_types": {
     "weak1N": "Balanced 10-13",
@@ -925,8 +923,7 @@
     "michaels": "Two Suited Overcall",
     "oppsMichaels": "Opps Two Suited Overcall",
     "vs2DMulti": "Opps 2D Multi",
-    "weakTwoX": "Double After Weak Two",
-    "v4Beta": "New Scoring Test"
+    "weakTwoX": "Double After Weak Two"
   },
   "groups": {
     "replace_deal_confirm": "Are you sure you want to replace this deal? Once replaced the deal is gone forever. Also note that the new deal might get a different number than the old.",
@@ -2081,7 +2078,7 @@
     "add_friends_p5": "Your key: ",
     "add_friends_p6": "Send your friend your invite link. You can copy the link on the \"Add\u00A0friends\" page. When they follow the link you will become friends.",
     "friend_gone_title": "I can no longer see my friend",
-    "friend_gone_p1": "Make sure you did not <strong>accidentally block each other</strong>. Both you and your partner should check the \"Show blocked\" option in the friends area. You can access the friends page from the rightmost option in the bottom menu.",
+    "friend_gone_p1": "Make sure you did not <strong>accidentally block each other</strong>. Both you and your partner should check the \"Show blocked\" option in the friends area. You can access the friends page from the rightmost option in the bottom menu.",
     "stars_title": "How do stars work?",
     "stars_p1": "Each board is scored with a star rating: <strong>0-3</strong>",
     "stars_p2": "The better you did the more stars you get.",
@@ -2307,7 +2304,7 @@
     "status_following": "Following"
   },
   "friends_page": {
-    "my_key": "My key: ",
+    "my_key": "My key: ",
     "add_button": "Add",
     "show_blocked_count": "Show blocked ({{count}})",
     "show_blocked": "Show blocked",
