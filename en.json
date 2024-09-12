@@ -789,7 +789,10 @@
     "progress": "Progress",
     "pairs": "pairs",
     "gift_friend_yearly": "Gift your friend a year of Cuebids",
-    "show_older_sessions": "Show older sessions"
+    "show_older_sessions": "Show older sessions",
+    "no_tickets": "<strong>Subscribe</strong> or buy <strong>Tickets</strong> in the <strong>Store<strong>",
+    "no_subscription": "<strong>Subscribe</strong> to unlock more <strong>features</strong>",
+    "no_heart_subscription": "Get a <strong>Heart Subscription</strong> to unlock everything"
   },
   "practice": {
     "title": "Practice bidding",
