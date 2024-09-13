@@ -137,13 +137,13 @@
     "remaining_tickets_warning": {
       "you_cannot_afford_partner_heart": "Du har inte råd med priset, men eftersom din partner är hjärterprenumerant kan du spela ändå!",
       "you_cannot_afford_partner_heart_short": "Du har inte råd med priset, men eftersom din partner är hjärterprenumerant kan du spela ändå!",
-      "you_cannot_afford": "Du har inte råd med priset. Bli hjärterprenumerant för att spela obegränsat. Klicka för att öppna shoppen.",
+      "you_cannot_afford": "Du har inte råd med priset. Bli hjärterprenumerant för att spela obegränsat. Klicka för att öppna butiken.",
       "you_cannot_afford_short": "Du har inte råd med priset. Bli hjärterprenumerant för att spela obegränsat.",
       "partner_cannot_afford_you_heart": "Din partner har inte råd med priset, men eftersom du är en hjärterprenumerant kan de spela ändå!",
       "partner_cannot_afford_you_heart_short": "Din partner har inte råd med priset, men eftersom du är en hjärterprenumerant kan de spela ändå!",
       "partner_cannot_afford_you_pay": "Din partner har inte råd med priset. Du kan betala för deras saknade biljetter.",
       "partner_cannot_afford_you_pay_short": "Din partner har inte råd med priset. Du kan betala för deras saknade biljetter.",
-      "partner_cannot_afford_get_heart": "Din partner har inte råd med priset. Om du blir hjärterprenumerant kan du spela obegränsat. Klicka för att öppna shoppen.",
+      "partner_cannot_afford_get_heart": "Din partner har inte råd med priset. Om du blir hjärterprenumerant kan du spela obegränsat. Klicka för att öppna butiken.",
       "partner_cannot_afford_get_heart_short": "Din partner har inte råd med priset. Om du blir hjärterprenumerant kan du spela obegränsat."
     },
     "user_card": {
@@ -172,7 +172,7 @@
     "trial_styled": " GRATIS  ",
     "trial_post_styled": " testperiod",
     "subscribe": "Prenumerera",
-    "store_not_available": "Shoppen inte tillgänglig",
+    "store_not_available": "Butiken är inte tillgänglig",
     "interval_monthly": "Månatligen",
     "interval_yearly": "Årligen (20% rabatt)",
     "sub_map_club": "Prenumerera för att låsa upp fler funktioner och få fler biljetter!",
@@ -259,7 +259,7 @@
     "1500 Tickets": "1500 Biljetter"
   },
   "go_to_store": {
-    "no_iap_error": "Shoppen finns för närvarande inte i mobilappen. Vänligen besök vår hemsida för att prenumerera på Cuebids."
+    "no_iap_error": "Butiken finns för närvarande inte i mobilappen. Vänligen besök vår hemsida för att prenumerera på Cuebids."
   },
   "store_thanks": {
     "title": "Tack för ditt stöd!",
@@ -289,7 +289,7 @@
     }
   },
   "marketing": {
-    "go_store": "Gå till shoppen",
+    "go_store": "Gå till butiken",
     "unlock_more": "Få mer med Ruter",
     "unlock_all": "Lås upp allt",
     "features_requires": "Denna funktion kräver en ",
@@ -789,7 +789,10 @@
     "progress": "Framsteg",
     "pairs": "par",
     "gift_friend_yearly": "Ge en vän ett år av Cuebids",
-    "show_older_sessions": "Visa äldre sessioner"
+    "show_older_sessions": "Visa äldre sessioner",
+    "no_tickets": "<strong>Prenumerera</strong> eller köp <strong>Biljetter</strong> i <strong>Butiken<strong>",
+    "no_subscription": "<strong>Prenumerera</strong> för att låsa upp mer <strong>Funktioner</strong>",
+    "no_heart_subscription": "Bli <strong>Hjärterprenumerant</strong> för tillgång till allt!"
   },
   "practice": {
     "title": "Träna budgivning",
@@ -883,7 +886,7 @@
     "scenarios": "Scenarion",
     "deal_types": "Givtyper",
     "read_more_deal_types": "Läs mer om givtyper här",
-    "sub_not_enough_deal_types": "Du behöver en högre prenumeration för att kunna använda dessa givtyper. Klicka här för att gå till shoppen.",
+    "sub_not_enough_deal_types": "Du behöver en högre prenumeration för att kunna använda dessa givtyper. Klicka här för att gå till butiken.",
     "scenario_missing": "Något som saknas? ",
     "scenario_missing_info": "Skapa nytt eller generera fler",
     "create_new_session": "Skapa ny session",
@@ -2130,16 +2133,16 @@
     "why_subscribe_ul_li4": "Skapa dina egna Grupper",
     "why_subscribe_ul_li5": "Spela event med Lia",
     "why_subscribe_p2": "Ditt stöd hjälper oss att arbeta mer på Cuebids och förbättra det för alla. Tack för ditt stöd!",
-    "why_subscribe_store_button": "Klicka här för att gå till vår shop",
+    "why_subscribe_store_button": "Klicka här för att gå till vår butik",
     "subscribe_title": "Hur prenumererar jag?",
-    "subscribe_store_button": "Klicka här för att gå till vår shop",
+    "subscribe_store_button": "Klicka här för att gå till vår butik",
     "subscribe_p1": "Besök Cuebids i en webbläsare eller i iOS-appen. För närvarande är det inte möjligt att prenumerera via Android-appen.",
-    "subscribe_p2": "Gå sedan till Shoppen (hjärtikonen på startsidan) och välj en prenumeration.",
+    "subscribe_p2": "Gå sedan till Butiken (hjärtikonen på startsidan) och välj en prenumeration.",
     "tickets_title": "Vad är biljetter?",
     "tickets_p1": "Biljetter används för att spela event, utmaningar eller träna med avancerade robotar.",
     "tickets_p2": "Varje månad får du nya biljetter. Prenumeranter får fler biljetter. Klöverprenumeranter får 96 biljetter per månad, Ruterprenumeranter får 240 biljetter och Hjärterprenumeranter får obegränsat med biljetter. Du kan också köpa biljetter separat.",
-    "tickets_p3": "Kolla in shoppen för mer detaljer.",
-    "tickets_store_button": "Klicka här för att gå till vår shop",
+    "tickets_p3": "Kolla in butiken för mer detaljer.",
+    "tickets_store_button": "Klicka här för att gå till vår butik",
     "events_title": "Hur fungerar event?",
     "events_p1": "Det finns två event för tillfället:",
     "events_ul_li1": "<strong>Veckans tävling</strong> - 24 givar, startar om varje måndag 00:00 (CET).",
