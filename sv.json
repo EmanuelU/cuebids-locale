@@ -2221,6 +2221,7 @@
     "continue": "Fortsätt Dagens tävling",
     "completed": "Dagens tävling avslutad",
     "to_start": "Till startsidan",
+    "your_position": "Din placering: {{position}} utav {{count}} par",
     "participants": "{{count}} par har gått med i dagens tävling",
     "leaderboard_minimum": "Minst 15 stjärnor krävs för att hamna på topplistan.",
     "leaderboard_title": "Topp 10"
@@ -2244,6 +2245,7 @@
     "continue": "Fortsätt Veckans tävling",
     "completed": "Veckans tävling avslutad",
     "to_start": "Till startsidan",
+    "your_position": "Din placering: {{position}} utav {{count}} par",
     "participants": "{{count}} par har gått med i veckans tävling",
     "leaderboard_minimum": "Minst 45 stjärnor krävs för att hamna på topplistan.",
     "leaderboard_title": "Topp 10"
