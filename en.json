@@ -2220,6 +2220,7 @@
     "continue": "Continue Daily",
     "completed": "Daily completed",
     "to_start": "To start",
+    "your_position": "Your position: {{position}} out of {{count}} pairs",
     "participants": "{{count}} pairs have joined this event",
     "leaderboard_minimum": "A minimum of 15 stars is required to be considered for the leaderboard.",
     "leaderboard_title": "Top 10"
@@ -2244,6 +2245,7 @@
     "completed": "Weekly completed",
     "to_start": "To start",
     "participants": "{{count}} pairs have joined this event",
+    "your_position": "Your position: {{position}} out of {{count}} pairs",
     "leaderboard_minimum": "A minimum of 45 stars is required to be considered for the leaderboard.",
     "leaderboard_title": "Top 10"
   },
