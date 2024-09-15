@@ -430,19 +430,6 @@
       "contracts": "Här kan du se olika kontrakt och hur många stjärnor de hade fått.",
       "error": "Något gick fel med att skapa sessionen ({{error}})"
     },
-    "step_friend": {
-      "title": "Lägg till vän",
-      "pending_requests_info": "Du har inga gemensamma vänner. Kanske har din partner inte accepterat din vänförfrågan än.",
-      "info": "Det finns fyra sätt att lägga till vänner. Du kan navigera till vänsidan via bottenmenyn, på det högraste alternativet. Sedan klickar du på \"Lägg till\"-knappen.",
-      "friend_key_info": "Lägg till din vän via deras <strong>Vännyckel</strong>.",
-      "search_info": "Hitta din vän genom att söka på deras namn. Skicka en vänförfrågan när du hittat dem.",
-      "send_friend_key_info": "Skicka din <strong>Vännyckel</strong> till din vän. De kan sedan lägga till dig.",
-      "your_key": "Din nyckel: ",
-      "link_info": "Skicka din inbjudningslänk till din vän. Du kan kopiera länken på \"Lägg till vänner\"-sidan. När de följer länken kommer ni att bli vänner.",
-      "no_partner_info": "Om du vill bjuda utan partner finns det två sätt att göra det.",
-      "lia_info": "Spela med <strong>Lia - Botten</strong>, genom att klicka på <strong>Träna</strong> och sedan på <strong>Med Robot</strong>.",
-      "matchmaking_info": "Klicka på <strong>Träna</strong> och sedan på <strong>Slumpad</strong>. Notera att det kan ta lång tid att hitta en partner på det sättet."
-    },
     "step_help": {
       "title": "Mer information",
       "info_1_pre_link": "På våran ",
@@ -455,11 +442,6 @@
       "info_3_link": "Gå med i vår Discordserver",
       "enjoy": "Lycka till med Cuebids!",
       "confirm": "Jag fattar!"
-    },
-    "step_create_session": {
-      "title": "Börja bjuda",
-      "info": "Nu kan du börja bjuda med dina vänner! Du eller din partner borde skapa en session. I menyn ovan, klicka på <strong>Träna</strong> och sedan på <strong>Med en vän</strong>. Du kan också bjuda med <strong>Lia</strong> på detta sätt.",
-      "link": "eller klicka här"
     }
   },
   "session": {
@@ -891,7 +873,16 @@
     "scenario_missing_info": "Skapa nytt eller generera fler",
     "create_new_session": "Skapa ny session",
     "start_practice_session": "Starta träningssession",
-    "scenarios_requires_heart": "Scenarion kräver en hjärterprenumeration."
+    "scenarios_requires_heart": "Scenarion kräver en hjärterprenumeration.",
+    "how_to": {
+      "open_dialog_button": "Hur du skapar en session",
+      "title": "Alternativ för att skapa session",
+      "info": "Det finns flera inställningar du kan göra när du skapar en session för att få precis den träning du vill ha.",
+      "partner": "Välj en vän eller robot som partner",
+      "number_of_boards": "Välj antal brickor (1-24)",
+      "robots": "Välj robotar för att bjuda mot dig (Öst/Västs händer). Eller välj \"Utan\" för att bjuda ostört",
+      "deal_type": "Välj en Givtyp (eller Scenario) för att bara träna på en specifik sorts giv"
+    }
   },
   "deal_type_select": {
     "random": "Slumpade händer",

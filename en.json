@@ -455,11 +455,6 @@
       "info_3_link": "Join our Discord server",
       "enjoy": "Enjoy Cuebids!",
       "confirm": "Got it!"
-    },
-    "step_create_session": {
-      "title": "Start bidding",
-      "info": "Now you can start bidding with your friends! You or your partner should create a session. In the menu above, click on <strong>Practice</strong> and then <strong>With a friend</strong>. You can also bid with <strong>Lia</strong> this way.",
-      "link": "or click here"
     }
   },
   "session": {
@@ -891,7 +886,16 @@
     "scenario_missing_info": "Create new or generate stock",
     "create_new_session": "Create new session",
     "start_practice_session": "Start practice session",
-    "scenarios_requires_heart": "You need a Heart subscription to use scenarios."
+    "scenarios_requires_heart": "You need a Heart subscription to use scenarios.",
+    "how_to": {
+      "open_dialog_button": "How to create a session",
+      "title": "Create session options",
+      "info": "There are several options you can optionally make when creating a session to tune the practice just how you like it.",
+      "partner": "Select a friend or robot as partner",
+      "number_of_boards": "Select number of boards (1-24)",
+      "robots": "Select robots to bid against you (East/West hands). Or select \"None\" to bid uncontested",
+      "deal_type": "Select a Deal type (or Scenario) to only practice a specific type of hand"
+    }
   },
   "deal_type_select": {
     "random": "Random hands",
