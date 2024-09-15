@@ -429,19 +429,6 @@
       "contracts": "Here you can see some other hypothetical contracts and what they would have scored.",
       "error": "Error when creating session ({{error}})"
     },
-    "step_friend": {
-      "title": "Add a friend",
-      "pending_requests_info": "You do not have any mutual friends. Perhaps your partner has not accepted your friend request yet.",
-      "info": "There are four ways you can add friends. You can get to the friends page in the bottom menu, at the rightmost option. Then you click the \"Add\" button.",
-      "friend_key_info": "Add your friend via their <strong>Friend Key</strong>.",
-      "search_info": "Find your friend by searching for their name. Send them a friend request when you find them.",
-      "send_friend_key_info": "Send your friend your <strong>Friend Key</strong>. They can then add you as a friend.",
-      "your_key": "Your key: ",
-      "link_info": "Send your friend your invite link. You can copy the link on the \"Add friends\" page. When they follow the link you will become friends.",
-      "no_partner_info": "If you would like to bid without a partner, there are two ways to do that",
-      "lia_info": "Play with <strong>Lia - The Bot</strong>, by clicking on <strong>Practice</strong> and then <strong>With Robot</strong>.",
-      "matchmaking_info": "Click on <strong>Practice</strong> and then <strong>Random partner</strong>. Note that it might take a while to find a partner this way."
-    },
     "step_help": {
       "title": "More information",
       "info_youtube_pre_link1": "This ",
@@ -2320,7 +2307,18 @@
     "status_mutual": "Friends",
     "status_pending": "Invited you",
     "status_blocked": "Blocked",
-    "status_following": "Following"
+    "status_following": "Following",
+    "how_to": {
+      "open_dialog_button": "How to add friends",
+      "pending_requests_info": "You do not have any mutual friends. Perhaps your partner has not accepted your friend request yet.",
+      "title": "Add a friend",
+      "info": "There are four ways you can add friends.",
+      "friend_key_info": "Add your friend via their <strong>Friend Key</strong>.",
+      "search_info": "Find your friend by searching for their name. Send them a friend request when you find them.",
+      "send_friend_key_info": "Send your friend your <strong>Friend Key</strong>. They can then add you as a friend.",
+      "your_key": "Your key: ",
+      "link_info": "Send your friend your invite link. When they follow the link you will become friends."
+    }
   },
   "friends_page": {
     "my_key": "My key: ",
@@ -2341,8 +2339,8 @@
     "toggle_tickets_dialog_confirm": "Confirm",
     "enable_tickets_dialog_info": "Enable your friend to spend your tickets and join events and ranked challenges with you as partner.",
     "disable_tickets_dialog_info": "Your friend will not be able to spend your tickets or join events or ranked challenges with you as partner.",
-    "no_friends_added_info": "You have not added any friends yet",
-    "all_friends_blocked_info": "You have blocked all your friends. You can unblock them if you Show blocked",
+    "no_friends_added_info": "You have not added any friends yet. Click here to add friends.",
+    "all_friends_blocked_info": "You have blocked all your friends. You can unblock them if you Show blocked. Click here to Show blocked.",
     "pending_requests_info": "You have pending friend requests to accept",
     "outstanding_requests_info": "Waiting for your friends to accept your friend request"
   },

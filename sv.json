@@ -2321,7 +2321,18 @@
     "status_mutual": "Vänner",
     "status_pending": "Frågat dig",
     "status_blocked": "Blockerad",
-    "status_following": "Följer"
+    "status_following": "Följer",
+    "how_to": {
+      "open_dialog_button": "Hur du lägger till vänner",
+      "pending_requests_info": "Du har inga gemensamma vänner. Kanske har din partner inte accepterat din vänförfrågan än.",
+      "title": "Lägg till vän",
+      "info": "Det finns fyra sätt att lägga till vänner.",
+      "friend_key_info": "Lägg till din vän via deras <strong>Vännyckel</strong>.",
+      "search_info": "Hitta din vän genom att söka på deras namn. Skicka en vänförfrågan när du hittat dem.",
+      "send_friend_key_info": "Skicka din <strong>Vännyckel</strong> till din vän. De kan sedan lägga till dig.",
+      "your_key": "Din nyckel: ",
+      "link_info": "Skicka din inbjudningslänk till din vän. När de följer länken kommer ni att bli vänner."
+    }
   },
   "friends_page": {
     "my_key": "Min nyckel: ",
@@ -2342,8 +2353,8 @@
     "toggle_tickets_dialog_confirm": "Bekräfta",
     "enable_tickets_dialog_info": "Tillåt din vän att spendera dina biljetter och gå med i event och rankade utmaningar med dig som partner.",
     "disable_tickets_dialog_info": "Din vän kommer inte att kunna spendera dina biljetter eller gå med i event och rankade utmaningar med dig som partner.",
-    "no_friends_added_info": "Du har inte lagt till några vänner än",
-    "all_friends_blocked_info": "Du har blockerat alla dina vänner. Du kan avblockera dem om du Visar blockerade",
+    "no_friends_added_info": "Du har inte lagt till några vänner än. Tryck här för att lägga till vänner.",
+    "all_friends_blocked_info": "Du har blockerat alla dina vänner. Du kan avblockera dem om du Visar blockerade. Tryck här för att Visa blockerade.",
     "pending_requests_info": "Du har vänförfrågningar att acceptera",
     "outstanding_requests_info": "Du väntar på att dina vänner ska acceptera din vänförfrågan"
   },
