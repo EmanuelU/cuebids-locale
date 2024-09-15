@@ -414,13 +414,12 @@
     "skip_step": "Hoppa över",
     "step_settings": {
       "title": "Inställningar",
-      "text": "Anpassa din upplevelse genom att ändra inställningar och prenumerera på nyhetsbrev."
+      "text": "Klicka på menyn längst upp till höger och sedan på 'Inställningar'. Anpassa din upplevelse genom att ändra inställningar och prenumerera på nyhetsbrev. Kom ihåg att spara dina ändringar!"
     },
     "step_bidding": {
       "title": "Budgivning",
       "text": "Provbjud ett par givar med botten Lia. Lias system är 5-korts högfärg. Du kommer lära dig hur Cuebids fungerar.",
-      "more": "Om du vill spela med en vän, kan du hoppa över detta steg.",
-        "try": "Prova en session med Lia",
+      "try": "Prova en session med Lia",
       "lia_session_started": "Sessionen med Lia har startat. Du hittar den längst ned på sidan.",
       "click_on_session": "Klicka på en rad för att komma till given. Är den markerad är det din tur att bjuda.",
       "partners_turn": "Det är din partners tur att bjuda på alla givar.",
@@ -445,14 +444,22 @@
     },
     "step_help": {
       "title": "Mer information",
+      "info_youtube_pre_link1": "Den här ",
+      "info_youtube_link1": "Youtube-videon",
+      "info_youtube_pre_link2": " förklarar grundkoncepten på Cuebids. På vår ",
+      "info_youtube_link2": "Youtube-kanal",
+      "info_youtube_post_link2": " finns fler videos som förklarar olika områden på Cuebids.",
       "info_1_pre_link": "På våran ",
       "info_1_link": "FAQ-sida",
       "info_1_post_link": " finns mer information om hur Cuebids fungerar.\nTill exempel kan du läsa mer om hur givar graderas och om våra robotar.\nDu hittar den från menyn och kan komma tillbaka till den närsomhelst.",
-      "info_2_pre_link": "Om du vill kontakta oss, gå till",
+      "info_2_pre_link": "Om du vill kontakta oss, gå till ",
       "info_2_link": "kontaktsidan",
       "info_2_post_link": ".",
       "info_3_pre_link": "För att chatta, skicka feedback eller prata med utvecklarna och användare - ",
       "info_3_link": "Gå med i vår Discordserver",
+      "info_facebook_pre_link": "På våran ",
+      "info_facebook_link": "Facebook-sida",
+      "info_facebook_post_link": " lägger vi upp budproblem och andra uppdateringar.",
       "enjoy": "Lycka till med Cuebids!",
       "confirm": "Jag fattar!"
     },
@@ -666,7 +673,7 @@
     "try_again": "Försök igen",
     "newsletter_cta": "Prenumerera på nyhetsbrev",
     "newsletter_subscribed": "Du prenumererar på nyhetsbrevet",
-    "rewards": "Belöningar",
+    "rewards": "Belöning",
     "preparing_reward": "Förbereder belöning...",
     "claim": "Hämta",
     "sections": {

@@ -414,12 +414,11 @@
     "skip_step": "Skip step",
     "step_settings": {
       "title": "Check settings",
-      "text": " Click the menu at the top right, and then 'Settings' Make changes to how you display cards, or other features. Remember to hit save!"
+      "text": " Click the menu at the top right, and then 'Settings'. Make changes to how you display cards, or other features. Remember to hit save!"
     },
     "step_bidding": {
       "title": "Bidding",
-      "text": "Try bidding a couple of boards with Lia the bot. Lia will bid using 2 over 1 system! You will learn how bidding on Cuebids works",
-      "more": "If you want to play with a friend instead, you can skip this step.",
+      "text": "Try bidding a couple of boards with Lia the bot. Lia will bid using a 2 over 1 system! You will learn how bidding on Cuebids works",
       "try": "Try a session with Lia",
       "lia_session_started": "Session with Lia has started. Find it at the bottom of this page.",
       "click_on_session": "Click on a deal to navigate to it. If the row is highlighted, it is your turn to bid.",
@@ -445,14 +444,22 @@
     },
     "step_help": {
       "title": "More information",
+      "info_youtube_pre_link1": "This ",
+      "info_youtube_link1": "Youtube video",
+      "info_youtube_pre_link2": " explains the core concepts of Cuebids. On our ",
+      "info_youtube_link2": "Youtube channel",
+      "info_youtube_post_link2": " you will find more videos explaining various concepts in Cuebids.",
       "info_1_pre_link": "On our ",
       "info_1_link": "FAQ page",
       "info_1_post_link": " you will find more information on how Cuebids works.\nFor example you can read more about the grading system and our robots.\nYou can reach it from the menu and can come back to it at any time.",
-      "info_2_pre_link": "If you would like to contact us, check out the",
+      "info_2_pre_link": "If you would like to contact us, check out the ",
       "info_2_link": "contact page",
       "info_2_post_link": ".",
       "info_3_pre_link": "To chat, provide feedback or talk to developers and users - ",
       "info_3_link": "Join our Discord server",
+      "info_facebook_pre_link": "On our ",
+      "info_facebook_link": "Facebook page",
+      "info_facebook_post_link": " we post bidding problems and other updates.",
       "enjoy": "Enjoy Cuebids!",
       "confirm": "Got it!"
     },

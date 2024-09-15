@@ -419,7 +419,6 @@
     "step_bidding": {
       "title": "Enchère",
       "text": "Essayer d’enchérir quelques donnes avec le robot Lia. Lia enchérira en utilisant le système 2 sur 2 ! Vous apprendrez comment les enchères fonctionnent sur Cuebid",
-      "more": "Si vous préférez jouer avec un ami, vous pouvez passer cette étape.",
       "try": "Essayez une une session avec Lia",
       "lia_session_started": "La session avec Lia a commencé. Vous la trouverez en bas de la page.",
       "click_on_session": "Cliquez sur une donne pour naviguer vers elle. Si la ligne est surlignée, c’est votre tour d’enchérir.",
