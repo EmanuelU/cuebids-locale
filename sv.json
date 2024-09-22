@@ -559,6 +559,10 @@
       "discord": "Anslut till vår Discord"
     }
   },
+  "account_not_created_correctly": {
+    "info": "Ditt konto skapades inte korrekt. Vänligen fyll i den saknade informationen för att komma igång med Cuebids.",
+    "submit_button": "Fortsätt"
+  },
   "challenge": {
     "win": "Vinst",
     "loss": "Förlust",

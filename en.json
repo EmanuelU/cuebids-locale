@@ -559,6 +559,10 @@
       "discord": "Join our Discord"
     }
   },
+  "account_not_created_correctly": {
+    "info": "Your account was not created correctly. Please provide the missing info to get started with Cuebids.",
+    "submit_button": "Continue"
+  },
   "challenge": {
     "win": "Win",
     "loss": "Loss",
