@@ -810,6 +810,19 @@
       "error_matchmaking_failed": "Matchmaking failed"
     }
   },
+  "session_archive": {
+    "partner": "Partner",
+    "progress": "Progress",
+    "show_more": "Show more",
+    "end_reached": "You have reached the end",
+    "delete_dialog": {
+      "title": "Delete this session",
+      "confirm": "Confirm",
+      "info": "Confirm deletion of this session. It will not be possible to restore it.",
+      "info_weekly" : "Even if you delete a weekly session, you will not be able to participate again this week.",
+      "info_daily" : "Even if you delete a daily session, you will not be able to participate again today."
+    }
+  },
   "routes": {
     "home": "Home",
     "practice": "Practice",
