@@ -448,7 +448,8 @@
       "info_facebook_link": "Facebook page",
       "info_facebook_post_link": " we post bidding problems and other updates.",
       "enjoy": "Enjoy Cuebids!",
-      "confirm": "Got it!"
+      "confirm": "Got it!",
+      "session_page_help": "Your session has finished, go to the start page to continue."
     }
   },
   "session": {

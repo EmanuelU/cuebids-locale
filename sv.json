@@ -448,7 +448,8 @@
       "info_facebook_link": "Facebook-sida",
       "info_facebook_post_link": " lägger vi upp budproblem och andra uppdateringar.",
       "enjoy": "Lycka till med Cuebids!",
-      "confirm": "Jag fattar!"
+      "confirm": "Jag fattar!",
+      "session_page_help": "Din session är färdig, gå till startsidan för att fortsätta."
     }
   },
   "session": {
