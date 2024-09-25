@@ -414,13 +414,12 @@
     "skip_step": "Hoppa över",
     "step_settings": {
       "title": "Inställningar",
-      "text": "Anpassa din upplevelse genom att ändra inställningar och prenumerera på nyhetsbrev."
+      "text": "Klicka på menyn längst upp till höger och sedan på 'Inställningar'. Anpassa din upplevelse genom att ändra inställningar och prenumerera på nyhetsbrev. Kom ihåg att spara dina ändringar!"
     },
     "step_bidding": {
       "title": "Budgivning",
       "text": "Provbjud ett par givar med botten Lia. Lias system är 5-korts högfärg. Du kommer lära dig hur Cuebids fungerar.",
-      "more": "Om du vill spela med en vän, kan du hoppa över detta steg.",
-        "try": "Prova en session med Lia",
+      "try": "Prova en session med Lia",
       "lia_session_started": "Sessionen med Lia har startat. Du hittar den längst ned på sidan.",
       "click_on_session": "Klicka på en rad för att komma till given. Är den markerad är det din tur att bjuda.",
       "partners_turn": "Det är din partners tur att bjuda på alla givar.",
@@ -430,36 +429,27 @@
       "contracts": "Här kan du se olika kontrakt och hur många stjärnor de hade fått.",
       "error": "Något gick fel med att skapa sessionen ({{error}})"
     },
-    "step_friend": {
-      "title": "Lägg till vän",
-      "pending_requests_info": "Du har inga gemensamma vänner. Kanske har din partner inte accepterat din vänförfrågan än.",
-      "info": "Det finns fyra sätt att lägga till vänner. Du kan navigera till vänsidan via bottenmenyn, på det högraste alternativet. Sedan klickar du på \"Lägg till\"-knappen.",
-      "friend_key_info": "Lägg till din vän via deras <strong>Vännyckel</strong>.",
-      "search_info": "Hitta din vän genom att söka på deras namn. Skicka en vänförfrågan när du hittat dem.",
-      "send_friend_key_info": "Skicka din <strong>Vännyckel</strong> till din vän. De kan sedan lägga till dig.",
-      "your_key": "Din nyckel: ",
-      "link_info": "Skicka din inbjudningslänk till din vän. Du kan kopiera länken på \"Lägg till vänner\"-sidan. När de följer länken kommer ni att bli vänner.",
-      "no_partner_info": "Om du vill bjuda utan partner finns det två sätt att göra det.",
-      "lia_info": "Spela med <strong>Lia - Botten</strong>, genom att klicka på <strong>Träna</strong> och sedan på <strong>Med Robot</strong>.",
-      "matchmaking_info": "Klicka på <strong>Träna</strong> och sedan på <strong>Slumpad</strong>. Notera att det kan ta lång tid att hitta en partner på det sättet."
-    },
     "step_help": {
       "title": "Mer information",
-      "info_1_pre_link": "På våran ",
+      "info_youtube_pre_link1": "Den här ",
+      "info_youtube_link1": "Youtube-videon",
+      "info_youtube_pre_link2": " förklarar grundkoncepten på Cuebids. På vår ",
+      "info_youtube_link2": "Youtube-kanal",
+      "info_youtube_post_link2": " finns fler videos som förklarar olika områden på Cuebids.",
+      "info_1_pre_link": "På vår ",
       "info_1_link": "FAQ-sida",
       "info_1_post_link": " finns mer information om hur Cuebids fungerar.\nTill exempel kan du läsa mer om hur givar graderas och om våra robotar.\nDu hittar den från menyn och kan komma tillbaka till den närsomhelst.",
-      "info_2_pre_link": "Om du vill kontakta oss, gå till",
+      "info_2_pre_link": "Om du vill kontakta oss, gå till ",
       "info_2_link": "kontaktsidan",
       "info_2_post_link": ".",
       "info_3_pre_link": "För att chatta, skicka feedback eller prata med utvecklarna och användare - ",
       "info_3_link": "Gå med i vår Discordserver",
+      "info_facebook_pre_link": "På vår ",
+      "info_facebook_link": "Facebook-sida",
+      "info_facebook_post_link": " lägger vi upp budproblem och andra uppdateringar.",
       "enjoy": "Lycka till med Cuebids!",
-      "confirm": "Jag fattar!"
-    },
-    "step_create_session": {
-      "title": "Börja bjuda",
-      "info": "Nu kan du börja bjuda med dina vänner! Du eller din partner borde skapa en session. I menyn ovan, klicka på <strong>Träna</strong> och sedan på <strong>Med en vän</strong>. Du kan också bjuda med <strong>Lia</strong> på detta sätt.",
-      "link": "eller klicka här"
+      "confirm": "Jag fattar!",
+      "session_page_help": "Din session är färdig, gå till startsidan för att fortsätta."
     }
   },
   "session": {
@@ -570,6 +560,10 @@
       "discord": "Anslut till vår Discord"
     }
   },
+  "account_not_created_correctly": {
+    "info": "Ditt konto skapades inte korrekt. Vänligen fyll i den saknade informationen för att komma igång med Cuebids.",
+    "submit_button": "Fortsätt"
+  },
   "challenge": {
     "win": "Vinst",
     "loss": "Förlust",
@@ -666,7 +660,7 @@
     "try_again": "Försök igen",
     "newsletter_cta": "Prenumerera på nyhetsbrev",
     "newsletter_subscribed": "Du prenumererar på nyhetsbrevet",
-    "rewards": "Belöningar",
+    "rewards": "Belöning",
     "preparing_reward": "Förbereder belöning...",
     "claim": "Hämta",
     "sections": {
@@ -891,7 +885,16 @@
     "scenario_missing_info": "Skapa nytt eller generera fler",
     "create_new_session": "Skapa ny session",
     "start_practice_session": "Starta träningssession",
-    "scenarios_requires_heart": "Scenarion kräver en hjärterprenumeration."
+    "scenarios_requires_heart": "Scenarion kräver en hjärterprenumeration.",
+    "how_to": {
+      "open_dialog_button": "Hur du skapar en session",
+      "title": "Alternativ för att skapa session",
+      "info": "Det finns flera inställningar du kan göra när du skapar en session för att få precis den träning du vill ha.",
+      "partner": "Välj en vän eller robot som partner",
+      "number_of_boards": "Välj antal brickor (1-24)",
+      "robots": "Välj robotar för att bjuda mot dig (Öst/Västs händer). Eller välj \"Utan\" för att bjuda ostört",
+      "deal_type": "Välj en Givtyp (eller Scenario) för att bara träna på en specifik sorts giv"
+    }
   },
   "deal_type_select": {
     "random": "Slumpade händer",
@@ -2159,6 +2162,10 @@
     "ranking_p2": "Lycka till!",
     "contact_title": "Hur kan jag kontakta er?",
     "contact_link": "Klicka här för att gå till vår kontaktsida",
+    "social_media_title": "Sociala medier",
+    "social_media_info": "Cuebids finns på olika sociala medier",
+    "social_media_youtube": "Youtube-kanal",
+    "social_media_facebook": "Facebook-sida",
     "release_notes_title": "Var finns versionsinformationen?",
     "release_notes_link": "Klicka här för att gå till versionsinformationen"
   },
@@ -2310,7 +2317,18 @@
     "status_mutual": "Vänner",
     "status_pending": "Frågat dig",
     "status_blocked": "Blockerad",
-    "status_following": "Följer"
+    "status_following": "Följer",
+    "how_to": {
+      "open_dialog_button": "Hur du lägger till vänner",
+      "pending_requests_info": "Du har inga gemensamma vänner. Kanske har din partner inte accepterat din vänförfrågan än.",
+      "title": "Lägg till vän",
+      "info": "Det finns fyra sätt att lägga till vänner.",
+      "friend_key_info": "Lägg till din vän via deras <strong>Vännyckel</strong>.",
+      "search_info": "Hitta din vän genom att söka på deras namn. Skicka en vänförfrågan när du hittat dem.",
+      "send_friend_key_info": "Skicka din <strong>Vännyckel</strong> till din vän. De kan sedan lägga till dig.",
+      "your_key": "Din nyckel: ",
+      "link_info": "Skicka din inbjudningslänk till din vän. När de följer länken kommer ni att bli vänner."
+    }
   },
   "friends_page": {
     "my_key": "Min nyckel: ",
@@ -2331,8 +2349,8 @@
     "toggle_tickets_dialog_confirm": "Bekräfta",
     "enable_tickets_dialog_info": "Tillåt din vän att spendera dina biljetter och gå med i event och rankade utmaningar med dig som partner.",
     "disable_tickets_dialog_info": "Din vän kommer inte att kunna spendera dina biljetter eller gå med i event och rankade utmaningar med dig som partner.",
-    "no_friends_added_info": "Du har inte lagt till några vänner än",
-    "all_friends_blocked_info": "Du har blockerat alla dina vänner. Du kan avblockera dem om du Visar blockerade",
+    "no_friends_added_info": "Du har inte lagt till några vänner än. Tryck här för att lägga till vänner.",
+    "all_friends_blocked_info": "Du har blockerat alla dina vänner. Du kan avblockera dem om du Visar blockerade. Tryck här för att Visa blockerade.",
     "pending_requests_info": "Du har vänförfrågningar att acceptera",
     "outstanding_requests_info": "Du väntar på att dina vänner ska acceptera din vänförfrågan"
   },

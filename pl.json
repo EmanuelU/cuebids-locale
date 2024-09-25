@@ -419,7 +419,6 @@
     "step_bidding": {
       "title": "Licytacja",
       "text": "Spróbuj policytować kilka rozdań z botem Lia. Lia będzie licytować używając systemu 2 over 1! Nauczysz się, jak licytuje się na Cuebids.",
-      "more": "Jeśli wolisz zagrać ze znajomym, możesz pominąć ten krok.",
       "try": "Spróbuj sesji z Lią",
       "lia_session_started": "Sesja z Lią została rozpoczęta. Znajdziesz ją na dole strony.",
       "click_on_session": "Kliknij rozdanie, aby do niego przejść. Jeśli rozdanie jest podświetlone, to twoja kolej na licytację.",

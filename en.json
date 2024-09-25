@@ -414,12 +414,11 @@
     "skip_step": "Skip step",
     "step_settings": {
       "title": "Check settings",
-      "text": " Click the menu at the top right, and then 'Settings' Make changes to how you display cards, or other features. Remember to hit save!"
+      "text": " Click the menu at the top right, and then 'Settings'. Make changes to how you display cards, or other features. Remember to hit save!"
     },
     "step_bidding": {
       "title": "Bidding",
-      "text": "Try bidding a couple of boards with Lia the bot. Lia will bid using 2 over 1 system! You will learn how bidding on Cuebids works",
-      "more": "If you want to play with a friend instead, you can skip this step.",
+      "text": "Try bidding a couple of boards with Lia the bot. Lia will bid using a 2 over 1 system! You will learn how bidding on Cuebids works",
       "try": "Try a session with Lia",
       "lia_session_started": "Session with Lia has started. Find it at the bottom of this page.",
       "click_on_session": "Click on a deal to navigate to it. If the row is highlighted, it is your turn to bid.",
@@ -430,36 +429,27 @@
       "contracts": "Here you can see some other hypothetical contracts and what they would have scored.",
       "error": "Error when creating session ({{error}})"
     },
-    "step_friend": {
-      "title": "Add a friend",
-      "pending_requests_info": "You do not have any mutual friends. Perhaps your partner has not accepted your friend request yet.",
-      "info": "There are four ways you can add friends. You can get to the friends page in the bottom menu, at the rightmost option. Then you click the \"Add\" button.",
-      "friend_key_info": "Add your friend via their <strong>Friend Key</strong>.",
-      "search_info": "Find your friend by searching for their name. Send them a friend request when you find them.",
-      "send_friend_key_info": "Send your friend your <strong>Friend Key</strong>. They can then add you as a friend.",
-      "your_key": "Your key: ",
-      "link_info": "Send your friend your invite link. You can copy the link on the \"Add friends\" page. When they follow the link you will become friends.",
-      "no_partner_info": "If you would like to bid without a partner, there are two ways to do that",
-      "lia_info": "Play with <strong>Lia - The Bot</strong>, by clicking on <strong>Practice</strong> and then <strong>With Robot</strong>.",
-      "matchmaking_info": "Click on <strong>Practice</strong> and then <strong>Random partner</strong>. Note that it might take a while to find a partner this way."
-    },
     "step_help": {
       "title": "More information",
+      "info_youtube_pre_link1": "This ",
+      "info_youtube_link1": "Youtube video",
+      "info_youtube_pre_link2": " explains the core concepts of Cuebids. On our ",
+      "info_youtube_link2": "Youtube channel",
+      "info_youtube_post_link2": " you will find more videos explaining various concepts in Cuebids.",
       "info_1_pre_link": "On our ",
       "info_1_link": "FAQ page",
       "info_1_post_link": " you will find more information on how Cuebids works.\nFor example you can read more about the grading system and our robots.\nYou can reach it from the menu and can come back to it at any time.",
-      "info_2_pre_link": "If you would like to contact us, check out the",
+      "info_2_pre_link": "If you would like to contact us, check out the ",
       "info_2_link": "contact page",
       "info_2_post_link": ".",
       "info_3_pre_link": "To chat, provide feedback or talk to developers and users - ",
       "info_3_link": "Join our Discord server",
+      "info_facebook_pre_link": "On our ",
+      "info_facebook_link": "Facebook page",
+      "info_facebook_post_link": " we post bidding problems and other updates.",
       "enjoy": "Enjoy Cuebids!",
-      "confirm": "Got it!"
-    },
-    "step_create_session": {
-      "title": "Start bidding",
-      "info": "Now you can start bidding with your friends! You or your partner should create a session. In the menu above, click on <strong>Practice</strong> and then <strong>With a friend</strong>. You can also bid with <strong>Lia</strong> this way.",
-      "link": "or click here"
+      "confirm": "Got it!",
+      "session_page_help": "Your session has finished, go to the start page to continue."
     }
   },
   "session": {
@@ -569,6 +559,10 @@
       "contact": "Contact",
       "discord": "Join our Discord"
     }
+  },
+  "account_not_created_correctly": {
+    "info": "Your account was not created correctly. Please provide the missing info to get started with Cuebids.",
+    "submit_button": "Continue"
   },
   "challenge": {
     "win": "Win",
@@ -891,7 +885,16 @@
     "scenario_missing_info": "Create new or generate stock",
     "create_new_session": "Create new session",
     "start_practice_session": "Start practice session",
-    "scenarios_requires_heart": "You need a Heart subscription to use scenarios."
+    "scenarios_requires_heart": "You need a Heart subscription to use scenarios.",
+    "how_to": {
+      "open_dialog_button": "How to create a session",
+      "title": "Create session options",
+      "info": "There are several options you can optionally make when creating a session to tune the practice just how you like it.",
+      "partner": "Select a friend or robot as partner",
+      "number_of_boards": "Select number of boards (1-24)",
+      "robots": "Select robots to bid against you (East/West hands). Or select \"None\" to bid uncontested",
+      "deal_type": "Select a Deal type (or Scenario) to only practice a specific type of hand"
+    }
   },
   "deal_type_select": {
     "random": "Random hands",
@@ -2158,6 +2161,10 @@
     "ranking_p2": "Good luck!",
     "contact_title": "How can I contact you?",
     "contact_link": "Click here to go to our contact page",
+    "social_media_title": "Social media",
+    "social_media_info": "Cuebids can be found on various social media",
+    "social_media_youtube": "Youtube channel",
+    "social_media_facebook": "Facebook page",
     "release_notes_title": "Where are the release notes?",
     "release_notes_link": "Click here to go to the release notes"
   },
@@ -2309,7 +2316,18 @@
     "status_mutual": "Friends",
     "status_pending": "Invited you",
     "status_blocked": "Blocked",
-    "status_following": "Following"
+    "status_following": "Following",
+    "how_to": {
+      "open_dialog_button": "How to add friends",
+      "pending_requests_info": "You do not have any mutual friends. Perhaps your partner has not accepted your friend request yet.",
+      "title": "Add a friend",
+      "info": "There are four ways you can add friends.",
+      "friend_key_info": "Add your friend via their <strong>Friend Key</strong>.",
+      "search_info": "Find your friend by searching for their name. Send them a friend request when you find them.",
+      "send_friend_key_info": "Send your friend your <strong>Friend Key</strong>. They can then add you as a friend.",
+      "your_key": "Your key: ",
+      "link_info": "Send your friend your invite link. When they follow the link you will become friends."
+    }
   },
   "friends_page": {
     "my_key": "My key: ",
@@ -2330,8 +2348,8 @@
     "toggle_tickets_dialog_confirm": "Confirm",
     "enable_tickets_dialog_info": "Enable your friend to spend your tickets and join events and ranked challenges with you as partner.",
     "disable_tickets_dialog_info": "Your friend will not be able to spend your tickets or join events or ranked challenges with you as partner.",
-    "no_friends_added_info": "You have not added any friends yet",
-    "all_friends_blocked_info": "You have blocked all your friends. You can unblock them if you Show blocked",
+    "no_friends_added_info": "You have not added any friends yet. Click here to add friends.",
+    "all_friends_blocked_info": "You have blocked all your friends. You can unblock them if you Show blocked. Click here to Show blocked.",
     "pending_requests_info": "You have pending friend requests to accept",
     "outstanding_requests_info": "Waiting for your friends to accept your friend request"
   },
