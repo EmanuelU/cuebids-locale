@@ -817,7 +817,7 @@
     "end_reached": "Du har nått slutet",
     "delete_dialog": {
       "title": "Radera den här sessionen",
-      "confirm_button": "Bekräfta",
+      "confirm": "Bekräfta",
       "info": "Bekräfta radering av den här sessionen. Det kommer inte gå att återställa den.",
       "info_weekly": "Även om du raderar en veckotävling kommer du inte att kunna delta igen denna vecka.",
       "info_daily": "Även om du raderar en dagtävling kommer du inte att kunna delta igen idag."
