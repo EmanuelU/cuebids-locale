@@ -38,7 +38,7 @@
       "W": "V"
     }
   },
-  "components" : {
+  "components": {
     "select_fed": {
       "title": "Omröstningar"
     },
@@ -95,8 +95,8 @@
     "unscored_deal": {
       "contract": "Kontrakt",
       "stars": "Stjärnor",
-      "fast_scoring" : "Snabb scoring",
-      "regular_scoring" : "Normal scoring"
+      "fast_scoring": "Snabb scoring",
+      "regular_scoring": "Normal scoring"
     },
     "group_card": {
       "premium_group_badge": "PREMIUMGRUPP"
@@ -165,7 +165,7 @@
     }
   },
   "store": {
-    "not_available":  "Inte tillgängligt",
+    "not_available": "Inte tillgängligt",
     "per_month": "/månad",
     "per_year": "/år",
     "trial_pre_styled": "Starta ",
@@ -226,8 +226,8 @@
       "info_4": "alla",
       "info_5": " givtyper"
     },
-    "manage_subscription" : "Hantera Prenumeration",
-    "manage_subscription_loading" : "Vänligen vänta",
+    "manage_subscription": "Hantera Prenumeration",
+    "manage_subscription_loading": "Vänligen vänta",
     "subscribe_info_1": "Prenumerera för att låsa upp fler funktioner och få ett flöde av biljetter.",
     "subscribe_info_2": "Varje månad kommer biljetterna från din prenumeration tillbaka.",
     "subscribe_info_3": "Biljetter används för <strong>event</strong> och <strong>avancerad träning</strong>.",
@@ -546,7 +546,7 @@
       "create_account_error_default": "Något gick fel, vänligen försök igen. Kontrollera stavningen på din e\u2011postadress.",
       "login_error_default": "Något gick fel. Kontrollera att du har stavat rätt på din e\u2011postadress och att det är den du har registrerat på Cuebids. Om du fortfarande har problem, kontakta supporten på support@cuebids.com",
       "login_success": "Välkommen tillbaka!",
-      "create_account_success" : "Välkommen till Cuebids! Vi är glada att du är här <3",
+      "create_account_success": "Välkommen till Cuebids! Vi är glada att du är här <3",
       "auth_invalid_email": "E\u2011postadressen är ogiltig. Vänligen kontrollera din stavning.",
       "auth_user_not_found": "Kontot finns inte. \n Vänligen kontrollera din stavning eller försök med en annan e\u2011postadress.",
       "auth_too_many_requests": "Du har gjort för många försök. Vänligen vänta på att få ditt email eller kontakta supporten på support@cuebids.com",
@@ -976,7 +976,7 @@
       "user_name_placeholder": "Användarnamn",
       "user_name_search": "Sök",
       "user_name_search_results": "Resultat ({{count}})",
-      "already_member" : "Redan medlem",
+      "already_member": "Redan medlem",
       "remove_invite": "Ta bort inbjudan",
       "invite_member": "Bjud in användare",
       "search_empty": "Inga sökresultat",
@@ -1039,7 +1039,7 @@
     },
     "create_group_session": {
       "scenarios_robot_error": "Några valda scenarion har en konflikt mellan robotinställningar.",
-      "missing_name_error" : "Eventen behöver ett namn",
+      "missing_name_error": "Eventen behöver ett namn",
       "board_count_error": "Måste ha 1-24 brickor",
       "end_time_past_error": "Sluttiden måste vara i framtiden",
       "start_time_error": "Starttiden måste vara i framtiden och innan sluttiden.",
@@ -1097,7 +1097,7 @@
       "event_name_placeholder": "Eventnamn",
       "rotate": "Rotera",
       "remove_hand": "Radera giv",
-      "remove_bidding" : "Radera budgivning"
+      "remove_bidding": "Radera budgivning"
     },
     "group": {
       "tab_events": "Event",
@@ -1293,7 +1293,7 @@
     "start": "Starta",
     "opening": "Öppnas...",
     "loading": "Laddar...",
-    "search" : "Sök...",
+    "search": "Sök...",
     "no_hits": "Inga träffar",
     "sign-out-dialog": {
       "title": "Logga ut?",
@@ -1363,6 +1363,11 @@
     "visit_poll": "Besök omröstning",
     "contracts": "Kontrakt",
     "stars": "Stjärnor"
+  },
+  "contracts_modal": {
+    "par_contract": "Par-kontrakt",
+    "best_option": "Bästa alternativ",
+    "your_contract": "Ditt kontrakt"
   },
   "review_modal": {
     "title": "Jämför",
@@ -1564,8 +1569,8 @@
           "description": "Naturlig klöveröppning, 6+ och 11-16 HP"
         },
         "open2C_nat54": {
-            "name": "2!C, naturlig 5+",
-            "description": "Naturlig klöveröppning, 5+ och 11-16 HP"
+          "name": "2!C, naturlig 5+",
+          "description": "Naturlig klöveröppning, 5+ och 11-16 HP"
         },
         "open2D_nat_weak": {
           "name": "2!D, svag",
@@ -1941,12 +1946,12 @@
       "not_second_seat_warning": "Spelaren är inte i andra hand, vi kan inte garantera inkliv",
       "long_suit_quality": "Färgkvalitet",
       "suit_quality": {
-          "garbage": "Usel",
-          "very_weak": "Väldigt svag",
-          "weak": "Svag",
-          "medium": "Medel",
-          "semi_solid": "Nästan gående",
-          "running": "Gående"
+        "garbage": "Usel",
+        "very_weak": "Väldigt svag",
+        "weak": "Svag",
+        "medium": "Medel",
+        "semi_solid": "Nästan gående",
+        "running": "Gående"
       },
       "vulnerabilities_label": "Zoner",
       "vulnerabilities": {
@@ -1975,10 +1980,10 @@
     "invalid_user_warning": "Hjärterprenumeranter kan skapa egna givtyper",
     "subscribe_here": "Prenumerera här",
     "testing_contraints_dialog_title": "Testar begränsningar",
-    "testing_contraints_dialog_cancel":  "Avbryt",
-    "testing_contraints_dialog_save":  "Spara",
-    "testing_contraints_dialog_save_edit":  "Spara ändring",
-    "testing_contraints_dialog_save_new":  "Spara som ny",
+    "testing_contraints_dialog_cancel": "Avbryt",
+    "testing_contraints_dialog_save": "Spara",
+    "testing_contraints_dialog_save_edit": "Spara ändring",
+    "testing_contraints_dialog_save_new": "Spara som ny",
     "testing_contraints_dialog_generate_info_pre_styled": "Kom ihåg att du även behöver generera giver innan du kan spela. Tryck på ",
     "testing_contraints_dialog_generate_info_styled": "Generera mer",
     "testing_contraints_dialog_generate_info_post_styled": "-knappen på översiktssidan.",
