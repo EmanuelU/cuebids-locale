@@ -1,5 +1,6 @@
 {
   "name": "cuebids-locale",
+  "type": "module",
   "version": "1.0.0",
   "description": "A package to store and share JSON files for localisation",
   "main": "index.js",
