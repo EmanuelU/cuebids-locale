@@ -444,6 +444,11 @@
     },
     "step_help": {
       "title": "Więcej informacji",
+      "info_youtube_pre_link1": "Ten ",
+      "info_youtube_link1": "filmik",
+      "info_youtube_pre_link2": " wyjaśnia kluczowe zasady działania Cuebids. Na naszym ",
+      "info_youtube_link2": "kanale Youtube",
+      "info_youtube_post_link2": " znajdziesz więcej filmików wyjaśniających inne koncepty Cuebids.",
       "info_1_pre_link": "Na naszej ",
       "info_1_link": "stronie FAQ",
       "info_1_post_link": " znajdziesz więcej informacji na temat działania Cuebids.\nNa przykład możesz przeczytać więcej o systemie oceniania i naszych robotach.\nMożesz ją znaleźć w menu i wrócić do niej kiedy chcesz.",
@@ -452,8 +457,12 @@
       "info_2_post_link": ".",
       "info_3_pre_link": "Aby poczatować, udzielać opinii lub porozmawiać z deweloperami i innymi użytkownikami - ",
       "info_3_link": "Dołącz do naszego serwera Discord",
+      "info_facebook_pre_link": "Na naszej ",
+      "info_facebook_link": "stronie Facebook",
+      "info_facebook_post_link": " postujemy problemy licytacyjne i inne newsy.",
       "enjoy": "Licytuj z Cuebids!",
-      "confirm": "Jasne!"
+      "confirm": "Jasne!",
+      "session_page_help": "Twoja sesja się skończyła, wróć na stronę główną by kontynuować."
     },
     "step_create_session": {
       "title": "Rozpocznij licytację",
@@ -569,6 +578,10 @@
       "discord": "Dołącz do naszego serwera Discord"
     }
   },
+  "account_not_created_correctly": {
+    "info": "Tworzenie Twojego konta nie powiodło się. Proszę podaj brakujące informacje by zacząć korzystać z Cuebids.",
+    "submit_button": "Kontynuuj"
+  },
   "challenge": {
     "win": "Wygrana",
     "loss": "Przegrana",
@@ -680,6 +693,7 @@
     "removal_warning": "To konto zostało oznaczone do usunięcia. Ten proces może zająć trochę czasu. Po usunięciu konta nie będzie można go przywrócić. Jeśli zmienisz zdanie, kliknij tutaj.",
     "private_apple_login": "Prywatne logowanie Apple",
     "unknown": "Nieznane",
+    "account": "Konto: {{email}}",
     "account_bound": "Twoje konto jest powiązane z tym adresem e-mail. Możesz mieć inny kontaktowy adres e-mail, który możesz ustawić w sekcji 'Profil'",
     "notifications": {
       "saved": "Ustawienia zapisane",
@@ -781,6 +795,7 @@
     "looking_for_challenge": "szuka wyzwania",
     "looking_for_partner": "szuka partnera",
     "lia_stuck": "Lia utknęła? - kliknij tutaj",
+    "only_your_turn": "Tylko Twoja kolej",
     "completed": "Zakończone",
     "flagged": "Oflagowane",
     "partner": "Partner",
@@ -812,6 +827,19 @@
       "create_error": "Błąd podczas tworzenia sesji",
       "warning_slow": "Dopasowywanie może zająć trochę czasu. Cuebids jest najlepszy ze znajomymi",
       "error_matchmaking_failed": "Szukanie partnera nie powiodło się"
+    }
+  },
+  "session_archive": {
+    "partner": "Partner",
+    "progress": "Postęp",
+    "show_more": "Pokaż więcej",
+    "end_reached": "To już jest koniec",
+    "delete_dialog": {
+      "title": "Usuń tę sesję",
+      "confirm": "Potwierdzam",
+      "info": "Potwierdź usunięcie sesji. Ta decyzja jest nieodwracalna.",
+      "info_weekly": "Nawet jeśli usuniesz sesję tygodniówki, nie będziesz mógł znów w niej startować.",
+      "info_daily": "Nawet jeśli usuniesz sesję dniówki, nie będziesz mógł znów w niej startować."
     }
   },
   "routes": {
@@ -889,7 +917,16 @@
     "scenario_missing_info": "Utwórz nowy lub wygeneruj na zapas",
     "create_new_session": "Utwórz nową sesję",
     "start_practice_session": "Rozpocznij sesję treningową",
-    "scenarios_requires_heart": "Potrzebujesz subskrypcji Kier, aby korzystać ze scenariuszy."
+    "scenarios_requires_heart": "Potrzebujesz subskrypcji Kier, aby korzystać ze scenariuszy.",
+    "how_to": {
+      "open_dialog_button": "Jak utworzyć sesję",
+      "title": "Opcje stworzenia sesji",
+      "info": "Jest wiele opcji które możesz wybrać podczsa tworzenia sesji, żeby Twój trening był dopasowany do Twoich potrzeb.",
+      "partner": "Wybierz znajomego lub robota na partnera",
+      "number_of_boards": "Wybierz liczbę rozdań (1-24)",
+      "robots": "Wybierz roboty (ręce East/West), które mają licytować przeciw wam, lub wybierz \"Brak\" by licytować samemu",
+      "deal_type": "Wybierz typ rozdań (lub scenariusz) by ćwiczyć tylko konkretne typy rąk"
+    }
   },
   "deal_type_select": {
     "random": "Losowe rozdania",
@@ -1338,11 +1375,18 @@
     "feedback_to_cuebids": "Opinie o Cuebids",
     "marked_for_discussion": "Oflagowane",
     "mark_for_discussion": "Oflaguj do dyskusji",
+    "like": "Polub",
+    "liked": "Polubione",
     "post_poll": "Opublikuj ankietę",
     "poll_not_available": "Tworzenie ankiet jest wyłączone w wydarzeniach",
     "visit_poll": "Przejdź do ankiety",
     "contracts": "Kontrakty",
     "stars": "Gwiazdki"
+  },
+  "contracts_modal": {
+    "par_contract": "Kontrakt Par",
+    "best_option": "Najlepszy wybór",
+    "your_contract": "Twój kontrakt"
   },
   "review_modal": {
     "title": "Porównaj",
@@ -2154,6 +2198,10 @@
     "ranking_p2": "Powodzenia!",
     "contact_title": "Jak mogę się z wami skontaktować?",
     "contact_link": "Kliknij tutaj, aby przejść na naszą stronę kontaktową",
+    "social_media_title": "Media społecznościowe",
+    "social_media_info": "Cuebids jest na wielu mediach społecznościowych",
+    "social_media_youtube": "Kanał Youtube",
+    "social_media_facebook": "Strona Facebook",
     "release_notes_title": "Gdzie mogę zobaczyć zmiany w wersji?",
     "release_notes_link": "Kliknij tutaj, aby przejść do zmian w wersji"
   },
@@ -2216,6 +2264,7 @@
     "continue": "Kontynuuj Dniówkę",
     "completed": "Dniówka zakończona",
     "to_start": "Do rozpoczęcia",
+    "your_position": "Twoje miejsce: {{position}} na {{count}} par",
     "participants": "{{count}} par dołączyło do tego wydarzenia",
     "leaderboard_minimum": "Aby zostać uwzględnionym w rankingu, wymagane jest co namniej 15 gwiazdek.",
     "leaderboard_title": "Top 10"
@@ -2240,6 +2289,7 @@
     "completed": "Tygodniówka zakończona",
     "to_start": "Do rozpoczęcia",
     "participants": "{{count}} par dołączyło do tego wydarzenia",
+    "your_position": "Twoje miejsce: {{position}} na {{count}} par",
     "leaderboard_minimum": "Aby zostać uwzględnionym w rankingu, wymagane jest minimum 45 gwiazdek.",
     "leaderboard_title": "Top 10"
   },
@@ -2303,7 +2353,19 @@
     "status_mutual": "Znajomi",
     "status_pending": "Wysłał Ci zaproszenie",
     "status_blocked": "Zablokowany",
-    "status_following": "Śledzi"
+    "status_following": "Śledzi",
+    "how_to": {
+      "open_dialog_button": "Jak dodać znajomych",
+      "pending_requests_info": "Nie macie żadnych wspólnych znajomych. Możliwe, że Twój partner nie zaakceptował jeszcze Twojego zaproszenia.",
+      "title": "Dodaj znajomego",
+      "info": "Są cztery sposy, aby dodać znajomych.",
+      "friend_key_info": "Dodaj znajomega za pomocą jego <strong>Klucza Znajomości</strong>.",
+      "search_info": "Wyszukaj znajomego za pomocą jego imienia. Wyślij zaproszenie gdy go znajdziesz.",
+      "send_friend_key_info": "Wyślij znajomemu swój <strong>Klucz Zanjomości</strong>. Wtedy będzie mógł Cię dodać do znajomych.",
+      "your_key": "Twój Klucz: ",
+      "link_info": "Wyślij znajomemu link z zaproszeniem. Gdy kliknie link, będziecie znajomymi!"
+    }
+
   },
   "friends_page": {
     "my_key": "Mój Klucz: ",
