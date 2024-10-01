@@ -921,8 +921,8 @@
     "how_to": {
       "open_dialog_button": "Jak utworzyć sesję",
       "title": "Opcje stworzenia sesji",
-      "info": "Jest wiele opcji które możesz wybrać podczsa tworzenia sesji, żeby Twój trening był dopasowany do Twoich potrzeb.",
-      "partner": "Wybierz znajomego lub robota na partnera",
+      "info": "Jest wiele opcji które możesz wybrać podczas tworzenia sesji, żeby Twój trening był dopasowany do Twoich potrzeb.",
+      "partner": "Wybierz znajomego lub robota jako partnera",
       "number_of_boards": "Wybierz liczbę rozdań (1-24)",
       "robots": "Wybierz roboty (ręce East/West), które mają licytować przeciw wam, lub wybierz \"Brak\" by licytować samemu",
       "deal_type": "Wybierz typ rozdań (lub scenariusz) by ćwiczyć tylko konkretne typy rąk"
