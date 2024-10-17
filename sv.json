@@ -1399,8 +1399,10 @@
     "explain_split": "För att spela dras biljetter från båda spelarna. Varje månad får du nya biljetter och prenumeranter får fler. Hjärterprenumeranter har obegränsat med biljetter."
   },
   "flagged_session_deals": {
-    "none": "Allt klart! Markera en giv från köttbullsmenyn (...) efter avslutad budgivning.",
-    "show_all_partners": "Visa alla partners"
+    "none": "Allt klart! Markera en giv genom att klicka på flaggan.",
+    "show_all_partners": "Visa alla partners",
+    "unmark_all_confirm": "Är du säker på att du vill avmarkera alla givar?",
+    "unmark_all_button": "Avmarkera alla"
   },
   "session_card": {
     "users": "andra",
