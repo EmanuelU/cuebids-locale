@@ -1399,8 +1399,10 @@
     "explain_split": "To play, you must use tickets. Every month, you receive new tickets, and subscribers receive more tickets. Heart Subscribers have unlimited access."
   },
   "flagged_session_deals": {
-    "none": "All caught up! Flag a deal from the dotted menu after bidding concludes.",
-    "show_all_partners": "Show all partners"
+    "none": "All caught up! Flag a deal by clicking the flag.",
+    "show_all_partners": "Show all partners",
+    "unmark_all_confirm": "Are you sure you want to unmark all deals?",
+    "unmark_all_button": "Unmark all deals"
   },
   "session_card": {
     "users": "users",
