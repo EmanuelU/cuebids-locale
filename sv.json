@@ -2101,7 +2101,17 @@
     "claim": "Ta emot",
     "already_claimed": "Redan mottaget",
     "error_generic": "Något gick fel!",
-    "error_already_claimed": "Gåvan har redan tagits emot!"
+    "error_already_claimed": "Gåvan har redan tagits emot!",
+    "event_win": {
+      "congratulations": "Grattis!",
+      "header_daily": "Du vann dagens tävling",
+      "header_weekly": "Du vann veckans tävling",
+      "header_group": "Du vann tävlingen {{eventName}}",
+      "with_score": "Med resultatet {{winningScore}} ",
+      "well_done": "Bra gjort, fantastiskt jobb!",
+      "share": "Dela"
+    }
+
   },
   "help": {
     "add_friends_title": "Hur lägger jag till vänner?",

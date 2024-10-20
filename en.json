@@ -2100,7 +2100,16 @@
     "claim": "Claim",
     "already_claimed": "Already claimed",
     "error_generic": "Something went wrong!",
-    "error_already_claimed": "Item has already been claimed!"
+    "error_already_claimed": "Item has already been claimed!",
+    "event_win": {
+      "congratulations": "Congratulations!",
+      "header_daily": "You won the daily",
+      "header_weekly": "You won the weekly",
+      "header_group": "You won the event {{eventName}}",
+      "with_score": "With a score of {{winningScore}} ",
+      "well_done": "Well done, amazing job!",
+      "share": "Share"
+    }
   },
   "help": {
     "add_friends_title": "How do I add friends?",
