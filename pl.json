@@ -952,7 +952,7 @@
     "canape": "Canapé",
     "pdPreempt": "Blok partnera",
     "vsPreempt": "Blok przeciwnika",
-    "gameTry": "Próba partii",
+    "gameTry": "Próba końcówki",
     "slamTry": "Próba szlemowa",
     "twoOverOne": "2 over 1",
     "twoSuiter": "Ręce Dwukolorowe",
@@ -965,7 +965,7 @@
     "vs1N": "Obrona przeciw 1NT",
     "vs1NEntry": "Wejście po 1NT",
     "michaels": "Blok dwukolorowy",
-    "oppsMichaels": "Dwukolorówka oponenta",
+    "oppsMichaels": "Dwukolorówka przeciwnik",
     "vs2DMulti": "2D Multi przeciwnika",
     "weakTwoX": "Kontra po słabych dwóch",
     "v4Beta": "New Scoring Test"
@@ -1419,7 +1419,9 @@
   },
   "flagged_session_deals": {
     "none": "Wszystko nadrobione! Oflaguj rozdanie używając kropkowanego menu po zakończeniu licytacji.",
-    "show_all_partners": "Pokaż wszystkich partnerów"
+    "show_all_partners": "Pokaż wszystkich partnerów",
+    "unmark_all_confirm": "Czy jesteś pewien, że chcesz odflagować wszystkie rozdania?",
+    "unmark_all_button": "Odflagować wszystkie rozdania"
   },
   "session_card": {
     "users": "użytkownicy",
