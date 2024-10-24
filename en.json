@@ -2108,7 +2108,8 @@
       "header_group": "You won the event {{eventName}}",
       "with_score": "With a score of {{winningScore}} ",
       "well_done": "Well done, amazing job!",
-      "share": "Share"
+      "share": "Share",
+      "copied_success": "Message copied to clipboard"
     }
   },
   "help": {
