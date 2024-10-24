@@ -2109,7 +2109,8 @@
       "header_group": "Du vann tävlingen {{eventName}}",
       "with_score": "Med resultatet {{winningScore}} ",
       "well_done": "Bra gjort, fantastiskt jobb!",
-      "share": "Dela"
+      "share": "Dela",
+      "copied_success": "Meddelandet kopierat"
     }
 
   },
