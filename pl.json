@@ -2119,7 +2119,16 @@
     "claim": "Odbierz",
     "already_claimed": "Już odebrane",
     "error_generic": "Coś poszło nie tak!",
-    "error_already_claimed": "Prezent został już odebrany!"
+    "error_already_claimed": "Prezent został już odebrany!",
+    "event_win": {
+      "congratulations": "Congratulations!",
+      "header_daily": "You won the daily",
+      "header_weekly": "You won the weekly",
+      "header_group": "You won the event {{eventName}}",
+      "with_score": "With a score of {{winningScore}} ",
+      "well_done": "Well done, amazing job!",
+      "share": "Share"
+    }
   },
   "help": {
     "add_friends_title": "Jak mogę dodać znajomych?",
