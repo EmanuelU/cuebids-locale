@@ -1399,8 +1399,10 @@
     "explain_split": "To play, you must use tickets. Every month, you receive new tickets, and subscribers receive more tickets. Heart Subscribers have unlimited access."
   },
   "flagged_session_deals": {
-    "none": "All caught up! Flag a deal from the dotted menu after bidding concludes.",
-    "show_all_partners": "Show all partners"
+    "none": "All caught up! Flag a deal by clicking the flag.",
+    "show_all_partners": "Show all partners",
+    "unmark_all_confirm": "Are you sure you want to unmark all deals?",
+    "unmark_all_button": "Unmark all deals"
   },
   "session_card": {
     "users": "users",
@@ -2098,7 +2100,17 @@
     "claim": "Claim",
     "already_claimed": "Already claimed",
     "error_generic": "Something went wrong!",
-    "error_already_claimed": "Item has already been claimed!"
+    "error_already_claimed": "Item has already been claimed!",
+    "event_win": {
+      "congratulations": "Congratulations!",
+      "header_daily": "You won the daily",
+      "header_weekly": "You won the weekly",
+      "header_group": "You won the event {{eventName}}",
+      "with_score": "With a score of {{winningScore}} ",
+      "well_done": "Well done, amazing job!",
+      "share": "Share",
+      "copied_success": "Message copied to clipboard"
+    }
   },
   "help": {
     "add_friends_title": "How do I add friends?",
