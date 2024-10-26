@@ -2432,5 +2432,8 @@
     "Code not found.": "Code not found",
     "Code has expired.": "Code has expired",
     "You can only claim a referral code once.": "You can only claim a referral code once."
+  },
+  "academy": {
+    "title": "Cuebids Academy"
   }
 }
