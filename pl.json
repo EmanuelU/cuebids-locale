@@ -1319,6 +1319,7 @@
     "loading": "Ładowanie...",
     "search": "Szukaj...",
     "no_hits": "Brak wyników",
+    "error": "Coś poszło nie tak",
     "sign-out-dialog": {
       "title": "Wylogować się?",
       "confirm_text": "Czy na pewno chcesz się wylogować?",

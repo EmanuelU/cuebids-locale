@@ -1300,6 +1300,7 @@
     "loading": "Laddar...",
     "search": "Sök...",
     "no_hits": "Inga träffar",
+    "error": "Något gick fel",
     "sign-out-dialog": {
       "title": "Logga ut?",
       "confirm_text": "Är du säker att du vill logga ut?",
