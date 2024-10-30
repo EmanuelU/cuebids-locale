@@ -851,7 +851,8 @@
     "store": "Butik",
     "history": "Historik",
     "top10": "Topp 10",
-    "shared": "Delade"
+    "shared": "Delade",
+    "academy": "Akademi"
   },
   "robots": {
     "robots": "Robotar",
@@ -1300,6 +1301,7 @@
     "loading": "Laddar...",
     "search": "Sök...",
     "no_hits": "Inga träffar",
+    "error": "Något gick fel",
     "sign-out-dialog": {
       "title": "Logga ut?",
       "confirm_text": "Är du säker att du vill logga ut?",
@@ -2447,5 +2449,22 @@
     "Code not found.": "Koden finns ej",
     "Code has expired.": "Koden har löpt ut",
     "You can only claim a referral code once.": "Du kan bara använda en inbjudningskod."
+  },
+  "academy": {
+    "title": "Cuebids Academy",
+    "description": "Learn bidding with Cuebids Academy! Here you can enroll in various courses and earn badges for your profile. ",
+    "read_more": "Read more",
+    "enroll": "Enroll",
+    "close": "Close",
+    "error_courses": "Error fetching courses",
+    "no_courses": "No courses",
+    "course": {
+      "title": "Lessons",
+      "description": "Here are the lessons in this course. You can read more about each lesson by clicking on it.",
+      "no_lessons": "No lessons",
+      "no_course": "No course",
+      "error_lessons": "Error fetching lessons",
+      "error_course": "Error fetching course"
+    }
   }
 }

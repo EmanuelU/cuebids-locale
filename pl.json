@@ -870,7 +870,8 @@
     "store": "Sklep",
     "history": "Historia",
     "top10": "Top 10",
-    "shared": "Udostępnione"
+    "shared": "Udostępnione",
+    "academy": "Academy"
   },
   "robots": {
     "robots": "Roboty",
@@ -1319,6 +1320,7 @@
     "loading": "Ładowanie...",
     "search": "Szukaj...",
     "no_hits": "Brak wyników",
+    "error": "Coś poszło nie tak",
     "sign-out-dialog": {
       "title": "Wylogować się?",
       "confirm_text": "Czy na pewno chcesz się wylogować?",
@@ -2464,5 +2466,22 @@
     "Code not found.": "Nie znaleziono kodu",
     "Code has expired.": "Kod wygasł",
     "You can only claim a referral code once.": "Możesz odebrać kod polecający tylko raz."
+  },
+  "academy": {
+    "title": "Cuebids Academy",
+    "description": "Learn bidding with Cuebids Academy! Here you can enroll in various courses and earn badges for your profile. ",
+    "read_more": "Read more",
+    "enroll": "Enroll",
+    "close": "Close",
+    "error_courses": "Error fetching courses",
+    "no_courses": "No courses",
+    "course": {
+      "title": "Lessons",
+      "description": "Here are the lessons in this course. You can read more about each lesson by clicking on it.",
+      "no_lessons": "No lessons",
+      "no_course": "No course",
+      "error_lessons": "Error fetching lessons",
+      "error_course": "Error fetching course"
+    }
   }
 }
