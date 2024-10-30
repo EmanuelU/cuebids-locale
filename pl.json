@@ -968,7 +968,8 @@
     "oppsMichaels": "Dwukolorówka przeciwnik",
     "vs2DMulti": "2D Multi przeciwnika",
     "weakTwoX": "Kontra po słabych dwóch",
-    "v4Beta": "New Scoring Test"
+    "v4Beta": "New Scoring Test",
+    "reverse": "Reverse"
   },
   "groups": {
     "replace_deal_confirm": "Czy na pewno chcesz zamienić to rozdanie? Po zamianie rozdanie zostanie trwale usunięte.",
