@@ -600,6 +600,7 @@
     "show_older_challenges": "Show older challenges",
     "challenge_friends": "Challenge friends",
     "ranked_match": "Ranked match",
+    "robot": "Robot challenge",
     "tab_my_challenges": "My Challenges",
     "no_challenges": "You haven't played any challenges",
     "tab_global": "Global",
@@ -638,6 +639,24 @@
     "error_partner_cannot_afford": "Your partner cannot afford to play",
     "error_challenges_disabled": "Your partner has disabled you from spending their tickets and joining ranked challenges",
     "error_matchmaking_failed": "Matchmaking failed"
+  },
+  "robot_challenge": {
+    "title": "Robot challenge",
+    "info": "Play 2v2 against two Lia bots!",
+    "partner": "Partner",
+    "partner_disabled_label": "Ranked challenges disabled",
+    "bullet_robots": "Advanced robots",
+    "bullet_boards": "8 boards",
+    "banned_you": "Your account is temporarily suspended from competitive play.",
+    "banned_partner": "Your partner's account is temporarily suspended from competitive play.",
+    "cancel": "Cancel search",
+    "start_challenge": "Start challenge",
+    "price_dialog_title": "Start robot challenge",
+    "price_dialog_submit": "Start",
+    "error_cannot_afford": "You cannot afford to play",
+    "error_partner_cannot_afford": "Your partner cannot afford to play",
+    "error_challenges_disabled": "Your partner has disabled you from spending their tickets and joining ranked challenges",
+    "chat_start": "Good luck and have fun, beep boop!"
   },
   "start_challenge": {
     "create_error": "Error when creating challenge ({{error}})",
