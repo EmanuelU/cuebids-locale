@@ -618,6 +618,7 @@
     "show_older_challenges": "Pokaż starsze wyzwania",
     "challenge_friends": "Rzuć wyzwanie znajomym",
     "ranked_match": "Mecz rankingowy",
+    "robot": "Wyzwanie z robotem",
     "tab_my_challenges": "Moje wyzwania",
     "no_challenges": "Nie zagrałeś jeszcze żadnego wyzwania",
     "tab_global": "Globalne",
@@ -656,6 +657,23 @@
     "error_partner_cannot_afford": "Twojego partnera nie stać na grę",
     "error_challenges_disabled": "Twój partner wyłączył możliwość wydawania jego biletów i dołączania do rankingowych wyzwań",
     "error_matchmaking_failed": "Wyszukiwanie meczu nie powiodło się"
+  },
+  "robot_challenge": {
+    "title": "Wyzwanie z robotami",
+    "info": "Graj 2v2 przeciwko dwóm botom Lia!",
+    "partner": "Partner",
+    "partner_disabled_label": "Wyzwania z robotami wyłączone",
+    "bullet_boards": "8 stolików",
+    "banned_you": "Twoje konto jest tymczasowo zawieszone w rozgrywkach.",
+    "banned_partner": "Konto Twojego partnera jest tymczasowo zawieszone w rozgrywkach.",
+    "start_challenge": "Rozpocznij wyzwanie",
+    "price_dialog_title": "Rozpocznij wyzwanie z robotami",
+    "price_dialog_submit": "Rozpocznij",
+    "error_cannot_afford": "Nie stać cię na grę",
+    "error_partner_cannot_afford": "Twojego partnera nie stać na grę",
+    "error_challenges_disabled": "Twój partner wyłączył możliwość wydawania jego biletów i dołączania do wyzwań rankingowych",
+    "error_failed_to_create": "Błąd podczas tworzenia wyzwania",
+    "chat_start": "Powodzenia i miłej zabawy, bip bop!"
   },
   "start_challenge": {
     "create_error": "Błąd podczas tworzenia wyzwania ({{error}})",

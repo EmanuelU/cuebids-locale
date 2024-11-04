@@ -8,20 +8,20 @@
       "not_vulnerable": "Non vuln",
       "vuln_vs_not_vuln": "Défavorable",
       "not_vuln_vs_vuln": "Favorable",
-      "NONE": "Aucun",
+      "NONE": "Personne",
       "EW": "Est/Ouest",
       "NS": "Nord/Sud",
       "ALL": "Tous"
     },
     "hand": {
-      "HCP": "DH"
+      "HCP": "Points DH"
     },
     "scoring": {
-      "name": "Form",
-      "TEAMS": "Equipe",
+      "name": "Type de marque",
+      "TEAMS": "Quatre",
       "PAIRS": "Paire",
       "BAM": "BAM",
-      "RUBBER": "Rubber"
+      "RUBBER": "Robre"
     },
     "dealer": "Donneur",
     "directions": {
@@ -43,7 +43,7 @@
       "title": "Sondage"
     },
     "challenge_timer": {
-      "end_at_reset": "Challenge will end at daily reset."
+      "end_at_reset": "Le défi se terminera lors de la réinitialisation quotidienne."
     },
     "contact_card": {
       "contact": "Contact"
@@ -52,14 +52,14 @@
       "title": "Evénement quotidien",
       "pairs": "Paires",
       "continue": "Continuez",
-      "leaderboard": "Leaderboard",
+      "leaderboard": "Classement",
       "join_event": "Rejoignez l’événement"
     },
     "weekly_card": {
       "title": "Evénement hebdomadaire",
       "pairs": "Paires",
       "continue": "Continuez",
-      "leaderboard": "Leaderboard",
+      "leaderboard": "Classement",
       "join_event": "Rejoignez l’événement"
     },
     "group_event_card": {
@@ -196,8 +196,8 @@
     "thanks": "Merci !",
     "already_subscribed": "Vous êtes déja abonné !",
     "iap_sub_info": "Il semble que vous vous êtes abonnés par l’application mobile. Pour gérer votre inscription, merci d’utiliser l’application.",
-    "group_sub_info": "Vous avez reçu une inscription gratuite de la part d’un de vos groups. Profitez en !",
-    "junior_sub_info": "Vous avez reçu une inscription gratuite car vous êtes junior. Profitez en !",
+    "group_sub_info": "Vous avez reçu une inscription gratuite de la part d’un de vos groupes. Profitez en !",
+    "junior_sub_info": "Vous avez reçu une inscription gratuite car vous êtes junior. Profitez en !",
     "upgrade_to_diamond": {
       "info_1": "Evoluez vers",
       "info_2": "Carreau",
@@ -218,7 +218,7 @@
     },
     "manage_subscription_pre_styled": "Cliquez sur",
     "manage_subscription_styled": "Gestion de l’abonnement",
-    "manage_subscription_post_styled": " et après cliquez sur mise à jour de ??.",
+    "manage_subscription_post_styled": " et après cliquez sur mise à jour de ??.",
     "already_heart": {
       "info_1": "L’abonnement Coeur est l’abonnement de plus haut niveau et il inclut",
       "info_2": "un nombre infini",
@@ -371,15 +371,15 @@
       "first_bid_on_spot": {
         "header": "Première enchère pour ce sondage",
         "text": "Vous avez reçu la première réponse à votre sondage !",
-        "url": "https://cuebids.com/spots/fr/{{spotId}}"
+        "url": "https://cuebids.com/spots/en/{{spotId}}"
       },
       "comment_on_bid": {
         "header": "{{userName}} a commenté votre enchère",
-        "url": "https://cuebids.com/spots/fr/{{spotId}}"
+        "url": "https://cuebids.com/spots/en/{{spotId}}"
       },
       "comment_on_bid_you_follow": {
         "header": "{{userName}} a commenté une enchère que vous suivez",
-        "url": "https://cuebids.com/spots/fr/{{spotId}}"
+        "url": "https://cuebids.com/spots/en/{{spotId}}"
       }
     },
     "successfully_created": "Sondage créé"
@@ -419,6 +419,7 @@
     "step_bidding": {
       "title": "Enchère",
       "text": "Essayer d’enchérir quelques donnes avec le robot Lia. Lia enchérira en utilisant le système 2 sur 2 ! Vous apprendrez comment les enchères fonctionnent sur Cuebid",
+      "more": "Si vous préférez jouer avec un ami, vous pouvez passer cette étape.",
       "try": "Essayez une une session avec Lia",
       "lia_session_started": "La session avec Lia a commencé. Vous la trouverez en bas de la page.",
       "click_on_session": "Cliquez sur une donne pour naviguer vers elle. Si la ligne est surlignée, c’est votre tour d’enchérir.",
@@ -431,7 +432,7 @@
     },
     "step_friend": {
       "title": "Ajoutez un ami",
-      "pending_requests_info": "Vous n’avez pas d’ami communs. Peut être que votre partenaire n’a pas encore accepté vour demande d’ami.",
+      "pending_requests_info": "Vous n’avez pas d’ami communs. Peut être que votre partenaire n’a pas encore accepté votre demande d’ami.",
       "info": "Il y a 4 manières pour ajouter des amis. Vous devez aller sur la page des amis, tout à droite dans le menu du bas. Puis cliquez sur le bouton \"Ajouter\".",
       "friend_key_info": "Ajouter un ami via le <strong>Code Ami</strong>.",
       "search_info": "Trouvez votre ami en cherchant avec son nom. Envoyez-lui une demande d’ami quand vous l’aurez trouvé.",
@@ -444,6 +445,11 @@
     },
     "step_help": {
       "title": "Plus d’informations",
+      "info_youtube_pre_link1": "Cette ",
+      "info_youtube_link1": "vidéo YouTube",
+      "info_youtube_pre_link2": " explique les concepts de base de Cuebids. Sur notre ",
+      "info_youtube_link2": "chaîne YouTube",
+      "info_youtube_post_link2": " vous trouverez plus de vidéos expliquant divers concepts de Cuebids.",
       "info_1_pre_link": "sur notre ",
       "info_1_link": "page des FAQ",
       "info_1_post_link": " vous trouverez plus d’informations sur comment Cuebids fonctionne.\nPar exemple, vous pouvez en savoir plus sur le système de notation et nos robots.\nVous pouvez y accéder à partir du menu et y revenir à n’importe quel moment.",
@@ -452,8 +458,12 @@
       "info_2_post_link": ".",
       "info_3_pre_link": "Pour échanger, faire des commentaires ou parler aux développeurs et utilisateurs - ",
       "info_3_link": "Rejoignez notre serveur Discord",
+      "info_facebook_pre_link": "Sur notre ",
+      "info_facebook_link": "page Facebook",
+      "info_facebook_post_link": " nous publions des problèmes de mise et d'autres mises à jour.",
       "enjoy": "Profitez de Cuebids !",
-      "confirm": "J’ai compris !"
+      "confirm": "J’ai compris !",
+      "session_page_help": "Votre session est terminée, retournez à la page de démarrage pour continuer."
     },
     "step_create_session": {
       "title": "Commencer à enchérir",
@@ -510,589 +520,645 @@
     }
   },
   "login": {
-    "intro_button": "What is Cuebids?",
+    "intro_button": "Qu’est ce que Cuebids ?",
     "intro": {
       "title": "Cuebids",
-      "practice_title": "Bidding practice",
-      "practice_p1_styled": "Connect",
-      "practice_p1_post_styled": " to your partner and start bidding.",
-      "practice_p2": "No need to be online at the same time.",
-      "learn_title": "Learn",
-      "learn_p1_pre_styled": "Get ",
-      "learn_p1_styled": "instant feedback",
-      "learn_p1_post_styled": " based on double dummy simulations.",
-      "learn_p2_pre_styled": "See what others did - compare with ",
-      "learn_p2_styled": "professionals",
-      "learn_p2_post_styled": "and friends",
-      "free_pre_styled": "And it's ",
-      "free_styled": "FREE",
-      "example": "Example",
+      "practice_title": "Entraînement aux enchère",
+      "practice_p1_styled": "Connectez-vous",
+      "practice_p1_post_styled": " avec votre partenaire et commencez à enchérir.",
+      "practice_p2": "Pas besoin d’être connecté en même temps.",
+      "learn_title": "Apprendre",
+      "learn_p1_pre_styled": "Ayez un ",
+      "learn_p1_styled": "retour immédiat",
+      "learn_p1_post_styled": " basé sur des simulations à 4 jeux.",
+      "learn_p2_pre_styled": "Voyez ce que les autres ont fait – comparez vous avec ",
+      "learn_p2_styled": " des professionels",
+      "learn_p2_post_styled": "et des amis",
+      "free_pre_styled": "Et c’est ",
+      "free_styled": "GRATUIT",
+      "example": "Exemple",
       "confirm": "Got it!"
     },
     "email_placeholder": "example@cuebids.com",
-    "password_placeholder": "password",
+    "password_placeholder": "Mot de passe",
     "display_name_placeholder": "Mr. Cuebids",
     "referral_code_label": "Referral code",
-    "referral_code_placeholder": "CODE HERE",
-    "referral_code_info": "Enter referral or promotional code. You can also create an account without a code.",
-    "login_with_google": "Continue with Google",
-    "login_with_apple": "Continue with Apple",
-    "remember_me": "Remember me",
-    "forgot_password": "Forgot password?",
-    "create_account": "Create account",
-    "login_method_label": "Login method",
-    "terms": "Terms of use",
-    "read_terms": "I've read and agreed to the ",
-    "not_member": "Not a member?",
-    "create_free_account": "Create free account",
-    "or": "OR",
+    "referral_code_placeholder": "CODE ICI",
+    "referral_code_info": "Enter referral ou le code promotionnel. Vous pouvez aussi créer un compte sans code.",
+    "login_with_google": "Continuer avec Google",
+    "login_with_apple": "Continuer avec Apple",
+    "remember_me": "Se souvenir de moi",
+    "forgot_password": "Mot de passe oublié ?",
+    "create_account": "Créer un compte",
+    "login_method_label": "Méthode de connexion",
+    "terms": "Conditions d’utilisation",
+    "read_terms": "J’ai lu et accepté les ",
+    "not_member": "Pas member ?",
+    "create_free_account": "Créer un compte gratuit",
+    "or": "OU",
     "messages": {
-      "no_email": "Please enter your registered email address and try again.",
-      "short_email": "The email address is badly formatted.",
-      "password_required": "Password is required (minimum 6 characters).",
-      "pw_reset_error_default": "Something went wrong. Make sure you spelled your email correctly and that it's the one you used for Cuebids. If you keep having issues, contact support at support@cuebids.com",
-      "pw_reset_success": "Success! We've sent you an email with a link to reset your password.",
-      "create_account_error_default": "Something went wrong, please try again. Double check your email spelling.",
-      "login_error_default": "Something went wrong. Make sure you spelled your email correctly and that it's the one you used for Cuebids. If you keep having issues, contact support at support@cuebids.com",
-      "login_success": "Welcome back!",
-      "create_account_success": "Welcome to Cuebids! We are glad to have you here <3",
-      "auth_invalid_email": "Email address is not valid. Please check your spelling.",
-      "auth_user_not_found": "Account does not exist. \n Please check your spelling or try a different email address.",
-      "auth_too_many_requests": "You have made too many requests. Please wait patiently for your email or contact support at support@cuebids.com",
-      "auth_wrong_password": "Password incorrect. \n Forgot password? Click the forgot password link."
+      "no_email": "Veuillez saisir votre adresse email enregistrée et recommencez.",
+      "short_email": "L’adresse email est mal formatée.",
+      "password_required": "Le mot de passe est requis (6 caractères minimum).",
+      "pw_reset_error_default": "Une erreur s’est produite. Assurez-vous d’avoir bien saisi votre adresse email et qu’il s’agit bien de celle que vous avez utilize pour Cuebids. Si vous continuez à rencontrer des problèmes, contactez le support à l’adresse support@cuebids.com",
+      "pw_reset_success": "Réussi ! Nous vous avons envoyé un email avec un lien pour réinitialiser votre mot de passe.",
+      "create_account_error_default": "Une erreur s’est produite, veuillez réessayer. Vérifiez l’orthographe de votre email.",
+      "login_error_default": "Une erreur s’est produite. Assurez-vous d’avoir bien saisi votre adresse email et qu’il s’agit bien de celle que vous avez utilize pour Cuebids. Si vous continuez à rencontrer des problèmes, contactez le support à l’adresse support@cuebids.com",
+      "login_success": "Bon retour !",
+      "create_account_success": "Bienvenue sur Cuebids! Nous sommes heureus que vous nous rejoigniez <3",
+      "auth_invalid_email": "Adresse email invalide. Veuillez vérifier son orthographe.",
+      "auth_user_not_found": "Le compte n’existe pas. \n Veuillez vérifier son orthographe ou essayez une adresse email différente.",
+      "auth_too_many_requests": "Vous avez fait trop de demandes. Please wait patiently for your email ou contactez le support à l’adresse support@cuebids.com",
+      "auth_wrong_password": "Mot de passe incorrect. \n Mot de passe oublié ? Cliquez sur le lien Mot de passe oublié."
     },
     "footer": {
-      "legal": "Legal",
-      "privacy_policy": "Privacy Policy",
-      "terms_of_service": "Terms of Use",
+      "legal": "Légal",
+      "privacy_policy": "Politique de confidentialité",
+      "terms_of_service": "Conditions d’utilisation",
       "contact": "Contact",
-      "discord": "Join our Discord"
+      "discord": "Rejoignez-nous sur Discord"
     }
   },
+  "account_not_created_correctly": {
+    "info": "Votre compte n'a pas été créé correctement. Veuillez fournir les informations manquantes pour commencer avec Cuebids.",
+    "submit_button": "Continuer"
+  },
   "challenge": {
-    "win": "Win",
-    "loss": "Loss",
-    "draw": "Draw",
+    "win": "Victoires",
+    "loss": "Défaites",
+    "draw": "Nulles",
     "vs": "VS",
     "tot": "TOT",
-    "avg": "AVG",
-    "challenges": "Challenges",
-    "ranked": "Ranked",
-    "friendly": "Friendly",
-    "wdl": "W/D/L",
-    "win_percent": "Win %",
-    "boards": "Boards",
-    "with": "WITH",
-    "tot_avg": "TOT/AVG",
-    "more_stats": "More challenge stats",
-    "most_frequent_partner": "Most frequent partner",
-    "most_frequent_matchup": "Most frequent matchup",
-    "most_frequent_opponents": "Most frequent opponents",
-    "partner": "Partner",
-    "partnership_stats": "Partnership stats",
-    "opponents": "Opponents",
-    "or": "OR",
-    "search_by_name_label": "Search user by name",
-    "search_by_name_placeholder": "User name",
-    "search_by_name_submit": "Search",
-    "search_by_name_results": "Results ({{count}})",
-    "search_by_name_empty": "No search results",
-    "select": "Select",
-    "tab_player_stats": "Player stats",
-    "tab_partner": "Partner",
-    "tab_matchup": "Matchup",
-    "tab_search_player": "Search player",
-    "show_older_challenges": "Show older challenges",
-    "challenge_friends": "Challenge friends",
-    "ranked_match": "Ranked match",
-    "tab_my_challenges": "My Challenges",
-    "no_challenges": "You haven't played any challenges",
+    "avg": "MOYENNE",
+    "challenges": "Dédis",
+    "ranked": "Classés",
+    "friendly": "Amicalement",
+    "wdl": "V/N/D",
+    "win_percent": "% de victoires",
+    "boards": "Donnes",
+    "with": "AVEC",
+    "tot_avg": "TOT/MOYENNE",
+    "more_stats": "Plus de statistiques sur les défis",
+    "most_frequent_partner": "Partenaire le plus fréquent",
+    "most_frequent_matchup": "Affrontement le plus fréquent",
+    "most_frequent_opponents": "Adversaires les plus fréquents",
+    "partner": "Partenaire",
+    "partnership_stats": "Statistiques du partenariat",
+    "opponents": "Adversaires",
+    "or": "OU",
+    "search_by_name_label": "Recherchez un utilisateur par son nom",
+    "search_by_name_placeholder": "Nom d’utilisateur",
+    "search_by_name_submit": "Recherche",
+    "search_by_name_results": "({{count}}) résultats",
+    "search_by_name_empty": "Aucun résultat",
+    "select": "Selectionner",
+    "tab_player_stats": "Statistiques du joueur",
+    "tab_partner": "Partenaire",
+    "tab_matchup": "Affrontement",
+    "tab_search_player": "Recherche de joueur",
+    "show_older_challenges": "Montrez les défis anciens",
+    "challenge_friends": "Défiez les amis",
+    "ranked_match": "Match classé",
+    "robot": "Défi robot",
+    "tab_my_challenges": "Mes défis",
+    "no_challenges": "Nous n’avez joué aucun défi",
     "tab_global": "Global",
-    "tab_stats": "Stats",
+    "tab_stats": "Statistiques",
     "tab_top": "Top 10",
-    "show_more": "Show more",
-    "not_finished": "Not finished",
-    "go_to_deal": "Go to deal",
-    "kibitz_ongoing": "The players are still fighting it out! Come back when they have finished to see the result.",
+    "show_more": "Montrez plus",
+    "not_finished": "Pas fini",
+    "go_to_deal": "Allez à la donne",
+    "kibitz_ongoing": "Les joueurs continuent de s’affronter ! Revenez quand ils auront fini pour voir le résultat.",
     "rematch": "Rematch",
-    "error_missing_partner": "Missing partner",
-    "error_missing_opponents": "Missing opponents",
-    "error_insufficient_deals": "Insufficient number of available deals"
+    "error_missing_partner": "Partenaire manquant",
+    "error_missing_opponents": "Adversaires manquants",
+    "error_insufficient_deals": "Nombre insuffisant de donnes disponibles"
   },
   "challenge_matchmaking": {
-    "cancel_error": "Error when cancelling challenge",
-    "create_error": "Error when creating challenge ({{error}})",
-    "title": "Ranked challenge",
-    "info": "Get paired with random opponents on your skill level and play a ranked challenge. You will gain or lose stars depending on the outcome. Try to reach the Ace level!",
-    "partner": "Partner",
-    "partner_disabled_label": "Ranked challenges disabled",
-    "bullet_robots": "Advanced robots",
-    "bullet_boards": "8 boards",
-    "bullet_ranked": "Ranked",
-    "in_progress": "Matchmaking in progress... You can leave the page. You will get a notification when the challenge starts.",
-    "somebody_looking": "Somebody is looking for a challenge",
-    "banned_you": "Your account is temporarily suspended from competitive play.",
-    "banned_partner": "Your partner's account is temporarily suspended from competitive play.",
-    "cancel": "Cancel search",
-    "find_match": "Find match",
-    "price_dialog_title": "Start ranked challenge",
-    "price_dialog_submit": "Start",
-    "error_already_searching": "You are already looking for a challenge",
-    "error_partner_already_searching": "Your partner is already looking for a challenge",
-    "error_cannot_afford": "You cannot afford to play",
-    "error_partner_cannot_afford": "Your partner cannot afford to play",
-    "error_challenges_disabled": "Your partner has disabled you from spending their tickets and joining ranked challenges",
-    "error_matchmaking_failed": "Matchmaking failed"
+    "cancel_error": "Erreur lors de l’annulation du défi",
+    "create_error": "Erreur lors de la creation du défi ({{error}})",
+    "title": "Défi classé",
+    "info": "Associez-vous de manière aléatoire à des adversaires de votre niveau et participez à un défi classé. Vous gagnerez ou perdrez des étoiles en fonction du résultat. Essayez d'atteindre le niveau !",
+    "partner": "Partenaire",
+    "partner_disabled_label": "Défis classés désactivés",
+    "bullet_robots": "Robots avancés",
+    "bullet_boards": "8 donnes",
+    "bullet_ranked": "Classé",
+    "in_progress": "Création du match en cours... Vous pouvez quitter cette page. Vous recevrez une notification quand le défi commencera.",
+    "somebody_looking": "Quelqu’un recherche un défi",
+    "banned_you": "Votre compte est temporairement suspend des parties compétives.",
+    "banned_partner": "Le compte de votre partenaire est temporairement suspend des parties compétitives.",
+    "cancel": "Annuler la recherche",
+    "find_match": "Match trouvé",
+    "price_dialog_title": "Commencer le défi classé",
+    "price_dialog_submit": "Commencer",
+    "error_already_searching": "Vous êtes déjà en recherche d’un défi",
+    "error_partner_already_searching": "Votre partenaire est déjà en recherché d’un défi",
+    "error_cannot_afford": "Vous ne pouvez pas vous permettre de jouer",
+    "error_partner_cannot_afford": "Votre partenaire ne peut pas se permettre de jouer",
+    "error_challenges_disabled": "Votre partenaire a désactivé votre possibilité de dépenser ses tickets et de participer à des défis classés",
+    "error_matchmaking_failed": "La création du match a échoué"
+  },
+  "robot_challenge": {
+    "title": "Défi robot",
+    "info": "Jouez en 2v2 contre deux bots Lia !",
+    "partner": "Partenaire",
+    "partner_disabled_label": "Défis robot désactivés",
+    "bullet_boards": "8 donnes",
+    "banned_you": "Votre compte est temporairement suspend des parties compétives.",
+    "banned_partner": "Le compte de votre partenaire est temporairement suspend des parties compétitives.",
+    "start_challenge": "Lancer le défi",
+    "price_dialog_title": "Commencer le défi robot",
+    "price_dialog_submit": "Commencer",
+    "error_cannot_afford": "Vous n'avez pas les moyens de jouer",
+    "error_partner_cannot_afford": "Votre partenaire n'a pas les moyens de jouer",
+    "error_challenges_disabled": "Votre partenaire vous a interdit d'utiliser ses tickets et de rejoindre les défis classés",
+    "error_failed_to_create": "Échec de la création du défi",
+    "chat_start": "Bonne chance et amusez-vous bien, bip bop !"
   },
   "start_challenge": {
-    "create_error": "Error when creating challenge ({{error}})",
-    "partner_label": "Partner",
-    "boards_label": "Boards",
+    "create_error": "Erreur en créant le défi ({{error}})",
+    "partner_label": "Partenaire",
+    "boards_label": "Donnes",
     "robots_label": "Robots",
-    "opponent_one_label": "Opponent (North)",
-    "opponent_two_label": "Opponent (South)",
-    "pro_challenge": "Pro challenge",
-    "pro_challenge_pre_styled": "All players are ",
+    "opponent_one_label": "Adversaire (Nord)",
+    "opponent_two_label": "Adversaire (Sud)",
+    "pro_challenge": "Défi de pro",
+    "pro_challenge_pre_styled": "Tous les joueurs sont ",
     "pro_challenge_styled": "PRO",
-    "pro_challenge_post_styled": "Please allow us to save the deals for use in special events in the future. Thank you for being a pro and supporting the community!",
-    "create_challenge": "Create challenge"
+    "pro_challenge_post_styled": "Merci de nous autoriser à sauvegarder les donnes pour les utiliser lors d’événements spéciaux dans le futur. Merci d’être un pro et de soutenir la communauté!",
+    "create_challenge": "Créer défi"
   },
   "settings": {
-    "display_name_short_error": "Too short",
-    "display_name_forbidden_characters_error": "Forbidden characters",
-    "newsletter_confirm_sent": "Verification email has been sent, check your email inbox. If you cannot see the email, check your junk folder. Please note that it can take several minutes before the email arrives. When you have clicked the confirmation link in the email you can claim your reward. If the email never arrives, check that your email address is correct and try again.",
-    "newsletter_started": "Sending verification email. If the email does not arrive, check that your email address is correct and try again.",
-    "try_again": "Try again",
-    "newsletter_cta": "Subscribe to newsletter",
-    "newsletter_subscribed": "Subscribed to newsletter",
-    "rewards": "Rewards",
-    "preparing_reward": "Preparing reward",
-    "claim": "Claim",
+    "display_name_short_error": "Trop court",
+    "display_name_forbidden_characters_error": "Caractères interdits",
+    "newsletter_confirm_sent": "un email de vérification vous a été envoyé, vérifiez votre boîte de réception. Si vous ne trouvez pas cet email, vérifiez votre dossier de courriers indésirables. Veuillez noter que cela peut prendre quelques minutes avant que l’email arrive. Quand vous aurez cliqué sur le lien de confirmation dans l’email, vous pourrez réclamer votre récompense. Si l’email n’arrive jamais, vérifiez si votre adresse email est correcte et réessayez.",
+    "newsletter_started": "Envoi d’un email de vérification. Si vous ne recevez pas l’email, vérifiez que votre adresse mail est correcte et réessayez.",
+    "try_again": "Réssayez",
+    "newsletter_cta": "Inscription à la newsletter",
+    "newsletter_subscribed": "Abonné à la newsletter",
+    "rewards": "Récompenses",
+    "preparing_reward": "Préparation de la récompense",
+    "claim": "Revendiquer",
     "sections": {
-      "polls": "Polls",
-      "scenarios": "Scenarios",
-      "history": "History",
-      "shared": "Shared",
-      "matchmaking": "Matchmaking"
+      "polls": "Sondages",
+      "scenarios": "Scénarios",
+      "history": "Histoire",
+      "shared": "Partagé",
+      "matchmaking": "Création du match"
     },
-    "unsaved_changes": "Unsaved changes",
-    "saved": "Saved",
-    "removal_warning": "This account has been flagged for removal. The process can take some time. After your account is gone, you will no longer be able to restore it. If you change your mind, click here.",
-    "private_apple_login": "Private Apple login",
-    "unknown": "Unknown",
-    "account": "Account: {{email}}",
-    "account_bound": "Your account is bound to this email address. You can have a different contact email, which you can set under 'Profile'",
+    "unsaved_changes": "Modifications non sauvegardées",
+    "saved": "Sauvegardé",
+    "removal_warning": "Ce compte est en cours de suppression. Le processus peut prendre un certain temps. Une fois votre compte supprimé, vous ne pourrez plus le restaurer. Si vous changez d’avis, cliquez ici.",
+    "private_apple_login": "Connexion privée Apple",
+    "unknown": "Inconnu",
+    "account": "Compte : {{email}}",
+    "account_bound": "Votre compte est lié à cette adresse email. Vous pouvez avoir une adresse email de contact différente, que vous pouvez définir sous 'Profil'",
     "notifications": {
-      "saved": "Settings saved",
-      "verification_email_sent": "Verification email sent",
-      "something_went_wrong": "Something went wrong.",
-      "reward_claimed": "Reward claimed"
+      "saved": "Paramètres enregistrées",
+      "verification_email_sent": "Email de vérification envoyé",
+      "something_went_wrong": " Quelque chose s'est mal passé.",
+      "reward_claimed": "Récompense réclamée"
     },
-    "display_name": "Display name",
-    "profile_collapse_title": "Profile",
-    "contact_email_label": "Contact email",
-    "same_as_account_label": "Same as account",
+    "display_name": "Nom affiché",
+    "profile_collapse_title": "Profil",
+    "contact_email_label": "Email de contact",
+    "same_as_account_label": "Identique au compte",
     "email_placeholder": "example@cuebids.com",
     "avatar_label": "Avatar",
-    "flag_label": "Flag",
-    "flag_automatic": "Get automatically ",
-    "public_flag_label": "Public flag",
-    "verify_mid": "Verifiera medlemsnummer",
-    "connect_to_sbf": "Koppla konto till Sbf",
+    "flag_label": "Drapeau",
+    "flag_automatic": "Obtenir automatiquement ",
+    "public_flag_label": "Drapeau public",
+    "verify_mid": "Vérifier le numéro de membre",
+    "connect_to_sbf": "Lier le compte à Sbf",
     "sbf_logo_alt": "Sbf logga",
-    "mid_label": "Medlemsnummer (mid)",
-    "connect_to_sbf_info": "När du kopplar ditt Cuebids-konto till Sbf så kan du logga in på Cuebids genom Sbf:s inloggning.",
-    "view_profile": "View profile",
-    "subscriptions_collapse_title": "Subscriptions",
-    "active_subscription": "{{sub}} subscription",
-    "mobile_sub_info": "Unable to manage subscriptions in the mobile app.\nPlease visit our website.",
-    "manage_subscription_button": "Manage subscription",
-    "manage_subscription_loading": "Please wait",
-    "functionality_collapse_title": "Functionality",
-    "auto_next_label": "Auto next board after bid",
+    "mid_label": "Numéro de membre (mid)",
+    "connect_to_sbf_info": "Lorsque vous connectez votre compte Cuebids à Sbf, vous pouvez vous connecter à Cuebids via le login de Sbf.",
+    "view_profile": "Voir le profil",
+    "subscriptions_collapse_title": "Abonnements",
+    "active_subscription": "{{sub}} abonnement",
+    "mobile_sub_info": "Impossible de gérer l’abonnement dans l’application mobile.\nVeuillez visiter notre site web.",
+    "manage_subscription_button": "Gestion de l’abonnement",
+    "manage_subscription_loading": "Veuillez attendre",
+    "functionality_collapse_title": "Fonctionnalité",
+    "auto_next_label": "Donne suivante automatique après enchère",
     "notifications_collapse_title": "Notifications",
-    "notification_devices_label": "Devices for notifications",
-    "no_notification_devices": "You have no devices registered for notifications",
-    "confirm_delete_token": "You will no longer get notifications to the chosen device.",
+    "notification_devices_label": "Appareils pour notifications",
+    "no_notification_devices": "Vous n’avez aucun appareil enregistré pour les notifications",
+    "confirm_delete_token": "Vous ne recevrez plus de notifications sur l’appareil choisi.",
     "web": "Web",
-    "notifications_disabled_info": "Notifications are disabled for this device",
-    "chat_notifications_label": "Notifications for chat",
-    "poll_notifications_label": "Notifications for new polls",
-    "event_notifications_label": "Notifications for events",
-    "display_collapse_title": "Display",
-    "dark_mode_button": "Dark",
-    "light_mode_button": "Light",
-    "interface_scale_label": "Interface scale",
+    "notifications_disabled_info": "Les notifications sont désactivées pour cet appareil",
+    "chat_notifications_label": "Notifications pour le chat",
+    "poll_notifications_label": "Notifications pour les nouveaux sondages",
+    "event_notifications_label": "Notifications pour les événements",
+    "display_collapse_title": "Affichage",
+    "dark_mode_button": "Sombre",
+    "light_mode_button": "Lumineux",
+    "interface_scale_label": "Echelle d’affichage",
     "interface_scale_small": "Small",
     "interface_scale_medium": "Medium",
     "interface_scale_large": "Large",
-    "symbol_size_label": "Symbol size",
+    "symbol_size_label": "Taille des symboles",
     "sm": "S",
     "md": "M",
     "lg": "L",
     "xl": "XL",
-    "classic": "Classic",
-    "modern": "Modern",
-    "diagram": "Diagram",
-    "order_label": "Order",
-    "default": "!S!H!D!C",
-    "shcd": "!S!H!C!D",
-    "two_suits_label": "Two colors",
-    "two_suits_label_false": "Four colors",
-    "hcp_label": "Show HCP count",
-    "animations_label": "Show animations",
-    "blinking_label": "Show flashing colour",
+    "classic": "Classique",
+    "modern": "Moderne",
+    "diagram": "Diagramme",
+    "order_label": "Ordre",
+    "default": "!P!C!K!T",
+    "shcd": "!P!C!T!K",
+    "two_suits_label": "Deux couleurs",
+    "two_suits_label_false": "Quatre couleurs",
+    "hcp_label": "Montrer les points DH",
+    "animations_label": "Montrer les animations",
+    "blinking_label": "Afficher la couleur clignotante",
     "sections_collapse_title": "Sections",
-    "sections_info": "You can customise your Cuebids interface by hiding menu options for sections you don't use. If we add new features we will add the sections back so you don't miss anything important!",
-    "save": "Save ",
-    "display_name_error": "Invalid display name",
-    "restore_account": "Restore account",
-    "remove_account": "Initiate account removal",
+    "sections_info": "Vous pouvez personnaliser votre interface Cuebids en masquant le menu des options pour les sections que vous n’utilisez pas. Si nous ajoutons de nouvelles fonctionnalités, nous réafficherons les sections afin que vous ne manquiez rien d’important !",
+    "save": "Sauvegarde ",
+    "display_name_error": "Nom affiché invalide",
+    "restore_account": "Restaurer le compte",
+    "remove_account": "Lancer la suppression du compte",
     "mobile": "Mobile",
-    "browser": "Browser",
-    "remove_account_dialog_title": "Account removal",
-    "remove_account_dialog_confirm": "Confirm",
-    "remove_account_dialog_info": "This will flag the account for removal. The process can take some time. After your account is gone, you will no longer be able to restore it. Are you sure you want to delete your account?",
-    "newsletter_dialog_title": "Subscribe to newsletter",
-    "newsletter_dialog_confirm": "Confirm",
-    "newsletter_dialog_email_info": "Make sure this is your email address - you can edit it if needed",
-    "newsletter_dialog_apple_email_info": "Private Apple email addresses cannot be used to subscribe to newsletter",
+    "browser": "Navigateur",
+    "remove_account_dialog_title": "Suppression du compte",
+    "remove_account_dialog_confirm": "Confirmer",
+    "remove_account_dialog_info": "Vous allez demander la suppression du compte. Le processus peut prendre un certain temps. Une fois votre compte supprimé, vous ne pourrez plus le restaurer. Etes-vous vous sûr de vouloir supprimer votre compte ",
+    "newsletter_dialog_title": "Abonnez-vous à la newsletter",
+    "newsletter_dialog_confirm": "Confirmer",
+    "newsletter_dialog_email_info": "Assurez-vous qu’il s’agit bien de votre adresse email – vous pouvez la modifier si nécessaire",
+    "newsletter_dialog_apple_email_info": "Les adresses email privées d’Apple ne peuvent être utilisées pour s’abonner à la newsletter",
     "subs": {
-      "heart": "Heart",
-      "diamond": "Diamond",
-      "club": "Club"
+      "heart": "Coeur",
+      "diamond": "Carreau",
+      "club": "Trèfle"
     },
-    "redeem_code_button": "Have a code? Redeem here"
+    "redeem_code_button": "Vous avez un code ? Echangez le ici"
   },
   "subscribe_newsletter": {
-    "verification_in_progress": "Email verification in progress...",
-    "notification_success": "Email verified",
-    "error": "Something went wrong. Try again. If the problem persists, email support@cuebids.com",
-    "try_again": "Try again",
-    "success": "Email confirmed!",
-    "claim_reward": "Claim reward"
+    "verification_in_progress": "Vérification de l’email en cours...",
+    "notification_success": "Email vérifié",
+    "error": "Quelque chose s'est mal passé. Réessayez. Si le problème persiste, envoyez un email à support@cuebids.com",
+    "try_again": "Réessayer",
+    "success": "Email confirmé !",
+    "claim_reward": "Réclamer ma récompense"
   },
   "start": {
-    "latest_challenge": "Latest challenge",
-    "account_removal_warning": "This account has been flagged for removal. The process can take some time. After your account is gone, you will no longer be able to restore it. If you change your mind, click here.",
-    "subscribed_claim_pending": "Subscribed to newsletter. Click here to claim your reward.",
-    "invited_to_group_event": "Invited to play group event",
-    "you_are": "You are ",
-    "somebody_is": "Somebody is ",
-    "looking_for_challenge": "looking for a challenge",
-    "looking_for_partner": "looking for a partner",
-    "lia_stuck": "Lia stuck - click here?",
-    "completed": "Completed",
-    "flagged": "Flagged",
-    "partner": "Partner",
-    "progress": "Progress",
-    "pairs": "pairs",
-    "gift_friend_yearly": "Gift your friend a year of Cuebids",
-    "show_older_sessions": "Show older sessions"
+    "latest_challenge": "Dernier défi",
+    "account_removal_warning": " Ce compte est en cours de suppression. Le processus peut prendre un certain temps. Une fois votre compte supprimé, vous ne pourrez plus le restaurer. Si vous changez d’avis, cliquez ici.",
+    "subscribed_claim_pending": "Vous venez de vous abonner à la newsletter. Cliquez ici pour réclamez votre récompense.",
+    "invited_to_group_event": "Invité à participer à un événement de groupe",
+    "you_are": "Vous êtes ",
+    "somebody_is": "Quelqu’un est ",
+    "looking_for_challenge": "en train de rechercher un défi",
+    "looking_for_partner": "en train de rechercher un partenaire",
+    "lia_stuck": "Lia est coincée – cliquez ici?",
+    "only_your_turn": "Seulement votre tour",
+    "session_filter_all": "Tous",
+    "session_filter_with_actions": "Votre tour",
+    "session_filter_with_partner_actions": "Partenaire",
+    "session_filter_unfinished": "Inachevé",
+    "completed": "Fini",
+    "flagged": "Signalé",
+    "partner": "Partenaire",
+    "progress": "En cours",
+    "pairs": "paires",
+    "gift_friend_yearly": "Offrez à votre ami un an de Cuebids",
+    "show_older_sessions": "Montrez des sessions anciennes",
+    "no_tickets": "<strong>Abonnez-vous</strong> ou achetez des <strong>tickets</strong> dans la <strong>boutique</strong>",
+    "no_subscription": "<strong>Abonnez-vous</strong> pour débloquer plus de <strong>fonctionnalités</strong>",
+    "no_heart_subscription": "Obtenez un <strong>abonnement Coeur</strong> pour tout débloquer"
   },
   "practice": {
-    "title": "Practice bidding",
-    "description": "Start a practice session with a friend or use our partnership desk feature and find a random partner.",
-    "partner": "Partner",
-    "progress": "Progress",
+    "title": "Pratiquez les enchères",
+    "description": "Démarrez une séance d’entraînement avec un ami ou utilisez notre fonctionnalité de recherche pour trouver un partenaire aléatoire.",
+    "partner": "Partenaire",
+    "progress": "En cours",
     "match": {
-      "title": "Matchmaking",
-      "description": "Get paired with a random partner and play a practice session",
-      "robots": "Basic robots",
-      "boards": "10 boards",
-      "system": "Suggested system: 2 over 1",
-      "tip": "Tip: Use the chat system to discuss changes or additions to the system!",
-      "waiting": "Matchmaking in progress... You can leave the page. You will get a notification when the session starts.",
-      "someone_looking": "Someone is looking for a partner. Click find match to join them!",
-      "find_match": "Find match",
-      "cancel": "Cancel search",
-      "cancel_error": "Error when cancelling session",
-      "create_error": "Error when creating session",
-      "warning_slow": "Matchmaking could take a very long time, Cuebids is best experienced with a friend",
-      "error_matchmaking_failed": "Matchmaking failed"
+      "title": " Création du match",
+      "description": "Soyez associé à un partenaire aléatoire et jouez une séance d’entraînement",
+      "robots": "Robots basiques",
+      "boards": "10 donnes",
+      "system": "Système suggéré : 2 sur 1",
+      "tip": "Astuce : Utilisez le chat pour discuter des modifications ou des ajouts à votre système !",
+      "waiting": " Création du match en cours... Vous pouvez quitter cette page. Vous recevrez une notification quand la session débutera.",
+      "someone_looking": "Quelqu’un recherche un partenaire. Cliquez sur Trouver un match pour le rejoinder !",
+      "find_match": "Trouver un match",
+      "cancel": "Annuler la recherche",
+      "cancel_error": "Erreur en annulant la session",
+      "create_error": "Erreur en créant la session ",
+      "warning_slow": "La création du match peut prendre un temps long, il est préférable de jouer à Cuebids avec un ami",
+      "error_matchmaking_failed": "La création du match a échoué"
+    }
+  },
+  "session_archive": {
+    "partner": "Partenaire",
+    "progress": "Progression",
+    "show_more": "Voir plus",
+    "end_reached": "Vous avez atteint la fin",
+    "delete_dialog": {
+      "title": "Supprimer cette session",
+      "confirm": "Confirmer",
+      "info": "Confirmez la suppression de cette session. Il ne sera pas possible de la restaurer.",
+      "info_weekly": "Même si vous supprimez une session hebdomadaire, vous ne pourrez pas y participer à nouveau cette semaine.",
+      "info_daily": "Même si vous supprimez une session quotidienne, vous ne pourrez pas y participer à nouveau aujourd'hui."
     }
   },
   "routes": {
     "home": "Home",
-    "practice": "Practice",
-    "with_friends": "With a friend",
-    "with_random": "Random partner",
-    "challenge_friends": "Challenge friends",
-    "with_robot": "With Robot",
+    "practice": "Entraînement",
+    "with_friends": "Avec un ami",
+    "with_random": "Partenaire aléatoire",
+    "challenge_friends": "Défie tes amis",
+    "with_robot": "Avec un robot",
     "compete": "Compete",
-    "daily_event": "Daily",
-    "weekly_event": "Weekly",
-    "events": "Events",
-    "challenge": "Challenge",
-    "ranked": "Ranked",
-    "friends": "Friends",
-    "groups": "Groups",
-    "profile": "Profile",
-    "settings": "Settings",
-    "spots": "Polls",
-    "scenarios": "Scenarios",
+    "daily_event": "Quotidien",
+    "weekly_event": "Hebdomadaire",
+    "events": "Evénements",
+    "challenge": "Défi",
+    "ranked": "Classé",
+    "friends": "Amis",
+    "groups": "Groupes",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "spots": "Sondages",
+    "scenarios": "Scénarios",
     "contact": "Contact",
     "faq": "FAQ",
-    "store": "Store",
-    "history": "History",
+    "store": "Boutique",
+    "history": "Historique",
     "top10": "Top 10",
-    "shared": "Shared"
+    "shared": "Partagé"
   },
   "robots": {
     "robots": "Robots",
-    "none": "None",
-    "basic": "Basic",
-    "advanced": "Advanced",
-    "none_explain": "Robots will not compete in the bidding.",
-    "basic_explain": "Basic robots will only bid one suit. These will be removed in a future update. Try Advanced robots for a more realistic experience."
+    "none": "Aucun",
+    "basic": "Basique",
+    "advanced": "Avancé",
+    "none_explain": "Les robots ne participeront pas aux enchères.",
+    "basic_explain": "Les robots basiques enchériront uniquement une couleur. Ils seront supprimées dans une mise à jour future. Essayez les robots avancés pour une expérience plus réaliste."
   },
   "lia": {
-    "convention_card": "Convention card",
-    "two_over_one_system": "2 over 1",
-    "two_over_one_explain": "Bergen, Semi Forcing 1NT",
+    "convention_card": "Carte de convention",
+    "two_over_one_system": "2 sur 1",
+    "two_over_one_explain": "Bergen, 1SA semi forcing",
     "acol": "Acol",
-    "acol_explain": "4 card majors, Jacoby 2NT",
-    "french": "French standard",
-    "french_explain": "Roudi, 2D GF, Ghestem",
-    "swedish": "Swedish expert",
-    "swedish_explain": "Multi, Stenbergs, Gazilli, XY-NT",
-    "swedish_basic": "Basic Swedish",
+    "acol_explain": "majeure 4ème, 2SA Jacoby",
+    "french": "Standard français",
+    "french_explain": "Roudi, 2K KM, Ghestem",
+    "swedish": " Suédois expert",
+    "swedish_explain": "Multi, Stenbergs, Gazilli, double 2",
+    "swedish_basic": "Suédois basique",
     "swedish_basic_explain": "Splinter, Stenbergs",
-    "gavin_light": "Gavin's master series light",
-    "gavin_advanced": "Gavin's master series full",
-    "system": "System",
-    "lia_system": "Lia's System",
-    "create_own_system": "Create your own system here"
+    "gavin_light": " Le système allégé de Gavin Wolpert ",
+    "gavin_advanced": "Le système complet de Gavin Wolpert",
+    "system": "Système",
+    "lia_system": "Le système de Lia",
+    "create_own_system": "Créez ici votre propre système"
   },
   "convention_card": {
-    "title": "Convention card",
-    "opening_bids": "Opening bids",
+    "title": "Carte de convention",
+    "opening_bids": "Ouvertures",
     "conventions": "Conventions"
   },
   "create_session": {
-    "no_friends_info": "You don't have any friends yet. Add some friends to see them here.",
-    "no_mutual_friends_info": "You don't have any mutual friends. Make sure you have not accidentally blocked each other. Both you and your partner should check the 'Show blocked' option in the friends area.",
-    "scenario_robot_conflict": "Some selected scenarios have a conflict between the robot settings",
-    "not_enough_scenarios": "Not enough scenario deals in stock. Please generate more.",
-    "error_creating_session": "Something went wrong. Please try again.",
-    "starting": "Starting session...",
-    "boards": "Boards",
-    "robots": "Robots (opponents)",
-    "scenarios": "Scenarios",
-    "deal_types": "Deal types",
-    "read_more_deal_types": "Read more about deal types here",
-    "sub_not_enough_deal_types": "You need a higher subscription to use these deal types. Click here to go to Store.",
-    "scenario_missing": "Missing something? ",
-    "scenario_missing_info": "Create new or generate stock",
-    "create_new_session": "Create new session",
-    "start_practice_session": "Start practice session",
-    "scenarios_requires_heart": "You need a Heart subscription to use scenarios."
+    "no_friends_info": "Vous n’avez pas encore d’amis. Ajoutez-en et vous les verrez ici. ",
+    "no_mutual_friends_info": "Vous n’avez pas de lien d’amitié mutuelle. Vérifiez que vous ne vous êtes pas bloqués par erreur. Vous et votre partenaire devez vérifier l’option 'Afficher les personnes bloquées' dans la zone des amis.",
+    "scenario_robot_conflict": "Certains scénarios sélectionnés provoquent un conflit entre les paramètres du robot",
+    "not_enough_scenarios": "Il n’y a pas assez de donnes en stock pour ce scénario. Veuillez en générer d’avantage.",
+    "not_enough_deals": "Pas assez de donnes disponibles pour démarrer la session, contactez support@cuebids.com",
+    "error_creating_session": "Quelque chose s'est mal passé. Veuillez réessayer.",
+    "starting": "Démarrage de la session...",
+    "boards": "Donnes",
+    "robots": "Robots (adversaires)",
+    "scenarios": "Scénarios",
+    "deal_types": "Types de donnes",
+    "read_more_deal_types": "En savoir plus sur les types de donnes",
+    "sub_not_enough_deal_types": "Vous avez besoin d’un abonnempent supérieur pour utiliser ce type de donnes. Cliquez ici pour accéder à la boutique.",
+    "scenario_missing": "Il manque quelque chose ? ",
+    "scenario_missing_info": "Créer du nouveau ou générer du stock",
+    "create_new_session": "Créer une nouvelle session",
+    "start_practice_session": "Démarrer une séance d’entraînement",
+    "scenarios_requires_heart": "Vous avez besoin d’un abonnement Coeur pour utiliser les scénarios.",
+    "how_to": {
+      "open_dialog_button": "Comment créer une session",
+      "title": "Options de création de session",
+      "info": "Il existe plusieurs options que vous pouvez utiliser pour personnaliser votre session d'entraînement comme vous le souhaitez.",
+      "partner": "Sélectionnez un ami ou un robot comme partenaire",
+      "number_of_boards": "Sélectionnez le nombre de donnes (1-24)",
+      "robots": "Sélectionnez des robots pour jouer contre vous (mains Est/Ouest). Ou sélectionnez « Aucun » pour jouer sans opposition",
+      "deal_type": "Sélectionnez un type de donne (ou un scénario) pour pratiquer un type de main spécifique"
+    }
   },
   "deal_type_select": {
-    "random": "Random hands",
-    "deal_types": "Deal types",
-    "no_types": "No types..."
+    "random": "Mains aléatoires",
+    "deal_types": "Types de donnes",
+    "no_types": "Pas de type...",
+    "v4_beta": "This is a beta test of the new scoring system. Please report any issues to support@cuebids.com or in the Cuebids Discord server."
   },
   "deal_types": {
-    "weak1N": "Balanced 10-13",
-    "weakish1N": "Balanced 12-14",
-    "strongish1N": "Balanced 14-16",
-    "strong1N": "Balanced 15-17",
-    "variedNT": "Varied NT",
-    "stronger1N": "Balanced 18-19",
-    "veryStrong1N": "Balanced 20+",
-    "majorOpen": "Major opening",
-    "strong1C": "Opener 16+ HCP",
-    "strong2C": "Opener 20+ HCP",
+    "weak1N": "Régulier 10-13",
+    "weakish1N": "Régulier 12-14",
+    "strongish1N": "Régulier 14-16",
+    "strong1N": "Régulier 15-17",
+    "variedNT": "SA varié",
+    "stronger1N": "Régulier 18-19",
+    "veryStrong1N": "Régulier 20+",
+    "majorOpen": "Ouverture majeure",
+    "strong1C": "Ouverture avec 16+ DH",
+    "strong2C": "Ouverture avec 20+ DH",
     "canape": "Canapé",
-    "pdPreempt": "Partner Preempts",
-    "vsPreempt": "Opps Preempt",
-    "gameTry": "Game try",
-    "slamTry": "Slam try",
-    "twoOverOne": "2 over 1",
-    "twoSuiter": "Two suiter",
+    "pdPreempt": "Le partenaire barre",
+    "vsPreempt": "Barrage adverse",
+    "gameTry": "Tentative de manche",
+    "slamTry": "Tentative de chelem",
+    "twoOverOne": "2 sur 1",
+    "twoSuiter": "Bicolore",
     "splinter": "Splinter",
-    "jacoby2N": "Jacoby 2NT",
+    "jacoby2N": "2SA Jacoby",
     "gazzilli": "Gazzilli",
-    "marmic": "Three suited",
-    "majorsVsNT": "Majors or NT",
-    "minorsVsNT": "Minors or NT",
-    "vs1N": "1NT Defence",
-    "vs1NEntry": "1NT Entry",
-    "michaels": "Two Suited Overcall",
-    "oppsMichaels": "Opps Two Suited Overcall",
-    "vs2DMulti": "Opps 2D Multi",
-    "weakTwoX": "Double After Weak Two"
+    "marmic": "Tricolore",
+    "majorsVsNT": "Majeures ou SA",
+    "minorsVsNT": "Mineures ou SA",
+    "vs1N": "Intervention sur 1SA",
+    "vs1NEntry": "Compétitives après 1SA",
+    "michaels": "Intervention bicolore",
+    "oppsMichaels": "Bicolore adverse",
+    "vs2DMulti": "2K multi adverse",
+    "weakTwoX": "Contre après un 2 faible",
+    "v4Beta": "New Scoring Test",
+    "reverse": "Bicolore cher"
   },
   "groups": {
-    "replace_deal_confirm": "Are you sure you want to replace this deal? Once replaced the deal is gone forever. Also note that the new deal might get a different number than the old.",
-    "make_admin_confirm": "Are you sure you want to make them admin?",
-    "remove_admin_confirm": "Are you sure you want to remove their admin role?",
-    "remove_member_confirm": "Are you sure you want to remove them from the group?",
-    "premium_promote_confirm": "Are you sure you want to promote them?",
-    "premium_demote_confirm": "Are you sure you want to demote them?",
-    "delete_confirm": "Are you sure you want to delete this event?",
+    "replace_deal_confirm": "Etes-vous sûr de vouloir remplacer cette donne ? Une fois remplacée, la donne disparait définitivement. Notez également que la nouvelle donne peut avoir un numéro différent de l’ancienne.",
+    "make_admin_confirm": "Etes-vous sûr de vouloir les déclarer administrateurs ?",
+    "remove_admin_confirm": " Etes-vous sûr de vouloir leur retirer le rôle d’administrateur ?",
+    "remove_member_confirm": " Etes-vous sûr de vouloir les supprimer du groupe ?",
+    "premium_promote_confirm": "Etes-vous sûr de vouloir les promouvoir ?",
+    "premium_demote_confirm": "Etes-vous sûr de vouloir les rétrograder ?",
+    "delete_confirm": " Etes-vous sûr de vouloir supprimer cet événement ?",
     "add_members": {
-      "already_member_error": "This user is already a member",
-      "already_invited_error": "This user is already invited to join",
-      "invite_error": "Something went wrong",
-      "add_error": "Something went wrong",
-      "invite_success": "Member invited to group",
-      "add_success": "Member added to group",
-      "link_copied": "Link copied!",
-      "title": "Add members",
-      "using_link_title": "Using link",
-      "link_invites_label": "Allow link invites",
-      "copy_link_info": "Copy this link, and send it to everyone",
-      "copy_link": "Copy link",
-      "closed_group_info": "This is a closed group. Only admins can invite new members.",
-      "search_users_title": "Search users",
-      "add_friends_title": "Add friends to group",
-      "friend_key_title": "Add via friend key",
-      "user_name_label": "Search user name",
-      "user_name_placeholder": "User name",
-      "user_name_search": "Search",
-      "user_name_search_results": "Results ({{count}})",
-      "already_member": "Already member",
-      "remove_invite": "Remove invite",
-      "invite_member": "Invite member",
-      "search_empty": "No search results",
-      "select_friend_label": "Friend to add",
-      "add_friend_submit": "Add friend to group",
-      "friend_key_disabled_error": "This user has disabled adding via friend key. They can enable it again on the Friends page.",
-      "no_such_friend_key_error": "Could not find anyone with that friend key",
-      "friend_key_add_success": "{{displayName}} added to group",
-      "friend_key_label": "Friend key",
+      "already_member_error": "Cet utilisateur est déjà membre",
+      "already_invited_error": "Cet utilisateur est déjà invite à rejoindre le groupe",
+      "invite_error": " Quelque chose s'est mal passé ",
+      "add_error": " Quelque chose s'est mal passé ",
+      "invite_success": "Membre invité au groupe",
+      "add_success": "Membre ajouté au groupe",
+      "link_copied": "Lien copié !",
+      "title": "Ajouter des membres",
+      "using_link_title": "Utilisation du lien",
+      "link_invites_label": "Autoriser les invitations par lien",
+      "copy_link_info": "Copiez ce lien et envoyez le à tout le monde",
+      "copy_link": "Copier le lien",
+      "closed_group_info": "Il s’agit d’un groupe privé. Seuls les administrateurs peuvent inviter de nouveaux membres.",
+      "search_users_title": "Rechercher des utilisateurs",
+      "add_friends_title": "Ajouter des amis au groupe",
+      "friend_key_title": "Ajouter grâce au code Ami",
+      "user_name_label": "Rechercher par nom d’utilisateur",
+      "user_name_placeholder": "Nom d’utilisateur",
+      "user_name_search": "Rechercher",
+      "user_name_search_results": "Resultats ({{count}})",
+      "already_member": "Déjà membre",
+      "remove_invite": "Supprimer l’invitation ",
+      "invite_member": "Inviter un membre",
+      "search_empty": "Aucune résultat pour cette recherche",
+      "select_friend_label": "Amis à ajouter",
+      "add_friend_submit": "Ajouter des amis au groupe",
+      "friend_key_disabled_error": "Cet utilisateur a désactivé l’ajout par le code Ami.Il peut le réactiver sur la page Amis.",
+      "no_such_friend_key_error": "Impossible de trouver quelqu’un avec ce code Ami",
+      "friend_key_add_success": "{{displayName}} ajouté au groupe",
+      "friend_key_label": "Code Ami",
       "friend_key_placeholder": "ABCD01",
-      "friend_key_submit": "Add member"
+      "friend_key_submit": "Ajouter un membre"
     },
     "coach_session_deal": {
-      "title": "Hand {{number}}",
-      "subtitle": "Coaching",
-      "replace_deal_error": "Failed to replace deal: ({{error}})",
-      "rotate_deal_error": "Failed to rotate deal",
-      "replace_deal": "Replace deal",
-      "rotate_deal": "Rotate deal",
+      "title": "Main {{number}}",
+      "subtitle": "Entraînement",
+      "replace_deal_error": "Impossible de remplacer la donne : ({{error}})",
+      "rotate_deal_error": "Impossible de retourner la donne",
+      "replace_deal": "Remplacer la donne",
+      "rotate_deal": "Retourner la donne",
       "present": "Present",
-      "suggested_bidding": "Suggested bidding",
-      "show": "Show",
-      "edit": "Edit",
-      "add": "Add",
-      "cancel": "Cancel",
-      "undo_bid": "Undo bid",
-      "robot_bid": "Robot bid",
-      "save": "Save",
-      "alert_placeholder": "Artificial",
-      "comment_placeholder": "Comment the bidding",
-      "alert": "Alert",
-      "alert_bid_placeholder": "Alert bid",
-      "explain_bid_placeholder": "Explain bid",
-      "contracts": "Contracts",
-      "contract": "Contract",
-      "stars": "Stars",
-      "pairs": "Pairs",
-      "no_pairs_started": "No pairs have started bidding yet",
-      "join_chat": "Join player chat"
+      "suggested_bidding": "Enchère suggérée",
+      "show": "Montrer",
+      "edit": "Editer",
+      "add": "Ajouter",
+      "cancel": "Annuler",
+      "undo_bid": "Reprendrer l’enchère",
+      "robot_bid": "Enchère du robot",
+      "save": "Sauvegarder",
+      "alert_placeholder": "Artificiel",
+      "comment_placeholder": "Commenter l’enchère",
+      "alert": "Alerter",
+      "alert_bid_placeholder": "Alerter l’enchère",
+      "explain_bid_placeholder": "Expliquer l’enchère",
+      "contracts": "Contrats",
+      "contract": "Contrat",
+      "stars": "Etoiles",
+      "pairs": "Paires",
+      "no_pairs_started": "Aucune paire n’a pour l’instant commencé à enchérir",
+      "join_chat": "Rejoindre le tchat des joueurs"
     },
     "coach_session_deal_presentation": {
-      "title": "Hand {{number}}"
+      "title": "Main {{number}}"
     },
     "create_group": {
-      "too_short_error": "Too short",
-      "forbidden_characters_error": "Forbidden characters",
-      "group_name_taken_error": "A group with that name already exists",
-      "group_created_success": "Group created",
-      "create_group_info": "When you create a group you get access to a private space only members of your group can access. There you can chat and create private events. Note that participating in events requires tickets. As always, heart subscribers can participate without any additional cost.",
-      "premium_groups_button_styled": "Are you a bridge coach or teacher? Do you lead a serious bridge team? Click here to read about <strong>premium groups!</strong>",
-      "invite_members_bullet": "Invite members",
-      "group_chat_bullet": "Private group chat",
-      "group_events_bullet": "Private group events",
-      "group_name_label": "Name",
-      "group_name_placeholder": "Enter group name",
+      "too_short_error": "Trop court",
+      "forbidden_characters_error": "Caractères interdits",
+      "group_name_taken_error": "Un groupe du même nom existe déjà",
+      "group_created_success": "Groupe créé",
+      "create_group_info": "Lorsque vous créez un groupe, vous avez accès à un espace privé auquel seuls les membres du groupe peuvent accéder. Vous pouvez y discuter et créer des événements privés. Notez que la participations aux événements nécessite des tickets. Comme toujours, les abonnés Coeur peuvent participer sans aucun surcoût.",
+      "premium_groups_button_styled": "Etes vous coach ou professeur de bridge ? Dirigez vous une équipe de bridge de haut niveau ? Cliquez ici pour en savoir plus sur les <strong> groupes premium !</strong>",
+      "invite_members_bullet": "Inviter des membres",
+      "group_chat_bullet": "Tchat de groupe privé",
+      "group_events_bullet": "Evénements de groupe privé",
+      "group_name_label": "Nom",
+      "group_name_placeholder": "Entrez le nom du groupe",
       "group_description_label": "Description",
-      "group_description_placeholder": "Enter group description",
-      "sub_level_error": "Heart subscribers can create groups",
-      "submit_button": "Create group"
+      "group_description_placeholder": "Entrez la description du groupe",
+      "sub_level_error": "Les abonnés Coeur peuvent créer des groupes",
+      "submit_button": "Créer un groupe"
     },
     "create_group_session": {
-      "scenarios_robot_error": "Some selected scenarios have a conflict between the robot settings.",
-      "missing_name_error": "The event needs a name",
-      "board_count_error": "Must have 1-24 boards",
-      "end_time_past_error": "End time must be in the future.",
-      "start_time_error": "Start time must be in the future and before end time.",
-      "start_time_past_error": "Start time must be in the future.",
-      "end_time_before_start_error": "End time must be after start time.",
-      "scenario_stock_error": "Not enough scenario deals in stock. Please generate more.",
-      "create_event_error": "Failed to create event ({{error}})",
-      "north": "North",
-      "south": "South",
-      "robots_none": "None",
-      "robots_basic": "Basic",
-      "robots_advanced": "Advanced",
-      "boards_label": "Boards",
+      "scenarios_robot_error": "Certains scenarios sélectionnés présentent un conflit avec les paramètres du robot.",
+      "missing_name_error": "L’événement nécessite un nom",
+      "board_count_error": "Doit comprendre de 1 à 24 donnes",
+      "end_time_past_error": "L’heure de fin doit être dans le futur.",
+      "start_time_error": "L’heure de début doit être dans le futur et avant l’heure de fin.",
+      "start_time_past_error": "L’heure de début doit être dans le futur.",
+      "end_time_before_start_error": "L’heure de fin doit être après l’heure de début.",
+      "scenario_stock_error": "Pas assez de donnes en stock. Veuillez en générer d’autres.",
+      "create_event_error": "Echec de la creation de l’événement ({{error}})",
+      "north": "Nord",
+      "south": "Sud",
+      "robots_none": "Aucun",
+      "robots_basic": "Basique",
+      "robots_advanced": "Avancé",
+      "boards_label": "Donnes",
       "robots_label": "Robots",
-      "coach_robot_label": "Play with coach (robot)",
-      "coach_robot_info_1_pre_styled": "This allows members to play with a ",
+      "coach_robot_label": "Jouer avec un coach with coach (robot)",
+      "coach_robot_info_1_pre_styled": "Cela permet aux membres de jouer avec un ",
       "coach_robot_info_1_pre_styled_1": "robot",
-      "coach_robot_info_1_between_styled": " that will use your ",
-      "coach_robot_info_1_styled_2": "suggested bidding",
+      "coach_robot_info_1_between_styled": " cela utilisera votre ",
+      "coach_robot_info_1_styled_2": "enchère suggérée",
       "coach_robot_info_1_post_styled": ".",
-      "coach_robot_info_2_pre_styled": "If the player strays from suggested bidding, our ",
-      "coach_robot_info_2_pre_styled_1": "advanced robots (E/W)",
-      "coach_robot_info_2_between_styled": " or ",
+      "coach_robot_info_2_pre_styled": "Si le joueur s’écarte des enchères suggérées, notre ",
+      "coach_robot_info_2_pre_styled_1": "robots avancés (E/O)",
+      "coach_robot_info_2_between_styled": " ou ",
       "coach_robot_info_2_styled_2": "Lia (N/S)",
-      "coach_robot_info_2_post_styled": " will take over.",
+      "coach_robot_info_2_post_styled": " prendra le relais.",
       "coach_direction_label": "Coach direction",
-      "show_warning_label": "Show warning",
-      "show_warning_info": "This will show a warning to players when they are deviating from suggested bidding.",
-      "name_label": "Name",
-      "name_placeholder": "Enter event name",
+      "show_warning_label": "Afficher un avertissement",
+      "show_warning_info": "Cela affichera un avertissement aux joueurs qui s’écartent de l’enchère suggérée",
+      "name_label": "Nom",
+      "name_placeholder": "Entrez le nom de l’événement",
       "description_label": "Description",
-      "description_placeholder": "Enter event description",
-      "leaderboard_label": "Leaderboard",
-      "start_immediately_label": "Start immediately",
-      "start_time_label": "Start time",
-      "permanent_event_label": "Permanent Event",
-      "end_time_label": "End time",
-      "tab_deal_types": "Deal type",
-      "tab_scenarios": "Scenarios",
-      "group_event_info": "Only members in the group can play in this event.",
-      "group_free_events_info": "Your group has free events. ",
-      "free_event_info": "Joining this event will be free.",
-      "event_price_info": "Joining the event will cost one ticket per board per player.",
-      "free_event_used_info_1": "You have already created a free event this week.",
-      "free_event_used_info_2": "You can still create a normal event.",
-      "group_admin_error": "Only group admins can create events",
-      "create_submit": "Create group event",
-      "edit_submit": "Save event"
+      "description_placeholder": "Entrez la description de l’événement",
+      "leaderboard_label": "Classement",
+      "start_immediately_label": "Débutez immédiatement",
+      "start_time_label": "Heure de début",
+      "permanent_event_label": "Evénement permanent",
+      "end_time_label": "Heure de fin",
+      "tab_deal_types": "Type de donne",
+      "tab_scenarios": "Scénarios",
+      "group_event_info": "Seuls les membres du groupe peuvent participer à cet événement.",
+      "group_free_events_info": "Votre groupe a des événements gratuits. ",
+      "free_event_info": "La participation à cet événement sera gratuite.",
+      "event_price_info": " La participation à cet événement coutera un ticket par donne par joueur.",
+      "free_event_used_info_1": "Vous avez déjà créé un événement gratuit cette semaine.",
+      "free_event_used_info_2": "Vous pouvez encore créer un événement normal.",
+      "group_admin_error": "Seuls les administrateurs du groupe peuvent créer des événements",
+      "create_submit": "Créer un événement de groupe",
+      "edit_submit": "Sauvegarder l’événement"
     },
     "event_draft": {
-      "error": "Something went wrong",
+      "error": " Quelque chose s'est mal passé",
       "score_all": "Score all",
       "score_all_info": "This will score hands using E/W exact holding",
-      "create_event": "Create event",
-      "event_name_placeholder": "Event name",
-      "rotate": "Rotate",
-      "remove_hand": "Remove hand",
-      "remove_bidding": "Remove bidding"
+      "create_event": "Créer événement",
+      "event_name_placeholder": "Nom de l’événement",
+      "rotate": "Retourner",
+      "remove_hand": "Supprimer la main",
+      "remove_bidding": "Supprimer l’énchère"
     },
     "group": {
-      "tab_events": "Events",
-      "tab_members": "Members",
-      "tab_invited": "Invited",
-      "tab_premium_members": "Premium members",
-      "tab_stats": "Stats",
-      "create_event": "Create event",
-      "import_pbn": "Import PBN",
+      "tab_events": "Evénements",
+      "tab_members": "Membres",
+      "tab_invited": "Invité",
+      "tab_premium_members": "Membres Premium",
+      "tab_stats": "Statistiques",
+      "create_event": "Créer evénement",
+      "import_pbn": "Importer PBN",
       "unfinished_draft_info": "You have an unfinished draft",
-      "resume": "Resume",
-      "delete": "Delete",
-      "search_event_placeholder": "Search event",
+      "resume": "Reprendre",
+      "delete": "Effacer",
+      "search_event_placeholder": "Rechercher un événement",
       "show_finished_label": "Show finished",
-      "no_events_info": "This group has not created any events",
-      "add_members": "Add members",
-      "members_count": "Members ({{count}})",
-      "owner_badge": "OWNER",
+      "no_events_info": "Ce groupe n’a pas encore créé d’événement",
+      "add_members": "Ajouter des membres",
+      "members_count": "Membres ({{count}})",
+      "owner_badge": "PROPRIETAIRE",
       "admin_badge": "ADMIN",
       "premium_badge": "PREMIUM",
       "subscribed_badge": "SUBSCRIBED",
@@ -1100,542 +1166,550 @@
       "remove_invite": "Remove invite",
       "make_premium_error": "Failed to make premium ({{error}})",
       "remove_premium_error": "Failed to remove premium ({{error}})",
-      "premium_members_info": "Premium members will have access to the premium features belonging to the group. You can reassign premium memberships to other users (but can only remove it from a member 30 days after having added it to them).",
-      "premium_seats_used_header": "Premium seats used: {{used}} of {{limit}}",
-      "date_added_info": "Added {{timestamp}}",
+      "premium_members_info": "Les membres Premium auront accès aux fonctionnalités premium appurtenant au groupe. Vous pouvez réattribuer les abonnements premium à d’autres utilisateurs (mais vous ne pouvez le supprimer à un membre que 30 jours après l’avoir ajouté).",
+      "premium_seats_used_header": "Places Premium utilisées : {{used}} sur {{limit}}",
+      "date_added_info": "Ajouté {{timestamp}}",
       "stats": {
-        "title": "Last 30 days",
-        "info": "All members' activity in Cuebids in the last 30 days",
-        "show_more": "Show more",
-        "show_fewer": "Show fewer",
-        "tab_pairs": "Pairs",
-        "tab_players": "Players",
-        "no_pair_info": "No pair activity to show",
-        "pair": "Pair",
-        "deals": "Deals",
-        "stars": "Stars",
-        "no_player_info": "No player activity to show"
+        "title": "Les 30 derniers jours",
+        "info": "Les activités de tous les membres de Cuebids ces 30 derniers jours",
+        "show_more": "Afficher plus",
+        "show_fewer": "Afficher moins",
+        "tab_pairs": "Paires",
+        "tab_players": "Joueurs",
+        "no_pair_info": "Aucune activité de paire à ajouter",
+        "pair": "Paire",
+        "deals": "Donnes",
+        "stars": "Etoiles",
+        "no_player_info": "Aucune activité de joueur à afficher"
       }
     },
     "group_list": {
-      "new_events": "New Events",
-      "group_invite_info": "You are invited to these groups",
-      "premium_group_badge": "PREMIUM GROUP",
-      "accept": "Accept",
-      "reject": "Reject",
-      "no_group_info": "You are not a member of any group",
-      "create_group": "Create group"
+      "new_events": "Nouveaux événements",
+      "group_invite_info": "Vous êtes invités à ces groupes",
+      "premium_group_badge": "GROUPE PREMIUM",
+      "accept": "Accepter",
+      "reject": "Refuser",
+      "no_group_info": "Vous n’êtes member d’aucun groupe",
+      "create_group": "Créer groupe"
     },
     "group_session_leaderboard": {
-      "delete_error": "Something went wrong. If players have started playing the event it cannot be deleted.",
-      "delete": "Delete event",
-      "edit": "Edit",
-      "not_started": "This event has not started yet",
-      "finished": "This event has finished",
-      "runs_until": "This event runs until:",
-      "continue": "Continue event",
-      "completed": "Event completed",
-      "invites_sent": "Invites sent",
-      "join_event": "Join event",
-      "pair_count": "{{count}} pairs have joined this event",
+      "delete_error": " Quelque chose s'est mal passé. Si des joueurs ont commencé à jouer cet événement, il ne peut plus être supprimé.",
+      "delete": "Supprimer l’événement",
+      "edit": "Modifier",
+      "not_started": "Cet événement n’a pas encore commencé",
+      "finished": "Cet événement est terminé",
+      "runs_until": "Cet événement se déroule jusqu’à :",
+      "continue": "Continuer l’événement",
+      "completed": "Evénement terminé",
+      "invites_sent": "Invitations envoyées",
+      "join_event": "Rejoindre l’événement",
+      "pair_count": "{{count}} paires ont rejoint cet événement",
       "grid_card_coaching": "Coaching",
       "leaderboard_title": "Top 10",
-      "no_leaderboard": "This event has no leaderboard"
+      "no_leaderboard": "Cet événement n’a pas de classement"
     },
     "join_group": {
-      "error": "Something went wrong.",
-      "success": "Thank you! You will join the group shortly.",
-      "title": "Join Group",
-      "private_info": "This group is private.",
-      "loading": "Loading...",
-      "membership_required": "This group requires a membership.",
-      "native_purchase_info_pre_styled": "Please use the web ",
-      "native_purchase_info_styled": "here",
-      "native_purchase_info_post_styled": " to become a member.",
-      "purchase_loading": "Please wait",
-      "purchase": "Become a member",
-      "join_info_pre_styled": "You are about to join the group ",
+      "error": " Quelque chose s'est mal passé.",
+      "success": "Merci ! Vous rejoindrez le groupe prochainement.",
+      "title": "Rejoindre le groupe",
+      "private_info": "Ce groupe est privé.",
+      "loading": "Chargement...",
+      "membership_required": "Ce groupe nécessite une adhésion.",
+      "native_purchase_info_pre_styled": "Veuillez utiliser le web ",
+      "native_purchase_info_styled": "ici",
+      "native_purchase_info_post_styled": " pour devenir membre.",
+      "purchase_loading": "Veuillez attendre",
+      "purchase": "Devenir membre",
+      "join_info_pre_styled": "Vous êtes sur le point de rejoinder le groupe ",
       "join_info_post_styled": ".",
-      "join_group": "Join Group"
+      "join_group": "Rejoindre le groupe"
     },
     "join_group_session": {
-      "no_robots": "No robots",
-      "basic_robots": "Basic robots",
-      "advanced_robots": "Advanced robots",
-      "robot_success": "Event joined. Session started.",
-      "robot_error": "Error when joining event ({{error}})",
-      "already_invited_success": "Your friend had already invited you to play. Session started",
-      "already_invited_error": "You have already invited your partner to this event",
-      "invite_success": "Invitation sent",
-      "invite_error": "Error when sending invitation ({{error}})",
-      "not_started": "This event has not started",
-      "finished": "This event has finished",
-      "permanent": "Permanent event",
-      "runs_until": "This event runs until:",
-      "event_timer_label": "event",
-      "boards_count_label": "{{count}} boards",
-      "already_finished": "This event has already finished",
-      "received_invites": "Received invites to play",
-      "sent_invites": "Sent invites to play",
-      "partner_label": "Partner",
-      "already_participating_error": "You are already participating in this event.",
-      "partner_participating_error": "Your partner is already participating in this event.",
-      "together_participating_error": "You and your partner are already participating in this event together.",
-      "invite_info": "When you join this event you will send an invite to your partner. When your partner accepts the invite you can start bidding. Both players must have tickets available when the invitation is accepted.",
-      "join_event_submit": "Join Event",
-      "price_dialog_title": "Join event",
-      "price_dialog_submit": "Join"
+      "no_robots": "Pas de robots",
+      "basic_robots": "Robots basiques",
+      "advanced_robots": "Robots avancés",
+      "robot_success": "Evénement rejoint. La session a débuté.",
+      "robot_error": "Erreur en rejoignant l’événement ({{error}})",
+      "already_invited_success": "Votre ami vous a déjà invité à jouer. La session a débuté ",
+      "already_invited_error": "Vous avez déjà invité votre partenaire à cet événement",
+      "invite_success": "Invitation envoyée",
+      "invite_error": "Erreur en envoyant l’invitation ({{error}})",
+      "not_started": "Cet événement n’est pas commencé",
+      "finished": "Cet événement est terminé",
+      "permanent": "Evénement permanent",
+      "runs_until": "Cet événement se déroule jusqu’à :",
+      "event_timer_label": "événement",
+      "boards_count_label": "{{count}} donnes",
+      "already_finished": "Cet événement est déjà terminé",
+      "received_invites": "Invitations reçues pour jouer",
+      "sent_invites": "Invitations envoyées pour jouer",
+      "partner_label": "Partenaire",
+      "already_participating_error": "Vous participez déjà à cet évenement.",
+      "partner_participating_error": "Votre partenaire participe déjà à cet évenement.",
+      "together_participating_error": " Vous et votre partenaire participez déjà ensemble à cet évenement.",
+      "invite_info": "Quand vous rejoignez cet événement, vous envoyez une invitation à votre partenaire. Quand votre partenaire accepte l’invitation, vous pouvez commencer à enchérir. Les 2 joueurs doivent avoir des tickets en nombre suffisant quand l’invitation est acceptée.",
+      "join_event_submit": "Rejoindre l’événement",
+      "price_dialog_title": "Rejoindre l’événement",
+      "price_dialog_submit": "Rejoindre"
     },
     "manage_group": {
-      "too_short_error": "Too short",
-      "forbidden_characters_error": "Forbidden characters",
-      "name_taken_error": "A group with that name already exists",
-      "success": "Group information changed",
-      "group_settings": "Group settings",
-      "add_members": "Add members",
-      "collapse_title_settings": "Settings",
-      "compact_events_label": "Compact Event View",
+      "too_short_error": "Trop court",
+      "forbidden_characters_error": "Caractères interdits",
+      "name_taken_error": "Un groupe avec nom existe déjà",
+      "success": "Les informations du groupe ont été modifiées",
+      "group_settings": "Paramètres de groupe",
+      "add_members": "Ajouter des membres",
+      "collapse_title_settings": "Paramètres",
+      "compact_events_label": "Vue compacte de l’événement",
       "collapse_title_notifications": "Notifications",
-      "notifications_label": "Notifications from group",
-      "collapse_title_leave": "Leave group",
-      "owner_leave_info": "You need to transfer ownership before you can leave the group",
-      "leave_group": "Leave group",
-      "collapse_title_name_description": "Change name and description",
-      "name_label": "Name",
-      "name_placeholder": "Enter group name",
+      "notifications_label": "Notifications du groupe",
+      "collapse_title_leave": "Quitter le groupe",
+      "owner_leave_info": "Vous devez transférer la propriété du groupe avant de le quitter",
+      "leave_group": "Quitter le groupe",
+      "collapse_title_name_description": "Changer le nom et la description",
+      "name_label": "Nom",
+      "name_placeholder": "Entrez le nom du groupe",
       "description_label": "Description",
-      "description_placeholder": "Enter group description",
-      "update_group": "Update group",
-      "collapse_title_transfer_ownership": "Transfer ownership",
-      "transfer_ownership_info": "Please note that once you have transferred ownership you cannot undo this action yourself",
-      "transfer_ownership_confirm_label": "I am sure I want to transfer ownership of this group",
-      "members_count": "Members ({{count}})",
-      "owner_badge": "OWNER",
-      "admin_badge": "ADMIN",
-      "make_owner": "Make owner",
-      "collapse_title_delete_group": "Delete group",
-      "delete_group_info": "Warning! This action cannot be undone. Do you really want to delete your group with the name: {{name}}?",
-      "delete_group_confirm_label": "I want to delete this group",
-      "delete_group_really_confirm_label": "I am absolutely sure I want to delete this group",
-      "delete_group": "Delete group"
+      "description_placeholder": "Entrez la description du groupe",
+      "update_group": "Mettre à jour le groupe",
+      "collapse_title_transfer_ownership": "Transférer la propriété",
+      "transfer_ownership_info": "Veuillez noter qu’une fois que vous avez transféré la propriété du groupe, vous ne pouvez pas annuler cette action",
+      "transfer_ownership_confirm_label": "Je suis sûr de vouloir transférer la propriété de ce groupe",
+      "members_count": "Membres ({{count}})",
+      "owner_badge": "PROPRIETAIRE",
+      "admin_badge": "ADMINISTRATEUR",
+      "make_owner": "Rendre propriétaire",
+      "collapse_title_delete_group": "Supprimer le groupe",
+      "delete_group_info": "Attention ! Cette action ne peut pas être annulée. Voulez-vous vraiment supprimer votre groupe portant le nom : {{name}}?",
+      "delete_group_confirm_label": "Je veux supprimer ce groupe",
+      "delete_group_really_confirm_label": "Je suis absolument sûr de vouloir supprimer ce groupe",
+      "delete_group": "Supprimer le groupe"
     },
     "pbn_import": {
-      "success_no_duplicates": "Parsed {{count}} hands.",
-      "success_duplicates": "Parsed {{count}} hands. Duplicates were removed",
-      "missing_info_error": "Missing deal, dealer or vulnerability",
-      "no_hands_error": "No hands",
-      "too_many_boards_error": "Maximum 24 hands",
-      "relevant_fields_info": "The only relevant PBN fields are Event, Deal, Dealer, Vulnerable and Auction. We will also try to find commentary wrapped in {}. All other fields will be ignored.",
-      "split_multiple_label": "Split multiple deals with:",
-      "deal_separation_info": "Deals must be separated with \" {{splitter}} \". Paste all deals for the event below.",
+      "success_no_duplicates": "{{count}} mains analysées.",
+      "success_duplicates": "{{count}} mains analysées. Duplicates were removed",
+      "missing_info_error": "Donne, donneur ou vulnérabilité manquant",
+      "no_hands_error": "Pas de donnes",
+      "too_many_boards_error": "24 donnes au maximum",
+      "relevant_fields_info": "Les seuls champs pertinents sont PBN Evénement, Donne, Donneur, Vulnérabilité et Enchère. Nous essaierons aussi de trouver les commentaires entre {}. Tous les autres champs seront ignorés.",
+      "split_multiple_label": "Séparez les différentes donnes avec :",
+      "deal_separation_info": "Les donnes doivent être séparées avec \" {{splitter}} \". Collez toutes les donnes pour l’événement ci-dessous.",
       "suggested_bidding_import_label": "Import auction as suggested bidding",
-      "import_commentary_label": "Import commentary",
-      "paste_pbn_placeholder": "Paste PBN here",
-      "clear": "Clear",
-      "create_draft": "Create Draft",
-      "event_name_placeholder": "Event name"
+      "import_commentary_label": "Importez le commenataire",
+      "paste_pbn_placeholder": "Coller le PBN ici",
+      "clear": "Effacer",
+      "create_draft": "Créer un brouillon",
+      "event_name_placeholder": "Nom de l’événement"
     },
     "public_group": {
-      "not_member_info": "You are not a member of this group. You can ask the owner to invite you."
+      "not_member_info": "Vous n’êtes pas un membre de ce groupe. Vous pouvez demander au propriétaire de vous inviter."
     },
-    "error_only_owner_can_delete": "Only the group owner can delete the group",
-    "error_owner_cannot_leave": "You need to transfer ownership to somebody else before you can leave the group",
-    "error_only_owner_can_transfer_ownership": "Only the group owner can transfer ownership",
-    "error_premium_limit_reached": "Premium members limit reached",
-    "error_user_not_premium": "User is not a premium member",
-    "error_user_recently_premium": "User has been a premium member for less than 30 days",
-    "error_cannot_have_event_deal_types": "Your group cannot have deal types for events",
-    "error_insufficient_deals_scenario": "Not enough deals for the selected scenarios.",
-    "error_insufficient_deals": "Insufficient number of available deals",
-    "error_generic": "Something went wrong",
-    "error_free_weekly_spent": "You have already created a free event this week",
-    "error_cannot_create_free_event": "Cannot create free event",
-    "error_cannot_replace_played_deal": "Cannot replace deal when some pairs have played it.",
-    "error_cannot_rotate_played_deal": "Cannot rotate deal when some pairs have played it."
+    "error_only_owner_can_delete": "Seul le propriétaire du groupe peut supprimer le groupe",
+    "error_owner_cannot_leave": "Vous devez transférer la propriété du groupe à quelqu’un d’autre avant de quitter le groupe",
+    "error_only_owner_can_transfer_ownership": "Seul le propriétaire du groupe peut transférer la propriété",
+    "error_premium_limit_reached": "Limité du nombre de membres premium atteinte",
+    "error_user_not_premium": "L’utilisateur n’est pas un membre premium",
+    "error_user_recently_premium": "L’utilisateur est un membre premium depuis moins de 30 jours",
+    "error_cannot_have_event_deal_types": "Votre groupe ne peut utiliser les types de donne pour les événements",
+    "error_insufficient_deals_scenario": "Pas assez de donnes pour les scenarios sélectionnées.",
+    "error_insufficient_deals": "Nombre insuffisant de donnes disponibles",
+    "error_generic": " Quelque chose s'est mal passé",
+    "error_free_weekly_spent": "Vous avez déjà créé un événement gratuit cette semaine",
+    "error_cannot_create_free_event": "Impossible de créer un événement gratuit",
+    "error_cannot_replace_played_deal": "Impossible de remplacer la donne lorsque certaines paires l’ont déjà jouée.",
+    "error_cannot_rotate_played_deal": "Impossible de retourner la donne lorsque certaines paires l’ont déjà jouée."
   },
   "share": {
-    "navigate_with_buttons_info": "Navigate in the bidding via arrows"
+    "navigate_with_buttons_info": "Naviguer dans les enchères grâce aux flèches"
   },
   "app": {
     "email": "Email",
-    "password": "Password",
-    "save": "Save",
-    "login": "Login",
-    "logout": "Logout",
-    "cancel": "Cancel",
-    "confirm_title": "Are you sure?",
-    "confirm": "Yes",
-    "next": "Next",
-    "prev": "Previous",
-    "start": "Start",
-    "opening": "Opening...",
-    "loading": "Loading...",
-    "search": "Search...",
-    "no_hits": "No matches",
+    "password": "Mot de passe",
+    "save": "Sauvegarder",
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "cancel": "Annuler",
+    "confirm_title": "Etes-vous sûr ?",
+    "confirm": "Oui",
+    "next": "Suivant",
+    "prev": "Précédent",
+    "start": "Commencer",
+    "opening": "Ouverture...",
+    "loading": "Chargement...",
+    "search": "Recherche...",
+    "no_hits": "Aucune résultat",
+    "error": "Quelque chose s'est mal passé",
     "sign-out-dialog": {
-      "title": "Sign out?",
-      "confirm_text": "Are you sure you wish to sign out?",
-      "button": "Yes, sign out"
+      "title": "Se déconnecter ?",
+      "confirm_text": "Etes-vous sûr que vous voulez vous déconnecter ?",
+      "button": "Oui, se déconnecter"
     },
-    "language": "Language",
-    "language_disclaimer_en": "This page is only available in English",
-    "language_disclaimer_sv": "This page is only available in Swedish",
-    "go_to_top": "top",
-    "reconnect": "Reconnect",
-    "connection_issues": "Connection issues",
-    "matchmaking_successful_notification": "Found a match! Session has started",
-    "challenge_matchmaking_successful_notification": "Found a match! Challenge has started"
+    "language": "Langue",
+    "language_disclaimer_en": "Cette page est uniquement disponible en Anglais",
+    "language_disclaimer_sv": " Cette page est uniquement disponible en Anglais Suédois",
+    "go_to_top": "Haut",
+    "reconnect": "Se reconnecter",
+    "connection_issues": "Problèmes de connexion",
+    "matchmaking_successful_notification": "Correspondance trouvée ! La session a débuté",
+    "challenge_matchmaking_successful_notification": " Correspondance trouvée ! Le défi a débuté "
   },
   "maintenance": {
     "title": "Maintenance",
-    "warning": "Cuebids is currently down for maintenance. Please check back shortly."
+    "warning": "Cuebids est actuellement arrêté pour maintenance. Merci de revenir prochainement."
   },
   "404": {
-    "warning": "Oops, it seems like the page you are looking for doesn't exist.",
-    "to_start_page": "To start page"
+    "warning": "Oops, il semble que la page que vous recherchez n’existe pas.",
+    "to_start_page": "Vers la page de démarrage"
   },
   "refresh": {
-    "title": "Refresh required",
-    "warning": "There is a newer version of Cuebids. You need to refresh the page to get the new version.",
-    "refresh_button": "Refresh"
+    "title": "Actualisation requise",
+    "warning": "Il y a une nouvelle version de Cuebids. Vous devez actualiser la page pour obtenir la nouvelle version.",
+    "refresh_button": "Actualiser"
   },
   "session_deal": {
     "alert": "Alert",
-    "alert_placeholder": "Artificial",
-    "undo": "Undo",
-    "undo_failed": "Undo failed",
-    "undo_failed_competition": ". In competition you only have 30s to undo a bid.",
-    "double_undo_confirm": "Are you sure you also want to undo your partner's last bid?",
-    "not_recommended_confirm": "This is not what I would recommend. Are you sure you want to bid this?",
-    "waiting_for_partner": "Waiting for partner...",
-    "sure": "Are you sure?",
-    "confirm": "Confirm"
+    "alert_placeholder": "Artificiel",
+    "undo": "Annuler",
+    "undo_failed": "Echec de l’annulation",
+    "undo_failed_competition": ". En compétition, vous avez seulement 30 secondes pour annuler votre enchère.",
+    "double_undo_confirm": "Etes-vous sûr de vouloir aussi annuler la dernière enchère de votre partenaire ?",
+    "not_recommended_confirm": "Ce n’est pas ce que je recommanderais. Etes-vous sûr de vouloir faire cette enchère ?",
+    "waiting_for_partner": "En attente du partenaire...",
+    "sure": "Etes-vous sûr ?",
+    "confirm": "Confirmer"
   },
   "session_deal_mock": {
-    "waiting_for_partner": "Waiting for partner...",
-    "bid_error": "In this demo you can only bid {{options}}",
-    "or": " or "
+    "waiting_for_partner": " En attente du partenaire...",
+    "bid_error": "Dans cette démo, vous pouvez seulement enchérir {{options}}",
+    "or": " ou "
   },
   "session_deal_result": {
-    "tell_us": "Tell us about a problem with this deal. The feedback will be sent straight to the developers!",
-    "remember": "Remember to",
-    "read_the_faq": "read the FAQ",
-    "scoring_is_dd": "Scoring is made with Double Dummy analysis",
-    "discuss_with_partner": "Note: If you want to discuss the board with your partner, use the chat instead.",
-    "let_us_know": "Let us know!",
-    "thanks_for_feedback": "Thanks for the feedback!",
+    "tell_us": "Indiquez-nous le problème avec cette donne. Votre commentaire sera directement envoyé aux développeurs!",
+    "remember": "Rappelez-vous de",
+    "read_the_faq": "lire la FAQ",
+    "scoring_is_dd": "La notation est faite par une analyse à 4 jeux",
+    "discuss_with_partner": "Note : si vous voulez discuter de la donne avec votre partenaire, utilisez plutôt le tchat.",
+    "let_us_know": "Faites nous savoir !",
+    "thanks_for_feedback": "Merci pour votre commentaire !",
     "compare": "Compare",
-    "you": "You",
-    "best": "Best",
-    "best_contract": "Best contract",
-    "explain_ev": "This contract is calculated based on double dummy play over 1000 simulations. Real life expectations and double dummy scenarios might differ.",
-    "none": "None",
-    "feedback_to_cuebids": "Feedback to Cuebids",
-    "marked_for_discussion": "Flagged",
-    "mark_for_discussion": "Flag for discussion",
-    "like": "Like",
-    "liked": "Liked",
-    "post_poll": "Post a poll",
-    "poll_not_available": "Poll creation disabled in events",
-    "visit_poll": "Visit poll",
-    "contracts": "Contracts",
-    "stars": "Stars"
+    "you": "Vous",
+    "best": "Meilleur",
+    "best_contract": "Meilleur contrat",
+    "explain_ev": "Ce contrat est calculé sur plus de 1000 simulations à 4 jeux. Le jeu réel et l’analyse à 4 jeux peuvent différer.",
+    "none": "Aucun",
+    "feedback_to_cuebids": "Commentaire à Cuebids",
+    "marked_for_discussion": "Marqué",
+    "mark_for_discussion": "Marquer pour discussion",
+    "like": "Aimer",
+    "liked": "Aimé",
+    "post_poll": "Publier un sondage",
+    "poll_not_available": "Création de sondage désactivée dans les événements",
+    "visit_poll": "Visiter les sondages",
+    "contracts": "Contrats",
+    "stars": "Etoiles"
+  },
+  "contracts_modal": {
+    "par_contract": "Contrat par",
+    "best_option": "Meilleure option",
+    "your_contract": "Votre contrat"
   },
   "review_modal": {
-    "title": "Compare",
+    "title": "Comparer",
     "tabs": {
-      "players": "Players ({{count}})",
+      "players": "Joueurs ({{count}})",
       "robots": "Robots ({{count}})",
-      "friends": "Friends ({{count}})",
+      "friends": "Amis ({{count}})",
       "pros": "Pros ({{count}})",
-      "all": "All ({{count}})"
+      "all": "Tous ({{count}})"
     },
-    "you": "You",
-    "please_apply": "Please apply here to become a ",
+    "you": "Vous",
+    "please_apply": "Veuillez postuler ici pour devenir un ",
     "pro": "PRO",
-    "different_system_warning": "Players might use different systems."
+    "different_system_warning": "Les joueurs peuvent utilizer des systèmes différents."
   },
   "price_dialog": {
-    "your_charge_one": "You will be charged {{count}} ticket ",
-    "your_charge_other": "You will be charged {{count}} tickets ",
-    "partner_charge_one": "and your partner will be charged {{count}} ticket",
+    "your_charge_one": "Vous serez débités de {{count}} ticket ",
+    "your_charge_other": "Vous serez débités de {{count}} tickets ",
+    "partner_charge_one": "et votre partenaire sera débité de {{count}} tickets",
     "partner_charge_other": "and your partner will be charged {{count}} tickets",
-    "you": "You",
-    "partner": "Partner",
-    "available": "Available",
-    "charge": "Charge",
-    "explain_split": "To play, you must use tickets. Every month, you receive new tickets, and subscribers receive more tickets. Heart Subscribers have unlimited access."
+    "you": "Vous",
+    "partner": "Partenaire",
+    "available": "Disponible",
+    "charge": "Débit",
+    "explain_split": "Pour jouer, vous devez utilizer des tickets. Chaque moi, vous recevrez de nouveaux tickets, et les abonnés recoivent plus de tickets. Les abonnés Coeur ont un accès illimité."
   },
   "flagged_session_deals": {
-    "none": "All caught up! Flag a deal from the dotted menu after bidding concludes.",
-    "show_all_partners": "Show all partners"
+    "none": "Tout est à jour ! Marquez une donne à partir du menu en pointillés après avoir terminé les enchères.",
+    "show_all_partners": "Montrez tous les partenaires",
+    "unmark_all_confirm": "Êtes-vous sûr de vouloir désélectionner toutes les donnes ?",
+    "unmark_all_button": "Désélectionner toutes les donnes"
   },
   "session_card": {
-    "users": "users",
+    "users": "Utilisateurs",
     "pro": "PRO",
-    "completed": "Completed"
+    "completed": "Complété"
   },
   "shared_session_card": {
-    "completed": "Completed"
+    "completed": "Complété"
   },
   "scenarios": {
-    "delete_confirm_title": "Delete scenario",
-    "delete_confirm": "Are you sure you want to delete this scenario?",
-    "edit_confirm_title": "Edit scenario",
+    "delete_confirm_title": "Supprimer le scénario",
+    "delete_confirm": "Etes-vous sûr de vouloir supprimer le scénario?",
+    "edit_confirm_title": "Modifier le scénario",
     "edit_confirm": "Any existing stock will be deleted. Continue with edit?",
-    "fast_generation": "Fast generation",
-    "high_quality": "High quality",
-    "scenarios": "Scenarios",
-    "random": "Random hands",
-    "no_scenarios": "No scenarios...",
-    "scenario_name": "Scenario name",
-    "explain": "A player with given hand types will only be dealt hands that match one of them. Within a given hand type all constraints set will be fulfilled. You can also change settings on the entire deal.",
+    "fast_generation": "Génération rapide",
+    "high_quality": "Haute qualité",
+    "scenarios": "Scénarios",
+    "random": "Mains aléatoires",
+    "no_scenarios": "Aucun scénarios...",
+    "scenario_name": "Nom du scénario",
+    "explain": "Un joueur avec des types de main donnés ne recevra que des mains qui correspondent à l’un d’entre eux. Pour un type de main donné, toutes les contraintes définies seront remplies. Vous pouvez également modifier les paramètres de l’ensemble de la donne.",
     "test_scenario": "Test",
-    "save_edit": "Save",
-    "save_as_new": "Save as new",
-    "save": "Save",
-    "no_constraints_warning": "Scenario has no constraints",
-    "no_name_warning": "Scenario has no name",
-    "maintenance_warning": "Scenarios are currently under maintenance. Please try again later.",
+    "save_edit": "Enregistrer",
+    "save_as_new": "Enregistrer comme nouveau",
+    "save": "Enregistrer",
+    "no_constraints_warning": "Le scénario n’a pas de contraintes",
+    "no_name_warning": "Le scénario n’a pas de nom",
+    "maintenance_warning": "Les scénarios sont actuellement en cours de maintenance. Veuillez réessayer plus tard.",
     "hand_types": {
       "types": {
         "five_card_major": {
-          "name": "5 card major"
+          "name": "5 cartes en majeure"
         },
         "six_card_minor": {
-          "name": "6 card minor"
+          "name": "6 cartes en mineure"
         },
         "four_card_diamonds": {
-          "name": "4 card diamonds"
+          "name": "4 cartes à carreau"
         },
         "strong": {
-          "name": "Strong"
+          "name": "Fort"
         },
         "balanced": {
-          "name": "Balanced"
+          "name": "Régulier"
         },
         "naturalClubs": {
-          "name": "Natural clubs"
+          "name": "Trèfle naturel"
         },
         "naturalClubs6": {
-          "name": "Natural clubs 6+"
+          "name": "Trèfle naturel avec 6 cartes et +"
         },
         "natClubs6": {
-          "name": "Weak 6 card clubs"
+          "name": "Trèfle faible avec 6 cartes"
         },
         "natClubs7": {
-          "name": "Weak 7 card clubs"
+          "name": "Trèfle faible avec 7 cartes"
         },
         "natClubs8": {
-          "name": "Weak 8 card clubs"
+          "name": "Trèfle faible avec 8 cartes"
         },
         "marmicWithClubs": {
           "name": "Marmic"
         },
         "naturalDiamonds": {
-          "name": "Natural diamonds"
+          "name": "Carreau naturel"
         },
         "marmicWithDiamonds": {
           "name": "Marmic"
         },
         "natDiamonds6": {
-          "name": "Weak 6 card diamonds"
+          "name": "Carreau faible avec 6 cartes"
         },
         "natDiamonds7": {
-          "name": "Weak 7 card diamonds"
+          "name": "Carreau faible avec 7 cartes"
         },
         "natDiamonds8": {
-          "name": "Weak 8 card diamonds"
+          "name": "Carreau faible avec 8 cartes"
         },
         "naturalHearts": {
-          "name": "Natural hearts, 5+"
+          "name": "Coeur naturel au moins 5ème"
         },
         "naturalHearts4": {
-          "name": "Natural hearts 4+"
+          "name": "Coeur naturel au moins 4ème"
         },
         "natHearts6": {
-          "name": "Weak 6 card hearts"
+          "name": "Coeur faible avec 6 cartes"
         },
         "natHearts7": {
-          "name": "Weak 7 card hearts"
+          "name": "Coeur faible avec 7 cartes"
         },
         "natHearts8": {
-          "name": "Weak 8 card hearts"
+          "name": "Coeur faible avec 8 cartes"
         },
         "natHeart6_10_13": {
-          "name": "6 card hearts (10-13)"
+          "name": "6 cartes à coeur (10-13)"
         },
         "naturalSpades": {
-          "name": "Natural spades 5+"
+          "name": "Pique naturel au moins 5ème"
         },
         "naturalSpades4": {
-          "name": "Natural spades 4+"
+          "name": "Pique naturel au moins 4ème"
         },
         "natSpades6": {
-          "name": "Weak 6 card spades"
+          "name": "Pique faible avec 6 cartes"
         },
         "natSpades7": {
-          "name": "Weak 7 card spades"
+          "name": "Pique faible avec 7 cartes"
         },
         "natSpades8": {
-          "name": "Weak 8 card spades"
+          "name": "Pique faible avec 8 cartes"
         },
         "open1C_2plus": {
           "name": "1!C 2+",
-          "description": "Balanced hand or natural club opening. At least two clubs"
+          "description": "Main régulière ou ouverture naturelle à trèfle. Au moins 2 cartes à trèfle"
         },
         "open1C_betterMinor": {
-          "name": "1!C, better minor",
-          "description": "Balanced hand or natural club opening. Better minor"
+          "name": "1!C, meilleure mineure",
+          "description": "Main régulière ou ouverture naturelle à trèfle. Meilleure mineure"
         },
         "open1C_polish": {
-          "name": "1!C, Polish club",
-          "description": "12-14 balanced, natural clubs 15-17, or any 18+"
+          "name": "1!C, trèfle polonais",
+          "description": "12-14 régulier, naturel à trèfle 15-17, or toute main avec 18 et +"
         },
         "open1C_strong": {
-          "name": "1!C, Strong (17+)",
-          "description": "17+ HCP"
+          "name": "1!C, fort (17+)",
+          "description": "17+ points DH"
         },
         "open1D_betterMinor": {
-          "name": "1!D, better minor",
-          "description": "Balanced hand or natural diamond opening. Better minor"
+          "name": "1!D, meilleure mineure",
+          "description": "Main régulière ou ouverture naturelle à carreau. Meilleure mineure "
         },
         "open1D_fourPlus": {
           "name": "1!D 4+",
-          "description": "Balanced hand or natural diamond opening. At least four diamonds"
+          "description": " Main régulière ou ouverture naturelle à carreau. Au moins 4 cartes à carreau"
         },
         "open1D_4PlusUnbal": {
-          "name": "1!D, 4+, unbal",
-          "description": "Natural diamond opening, promises unbalanced hand."
+          "name": "1!D, 4+, irrégulier",
+          "description": "Ouverture naturelle à carreau, promet une main irrégulière."
         },
         "open1H_4plus": {
           "name": "1!H 4+",
-          "description": "Natural heart opening, at least four hearts"
+          "description": "Ouverture naturelle à coeur. Au moins 4 cartes à coeur"
         },
         "open1H_5plus": {
           "name": "1!H 5+",
-          "description": "Natural heart opening, at least five hearts"
+          "description": "Ouverture naturelle à coeur. Au moins 5 cartes à coeur "
         },
         "open1S_4plus": {
           "name": "1!S 4+",
-          "description": "Natural spade opening, at least four spades"
+          "description": "Ouverture naturelle à pique. Au moins 4 cartes à pique"
         },
         "open1S_5plus": {
           "name": "1!S 5+",
-          "description": "Natural spade opening, at least five spades"
+          "description": "Ouverture naturelle à pique. Au moins 5 cartes à pique "
         },
         "open1N_weak": {
-          "name": "1NT, Weak (10-13)",
-          "description": "Balanced hand, 10-13 HCP"
+          "name": "1SA, faible (10-13)",
+          "description": "Main régulière, 10-13 points DH"
         },
         "open1N_strong": {
-          "name": "1NT, Strong (15-17)",
-          "description": "Balanced hand, 15-17 HCP"
+          "name": "1SA, fort (15-17)",
+          "description": "Main régulière, 15-17 points DH"
         },
         "open2C_strong": {
-          "name": "2!C, Strong (20-21 NT or GF)",
-          "description": "Very strong, 23+ HCP or balanced 20-21 HCP"
+          "name": "2!C, fort (20-21 SA ou FM)",
+          "description": "Très fort, 23+ point DH ou main régulière 20-21 DH"
         },
         "open2C_nat": {
-          "name": "2!C, Natural 6+",
-          "description": "Natural club opening, 6+ and 11-16 HCP"
+          "name": "2!C, naturel 6+",
+          "description": "Ouverture naturelle à trèfle, 6 cartes et +, 11-16 points DH"
         },
         "open2C_nat54": {
-          "name": "2!C, Natural 5-4",
-          "description": "Natural club opening, 5+ and 11-16 HCP"
+          "name": "2!C, naturel 5-4",
+          "description": "Ouverture naturelle à trèfle, 5 cartes et +, 11-16 points DH"
         },
         "open2D_nat_weak": {
-          "name": "2!D, Natural weak",
-          "description": "Weak diamond opening, 3-9 HCP"
+          "name": "2!D, naturel faible",
+          "description": "Ouverture faible à carreau, 3-9 points DH"
         },
         "open2D_multi": {
-          "name": "2!D, Multi",
-          "description": "Weak heart or spade opening, 3-9 HCP"
+          "name": "2!D, multi",
+          "description": "Ouverture faible à coeur ou à pique, 3-9 points DH"
         },
         "open2H_weak": {
-          "name": "2!H, Weak",
-          "description": "Weak heart opening, 3-9 HCP"
+          "name": "2!H, naturel faible",
+          "description": "Ouverture faible à coeur, 3-9 points DH"
         },
         "open2H_nat_10_13": {
-          "name": "2!H, Natural 10-13",
-          "description": "Natural heart opening, 10-13 HCP"
+          "name": "2!H, naturel 10-13",
+          "description": "Ouverture naturelle à coeur, 10-13 points DH"
         },
         "open2S_nat_weak": {
-          "name": "2!S, Natural weak",
-          "description": "Weak spade opening, 3-9 HCP"
+          "name": "2!S, naturel faible",
+          "description": "Ouverture faible à pique, 3-9 points DH"
         },
         "open2S_nat_10_13": {
-          "name": "2!S, Natural 10-13",
-          "description": "Natural spade opening, 10-13 HCP"
+          "name": "2!S, naturel 10-13",
+          "description": "Ouverture naturelle à pique, 10-13 points DH"
         },
         "open2N_2224": {
-          "name": "2NT, 22-24",
-          "description": "Balanced hand, 22-24 HCP"
+          "name": "2SA, 22-24",
+          "description": "Main régulière, 22-24 points DH"
         },
         "open3C_nat_weak": {
-          "name": "3!C, Natural weak",
-          "description": "Weak club 7+ opening, 3-9 HCP"
+          "name": "3!C, naturel faible",
+          "description": "Ouverture faible à trèfle avec 7 cartes et +, 3-9 points DH"
         },
         "open3D_nat_weak": {
-          "name": "3!D, Natural weak",
-          "description": "Weak diamond 7+ opening, 3-9 HCP"
+          "name": "3!D, naturel faible",
+          "description": "Ouverture faible à carreau avec 7 cartes et +, 3-9 points DH"
         },
         "open3H_nat_weak": {
-          "name": "3!H, Natural weak",
-          "description": "Weak heart 7+ opening, 3-9 HCP"
+          "name": "3!H, naturel faible",
+          "description": "Ouverture faible à coeur avec 7 cartes et +, 3-9 points DH"
         },
         "open3S_nat_weak": {
-          "name": "3!S, Natural weak",
-          "description": "Weak spade 7+ opening, 3-9 HCP"
+          "name": "3!S, naturel faible",
+          "description": "Ouverture faible à pique avec 7 cartes et +, 3-9 points DH"
         },
         "open4C_nat_weak": {
-          "name": "4!C, Natural weak",
-          "description": "Weak club 8+ opening, 3-9 HCP"
+          "name": "4!C, naturel faible",
+          "description": "Ouverture faible à trèfle avec 8 cartes, 3-9 points DH"
         },
         "open4D_nat_weak": {
-          "name": "4!D, Natural weak",
-          "description": "Weak diamond 8+ opening, 3-9 HCP"
+          "name": "4!D, naturel faible",
+          "description": "Ouverture faible à carreau avec 8 cartes, 3-9 points DH "
         },
         "open4H_nat_weak": {
-          "name": "4!H, Natural weak",
-          "description": "Weak heart 8 opening, 3-9 HCP"
+          "name": "4!H, naturel faible",
+          "description": "Ouverture faible à coeur avec 8 cartes, 3-9 points DH"
         },
         "open4S_nat_weak": {
-          "name": "4!S, Natural weak",
-          "description": "Weak spade 8 opening, 3-9 HCP"
+          "name": "4!S, naturel faible",
+          "description": "Ouverture faible à pique avec 8 cartes, 3-9 points DH"
         },
         "support_major": {
-          "name": "Support major"
+          "name": "Soutien majeure"
         },
         "weak2NonVul": {
-          "name": "Weak 2 non vuln"
+          "name": "2 faible non vulnérable"
         },
         "weak2Vul": {
-          "name": "Weak 2 vul"
+          "name": "2 faible vulnérable"
         },
         "take_out_double": {
-          "name": "Takeout"
+          "name": "Appel"
         },
         "twoOverOne": {
-          "name": "2 over 1"
+          "name": "2 sur 1"
         },
         "minorHand": {
           "name": "Minor hand"
         },
         "minorSupport": {
-          "name": "Minor support"
+          "name": "Soutien mineure"
         },
         "gazzilliOpener_hearts_clubs": {
-          "name": "Hearts with clubs (11-15)"
+          "name": "Des coeurs avec des trèfles (11-15)"
         },
         "gazzilliOpener_hearts_strong": {
-          "name": "Hearts (16+)"
+          "name": "Des coeurs (16+)"
         },
         "gazzilliOpener_spades_clubs": {
-          "name": "Spades with clubs (11-15)"
+          "name": "Des piques avec des trèfles (11-15)"
         },
         "gazzilliOpener_spades_strong": {
-          "name": "Spades (16+)"
+          "name": "Des piques (16+)"
         },
         "gazzilliResponder": {
           "name": "Gazilli, responder"
@@ -1644,744 +1718,771 @@
           "name": "Gazilli, spader over hearts"
         },
         "balanced_10_13": {
-          "name": "Balanced 10-13"
+          "name": "Régulier 10-13"
         },
         "balanced_12_14": {
-          "name": "Balanced 12-14"
+          "name": "Régulier 12-14"
         },
         "balanced_15_17": {
-          "name": "Balanced 15-17"
+          "name": "Régulier 15-17"
         },
         "balanced_15_18": {
-          "name": "Balanced 15-18"
+          "name": "Régulier 15-18"
         },
         "balanced_18_19": {
-          "name": "Balanced 18-19"
+          "name": "Régulier 18-19"
         },
         "balanced_20_21": {
-          "name": "Balanced 18-19"
+          "name": "Régulier 20-21"
         },
         "balanced_22_24": {
-          "name": "Balanced 22-24"
+          "name": "Régulier 22-24"
         },
         "oneSuit": {
-          "name": "One suiter"
+          "name": "Unicolore"
         },
         "twoSuits": {
-          "name": "Two suiter"
+          "name": "Bicolore"
         },
         "threeSuits": {
-          "name": "Three suiter"
+          "name": "Tricolore"
         },
         "major_support": {
-          "name": "Major support",
-          "description": "One hand will be a major opening. The other will have support."
+          "name": "Fit majeure",
+          "description": "Une main aura une ouverture majeure. L’autre aura un fit."
         },
         "take_out_double_weak_2": {
-          "name": "Take out double over weak 2",
-          "description": "RHO will have a weak 2 opening, next hand a take out double."
+          "name": "Contre d’appel sur un 2 faible",
+          "description": "L’adversaire de droite aura une ouverture de 2 faible, la main suivante aura un contre d’appel."
         },
         "two_over_one_": {
-          "name": "2 over 1",
-          "description": "One player will have a major opening and partner gameforcing hand with no suit biddable on one-level."
+          "name": "2 sur 1",
+          "description": "Un joueur aura une ouverture majeure et son partenaire aura une main forcing de manche sans couleur annonçable au palier de 1."
         },
         "majors_vs_nt": {
-          "name": "Game in major or NT",
-          "description": "5-3 fit in a major, two balanced hands and values for game."
+          "name": "Manche en majeure ou à SA",
+          "description": "Fit 5-3 en majeure, 2 mains régulières et les points de la manche."
         },
         "minors_vs_nt": {
-          "name": "Game in minor or NT",
-          "description": "9 card fit in a minor, no major fit and values for game."
+          "name": "Manche en mineure ou à SA",
+          "description": "Fit 9ème en mineure, sans fit majeure et les points de la manche."
         },
         "gazzilli": {
           "name": "Gazzilli",
-          "description": "Opening hand is a major opening that is strong or has clubs. Responder does not have support or a two over one bid."
+          "description": "Ouverture en majeure dans une main forte ou avec 4 cartes à trèfle. Le répondant n’aura ni fit, ni d’enchère au palier de 2."
         },
         "vs_1N": {
-          "name": "Overcall vs 1NT",
-          "description": "Opponents open 1N and we can overcall."
+          "name": "Intervention sur 1SA",
+          "description": "Les adversaires ouvrent de 1SA et nous pouvons intervenir."
         },
         "vs_1N_Entry": {
-          "name": "Contested 1NT",
-          "description": "You open 1NT and opponents overcall."
+          "name": "Intervention sur votre 1SA",
+          "description": "Vous ouvrez de 1SA et les adversaires interviennent."
         },
         "entry1D": {
-          "name": "1!D overcall",
-          "description": "10-16 HCP and 5+!D"
+          "name": "Intervention à 1!D",
+          "description": "10-16 points DH et au moins 5 cartes à !D"
         },
         "command_entry1D": {
-          "name": "Will overcall 1!D"
+          "name": "Interviendra à 1!D ou Surenchérira jusqu’à 1!D"
         },
         "entry1H": {
-          "name": "1!H overcall",
-          "description": "10-16 HCP and 5+!H"
+          "name": "Intervention à 1!H",
+          "description": "10-16 points DH et au moins 5 cartes à !H"
         },
         "command_entry1H": {
-          "name": "Will overcall 1!H"
+          "name": "Interviendra à 1!H"
         },
         "entry1S": {
-          "name": "1!S overcall",
-          "description": "10-16 HCP and 5+!S"
+          "name": "Intervention à 1!S",
+          "description": "10-16 points DH et au moins 5 cartes à !S"
         },
         "command_entry1S": {
-          "name": "Will overcall 1!S"
+          "name": "Interviendra à 1!S"
         },
         "entry1N": {
-          "name": "1!N overcall",
-          "description": "15-18 balanced"
+          "name": "Intervention à 1SA",
+          "description": "15-18 régulier"
         },
         "command_entry1N": {
-          "name": "Will overcall 1!N"
+          "name": "Interviendra à 1SA"
         },
         "entry2C": {
-          "name": "2!C overcall",
-          "description": "11-17 HCP and 5+!C"
+          "name": "Intervention à 2!C",
+          "description": "11-17 points DH et au moins 5 cartes à !C"
         },
         "command_entry2C": {
-          "name": "Will overcall 2!C"
+          "name": "Interviendra à 2!C"
         },
         "entry2D": {
-          "name": "2!D overcall",
-          "description": "11-17 HCP and 5+!D"
+          "name": "Intervention à 2!D",
+          "description": "11-17 points DH et au moins 5 cartes à !D"
         },
         "command_entry2D": {
-          "name": "Will overcall 2!D"
+          "name": "Interviendra à 2!D"
         },
         "entry2H": {
-          "name": "2!H overcall",
-          "description": "11-17 HCP and 5+!H"
+          "name": "Intervention à 2!H",
+          "description": "11-17 points DH et au moins 5 cartes à !H"
         },
         "command_entry2H": {
-          "name": "Will overcall 2!H"
+          "name": "Interviendra à 2!H"
         },
         "entry2S": {
-          "name": "2!S overcall",
-          "description": "11-17 HCP and 5+!S"
+          "name": "Intervention à 2!S",
+          "description": "11-17 points DH et au moins 5 cartes à !S"
         },
         "command_entry2S": {
-          "name": "Will overcall 2!S"
+          "name": "Interviendra à 2!S"
         },
         "entry3C": {
-          "name": "3!C overcall",
-          "description": "12-18 HCP and 5+!C"
+          "name": "Intervention à 3!C",
+          "description": "12-18 points DH et au moins 5 cartes à !C"
         },
         "command_entry3C": {
-          "name": "Will overcall 3!C"
+          "name": "Interviendra à 3!C"
         },
         "entry3D": {
-          "name": "3!D overcall",
-          "description": "12-18 HCP and 5+!D"
+          "name": "Intervention à 3!D",
+          "description": "12-18 points DH et au moins 5 cartes à !D"
         },
         "command_entry3D": {
-          "name": "Will overcall 3!D"
+          "name": "Interviendra à 3!D"
         },
         "entry3H": {
-          "name": "3!H overcall",
-          "description": "12-18 HCP and 5+!H"
+          "name": "Intervention à 3!H",
+          "description": "12-18 points DH et au moins 5 cartes à !H"
         },
         "command_entry3H": {
-          "name": "Will overcall 3!H"
+          "name": "Interviendra à 3!H"
         },
         "entry3S": {
-          "name": "3!S overcall",
-          "description": "12-18 HCP and 5+!S"
+          "name": "Intervention à 3!S",
+          "description": "12-18 points DH et au moins 5 cartes à !S"
         },
         "command_entry3S": {
-          "name": "Will overcall 3!S"
+          "name": "Interviendra à 3!S"
         },
         "entry2DJump": {
-          "name": "Jump overcall with 2!D",
-          "description": "6-9 hcp and 6+!D"
+          "name": "Intervention à saut à 2!D",
+          "description": "6-9 points DH et au moins 6 cartes à !D"
         },
         "command_entry2DJump": {
-          "name": "Will jump overcall 2!D"
+          "name": "Interviendra à saut à 2!D"
         },
         "entry2HJump": {
-          "name": "Jump overcall with 2!H",
-          "description": "6-9 hcp and 6+!H"
+          "name": "Intervention à saut à 2!H",
+          "description": "6-9 hcp points DH et au moins 6 cartes à !H"
         },
         "command_entry2HJump": {
-          "name": "Will jump overcall 2!H"
+          "name": "Interviendra à saut à 2!H"
         },
         "entry2SJump": {
-          "name": "Jump overcall with 2!S",
-          "description": "6-9 hcp and 6+!S"
+          "name": "Intervention à saut à 2!S",
+          "description": "6-9 points DH et au moins 6 cartes à !S"
         },
         "command_entry2SJump": {
-          "name": "Will jump overcall 2!S"
+          "name": "Interviendra à saut à 2!S"
         },
         "entry3CJump": {
-          "name": "Jump overcall with 3!C",
-          "description": "6-10 hcp and 6+!C"
+          "name": "Intervention à saut à 3!C",
+          "description": "6-10 points DH et au moins 6 cartes à !C"
         },
         "command_entry3CJump": {
-          "name": "Will jump overcall 3!C"
+          "name": "Interviendra à saut à 3!C"
         },
         "entry3DJump": {
-          "name": "Jump overcall with 3!D",
-          "description": "6-10 hcp and 6+!D"
+          "name": "Intervention à saut à 3!D",
+          "description": "6-10 points DH et au moins 6 cartes à !D"
         },
         "command_entry3DJump": {
-          "name": "Will jump overcall 3!D"
+          "name": "Interviendra à saut à 3!D"
         },
         "entry3HJump": {
-          "name": "Jump overcall with 3!H",
-          "description": "6-10 hcp and 6+!H"
+          "name": "Intervention à saut à 3!H",
+          "description": "6-10 points DH et au moins 6 cartes à !H"
         },
         "command_entry3HJump": {
-          "name": "Will jump overcall 3!H"
+          "name": "Interviendra à saut à 3!H"
         },
         "entry3SJump": {
-          "name": "Jump overcall with 3!S",
-          "description": "6-10 hcp and 6+!S"
+          "name": "Intervention à saut à 3!S",
+          "description": "6-10 points DH et au moins 6 cartes à !S"
         },
         "command_entry3SJump": {
-          "name": "Will jump overcall 3!S"
+          "name": "Interviendra à saut à 3!S"
         },
         "command_open1N": {
-          "name": "Will open 1NT"
+          "name": "Ouvrira de 1SA"
         },
         "command_open2D": {
-          "name": "Will open 2!D"
+          "name": "Ouvrira de 2!D"
         },
         "command_open2H": {
-          "name": "Will open 2!H"
+          "name": "Ouvrira de 2!H"
         },
         "command_open2S": {
-          "name": "Will open 2!S"
+          "name": "Ouvrira de 2!S"
         },
         "command_open3C": {
-          "name": "Will open 3!C"
+          "name": "Ouvrira de 3!C"
         },
         "command_open3D": {
-          "name": "Will open 3!D"
+          "name": "Ouvrira de 3!D"
         },
         "command_open3H": {
-          "name": "Will open 3!H"
+          "name": "Ouvrira de 3!H"
         },
         "command_open3S": {
-          "name": "Will open 3!S"
+          "name": "Ouvrira de 3!S"
         },
         "command_open4C": {
-          "name": "Will open 4!C"
+          "name": "Ouvrira de 4!C"
         },
         "command_open4D": {
-          "name": "Will open 4!D"
+          "name": "Ouvrira de 4!D"
         },
         "command_open4H": {
-          "name": "Will open 4!H"
+          "name": "Ouvrira de 4!H"
         },
         "command_open4S": {
-          "name": "Will open 4!S"
+          "name": "Ouvrira de 4!S"
         }
       },
-      "selected": "Selected",
-      "add": "Add",
-      "north": "North",
-      "east": "East",
-      "south": "South",
-      "west": "West",
-      "no_hand_types": "No hand types",
-      "title": "Add hand type to {{dir}}",
-      "name": "Name",
-      "or": "OR",
-      "to": "to",
-      "add_new": "Add new",
-      "save": "Save",
-      "create_custom": "Create custom",
+      "selected": "Sélectionné",
+      "add": "Ajouter",
+      "north": "Nord",
+      "east": "Est",
+      "south": "Sud",
+      "west": "Ouest",
+      "no_hand_types": "Pas de type de mains",
+      "title": "Ajouter un type de main à {{dir}}",
+      "name": "Nom",
+      "or": "OU",
+      "to": "à",
+      "add_new": "Ajouter nouveau",
+      "save": "Enregistrer",
+      "create_custom": "Créer sur mesure",
       "type": "Type",
-      "hcp": "HCP",
-      "suits": "Suits",
-      "shapes": "Shapes",
-      "advanced": "Advanced",
-      "add_shape": "Add shape",
+      "hcp": "points DH",
+      "suits": "Couleurs",
+      "shapes": "Distributions",
+      "advanced": "Avancé",
+      "add_shape": "Ajouter une distribution",
       "shape_explain": {
-        "type_like": "Type a shape like ",
-        "or": "or ",
-        "exact_shape": "To make it an exact shape, type ",
-        "forbid_shape": "To forbid a shape, type ",
-        "forbid_exact_shape": "To forbid an exact shape, type ",
-        "allow_any": "To allow any length, type ",
-        "like": "like ",
-        "positions": "First position is spades, then hearts, diamonds and clubs",
-        "explain": "The hand will have one of the inclusive shapes and none of the exclusive"
+        "type_like": "Saisissez une distribution comme ",
+        "or": "ou ",
+        "exact_shape": "Pour définir une distribution exacte, tapez ",
+        "forbid_shape": "Pour interdire une distribution, tapez ",
+        "forbid_exact_shape": " Pour interdire une distribution précise, tapez ",
+        "allow_any": "Pour autoriser n’importe quelle longueur, tapez ",
+        "like": "comme ",
+        "positions": "En première position, il y a les piques, puis les coeurs, les carreaux et les trèfles",
+        "explain": "La main aura l’une des distributions autorisées et n’aura pas celles interdites"
       },
-      "openings": "Openings",
-      "sequences": "Sequences",
-      "second_seat_overcalls": "Overcall 2nd seat",
-      "name_placeholder": "Give this type a name",
-      "enable_robots_to_add": "Enable robots to add hand types",
-      "notify_required_variable": "This requires a new variable and the maximum number has already been reached. Remove one in settings and try again.",
-      "shape_issue_warning": "There is an issue in one of the shapes",
-      "not_dealer_warning": "This player is not dealer, we cannot guarantee opening.",
-      "not_second_seat_warning": "This player is not in second seat, we cannot guarantee overcall.",
-      "long_suit_quality": "Suit quality",
+      "openings": "Ouvertures",
+      "sequences": "Séquences",
+      "second_seat_overcalls": "Intervention en 2ème position",
+      "name_placeholder": "Donnez un nom à ce type",
+      "enable_robots_to_add": "Autoriser les robots à ajouter des types de main",
+      "notify_required_variable": "Cela nécessite une nouvelle variable et le nombre maximum a déjà été atteint. Supprimez en une dans les paramètres et réessayez.",
+      "shape_issue_warning": "Il y a un problème dans l’une des distributions",
+      "not_dealer_warning": "Ce joueur n’est pas le donneur, nous ne pouvons garantir l’ouverture.",
+      "not_second_seat_warning": "Ce joueur n’est pas en seconde position, nous ne pouvons garantir l’intervention.",
+      "long_suit_quality": "Qualité de la couleur",
       "suit_quality": {
-        "garbage": "Garbage",
-        "very_weak": "Very weak",
-        "weak": "Weak",
-        "medium": "Medium",
+        "garbage": "Poubelle",
+        "very_weak": "Très faible",
+        "weak": "Faible",
+        "medium": "Moyen",
         "semi_solid": "Semi solid",
-        "running": "Running"
+        "running": "Autonome"
       },
-      "vulnerabilities_label": "Vulnerabilities",
+      "vulnerabilities_label": "Vulnérabilités",
       "vulnerabilities": {
-        "none": "None",
-        "NS": "North/South",
-        "EW": "East/West",
-        "all": "All"
+        "none": "Personne",
+        "NS": "Nord/Sud",
+        "EW": "Est/Ouest",
+        "all": "Tous"
       },
-      "cancel": "Cancel",
-      "no_name": "No name"
+      "cancel": "Annuler",
+      "no_name": "Pas de nom"
     },
-    "scenario_edit_new_name": "{{name}} (new)",
-    "scenario_edited_success": "Scenario edited",
-    "scenario_created_success": "Scenario created",
-    "scenario_error": "Something went wrong",
-    "generation_ongoing_error": "Deal generation ongoing. You can save edit once it is done.",
-    "no_changes_error": "Change some constraints from the original scenario before you save as new.",
-    "no_constraints_error": "Scenario has no constraints",
-    "no_name_error": "Scenario needs a name",
-    "invalid_user_error": "User cannot create scenario",
-    "invalid_vars_error": "You are using the variables {{incorrectVars}} which are not properly defined",
-    "invalid_vuls_error_singular": "{{invalidDirs}} does not have hand types for all vulnerabilities on the deal",
-    "invalid_vuls_error_plural": "{{invalidDirs}} do not have hand types for all vulnerabilities on the deal",
-    "too_rare_error": "The Scenario is too rare, sorry ;(",
-    "multiple_commands_warning": "Scenario has multiple robot commands (this is not supported yet)",
-    "invalid_user_warning": "Heart subscribers can create personal deal types",
-    "subscribe_here": "Subscribe here",
-    "testing_contraints_dialog_title": "Testing constraints",
-    "testing_contraints_dialog_cancel": "Cancel",
-    "testing_contraints_dialog_save": "Save",
-    "testing_contraints_dialog_save_edit": "Save edit",
-    "testing_contraints_dialog_save_new": "Save as new",
-    "testing_contraints_dialog_generate_info_pre_styled": "Remember that you will also need to generate deals before playing. Click ",
-    "testing_contraints_dialog_generate_info_styled": "Generate more",
-    "testing_contraints_dialog_generate_info_post_styled": " button on overview page.",
+    "scenario_edit_new_name": "{{name}} (nouveau)",
+    "scenario_edited_success": "Scénario modifié",
+    "scenario_created_success": "Scénario créé",
+    "scenario_error": " Quelque chose s'est mal passé",
+    "generation_ongoing_error": "Génération de donne en cours. Vous pouvez enregistrer la modification une fois celle-ci terminée.",
+    "no_changes_error": "Modifiez certaines contraintes du scenario d’origine avant de l’enregistrer en tant que nouveau scénario.",
+    "no_constraints_error": "Le scénario n’a pas de contraintes",
+    "no_name_error": "Le scenario a besoin d’un nom",
+    "invalid_user_error": "L’utilisation ne peut pas créer de scénario",
+    "invalid_vars_error": "Vous utilisez les variables {{incorrectVars}} qui ne sont pas correctement définies",
+    "invalid_vuls_error_singular": "{{invalidDirs}} n’a pas de types de main pour toutes les vulnérabilités de la donne",
+    "invalid_vuls_error_plural": "{{invalidDirs}} n’ont pas de types de main pour toutes les vulnérabilités de la donne ",
+    "too_rare_error": "Le scénario est trop rare, désolé ;(",
+    "multiple_commands_warning": "Le scénario a plusieurs commandes de robots (ce n’est pas encore pris en charge)",
+    "invalid_user_warning": "Les abonnés coeur peuvent créer des types de donne personnels",
+    "subscribe_here": "Abonnez-vous ici",
+    "testing_contraints_dialog_title": "Test des contraintes",
+    "testing_contraints_dialog_cancel": "Annuler",
+    "testing_contraints_dialog_save": "Enregistrer",
+    "testing_contraints_dialog_save_edit": "Enregistrer les modifications",
+    "testing_contraints_dialog_save_new": "Enregistrer comme nouveau",
+    "testing_contraints_dialog_generate_info_pre_styled": "N'oubliez pas que vous devrez également générer des donnes avant de jouer. Cliquez",
+    "testing_contraints_dialog_generate_info_styled": "Générer plus",
+    "testing_contraints_dialog_generate_info_post_styled": " bouton sur page d’aperçu.",
     "settings": {
-      "settings_button": "Settings",
-      "flip": "Randomly flip deal",
-      "dealer": "Dealer: ",
-      "vul": "Vul: ",
-      "ns_hcp": "NS HCP: ",
-      "robots": "Robots: ",
+      "settings_button": "Paramètres",
+      "flip": "Retourner la donne au hasard",
+      "dealer": "Donneur : ",
+      "vul": "Vulnérabilité : ",
+      "ns_hcp": "points DH de NS: ",
+      "robots": "Robots : ",
       "dialog": {
-        "title": "Scenario settings",
-        "flip_label": "Randomly flip deal 180\u00B0",
-        "dealer_label": "Dealer",
-        "vul_label": "Vulnerability",
+        "title": "Paramètres du scénario",
+        "flip_label": " Retourner la donne au hasard 180\u00B0",
+        "dealer_label": "Donneur",
+        "vul_label": "Vulnérabilité",
         "robots_label": "Robots",
-        "ns_hcp_label": "N+S HCP",
-        "to": "to",
-        "add_variable_button": "Add variable",
-        "var_info_1": "Use variables to allow multiple possible suits whilst still connecting several hands.",
-        "var_info_2": "For example, set X to ♠ and ♥ and give North 5+X and South 3+X to practice raises in either major in one scenario.",
-        "cancel_button": "Cancel",
-        "save_button": "Save",
-        "dealer_north": "North",
-        "dealer_south": "South",
-        "dealer_east": "East",
-        "dealer_west": "West",
-        "dealer_any": "Any",
-        "vul_none": "None",
-        "vul_ns": "North/South",
-        "vul_ew": "East/West",
-        "vul_all": "All",
-        "vul_none_short": "None",
+        "ns_hcp_label": "points DH de N + S",
+        "to": "à",
+        "add_variable_button": "Ajouter une variable",
+        "var_info_1": "Utilisez des variables pour autoriser plusieurs combinaisons possibles de distribution de couleurs sur plusieurs mains.",
+        "var_info_2": " Par exemple, définissez X sur ♠ et ♥ et imposez à Nord 5+X et Sud 3+X pour définir un scénario avec soutien dans une des deux majeures.",
+        "cancel_button": "Annuler",
+        "save_button": "Enregistrer",
+        "dealer_north": "Nord",
+        "dealer_south": "Sud",
+        "dealer_east": "Est",
+        "dealer_west": "Ouest",
+        "dealer_any": "Tous",
+        "vul_none": "Personne",
+        "vul_ns": "Nord/Sud",
+        "vul_ew": "Est/Ouest",
+        "vul_all": "Tous",
+        "vul_none_short": "Personne",
         "vul_ns_short": "NS",
-        "vul_ew_short": "EW",
-        "vul_all_short": "All",
-        "vul_any": "Any",
-        "robots_none": "None",
-        "robots_advanced": "Advanced",
+        "vul_ew_short": "EO",
+        "vul_all_short": "Tous",
+        "vul_any": "N’importe laquelle",
+        "robots_none": "Aucun",
+        "robots_advanced": "Avancé",
         "robots_multi": "Multi",
-        "robots_mini_nt": "Mini NT"
+        "robots_mini_nt": "SA faible"
       }
     }
   },
   "community_scenarios": {
-    "by": "by",
-    "save": "Save to collection",
-    "save_success": "Scenario saved to your collection",
-    "save_error": "Something went wrong",
-    "heart_sub_info": "Heart subscribers can save scenarios created by others.",
-    "subscribe": "Subscribe here",
-    "search_user_label": "Search by creator",
-    "search_user_placeholder": "User name",
-    "search_user_submit": "Search",
-    "search_scenario_label": "Search by scenario",
-    "search_scenario_placeholder": "Name or description",
-    "search_scenario_submit": "Search",
-    "clear_search": "Clear search",
-    "results_count": "Results ({{count}})",
-    "select": "Select",
-    "user_search_empty": "No user search results",
-    "scenario_search_empty": "No scenario search results",
-    "no_scenarios": "No scenarios"
+    "by": "par",
+    "save": "Enregistrer dans la collection",
+    "save_success": "Le scénario a été enregistré dans votre collection",
+    "save_error": "Quelque chose s'est mal passé",
+    "heart_sub_info": "Les abonnés coeur peuvent enregistrer des scénarios créés par d’autres personnes.",
+    "subscribe": "Abonnez-vous ici",
+    "search_user_label": "Recherchez par créateur",
+    "search_user_placeholder": "Nom d’utilisateur",
+    "search_user_submit": "Rechercher",
+    "search_scenario_label": " Recherchez par scénario",
+    "search_scenario_placeholder": "Nom ou description",
+    "search_scenario_submit": "Rechercher",
+    "clear_search": "Effacer la recherche",
+    "results_count": "({{count}}) résultats",
+    "select": "Sélectionner",
+    "user_search_empty": "Pas de résultats à la recherché par créateur",
+    "scenario_search_empty": "Pas de résultats à la recherché par scénario",
+    "no_scenarios": "Pas de scénarios"
   },
   "manage_deal_types": {
-    "generation_confirm_title": "Generation method",
-    "generation_confirm_message": "Do you prefer fast generation (fewer simulations)?",
-    "generation_error": "Something went wrong with generation",
-    "generation_error_text": "Something went wrong with generation",
-    "generation_retry_error": "Something went wrong with retrying generation",
-    "retry": "Retry",
-    "stock_full": "Stock full",
-    "generate_more": "Generate more",
-    "share_confirm_title": "Share scenario",
-    "share_confirm_message": "Do you want to share this scenario with other users? Describe what the scenario is.",
-    "edit_description_confirm_title": "Edit description",
-    "edit_description_confirm_message": "Enter new scenario description",
-    "share_unchanged_error": "You cannot publish a scenario created by somebody else without changing some constraints.",
+    "generation_confirm_title": "Méthode pour la génération",
+    "generation_confirm_message": " Préférez-vous une génération rapide (moins de simulations) ?",
+    "generation_error": "Quelque chose s'est mal passé avec la génération",
+    "generation_error_text": " Quelque chose s'est mal passé avec la génération",
+    "generation_retry_error": "Quelque chose s'est mal passé en réessayant la génération",
+    "retry": "Réessayer",
+    "stock_full": "Stock complet",
+    "generate_more": "Générer plus de donnes",
+    "share_confirm_title": "Partager le scénario",
+    "share_confirm_message": " Voulez-vous partager ce scénario avec d'autres utilisateurs ? Décrivez quel est votre scénario.",
+    "edit_description_confirm_title": "Modifiez la description",
+    "edit_description_confirm_message": "Entrez la description du nouveau scenario",
+    "share_unchanged_error": " Vous ne pouvez pas publier un scénario créé par quelqu'un d'autre sans modifier certaines contraintes.",
     "scenario_market": "Scenario Market",
-    "crate_scenario": "Create Scenario",
+    "crate_scenario": "Créez un scénario",
     "generation_tokens": "Generation tokens: ",
-    "beta_info_1": "During the ",
+    "beta_info_1": "Pendant la phase ",
     "beta_info_2": "BETA",
-    "beta_info_3": " of ",
-    "beta_info_4": "Scenarios",
+    "beta_info_3": " des ",
+    "beta_info_4": "scénarios",
     "beta_info_5": ":",
-    "beta_info_6": "You have ",
-    "beta_info_7": "infinite",
-    "beta_info_8": " tokens",
-    "maintenance_warning": "We are currently doing maintenance on Scenarios. During that time you cannot generate deals. It will be back shortly.",
-    "maintenance_info": "Deal generation will be back shortly",
-    "th_scenario": "Scenario",
-    "th_stock": "In Stock",
-    "th_progress": "In Progress",
-    "by": "by",
-    "heart_sub_info": "Heart subscribers can create scenarios.",
-    "subscribe": "Subscribe here"
+    "beta_info_6": "Vous avez ",
+    "beta_info_7": "un nombre illimité",
+    "beta_info_8": " de jetons",
+    "maintenance_warning": "Nous effectuons actuellement une maintenance sur la fonctionnalité des Scénarios. Pendant cette période, vous ne pouvez pas générer de donnes. La fonctionnalité sera bientôt à nouveau disponible.",
+    "maintenance_info": "La génération de donnes sera bientôt de retour ",
+    "th_scenario": "Scénario",
+    "th_stock": "En stock",
+    "th_progress": "En cours",
+    "by": "par",
+    "heart_sub_info": "Les abonnés coeur peuvent créer des scénarios.",
+    "subscribe": "Abonnez-vous ici"
   },
   "messages": {
     "item_claimed": "Item claimed!",
-    "empty_inbox": "Your inbox is empty",
-    "mark_all_as_read": "Mark all as read",
+    "empty_inbox": "Votre boîte de reception est vide",
+    "mark_all_as_read": "Marquez tout comme lu",
     "message": "Message",
-    "from": "From",
-    "new": "New!",
+    "from": "De",
+    "new": "Nouveau !!",
     "item": "Item!",
-    "regards": "Regards, {{from}}",
-    "click_here": "Click here!",
+    "regards": "Salutations, {{from}}",
+    "click_here": "Cliquez ici !",
     "claim": "Claim",
     "already_claimed": "Already claimed",
-    "error_generic": "Something went wrong!",
-    "error_already_claimed": "Item has already been claimed!"
+    "error_generic": " Quelque chose s'est mal passé !",
+    "error_already_claimed": "Item has already been claimed!",
+    "event_win": {
+      "congratulations": "Félicitations !",
+      "header_daily": "Vous avez remporté le défi quotidien",
+      "header_weekly": "Vous avez remporté le défi hebdomadaire",
+      "header_group": "Vous avez remporté l'événement {{eventName}}",
+      "with_score": "Avec un score de {{winningScore}}",
+      "well_done": "Bravo, travail incroyable !",
+      "share": "Partager",
+      "copied_success": "Message copié dans le presse-papiers"
+    }
   },
   "help": {
-    "add_friends_title": "How do I add friends?",
-    "add_friends_p1": "There are four ways you can add friends. You can access the friends page from the rightmost option in the bottom menu. Then you click the \"Add\" button.",
-    "add_friends_p2": "Add your friend via their <strong>Friend Key</strong>.",
-    "add_friends_p3": "Find your friend by searching for their name. Send them a friend request when you find them.",
-    "add_friends_p4": "Send your friend your <strong>Friend Key</strong>. They can then add you as a friend.",
-    "add_friends_p5": "Your key: ",
-    "add_friends_p6": "Send your friend your invite link. You can copy the link on the \"Add\u00A0friends\" page. When they follow the link you will become friends.",
-    "friend_gone_title": "I can no longer see my friend",
-    "friend_gone_p1": "Make sure you did not <strong>accidentally block each other</strong>. Both you and your partner should check the \"Show blocked\" option in the friends area. You can access the friends page from the rightmost option in the bottom menu.",
-    "stars_title": "How do stars work?",
-    "stars_p1": "Each board is scored with a star rating: <strong>0-3</strong>",
-    "stars_p2": "The better you did the more stars you get.",
-    "stars_p3": "The stars are awarded based on <strong>your contract</strong> compared to the the <strong>par contract</strong> (the theoretical best contract with double dummy play).",
-    "stars_rainbow_subtitle": "Rainbow effect",
-    "stars_p4": "If you beat the <strong>par contract</strong> by a lot (your score is way higher than what's required for 3 stars) you will see a rainbow effect on the stars. This usually happens if robots missed their game, or you doubled them in something!",
-    "robots_title": "How do the robots work?",
-    "robots_subtitle1": "No robots",
-    "robots_p1": "You will bid uncontested.",
-    "robots_subtitle2": "Basic Robots",
-    "robots_p2": "Will bid their best suit, and based on their combined length and strength they will compete to a reasonable level.",
-    "robots_subtitle3": "Advanced robots",
-    "robots_p3": "Will bid like real people (in most cases) and use a 5-5-3-3 or \"Best minor\" system.",
-    "robots_p4": "Additional features include:",
-    "robots_ul_li1": "15-17 NT",
-    "robots_ul_li2": "Weak 2",
-    "robots_ul_li3": "Take-out doubles",
+    "add_friends_title": " Comment ajouter des amis ?",
+    "add_friends_p1": "il existe 4 façons d’ajouter des amis. Vous pouvez accéder à la page des amis à partir de l’option la plus à droite dans le menu du bas. Cliquez ensuite sur le bouton \"Add\".",
+    "add_friends_p2": "Ajoutez votre ami par sa <strong>clé d’ami</strong>.",
+    "add_friends_p3": "Trouvez votre ami en recherchant son nom. Envoyez-lui une demande d'ami lorsque vous le trouvez.",
+    "add_friends_p4": "Envoyez votre <strong>clé d’ami</strong> à vos amis. Ils pourront ensuite vous ajouter comme ami.",
+    "add_friends_p5": "Votre clé d’ami : ",
+    "add_friends_p6": " Envoyez votre lien d'invitation à votre ami. Vous pouvez copier le lien sur la page \"Ajouter des amis\". Lorsqu'ils suivront le lien, vous deviendrez amis.",
+    "friend_gone_title": " Je ne peux plus voir mon ami",
+    "friend_gone_p1": "Assurez-vous de ne pas vous être <strong>bloqués accidentellement mutuellement</strong>. Vous et votre partenaire devez tous deux vérifier l'option \" Afficher les personnes bloquées \" dans la zone amis. Vous pouvez accéder à la page amis à partir de l'option la plus à droite dans le menu du bas.",
+    "stars_title": "Comment fonctionnent les étoiles?",
+    "stars_p1": " Chaque donne est notée sur une échelle de <strong>0 à 3</strong> étoiles",
+    "stars_p2": "Mieux vous avez réussi, plus vous obtenez d'étoiles.",
+    "stars_p3": " Les étoiles sont attribuées en fonction de <strong>votre contrat</strong> par rapport au <strong>par tgéorique</strong> (le meilleur contrat théorique en jouant à 4 jeux).",
+    "stars_rainbow_subtitle": "Effet arc-en-ciel",
+    "stars_p4": "Si vous battez le <strong>par théorique</strong> de beaucoup (votre score est nettement supérieur à ce qui est requis pour 3 étoiles), vous verrez un effet arc-en-ciel sur les étoiles. Cela se produit généralement si les robots ont raté la partie ou si vous les avez contrés ! ",
+    "robots_title": "Comment les robots fonctionnent ?",
+    "robots_subtitle1": "Pas de robots",
+    "robots_p1": "Vous enchérirez sans intervention adverse.",
+    "robots_subtitle2": "Robots de base",
+    "robots_p2": " Ils enchériront leur meilleure couleur et, en fonction de leur longueur et de leur force combinées, ils seront compétitifs jusqu’à un niveau raisonnable.",
+    "robots_subtitle3": "Robots avancés",
+    "robots_p3": "Ils enchériront comme de vraies personnes (dans la majorité des cas) et utiliseront un système 5-5-3-3 ou \"meilleure mineure\".",
+    "robots_p4": " Les fonctionnalités supplémentaires incluent :",
+    "robots_ul_li1": "SA 15-17",
+    "robots_ul_li2": "2 faible",
+    "robots_ul_li3": "Contre d’apppel",
     "robots_ul_li4": "Balancing",
-    "robots_ul_li5": "Penalty doubles",
-    "robots_subtitle4": "Caveats",
-    "robots_p5": "Robots might be changed with updates, which might result in slightly different experiences for different pairs on the same board.",
-    "robots_p6": "You will be able to see other pairs' results even if they used other robots - which can look confusing.",
-    "robots_p7": "Scoring will not use robots' bidding when simulating - thus their bidding cannot be used to place neither length nor honours when deciding on a contract.",
-    "robots_p8": "The exception to this rule is the deal types where the robots are set to open or overcall something, such as pre-emptive practice. Then, the simulations will use their bids as input.",
-    "lia_title": "Who is Lia - The Bot?",
-    "lia_p1": "Lia is a bidding bot from IntoBridge. You can practice with Lia by selecting her as your partner in the dropdown.",
-    "lia_p2": "Lia plays a SAYC 2/1 system and will explain both her own bids and her interpretation of your bids.",
-    "lia_p3": "Please note that while Lia can bid quite well she is by no means an expert and will make mistakes. Please be understanding!",
-    "percentage_title": "What is the % on each board?",
-    "percentage_p1": "In addition to the star scoring (in which your result is compared to the theoretical best result on the board) you are also compared to what all <strong>other pairs</strong> did on the board.",
-    "percentage_p2": "For this - a matchpoints system is used.",
-    "percentage_p3": "Rating range is <strong>0-100%</strong>.",
-    "percentage_p4": "100% means you were alone to find the best contract and 50% means you got an average result.",
-    "scoring_title": "How does the scoring work?",
-    "scoring_p1": "Each board is simulated many times to calculate the best contract based on <strong>double dummy play</strong>.",
-    "scoring_p2": "The contract you and your partner reach is then compared to the best contract in terms of expected value (e.g. 400 for 3NT making non vulnerable).",
-    "scoring_p3": "The closer you are to the best contract the more stars you get (0-3).",
-    "scoring_p4": "You can also see a % on each board, which is a matchpoint-based comparison to what everybody else who has played the same board did.",
-    "scoring_p5": "Please note that robot bids will not be taken into account when doing simulations.",
-    "why_subscribe_title": "What do I get if I subscribe?",
-    "why_subscribe_p1": "When you subscribe you unlock more features on Cuebids and can enhance your practice. The higher your level of subscription, the more features you unlock. Heart subscribers can access everything. Here are some things you can unlock:",
-    "why_subscribe_ul_li1": "More deal types",
-    "why_subscribe_ul_li2": "More tickets each month",
-    "why_subscribe_ul_li3": "Create your own deal types (Scenarios)",
-    "why_subscribe_ul_li4": "Create your own Groups",
-    "why_subscribe_ul_li5": "Play events with Lia",
-    "why_subscribe_p2": "Your support enables us to work more on Cuebids and improve it for everyone. Thank you for your support!",
-    "why_subscribe_store_button": "Click here to go to our store",
-    "subscribe_title": "How do I subscribe?",
-    "subscribe_store_button": "Click here to go to our store",
-    "subscribe_p1": "Visit Cuebids in a web browser or in the iOS app. Currently, it is not possible to subscribe via the Android app.",
-    "subscribe_p2": "Then go to the Store (heart icon on the start page) and select a tier of subscription.",
-    "tickets_title": "What are tickets?",
-    "tickets_p1": "Tickets are used to play events, challenges or practice with advanced robots.",
-    "tickets_p2": "Every month you get new tickets. Supporters get more tickets. Club subscribers get 96 tickets per month, Diamond subscribers get 240 tickets and Heart subscribers get infinite tickets. You can also purchase tickets separately.",
-    "tickets_p3": "Check out the store for more details.",
-    "tickets_store_button": "Click here to go to our store",
-    "events_title": "How do events work?",
-    "events_p1": "There are two running events at the moment:",
-    "events_ul_li1": "<strong>Weekly</strong> - 24 boards, restarts each Monday 00:00 (CET).",
-    "events_ul_li2": "<strong>Daily</strong> - 8 boards, restarts each day at 00:00 (CET).",
-    "events_p2": "Join these events with your partner on the Events page. You can finish the event at any time, but you will not be considered for the leaderboard unless you finish on time.",
-    "events_p3": "Try to get as many stars as possible to rank high on the leaderboard. The winners (possibly shared) will get a corresponding win in their profile.",
-    "events_p4": "Groups can also host their own private events.",
-    "ranking_title": "How does the ranking system work?",
-    "ranking_p1": "Ranked challenges have a separate ranking system.",
-    "ranking_ul_li1": "Each player has a hidden elo rating used for matchmaking (to make fair matches).",
-    "ranking_ul_li2": "When you win a challenge you gain a star. When you lose a challenge you lose a star (not to be confused with the stars rewarded on each hand you play on Cuebids).",
-    "ranking_ul_li3": "When you have 5 stars and win another match you advance to the next level (jack/queen/king/ace).",
-    "ranking_ul_li4": "When you reach ace with five stars your elo rating is revealed. This is used to determine the top 10 ranking of players.",
-    "ranking_p2": "Good luck!",
-    "contact_title": "How can I contact you?",
-    "contact_link": "Click here to go to our contact page",
-    "release_notes_title": "Where are the release notes?",
-    "release_notes_link": "Click here to go to the release notes"
+    "robots_ul_li5": "Contre punitif",
+    "robots_subtitle4": "Mises en garde",
+    "robots_p5": "Les robots peuvent être modifiés par des mises à jour, ce qui peut entraîner des expériences légèrement différentes pour différentes paires pour la même donne.",
+    "robots_p6": "Vous pourrez voir les résultats des autres paires même si elles ont utilisé d'autres robots - ce qui peut paraître déroutant.",
+    "robots_p7": " La notation n'utilisera pas les enchères des robots lors des simulations – ce qui veut dire que leurs enchères ne sont pas utilisées pour déterminer la longueur d’une couleur ou l’emplacement des honneurs lors de la décision d’un contrat.",
+    "robots_p8": " L'exception à cette règle concerne les donnes où les robots sont configurés pour ouvrir ou intervenir, par exemple par un barrage. Ensuite, les simulations prendront en compte leurs enchères.",
+    "lia_title": "Qui est Lia - Le Bot ?",
+    "lia_p1": " Lia est un robot d'enchères d'IntoBridge. Vous pouvez vous entraîner avec Lia en la sélectionnant comme partenaire dans le menu déroulant.",
+    "lia_p2": "Lia joue un système SAYC 2/1 et expliquera à la fois ses propres enchères et son interprétation de vos enchères.",
+    "lia_p3": " Veuillez noter que même si Lia sait plutôt bien enchérir, elle n'est en aucun cas une experte et fera des erreurs. Soyez compréhensif !",
+    "percentage_title": "Qu’est-ce que le % sur chaque donne ?",
+    "percentage_p1": " En plus du score par étoiles (dans lequel votre résultat est comparé au meilleur résultat théorique de la donne), vous êtes également comparé à ce que toutes les <strong>autres paires</strong> ont fait sur cette donne.",
+    "percentage_p2": "Pour cela, la marque est celle d’une compétition en paires.",
+    "percentage_p3": "L’échelle de notation est de <strong>0 à 100%</strong>.",
+    "percentage_p4": "100% signifie que vous avez été les seuls à trouver le meilleur contrat et 50% signifie que vous avez eu un résultat moyen.",
+    "scoring_title": "Comment le score est calculé ?",
+    "scoring_p1": "Chaque donne est simulée de nombreuses fois pour calculer le meilleur contrat en <strong>analyse à 4 jeux</strong>.",
+    "scoring_p2": "Le contrat que vous et votre partenaire avec atteint est comparé au meilleur contrat en terme de valeur attendue (par exemple, 400 pour 3SA= non vulnérable).",
+    "scoring_p3": "Plus vous êtes proches du meilleur contrat et plus d’étoiles vous obtenez (0 à 3).",
+    "scoring_p4": "Vous pouvez également voir un % sur chaque donne, c’est une marque par paires en vous comparant avec le résultat obtenu sur la même donne par les autres joueurs.",
+    "scoring_p5": "Veuillez noter que les enchères des robots ne sont pas prises en compte lors des simulations.",
+    "why_subscribe_title": "Qu’est ce que j’obtiens si je m’abonne ?",
+    "why_subscribe_p1": "Quand vous vous abonnez, vous débloquez de nouvelles fonctionnalités sur Cuebids qui peuvent améliorer votre pratique. Plus élevé est votre niveau d’abonnement, plus vous débloquez de fonctionnalités. Les abonnés coeur ont un accès complet. Voici certaines choses que vous pouvez débloquer :",
+    "why_subscribe_ul_li1": "Plus de types de donne",
+    "why_subscribe_ul_li2": "Plus de tickets chaque mois",
+    "why_subscribe_ul_li3": "Créez vos propres types de donne (Scénarios)",
+    "why_subscribe_ul_li4": "Créez vos propres groupes",
+    "why_subscribe_ul_li5": "Participez à des événements avec Lia",
+    "why_subscribe_p2": "Votre soutien nous permet de poursuivre notre travail sur Cuebids et de l’améliorer pour tous. Merci pour votre soutien !",
+    "why_subscribe_store_button": "Cliquez ici pour accéder à notre boutique",
+    "subscribe_title": "Comment m’abonner ?",
+    "subscribe_store_button": "Cliquez ici pour accéder à notre boutique",
+    "subscribe_p1": "Visitez Cuebids avec un navigateur web ou avec l’application sur iOS. Actuellement, il n’est pas possible de s’abonner à partir de l’application Android.",
+    "subscribe_p2": "Allez ensuite à la boutique (l’icone coeur sur la page de d’accueil) et sélectionnez un niveau d’abonnement.",
+    "tickets_title": "Qu’est ce que sont les tickets ?",
+    "tickets_p1": "Les tickets sont utilisés pour participer aux événements, aux challenges ou s’entraîner avec des robots avancés.",
+    "tickets_p2": "Chaque mois vous bénéficiez de nouveaux tickets. Les abonnés ont plus de tickets : les abonnés trèfle recoivent 96 tickets par mois, les abonnés carreau recoivent 240 tickets et les abonnés coeur bénéficient d’un nombre illimité de tickets. Vous pouvez aussi acheter des tickets séparément.",
+    "tickets_p3": "Accédez à la boutique pour plus de détails.",
+    "tickets_store_button": "Cliquez ici pour accéder à notre boutique",
+    "events_title": "Comment les événements fonctionnent ?",
+    "events_p1": "Pour l’instant, il y a 2 types d’événements :",
+    "events_ul_li1": "<strong>Hebdomadaire</strong> - 24 donnes, débute chaque lundi à 00:00 (CET).",
+    "events_ul_li2": "<strong>Quotidien</strong> - 8 donnes, débute chaque jour à 00:00 (CET).",
+    "events_p2": "Rejoignez ces événements avec votre partenaire sur la page Evénements. Vous pouvez finir l’événement à n’importe quel moment, mais vous ne serez pris en compte pour le classement uniquement si vous finissez dans les délais.",
+    "events_p3": "Essayez d’obtenir le maximum d’étoiles possible pour être positionné au mieux dans le classement. Les gagnant (potentiellement de manière partagée) obtiendront une victoire dans leur profil.",
+    "events_p4": "Les groupes peuvent aussi organiser leurs propres événements privés.",
+    "ranking_title": "Comment le système de classement fonctionne ?",
+    "ranking_p1": "Les défis classés ont un système de classement différent.",
+    "ranking_ul_li1": "Chaque joueur a un classement elo cache utilisé pour définir les matchs (pour avoir des matchs équitables).",
+    "ranking_ul_li2": "Quand vous gagnez un défi, vous obtenez une étoile. Quand vous perdez un défi, vous perdez une étoile (à ne pas confondre avec les étoiles attribuées à chaque main que vous jouez sur Cuebids).",
+    "ranking_ul_li3": "Quand vous avez 5 étoiles et gagnez un autre matche, vous avancez un niveau supérieur (valet/dame/roi/as).",
+    "ranking_ul_li4": "Quand vous atteignez 5 étoiles au niveau as, votre classement elo est révélé. Ceci est utilisé pour déterminer le classement des 10 meilleurs joueurs.",
+    "ranking_p2": "Bonne chance !",
+    "contact_title": "Comment puis-je vous contacter ?",
+    "contact_link": "Cliquez ici pour accéder à notre page de contact",
+    "social_media_title": "Réseaux sociaux",
+    "social_media_info": "Cuebids est présent sur divers réseaux sociaux",
+    "social_media_youtube": "Chaîne YouTube",
+    "social_media_facebook": "Page Facebook",
+    "release_notes_title": "Où sont les notes de version ?",
+    "release_notes_link": "Cliquez ici pour accéder aux notes de version"
   },
   "contact": {
     "category_bug": "Bug",
-    "category_feature_request": "Feature request",
-    "category_feedback": "Feedback",
-    "category_other": "Other",
-    "notification_success": "Thank you for your feedback",
-    "junior_free_title": "Cuebids free for U18",
-    "junior_free_text": "If you are U18 junior <strong>click here</strong> to apply for free subscription.",
-    "category_dropdown_label": "Category",
+    "category_feature_request": "Demande de fonctionnalité",
+    "category_feedback": "Commentaires",
+    "category_other": "Autre",
+    "notification_success": "Merci pour votre retour",
+    "junior_free_title": "Cuebids est gratuit pour les moins de 18 ans",
+    "junior_free_text": "Si vous êtes un junior de moins de 18 ans <strong>cliquez ici</strong> pour demander un abonnement gratuit.",
+    "category_dropdown_label": "Catégorie",
     "message_label": "Message",
-    "message_placeholder": "Type your feedback here...",
-    "contact_details_label": "Contact details",
-    "contact_details_placeholder": "In case you expect a reply, email goes here",
-    "submit": "Submit {{category}}",
-    "contact_us": "You can also contact us on ",
-    "or": "or",
-    "join_discord": "Join our Discord"
+    "message_placeholder": "Tapez votre commentaire ici...",
+    "contact_details_label": "Coordonnées",
+    "contact_details_placeholder": "Si vous attendez une réponse, indiquez votre email ici",
+    "submit": "Soumettre {{category}}",
+    "contact_us": "Vous pouvez également nous contacter sur ",
+    "or": "ou",
+    "join_discord": "Rejoignez-nous sur Discord"
   },
   "contact_sales": {
-    "title": "Premium group",
-    "p1": "Are you a bridge coach or teacher? Do you lead a serious bridge team?",
-    "p2_pre_link": "Then our <strong>premium groups</strong> are designed for you. Please contact our ",
-    "p2_post_link": "to request a premium group.",
-    "p3": "We will design the group to your liking, adding relevant features for you. We are open to your ideas, but here are some of ours:",
-    "ul_li1": "Cuebids subscription included or discounted for all members",
-    "ul_li2": "Discussion threads on boards",
-    "ul_li3": "Special roles such as Coach or Teacher, with special access and features",
-    "ul_li3_ul_li1": "View pupils' progress",
-    "ul_li3_ul_li2": "Comment on players' bidding",
-    "ul_li4": "Statistics/Performance within the group"
+    "title": "Groupe premium",
+    "p1": "Etes-vous coach ou professeur de bridge ? Dirigez-vous une équipe de bridge de haut niveau ?",
+    "p2_pre_link": "Alors, nos <strong>groups premium</strong> sont faits pour vou. Veuillez nous contacter ",
+    "p2_post_link": "pour demander un groupe premium.",
+    "p3": "Nous concevrons le groupe selon vos souhaits, en ajoutant des fonctionnalités pertinentes pour vos besoins. Nous sommes ouverts à vos idées, mais voici certaines des nôtres :",
+    "ul_li1": "Abonnement à Cuebids inclus ou à tarif réduit pour tous les membres",
+    "ul_li2": "Fil de discussion sur chaque donne",
+    "ul_li3": "Rôles spéciaux tels que Coach ou Professeur, avec accès et caractéristiques spécifiques",
+    "ul_li3_ul_li1": "Suivre les progrès des élèves",
+    "ul_li3_ul_li2": "Commentez les enchères des joueurs",
+    "ul_li4": "Statistiques / Performance à l’intérieur du groupe"
   },
   "contact_junior": {
-    "category": "Junior application",
-    "notification_success": "Thanks! We will check your application.",
-    "notification_error": "Something went wrong :(",
-    "info": "Please type your full name, country and birth year",
-    "name_label": "Full name",
-    "name_placeholder": "Firstname, Lastname",
-    "country_label": "Country",
-    "country_placeholder": "Sweden",
-    "birthyear_label": "Year of birth",
+    "category": "Candidature junior",
+    "notification_success": "Merci ! Nous allons vérifier votre candidature.",
+    "notification_error": "Quelque chose s'est mal passé :(",
+    "info": "Veuillez saisir votre nom complet, votre pays et votre année de naissance",
+    "name_label": "Nom complet",
+    "name_placeholder": "Prénom, nom de famille",
+    "country_label": "Pays",
+    "country_placeholder": "France",
+    "birthyear_label": "Année de naissance",
     "birthyear_placeholder": "2009",
-    "submit": "Apply",
-    "contact_us": "You can also contact us on ",
-    "or": "or",
-    "join_discord": "Join our Discord"
+    "submit": "Candidater",
+    "contact_us": "Vous pouvez aussi nous contacter sur ",
+    "or": "ou",
+    "join_discord": "Rejoignez-nous sur Discord"
   },
   "apps": {
-    "apps_title": "Download app",
-    "apps_p1": "Looks like you are on a mobile device \uD83D\uDCF1",
-    "apps_p2": "Download the app to get the most out of Cuebids!",
-    "app_store_alt_text": "Cuebids on Apple App Store",
-    "google_play_alt_text": "Cuebids on Google Play Store",
-    "prefer_web": "I prefer the web version"
+    "apps_title": "Téléchargez l’application",
+    "apps_p1": "On dirait que vous êtes sur un appareil mobile \uD83D\uDCF1",
+    "apps_p2": "Téléchargez l’application pour obtenir le maximum de Cuebids !",
+    "app_store_alt_text": "Cuebids sur l’App Store Apple",
+    "google_play_alt_text": "Cuebids sur le Play Store Google",
+    "prefer_web": "Je préfère la version web"
   },
   "daily_leaderboard": {
-    "continue": "Continue Daily",
-    "completed": "Daily completed",
-    "to_start": "To start",
-    "participants": "{{count}} pairs have joined this event",
-    "leaderboard_minimum": "A minimum of 15 stars is required to be considered for the leaderboard.",
+    "continue": "Continuez l’événement quotidien",
+    "completed": "Evénement quotidien terminé",
+    "to_start": "Pour commencer",
+    "your_position": "Votre position : {{position}} sur {{count}} paires",
+    "participants": "{{count}} paires ont rejoint cet événement",
+    "leaderboard_minimum": "Un minimum de 15 étoiles est nécessaire pour être pris en compte dans le classement.",
     "leaderboard_title": "Top 10"
   },
   "join_daily": {
-    "join_error": "Error when joining event {{error}}",
-    "headline": "Daily event",
-    "description": "Play 8 boards in one day with advanced robots",
-    "partner_label": "Partner",
-    "lia_sub_error": "You need a Diamond subscription to play with Lia in the Daily Event.",
-    "fair_play_info": "Please use fair play and do not collude or abuse the app to get a better result. We will remove any unfair results and wins.",
-    "already_participating_error": "You are already participating in this daily.",
-    "partner_participating_error": "Your partner is already participating in this daily.",
-    "banned_error": "Your account is temporarily suspended from competitive play.",
-    "partner_banned_error": "Your partner's account is temporarily suspended from competitive play.",
-    "join_daily_submit": "Join Daily",
-    "price_dialog_title": "Join daily event",
-    "price_dialog_submit": "Join"
+    "join_error": "Erreur en rejoignant l’événement {{error}}",
+    "headline": "Evénement quotidien",
+    "description": "Jouez 8 donnes en un jour avec des robots avancés",
+    "partner_label": "Partenaire",
+    "lia_sub_error": "Vous avez besoin d’un abonnement carreau pour jouer avec Lia dans l’événement quotidien.",
+    "fair_play_info": "Jouez de manière fair-play, ne vous concertez pas et n’abusez pas de l’application pour obtenir un meilleur résultat. Nous supprimerons tous résultats et victoires obtenus de manière déloyale.",
+    "already_participating_error": "Vous êtes déjà en train de participer à cet événement quotidien.",
+    "partner_participating_error": "Votre partenaire est déjà en train de participer à cet événement quotidien.",
+    "banned_error": "Votre compte est temporairement suspendu des compétitions.",
+    "partner_banned_error": "Le compte de votre partenaire est temporairement suspendu des compétitions.",
+    "join_daily_submit": "Rejoignez l’événement quotidien",
+    "price_dialog_title": "Rejoignez l’événement quotidien",
+    "price_dialog_submit": "Rejoindre"
   },
   "weekly_leaderboard": {
-    "continue": "Continue Weekly",
-    "completed": "Weekly completed",
-    "to_start": "To start",
-    "participants": "{{count}} pairs have joined this event",
-    "leaderboard_minimum": "A minimum of 45 stars is required to be considered for the leaderboard.",
+    "continue": "Continuez l’événement hebdomadaire",
+    "completed": "Evénement hebdomadaire terminé",
+    "to_start": "Pour commencer",
+    "your_position": "Votre position : {{position}} sur {{count}} paires",
+    "participants": "{{count}} paires ont rejoint cet événement",
+    "leaderboard_minimum": "Un minimum de 45 étoiles est nécessaire pour être pris en compte dans le classement.",
     "leaderboard_title": "Top 10"
   },
   "join_weekly": {
-    "join_error": "Error when joining event {{error}}",
-    "headline": "Weekly event",
-    "description": "Play 24 boards in one week with advanced robots",
-    "partner_label": "Partner",
-    "lia_sub_error": "You need a Diamond subscription to play with Lia in the Weekly Event.",
-    "fair_play_info": "Please use fair play and do not collude or abuse the app to get a better result. We will remove any unfair results and wins.",
-    "already_participating_error": "You are already participating in this weekly.",
-    "partner_participating_error": "Your partner is already participating in this weekly.",
-    "banned_error": "Your account is temporarily suspended from competitive play.",
-    "partner_banned_error": "Your partner's account is temporarily suspended from competitive play.",
-    "join_weekly_submit": "Join Weekly",
-    "price_dialog_title": "Join weekly event",
-    "price_dialog_submit": "Join"
+    "join_error": "Erreur en rejoignant l’événement {{error}}",
+    "headline": "Evénement hebdomadaire",
+    "description": "Jouez 24 donnes en une semaine avec des robots avancés",
+    "partner_label": "Partenaire",
+    "lia_sub_error": "Vous avez besoin d’un abonnement carreau pour jouer avec Lia dans l’événement hebdomadaire.",
+    "fair_play_info": "Jouez de manière fair-play, ne vous concertez pas et n’abusez pas de l’application pour obtenir un meilleur résultat. Nous supprimerons tous résultats et victoires obtenus de manière déloyale.",
+    "already_participating_error": "Vous êtes déjà en train de participer à cet événement hebdomadaire.",
+    "partner_participating_error": "Votre partenaire est déjà en train de participer à cet événement hebdomadaire.",
+    "banned_error": "Votre compte est temporairement suspendu des compétitions.",
+    "partner_banned_error": "Le compte de votre partenaire est temporairement suspend des compétitions.",
+    "join_weekly_submit": "Rejoignez l’événement hebdomadaire",
+    "price_dialog_title": "Rejoignez l’événement hebdomadaire",
+    "price_dialog_submit": "Rejoindre"
   },
   "events": {
-    "partner": "Partner",
-    "progress": "Progress",
+    "partner": "Partenaire",
+    "progress": "En cours",
     "error_cannot_afford": "You cannot afford to play",
     "error_partner_cannot_afford": "Your partner cannot afford to play",
-    "error_already_playing": "You are already playing",
-    "error_partner_already_playing": "Your partner is already playing",
-    "error_already_playing_together": "You and your partner are already playing together",
-    "error_joining_events_disabled": "Your partner has disabled you from spending their tickets and joining events",
-    "error_invite_not_for_you": "This invite is not for you",
-    "error_invite_expired": "This invite has expired"
+    "error_already_playing": "Vous êtes déjà en train de le jouer",
+    "error_partner_already_playing": "Votre partenaire est déjà en train de le jouer",
+    "error_already_playing_together": "Vous et votre partenaire êtes déjà en train de le jouer ensemble",
+    "error_joining_events_disabled": "Votre partenaire a désactivé votre possibilité de dépenser ses tickets et de participer à des événements",
+    "error_invite_not_for_you": "Cette invitation n’est pas pour vous",
+    "error_invite_expired": "Cette invitation est expirée"
   },
   "add_friend": {
-    "link_error": "You should send this link to your friend instead.",
-    "own_key_error": "You need to enter your friend's key, not your own.",
-    "link_copied": "Friend link copied!",
-    "adding_friend_loading": "Adding your friend...",
-    "no_key_info": "Looks like you don't have a friend key — <strong>generate one now</strong>",
-    "no_name_info": "Looks like you have not set a display name — <strong>go to settings</strong>",
-    "your_key": "Your key:",
-    "disable_key_label": "Disable",
-    "new_key_button": "New",
-    "disable_key_info": "Others won't be able to add you with your friend key.",
-    "add_by_key_info": "Type in your friend's key and click <strong>Add friend</strong>",
+    "link_error": "Vous devez plutôt envoyer ce lien à votre ami.",
+    "own_key_error": "Vous devez entre le code de votre ami, et non le vôtre.",
+    "link_copied": "Lien ami copié !",
+    "adding_friend_loading": "Ajout de votre ami en cours...",
+    "no_key_info": "On dirait que vous n’avez pas de code ami — <strong>générez en un nouveau maintenant</strong>",
+    "no_name_info": "On dirait que nous n’avez pas défini votre nom — <strong>accédez aux paramètres</strong>",
+    "your_key": "Votre code :",
+    "disable_key_label": "Désactiver",
+    "new_key_button": "Nouveau",
+    "disable_key_info": "Les autres joueurs ne pourront pas vous ajouter avec votre code ami.",
+    "add_by_key_info": "Saisissez le code de votre ami et cliquez <strong>Ajouter ami</strong>",
     "key_placeholder": "ABCD01",
-    "add_by_key_button": "Add friend",
-    "or": "OR",
-    "link_info": "Send this link to your friend",
-    "copy_link_button": "Copy link",
-    "request_sent_notification": "Friend request sent to {{displayName}}",
-    "search_name_label": "Search user name",
-    "search_name_placeholder": "User name",
-    "search_name_button": "Search",
-    "search_results_count": "Results ({{count}})",
-    "send_request_button": "Friend request",
-    "search_results_empty": "No search results",
-    "blocked_error": "Your friend has blocked you, hopefully by mistake! Ask them to unblock you by clicking \"Show blocked\" above and then pressing the unblock button.",
-    "key_disabled_error": "Your friend has disabled adding via friend key. They can enable it again on the Friends page.",
-    "no_friend_error": "Could not find anyone with that friend key",
-    "friend_added": "{{displayName}} added",
-    "already_friends_error": "{{displayName}} is already in your list",
-    "status_you": "You",
-    "status_mutual": "Friends",
+    "add_by_key_button": "Ajouter ami",
+    "or": "OU",
+    "link_info": "Envoyez ce lien à votre ami",
+    "copy_link_button": "Copier le lien",
+    "request_sent_notification": "Demande d’ami envoyée à {{displayName}}",
+    "search_name_label": "Recherche par nom d’utilisateur",
+    "search_name_placeholder": "Nom d’utilisateur",
+    "search_name_button": "Rechercher",
+    "search_results_count": "({{count}}) résultats",
+    "send_request_button": "Demande d’ami",
+    "search_results_empty": "Aucun résultat",
+    "blocked_error": "Votre ami vous a bloqué, par erreur bien sûr ! Demandez-lui de vous débloquer en cliquant sur \"Afficher les personnes bloquées\" puis en cliquant sur le bouton pour débloquer.",
+    "key_disabled_error": "Votre ami a désactivé la fonctionnalité d’ajout d’ami par code. Il peut l’activer à nouveau sur la page Amis.",
+    "no_friend_error": "Impossible de trouver quelqu’un avec ce code ami",
+    "friend_added": "{{displayName}} ajouté",
+    "already_friends_error": "{{displayName}} est déjà dans votre liste",
+    "status_you": "Vous",
+    "status_mutual": "Amis",
     "status_pending": "Invited you",
-    "status_blocked": "Blocked",
-    "status_following": "Following"
+    "status_blocked": "Bloqués",
+    "status_following": "Following",
+    "how_to": {
+      "open_dialog_button": "Comment ajouter des amis",
+      "pending_requests_info": "Vous n'avez aucun ami en commun. Peut-être que votre partenaire n'a pas encore accepté votre demande d'ami.",
+      "title": "Ajouter un ami",
+      "info": "Il existe quatre façons d'ajouter des amis.",
+      "friend_key_info": "Ajoutez votre ami via son <strong>code d'ami</strong>.",
+      "search_info": "Trouvez votre ami en recherchant son nom. Envoyez-lui une demande d'ami lorsque vous le trouvez.",
+      "send_friend_key_info": "Envoyez votre <strong>code d'ami</strong> à votre ami. Il pourra alors vous ajouter en tant qu'ami.",
+      "your_key": "Votre code : ",
+      "link_info": "Envoyez votre lien d'invitation à votre ami. Lorsqu'il suit le lien, vous deviendrez amis."
+    }
   },
   "friends_page": {
-    "my_key": "My key: ",
-    "add_button": "Add",
-    "show_blocked_count": "Show blocked ({{count}})",
-    "show_blocked": "Show blocked",
-    "friends_count": "Friends ({{count}})",
+    "my_key": "Mon code : ",
+    "add_button": "Ajouter",
+    "show_blocked_count": "Afficher les ({{count}}) personnes bloquées",
+    "show_blocked": " Afficher les personnes bloquées",
+    "friends_count": "Amis “Invited you” ({{count}})",
     "restore": "Restore",
     "unfollow": "Unfollow",
-    "remove": "Remove",
-    "accept": "Accept",
-    "block": "Block",
-    "remove_friend_dialog_title": "Remove friend",
-    "remove_friend_dialog_confirm": "Confirm",
-    "remove_friend_dialog_info": "Are you sure you want to remove {{displayName}} as a friend?",
-    "enable_tickets_dialog_title": "Enable tickets and events",
-    "disable_tickets_dialog_title": "Disable tickets and events",
-    "toggle_tickets_dialog_confirm": "Confirm",
-    "enable_tickets_dialog_info": "Enable your friend to spend your tickets and join events and ranked challenges with you as partner.",
-    "disable_tickets_dialog_info": "Your friend will not be able to spend your tickets or join events or ranked challenges with you as partner.",
-    "no_friends_added_info": "You have not added any friends yet",
-    "all_friends_blocked_info": "You have blocked all your friends. You can unblock them if you Show blocked",
-    "pending_requests_info": "You have pending friend requests to accept",
-    "outstanding_requests_info": "Waiting for your friends to accept your friend request"
+    "remove": "Supprimer",
+    "accept": "Accepter",
+    "block": "Bloquer",
+    "remove_friend_dialog_title": "Supprimer cet ami",
+    "remove_friend_dialog_confirm": "Confirmer",
+    "remove_friend_dialog_info": "Etes-vous sûr de vouloir supprimer {{displayName}} comme ami ?",
+    "enable_tickets_dialog_title": "Activer tickets et événements",
+    "disable_tickets_dialog_title": "Désactiver tickets et événements",
+    "toggle_tickets_dialog_confirm": "Confirmer",
+    "enable_tickets_dialog_info": "Autoriser votre ami à dépenser vos tickets et rejoindre les événements et les défis classés en tant que votre partenaire.",
+    "disable_tickets_dialog_info": "Votre ami ne sera pas autorisé à dépenser vos tickets, ni à rejoindre les événements ou les défis classés en tant que votre partenaire.",
+    "no_friends_added_info": "Vous n’avez pas encore ajouté d’amis",
+    "all_friends_blocked_info": "Vous avez bloqué tous vos amis. Vous pouvez les débloquer si vous Affichez les personnes bloquées",
+    "pending_requests_info": "Vous avez des demandes d’amis à accepter en attente",
+    "outstanding_requests_info": "En attente que vos amis acceptent votre demande d’amis"
   },
   "stats_dashboard": {
-    "tab_pairs": "Pairs",
-    "tab_weekly": "Weekly",
-    "tab_daily": "Daily",
-    "pairs_info": "You can click on a partner to get more details. Each point in the graph represents a week.",
-    "partner": "Partner",
-    "deals": "Deals",
-    "stars": "Stars",
-    "weekly_info": "Your performance in the weekly events",
-    "weekly": "Weekly",
-    "rank": "Rank: {{rank}}",
-    "pairs_count": "{{count}} pairs",
-    "leaderboard": "Leaderboard",
-    "select_weekly_info": "Select a weekly to see more details",
-    "daily_info": "Your performance in the daily events",
-    "daily": "Daily",
-    "select_daily_info": "Select a daily to see more details",
-    "no_weekly_info": "You've finished no weeklies in the last 20 weeks",
-    "no_daily_info": "You've finished no dailies in the last 30 days"
+    "tab_pairs": "Paires",
+    "tab_weekly": "Hebdomadaire",
+    "tab_daily": "Quotidien",
+    "pairs_info": "Vous pouvez cliquer sur un partenaire pour avoir plus de détails. Chaque point sur le graphe représente une semaine.",
+    "partner": "Partenaire",
+    "deals": "Donnes",
+    "stars": "Etoiles",
+    "weekly_info": "Votre performance dans les événements hebdomadaires",
+    "weekly": "Hebdomadaire",
+    "rank": "Rang : {{rank}}",
+    "pairs_count": "{{count}} paires",
+    "leaderboard": "Classement",
+    "select_weekly_info": "Sélectionnez une semaine pour voir plus de détails",
+    "daily_info": "Votre performance dans les événements quotidiens",
+    "daily": "Quotidien",
+    "select_daily_info": "Sélectionnez un jour pour voir plus de détails",
+    "no_weekly_info": "Vous n’avez pas terminé d’événements hebdomadaires dans les 20 dernières semaines",
+    "no_daily_info": "Vous n’avez pas terminé d’événements quotidiens dans les 30 derniers jours"
   },
   "stats_overview": {
-    "tab_ranked": "Ranked",
-    "tab_stars": "Stars",
-    "tab_weekly": "Weekly",
-    "tab_daily": "Daily"
+    "tab_ranked": "Classés",
+    "tab_stars": "Etoiles",
+    "tab_weekly": "Hebdomadaire",
+    "tab_daily": "Quotidien"
   },
   "achievements": {
-    "error_not_completed": "Achievement has not been completed!",
-    "error_already_claimed": "Achievement reward has already been claimed!"
+    "error_not_completed": "La réalisation n’a pas été achevée !",
+    "error_already_claimed": "La recompense a déjà été réclamée !"
   },
   "bidding_sessions": {
     "error_cannot_afford": "You cannot afford to play",
     "error_partner_cannot_afford": "Your partner cannot afford to play",
-    "error_tickets_spending_disabled": "Your partner has disabled you from spending their tickets",
-    "error_missing_partner": "Missing partner",
-    "error_generic": "Something went wrong",
-    "error_insufficient_deals_scenario": "Not enough deals for the selected scenarios.",
-    "error_insufficient_deals": "Insufficient number of available deals",
-    "coach_joined_chat": "Coach has joined the chat"
+    "error_tickets_spending_disabled": "Votre partenaire a désactivé la possibilité que vous dépensiez ses tickets",
+    "error_missing_partner": "Partenaire absent",
+    "error_generic": " Quelque chose s'est mal passé",
+    "error_insufficient_deals_scenario": "Pas assez de donnes pour le scenario sélectionné",
+    "error_insufficient_deals": "Nombre insuffisant de donnes disponibles",
+    "coach_joined_chat": "Le coach a rejoint le tchat"
   },
   "storage": {
-    "error_not_image": "Not an image"
+    "error_not_image": "Ce n’est pas une image"
   },
   "user_api": {
-    "unknown": "Unknown"
+    "unknown": "Inconnu"
   },
   "code": {
-    "code_claimed": "Code claimed!",
-    "error_claim": "Error claiming code",
-    "title": "Claim Code",
-    "code_input_label": "Enter code here:",
-    "code_input_placeholder": "CODE HERE",
-    "claim_submit_button": "CLAIM",
-    "claim_successful_info": "Check your inbox",
-    "Code not found.": "Code not found",
-    "Code has expired.": "Code has expired",
-    "You can only claim a referral code once.": "You can only claim a referral code once."
+    "code_claimed": "Code réclamé !",
+    "error_claim": "Erreur en réclamant le code",
+    "title": "Réclamer code",
+    "code_input_label": "Entrez le code ici :",
+    "code_input_placeholder": "CODE ICI",
+    "claim_submit_button": "RECLAMER",
+    "claim_successful_info": "Vérifiez votre boîte de réception",
+    "Code not found.": "Code non trouvé",
+    "Code has expired.": "Code expiré",
+    "You can only claim a referral code once.": "Vous ne pouvez réclamer un code de référence qu’une seule fois."
   }
 }

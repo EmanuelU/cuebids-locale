@@ -644,12 +644,10 @@
     "title": "Robot challenge",
     "info": "Play 2v2 against two Lia bots!",
     "partner": "Partner",
-    "partner_disabled_label": "Ranked challenges disabled",
-    "bullet_robots": "Advanced robots",
+    "partner_disabled_label": "Robot challenges disabled",
     "bullet_boards": "8 boards",
     "banned_you": "Your account is temporarily suspended from competitive play.",
     "banned_partner": "Your partner's account is temporarily suspended from competitive play.",
-    "cancel": "Cancel search",
     "start_challenge": "Start challenge",
     "price_dialog_title": "Start robot challenge",
     "price_dialog_submit": "Start",
@@ -710,7 +708,7 @@
     "email_placeholder": "example@cuebids.com",
     "avatar_label": "Avatar",
     "flag_label": "Flag",
-    "flag_automatic": "Get automatically ",
+    "flag_automatic": "Get automatically ",
     "public_flag_label": "Public flag",
     "verify_mid": "Verifiera medlemsnummer",
     "connect_to_sbf": "Koppla konto till Sbf",
@@ -871,8 +869,7 @@
     "store": "Store",
     "history": "History",
     "top10": "Top 10",
-    "shared": "Shared",
-    "academy": "Academy"
+    "shared": "Shared"
   },
   "robots": {
     "robots": "Robots",
@@ -2467,22 +2464,5 @@
     "Code not found.": "Code not found",
     "Code has expired.": "Code has expired",
     "You can only claim a referral code once.": "You can only claim a referral code once."
-  },
-  "academy": {
-    "title": "Cuebids Academy",
-    "description": "Learn bidding with Cuebids Academy! Here you can enroll in various courses and earn badges for your profile. ",
-    "read_more": "Read more",
-    "enroll": "Enroll",
-    "close": "Close",
-    "error_courses": "Error fetching courses",
-    "no_courses": "No courses",
-    "course": {
-      "title": "Lessons",
-      "description": "Here are the lessons in this course. You can read more about each lesson by clicking on it.",
-      "no_lessons": "No lessons",
-      "no_course": "No course",
-      "error_lessons": "Error fetching lessons",
-      "error_course": "Error fetching course"
-    }
   }
 }

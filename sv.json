@@ -600,6 +600,7 @@
     "show_older_challenges": "Visa äldre utmaningar",
     "challenge_friends": "Utmana vänner",
     "ranked_match": "Rankad match",
+    "robot": "Robotutmaning",
     "tab_my_challenges": "Mina Utmaningar",
     "no_challenges": "Du har inte spelat några utmaningar",
     "tab_global": "Global",
@@ -638,6 +639,23 @@
     "error_partner_cannot_afford": "Din partner har inte råd att spela",
     "error_challenges_disabled": "Din partner har stängt av dig från att spendera deras biljetter och gå med i rankade utmaningar",
     "error_matchmaking_failed": "Matchmaking misslyckades"
+  },
+  "robot_challenge": {
+    "title": "Robotutmaning",
+    "info": "Spela 2 och 2 mot två Lia!",
+    "partner": "Partner",
+    "partner_disabled_label": "Robotutmaningar avstängda",
+    "bullet_boards": "8 brickor",
+    "banned_you": "Ditt konto är temporärt avstängt från tävlingsspel.",
+    "banned_partner": "Din partners konto är temporärt avstängt från tävlingsspel.",
+    "start_challenge": "Start challenge",
+    "price_dialog_title": "Starta robot-utmaning",
+    "price_dialog_submit": "Starta",
+    "error_cannot_afford": "Du har inte råd att spela",
+    "error_partner_cannot_afford": "Din partner har inte råd att spela",
+    "error_challenges_disabled": "Din partner har stängt av dig från att spendera deras biljetter och gå med i rankade utmaningar",
+    "error_failed_to_create": "Kunde inte starta robotutmaningen",
+    "chat_start": "Lycka till, blipp blopp!"
   },
   "start_challenge": {
     "create_error": "Ett fel uppstod med att skapa utmaningen ({{error}})",
@@ -851,8 +869,7 @@
     "store": "Butik",
     "history": "Historik",
     "top10": "Topp 10",
-    "shared": "Delade",
-    "academy": "Akademi"
+    "shared": "Delade"
   },
   "robots": {
     "robots": "Robotar",
@@ -2115,7 +2132,6 @@
       "share": "Dela",
       "copied_success": "Meddelandet kopierat"
     }
-
   },
   "help": {
     "add_friends_title": "Hur lägger jag till vänner?",
@@ -2449,22 +2465,5 @@
     "Code not found.": "Koden finns ej",
     "Code has expired.": "Koden har löpt ut",
     "You can only claim a referral code once.": "Du kan bara använda en inbjudningskod."
-  },
-  "academy": {
-    "title": "Cuebids Academy",
-    "description": "Learn bidding with Cuebids Academy! Here you can enroll in various courses and earn badges for your profile. ",
-    "read_more": "Read more",
-    "enroll": "Enroll",
-    "close": "Close",
-    "error_courses": "Error fetching courses",
-    "no_courses": "No courses",
-    "course": {
-      "title": "Lessons",
-      "description": "Here are the lessons in this course. You can read more about each lesson by clicking on it.",
-      "no_lessons": "No lessons",
-      "no_course": "No course",
-      "error_lessons": "Error fetching lessons",
-      "error_course": "Error fetching course"
-    }
   }
 }
