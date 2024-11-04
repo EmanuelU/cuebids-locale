@@ -220,11 +220,11 @@
     "manage_subscription_styled": "Gestion de l’abonnement",
     "manage_subscription_post_styled": " et après cliquez sur mise à jour de ??.",
     "already_heart": {
-      "info_1": "L’abonnement Coeur est l’abonnement de plus haut niveau et il inclut",
+      "info_1": "L’abonnement Coeur est l’abonnement de plus haut niveau et il inclut ",
       "info_2": "un nombre infini",
-      "info_3": "de tickets et un accès à",
+      "info_3": " de tickets et un accès à ",
       "info_4": "tous",
-      "info_5": "les types de donne"
+      "info_5": " les types de donne"
     },
     "manage_subscription": "Gestion de l’abonnement",
     "manage_subscription_loading": "Merci d’attendre",
@@ -2406,9 +2406,9 @@
   "friends_page": {
     "my_key": "Mon code : ",
     "add_button": "Ajouter",
-    "show_blocked_count": "Afficher les ({{count}}) personnes bloquées",
+    "show_blocked_count": "Afficher les ({{count}}) bloquées",
     "show_blocked": " Afficher les personnes bloquées",
-    "friends_count": "Amis “Invited you” ({{count}})",
+    "friends_count": "Amis ({{count}})",
     "restore": "Restore",
     "unfollow": "Unfollow",
     "remove": "Supprimer",
