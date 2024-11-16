@@ -1389,6 +1389,7 @@
     "double_undo_confirm": "Etes-vous sûr de vouloir aussi annuler la dernière enchère de votre partenaire ?",
     "not_recommended_confirm": "Ce n’est pas ce que je recommanderais. Etes-vous sûr de vouloir faire cette enchère ?",
     "waiting_for_partner": "En attente du partenaire...",
+    "waiting_for": "En attente de...",
     "sure": "Etes-vous sûr ?",
     "confirm": "Confirmer"
   },

@@ -1369,6 +1369,7 @@
     "double_undo_confirm": "Är du säker på att ta tillbaka även partnerns senaste bud?",
     "not_recommended_confirm": "Det här hade jag inte rekommenderat, är du säker?",
     "waiting_for_partner": "Väntar på partner...",
+    "waiting_for": "Väntar på...",
     "sure": "Är du säker?",
     "confirm": "Bekräfta"
   },

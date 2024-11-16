@@ -1389,6 +1389,7 @@
     "double_undo_confirm": "Czy na pewno chcesz cofnąć również ostatnią odzywkę partnera?",
     "not_recommended_confirm": "Nie polecam tego tej odzywki. Czy na pewno chcesz to zalicytować?",
     "waiting_for_partner": "Oczekiwanie na partnera...",
+    "waiting_for": "Oczekiwanie na...",
     "sure": "Czy jesteś pewien?",
     "confirm": "Potwierdź"
   },
