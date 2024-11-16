@@ -773,7 +773,7 @@
     "two_suits_label_false": "Quatre couleurs",
     "hcp_label": "Montrer les points d'honneur",
     "animations_label": "Montrer les animations",
-    "blinking_label": "Afficher la couleur clignotante",
+    "blinking_label": "Autoriser des couleurs clignotantes",
     "sections_collapse_title": "Sections",
     "sections_info": "Vous pouvez personnaliser votre interface Cuebids en masquant le menu des options pour les sections que vous n’utilisez pas. Si nous ajoutons de nouvelles fonctionnalités, nous réafficherons les sections afin que vous ne manquiez rien d’important !",
     "save": "Sauvegarde ",
@@ -813,7 +813,7 @@
     "somebody_is": "Quelqu’un est ",
     "looking_for_challenge": "en train de rechercher un défi",
     "looking_for_partner": "en train de rechercher un partenaire",
-    "lia_stuck": "Lia est coincée – cliquez ici?",
+    "lia_stuck": "Lia est coincée – cliquez ici",
     "only_your_turn": "Seulement votre tour",
     "session_filter_all": "Tous",
     "session_filter_with_actions": "Votre tour",
@@ -872,7 +872,7 @@
     "with_random": "Partenaire aléatoire",
     "challenge_friends": "Défie tes amis",
     "with_robot": "Avec un robot",
-    "compete": "Compétitif",
+    "compete": "Compétition",
     "daily_event": "Quotidien",
     "weekly_event": "Hebdomadaire",
     "events": "Evénements",
@@ -992,9 +992,9 @@
   },
   "groups": {
     "replace_deal_confirm": "Etes-vous sûr de vouloir remplacer cette donne ? Une fois remplacée, la donne disparait définitivement. Notez également que la nouvelle donne peut avoir un numéro différent de l’ancienne.",
-    "make_admin_confirm": "Etes-vous sûr de vouloir les déclarer administrateurs ?",
-    "remove_admin_confirm": " Etes-vous sûr de vouloir leur retirer le rôle d’administrateur ?",
-    "remove_member_confirm": " Etes-vous sûr de vouloir les supprimer du groupe ?",
+    "make_admin_confirm": "Etes-vous sûr de vouloir le déclarer administrateur ?",
+    "remove_admin_confirm": " Etes-vous sûr de vouloir lui retirer le rôle d’administrateur ?",
+    "remove_member_confirm": " Etes-vous sûr de vouloir le supprimer du groupe ?",
     "premium_promote_confirm": "Etes-vous sûr de vouloir les promouvoir ?",
     "premium_demote_confirm": "Etes-vous sûr de vouloir les rétrograder ?",
     "delete_confirm": " Etes-vous sûr de vouloir supprimer cet événement ?",
@@ -1013,7 +1013,7 @@
       "copy_link": "Copier le lien",
       "closed_group_info": "Il s’agit d’un groupe privé. Seuls les administrateurs peuvent inviter de nouveaux membres.",
       "search_users_title": "Rechercher des utilisateurs",
-      "add_friends_title": "Ajouter des amis au groupe",
+      "add_friends_title": "Ajouter cet ami au groupe",
       "friend_key_title": "Ajouter grâce au code Ami",
       "user_name_label": "Rechercher par nom d’utilisateur",
       "user_name_placeholder": "Nom d’utilisateur",
@@ -1145,7 +1145,7 @@
     "group": {
       "tab_events": "Evénements",
       "tab_members": "Membres",
-      "tab_invited": "Invité",
+      "tab_invited": "Invitations",
       "tab_premium_members": "Membres Premium",
       "tab_stats": "Statistiques",
       "create_event": "Créer evénement",
@@ -1162,9 +1162,9 @@
       "admin_badge": "ADMIN",
       "premium_badge": "PREMIUM",
       "subscribed_badge": "SUBSCRIBED",
-      "invited_count": "Invited ({{count}})",
-      "remove_invite": "Remove invite",
-      "make_premium_error": "Erreur plur devenir premiem ({{error}})",
+      "invited_count": "Invitations en cours ({{count}})",
+      "remove_invite": "Annuler l'invitation",
+      "make_premium_error": "Erreur plur devenir premium ({{error}})",
       "remove_premium_error": "Erreur pour supprimer premium ({{error}})",
       "premium_members_info": "Les membres Premium auront accès aux fonctionnalités premium appartenant au groupe. Vous pouvez réattribuer les abonnements premium à d’autres utilisateurs (mais vous ne pouvez le supprimer à un membre que 30 jours après l’avoir ajouté).",
       "premium_seats_used_header": "Places Premium utilisées : {{used}} sur {{limit}}",
@@ -1287,16 +1287,16 @@
     },
     "pbn_import": {
       "success_no_duplicates": "{{count}} mains analysées.",
-      "success_duplicates": "{{count}} mains analysées. Les duplicatas ont été supprimés",
+      "success_duplicates": "{{count}} mains analysées. Les doublons ont été supprimés",
       "missing_info_error": "Donne, donneur ou vulnérabilité manquant",
       "no_hands_error": "Pas de donnes",
       "too_many_boards_error": "24 donnes au maximum",
-      "relevant_fields_info": "Les seuls champs pertinents sont PBN Evénement, Donne, Donneur, Vulnérabilité et Enchère. Nous essaierons aussi de trouver les commentaires entre {}. Tous les autres champs seront ignorés.",
+      "relevant_fields_info": "Les seuls champs pertinents du fichier PBN sont Evénement, Donne, Donneur, Vulnérabilité et Enchère. Nous essaierons aussi de trouver les commentaires entre {}. Tous les autres champs seront ignorés.",
       "split_multiple_label": "Séparez les différentes donnes avec :",
       "deal_separation_info": "Les donnes doivent être séparées avec \" {{splitter}} \". Collez toutes les donnes pour l’événement ci-dessous.",
-      "suggested_bidding_import_label": "Import auction as suggested bidding",
+      "suggested_bidding_import_label": "Importez l'enchère réalisée comme une enchère suggérérée",
       "import_commentary_label": "Importez le commenataire",
-      "paste_pbn_placeholder": "Coller le PBN ici",
+      "paste_pbn_placeholder": "Coller le fichier PBN ici",
       "clear": "Effacer",
       "create_draft": "Créer un brouillon",
       "event_name_placeholder": "Nom de l’événement"
@@ -1394,7 +1394,9 @@
     "compare": "Compare",
     "you": "Vous",
     "best": "Meilleur",
+    "par": "Par",
     "best_contract": "Meilleur contrat",
+    "par_contract": "Contrat par",
     "explain_ev": "Ce contrat est calculé sur plus de 1000 simulations à 4 jeux. Le jeu réel et l’analyse à 4 jeux peuvent différer.",
     "none": "Aucun",
     "feedback_to_cuebids": "Commentaire à Cuebids",
@@ -1504,13 +1506,13 @@
           "name": "Trèfle faible avec 8 cartes"
         },
         "marmicWithClubs": {
-          "name": "Marmic"
+          "name": "Tricolore avec du trèfle"
         },
         "naturalDiamonds": {
           "name": "Carreau naturel"
         },
         "marmicWithDiamonds": {
-          "name": "Marmic"
+          "name": "Tricolore avec du carreau"
         },
         "natDiamonds6": {
           "name": "Carreau faible avec 6 cartes"
@@ -1564,7 +1566,7 @@
         },
         "open1C_polish": {
           "name": "1!C, trèfle polonais",
-          "description": "12-14 régulier, naturel à trèfle 15-17, or toute main avec 18 et +"
+          "description": "12-14 régulier, naturel à trèfle 15-17, ou toute main avec 18 et +"
         },
         "open1C_strong": {
           "name": "1!C, fort (17+)",
@@ -1608,7 +1610,7 @@
         },
         "open2C_strong": {
           "name": "2!C, fort (20-21 SA ou FM)",
-          "description": "Très fort, 23+ point DH ou main régulière 20-21 DH"
+          "description": "Très fort, 23+ points DH ou main régulière 20-21 DH"
         },
         "open2C_nat": {
           "name": "2!C, naturel 6+",
@@ -1694,7 +1696,7 @@
           "name": "2 sur 1"
         },
         "minorHand": {
-          "name": "Minor hand"
+          "name": "Mineure 5ème"
         },
         "minorSupport": {
           "name": "Soutien mineure"
@@ -1784,7 +1786,7 @@
           "description": "10-16 points DH et au moins 5 cartes à !D"
         },
         "command_entry1D": {
-          "name": "Interviendra à 1!D ou Surenchérira jusqu’à 1!D"
+          "name": "Interviendra à 1!D"
         },
         "entry1H": {
           "name": "Intervention à 1!H",
@@ -1994,8 +1996,8 @@
         "garbage": "Poubelle",
         "very_weak": "Très faible",
         "weak": "Faible",
-        "medium": "Moyen",
-        "semi_solid": "Semi solid",
+        "medium": "Moyenne",
+        "semi_solid": "Solide",
         "running": "Autonome"
       },
       "vulnerabilities_label": "Vulnérabilités",
@@ -2016,7 +2018,7 @@
     "no_changes_error": "Modifiez certaines contraintes du scenario d’origine avant de l’enregistrer en tant que nouveau scénario.",
     "no_constraints_error": "Le scénario n’a pas de contraintes",
     "no_name_error": "Le scenario a besoin d’un nom",
-    "invalid_user_error": "L’utilisation ne peut pas créer de scénario",
+    "invalid_user_error": "L’utilisateur ne peut pas créer de scénario",
     "invalid_vars_error": "Vous utilisez les variables {{incorrectVars}} qui ne sont pas correctement définies",
     "invalid_vuls_error_singular": "{{invalidDirs}} n’a pas de types de main pour toutes les vulnérabilités de la donne",
     "invalid_vuls_error_plural": "{{invalidDirs}} n’ont pas de types de main pour toutes les vulnérabilités de la donne ",
@@ -2041,7 +2043,7 @@
       "robots": "Robots : ",
       "dialog": {
         "title": "Paramètres du scénario",
-        "flip_label": " Retourner la donne au hasard 180\u00B0",
+        "flip_label": "Pivoter la donne au hasard (0 ou 180\u00B0)",
         "dealer_label": "Donneur",
         "vul_label": "Vulnérabilité",
         "robots_label": "Robots",
@@ -2089,8 +2091,8 @@
     "clear_search": "Effacer la recherche",
     "results_count": "({{count}}) résultats",
     "select": "Sélectionner",
-    "user_search_empty": "Pas de résultats à la recherché par créateur",
-    "scenario_search_empty": "Pas de résultats à la recherché par scénario",
+    "user_search_empty": "Pas de résultats à la recherche par créateur",
+    "scenario_search_empty": "Pas de résultats à la recherche par scénario",
     "no_scenarios": "Pas de scénarios"
   },
   "manage_deal_types": {
@@ -2109,7 +2111,7 @@
     "share_unchanged_error": " Vous ne pouvez pas publier un scénario créé par quelqu'un d'autre sans modifier certaines contraintes.",
     "scenario_market": "Boutique de scénarios",
     "crate_scenario": "Créez un scénario",
-    "generation_tokens": "Generation tokens: ",
+    "generation_tokens": "Jetons pour génération de donnes : ",
     "beta_info_1": "Pendant la phase ",
     "beta_info_2": "BETA",
     "beta_info_3": " des ",
@@ -2129,7 +2131,7 @@
   },
   "messages": {
     "item_claimed": "Item claimed!",
-    "empty_inbox": "Votre boîte de reception est vide",
+    "empty_inbox": "Votre boîte de réception est vide",
     "mark_all_as_read": "Marquez tout comme lu",
     "message": "Message",
     "from": "De",
