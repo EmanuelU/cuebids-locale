@@ -670,6 +670,20 @@
     "pro_challenge_post_styled": "Please allow us to save the deals for use in special events in the future. Thank you for being a pro and supporting the community!",
     "create_challenge": "Create challenge"
   },
+  "shared": {
+    "shared_with_me": "Shared with me",
+    "i_have_shared": "I have shared",
+    "flagged": "Flagged",
+    "no_flagged": "You don't have any flagged hands right now",
+    "show_all": "Show all players",
+    "hand": "Hand",
+    "players": "Players",
+    "progress": "Progress",
+    "no_shared_sessions": "You don't have any shared sessions",
+    "no_sessions_shared": "You have not shared any sessions",
+    "remove_shared_session_title": "Remove shared session",
+    "remove_shared_session_body": "You will no longer be able to see what happens in this session. (Note that the session will not be deleted for the players."
+  },
   "settings": {
     "display_name_short_error": "Too short",
     "display_name_forbidden_characters_error": "Forbidden characters",

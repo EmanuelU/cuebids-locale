@@ -688,6 +688,20 @@
     "pro_challenge_post_styled": "Prosimy o pozwolenie na zapisanie rozdań do wykorzystania w przyszłych specjalnych wydarzeniach. Dziękujemy za bycie profesjonalistą i wspieranie społeczności!",
     "create_challenge": "Utwórz wyzwanie"
   },
+  "shared": {
+    "shared_with_me": "Udostępnione dla mnie",
+    "i_have_shared": "Udostępniłem",
+    "flagged": "Oznaczone",
+    "no_flagged": "Nie masz obecnie żadnych oznaczonych rozdań",
+    "show_all": "Pokaż wszystkich graczy",
+    "hand": "Rozdanie",
+    "players": "Gracze",
+    "progress": "Postęp",
+    "no_shared_sessions": "Nie masz żadnych udostępnionych sesji",
+    "no_sessions_shared": "Nie udostępniłeś żadnych sesji",
+    "remove_shared_session_title": "Usuń udostępnioną sesję",
+    "remove_shared_session_body": "Nie będz iesz już mógł zobaczyć, co dzieje się w tej sesji. (Uwaga: sesja nie zostanie usunięta dla graczy)."
+  },
   "settings": {
     "display_name_short_error": "Za krótkie",
     "display_name_forbidden_characters_error": "Niedozwolone znaki",

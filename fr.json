@@ -689,6 +689,20 @@
     "pro_challenge_post_styled": "Merci de nous autoriser à sauvegarder les donnes pour les utiliser lors d’événements spéciaux dans le futur. Merci d’être un pro et de soutenir la communauté!",
     "create_challenge": "Créer défi"
   },
+  "shared": {
+    "shared_with_me": "Partagé avec moi",
+    "i_have_shared": "J'ai partagé",
+    "flagged": "Marqué",
+    "no_flagged": "Vous n'avez actuellement aucune donne signalée",
+    "show_all": "Afficher tous les joueurs",
+    "hand": "Main",
+    "players": "Joueurs",
+    "progress": "Progression",
+    "no_shared_sessions": "Vous n'avez aucune session partagée",
+    "no_sessions_shared": "Vous n'avez partagé aucune session",
+    "remove_shared_session_title": "Supprimer la session partagée",
+    "remove_shared_session_body": "Vous ne pourrez plus voir ce qui se passe dans cette session. (Notez que la session ne sera pas supprimée pour les joueurs)."
+  },
   "settings": {
     "display_name_short_error": "Trop court",
     "display_name_forbidden_characters_error": "Caractères interdits",
@@ -820,7 +834,7 @@
     "session_filter_with_partner_actions": "Partenaire",
     "session_filter_unfinished": "Inachevé",
     "completed": "Fini",
-    "flagged": "Signalé",
+    "flagged": "Marqué",
     "partner": "Partenaire",
     "progress": "En cours",
     "pairs": "paires",
