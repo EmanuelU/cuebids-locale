@@ -742,6 +742,7 @@
     "no_notification_devices": "You have no devices registered for notifications",
     "confirm_delete_token": "You will no longer get notifications to the chosen device.",
     "web": "Web",
+    "add_device": "Add device",
     "notifications_disabled_info": "Notifications are disabled for this device",
     "chat_notifications_label": "Notifications for chat",
     "poll_notifications_label": "Notifications for new polls",
