@@ -742,6 +742,7 @@
     "no_notification_devices": "Du har inga enheter registrerade för notiser",
     "confirm_delete_token": "Du kommer inte längre att få notiser till den valda enheten.",
     "web": "Webb",
+    "add_device": "Add device",
     "notifications_disabled_info": "Notiser är avstängda på denna enhet",
     "chat_notifications_label": "Notiser för chat",
     "poll_notifications_label": "Notiser för nya omröstningar",

@@ -760,6 +760,7 @@
     "no_notification_devices": "Nie wskazano żadnych urządzeń do powiadomień",
     "confirm_delete_token": "Nie będziesz dostawać powiadomień na tym urządzeniu",
     "web": "Sieć",
+    "add_device": "Add device",
     "notifications_disabled_info": "Powiadomienia są wyłączone dla tego urządzenia",
     "chat_notifications_label": "Powiadomienia o czacie",
     "poll_notifications_label": "Powiadomienia o nowych ankietach",
