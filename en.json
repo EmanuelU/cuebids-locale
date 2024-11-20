@@ -670,6 +670,17 @@
     "pro_challenge_post_styled": "Please allow us to save the deals for use in special events in the future. Thank you for being a pro and supporting the community!",
     "create_challenge": "Create challenge"
   },
+  "four_player": {
+    "beta": "Welcome to the Beta test of 4-player Cuebids!",
+    "info": "Play at the same table with your friends, no simulation is done, you play the hands as they are dealt.",
+    "ticket_info": "This mode charges ticket from all four players.",
+    "opponent_one_label": "Opponent (East)",
+    "opponent_two_label": "Opponent (West)",
+    "partner_label": "Partner",
+    "boards_label": "Boards",
+    "start_session": "Start session",
+    "create_error": "Error when creating session ({{error}})"
+  },
   "shared": {
     "shared_with_me": "Shared with me",
     "i_have_shared": "I have shared",
