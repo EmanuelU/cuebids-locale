@@ -670,6 +670,17 @@
     "pro_challenge_post_styled": "Snälla låt oss spara givarna för att använda i speciella events i framtiden. Tack för att du är ett proffs och stöttar vår community!",
     "create_challenge": "Skapa utmaning"
   },
+  "four_player": {
+    "beta": "Välkommen till beta test av Cuebids på 4 spelare!",
+    "info": "Spela på samma bord som dina vänner, inga simuleringar görs. Du spelar givarna som de kommer.",
+    "ticket_info": "Detta läge drar biljetter från alla fyra spelare.",
+    "opponent_one_label": "Motståndare (East)",
+    "opponent_two_label": "Motståndare (West)",
+    "partner_label": "Partner",
+    "boards_label": "Brickor",
+    "start_session": "Starta session",
+    "create_error": "Ett fel uppstod med att skapa sessionen"
+  },
   "shared": {
     "shared_with_me": "Delade med mig",
     "i_have_shared": "Jag har delat",

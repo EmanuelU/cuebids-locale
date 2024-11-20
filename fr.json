@@ -689,6 +689,17 @@
     "pro_challenge_post_styled": "Merci de nous autoriser à sauvegarder les donnes pour les utiliser lors d’événements spéciaux dans le futur. Merci d’être un pro et de soutenir la communauté!",
     "create_challenge": "Créer défi"
   },
+  "four_player": {
+    "beta": "Bienvenue au test bêta de Cuebids à 4 joueurs !",
+    "info": "Jouez à la même table avec vos amis, aucune simulation n'est effectuée, vous jouez les mains telles qu'elles sont distribuées.",
+    "ticket_info": "Ce mode prélève un ticket auprès des quatre joueurs.",
+    "opponent_one_label": "Adversaire (Est)",
+    "opponent_two_label": "Adversaire (Ouest)",
+    "partner_label": "Partenaire",
+    "boards_label": "Donnes",
+    "start_session": "Démarrer la session",
+    "create_error": "Erreur lors de la création de la session"
+  },
   "shared": {
     "shared_with_me": "Partagé avec moi",
     "i_have_shared": "J'ai partagé",

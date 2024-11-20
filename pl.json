@@ -688,6 +688,17 @@
     "pro_challenge_post_styled": "Prosimy o pozwolenie na zapisanie rozdań do wykorzystania w przyszłych specjalnych wydarzeniach. Dziękujemy za bycie profesjonalistą i wspieranie społeczności!",
     "create_challenge": "Utwórz wyzwanie"
   },
+  "four_player": {
+    "beta": "Witamy w wersji beta 4-osobowego Cuebids!",
+    "info": "Graj przy tym samym stole ze znajomymi, bez symulacji – grasz rozdania tak, jak są rozdane.",
+    "ticket_info": "Ten tryb pobiera bilet od wszystkich czterech graczy.",
+    "opponent_one_label": "Przeciwnik (East)",
+    "opponent_two_label": "Przeciwnik (West)",
+    "partner_label": "Partner",
+    "boards_label": "Rozdania",
+    "start_session": "Rozpocznij sesję",
+    "create_error": "Błąd podczas tworzenia sesji"
+  },
   "shared": {
     "shared_with_me": "Udostępnione dla mnie",
     "i_have_shared": "Udostępniłem",

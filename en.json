@@ -679,7 +679,7 @@
     "partner_label": "Partner",
     "boards_label": "Boards",
     "start_session": "Start session",
-    "create_error": "Error when creating session ({{error}})"
+    "create_error": "Error when creating session"
   },
   "shared": {
     "shared_with_me": "Shared with me",
