@@ -646,10 +646,10 @@
     "partner": "Partner",
     "partner_disabled_label": "Robotutmaningar avstängda",
     "bullet_boards": "8 brickor",
-    "bullet_robots": "Advanced robots",
+    "bullet_robots": "Avancerade robotar",
     "banned_you": "Ditt konto är temporärt avstängt från tävlingsspel.",
     "banned_partner": "Din partners konto är temporärt avstängt från tävlingsspel.",
-    "start_challenge": "Start challenge",
+    "start_challenge": "Starta utmaning",
     "price_dialog_title": "Starta robot-utmaning",
     "price_dialog_submit": "Starta",
     "error_cannot_afford": "Du har inte råd att spela",
@@ -1436,7 +1436,7 @@
     "you": "Du",
     "please_apply": "Ansök här för att bli ",
     "pro": "PROFFS",
-    "different_system_warning": "Players kan använda olika system."
+    "different_system_warning": "Spelare kan använda olika system."
   },
   "price_dialog": {
     "your_charge_one": "Det kommer dras {{count}} biljett från dig ",
