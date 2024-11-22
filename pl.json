@@ -165,6 +165,7 @@
     }
   },
   "store": {
+    "offer_only_for_new": "Ta oferta dotyczy tylko nowych subskrybentów",
     "not_available": "Niedostępne",
     "per_month": "/miesiąc",
     "per_year": "/rok",
