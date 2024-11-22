@@ -165,6 +165,8 @@
     }
   },
   "store": {
+    "no_campaign": "Brak aktywnej kampanii",
+    "blackweek2024": "Black Week już tutaj!",
     "offer_only_for_new": "Ta oferta dotyczy tylko nowych subskrybentów",
     "not_available": "Niedostępne",
     "per_month": "/miesiąc",
