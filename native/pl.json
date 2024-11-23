@@ -34,6 +34,10 @@
   "club_supporter": "Subskrybent Trefl",
   "start_free_trial": "Spróbuj darmowe demo",
   "first_x_days_free": "Pierwsze {{period}} za darmo",
+  "month": "miesiąc",
+  "week": "tydzień",
+  "year": "rok",
+  "day": "dzień",
   "month_one": "{{count}} miesiąc",
   "month_other": "{{count}} miesiące",
   "week_one": "{{count}} tydzień",
@@ -51,5 +55,10 @@
   "club_supporter_mo": "Subskrybent Trefl",
   "prod_Nfbw5ln07DkRp6": "1500 biletów",
   "prod_Nfbw9dSNUYEPTm": "250 biletów",
-  "prod_NfbwpvLwT8TaGG": "50 biletów"
+  "prod_NfbwpvLwT8TaGG": "50 biletów",
+  "heart_month": "Subskrybent Kier",
+  "diamond_month": "Subskrybent Karo",
+  "tickets_1500": "1500 biletów",
+  "tickets_250": "250 biletów",
+  "tickets_50": "50 biletów"
 }

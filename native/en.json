@@ -34,6 +34,10 @@
   "club_supporter": "Club Supporter",
   "start_free_trial": "Start Free Trial",
   "first_x_days_free": "First {{period}} free",
+  "month": "month",
+  "week": "week",
+  "year": "year",
+  "day": "day",
   "month_one": "{{count}} month",
   "month_other": "{{count}} months",
   "week_one": "{{count}} week",
@@ -51,5 +55,10 @@
   "club_supporter_mo": "Club Supporter",
   "prod_Nfbw5ln07DkRp6": "1500 tickets",
   "prod_Nfbw9dSNUYEPTm": "250 tickets",
-  "prod_NfbwpvLwT8TaGG": "50 tickets"
+  "prod_NfbwpvLwT8TaGG": "50 tickets",
+  "heart_month": "Heart Supporter",
+  "diamond_month": "Diamond Supporter",
+  "tickets_1500": "1500 tickets",
+  "tickets_250": "250 tickets",
+  "tickets_50": "50 tickets"
 }

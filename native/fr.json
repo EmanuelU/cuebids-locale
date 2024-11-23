@@ -34,6 +34,10 @@
   "club_supporter": "Soutien Trèfle",
   "start_free_trial": "Commencez l'essai gratuit",
   "first_x_days_free": "Les premiers {{period}} sont gratuits",
+  "month": "mois",
+  "week": "semaine",
+  "year": "année",
+  "day": "jour",
   "month_one": "{{count}} mois",
   "month_other": "{{count}} mois",
   "week_one": "{{count}} semaine",
@@ -51,5 +55,10 @@
   "club_supporter_mo": "Soutien Trèfle",
   "prod_Nfbw5ln07DkRp6": "1500 tickets",
   "prod_Nfbw9dSNUYEPTm": "250 tickets",
-  "prod_NfbwpvLwT8TaGG": "50 tickets"
+  "prod_NfbwpvLwT8TaGG": "50 tickets",
+  "heart_month": "Soutien Cœur",
+  "diamond_month": "Soutien Diamant",
+  "tickets_1500": "1500 tickets",
+  "tickets_250": "250 tickets",
+  "tickets_50": "50 tickets"
 }

@@ -34,6 +34,10 @@
   "club_supporter": "Klöversupporter",
   "start_free_trial": "Starta gratis provperiod",
   "first_x_days_free": "Första {{period}} gratis",
+  "month": "månad",
+  "week": "vecka",
+  "year": "år",
+  "day": "dag",
   "month_one": "{{count}} månaden",
   "month_other": "{{count}} månaderna",
   "week_one": "{{count}} veckan",
@@ -51,5 +55,10 @@
   "club_supporter_mo": "Klöversupporter",
   "prod_Nfbw5ln07DkRp6": "1500 biljetter",
   "prod_Nfbw9dSNUYEPTm": "250 biljetter",
-  "prod_NfbwpvLwT8TaGG": "50 biljetter"
+  "prod_NfbwpvLwT8TaGG": "50 biljetter",
+  "heart_month": "Hjärtersupporter",
+  "diamond_month": "Rutersupporter",
+  "tickets_1500": "1500 biljetter",
+  "tickets_250": "250 biljetter",
+  "tickets_50": "50 biljetter"
 }
