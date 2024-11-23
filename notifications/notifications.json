@@ -253,20 +253,20 @@
   },
   "new_group_event": {
     "en": {
-      "title": "New Event",
-      "text": "New event in {{group}}"
+      "title": "New Event in {{group}}",
+      "text": "{{event}}"
     },
     "sv": {
-      "title": "Nytt event",
-      "text": "Nytt event i {{group}}"
+      "title": "Nytt event i {{group}}",
+      "text": "{{event}}"
     },
     "pl": {
-      "title": "Nowe wydarzenie",
-      "text": "Nowe wydarzenie w {{group}}"
+      "title": "Nowe wydarzenie w {{group}}",
+      "text": "{{event}}"
     },
     "fr": {
-      "title": "Nouvel événement",
-      "text": "Nouvel événement dans {{group}}"
+      "title": "Nouvel événement dans {{group}}",
+      "text": "{{event}}"
     }
   },
   "session_shared": {
