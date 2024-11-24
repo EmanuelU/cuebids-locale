@@ -14,7 +14,7 @@
     },
     "fr": {
       "title": "{{partner}} a terminé d'enchérir",
-      "text": "C'est à votre tour!"
+      "text": "C'est à votre tour !"
     }
   },
   "partner_started_session": {
@@ -28,11 +28,11 @@
     },
     "pl": {
       "title": "Nowa sesja z {{partner}}",
-      "text": "Partner {{partner}} rozpoczął nową sesję!"
+      "text": "Partner {{partner}} rozpoczął nową sesję!"
     },
     "fr": {
       "title": "Nouvelle session avec {{partner}}",
-      "text": "Le partenaire {{partner}} a démarré une nouvelle session!"
+      "text": "Le partenaire {{partner}} a démarré une nouvelle session !"
     }
   },
   "event_joined": {
@@ -121,7 +121,7 @@
       "text": "{{opponent1}} i {{opponent2}} rzucili ci wyzwanie"
     },
     "fr": {
-      "title": "Défi!",
+      "title": "Défi !",
       "text": "{{opponent1}} et {{opponent2}} vous ont défié"
     }
   },
@@ -140,7 +140,7 @@
     },
     "fr": {
       "title": "Match trouvé",
-      "text": "Une session a commencé avec {{partner}} - bonne chance!"
+      "text": "Une session a commencé avec {{partner}} - bonne chance !"
     }
   },
   "found_challenge": {
@@ -176,7 +176,7 @@
     },
     "fr": {
       "title": "Invité à jouer",
-      "text": "{{partner}} vous a invité à jouer l'événement: {{event}}"
+      "text": "{{partner}} vous a invité à jouer l'événement : {{event}}"
     }
   },
   "group_event_accepted": {
@@ -194,7 +194,7 @@
     },
     "fr": {
       "title": "Invitation acceptée",
-      "text": "{{partner}} a accepté votre invitation à jouer l'événement: {{event}}"
+      "text": "{{partner}} a accepté votre invitation à jouer l'événement : {{event}}"
     }
   },
   "group_invite": {
@@ -212,7 +212,7 @@
     },
     "fr": {
       "title": "Invitation de groupe",
-      "text": "Vous avez été invité au groupe: {{group}}"
+      "text": "Vous avez été invité au groupe : {{group}}"
     }
   },
   "group_added": {
@@ -230,7 +230,7 @@
     },
     "fr": {
       "title": "Ajouté au groupe",
-      "text": "Vous avez été ajouté au groupe: {{group}}"
+      "text": "Vous avez été ajouté au groupe : {{group}}"
     }
   },
   "group_promotion": {
@@ -248,25 +248,25 @@
     },
     "fr": {
       "title": "Membre premium du groupe",
-      "text": "Vous avez été promu membre premium du groupe: {{group}}"
+      "text": "Vous avez été promu membre premium du groupe : {{group}}"
     }
   },
   "new_group_event": {
     "en": {
-      "title": "New Event in {{group}}",
-      "text": "{{event}}"
+      "title": "New Event",
+      "text": "New event in {{group}}"
     },
     "sv": {
-      "title": "Nytt event i {{group}}",
-      "text": "{{event}}"
+      "title": "Nytt event",
+      "text": "Nytt event i {{group}}"
     },
     "pl": {
-      "title": "Nowe wydarzenie w {{group}}",
-      "text": "{{event}}"
+      "title": "Nowe wydarzenie",
+      "text": "Nowe wydarzenie w {{group}}"
     },
     "fr": {
-      "title": "Nouvel événement dans {{group}}",
-      "text": "{{event}}"
+      "title": "Nouvel événement",
+      "text": "Nouvel événement dans {{group}}"
     }
   },
   "session_shared": {
@@ -302,7 +302,7 @@
     },
     "fr": {
       "title": "Nouveaux rapports hebdomadaires",
-      "text": "Cette semaine, vous avez terminé {{dealsFinished}} parties avec {{numberOfPartners}} partenaires et vous avez obtenu en moyenne {{averageGrade}} étoiles!"
+      "text": "Cette semaine, vous avez terminé {{dealsFinished}} parties avec {{numberOfPartners}} partenaires et vous avez obtenu en moyenne {{averageGrade}} étoiles !"
     }
   }
 }
