@@ -222,7 +222,7 @@
     },
     "manage_subscription_pre_styled": "Cliquez sur ",
     "manage_subscription_styled": "Gestion de l’abonnement",
-    "manage_subscription_post_styled": " et après cliquez sur mise à jour de ??.",
+    "manage_subscription_post_styled": " et après sur 'update plan'.",
     "already_heart": {
       "info_1": "L’abonnement Coeur est l’abonnement de plus haut niveau et il inclut ",
       "info_2": "un nombre infini",
@@ -546,9 +546,9 @@
     "email_placeholder": "example@cuebids.com",
     "password_placeholder": "Mot de passe",
     "display_name_placeholder": "Mr. Cuebids",
-    "referral_code_label": "Referral code",
+    "referral_code_label": "Code promotionnel",
     "referral_code_placeholder": "CODE ICI",
-    "referral_code_info": "Enter referral ou le code promotionnel. Vous pouvez aussi créer un compte sans code.",
+    "referral_code_info": "Entrez le code promotionnel. Vous pouvez aussi créer un compte sans code.",
     "login_with_google": "Continuer avec Google",
     "login_with_apple": "Continuer avec Apple",
     "remember_me": "Se souvenir de moi",
@@ -572,7 +572,7 @@
       "create_account_success": "Bienvenue sur Cuebids ! Nous sommes heureux que vous nous rejoigniez <3",
       "auth_invalid_email": "Adresse email invalide. Veuillez vérifier son orthographe.",
       "auth_user_not_found": "Le compte n’existe pas. \n Veuillez vérifier son orthographe ou essayez une adresse email différente.",
-      "auth_too_many_requests": "Vous avez fait trop de demandes. Attendez patiemment votre email ou contactez le support à l’adresse support@cuebids.com",
+      "auth_too_many_requests": "Vous avez fait trop de demandes. Attendez patiemment notre email ou contactez le support à l’adresse support@cuebids.com",
       "auth_wrong_password": "Mot de passe incorrect. \n Mot de passe oublié ? Cliquez sur le lien Mot de passe oublié."
     },
     "footer": {
@@ -633,7 +633,7 @@
     "not_finished": "Pas fini",
     "go_to_deal": "Aller à la donne",
     "kibitz_ongoing": "Les joueurs continuent de s’affronter ! Revenez quand ils auront fini pour voir le résultat.",
-    "rematch": "Rematch",
+    "rematch": "Match à nouveau",
     "error_missing_partner": "Partenaire manquant",
     "error_missing_opponents": "Adversaires manquants",
     "error_insufficient_deals": "Nombre insuffisant de donnes disponibles"
@@ -688,7 +688,7 @@
     "robots_label": "Robots",
     "opponent_one_label": "Adversaire (Nord)",
     "opponent_two_label": "Adversaire (Sud)",
-    "pro_challenge": "Défi de pro",
+    "pro_challenge": "Défi pour les PROS",
     "pro_challenge_pre_styled": "Tous les joueurs sont ",
     "pro_challenge_styled": "PRO",
     "pro_challenge_post_styled": "Merci de nous autoriser à sauvegarder les donnes pour les utiliser lors d’événements spéciaux dans le futur. Merci d’être un pro et de soutenir la communauté!",
@@ -760,10 +760,10 @@
     "flag_automatic": "Obtenir automatiquement ",
     "public_flag_label": "Drapeau public",
     "verify_mid": "Vérifier le numéro de membre",
-    "connect_to_sbf": "Lier le compte à Sbf",
-    "sbf_logo_alt": "Sbf logga",
-    "mid_label": "Numéro de membre (mid)",
-    "connect_to_sbf_info": "Lorsque vous connectez votre compte Cuebids à Sbf, vous pouvez vous connecter à Cuebids via le login de Sbf.",
+    "connect_to_sbf": "Lier à votre compte SBF",
+    "sbf_logo_alt": "Connection à SBF",
+    "mid_label": "Numéro de membre",
+    "connect_to_sbf_info": "Lorsque vous connectez votre compte Cuebids à SBF, vous pouvez vous connecter à Cuebids via le login de SBF.",
     "view_profile": "Voir le profil",
     "subscriptions_collapse_title": "Abonnements",
     "active_subscription": "{{sub}} abonnement",
@@ -1747,10 +1747,10 @@
           "name": "Des piques (16+)"
         },
         "gazzilliResponder": {
-          "name": "Gazilli, responder"
+          "name": "Gazilli, répondant"
         },
         "gazzilliResponder_spades": {
-          "name": "Gazilli, spader over hearts"
+          "name": "Gazilli, répondant avec 4 piques"
         },
         "balanced_10_13": {
           "name": "Régulier 10-13"
@@ -2518,6 +2518,6 @@
     "claim_successful_info": "Vérifiez votre boîte de réception",
     "Code not found.": "Code non trouvé",
     "Code has expired.": "Code expiré",
-    "You can only claim a referral code once.": "Vous ne pouvez réclamer un code de référence qu’une seule fois."
+    "You can only claim a referral code once.": "Vous ne pouvez réclamer un code promotionnel qu’une seule fois."
   }
 }
