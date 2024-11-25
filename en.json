@@ -1335,6 +1335,11 @@
     "navigate_with_buttons_info": "Navigate in the bidding via arrows"
   },
   "app": {
+    "feature_disabled": "Feature disabled",
+    "feature_disabled_info": "This feature is currently disabled.",
+    "failed_to_load": "Failed to load",
+    "failed_to_load_info": "Something went wrong when loading the page.",
+    "back_to_start": "Back to start",
     "email": "Email",
     "password": "Password",
     "save": "Save",
