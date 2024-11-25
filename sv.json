@@ -1335,6 +1335,10 @@
     "navigate_with_buttons_info": "Bläddra i budgivningen med pilarna"
   },
   "app": {
+    "feature_disabled": "Funktion avstängd",
+    "feature_disabled_info": "Denna funktion är inte tillgänglig just nu.",
+    "failed_to_load": "Kunde inte ladda sidan",
+    "failed_to_load_info": "Något gick fel när sidan skulle laddas.",
     "email": "E\u2011post",
     "password": "Lösenord",
     "save": "Spara",

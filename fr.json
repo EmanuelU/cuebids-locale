@@ -1355,6 +1355,10 @@
     "navigate_with_buttons_info": "Naviguer dans les enchères grâce aux flèches"
   },
   "app": {
+    "feature_disabled": "Fonctionnalité désactivée",
+    "feature_disabled_info": "Cette fonctionnalité n’est pas encore disponible. Restez à l’écoute pour les mises à jour.",
+    "failed_to_load": "Echec du chargement",
+    "failed_to_load_info": "Quelque chose s'est mal passé. Veuillez réessayer.",
     "email": "Email",
     "password": "Mot de passe",
     "save": "Sauvegarder",

@@ -1355,6 +1355,10 @@
     "navigate_with_buttons_info": "Nawiguj licytację za pomocą strzałek"
   },
   "app": {
+    "feature_disabled": "Funkcja wyłączona",
+    "feature_disabled_info": "Ta funkcja jest obecnie wyłączona. Proszę spróbować później.",
+    "failed_to_load": "Nie udało się załadować strony",
+    "failed_to_load_info": "Coś poszło nie tak. Spróbuj ponownie za chwilę.",
     "email": "E-mail",
     "password": "Hasło",
     "save": "Zapisz",
