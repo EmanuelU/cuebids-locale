@@ -1356,9 +1356,10 @@
   },
   "app": {
     "feature_disabled": "Funkcja wyłączona",
-    "feature_disabled_info": "Ta funkcja jest obecnie wyłączona. Proszę spróbować później.",
-    "failed_to_load": "Nie udało się załadować strony",
-    "failed_to_load_info": "Coś poszło nie tak. Spróbuj ponownie za chwilę.",
+    "feature_disabled_info": "Ta funkcja jest obecnie wyłączona.",
+    "failed_to_load": "Nie udało się załadować",
+    "failed_to_load_info": "Wystąpił błąd podczas ładowania strony.",
+    "back_to_start": "Powrót na początek",
     "email": "E-mail",
     "password": "Hasło",
     "save": "Zapisz",

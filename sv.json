@@ -1339,6 +1339,7 @@
     "feature_disabled_info": "Denna funktion är inte tillgänglig just nu.",
     "failed_to_load": "Kunde inte ladda sidan",
     "failed_to_load_info": "Något gick fel när sidan skulle laddas.",
+    "back_to_start": "Tillbaka till start",
     "email": "E\u2011post",
     "password": "Lösenord",
     "save": "Spara",
