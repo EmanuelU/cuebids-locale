@@ -1355,10 +1355,11 @@
     "navigate_with_buttons_info": "Naviguer dans les enchères grâce aux flèches"
   },
   "app": {
-    "feature_disabled": "Fonctionnalité désactivée",
-    "feature_disabled_info": "Cette fonctionnalité n’est pas encore disponible. Restez à l’écoute pour les mises à jour.",
-    "failed_to_load": "Echec du chargement",
-    "failed_to_load_info": "Quelque chose s'est mal passé. Veuillez réessayer.",
+    "feature_disabled": "Fonction désactivée",
+    "feature_disabled_info": "Cette fonction est actuellement désactivée.",
+    "failed_to_load": "Échec du chargement",
+    "failed_to_load_info": "Une erreur s'est produite lors du chargement de la page.",
+    "back_to_start": "Retour au début",
     "email": "Email",
     "password": "Mot de passe",
     "save": "Sauvegarder",
