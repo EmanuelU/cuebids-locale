@@ -155,9 +155,9 @@
       "robot_info": "Ceci est un robot avec lequel vous pouvez vous entraîner à enchérir.",
       "send_friend_request": "Demander à être ami",
       "friend_request_sent": "Demander à être ami avec {{displayName}}",
-      "total_stars": "Nombre total d’étoiles",
-      "weekly_wins": "Evénements hebdomadaires gagnés",
-      "daily_wins": "Evénements quotidiens gagnés"
+      "total_stars": "Étoiles totales",
+      "weekly_wins": "Victoires hebdo",
+      "daily_wins": "Victoires jour"
     },
     "user_display": {
       "unknown_user": "Utilisateur inconnu",
