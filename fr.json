@@ -389,7 +389,9 @@
     "successfully_created": "Sondage créé"
   },
   "leaderboard": {
-    "empty": "Le classement est vide"
+    "empty": "Le classement est vide",
+    "stars": "Etoiles",
+    "ev": "EV"
   },
   "navbar": {
     "tickets": "tickets",
@@ -2341,10 +2343,11 @@
     "continue": "Continuez l’événement quotidien",
     "completed": "Evénement quotidien terminé",
     "to_start": "Pour commencer",
+    "friends": "Amis",
     "your_position": "Votre position : {{position}} sur {{count}} paires",
     "participants": "{{count}} paires ont rejoint cet événement",
     "leaderboard_minimum": "Un minimum de 15 étoiles est nécessaire pour être pris en compte dans le classement.",
-    "leaderboard_title": "Top 10"
+    "leaderboard_title": "Meilleur du jour"
   },
   "join_daily": {
     "join_error": "Erreur en rejoignant l’événement {{error}}",
@@ -2365,10 +2368,11 @@
     "continue": "Continuez l’événement hebdomadaire",
     "completed": "Evénement hebdomadaire terminé",
     "to_start": "Pour commencer",
+    "friends": "Amis",
     "your_position": "Votre position : {{position}} sur {{count}} paires",
     "participants": "{{count}} paires ont rejoint cet événement",
     "leaderboard_minimum": "Un minimum de 45 étoiles est nécessaire pour être pris en compte dans le classement.",
-    "leaderboard_title": "Top 10"
+    "leaderboard_title": "Meilleur de la semaine"
   },
   "join_weekly": {
     "join_error": "Erreur en rejoignant l’événement {{error}}",

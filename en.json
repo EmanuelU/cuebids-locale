@@ -389,7 +389,9 @@
     "successfully_created": "Poll created"
   },
   "leaderboard": {
-    "empty": "Leaderboard empty"
+    "empty": "Leaderboard empty",
+    "stars": "Stars",
+    "ev": "EV"
   },
   "navbar": {
     "tickets": "tickets",
@@ -2321,10 +2323,11 @@
     "continue": "Continue Daily",
     "completed": "Daily completed",
     "to_start": "To start",
+    "friends": "Friends",
     "your_position": "Your position: {{position}} out of {{count}} pairs",
     "participants": "{{count}} pairs have joined this event",
     "leaderboard_minimum": "A minimum of 15 stars is required to be considered for the leaderboard.",
-    "leaderboard_title": "Top 10"
+    "leaderboard_title": "Today's best"
   },
   "join_daily": {
     "join_error": "Error when joining event {{error}}",
@@ -2345,10 +2348,11 @@
     "continue": "Continue Weekly",
     "completed": "Weekly completed",
     "to_start": "To start",
+    "friends": "Friends",
     "participants": "{{count}} pairs have joined this event",
     "your_position": "Your position: {{position}} out of {{count}} pairs",
     "leaderboard_minimum": "A minimum of 45 stars is required to be considered for the leaderboard.",
-    "leaderboard_title": "Top 10"
+    "leaderboard_title": "Weekly's best"
   },
   "join_weekly": {
     "join_error": "Error when joining event {{error}}",

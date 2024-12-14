@@ -389,7 +389,9 @@
     "successfully_created": "Ankieta utworzona"
   },
   "leaderboard": {
-    "empty": "Ranking jest pusty"
+    "empty": "Ranking jest pusty",
+    "stars": "Gwiazdki",
+    "ev": "EV"
   },
   "navbar": {
     "tickets": "bilety",
@@ -2341,10 +2343,11 @@
     "continue": "Kontynuuj Dniówkę",
     "completed": "Dniówka zakończona",
     "to_start": "Do rozpoczęcia",
+    "friends": "Znajomi",
     "your_position": "Twoje miejsce: {{position}} na {{count}} par",
     "participants": "{{count}} par dołączyło do tego wydarzenia",
     "leaderboard_minimum": "Aby zostać uwzględnionym w rankingu, wymagane jest co namniej 15 gwiazdek.",
-    "leaderboard_title": "Top 10"
+    "leaderboard_title": "Dzisiejsze najlepsze"
   },
   "join_daily": {
     "join_error": "Błąd podczas dołączania do wydarzenia {{error}}",
@@ -2365,10 +2368,11 @@
     "continue": "Kontynuuj Tygodniówkę",
     "completed": "Tygodniówka zakończona",
     "to_start": "Do rozpoczęcia",
+    "friends": "Znajomi",
     "participants": "{{count}} par dołączyło do tego wydarzenia",
     "your_position": "Twoje miejsce: {{position}} na {{count}} par",
     "leaderboard_minimum": "Aby zostać uwzględnionym w rankingu, wymagane jest minimum 45 gwiazdek.",
-    "leaderboard_title": "Top 10"
+    "leaderboard_title": "Tygodniowe najlepsze"
   },
   "join_weekly": {
     "join_error": "Błąd podczas dołączania do wydarzenia {{error}}",
