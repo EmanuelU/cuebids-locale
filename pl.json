@@ -698,7 +698,7 @@
   "four_player": {
     "beta": "Witamy w wersji beta 4-osobowego Cuebids!",
     "info": "Graj przy tym samym stole ze znajomymi, bez symulacji – grasz rozdania tak, jak są rozdane.",
-    "ticket_info": "Ten tryb pobiera bilet od wszystkich czterech graczy.",
+    "ticket_info": "Ten tryb nie pobiera biletów, ale wymaga co najmniej subskrypcji Karo dla wszystkich graczy.",
     "opponent_one_label": "Przeciwnik (East)",
     "opponent_two_label": "Przeciwnik (West)",
     "partner_label": "Partner",

@@ -699,7 +699,7 @@
   "four_player": {
     "beta": "Bienvenue au test bêta de Cuebids à 4 joueurs !",
     "info": "Jouez à la même table avec vos amis, aucune simulation n'est effectuée, vous jouez les mains telles qu'elles sont distribuées.",
-    "ticket_info": "Ce mode prélève un ticket auprès des quatre joueurs.",
+    "ticket_info": "Ce mode ne consomme aucun ticket, mais nécessite au minimum un abonnement Carreau pour tous les joueurs.",
     "opponent_one_label": "Adversaire (Est)",
     "opponent_two_label": "Adversaire (Ouest)",
     "partner_label": "Partenaire",

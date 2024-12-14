@@ -680,7 +680,7 @@
   "four_player": {
     "beta": "Welcome to the Beta test of 4-player Cuebids!",
     "info": "Play at the same table with your friends, no simulation is done, you play the hands as they are dealt.",
-    "ticket_info": "This mode charges ticket from all four players.",
+    "ticket_info": "This mode charges no tickets but requires at least Diamond subscription for all players.",
     "opponent_one_label": "Opponent (East)",
     "opponent_two_label": "Opponent (West)",
     "partner_label": "Partner",

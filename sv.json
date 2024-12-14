@@ -680,7 +680,7 @@
   "four_player": {
     "beta": "Välkommen till beta test av Cuebids på 4 spelare!",
     "info": "Spela på samma bord som dina vänner, inga simuleringar görs. Du spelar givarna som de kommer.",
-    "ticket_info": "Detta läge drar biljetter från alla fyra spelare.",
+    "ticket_info": "Detta läge drar inga biljetter men kräver minst Ruterprenumeration hos alla spelare.",
     "opponent_one_label": "Motståndare (East)",
     "opponent_two_label": "Motståndare (West)",
     "partner_label": "Partner",
