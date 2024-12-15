@@ -2508,5 +2508,12 @@
     "Code not found.": "Code not found",
     "Code has expired.": "Code has expired",
     "You can only claim a referral code once.": "You can only claim a referral code once."
+  },
+  "ccp": {
+    "season": "Season",
+    "number_of_participants": "{{numberOfParticipants}} players",
+    "rank": "Rank: {{rank}}",
+    "tab_leaders": "Leaders",
+    "tab_mine": "Me"
   }
 }
