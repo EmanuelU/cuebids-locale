@@ -2509,5 +2509,12 @@
     "Code not found.": "Koden finns ej",
     "Code has expired.": "Koden har löpt ut",
     "You can only claim a referral code once.": "Du kan bara använda en inbjudningskod."
+  },
+  "ccp": {
+    "season": "Säsong",
+    "number_of_participants": "{{numberOfParticipants}} spelare",
+    "rank": "Rank: {{rank}}",
+    "tab_leaders": "Ledare",
+    "tab_mine": "Jag"
   }
 }

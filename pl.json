@@ -2545,5 +2545,12 @@
       "error_lessons": "Error fetching lessons",
       "error_course": "Error fetching course"
     }
+  },
+  "ccp": {
+    "season": "Sezon",
+    "number_of_participants": "{{numberOfParticipants}} graczy",
+    "rank": "Ranga: {{rank}}",
+    "tab_leaders": "Liderzy",
+    "tab_mine": "Ja"
   }
 }
