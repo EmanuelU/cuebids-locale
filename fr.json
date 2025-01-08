@@ -923,7 +923,8 @@
     "store": "Boutique",
     "history": "Historique",
     "top10": "Top 10",
-    "shared": "Partagé"
+    "shared": "Partagé",
+    "season": "Saison"
   },
   "robots": {
     "robots": "Robots",
@@ -2534,6 +2535,9 @@
     "number_of_participants": "{{numberOfParticipants}} joueurs",
     "rank": "Rang : {{rank}}",
     "tab_leaders": "Leaders",
-    "tab_mine": "Moi"
+    "tab_mine": "Moi",
+    "points": "Points",
+    "type": "Type",
+    "date": "Date"
   }
 }

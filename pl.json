@@ -923,7 +923,7 @@
     "history": "Historia",
     "top10": "Top 10",
     "shared": "Udostępnione",
-    "academy": "Academy"
+    "season": "Sezon"
   },
   "robots": {
     "robots": "Roboty",
@@ -2551,6 +2551,9 @@
     "number_of_participants": "{{numberOfParticipants}} graczy",
     "rank": "Ranga: {{rank}}",
     "tab_leaders": "Liderzy",
-    "tab_mine": "Ja"
+    "tab_mine": "Ja",
+    "points": "Punkty",
+    "type": "Typ",
+    "date": "Data"
   }
 }
