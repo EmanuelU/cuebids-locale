@@ -2519,6 +2519,26 @@
     "tab_mine": "Jag",
     "points": "Poäng",
     "type": "Typ",
-    "date": "Datum"
+    "date": "Datum",
+    "info": {
+      "coming_soon": "Kommer snart",
+      "earn_points": "Tjäna poäng genom att delta i ",
+      "cuebids_events": "Cuebids-evenemang ",
+      "and": "och ",
+      "ranked_challenges": "Rankade utmaningar",
+      "compete": "Tävla mot andra spelare och klättra på ledartavlan",
+      "point_system": "Poängsystem",
+      "daily": "Dagligt evenemang",
+      "complete_daily": "Slutför det dagliga i tid: <strong>10 poäng</strong>",
+      "score_daily": "<strong>1 poäng</strong> tilldelas för varje par du slår",
+      "weekly": "Veckoevenemang",
+      "complete_weekly": "Slutför veckoevenemanget i tid: <strong>70 poäng</strong>",
+      "score_weekly": "<strong>3 poäng</strong> tilldelas för varje par du slår",
+      "ranked": "Rankade utmaningar",
+      "win_ranked": "Vinn en rankad utmaning: <strong>5 poäng</strong>",
+      "season_cycle": "Säsongscykel",
+      "season_resets": "Säsongen återställs varannan månad",
+      "double_time": "<strong className=\"text-secondary font-bold\">Dubbla poäng</strong> ges under de sista 2 veckorna av säsongen"
+    }
   }
 }

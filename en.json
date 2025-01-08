@@ -2518,6 +2518,26 @@
     "tab_mine": "Me",
     "points": "Points",
     "type": "Type",
-    "date": "Date"
+    "date": "Date",
+    "info": {
+      "coming_soon": "Coming soon",
+      "earn_points": "Earn points by participating in ",
+      "cuebids_events": "Cuebids Events ",
+      "and": "and ",
+      "ranked_challenges": "Ranked Challenges",
+      "compete": "Compete against other players and climb the leaderboard",
+      "point_system": "Point System",
+      "daily": "Daily Event",
+      "complete_daily": "Complete the daily in time: <strong>10 points</strong>",
+      "score_daily": "<strong>1 point</strong> added for every pair you beat",
+      "weekly": "Weekly Event",
+      "complete_weekly": "Complete the weekly in time: <strong>70 points</strong>",
+      "score_weekly": "<strong>3 point</strong> added for every pair you beat",
+      "ranked": "Ranked Challenges",
+      "win_ranked": "Win a ranked challenge: <strong>5 points</strong>",
+      "season_cycle": "Season Cycle",
+      "season_resets": "Season resets every other month",
+      "double_time": "<strong className=\"text-secondary font-bold\">Double points</strong> are awarded during the last 2 weeks of the Season"
+    }
   }
 }

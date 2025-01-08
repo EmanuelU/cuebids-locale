@@ -2554,6 +2554,26 @@
     "tab_mine": "Ja",
     "points": "Punkty",
     "type": "Typ",
-    "date": "Data"
+    "date": "Data",
+    "info": {
+      "coming_soon": "Wkrótce dostępne",
+      "earn_points": "Zarabiaj punkty, uczestnicząc w ",
+      "cuebids_events": "Wydarzeniach Cuebids ",
+      "and": "i ",
+      "ranked_challenges": "Wyzwaniach rankingowych",
+      "compete": "Rywalizuj z innymi graczami i wspinaj się na tablicy wyników",
+      "point_system": "System punktowy",
+      "daily": "Codzienne wydarzenie",
+      "complete_daily": "Ukończ codzienne wydarzenie na czas: <strong>10 punktów</strong>",
+      "score_daily": "<strong>1 punkt</strong> przyznawany za każdą pokonaną parę",
+      "weekly": "Cotygodniowe wydarzenie",
+      "complete_weekly": "Ukończ cotygodniowe wydarzenie na czas: <strong>70 punktów</strong>",
+      "score_weekly": "<strong>3 punkty</strong> przyznawane za każdą pokonaną parę",
+      "ranked": "Wyzwania rankingowe",
+      "win_ranked": "Wygraj wyzwanie rankingowe: <strong>5 punktów</strong>",
+      "season_cycle": "Cykl sezonowy",
+      "season_resets": "Sezon resetuje się co dwa miesiące",
+      "double_time": "<strong className=\"text-secondary font-bold\">Podwójne punkty</strong> są przyznawane w ostatnich 2 tygodniach sezonu"
+    }
   }
 }
