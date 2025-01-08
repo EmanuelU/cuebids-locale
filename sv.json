@@ -2516,6 +2516,9 @@
     "number_of_participants": "{{numberOfParticipants}} spelare",
     "rank": "Rank: {{rank}}",
     "tab_leaders": "Ledare",
-    "tab_mine": "Jag"
+    "tab_mine": "Jag",
+    "points": "Poäng",
+    "type": "Typ",
+    "date": "Datum"
   }
 }
