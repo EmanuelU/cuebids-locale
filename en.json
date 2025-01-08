@@ -2537,7 +2537,7 @@
       "win_ranked": "Win a ranked challenge: <strong>5 points</strong>",
       "season_cycle": "Season Cycle",
       "season_resets": "Season resets every other month",
-      "double_time": "<strong className=\"text-secondary font-bold\">Double points</strong> are awarded during the last 2 weeks of the Season"
+      "double_time": "<strong class=\"text-secondary font-bold\">Double points</strong> are awarded during the last 2 weeks of the Season"
     }
   }
 }

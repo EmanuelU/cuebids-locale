@@ -2538,7 +2538,7 @@
       "win_ranked": "Vinn en rankad utmaning: <strong>5 poäng</strong>",
       "season_cycle": "Säsongscykel",
       "season_resets": "Säsongen återställs varannan månad",
-      "double_time": "<strong className=\"text-secondary font-bold\">Dubbla poäng</strong> ges under de sista 2 veckorna av säsongen"
+      "double_time": "<strong class=\"text-secondary font-bold\">Dubbla poäng</strong> ges under de sista 2 veckorna av säsongen"
     }
   }
 }
