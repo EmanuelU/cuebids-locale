@@ -686,7 +686,9 @@
     "partner_label": "Partner",
     "boards_label": "Boards",
     "start_session": "Start session",
-    "create_error": "Error when creating session"
+    "create_error": "Error when creating session",
+    "ev_explain": "In four player mode, no simulations are done. The score is calculated based on the actual hands dealt.",
+    "full_hand": "Full hand"
   },
   "shared": {
     "shared_with_me": "Shared with me",
