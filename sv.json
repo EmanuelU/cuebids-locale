@@ -687,7 +687,8 @@
     "boards_label": "Brickor",
     "start_session": "Starta session",
     "create_error": "Ett fel uppstod med att skapa sessionen",
-    "ev_explain": "Med fyra spelare görs inga simuleringar. Kontraktets värde räknas ut som given är delad."
+    "ev_explain": "Med fyra spelare görs inga simuleringar. Kontraktets värde räknas ut som given är delad.",
+    "full_hand": "Hela given"
   },
   "shared": {
     "shared_with_me": "Delade med mig",

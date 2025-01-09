@@ -706,7 +706,8 @@
     "boards_label": "Donnes",
     "start_session": "Démarrer la session",
     "create_error": "Erreur lors de la création de la session",
-    "ev_explain": "En mode quatre joueurs, aucune simulation n'est effectuée. Le score est calculé en fonction des mains réellement distribuées."
+    "ev_explain": "En mode quatre joueurs, aucune simulation n'est effectuée. Le score est calculé en fonction des mains réellement distribuées.",
+    "full_hand": "Donne complète"
   },
   "shared": {
     "shared_with_me": "Partagé avec moi",

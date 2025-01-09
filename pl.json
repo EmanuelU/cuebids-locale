@@ -705,7 +705,8 @@
     "boards_label": "Rozdania",
     "start_session": "Rozpocznij sesję",
     "create_error": "Błąd podczas tworzenia sesji",
-    "ev_explain": "W trybie czterech graczy nie są przeprowadzane symulacje. Wynik jest obliczany na podstawie rzeczywistych rozdanych kart."
+    "ev_explain": "W trybie czterech graczy nie są przeprowadzane symulacje. Wynik jest obliczany na podstawie rzeczywistych rozdanych kart.",
+    "full_hand":  "Pełne rozdanie"
   },
   "shared": {
     "shared_with_me": "Udostępnione dla mnie",
