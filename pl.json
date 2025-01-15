@@ -1442,6 +1442,7 @@
     "explain_ev": "Ten kontrakt jest obliczany na podstawie gry Double Dummy w 1000 symulacjach. Wyniki w rzeczywistości i scenariusze Double Dummy mogą się różnić.",
     "none": "Brak",
     "feedback_to_cuebids": "Opinie o Cuebids",
+    "feedback": "Opinie",
     "marked_for_discussion": "Oflagowane",
     "mark_for_discussion": "Oflaguj do dyskusji",
     "like": "Polub",

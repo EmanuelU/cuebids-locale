@@ -1443,6 +1443,7 @@
     "explain_ev": "Ce contrat est calculé sur plus de 1000 simulations à 4 jeux. Le jeu réel et l’analyse à 4 jeux peuvent différer.",
     "none": "Aucun",
     "feedback_to_cuebids": "Commentaire à Cuebids",
+    "feedback": "Commentaire",
     "marked_for_discussion": "Marqué",
     "mark_for_discussion": "Marquer pour discussion",
     "like": "Aimer",
