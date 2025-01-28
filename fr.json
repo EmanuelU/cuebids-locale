@@ -488,7 +488,7 @@
     "unshared_notification": "Session non partagée",
     "remove_access_for": "Supprimer l’accès à",
     "hand": "Main",
-    "deals_left": "Donnes restantes ",
+    "deals_left": "Donnes en cours ",
     "print": {
       "title": "Imprimer cette session",
       "confirm_button": "Confirmer",
@@ -693,7 +693,7 @@
     "pro_challenge": "Défi pour les PROS",
     "pro_challenge_pre_styled": "Tous les joueurs sont ",
     "pro_challenge_styled": "PRO",
-    "pro_challenge_post_styled": "Merci de nous autoriser à sauvegarder les donnes pour les utiliser lors d’événements spéciaux dans le futur. Merci d’être un pro et de soutenir la communauté!",
+    "pro_challenge_post_styled": "Merci de nous autoriser à sauvegarder les donnes pour les utiliser lors d’événements spéciaux dans le futur. Merci d’être un pro et de soutenir la communauté !",
     "create_challenge": "Créer défi"
   },
   "four_player": {
@@ -2544,7 +2544,7 @@
     "date": "Date",
     "info": {
       "coming_soon": "À venir bientôt",
-      "earn_points": "Gagnez des points en participant àdes ",
+      "earn_points": "Gagnez des points en participant à des ",
       "cuebids_events": "événements Cuebids ",
       "and": "et ",
       "ranked_challenges": "Défis classés",
