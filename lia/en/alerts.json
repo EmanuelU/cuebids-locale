@@ -134,7 +134,7 @@
   "natural_overcall": "Natural overcall",
   "new_suit_forcing": "New Suit Forcing",
   "no_ace": "No ace",
-  "no_extra_honor": "No extra honor in {{suit_with_no_extra_honors}}",
+  "no_extra_honor": "No extra honor in {{suit_with_no_extra_honor}}",
   "no_king": "No king",
   "no_king_of_suit": "No king of {{king_suit}}",
   "no_new_info": "No new information",

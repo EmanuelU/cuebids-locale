@@ -130,7 +130,7 @@
   "natural_overcall": "Naturligt inkliv",
   "new_suit_forcing": "Ny färg, krav",
   "no_ace": "Inga ess",
-  "no_extra_honor": "Ingen extra honnör i {{suit_with_no_extra_honors}}",
+  "no_extra_honor": "Ingen extra honnör i {{suit_with_no_extra_honor}}",
   "no_king": "Ingen kung",
   "no_king_of_suit": "Ej {king_suit} kung",
   "no_new_info": "Ingen ny information",
