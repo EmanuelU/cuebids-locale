@@ -1938,6 +1938,18 @@
         "command_entry3SJump": {
           "name": "Will jump overcall 3!S"
         },
+        "command_open1C": {
+          "name": "Will open 1!C"
+        },
+        "command_open1D": {
+          "name": "Will open 1!D"
+        },
+        "command_open1H": {
+          "name": "Will open 1!H"
+        },
+        "command_open1S": {
+          "name": "Will open 1!S"
+        },
         "command_open1N": {
           "name": "Will open 1NT"
         },

@@ -1938,7 +1938,18 @@
         "command_entry3SJump": {
           "name": "Kommer hoppa in med 3!S"
         },
-
+        "command_open1C": {
+          "name": "Kommer öppna med 1!C"
+        },
+        "command_open1D": {
+          "name": "Kommer öppna med 1!D"
+        },
+        "command_open1H": {
+          "name": "Kommer öppna med 1!H"
+        },
+        "command_open1S": {
+          "name": "Kommer öppna med 1!S"
+        },
         "command_open1N": {
           "name": "Kommer öppna med 1NT"
         },

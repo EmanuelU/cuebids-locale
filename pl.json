@@ -1957,6 +1957,18 @@
         "command_entry3SJump": {
           "name": "Skoczy 3!S"
         },
+        "command_open1C": {
+          "name": "Otworzy 1!C"
+        },
+        "command_open1D": {
+          "name": "Otworzy 1!D"
+        },
+        "command_open1H": {
+          "name": "Otworzy 1!H"
+        },
+        "command_open1S": {
+          "name": "Otworzy 1!S"
+        },
         "command_open1N": {
           "name": "Otworzy 1NT"
         },
