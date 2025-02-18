@@ -2499,6 +2499,8 @@
     "tab_daily": "Daily"
   },
   "achievements": {
+    "stars": "{{count}} stars completed!",
+    "newsletter": "Newsletter signed up!",
     "error_not_completed": "Achievement has not been completed!",
     "error_already_claimed": "Achievement reward has already been claimed!"
   },

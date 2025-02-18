@@ -2499,6 +2499,8 @@
     "tab_daily": "Dagtävling"
   },
   "achievements": {
+    "stars": "{{count}} stjärnor samlade!",
+    "newsletter": "Anmäld till nyhetsbrev!",
     "error_not_completed": "Milstolpe har inte uppnåtts!",
     "error_already_claimed": "Milstolpe har redan bekräftad!"
   },

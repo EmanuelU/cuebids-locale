@@ -2518,6 +2518,8 @@
     "tab_daily": "Dniówka"
   },
   "achievements": {
+    "stars": "{{count}} ukończonych gwiazd!",
+    "newsletter": "Zapisano się do newslettera!",
     "error_not_completed": "Osiągnięcie nie zostało... osiągnięte.",
     "error_already_claimed": "Nagroda za osiągnięcie została już odebrana!"
   },

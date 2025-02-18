@@ -2519,6 +2519,8 @@
     "tab_daily": "Quotidien"
   },
   "achievements": {
+    "stars": "{{count}} étoiles complétées!",
+    "newsletter": "Vous êtes inscrit à la newsletter!",
     "error_not_completed": "La réalisation n’a pas été achevée !",
     "error_already_claimed": "La recompense a déjà été réclamée !"
   },
