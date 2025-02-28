@@ -34,6 +34,8 @@
   "club_supporter": "Subskrybent Trefl",
   "start_free_trial": "Spróbuj darmowe demo",
   "first_x_days_free": "Pierwsze {{period}} za darmo",
+  "terms": "Cuebids jest darmowy w użyciu, ale zyskujesz dostęp do dodatkowych funkcji, zostając wspierającym. Twoja subskrypcja będzie odnawiana automatycznie, chyba że ją anulujesz. Możesz anulować w dowolnym momencie.",
+  "terms_trial": "Jeśli rozpoczniesz bezpłatny okres próbny, automatycznie przekształci się on w płatną subskrypcję, chyba że zostanie anulowany.",
   "month": "miesiąc",
   "week": "tydzień",
   "year": "rok",

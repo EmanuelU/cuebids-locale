@@ -34,6 +34,8 @@
   "club_supporter": "Klöversupporter",
   "start_free_trial": "Starta gratis provperiod",
   "first_x_days_free": "Första {{period}} gratis",
+  "terms": "Cuebids är gratis att använda, men du får tillgång till fler funktioner genom att bli en supporter. Din prenumeration förnyas automatiskt om du inte avbryter den. Du kan avbryta när som helst.",
+  "terms_trial": "Om du startar en gratis provperiod kommer den automatiskt att omvandlas till en betald prenumeration om den inte avbryts.",
   "month": "månad",
   "week": "vecka",
   "year": "år",

@@ -34,6 +34,8 @@
   "club_supporter": "Abonnement Trèfle",
   "start_free_trial": "Commencez l'essai gratuit",
   "first_x_days_free": "Débutez par {{period}} gratis !",
+  "terms": "Cuebids est gratuit à utiliser, mais vous bénéficiez de fonctionnalités supplémentaires en devenant supporter. Votre abonnement se renouvellera automatiquement à moins que vous ne l'annuliez. Vous pouvez annuler à tout moment.",
+  "terms_trial": "Si vous démarrez un essai gratuit, il se convertira automatiquement en un abonnement payant sauf annulation.",
   "month": "mois",
   "week": "semaine",
   "year": "année",
