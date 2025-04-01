@@ -292,6 +292,10 @@
       "info_2_styled": "vous avez un nombre illimité de tickets."
     }
   },
+  "subscriptions": {
+    "title": "Subscriptions",
+    "info": "Subscriptions are used to unlock features and get a steady flow of tickets."
+  },
   "marketing": {
     "go_store": "Allez à la boutique",
     "unlock_more": "Obtenez en plus avec l’abonnement Carreau",

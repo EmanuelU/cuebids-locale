@@ -292,6 +292,10 @@
       "info_2_styled": "masz nieskończone bilety."
     }
   },
+  "subscriptions": {
+    "title": "Subscriptions",
+    "info": "Subscriptions are used to unlock features and get a steady flow of tickets."
+  },
   "marketing": {
     "go_store": "Przejdź do sklepu",
     "unlock_more": "Uzyskaj więcej z Karem",

@@ -292,6 +292,10 @@
       "info_2_styled": "you have endless tickets."
     }
   },
+  "subscriptions": {
+    "title": "Subscriptions",
+    "info": "Subscriptions are used to unlock features and get a steady flow of tickets."
+  },
   "marketing": {
     "go_store": "Go to store",
     "unlock_more": "Get More with Diamond",

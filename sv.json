@@ -292,6 +292,10 @@
       "info_2_styled": "har du obegränsade biljetter."
     }
   },
+  "subscriptions": {
+    "title": "Subscriptions",
+    "info": "Subscriptions are used to unlock features and get a steady flow of tickets."
+  },
   "marketing": {
     "go_store": "Gå till butiken",
     "unlock_more": "Få mer med Ruter",
