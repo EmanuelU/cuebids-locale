@@ -316,7 +316,10 @@
     "tickets": "Tickets",
     "deal_types": "Deal types",
     "custom_scenarios": "Custom scenarios",
-    "private_groups": "Private groups"
+    "private_groups": "Private groups",
+    "four_player": "4-player mode",
+    "lia_in_daily": "Play with Lia in events",
+    "printing": "Print PDFs"
   },
   "spots": {
     "select_fed": "Select where to post",

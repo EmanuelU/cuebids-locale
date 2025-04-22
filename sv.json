@@ -293,8 +293,8 @@
     }
   },
   "subscriptions": {
-    "title": "Subscriptions",
-    "info": "Subscriptions are used to unlock features and get a steady flow of tickets."
+    "title": "Prenumerationer",
+    "info": "Prenumerationer är till för att låsa upp funktioner samt få en stadigt flöde av biljetter."
   },
   "marketing": {
     "go_store": "Gå till butiken",
@@ -316,7 +316,10 @@
     "tickets": "Biljetter",
     "deal_types": "Givtyper",
     "custom_scenarios": "Scenarion",
-    "private_groups": "Privata grupper"
+    "private_groups": "Privata grupper",
+    "four_player": "4-spelar läge",
+    "lia_in_daily": "Spela med Lia i tävling",
+    "printing": "Skriv ut PDFs"
   },
   "spots": {
     "select_fed": "Välj var du vill lägga upp problemet",

@@ -293,9 +293,9 @@
     }
   },
   "subscriptions": {
-    "title": "Subscriptions",
-    "info": "Subscriptions are used to unlock features and get a steady flow of tickets."
-  },
+    "title": "Subskrypcje",
+    "info": "Subskrypcje pozwalają odblokować funkcje i regularnie otrzymywać bilety."
+ },
   "marketing": {
     "go_store": "Przejdź do sklepu",
     "unlock_more": "Uzyskaj więcej z Karem",
@@ -316,7 +316,10 @@
     "tickets": "Bilety",
     "deal_types": "Rodzaje rozdań",
     "custom_scenarios": "Spersonalizowane scenariusze",
-    "private_groups": "Prywatne grupy"
+    "private_groups": "Prywatne grupy",
+    "four_player": "Tryb dla 4 graczy",
+    "lia_in_daily": "Graj z Lią w wydarzeniach",
+    "printing": "Drukuj PDF-y"
   },
   "spots": {
     "select_fed": "Wybierz miejsce publikacji",
