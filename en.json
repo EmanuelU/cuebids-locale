@@ -577,6 +577,11 @@
     "info": "Your account was not created correctly. Please provide the missing info to get started with Cuebids.",
     "submit_button": "Continue"
   },
+  "compare": {
+    "not_finished": "Sessions not finished",
+    "not_your_session": "This is not your session",
+    "sessions_not_comparable": "Sessions not comparable"
+  },
   "challenge": {
     "win": "Win",
     "loss": "Loss",

@@ -577,6 +577,11 @@
     "info": "Ditt konto skapades inte korrekt. Vänligen fyll i den saknade informationen för att komma igång med Cuebids.",
     "submit_button": "Fortsätt"
   },
+  "compare": {
+    "not_finished": "Sessionerna är inte färdiga",
+    "not_your_session": "Det är inte din session",
+    "sessions_not_comparable": "Sessionerna är inte jämförbara"
+  },
   "challenge": {
     "win": "Vinst",
     "loss": "Förlust",

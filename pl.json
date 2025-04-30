@@ -295,7 +295,7 @@
   "subscriptions": {
     "title": "Subskrypcje",
     "info": "Subskrypcje pozwalają odblokować funkcje i regularnie otrzymywać bilety."
- },
+  },
   "marketing": {
     "go_store": "Przejdź do sklepu",
     "unlock_more": "Uzyskaj więcej z Karem",
@@ -595,6 +595,12 @@
     "info": "Tworzenie Twojego konta nie powiodło się. Proszę podaj brakujące informacje by zacząć korzystać z Cuebids.",
     "submit_button": "Kontynuuj"
   },
+  "compare": {
+    "not_finished": "Sesje nie są zakończone",
+    "not_your_session": "To nie jest twoja sesja",
+    "sessions_not_comparable": "Sesje nie są porównywalne"
+  },
+
   "challenge": {
     "win": "Wygrana",
     "loss": "Przegrana",
@@ -713,7 +719,7 @@
     "start_session": "Rozpocznij sesję",
     "create_error": "Błąd podczas tworzenia sesji",
     "ev_explain": "W trybie czterech graczy nie są przeprowadzane symulacje. Wynik jest obliczany na podstawie rzeczywistych rozdanych kart.",
-    "full_hand":  "Pełne rozdanie"
+    "full_hand": "Pełne rozdanie"
   },
   "shared": {
     "shared_with_me": "Udostępnione dla mnie",

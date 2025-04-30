@@ -295,7 +295,7 @@
   "subscriptions": {
     "title": "Abonnements",
     "info": "Les abonnements servent à débloquer des fonctionnalités et à obtenir régulièrement des tickets."
-},
+  },
   "marketing": {
     "go_store": "Allez à la boutique",
     "unlock_more": "Obtenez en plus avec l’abonnement Carreau",
@@ -595,6 +595,11 @@
   "account_not_created_correctly": {
     "info": "Votre compte n'a pas été créé correctement. Veuillez fournir les informations manquantes pour commencer avec Cuebids.",
     "submit_button": "Continuer"
+  },
+  "compare": {
+    "not_finished": "Les sessions ne sont pas terminées",
+    "not_your_session": "Ce n'est pas votre session",
+    "sessions_not_comparable": "Les sessions ne sont pas comparables"
   },
   "challenge": {
     "win": "Victoires",
