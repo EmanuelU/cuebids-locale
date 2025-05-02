@@ -670,6 +670,7 @@
     "start_challenge": "Starta utmaning",
     "price_dialog_title": "Starta robot-utmaning",
     "price_dialog_submit": "Starta",
+    "create_error": "Ett fel uppstod med att skapa utmaningen",
     "error_cannot_afford": "Du har inte råd att spela",
     "error_partner_cannot_afford": "Din partner har inte råd att spela",
     "error_challenges_disabled": "Din partner har stängt av dig från att spendera deras biljetter och gå med i rankade utmaningar",
@@ -677,7 +678,7 @@
     "chat_start": "Lycka till, blipp blopp!"
   },
   "start_challenge": {
-    "create_error": "Ett fel uppstod med att skapa utmaningen ({{error}})",
+    "create_error": "Ett fel uppstod med att skapa utmaningen",
     "partner_label": "Partner",
     "boards_label": "Brickor",
     "robots_label": "Robotar",

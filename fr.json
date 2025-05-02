@@ -689,6 +689,7 @@
     "start_challenge": "Lancer le défi",
     "price_dialog_title": "Commencer le défi robot",
     "price_dialog_submit": "Commencer",
+    "create_error": "Erreur en créant le défi",
     "error_cannot_afford": "Vous n'avez pas assez de tickets.",
     "error_partner_cannot_afford": "Votre partenaire n'a pas assez de tickets.",
     "error_challenges_disabled": "Votre partenaire vous a interdit d'utiliser ses tickets et de rejoindre les défis classés",
@@ -696,7 +697,7 @@
     "chat_start": "Bonne chance et amusez-vous bien, bip bop !"
   },
   "start_challenge": {
-    "create_error": "Erreur en créant le défi ({{error}})",
+    "create_error": "Erreur en créant le défi",
     "partner_label": "Partenaire",
     "boards_label": "Donnes",
     "robots_label": "Robots",

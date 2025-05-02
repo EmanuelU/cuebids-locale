@@ -670,6 +670,7 @@
     "start_challenge": "Start challenge",
     "price_dialog_title": "Start robot challenge",
     "price_dialog_submit": "Start",
+    "create_error": "Error when creating challenge",
     "error_cannot_afford": "You cannot afford to play",
     "error_partner_cannot_afford": "Your partner cannot afford to play",
     "error_challenges_disabled": "Your partner has disabled you from spending their tickets and joining ranked challenges",
@@ -677,7 +678,7 @@
     "chat_start": "Good luck and have fun, beep boop!"
   },
   "start_challenge": {
-    "create_error": "Error when creating challenge ({{error}})",
+    "create_error": "Error when creating challenge",
     "partner_label": "Partner",
     "boards_label": "Boards",
     "robots_label": "Robots",

@@ -688,6 +688,7 @@
     "start_challenge": "Rozpocznij wyzwanie",
     "price_dialog_title": "Rozpocznij wyzwanie z robotami",
     "price_dialog_submit": "Rozpocznij",
+    "create_error": "Błąd podczas tworzenia wyzwania",
     "error_cannot_afford": "Nie stać cię na grę",
     "error_partner_cannot_afford": "Twojego partnera nie stać na grę",
     "error_challenges_disabled": "Twój partner wyłączył możliwość wydawania jego biletów i dołączania do wyzwań rankingowych",
@@ -695,7 +696,7 @@
     "chat_start": "Powodzenia i miłej zabawy, bip bop!"
   },
   "start_challenge": {
-    "create_error": "Błąd podczas tworzenia wyzwania ({{error}})",
+    "create_error": "Błąd podczas tworzenia wyzwania",
     "partner_label": "Partner",
     "boards_label": "Rozdania",
     "robots_label": "Roboty",
