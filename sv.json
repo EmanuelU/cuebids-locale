@@ -85,7 +85,7 @@
     "challenge_card": {
       "win": "Vinst",
       "loss": "Förlust",
-      "draw": "Lika",
+      "draw": "Oavgjort",
       "pro": "PROFFS"
     },
     "chat": {
@@ -585,7 +585,7 @@
   "challenge": {
     "win": "Vinst",
     "loss": "Förlust",
-    "draw": "Lika",
+    "draw": "Oavgjort",
     "vs": "MOT",
     "tot": "TOT",
     "avg": "MDL",
