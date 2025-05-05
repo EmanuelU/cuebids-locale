@@ -2589,6 +2589,7 @@
     }
   },
   "ccp": {
+    "history": "Historia",
     "season": "Sezon",
     "number_of_participants": "{{numberOfParticipants}} graczy",
     "rank": "Ranga: {{rank}}",

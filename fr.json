@@ -2573,6 +2573,7 @@
     "You can only claim a referral code once.": "Vous ne pouvez réclamer un code promotionnel qu’une seule fois."
   },
   "ccp": {
+    "history": "Historique",
     "season": "Saison",
     "number_of_participants": "{{numberOfParticipants}} joueurs",
     "rank": "Rang : {{rank}}",

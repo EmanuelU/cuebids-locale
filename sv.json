@@ -2553,6 +2553,7 @@
     "You can only claim a referral code once.": "Du kan bara använda en inbjudningskod."
   },
   "ccp": {
+    "history": "Historik",
     "season": "Säsong",
     "number_of_participants": "{{numberOfParticipants}} spelare",
     "rank": "Rank: {{rank}}",

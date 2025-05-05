@@ -2553,6 +2553,7 @@
     "You can only claim a referral code once.": "You can only claim a referral code once."
   },
   "ccp": {
+    "history": "History",
     "season": "Season",
     "number_of_participants": "{{numberOfParticipants}} players",
     "rank": "Rank: {{rank}}",
