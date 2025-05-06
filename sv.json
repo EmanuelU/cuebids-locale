@@ -2558,6 +2558,7 @@
     "number_of_participants": "{{numberOfParticipants}} spelare",
     "rank": "Rank: {{rank}}",
     "tab_leaders": "Ledare",
+    "not_top_1000": "Du var utanför topp 1000",
     "tab_mine": "Jag",
     "points": "Poäng",
     "type": "Typ",

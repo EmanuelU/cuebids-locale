@@ -2578,6 +2578,7 @@
     "number_of_participants": "{{numberOfParticipants}} joueurs",
     "rank": "Rang : {{rank}}",
     "tab_leaders": "Leaders",
+    "not_top_1000": "Vous n'êtes pas dans le top 1000",
     "tab_mine": "Moi",
     "points": "Points",
     "type": "Type",
