@@ -242,17 +242,20 @@
     "subscribe_info_5_2": " enjoy an <strong>infinite</strong> amount of tickets and access to <strong>all</strong> deal types.",
     "club": {
       "title": "Club",
+      "badge": "Getting started",
       "deal_types_info": "<strong>5</strong> Deal types",
       "tickets_per_month": " Tickets per month"
     },
     "diamond": {
       "most_popular": "MOST POPULAR",
+      "badge": "Most popular",
       "title": "Diamond",
       "deal_types_info": "<strong>10</strong> Deal types",
       "tickets_per_month": " Tickets per month"
     },
     "heart": {
       "unlock_everything": "UNLOCK EVERYTHING",
+      "badge": "Unlock everything!",
       "title": "Heart",
       "deal_types_info": "<strong>All</strong> Deal types",
       "endless_tickets": "<strong>Endless</strong> Tickets"
@@ -940,6 +943,10 @@
     "two_over_one_explain": "Bergen, Semi Forcing 1NT",
     "acol": "Acol",
     "acol_explain": "4 card majors, Jacoby 2NT",
+    "advanced_two_over_one_system": "Advanced 2 over 1",
+    "advanced_two_over_one_explain": "2/1 with expert standard",
+    "sayc_system": "Standard American",
+    "sayc_system_explain": "SAYC, 5 card majors",
     "french": "French standard",
     "french_explain": "Roudi, 2D GF, Ghestem",
     "swedish": "Swedish expert",
