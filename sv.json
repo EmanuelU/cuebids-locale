@@ -187,6 +187,7 @@
     "payment_loading": "Vänligen vänta medan vi skickar dig till vår betalningsplattform",
     "select_currency": "Vänligen välj valuta",
     "currency": "Valuta",
+    "subscribe_info": "Mer information",
     "subscription": "{{sub}}-prenumeration",
     "subs": {
       "heart": "Hjärter",
@@ -247,12 +248,14 @@
     },
     "diamond": {
       "most_popular": "POPULÄRAST",
+      "badge": "POPULÄRAST",
       "title": "Ruter",
       "deal_types_info": "<strong>10</strong> Givtyper",
       "tickets_per_month": " Biljetter per månad"
     },
     "heart": {
       "unlock_everything": "LÅS UPP ALLT",
+      "badge": "LÅS UPP ALLT!",
       "title": "Hjärter",
       "deal_types_info": "<strong>Alla</strong> Givtyper",
       "endless_tickets": "<strong>Obegränsade</strong> Biljetter"

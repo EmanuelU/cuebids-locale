@@ -185,8 +185,9 @@
     "sub_map_heart_styled": "wszystko",
     "sub_map_heart_post_styled": "!",
     "payment_loading": "Proszę czekać, trwa przekierowanie do naszej platformy płatniczej",
-    "select_currency": "Wybierz walutę.",
+    "select_currency": "Wybierz walutę",
     "currency": "Waluta",
+    "subscribe_info": "Więcej informacji",
     "subscription": "Subksrybcja {{sub}}",
     "subs": {
       "heart": "Kier",
@@ -247,12 +248,14 @@
     },
     "diamond": {
       "most_popular": "NAJBARDZIEJ POPULARNY",
+      "badge": "NAJBARDZIEJ POPULARNY",
       "title": "Karo",
       "deal_types_info": "<strong>10</strong> rodzajów rozdań",
       "tickets_per_month": " biletów miesięcznie"
     },
     "heart": {
       "unlock_everything": "ODBLOKUJ WSZYSTKO",
+      "badge": "ODBLOKUJ WSZYSTKO!",
       "title": "Kier",
       "deal_types_info": "<strong>Wszystkie</strong> rodzaje rozdań",
       "endless_tickets": "<strong>Nieskończone</strong> bilety"

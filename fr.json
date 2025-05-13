@@ -185,8 +185,9 @@
     "sub_map_heart_styled": "tout",
     "sub_map_heart_post_styled": "!",
     "payment_loading": "Merci d’attendre pendant que nous vous connectons à notre plateforme de paiement",
-    "select_currency": "Merci de sélectionner votre devise.",
+    "select_currency": "Merci de sélectionner votre devise",
     "currency": "Devise",
+    "subscribe_info": "Plus d'informations",
     "subscription": " Abonnement {{sub}}",
     "subs": {
       "heart": "Coeur",
@@ -247,12 +248,14 @@
     },
     "diamond": {
       "most_popular": "LE PLUS POPULAIRE",
+      "badge": "LE PLUS POPULAIRE",
       "title": "Carreau",
       "deal_types_info": "<strong>10</strong> types de donne",
       "tickets_per_month": " Tickets par mois"
     },
     "heart": {
       "unlock_everything": "DEBLOQUEZ TOUT",
+      "badge": "DEBLOQUEZ TOUT",
       "title": "Coeur",
       "deal_types_info": "<strong>Tous</strong> les types de donnes",
       "endless_tickets": "<strong>Nombre illimité</strong> de tickets"

@@ -185,8 +185,9 @@
     "sub_map_heart_styled": "everything",
     "sub_map_heart_post_styled": "!",
     "payment_loading": "Please wait while we transfer you to our payment platform",
-    "select_currency": "Please select your currency.",
+    "select_currency": "Please select your currency",
     "currency": "Currency",
+    "subscribe_info": "More information",
     "subscription": "{{sub}} subscription",
     "subs": {
       "heart": "Heart",
@@ -242,20 +243,19 @@
     "subscribe_info_5_2": " enjoy an <strong>infinite</strong> amount of tickets and access to <strong>all</strong> deal types.",
     "club": {
       "title": "Club",
-      "badge": "Getting started",
       "deal_types_info": "<strong>5</strong> Deal types",
       "tickets_per_month": " Tickets per month"
     },
     "diamond": {
       "most_popular": "MOST POPULAR",
-      "badge": "Most popular",
+      "badge": "MOST POPULAR",
       "title": "Diamond",
       "deal_types_info": "<strong>10</strong> Deal types",
       "tickets_per_month": " Tickets per month"
     },
     "heart": {
       "unlock_everything": "UNLOCK EVERYTHING",
-      "badge": "Unlock everything!",
+      "badge": "UNLOCK EVERYTHING!",
       "title": "Heart",
       "deal_types_info": "<strong>All</strong> Deal types",
       "endless_tickets": "<strong>Endless</strong> Tickets"
