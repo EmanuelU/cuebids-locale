@@ -2590,5 +2590,21 @@
       "season_resets": "Season resets every other month",
       "double_time": "<strong class=\"text-secondary font-bold\">Double points</strong> are awarded during the last 2 weeks of the Season"
     }
+  },
+  "leak_finder": {
+    "select_partner": "Select a partner to see reports on areas you can improve",
+    "no_reports": "'You have no reports with the selected partner. Bid some deals and a report will be generated each week!'",
+    "reports": {
+      "slam_too_high": "Slam too high",
+      "missed_slam": "Missed slam",
+      "wrong_slam": "Wrong slam"
+    },
+    "report_details": "{{relevant}} out of {{total}}",
+    "over_deals": "over {{deals}} deals",
+    "cuebids_average": "Cuebids average <strong>{{average}}</strong>",
+    "previous_report": "Previous report",
+    "next_report": "Next report",
+    "latest_report": "Latest report",
+    "previous": "Previous:"
   }
 }

@@ -2610,5 +2610,21 @@
       "season_resets": "La saison se réinitialise tous les deux mois",
       "double_time": "<strong class=\"text-secondary font-bold\">Points doublés</strong> pendant les 2 dernières semaines de la saison"
     }
+  },
+  "leak_finder": {
+    "select_partner": "Sélectionnez un partenaire pour voir les rapports sur les axes d’amélioration",
+    "no_reports": "Vous n’avez aucun rapport avec ce partenaire. Jouez quelques donnes et un rapport sera généré chaque semaine !",
+    "reports": {
+      "slam_too_high": "Chelem trop ambitieux",
+      "missed_slam": "Chelem manqué",
+      "wrong_slam": "Mauvais chelem"
+    },
+    "report_details": "{{relevant}} sur {{total}}",
+    "over_deals": "sur {{deals}} donnes",
+    "cuebids_average": "Moyenne Cuebids <strong>{{average}}</strong>",
+    "previous_report": "Rapport précédent",
+    "next_report": "Rapport suivant",
+    "latest_report": "Dernier rapport",
+    "previous": "Précédent :"
   }
 }

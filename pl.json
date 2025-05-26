@@ -2626,5 +2626,21 @@
       "season_resets": "Sezon resetuje się co dwa miesiące",
       "double_time": "<strong class=\"text-secondary font-bold\">Podwójne punkty</strong> są przyznawane w ostatnich 2 tygodniach sezonu"
     }
+  },
+  "leak_finder": {
+    "select_partner": "Wybierz partnera, aby zobaczyć raporty o możliwościach poprawy",
+    "no_reports": "Nie masz raportów z wybranym partnerem. Zagraj kilka rozdań, a raport zostanie wygenerowany co tydzień!",
+    "reports": {
+      "slam_too_high": "Szlem za wysoko",
+      "missed_slam": "Pominięty szlem",
+      "wrong_slam": "Zły szlem"
+    },
+    "report_details": "{{relevant}} z {{total}}",
+    "over_deals": "na podstawie {{deals}} rozdań",
+    "cuebids_average": "Średnia Cuebids <strong>{{average}}</strong>",
+    "previous_report": "Poprzedni raport",
+    "next_report": "Następny raport",
+    "latest_report": "Najnowszy raport",
+    "previous": "Poprzedni:"
   }
 }

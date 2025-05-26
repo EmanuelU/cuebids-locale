@@ -2590,5 +2590,21 @@
       "season_resets": "Säsongen återställs varannan månad",
       "double_time": "<strong class=\"text-secondary font-bold\">Dubbla poäng</strong> ges under de sista 2 veckorna av säsongen"
     }
+  },
+  "leak_finder": {
+    "select_partner": "Välj en partner för att se rapporter om områden ni kan förbättra",
+    "no_reports": "Du har inga rapporter med den valda partnern. Spela några brickor så genereras en rapport varje vecka!",
+    "reports": {
+      "slam_too_high": "Slam för högt",
+      "missed_slam": "Missad slam",
+      "wrong_slam": "Fel slam"
+    },
+    "report_details": "{{relevant}} av {{total}}",
+    "over_deals": "över {{deals}} brickor",
+    "cuebids_average": "Cuebids-snitt <strong>{{average}}</strong>",
+    "previous_report": "Föregående rapport",
+    "next_report": "Nästa rapport",
+    "latest_report": "Senaste rapporten",
+    "previous": "Föregående:"
   }
 }
