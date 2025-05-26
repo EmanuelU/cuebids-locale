@@ -445,19 +445,6 @@
       "contracts": "Tutaj możesz zobaczyć inne teoretyczne kontrakty i jakie uzyskałyby wyniki.",
       "error": "Błąd przy tworzeniu sesji ({{error}})"
     },
-    "step_friend": {
-      "title": "Dodaj znajomego",
-      "pending_requests_info": "Nie masz żadnych wspólnych znajomych. Być może twój partner nie zaakceptował jeszcze twojego zaproszenia.",
-      "info": "Są cztery sposoby, aby dodać znajomych. Możesz przejść do strony przyjaciół w dolnym menu, pierwsza opcja od prawej. Następnie kliknij przycisk 'Dodaj'.",
-      "friend_key_info": "Dodaj swojego znajomego za pomocą jego <strong>Klucza Znajomości</strong>.",
-      "search_info": "Znajdź swojego znajomego, wyszukując po imieniu. Wyślij mu zaproszenie, gdy go znajdziesz (jeśli bardzo chcesz).",
-      "send_friend_key_info": "Wyślij znajomemu swój <strong>Klucz Znajomości</strong>. Wtedy będzie mógł dodać cię do znajomych.",
-      "your_key": "Twój Klucz: ",
-      "link_info": "Wyślij znajomemu link z zaproszeniem. Możesz skopiować link na stronie \"Dodaj znajomych\". Gdy kliknie link, będziecie znajomymi!",
-      "no_partner_info": "Jeśli chcesz licytować bez partnera, są na to dwa sposoby",
-      "lia_info": "Graj z <strong>Botem Lia</strong>, klikając na <strong>Trening</strong>, a następnie <strong>Z robotem</strong>.",
-      "matchmaking_info": "Kliknij na <strong>Trening</strong>, a następnie <strong>Losowy partner</strong>. Uwaga, ten sposób może zająć trochę czasu."
-    },
     "step_help": {
       "title": "Więcej informacji",
       "info_youtube_pre_link1": "Ten ",
@@ -479,11 +466,6 @@
       "enjoy": "Licytuj z Cuebids!",
       "confirm": "Jasne!",
       "session_page_help": "Twoja sesja się skończyła, wróć na stronę główną by kontynuować."
-    },
-    "step_create_session": {
-      "title": "Rozpocznij licytację",
-      "info": "Teraz możesz rozpocząć licytację ze swoimi przyjaciółmi! Ty lub twój partner powinniście utworzyć sesję. W menu powyżej kliknij <strong>Trening</strong>, a następnie <strong>Ze znajomym</strong>. Możesz w ten sam sposób licytować z <strong>Lią</strong>.",
-      "link": "lub kliknij tutaj"
     }
   },
   "session": {
@@ -874,7 +856,6 @@
     "session_filter_with_actions": "Twoja kolej",
     "session_filter_with_partner_actions": "Kolej partnera",
     "session_filter_unfinished": "Niezakończone",
-    "completed": "Zakończone",
     "flagged": "Oflagowane",
     "partner": "Partner",
     "progress": "Postęp",
@@ -2577,23 +2558,6 @@
     "Code not found.": "Nie znaleziono kodu",
     "Code has expired.": "Kod wygasł",
     "You can only claim a referral code once.": "Możesz odebrać kod polecający tylko raz."
-  },
-  "academy": {
-    "title": "Cuebids Academy",
-    "description": "Learn bidding with Cuebids Academy! Here you can enroll in various courses and earn badges for your profile. ",
-    "read_more": "Read more",
-    "enroll": "Enroll",
-    "close": "Close",
-    "error_courses": "Error fetching courses",
-    "no_courses": "No courses",
-    "course": {
-      "title": "Lessons",
-      "description": "Here are the lessons in this course. You can read more about each lesson by clicking on it.",
-      "no_lessons": "No lessons",
-      "no_course": "No course",
-      "error_lessons": "Error fetching lessons",
-      "error_course": "Error fetching course"
-    }
   },
   "ccp": {
     "history": "Historia",

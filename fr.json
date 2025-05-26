@@ -435,7 +435,6 @@
     "step_bidding": {
       "title": "Enchère",
       "text": "Essayer d’enchérir quelques donnes avec le robot Lia. Lia enchérira en utilisant le système 2 sur 1! Vous apprendrez comment les enchères fonctionnent sur Cuebids",
-      "more": "Si vous préférez jouer avec un ami, vous pouvez passer cette étape.",
       "try": "Essayer une une session avec Lia",
       "lia_session_started": "La session avec Lia a commencé. Vous la trouverez en bas de la page.",
       "click_on_session": "Cliquez sur une donne pour naviguer vers elle. Si la ligne est surlignée, c’est votre tour d’enchérir.",
@@ -445,19 +444,6 @@
       "compare": "Ici, vous pouvez voir ce que les autres ont fait. Cliquez sur un contrat, pour voir qui a fait quelle enchère. Cliquez sur une paire pour voir comment ils ont enchéri.",
       "contracts": "Ici, vous pouvez vour les autres contrats possibles et quelle note leur est attribuée.",
       "error": "Erreur en créant la session ({{error}})"
-    },
-    "step_friend": {
-      "title": "Ajoutez un ami",
-      "pending_requests_info": "Vous n'êtes pas encore liés comme amis. Peut être que votre partenaire n’a pas encore accepté votre demande d’ami.",
-      "info": "Il y a 4 manières pour ajouter des amis. Vous devez aller sur la page des amis, tout à droite dans le menu du bas. Puis cliquez sur le bouton \"Ajouter\".",
-      "friend_key_info": "Ajouter un ami via le <strong>Code Ami</strong>.",
-      "search_info": "Trouvez votre ami en cherchant avec son nom. Envoyez-lui une demande d’ami quand vous l’aurez trouvé.",
-      "send_friend_key_info": "Envoyez à votre ami votre <strong>Code Ami</strong>. Il pourra vous ajouter comme ami.",
-      "your_key": "Votre code : ",
-      "link_info": "Envoyez le lien d’invitation à votre ami. Vous pouvez copier le lien sur la page \"Ajouter des amis\". Quand ils utiliseront le lien, vous deviendrez amis.",
-      "no_partner_info": "Si vous souhaitez enchérir sans partenaire, il y a 2 manières de le faire",
-      "lia_info": "Jouez avec <strong>Lia – Le robot</strong>, en cliquant sur <strong>Entrainement</strong> puis sur <strong>Avec Robot</strong>.",
-      "matchmaking_info": "Cliquez sur <strong>Entraînement</strong> puis sur <strong>Partner aléatoire</strong>. Attention, cela peut prendre un peu de temps de trouver un partenaire de cette manière."
     },
     "step_help": {
       "title": "Plus d’informations",
@@ -480,11 +466,6 @@
       "enjoy": "Profitez de Cuebids !",
       "confirm": "J’ai compris !",
       "session_page_help": "Votre session est terminée, retournez à la page de démarrage pour continuer."
-    },
-    "step_create_session": {
-      "title": "Commencer à enchérir",
-      "info": "Maintenant, vous pouvez commencer à enchérir avec vos amis ! Vous ou votre partenaire pouvez créer une session. Dans le menu ci-dessus, cliquez sur <strong>Entraînement</strong> et puis sur <strong>avec un ami</strong>. Vous pouvez aussi enchérir avec <strong>Lia</strong> de cette manière.",
-      "link": "ou cliquez ici"
     }
   },
   "session": {
@@ -875,7 +856,6 @@
     "session_filter_with_actions": "Votre tour",
     "session_filter_with_partner_actions": "Partenaire",
     "session_filter_unfinished": "Inachevé",
-    "completed": "Fini",
     "flagged": "Marqué",
     "partner": "Partenaire",
     "progress": "En cours",

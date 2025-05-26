@@ -1,0 +1,2610 @@
+{
+  "locale": "",
+  "lia_lang": "",
+  "bridge": {
+    "vulnerability": {
+      "name": "",
+      "vulnerable": "",
+      "not_vulnerable": "",
+      "vuln_vs_not_vuln": "",
+      "not_vuln_vs_vuln": "",
+      "NONE": "",
+      "EW": "",
+      "NS": "",
+      "ALL": ""
+    },
+    "hand": {
+      "HCP": ""
+    },
+    "scoring": {
+      "name": "",
+      "TEAMS": "",
+      "PAIRS": "",
+      "BAM": "",
+      "RUBBER": ""
+    },
+    "dealer": "",
+    "directions": {
+      "N": "",
+      "E": "",
+      "S": "",
+      "W": "",
+      "P": ""
+    },
+    "directions_short": {
+      "N": "",
+      "E": "",
+      "S": "",
+      "W": ""
+    }
+  },
+  "components": {
+    "select_fed": {
+      "title": ""
+    },
+    "challenge_timer": {
+      "end_at_reset": ""
+    },
+    "contact_card": {
+      "contact": ""
+    },
+    "daily_card": {
+      "title": "",
+      "pairs": "",
+      "continue": "",
+      "leaderboard": "",
+      "join_event": ""
+    },
+    "weekly_card": {
+      "title": "",
+      "pairs": "",
+      "continue": "",
+      "leaderboard": "",
+      "join_event": ""
+    },
+    "group_event_card": {
+      "pairs": "",
+      "join_event": "",
+      "finished": "",
+      "details": ""
+    },
+    "event_timer": {
+      "scored_in": "",
+      "scoring": "",
+      "starts_soon": "",
+      "has_ended": "",
+      "w": "",
+      "d": "",
+      "h": "",
+      "m": "",
+      "s": ""
+    },
+    "bidding_box": {
+      "good_luck": ""
+    },
+    "challenge_card": {
+      "win": "",
+      "loss": "",
+      "draw": "",
+      "pro": ""
+    },
+    "chat": {
+      "placeholder": "",
+      "send": ""
+    },
+    "unscored_deal": {
+      "contract": "",
+      "stars": "",
+      "fast_scoring": "",
+      "regular_scoring": ""
+    },
+    "group_card": {
+      "premium_group_badge": ""
+    },
+    "group_header": {
+      "premium_group_badge": ""
+    },
+    "select_partnership_dropdown": {
+      "select_pair": ""
+    },
+    "select_friend_dropdown": {
+      "not_mutual_error": "",
+      "no_matches": ""
+    },
+    "error_boundary": {
+      "info_1": "",
+      "info_2": "",
+      "info_3": "",
+      "info_4": "",
+      "info_5": "",
+      "try_again": ""
+    },
+    "weekly_ended": {
+      "info": ""
+    },
+    "invite": {
+      "remove": "",
+      "join_event_error": "",
+      "accept": "",
+      "reject": "",
+      "price_dialog_title": "",
+      "price_dialog_confirm": ""
+    },
+    "price": {
+      "price": "",
+      "free": ""
+    },
+    "remaining_tickets_warning": {
+      "you_cannot_afford_partner_heart": "",
+      "you_cannot_afford_partner_heart_short": "",
+      "you_cannot_afford": "",
+      "you_cannot_afford_short": "",
+      "partner_cannot_afford_you_heart": "",
+      "partner_cannot_afford_you_heart_short": "",
+      "partner_cannot_afford_you_pay": "",
+      "partner_cannot_afford_you_pay_short": "",
+      "partner_cannot_afford_get_heart": "",
+      "partner_cannot_afford_get_heart_short": ""
+    },
+    "user_card": {
+      "junior": "",
+      "junior_info": "",
+      "pro": "",
+      "pro_info": "",
+      "robot": "",
+      "robot_info": "",
+      "send_friend_request": "",
+      "friend_request_sent": "",
+      "total_stars": "",
+      "weekly_wins": "",
+      "daily_wins": ""
+    },
+    "user_display": {
+      "unknown_user": "",
+      "last_seen": ""
+    }
+  },
+  "store": {
+    "no_campaign": "",
+    "blackweek2024": "",
+    "blackweek2024_info": "",
+    "offer_only_for_new": "",
+    "not_available": "",
+    "per_month": "",
+    "per_year": "",
+    "trial_pre_styled": "",
+    "trial_styled": "",
+    "trial_post_styled": "",
+    "subscribe": "",
+    "store_not_available": "",
+    "interval_monthly": "",
+    "interval_yearly": "",
+    "sub_map_club": "",
+    "sub_map_diamond": "",
+    "sub_map_heart_pre_styled": "",
+    "sub_map_heart_styled": "",
+    "sub_map_heart_post_styled": "",
+    "payment_loading": "",
+    "select_currency": "",
+    "currency": "",
+    "subscribe_info": "",
+    "subscription": "",
+    "subs": {
+      "heart": "",
+      "diamond": "",
+      "club": ""
+    },
+    "tab_tickets": "",
+    "tab_subscriptions": "",
+    "tickets_info_1": "",
+    "tickets_info_2": "",
+    "thanks": "",
+    "already_subscribed": "",
+    "iap_sub_info": "",
+    "group_sub_info": "",
+    "junior_sub_info": "",
+    "upgrade_to_diamond": {
+      "info_1": "",
+      "info_2": "",
+      "info_3": "",
+      "info_4": "",
+      "info_5": "",
+      "info_6": "",
+      "info_7": ""
+    },
+    "upgrade_to_heart": {
+      "info_1": "",
+      "info_2": "",
+      "info_3": "",
+      "info_4": "",
+      "info_5": "",
+      "info_6": "",
+      "info_7": ""
+    },
+    "manage_subscription_pre_styled": "",
+    "manage_subscription_styled": "",
+    "manage_subscription_post_styled": "",
+    "already_heart": {
+      "info_1": "",
+      "info_2": "",
+      "info_3": "",
+      "info_4": "",
+      "info_5": ""
+    },
+    "manage_subscription": "",
+    "manage_subscription_loading": "",
+    "subscribe_info_1": "",
+    "subscribe_info_2": "",
+    "subscribe_info_3": "",
+    "subscribe_info_4_pre_styled": "",
+    "subscribe_info_4_styled": "",
+    "subscribe_info_4_post_styled": "",
+    "subscribe_info_5_1": "",
+    "subscribe_info_5_2": "",
+    "club": {
+      "title": "",
+      "deal_types_info": "",
+      "tickets_per_month": ""
+    },
+    "diamond": {
+      "most_popular": "",
+      "badge": "",
+      "title": "",
+      "deal_types_info": "",
+      "tickets_per_month": ""
+    },
+    "heart": {
+      "unlock_everything": "",
+      "badge": "",
+      "title": "",
+      "deal_types_info": "",
+      "endless_tickets": ""
+    },
+    "payment_failed": "",
+    "50 Tickets": "",
+    "250 Tickets": "",
+    "1500 Tickets": ""
+  },
+  "go_to_store": {
+    "no_iap_error": ""
+  },
+  "store_thanks": {
+    "title": "",
+    "info": "",
+    "to_start_page": "",
+    "50_tickets": "",
+    "250_tickets": "",
+    "1500_tickets": "",
+    "club": {
+      "info_1_pre_styled": "",
+      "info_1_styled": "",
+      "info_1_post_styled": "",
+      "info_2": ""
+    },
+    "diamond": {
+      "info_1_pre_styled": "",
+      "info_1_styled": "",
+      "info_1_post_styled": "",
+      "info_2": ""
+    },
+    "heart": {
+      "info_1_pre_styled": "",
+      "info_1_styled": "",
+      "info_1_post_styled": "",
+      "info_2_pre_styled": "",
+      "info_2_styled": ""
+    }
+  },
+  "subscriptions": {
+    "title": "",
+    "info": ""
+  },
+  "marketing": {
+    "go_store": "",
+    "unlock_more": "",
+    "unlock_all": "",
+    "features_requires": "",
+    "heart_sub": "",
+    "diamond_sub": "",
+    "club_sub": "",
+    "start_trial": "",
+    "subscribe": "",
+    "no_thanks": "",
+    "free": "",
+    "club": "",
+    "diamond": "",
+    "heart": "",
+    "infinite": "",
+    "all": "",
+    "tickets": "",
+    "deal_types": "",
+    "custom_scenarios": "",
+    "private_groups": "",
+    "four_player": "",
+    "lia_in_daily": "",
+    "printing": ""
+  },
+  "spots": {
+    "select_fed": "",
+    "title": "",
+    "create_new_spot_button": "",
+    "get_random_spot": "",
+    "spot_collapse_header": "",
+    "labels": {
+      "by": "",
+      "description": "",
+      "hand": "",
+      "reason": "",
+      "bid": ""
+    },
+    "warnings": {
+      "too_many_cards": "",
+      "too_few_cards": "",
+      "login_to_bid": "",
+      "login_to_create": "",
+      "select_bid": "",
+      "description_required": ""
+    },
+    "undo_bid_button": "",
+    "spot_description_input": "",
+    "spot_include_answer_input": "",
+    "spot_answer_input": "",
+    "spot_create_submit": "",
+    "bid_description_input": {
+      "placeholder": ""
+    },
+    "bid_display-name_input": {
+      "placeholder": ""
+    },
+    "no_responses": "",
+    "bid_confirm_button": "",
+    "bid_abstain_button": "",
+    "bid_abstain_confirm": "",
+    "reply_placeholder": "",
+    "reply_button": "",
+    "total": "",
+    "other": "",
+    "all": "",
+    "friends": "",
+    "mine": "",
+    "pros": "",
+    "pros_new": "",
+    "delete": "",
+    "delete_confirm": "",
+    "spot_delete_error": "",
+    "edit": "",
+    "spot_edit_submit": "",
+    "spot_edit_error": "",
+    "footer": "",
+    "notifications": {
+      "bid_on_spot": {
+        "header": "",
+        "text": "",
+        "url": ""
+      },
+      "first_bid_on_spot": {
+        "header": "",
+        "text": "",
+        "url": ""
+      },
+      "comment_on_bid": {
+        "header": "",
+        "url": ""
+      },
+      "comment_on_bid_you_follow": {
+        "header": "",
+        "url": ""
+      }
+    },
+    "successfully_created": ""
+  },
+  "leaderboard": {
+    "empty": "",
+    "stars": "",
+    "ev": ""
+  },
+  "navbar": {
+    "tickets": "",
+    "tickets_usage": "",
+    "you_have": "",
+    "messages": "",
+    "subscription_tickets": "",
+    "refreshed": "",
+    "monthly": "",
+    "extra_tickets": "",
+    "saved_for_last": "",
+    "as_a": "",
+    "you_get": "",
+    "infinite": "",
+    "heart": "",
+    "diamond": "",
+    "club": "",
+    "subscriber": "",
+    "each_month": "",
+    "free_user_tickets": "",
+    "upgrade_cta": "",
+    "no_iap": ""
+  },
+  "onboarding": {
+    "welcome_title": "",
+    "skip_step": "",
+    "step_settings": {
+      "title": "",
+      "text": ""
+    },
+    "step_bidding": {
+      "title": "",
+      "text": "",
+      "try": "",
+      "lia_session_started": "",
+      "click_on_session": "",
+      "partners_turn": "",
+      "partners_turn_deal": "",
+      "click_to_navigate": "",
+      "compare": "",
+      "contracts": "",
+      "error": ""
+    },
+    "step_help": {
+      "title": "",
+      "info_youtube_pre_link1": "",
+      "info_youtube_link1": "",
+      "info_youtube_pre_link2": "",
+      "info_youtube_link2": "",
+      "info_youtube_post_link2": "",
+      "info_1_pre_link": "",
+      "info_1_link": "",
+      "info_1_post_link": "",
+      "info_2_pre_link": "",
+      "info_2_link": "",
+      "info_2_post_link": "",
+      "info_3_pre_link": "",
+      "info_3_link": "",
+      "info_facebook_pre_link": "",
+      "info_facebook_link": "",
+      "info_facebook_post_link": "",
+      "enjoy": "",
+      "confirm": "",
+      "session_page_help": ""
+    }
+  },
+  "session": {
+    "shared_with_users": "",
+    "share_session": "",
+    "share": "",
+    "shared_notification": "",
+    "share_with": "",
+    "share_with_friends": "",
+    "unshare": "",
+    "unshared_notification": "",
+    "remove_access_for": "",
+    "hand": "",
+    "deals_left": "",
+    "print": {
+      "title": "",
+      "confirm_button": "",
+      "info_1": "",
+      "info_2": "",
+      "warning_not_finished": "",
+      "warning_no_email": "",
+      "warning_missing_sub": ""
+    },
+    "delete": {
+      "title": "",
+      "confirm_button": "",
+      "info": "",
+      "info_weekly": "",
+      "info_daily": ""
+    },
+    "pro_badge": "",
+    "advanced_robots": "",
+    "basic_robots": ""
+  },
+  "friends": {
+    "select_friend": "",
+    "add_friends_cta": ""
+  },
+  "profile": {
+    "notifications_saved": "",
+    "avatar": "",
+    "display_name": "",
+    "display_name_placeholder": "",
+    "new_spots_notifications": "",
+    "errors": {
+      "display_name_too_short": "",
+      "display_name_forbidden_characters": "",
+      "display_name_invalid": ""
+    }
+  },
+  "login": {
+    "intro_button": "",
+    "intro": {
+      "title": "",
+      "practice_title": "",
+      "practice_p1_styled": "",
+      "practice_p1_post_styled": "",
+      "practice_p2": "",
+      "learn_title": "",
+      "learn_p1_pre_styled": "",
+      "learn_p1_styled": "",
+      "learn_p1_post_styled": "",
+      "learn_p2_pre_styled": "",
+      "learn_p2_styled": "",
+      "learn_p2_post_styled": "",
+      "free_pre_styled": "",
+      "free_styled": "",
+      "example": "",
+      "confirm": ""
+    },
+    "email_placeholder": "",
+    "password_placeholder": "",
+    "display_name_placeholder": "",
+    "referral_code_label": "",
+    "referral_code_placeholder": "",
+    "referral_code_info": "",
+    "login_with_google": "",
+    "login_with_apple": "",
+    "remember_me": "",
+    "forgot_password": "",
+    "create_account": "",
+    "login_method_label": "",
+    "terms": "",
+    "read_terms": "",
+    "not_member": "",
+    "create_free_account": "",
+    "or": "",
+    "messages": {
+      "no_email": "",
+      "short_email": "",
+      "password_required": "",
+      "pw_reset_error_default": "",
+      "pw_reset_success": "",
+      "create_account_error_default": "",
+      "login_error_default": "",
+      "login_success": "",
+      "create_account_success": "",
+      "auth_invalid_email": "",
+      "auth_user_not_found": "",
+      "auth_too_many_requests": "",
+      "auth_wrong_password": ""
+    },
+    "footer": {
+      "legal": "",
+      "privacy_policy": "",
+      "terms_of_service": "",
+      "contact": "",
+      "discord": ""
+    }
+  },
+  "account_not_created_correctly": {
+    "info": "",
+    "submit_button": ""
+  },
+  "compare": {
+    "not_finished": "",
+    "not_your_session": "",
+    "sessions_not_comparable": ""
+  },
+  "challenge": {
+    "win": "",
+    "loss": "",
+    "draw": "",
+    "vs": "",
+    "tot": "",
+    "avg": "",
+    "challenges": "",
+    "ranked": "",
+    "friendly": "",
+    "wdl": "",
+    "win_percent": "",
+    "boards": "",
+    "with": "",
+    "tot_avg": "",
+    "more_stats": "",
+    "most_frequent_partner": "",
+    "most_frequent_matchup": "",
+    "most_frequent_opponents": "",
+    "partner": "",
+    "partnership_stats": "",
+    "opponents": "",
+    "or": "",
+    "search_by_name_label": "",
+    "search_by_name_placeholder": "",
+    "search_by_name_submit": "",
+    "search_by_name_results": "",
+    "search_by_name_empty": "",
+    "select": "",
+    "tab_player_stats": "",
+    "tab_partner": "",
+    "tab_matchup": "",
+    "tab_search_player": "",
+    "show_older_challenges": "",
+    "challenge_friends": "",
+    "ranked_match": "",
+    "robot": "",
+    "tab_my_challenges": "",
+    "no_challenges": "",
+    "tab_global": "",
+    "tab_stats": "",
+    "tab_top": "",
+    "show_more": "",
+    "not_finished": "",
+    "go_to_deal": "",
+    "kibitz_ongoing": "",
+    "rematch": "",
+    "error_missing_partner": "",
+    "error_missing_opponents": "",
+    "error_insufficient_deals": ""
+  },
+  "challenge_matchmaking": {
+    "cancel_error": "",
+    "create_error": "",
+    "title": "",
+    "info": "",
+    "partner": "",
+    "partner_disabled_label": "",
+    "bullet_robots": "",
+    "bullet_boards": "",
+    "bullet_ranked": "",
+    "in_progress": "",
+    "somebody_looking": "",
+    "banned_you": "",
+    "banned_partner": "",
+    "cancel": "",
+    "find_match": "",
+    "price_dialog_title": "",
+    "price_dialog_submit": "",
+    "error_already_searching": "",
+    "error_partner_already_searching": "",
+    "error_cannot_afford": "",
+    "error_partner_cannot_afford": "",
+    "error_challenges_disabled": "",
+    "error_matchmaking_failed": ""
+  },
+  "robot_challenge": {
+    "title": "",
+    "info": "",
+    "partner": "",
+    "partner_disabled_label": "",
+    "bullet_boards": "",
+    "bullet_robots": "",
+    "banned_you": "",
+    "banned_partner": "",
+    "start_challenge": "",
+    "price_dialog_title": "",
+    "price_dialog_submit": "",
+    "create_error": "",
+    "error_cannot_afford": "",
+    "error_partner_cannot_afford": "",
+    "error_challenges_disabled": "",
+    "error_failed_to_create": "",
+    "chat_start": ""
+  },
+  "start_challenge": {
+    "create_error": "",
+    "partner_label": "",
+    "boards_label": "",
+    "robots_label": "",
+    "opponent_one_label": "",
+    "opponent_two_label": "",
+    "pro_challenge": "",
+    "pro_challenge_pre_styled": "",
+    "pro_challenge_styled": "",
+    "pro_challenge_post_styled": "",
+    "create_challenge": ""
+  },
+  "four_player": {
+    "beta": "",
+    "info": "",
+    "ticket_info": "",
+    "opponent_one_label": "",
+    "opponent_two_label": "",
+    "partner_label": "",
+    "boards_label": "",
+    "start_session": "",
+    "create_error": "",
+    "ev_explain": "",
+    "full_hand": ""
+  },
+  "shared": {
+    "shared_with_me": "",
+    "i_have_shared": "",
+    "flagged": "",
+    "no_flagged": "",
+    "show_all": "",
+    "hand": "",
+    "players": "",
+    "progress": "",
+    "no_shared_sessions": "",
+    "no_sessions_shared": "",
+    "remove_shared_session_title": "",
+    "remove_shared_session_body": ""
+  },
+  "settings": {
+    "display_name_short_error": "",
+    "display_name_forbidden_characters_error": "",
+    "newsletter_confirm_sent": "",
+    "newsletter_started": "",
+    "try_again": "",
+    "newsletter_cta": "",
+    "newsletter_subscribed": "",
+    "rewards": "",
+    "preparing_reward": "",
+    "claim": "",
+    "sections": {
+      "polls": "",
+      "scenarios": "",
+      "history": "",
+      "shared": "",
+      "matchmaking": ""
+    },
+    "unsaved_changes": "",
+    "saved": "",
+    "removal_warning": "",
+    "private_apple_login": "",
+    "unknown": "",
+    "account": "",
+    "account_bound": "",
+    "notifications": {
+      "saved": "",
+      "verification_email_sent": "",
+      "something_went_wrong": "",
+      "reward_claimed": ""
+    },
+    "display_name": "",
+    "profile_collapse_title": "",
+    "contact_email_label": "",
+    "same_as_account_label": "",
+    "email_placeholder": "",
+    "avatar_label": "",
+    "flag_label": "",
+    "flag_automatic": "",
+    "public_flag_label": "",
+    "verify_mid": "",
+    "connect_to_sbf": "",
+    "sbf_logo_alt": "",
+    "mid_label": "",
+    "connect_to_sbf_info": "",
+    "view_profile": "",
+    "subscriptions_collapse_title": "",
+    "active_subscription": "",
+    "mobile_sub_info": "",
+    "manage_subscription_button": "",
+    "manage_subscription_loading": "",
+    "functionality_collapse_title": "",
+    "auto_next_label": "",
+    "notifications_collapse_title": "",
+    "notification_devices_label": "",
+    "no_notification_devices": "",
+    "confirm_delete_token": "",
+    "web": "",
+    "add_device": "",
+    "notifications_disabled_info": "",
+    "chat_notifications_label": "",
+    "poll_notifications_label": "",
+    "event_notifications_label": "",
+    "display_collapse_title": "",
+    "dark_mode_button": "",
+    "light_mode_button": "",
+    "interface_scale_label": "",
+    "interface_scale_small": "",
+    "interface_scale_medium": "",
+    "interface_scale_large": "",
+    "haptic_feedback_label": "",
+    "haptic_feedback_info": "",
+    "haptic_feedback_off": "",
+    "haptic_feedback_light": "",
+    "haptic_feedback_full": "",
+    "symbol_size_label": "",
+    "sm": "",
+    "md": "",
+    "lg": "",
+    "xl": "",
+    "classic": "",
+    "modern": "",
+    "diagram": "",
+    "order_label": "",
+    "default": "",
+    "shcd": "",
+    "two_suits_label": "",
+    "two_suits_label_false": "",
+    "hcp_label": "",
+    "animations_label": "",
+    "blinking_label": "",
+    "sections_collapse_title": "",
+    "sections_info": "",
+    "save": "",
+    "display_name_error": "",
+    "restore_account": "",
+    "remove_account": "",
+    "mobile": "",
+    "browser": "",
+    "remove_account_dialog_title": "",
+    "remove_account_dialog_confirm": "",
+    "remove_account_dialog_info": "",
+    "newsletter_dialog_title": "",
+    "newsletter_dialog_confirm": "",
+    "newsletter_dialog_email_info": "",
+    "newsletter_dialog_apple_email_info": "",
+    "subs": {
+      "heart": "",
+      "diamond": "",
+      "club": ""
+    },
+    "redeem_code_button": ""
+  },
+  "subscribe_newsletter": {
+    "verification_in_progress": "",
+    "notification_success": "",
+    "error": "",
+    "try_again": "",
+    "success": "",
+    "claim_reward": ""
+  },
+  "start": {
+    "latest_challenge": "",
+    "account_removal_warning": "",
+    "subscribed_claim_pending": "",
+    "invited_to_group_event": "",
+    "you_are": "",
+    "somebody_is": "",
+    "looking_for_challenge": "",
+    "looking_for_partner": "",
+    "lia_stuck": "",
+    "only_your_turn": "",
+    "session_filter_all": "",
+    "session_filter_with_actions": "",
+    "session_filter_with_partner_actions": "",
+    "session_filter_unfinished": "",
+    "flagged": "",
+    "partner": "",
+    "progress": "",
+    "pairs": "",
+    "gift_friend_yearly": "",
+    "show_older_sessions": "",
+    "no_tickets": "",
+    "no_subscription": "",
+    "no_heart_subscription": ""
+  },
+  "practice": {
+    "title": "",
+    "description": "",
+    "partner": "",
+    "progress": "",
+    "match": {
+      "title": "",
+      "description": "",
+      "robots": "",
+      "boards": "",
+      "system": "",
+      "tip": "",
+      "waiting": "",
+      "someone_looking": "",
+      "find_match": "",
+      "cancel": "",
+      "cancel_error": "",
+      "create_error": "",
+      "warning_slow": "",
+      "error_matchmaking_failed": ""
+    }
+  },
+  "session_archive": {
+    "partner": "",
+    "progress": "",
+    "show_more": "",
+    "end_reached": "",
+    "delete_dialog": {
+      "title": "",
+      "confirm": "",
+      "info": "",
+      "info_weekly": "",
+      "info_daily": ""
+    }
+  },
+  "routes": {
+    "home": "",
+    "practice": "",
+    "with_friends": "",
+    "with_random": "",
+    "challenge_friends": "",
+    "with_robot": "",
+    "four_players": "",
+    "compete": "",
+    "daily_event": "",
+    "weekly_event": "",
+    "events": "",
+    "challenge": "",
+    "ranked": "",
+    "friends": "",
+    "groups": "",
+    "profile": "",
+    "settings": "",
+    "spots": "",
+    "scenarios": "",
+    "contact": "",
+    "faq": "",
+    "store": "",
+    "history": "",
+    "top10": "",
+    "shared": "",
+    "season": ""
+  },
+  "robots": {
+    "robots": "",
+    "none": "",
+    "basic": "",
+    "advanced": "",
+    "none_explain": "",
+    "basic_explain": ""
+  },
+  "lia": {
+    "convention_card": "",
+    "two_over_one_system": "",
+    "two_over_one_explain": "",
+    "acol": "",
+    "acol_explain": "",
+    "advanced_two_over_one_system": "",
+    "advanced_two_over_one_explain": "",
+    "sayc_system": "",
+    "sayc_system_explain": "",
+    "french": "",
+    "french_explain": "",
+    "swedish": "",
+    "swedish_explain": "",
+    "swedish_basic": "",
+    "swedish_basic_explain": "",
+    "gavin_light": "",
+    "gavin_advanced": "",
+    "system": "",
+    "lia_system": "",
+    "create_own_system": ""
+  },
+  "convention_card": {
+    "title": "",
+    "opening_bids": "",
+    "conventions": ""
+  },
+  "create_session": {
+    "no_friends_info": "",
+    "no_mutual_friends_info": "",
+    "scenario_robot_conflict": "",
+    "not_enough_scenarios": "",
+    "not_enough_deals": "",
+    "error_creating_session": "",
+    "starting": "",
+    "boards": "",
+    "robots": "",
+    "scenarios": "",
+    "deal_types": "",
+    "read_more_deal_types": "",
+    "sub_not_enough_deal_types": "",
+    "scenario_missing": "",
+    "scenario_missing_info": "",
+    "create_new_session": "",
+    "start_short": "",
+    "start_practice_session": "",
+    "scenarios_requires_heart": "",
+    "show_session_headline": "",
+    "headline_too_long": "",
+    "how_to": {
+      "open_dialog_button": "",
+      "title": "",
+      "info": "",
+      "partner": "",
+      "number_of_boards": "",
+      "robots": "",
+      "deal_type": ""
+    }
+  },
+  "deal_type_select": {
+    "random": "",
+    "deal_types": "",
+    "no_types": "",
+    "v4_beta": ""
+  },
+  "deal_types": {
+    "weak1N": "",
+    "weakish1N": "",
+    "strongish1N": "",
+    "strong1N": "",
+    "variedNT": "",
+    "stronger1N": "",
+    "veryStrong1N": "",
+    "majorOpen": "",
+    "strong1C": "",
+    "strong2C": "",
+    "natOneClub": "",
+    "natOneDiamond": "",
+    "canape": "",
+    "pdPreempt": "",
+    "vsPreempt": "",
+    "gameTry": "",
+    "slamTry": "",
+    "twoOverOne": "",
+    "twoSuiter": "",
+    "splinter": "",
+    "jacoby2N": "",
+    "gazzilli": "",
+    "marmic": "",
+    "majorsVsNT": "",
+    "minorsVsNT": "",
+    "vs1N": "",
+    "vs1NEntry": "",
+    "michaels": "",
+    "oppsMichaels": "",
+    "vs2DMulti": "",
+    "weakTwoX": "",
+    "v4Beta": "",
+    "reverse": ""
+  },
+  "groups": {
+    "replace_deal_confirm": "",
+    "make_admin_confirm": "",
+    "remove_admin_confirm": "",
+    "remove_member_confirm": "",
+    "premium_promote_confirm": "",
+    "premium_demote_confirm": "",
+    "delete_confirm": "",
+    "add_members": {
+      "already_member_error": "",
+      "already_invited_error": "",
+      "invite_error": "",
+      "add_error": "",
+      "invite_success": "",
+      "add_success": "",
+      "link_copied": "",
+      "title": "",
+      "using_link_title": "",
+      "link_invites_label": "",
+      "copy_link_info": "",
+      "copy_link": "",
+      "closed_group_info": "",
+      "search_users_title": "",
+      "add_friends_title": "",
+      "friend_key_title": "",
+      "user_name_label": "",
+      "user_name_placeholder": "",
+      "user_name_search": "",
+      "user_name_search_results": "",
+      "already_member": "",
+      "remove_invite": "",
+      "invite_member": "",
+      "search_empty": "",
+      "select_friend_label": "",
+      "add_friend_submit": "",
+      "friend_key_disabled_error": "",
+      "no_such_friend_key_error": "",
+      "friend_key_add_success": "",
+      "friend_key_label": "",
+      "friend_key_placeholder": "",
+      "friend_key_submit": ""
+    },
+    "coach_session_deal": {
+      "title": "",
+      "subtitle": "",
+      "replace_deal_error": "",
+      "rotate_deal_error": "",
+      "replace_deal": "",
+      "rotate_deal": "",
+      "present": "",
+      "suggested_bidding": "",
+      "show": "",
+      "edit": "",
+      "add": "",
+      "cancel": "",
+      "undo_bid": "",
+      "robot_bid": "",
+      "save": "",
+      "alert_placeholder": "",
+      "comment_placeholder": "",
+      "alert": "",
+      "alert_bid_placeholder": "",
+      "explain_bid_placeholder": "",
+      "contracts": "",
+      "contract": "",
+      "stars": "",
+      "pairs": "",
+      "no_pairs_started": "",
+      "join_chat": ""
+    },
+    "coach_session_deal_presentation": {
+      "title": ""
+    },
+    "create_group": {
+      "too_short_error": "",
+      "forbidden_characters_error": "",
+      "group_name_taken_error": "",
+      "group_created_success": "",
+      "create_group_info": "",
+      "premium_groups_button_styled": "",
+      "invite_members_bullet": "",
+      "group_chat_bullet": "",
+      "group_events_bullet": "",
+      "group_name_label": "",
+      "group_name_placeholder": "",
+      "group_description_label": "",
+      "group_description_placeholder": "",
+      "sub_level_error": "",
+      "submit_button": ""
+    },
+    "create_group_session": {
+      "scenarios_robot_error": "",
+      "missing_name_error": "",
+      "board_count_error": "",
+      "end_time_past_error": "",
+      "start_time_error": "",
+      "start_time_past_error": "",
+      "end_time_before_start_error": "",
+      "scenario_stock_error": "",
+      "create_event_error": "",
+      "north": "",
+      "south": "",
+      "robots_none": "",
+      "robots_basic": "",
+      "robots_advanced": "",
+      "boards_label": "",
+      "robots_label": "",
+      "coach_robot_label": "",
+      "coach_robot_info_1_pre_styled": "",
+      "coach_robot_info_1_pre_styled_1": "",
+      "coach_robot_info_1_between_styled": "",
+      "coach_robot_info_1_styled_2": "",
+      "coach_robot_info_1_post_styled": "",
+      "coach_robot_info_2_pre_styled": "",
+      "coach_robot_info_2_pre_styled_1": "",
+      "coach_robot_info_2_between_styled": "",
+      "coach_robot_info_2_styled_2": "",
+      "coach_robot_info_2_post_styled": "",
+      "coach_direction_label": "",
+      "show_warning_label": "",
+      "show_warning_info": "",
+      "name_label": "",
+      "name_placeholder": "",
+      "description_label": "",
+      "description_placeholder": "",
+      "leaderboard_label": "",
+      "start_immediately_label": "",
+      "start_time_label": "",
+      "permanent_event_label": "",
+      "end_time_label": "",
+      "tab_deal_types": "",
+      "tab_scenarios": "",
+      "group_event_info": "",
+      "group_free_events_info": "",
+      "free_event_info": "",
+      "event_price_info": "",
+      "free_event_used_info_1": "",
+      "free_event_used_info_2": "",
+      "group_admin_error": "",
+      "create_submit": "",
+      "edit_submit": ""
+    },
+    "event_draft": {
+      "error": "",
+      "score_all": "",
+      "score_all_info": "",
+      "create_event": "",
+      "event_name_placeholder": "",
+      "rotate": "",
+      "remove_hand": "",
+      "remove_bidding": ""
+    },
+    "group": {
+      "tab_events": "",
+      "tab_members": "",
+      "tab_invited": "",
+      "tab_premium_members": "",
+      "tab_stats": "",
+      "create_event": "",
+      "import_pbn": "",
+      "unfinished_draft_info": "",
+      "resume": "",
+      "delete": "",
+      "search_event_placeholder": "",
+      "show_finished_label": "",
+      "no_events_info": "",
+      "add_members": "",
+      "members_count": "",
+      "owner_badge": "",
+      "admin_badge": "",
+      "premium_badge": "",
+      "subscribed_badge": "",
+      "invited_count": "",
+      "remove_invite": "",
+      "make_premium_error": "",
+      "remove_premium_error": "",
+      "premium_members_info": "",
+      "premium_seats_used_header": "",
+      "date_added_info": "",
+      "stats": {
+        "title": "",
+        "info": "",
+        "show_more": "",
+        "show_fewer": "",
+        "tab_pairs": "",
+        "tab_players": "",
+        "no_pair_info": "",
+        "pair": "",
+        "deals": "",
+        "stars": "",
+        "no_player_info": ""
+      }
+    },
+    "group_list": {
+      "new_events": "",
+      "group_invite_info": "",
+      "premium_group_badge": "",
+      "accept": "",
+      "reject": "",
+      "no_group_info": "",
+      "create_group": ""
+    },
+    "group_session_leaderboard": {
+      "delete_error": "",
+      "delete": "",
+      "edit": "",
+      "not_started": "",
+      "finished": "",
+      "runs_until": "",
+      "continue": "",
+      "completed": "",
+      "invites_sent": "",
+      "join_event": "",
+      "pair_count": "",
+      "grid_card_coaching": "",
+      "leaderboard_title": "",
+      "no_leaderboard": ""
+    },
+    "join_group": {
+      "error": "",
+      "success": "",
+      "title": "",
+      "private_info": "",
+      "loading": "",
+      "membership_required": "",
+      "native_purchase_info_pre_styled": "",
+      "native_purchase_info_styled": "",
+      "native_purchase_info_post_styled": "",
+      "purchase_loading": "",
+      "purchase": "",
+      "join_info_pre_styled": "",
+      "join_info_post_styled": "",
+      "join_group": ""
+    },
+    "join_group_session": {
+      "no_robots": "",
+      "basic_robots": "",
+      "advanced_robots": "",
+      "robot_success": "",
+      "robot_error": "",
+      "already_invited_success": "",
+      "already_invited_error": "",
+      "invite_success": "",
+      "invite_error": "",
+      "not_started": "",
+      "finished": "",
+      "permanent": "",
+      "runs_until": "",
+      "event_timer_label": "",
+      "boards_count_label": "",
+      "already_finished": "",
+      "received_invites": "",
+      "sent_invites": "",
+      "partner_label": "",
+      "already_participating_error": "",
+      "partner_participating_error": "",
+      "together_participating_error": "",
+      "invite_info": "",
+      "join_event_submit": "",
+      "price_dialog_title": "",
+      "price_dialog_submit": ""
+    },
+    "manage_group": {
+      "too_short_error": "",
+      "forbidden_characters_error": "",
+      "name_taken_error": "",
+      "success": "",
+      "group_settings": "",
+      "add_members": "",
+      "collapse_title_settings": "",
+      "compact_events_label": "",
+      "collapse_title_notifications": "",
+      "notifications_label": "",
+      "collapse_title_leave": "",
+      "owner_leave_info": "",
+      "leave_group": "",
+      "collapse_title_name_description": "",
+      "name_label": "",
+      "name_placeholder": "",
+      "description_label": "",
+      "description_placeholder": "",
+      "update_group": "",
+      "collapse_title_transfer_ownership": "",
+      "transfer_ownership_info": "",
+      "transfer_ownership_confirm_label": "",
+      "members_count": "",
+      "owner_badge": "",
+      "admin_badge": "",
+      "make_owner": "",
+      "collapse_title_delete_group": "",
+      "delete_group_info": "",
+      "delete_group_confirm_label": "",
+      "delete_group_really_confirm_label": "",
+      "delete_group": ""
+    },
+    "pbn_import": {
+      "success_no_duplicates": "",
+      "success_duplicates": "",
+      "missing_info_error": "",
+      "no_hands_error": "",
+      "too_many_boards_error": "",
+      "relevant_fields_info": "",
+      "split_multiple_label": "",
+      "deal_separation_info": "",
+      "suggested_bidding_import_label": "",
+      "import_commentary_label": "",
+      "paste_pbn_placeholder": "",
+      "clear": "",
+      "create_draft": "",
+      "event_name_placeholder": ""
+    },
+    "public_group": {
+      "not_member_info": ""
+    },
+    "error_only_owner_can_delete": "",
+    "error_owner_cannot_leave": "",
+    "error_only_owner_can_transfer_ownership": "",
+    "error_premium_limit_reached": "",
+    "error_user_not_premium": "",
+    "error_user_recently_premium": "",
+    "error_cannot_have_event_deal_types": "",
+    "error_insufficient_deals_scenario": "",
+    "error_insufficient_deals": "",
+    "error_generic": "",
+    "error_free_weekly_spent": "",
+    "error_cannot_create_free_event": "",
+    "error_cannot_replace_played_deal": "",
+    "error_cannot_rotate_played_deal": ""
+  },
+  "share": {
+    "navigate_with_buttons_info": ""
+  },
+  "app": {
+    "feature_disabled": "",
+    "feature_disabled_info": "",
+    "failed_to_load": "",
+    "failed_to_load_info": "",
+    "back_to_start": "",
+    "email": "",
+    "password": "",
+    "save": "",
+    "login": "",
+    "logout": "",
+    "cancel": "",
+    "confirm_title": "",
+    "confirm": "",
+    "next": "",
+    "prev": "",
+    "start": "",
+    "opening": "",
+    "loading": "",
+    "search": "",
+    "no_hits": "",
+    "error": "",
+    "sign-out-dialog": {
+      "title": "",
+      "confirm_text": "",
+      "button": ""
+    },
+    "language": "",
+    "language_disclaimer_en": "",
+    "language_disclaimer_sv": "",
+    "go_to_top": "",
+    "reconnect": "",
+    "connection_issues": "",
+    "matchmaking_successful_notification": "",
+    "challenge_matchmaking_successful_notification": ""
+  },
+  "maintenance": {
+    "title": "",
+    "warning": ""
+  },
+  "404": {
+    "warning": "",
+    "to_start_page": ""
+  },
+  "refresh": {
+    "title": "",
+    "warning": "",
+    "refresh_button": ""
+  },
+  "session_deal": {
+    "alert": "",
+    "alert_placeholder": "",
+    "undo": "",
+    "undo_failed": "",
+    "undo_failed_competition": "",
+    "double_undo_confirm": "",
+    "not_recommended_confirm": "",
+    "waiting_for_partner": "",
+    "waiting_for": "",
+    "sure": "",
+    "confirm": ""
+  },
+  "session_deal_mock": {
+    "waiting_for_partner": "",
+    "bid_error": "",
+    "or": ""
+  },
+  "session_deal_result": {
+    "tell_us": "",
+    "remember": "",
+    "read_the_faq": "",
+    "scoring_is_dd": "",
+    "discuss_with_partner": "",
+    "let_us_know": "",
+    "thanks_for_feedback": "",
+    "compare": "",
+    "you": "",
+    "best": "",
+    "par": "",
+    "best_contract": "",
+    "par_contract": "",
+    "explain_ev": "",
+    "none": "",
+    "feedback_to_cuebids": "",
+    "feedback": "",
+    "marked_for_discussion": "",
+    "mark_for_discussion": "",
+    "like": "",
+    "liked": "",
+    "post_poll": "",
+    "poll_not_available": "",
+    "visit_poll": "",
+    "contracts": "",
+    "stars": ""
+  },
+  "contracts_modal": {
+    "par_contract": "",
+    "best_option": "",
+    "your_contract": ""
+  },
+  "review_modal": {
+    "title": "",
+    "tabs": {
+      "players": "",
+      "robots": "",
+      "friends": "",
+      "pros": "",
+      "all": ""
+    },
+    "you": "",
+    "please_apply": "",
+    "pro": "",
+    "different_system_warning": ""
+  },
+  "price_dialog": {
+    "your_charge_one": "",
+    "your_charge_other": "",
+    "partner_charge_one": "",
+    "partner_charge_other": "",
+    "you": "",
+    "partner": "",
+    "available": "",
+    "charge": "",
+    "explain_split": ""
+  },
+  "flagged_session_deals": {
+    "none": "",
+    "show_all_partners": "",
+    "unmark_all_confirm": "",
+    "unmark_all_button": ""
+  },
+  "session_card": {
+    "users": "",
+    "pro": "",
+    "completed": ""
+  },
+  "shared_session_card": {
+    "completed": ""
+  },
+  "scenarios": {
+    "delete_confirm_title": "",
+    "delete_confirm": "",
+    "edit_confirm_title": "",
+    "edit_confirm": "",
+    "fast_generation": "",
+    "high_quality": "",
+    "scenarios": "",
+    "random": "",
+    "no_scenarios": "",
+    "scenario_name": "",
+    "explain": "",
+    "test_scenario": "",
+    "save_edit": "",
+    "save_as_new": "",
+    "save": "",
+    "no_constraints_warning": "",
+    "no_name_warning": "",
+    "maintenance_warning": "",
+    "hand_types": {
+      "types": {
+        "five_card_major": {
+          "name": ""
+        },
+        "six_card_minor": {
+          "name": ""
+        },
+        "four_card_diamonds": {
+          "name": ""
+        },
+        "strong": {
+          "name": ""
+        },
+        "balanced": {
+          "name": ""
+        },
+        "naturalClubs": {
+          "name": ""
+        },
+        "naturalClubs6": {
+          "name": ""
+        },
+        "natClubs6": {
+          "name": ""
+        },
+        "natClubs7": {
+          "name": ""
+        },
+        "natClubs8": {
+          "name": ""
+        },
+        "marmicWithClubs": {
+          "name": ""
+        },
+        "naturalDiamonds": {
+          "name": ""
+        },
+        "marmicWithDiamonds": {
+          "name": ""
+        },
+        "natDiamonds6": {
+          "name": ""
+        },
+        "natDiamonds7": {
+          "name": ""
+        },
+        "natDiamonds8": {
+          "name": ""
+        },
+        "naturalHearts": {
+          "name": ""
+        },
+        "naturalHearts4": {
+          "name": ""
+        },
+        "natHearts6": {
+          "name": ""
+        },
+        "natHearts7": {
+          "name": ""
+        },
+        "natHearts8": {
+          "name": ""
+        },
+        "natHeart6_10_13": {
+          "name": ""
+        },
+        "naturalSpades": {
+          "name": ""
+        },
+        "naturalSpades4": {
+          "name": ""
+        },
+        "natSpades6": {
+          "name": ""
+        },
+        "natSpades7": {
+          "name": ""
+        },
+        "natSpades8": {
+          "name": ""
+        },
+        "open1C_2plus": {
+          "name": "",
+          "description": ""
+        },
+        "open1C_betterMinor": {
+          "name": "",
+          "description": ""
+        },
+        "open1C_polish": {
+          "name": "",
+          "description": ""
+        },
+        "open1C_strong": {
+          "name": "",
+          "description": ""
+        },
+        "open1D_betterMinor": {
+          "name": "",
+          "description": ""
+        },
+        "open1D_fourPlus": {
+          "name": "",
+          "description": ""
+        },
+        "open1D_4PlusUnbal": {
+          "name": "",
+          "description": ""
+        },
+        "open1H_4plus": {
+          "name": "",
+          "description": ""
+        },
+        "open1H_5plus": {
+          "name": "",
+          "description": ""
+        },
+        "open1S_4plus": {
+          "name": "",
+          "description": ""
+        },
+        "open1S_5plus": {
+          "name": "",
+          "description": ""
+        },
+        "open1N_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open1N_strong": {
+          "name": "",
+          "description": ""
+        },
+        "open2C_strong": {
+          "name": "",
+          "description": ""
+        },
+        "open2C_nat": {
+          "name": "",
+          "description": ""
+        },
+        "open2C_nat54": {
+          "name": "",
+          "description": ""
+        },
+        "open2D_nat_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open2D_multi": {
+          "name": "",
+          "description": ""
+        },
+        "open2H_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open2H_nat_10_13": {
+          "name": "",
+          "description": ""
+        },
+        "open2S_nat_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open2S_nat_10_13": {
+          "name": "",
+          "description": ""
+        },
+        "open2N_2224": {
+          "name": "",
+          "description": ""
+        },
+        "open3C_nat_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open3D_nat_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open3H_nat_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open3S_nat_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open4C_nat_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open4D_nat_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open4H_nat_weak": {
+          "name": "",
+          "description": ""
+        },
+        "open4S_nat_weak": {
+          "name": "",
+          "description": ""
+        },
+        "support_major": {
+          "name": ""
+        },
+        "weak2NonVul": {
+          "name": ""
+        },
+        "weak2Vul": {
+          "name": ""
+        },
+        "take_out_double": {
+          "name": ""
+        },
+        "twoOverOne": {
+          "name": ""
+        },
+        "minorHand": {
+          "name": ""
+        },
+        "minorSupport": {
+          "name": ""
+        },
+        "gazzilliOpener_hearts_clubs": {
+          "name": ""
+        },
+        "gazzilliOpener_hearts_strong": {
+          "name": ""
+        },
+        "gazzilliOpener_spades_clubs": {
+          "name": ""
+        },
+        "gazzilliOpener_spades_strong": {
+          "name": ""
+        },
+        "gazzilliResponder": {
+          "name": ""
+        },
+        "gazzilliResponder_spades": {
+          "name": ""
+        },
+        "balanced_10_13": {
+          "name": ""
+        },
+        "balanced_12_14": {
+          "name": ""
+        },
+        "balanced_15_17": {
+          "name": ""
+        },
+        "balanced_15_18": {
+          "name": ""
+        },
+        "balanced_18_19": {
+          "name": ""
+        },
+        "balanced_20_21": {
+          "name": ""
+        },
+        "balanced_22_24": {
+          "name": ""
+        },
+        "oneSuit": {
+          "name": ""
+        },
+        "twoSuits": {
+          "name": ""
+        },
+        "threeSuits": {
+          "name": ""
+        },
+        "major_support": {
+          "name": "",
+          "description": ""
+        },
+        "take_out_double_weak_2": {
+          "name": "",
+          "description": ""
+        },
+        "two_over_one_": {
+          "name": "",
+          "description": ""
+        },
+        "majors_vs_nt": {
+          "name": "",
+          "description": ""
+        },
+        "minors_vs_nt": {
+          "name": "",
+          "description": ""
+        },
+        "gazzilli": {
+          "name": "",
+          "description": ""
+        },
+        "vs_1N": {
+          "name": "",
+          "description": ""
+        },
+        "vs_1N_Entry": {
+          "name": "",
+          "description": ""
+        },
+        "entry1D": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry1D": {
+          "name": ""
+        },
+        "entry1H": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry1H": {
+          "name": ""
+        },
+        "entry1S": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry1S": {
+          "name": ""
+        },
+        "entry1N": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry1N": {
+          "name": ""
+        },
+        "entry2C": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry2C": {
+          "name": ""
+        },
+        "entry2D": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry2D": {
+          "name": ""
+        },
+        "entry2H": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry2H": {
+          "name": ""
+        },
+        "entry2S": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry2S": {
+          "name": ""
+        },
+        "entry3C": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry3C": {
+          "name": ""
+        },
+        "entry3D": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry3D": {
+          "name": ""
+        },
+        "entry3H": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry3H": {
+          "name": ""
+        },
+        "entry3S": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry3S": {
+          "name": ""
+        },
+        "entry2DJump": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry2DJump": {
+          "name": ""
+        },
+        "entry2HJump": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry2HJump": {
+          "name": ""
+        },
+        "entry2SJump": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry2SJump": {
+          "name": ""
+        },
+        "entry3CJump": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry3CJump": {
+          "name": ""
+        },
+        "entry3DJump": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry3DJump": {
+          "name": ""
+        },
+        "entry3HJump": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry3HJump": {
+          "name": ""
+        },
+        "entry3SJump": {
+          "name": "",
+          "description": ""
+        },
+        "command_entry3SJump": {
+          "name": ""
+        },
+        "command_open1C": {
+          "name": ""
+        },
+        "command_open1D": {
+          "name": ""
+        },
+        "command_open1H": {
+          "name": ""
+        },
+        "command_open1S": {
+          "name": ""
+        },
+        "command_open1N": {
+          "name": ""
+        },
+        "command_open2D": {
+          "name": ""
+        },
+        "command_open2H": {
+          "name": ""
+        },
+        "command_open2S": {
+          "name": ""
+        },
+        "command_open3C": {
+          "name": ""
+        },
+        "command_open3D": {
+          "name": ""
+        },
+        "command_open3H": {
+          "name": ""
+        },
+        "command_open3S": {
+          "name": ""
+        },
+        "command_open4C": {
+          "name": ""
+        },
+        "command_open4D": {
+          "name": ""
+        },
+        "command_open4H": {
+          "name": ""
+        },
+        "command_open4S": {
+          "name": ""
+        }
+      },
+      "selected": "",
+      "add": "",
+      "north": "",
+      "east": "",
+      "south": "",
+      "west": "",
+      "no_hand_types": "",
+      "title": "",
+      "name": "",
+      "or": "",
+      "to": "",
+      "add_new": "",
+      "save": "",
+      "create_custom": "",
+      "type": "",
+      "hcp": "",
+      "suits": "",
+      "shapes": "",
+      "advanced": "",
+      "add_shape": "",
+      "shape_explain": {
+        "type_like": "",
+        "or": "",
+        "exact_shape": "",
+        "forbid_shape": "",
+        "forbid_exact_shape": "",
+        "allow_any": "",
+        "like": "",
+        "positions": "",
+        "explain": ""
+      },
+      "openings": "",
+      "sequences": "",
+      "second_seat_overcalls": "",
+      "name_placeholder": "",
+      "enable_robots_to_add": "",
+      "notify_required_variable": "",
+      "shape_issue_warning": "",
+      "not_dealer_warning": "",
+      "not_second_seat_warning": "",
+      "long_suit_quality": "",
+      "suit_quality": {
+        "garbage": "",
+        "very_weak": "",
+        "weak": "",
+        "medium": "",
+        "semi_solid": "",
+        "running": ""
+      },
+      "vulnerabilities_label": "",
+      "vulnerabilities": {
+        "none": "",
+        "NS": "",
+        "EW": "",
+        "all": ""
+      },
+      "cancel": "",
+      "no_name": ""
+    },
+    "scenario_edit_new_name": "",
+    "scenario_edited_success": "",
+    "scenario_created_success": "",
+    "scenario_error": "",
+    "generation_ongoing_error": "",
+    "no_changes_error": "",
+    "no_constraints_error": "",
+    "no_name_error": "",
+    "invalid_user_error": "",
+    "invalid_vars_error": "",
+    "invalid_vuls_error_singular": "",
+    "invalid_vuls_error_plural": "",
+    "too_rare_error": "",
+    "multiple_commands_warning": "",
+    "invalid_user_warning": "",
+    "subscribe_here": "",
+    "testing_contraints_dialog_title": "",
+    "testing_contraints_dialog_cancel": "",
+    "testing_contraints_dialog_save": "",
+    "testing_contraints_dialog_save_edit": "",
+    "testing_contraints_dialog_save_new": "",
+    "testing_contraints_dialog_generate_info_pre_styled": "",
+    "testing_contraints_dialog_generate_info_styled": "",
+    "testing_contraints_dialog_generate_info_post_styled": "",
+    "settings": {
+      "settings_button": "",
+      "flip": "",
+      "dealer": "",
+      "vul": "",
+      "ns_hcp": "",
+      "robots": "",
+      "dialog": {
+        "title": "",
+        "flip_label": "",
+        "dealer_label": "",
+        "vul_label": "",
+        "robots_label": "",
+        "ns_hcp_label": "",
+        "to": "",
+        "add_variable_button": "",
+        "var_info_1": "",
+        "var_info_2": "",
+        "cancel_button": "",
+        "save_button": "",
+        "dealer_north": "",
+        "dealer_south": "",
+        "dealer_east": "",
+        "dealer_west": "",
+        "dealer_any": "",
+        "vul_none": "",
+        "vul_ns": "",
+        "vul_ew": "",
+        "vul_all": "",
+        "vul_none_short": "",
+        "vul_ns_short": "",
+        "vul_ew_short": "",
+        "vul_all_short": "",
+        "vul_any": "",
+        "robots_none": "",
+        "robots_advanced": "",
+        "robots_multi": "",
+        "robots_mini_nt": ""
+      }
+    }
+  },
+  "community_scenarios": {
+    "by": "",
+    "save": "",
+    "save_success": "",
+    "save_error": "",
+    "heart_sub_info": "",
+    "subscribe": "",
+    "search_user_label": "",
+    "search_user_placeholder": "",
+    "search_user_submit": "",
+    "search_scenario_label": "",
+    "search_scenario_placeholder": "",
+    "search_scenario_submit": "",
+    "clear_search": "",
+    "results_count": "",
+    "select": "",
+    "user_search_empty": "",
+    "scenario_search_empty": "",
+    "no_scenarios": ""
+  },
+  "manage_deal_types": {
+    "generation_confirm_title": "",
+    "generation_confirm_message": "",
+    "generation_error": "",
+    "generation_error_text": "",
+    "generation_retry_error": "",
+    "retry": "",
+    "stock_full": "",
+    "generate_more": "",
+    "share_confirm_title": "",
+    "share_confirm_message": "",
+    "edit_description_confirm_title": "",
+    "edit_description_confirm_message": "",
+    "share_unchanged_error": "",
+    "scenario_market": "",
+    "crate_scenario": "",
+    "generation_tokens": "",
+    "beta_info_1": "",
+    "beta_info_2": "",
+    "beta_info_3": "",
+    "beta_info_4": "",
+    "beta_info_5": "",
+    "beta_info_6": "",
+    "beta_info_7": "",
+    "beta_info_8": "",
+    "maintenance_warning": "",
+    "maintenance_info": "",
+    "th_scenario": "",
+    "th_stock": "",
+    "th_progress": "",
+    "by": "",
+    "heart_sub_info": "",
+    "subscribe": ""
+  },
+  "messages": {
+    "item_claimed": "",
+    "empty_inbox": "",
+    "mark_all_as_read": "",
+    "message": "",
+    "from": "",
+    "new": "",
+    "item": "",
+    "regards": "",
+    "click_here": "",
+    "claim": "",
+    "already_claimed": "",
+    "error_generic": "",
+    "error_already_claimed": "",
+    "event_win": {
+      "congratulations": "",
+      "header_daily": "",
+      "header_weekly": "",
+      "header_group": "",
+      "with_score": "",
+      "well_done": "",
+      "share": "",
+      "copied_success": ""
+    }
+  },
+  "help": {
+    "add_friends_title": "",
+    "add_friends_p1": "",
+    "add_friends_p2": "",
+    "add_friends_p3": "",
+    "add_friends_p4": "",
+    "add_friends_p5": "",
+    "add_friends_p6": "",
+    "friend_gone_title": "",
+    "friend_gone_p1": "",
+    "stars_title": "",
+    "stars_p1": "",
+    "stars_p2": "",
+    "stars_p3": "",
+    "stars_rainbow_subtitle": "",
+    "stars_p4": "",
+    "robots_title": "",
+    "robots_subtitle1": "",
+    "robots_p1": "",
+    "robots_subtitle2": "",
+    "robots_p2": "",
+    "robots_subtitle3": "",
+    "robots_p3": "",
+    "robots_p4": "",
+    "robots_ul_li1": "",
+    "robots_ul_li2": "",
+    "robots_ul_li3": "",
+    "robots_ul_li4": "",
+    "robots_ul_li5": "",
+    "robots_subtitle4": "",
+    "robots_p5": "",
+    "robots_p6": "",
+    "robots_p7": "",
+    "robots_p8": "",
+    "lia_title": "",
+    "lia_p1": "",
+    "lia_p2": "",
+    "lia_p3": "",
+    "percentage_title": "",
+    "percentage_p1": "",
+    "percentage_p2": "",
+    "percentage_p3": "",
+    "percentage_p4": "",
+    "scoring_title": "",
+    "scoring_p1": "",
+    "scoring_p2": "",
+    "scoring_p3": "",
+    "scoring_p4": "",
+    "scoring_p5": "",
+    "scoring_p6": "",
+    "why_subscribe_title": "",
+    "subscriptions": "",
+    "why_subscribe_p1": "",
+    "why_subscribe_ul_li1": "",
+    "why_subscribe_ul_li2": "",
+    "why_subscribe_ul_li3": "",
+    "why_subscribe_ul_li4": "",
+    "why_subscribe_ul_li5": "",
+    "why_subscribe_p2": "",
+    "why_subscribe_store_button": "",
+    "subscribe_title": "",
+    "subscribe_store_button": "",
+    "subscribe_p1": "",
+    "subscribe_p2": "",
+    "tickets_title": "",
+    "tickets_p1": "",
+    "tickets_p2": "",
+    "tickets_p3": "",
+    "tickets_store_button": "",
+    "events_title": "",
+    "events_p1": "",
+    "events_ul_li1": "",
+    "events_ul_li2": "",
+    "events_p2": "",
+    "events_p3": "",
+    "events_p4": "",
+    "ranking_title": "",
+    "ranking_p1": "",
+    "ranking_ul_li1": "",
+    "ranking_ul_li2": "",
+    "ranking_ul_li3": "",
+    "ranking_ul_li4": "",
+    "ranking_p2": "",
+    "contact_title": "",
+    "contact_link": "",
+    "social_media_title": "",
+    "social_media_info": "",
+    "social_media_youtube": "",
+    "social_media_facebook": "",
+    "release_notes_title": "",
+    "release_notes_link": ""
+  },
+  "contact": {
+    "category_bug": "",
+    "category_feature_request": "",
+    "category_feedback": "",
+    "category_other": "",
+    "notification_success": "",
+    "junior_free_title": "",
+    "junior_free_text": "",
+    "category_dropdown_label": "",
+    "message_label": "",
+    "message_placeholder": "",
+    "contact_details_label": "",
+    "contact_details_placeholder": "",
+    "submit": "",
+    "contact_us": "",
+    "or": "",
+    "join_discord": ""
+  },
+  "contact_sales": {
+    "title": "",
+    "p1": "",
+    "p2_pre_link": "",
+    "p2_post_link": "",
+    "p3": "",
+    "ul_li1": "",
+    "ul_li2": "",
+    "ul_li3": "",
+    "ul_li3_ul_li1": "",
+    "ul_li3_ul_li2": "",
+    "ul_li4": ""
+  },
+  "contact_junior": {
+    "category": "",
+    "notification_success": "",
+    "notification_error": "",
+    "info": "",
+    "name_label": "",
+    "name_placeholder": "",
+    "country_label": "",
+    "country_placeholder": "",
+    "birthyear_label": "",
+    "birthyear_placeholder": "",
+    "submit": "",
+    "contact_us": "",
+    "or": "",
+    "join_discord": ""
+  },
+  "apps": {
+    "apps_title": "",
+    "apps_p1": "",
+    "apps_p2": "",
+    "app_store_alt_text": "",
+    "google_play_alt_text": "",
+    "prefer_web": ""
+  },
+  "daily_leaderboard": {
+    "continue": "",
+    "completed": "",
+    "to_start": "",
+    "friends": "",
+    "your_position": "",
+    "participants": "",
+    "leaderboard_minimum": "",
+    "leaderboard_title": ""
+  },
+  "join_daily": {
+    "join_error": "",
+    "headline": "",
+    "description": "",
+    "partner_label": "",
+    "lia_sub_error": "",
+    "fair_play_info": "",
+    "already_participating_error": "",
+    "partner_participating_error": "",
+    "banned_error": "",
+    "partner_banned_error": "",
+    "join_daily_submit": "",
+    "price_dialog_title": "",
+    "price_dialog_submit": ""
+  },
+  "weekly_leaderboard": {
+    "continue": "",
+    "completed": "",
+    "to_start": "",
+    "friends": "",
+    "participants": "",
+    "your_position": "",
+    "leaderboard_minimum": "",
+    "leaderboard_title": ""
+  },
+  "join_weekly": {
+    "join_error": "",
+    "headline": "",
+    "description": "",
+    "partner_label": "",
+    "lia_sub_error": "",
+    "fair_play_info": "",
+    "already_participating_error": "",
+    "partner_participating_error": "",
+    "banned_error": "",
+    "partner_banned_error": "",
+    "join_weekly_submit": "",
+    "price_dialog_title": "",
+    "price_dialog_submit": ""
+  },
+  "events": {
+    "partner": "",
+    "progress": "",
+    "error_cannot_afford": "",
+    "error_partner_cannot_afford": "",
+    "error_already_playing": "",
+    "error_partner_already_playing": "",
+    "error_already_playing_together": "",
+    "error_joining_events_disabled": "",
+    "error_invite_not_for_you": "",
+    "error_invite_expired": ""
+  },
+  "add_friend": {
+    "link_error": "",
+    "own_key_error": "",
+    "link_copied": "",
+    "adding_friend_loading": "",
+    "no_key_info": "",
+    "no_name_info": "",
+    "your_key": "",
+    "disable_key_label": "",
+    "new_key_button": "",
+    "disable_key_info": "",
+    "add_by_key_info": "",
+    "key_placeholder": "",
+    "add_by_key_button": "",
+    "or": "",
+    "link_info": "",
+    "copy_link_button": "",
+    "request_sent_notification": "",
+    "search_name_label": "",
+    "search_name_placeholder": "",
+    "search_name_button": "",
+    "search_results_count": "",
+    "send_request_button": "",
+    "search_results_empty": "",
+    "blocked_error": "",
+    "key_disabled_error": "",
+    "no_friend_error": "",
+    "friend_added": "",
+    "already_friends_error": "",
+    "status_you": "",
+    "status_mutual": "",
+    "status_pending": "",
+    "status_blocked": "",
+    "status_following": "",
+    "how_to": {
+      "open_dialog_button": "",
+      "pending_requests_info": "",
+      "title": "",
+      "info": "",
+      "friend_key_info": "",
+      "search_info": "",
+      "send_friend_key_info": "",
+      "your_key": "",
+      "link_info": ""
+    }
+  },
+  "friends_page": {
+    "my_key": "",
+    "add_button": "",
+    "show_blocked_count": "",
+    "show_blocked": "",
+    "friends_count": "",
+    "restore": "",
+    "unfollow": "",
+    "remove": "",
+    "accept": "",
+    "block": "",
+    "remove_friend_dialog_title": "",
+    "remove_friend_dialog_confirm": "",
+    "remove_friend_dialog_info": "",
+    "enable_tickets_dialog_title": "",
+    "disable_tickets_dialog_title": "",
+    "toggle_tickets_dialog_confirm": "",
+    "enable_tickets_dialog_info": "",
+    "disable_tickets_dialog_info": "",
+    "no_friends_added_info": "",
+    "all_friends_blocked_info": "",
+    "pending_requests_info": "",
+    "outstanding_requests_info": ""
+  },
+  "stats_dashboard": {
+    "tab_pairs": "",
+    "tab_weekly": "",
+    "tab_daily": "",
+    "pairs_info": "",
+    "partner": "",
+    "deals": "",
+    "stars": "",
+    "weekly_info": "",
+    "weekly": "",
+    "rank": "",
+    "pairs_count": "",
+    "leaderboard": "",
+    "select_weekly_info": "",
+    "daily_info": "",
+    "daily": "",
+    "select_daily_info": "",
+    "no_weekly_info": "",
+    "no_daily_info": ""
+  },
+  "stats_overview": {
+    "tab_ranked": "",
+    "tab_stars": "",
+    "tab_weekly": "",
+    "tab_daily": ""
+  },
+  "achievements": {
+    "stars": "",
+    "newsletter": "",
+    "error_not_completed": "",
+    "error_already_claimed": ""
+  },
+  "bidding_sessions": {
+    "error_cannot_afford": "",
+    "error_partner_cannot_afford": "",
+    "error_tickets_spending_disabled": "",
+    "error_missing_partner": "",
+    "error_generic": "",
+    "error_insufficient_deals_scenario": "",
+    "error_insufficient_deals": "",
+    "coach_joined_chat": ""
+  },
+  "storage": {
+    "error_not_image": ""
+  },
+  "user_api": {
+    "unknown": ""
+  },
+  "code": {
+    "code_claimed": "",
+    "error_claim": "",
+    "title": "",
+    "code_input_label": "",
+    "code_input_placeholder": "",
+    "claim_submit_button": "",
+    "claim_successful_info": "",
+    "Code not found.": "",
+    "Code has expired.": "",
+    "You can only claim a referral code once.": ""
+  },
+  "ccp": {
+    "history": "",
+    "season": "",
+    "number_of_participants": "",
+    "rank": "",
+    "tab_leaders": "",
+    "not_top_1000": "",
+    "tab_mine": "",
+    "points": "",
+    "type": "",
+    "date": "",
+    "info": {
+      "coming_soon": "",
+      "earn_points": "",
+      "cuebids_events": "",
+      "and": "",
+      "ranked_challenges": "",
+      "compete": "",
+      "point_system": "",
+      "daily": "",
+      "complete_daily": "",
+      "score_daily": "",
+      "weekly": "",
+      "complete_weekly": "",
+      "score_weekly": "",
+      "ranked": "",
+      "win_ranked": "",
+      "season_cycle": "",
+      "season_resets": "",
+      "double_time": ""
+    }
+  },
+  "leak_finder": {
+    "select_partner": "",
+    "no_reports": "",
+    "reports": {
+      "slam_too_high": "",
+      "missed_slam": "",
+      "wrong_slam": ""
+    },
+    "report_details": "",
+    "over_deals": "",
+    "cuebids_average": "",
+    "previous_report": "",
+    "next_report": "",
+    "latest_report": "",
+    "previous": ""
+  }
+}
