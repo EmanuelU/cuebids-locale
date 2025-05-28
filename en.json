@@ -1450,7 +1450,7 @@
     "par": "Par",
     "best_contract": "Best contract",
     "par_contract": "Par contract",
-    "explain_ev": "This contract is calculated based on Double Dummy* play over 1000 simulations. Real life and Double Dummy play might differ. (* We make adjustments to the Double Dummy play to make it more realistic.)", 
+    "explain_ev": "This contract is calculated based on Double Dummy* play over 1000 simulations. Real life and Double Dummy play might differ. (* We make adjustments to the Double Dummy play to make it more realistic.)",
     "none": "None",
     "feedback_to_cuebids": "Feedback to Cuebids",
     "feedback": "Feedback",
@@ -2594,17 +2594,27 @@
   "leak_finder": {
     "select_partner": "Select a partner to see reports on areas you can improve",
     "no_reports": "'You have no reports with the selected partner. Bid some deals and a report will be generated each week!'",
+    "aggregate_reports": {
+      "slam": "Slams"
+    },
     "reports": {
-      "slam_too_high": "Slam too high",
+      "slam_too_high": "Too high",
       "missed_slam": "Missed slam",
       "wrong_slam": "Wrong slam"
     },
+    "reports_with_count": {
+      "slam_too_high": "Too high ({{relevantCount}} out of {{numberOfDeals}} deals)",
+      "missed_slam": "Missed slam ({{relevantCount}} out of {{numberOfDeals}} deals)",
+      "wrong_slam": "Wrong slam ({{relevantCount}} out of {{numberOfDeals}} deals)"
+    },
     "report_details": "{{relevant}} out of {{total}}",
     "over_deals": "over {{deals}} deals",
+    "average": "Average <strong>{{average}}</strong>",
     "cuebids_average": "Cuebids average <strong>{{average}}</strong>",
     "previous_report": "Previous report",
     "next_report": "Next report",
     "latest_report": "Latest report",
-    "previous": "Previous:"
+    "previous": "Previous:",
+    "accept_deal": "Mark as accepted"
   }
 }

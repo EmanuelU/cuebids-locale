@@ -2594,17 +2594,27 @@
   "leak_finder": {
     "select_partner": "Välj en partner för att se rapporter om områden ni kan förbättra",
     "no_reports": "Du har inga rapporter med den valda partnern. Spela några brickor så genereras en rapport varje vecka!",
+    "aggregate_reports": {
+      "slam": "Slammar"
+    },
     "reports": {
-      "slam_too_high": "Slam för högt",
+      "slam_too_high": "För högt",
       "missed_slam": "Missad slam",
       "wrong_slam": "Fel slam"
     },
+    "reports_with_count": {
+      "slam_too_high": "För högt ({{relevantCount}} av {{numberOfDeals}} givar)",
+      "missed_slam": "Missad slam ({{relevantCount}} av {{numberOfDeals}} givar)",
+      "wrong_slam": "Fel slam ({{relevantCount}} av {{numberOfDeals}} givar)"
+    },
     "report_details": "{{relevant}} av {{total}}",
     "over_deals": "över {{deals}} brickor",
+    "average": "Snitt <strong>{{average}}</strong>",
     "cuebids_average": "Cuebids-snitt <strong>{{average}}</strong>",
     "previous_report": "Föregående rapport",
     "next_report": "Nästa rapport",
     "latest_report": "Senaste rapporten",
-    "previous": "Föregående:"
+    "previous": "Föregående:",
+    "accept_deal": "Markera som accepterad"
   }
 }

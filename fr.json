@@ -2594,17 +2594,27 @@
   "leak_finder": {
     "select_partner": "Sélectionnez un partenaire pour voir les rapports sur les axes d’amélioration",
     "no_reports": "Vous n’avez aucun rapport avec ce partenaire. Jouez quelques donnes et un rapport sera généré chaque semaine !",
+    "aggregate_reports": {
+      "slam": "Slams"
+    },
     "reports": {
       "slam_too_high": "Chelem trop ambitieux",
       "missed_slam": "Chelem manqué",
       "wrong_slam": "Mauvais chelem"
     },
+    "reports_with_count": {
+      "slam_too_high": "Too high ({{relevantCount}} out of {{numberOfDeals}} deals)",
+      "missed_slam": "Missed slam ({{relevantCount}} out of {{numberOfDeals}} deals)",
+      "wrong_slam": "Wrong slam ({{relevantCount}} out of {{numberOfDeals}} deals)"
+    },
     "report_details": "{{relevant}} sur {{total}}",
     "over_deals": "sur {{deals}} donnes",
+    "average": "Avg <strong>{{average}}</strong>",
     "cuebids_average": "Moyenne Cuebids <strong>{{average}}</strong>",
     "previous_report": "Rapport précédent",
     "next_report": "Rapport suivant",
     "latest_report": "Dernier rapport",
-    "previous": "Précédent :"
+    "previous": "Précédent :",
+    "accept_deal": "Mark as accepted"
   }
 }
