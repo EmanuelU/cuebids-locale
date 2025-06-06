@@ -2665,6 +2665,7 @@
     "next_report": "Nästa rapport",
     "latest_report": "Senaste rapporten",
     "previous": "Föregående:",
-    "accept_deal": "Markera som accepterad"
+    "hide_deal": "Göm",
+    "show_deal": "Visa"
   }
 }

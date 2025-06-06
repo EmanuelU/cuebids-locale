@@ -2665,6 +2665,8 @@
     "next_report": "Next report",
     "latest_report": "Latest report",
     "previous": "Previous:",
-    "accept_deal": "Mark as accepted"
+    "hide_deal": "Hide",
+    "show_deal": "Show"
+
   }
 }
