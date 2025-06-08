@@ -2661,9 +2661,9 @@
     "over_deals": "sur {{deals}} donnes",
     "average": "Avg <strong>{{average}}</strong>",
     "cuebids_average": "Moyenne Cuebids <strong>{{average}}</strong>",
-    "previous_report": "Rapport précédent",
-    "next_report": "Rapport suivant",
-    "latest_report": "Dernier rapport",
+    "previous_report": "Précédent",
+    "next_report": "Suivant",
+    "latest_report": "Dernier",
     "previous": "Précédent :",
     "hide_deal": "Hide",
     "show_deal": "Show"

@@ -2661,9 +2661,9 @@
     "over_deals": "na podstawie {{deals}} rozdań",
     "average": "Avg <strong>{{average}}</strong>",
     "cuebids_average": "Średnia Cuebids <strong>{{average}}</strong>",
-    "previous_report": "Poprzedni raport",
-    "next_report": "Następny raport",
-    "latest_report": "Najnowszy raport",
+    "previous_report": "Poprzedni",
+    "next_report": "Następny",
+    "latest_report": "Najnowszy",
     "previous": "Poprzedni:",
     "hide_deal": "Hide",
     "show_deal": "Show"
