@@ -2661,9 +2661,9 @@
     "over_deals": "över {{deals}} brickor",
     "average": "Snitt <strong>{{average}}</strong>",
     "cuebids_average": "Cuebids-snitt <strong>{{average}}</strong>",
-    "previous_report": "Föregående rapport",
-    "next_report": "Nästa rapport",
-    "latest_report": "Senaste rapporten",
+    "previous_report": "Föregående",
+    "next_report": "Nästa",
+    "latest_report": "Senaste",
     "previous": "Föregående:",
     "hide_deal": "Göm",
     "show_deal": "Visa"
