@@ -2603,7 +2603,8 @@
       "fits": "Fits",
       "balanced": "Balanced hands",
       "conventions": "Conventions",
-      "misc": "Miscellaneous"
+      "misc": "Miscellaneous",
+      "defence": "Defence"
     },
     "reports": {
       "slam_too_high": "Too high",
@@ -2629,7 +2630,10 @@
       "minor_fit_balanced": "Minor fit",
       "checkback": "Checkback",
       "gazzilli": "Gazzilli",
-      "strong": "Strong"
+      "strong": "Strong",
+      "1N_defence": "1NT defence",
+      "pre_empt_defence": "Pre-empt defence",
+      "other_defence": "Other"
     },
     "reports_with_count": {
       "slam_too_high": "Too high ({{relevantCount}} out of {{numberOfDeals}} deals)",
@@ -2655,7 +2659,10 @@
       "minor_fit_balanced": "Minor fit ({{relevantCount}} out of {{numberOfDeals}} deals)",
       "checkback": "Checkback ({{relevantCount}} out of {{numberOfDeals}} deals)",
       "gazzilli": "Gazzilli ({{relevantCount}} out of {{numberOfDeals}} deals)",
-      "strong": "Strong ({{relevantCount}} out of {{numberOfDeals}} deals)"
+      "strong": "Strong ({{relevantCount}} out of {{numberOfDeals}} deals)",
+      "1N_defence": "1NT defence ({{relevantCount}} out of {{numberOfDeals}} deals)",
+      "pre_empt_defence": "Pre-empt defence ({{relevantCount}} out of {{numberOfDeals}} deals)",
+      "other_defence": "Other ({{relevantCount}} out of {{numberOfDeals}} deals)"
     },
     "report_details": "{{relevant}} out of {{total}}",
     "over_deals": "over {{deals}} deals",

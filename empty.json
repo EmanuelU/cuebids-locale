@@ -2603,7 +2603,8 @@
       "fits": "",
       "balanced": "",
       "conventions": "",
-      "misc": ""
+      "misc": "",
+      "defence": ""
     },
     "reports": {
       "slam_too_high": "",
@@ -2629,7 +2630,10 @@
       "minor_fit_balanced": "",
       "checkback": "",
       "gazzilli": "",
-      "strong": ""
+      "strong": "",
+      "1N_defence": "",
+      "pre_empt_defence": "",
+      "other_defence": ""
     },
     "reports_with_count": {
       "slam_too_high": "",
@@ -2655,7 +2659,10 @@
       "minor_fit_balanced": "",
       "checkback": "",
       "gazzilli": "",
-      "strong": ""
+      "strong": "",
+      "1N_defence": "",
+      "pre_empt_defence": "",
+      "other_defence": ""
     },
     "report_details": "",
     "over_deals": "",
