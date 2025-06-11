@@ -2673,6 +2673,7 @@
     "latest_report": "",
     "previous": "",
     "hide_deal": "",
-    "show_deal": ""
+    "show_deal": "",
+    "no_report_deals": ""
   }
 }

@@ -2673,7 +2673,8 @@
     "latest_report": "Latest",
     "previous": "Previous:",
     "hide_deal": "Hide",
-    "show_deal": "Show"
+    "show_deal": "Show",
+    "no_report_deals": "No bad deals. Well done!"
 
   }
 }
