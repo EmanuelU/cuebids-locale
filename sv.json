@@ -2673,6 +2673,7 @@
     "latest_report": "Senaste",
     "previous": "Föregående:",
     "hide_deal": "Göm",
-    "show_deal": "Visa"
+    "show_deal": "Visa",
+    "no_report_deals": "Inga dåliga givar. Bra jobbat!"
   }
 }
