@@ -2633,7 +2633,7 @@
       "strong": "Stark",
       "1N_defence": "1NT-försvar",
       "pre_empt_defence": "Försvar mot spärr",
-      "other_defence": "Övrigt"
+      "two_suited_defence": "Tvåfärgshand"
     },
     "reports_with_count": {
       "slam_too_high": "För högt ({{relevantCount}} av {{numberOfDeals}} givar)",
@@ -2662,7 +2662,7 @@
       "strong": "Stark ({{relevantCount}} av {{numberOfDeals}} givar)",
       "1N_defence": "1NT-försvar ({{relevantCount}} av {{numberOfDeals}} givar)",
       "pre_empt_defence": "Försvar mot spärr ({{relevantCount}} av {{numberOfDeals}} givar)",
-      "other_defence": "Övrigt ({{relevantCount}} av {{numberOfDeals}} givar)"
+      "two_suited_defence": "Tvåfärgshand ({{relevantCount}} av {{numberOfDeals}} givar)"
     },
     "report_details": "{{relevant}} av {{total}}",
     "over_deals": "över {{deals}} brickor",

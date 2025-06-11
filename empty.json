@@ -2633,7 +2633,7 @@
       "strong": "",
       "1N_defence": "",
       "pre_empt_defence": "",
-      "other_defence": ""
+      "two_suited_defence": ""
     },
     "reports_with_count": {
       "slam_too_high": "",
@@ -2662,7 +2662,7 @@
       "strong": "",
       "1N_defence": "",
       "pre_empt_defence": "",
-      "other_defence": ""
+      "two_suited_defence": ""
     },
     "report_details": "",
     "over_deals": "",

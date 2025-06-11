@@ -2633,7 +2633,7 @@
       "strong": "Strong",
       "1N_defence": "1NT defence",
       "pre_empt_defence": "Pre-empt defence",
-      "other_defence": "Other"
+      "two_suited_defence": "Two-suited"
     },
     "reports_with_count": {
       "slam_too_high": "Too high ({{relevantCount}} out of {{numberOfDeals}} deals)",
@@ -2662,7 +2662,7 @@
       "strong": "Strong ({{relevantCount}} out of {{numberOfDeals}} deals)",
       "1N_defence": "1NT defence ({{relevantCount}} out of {{numberOfDeals}} deals)",
       "pre_empt_defence": "Pre-empt defence ({{relevantCount}} out of {{numberOfDeals}} deals)",
-      "other_defence": "Other ({{relevantCount}} out of {{numberOfDeals}} deals)"
+      "two_suited_defence": "Two-suited ({{relevantCount}} out of {{numberOfDeals}} deals)"
     },
     "report_details": "{{relevant}} sur {{total}}",
     "over_deals": "sur {{deals}} donnes",
