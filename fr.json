@@ -2674,6 +2674,7 @@
     "previous": "Précédent :",
     "hide_deal": "Hide",
     "show_deal": "Show",
-    "no_report_deals": "No bad deals. Well done!"
+    "no_report_deals": "No bad deals. Well done!",
+    "sub_not_enough": "You need a {{subscription}} subscription to see the details of this report. Click here to go to Store."
   }
 }
