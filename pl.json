@@ -2517,7 +2517,8 @@
     "daily": "Dniówki",
     "select_daily_info": "Wybierz i zobacz więcej danych",
     "no_weekly_info": "Nie ukończyłeś żadnych Tygodniówek w ciągu ostatnich 20 tygodni",
-    "no_daily_info": "Nie ukończyłeś żadnych Dniówek w ciągu ostatnich 30 dni"
+    "no_daily_info": "Nie ukończyłeś żadnych Dniówek w ciągu ostatnich 30 dni",
+    "load_all": "Load all"
   },
   "stats_overview": {
     "tab_ranked": "Rankingowe",

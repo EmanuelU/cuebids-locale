@@ -2517,7 +2517,8 @@
     "daily": "Quotidien",
     "select_daily_info": "Sélectionnez un jour pour voir plus de détails",
     "no_weekly_info": "Vous n’avez pas terminé d’événements hebdomadaires dans les 20 dernières semaines",
-    "no_daily_info": "Vous n’avez pas terminé d’événements quotidiens dans les 30 derniers jours"
+    "no_daily_info": "Vous n’avez pas terminé d’événements quotidiens dans les 30 derniers jours",
+    "load_all": "Load all"
   },
   "stats_overview": {
     "tab_ranked": "Classés",

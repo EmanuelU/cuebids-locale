@@ -2517,7 +2517,8 @@
     "daily": "Daily",
     "select_daily_info": "Select a daily to see more details",
     "no_weekly_info": "You've finished no weeklies in the last 20 weeks",
-    "no_daily_info": "You've finished no dailies in the last 30 days"
+    "no_daily_info": "You've finished no dailies in the last 30 days",
+    "load_all": "Load all"
   },
   "stats_overview": {
     "tab_ranked": "Ranked",
