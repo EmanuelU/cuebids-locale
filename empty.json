@@ -2520,6 +2520,13 @@
     "no_daily_info": "",
     "load_all": ""
   },
+  "history": {
+    "leak_finder_title": "",
+    "leak_finder_info": "",
+    "dashboard_title": "",
+    "dashboard_info": "",
+    "new": ""
+  },
   "stats_overview": {
     "tab_ranked": "",
     "tab_stars": "",
