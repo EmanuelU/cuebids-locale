@@ -2520,6 +2520,13 @@
     "no_daily_info": "Du har inte avslutat någon dagtävling på 30 dagar",
     "load_all": "Ladda allt"
   },
+  "history": {
+    "leak_finder_title": "Hitta brister",
+    "leak_finder_info": "Se rapporter på olika typer av givar, och se brickorna du kunde ha gjort bättre på.",
+    "dashboard_title": "Partners, Veckotävlingar, Dagtävlingar",
+    "dashboard_info": "Se din snittscore med varje partner, och dina resultat i Vecko- och Dagtävlingarna.",
+    "new": "Nytt!"
+  },
   "stats_overview": {
     "tab_ranked": "Rankat",
     "tab_stars": "Stjärnor",

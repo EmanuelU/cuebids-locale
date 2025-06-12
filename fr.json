@@ -2520,6 +2520,13 @@
     "no_daily_info": "Vous n’avez pas terminé d’événements quotidiens dans les 30 derniers jours",
     "load_all": "Load all"
   },
+  "history": {
+    "leak_finder_title": "Leak Finder",
+    "leak_finder_info": "See reports of different kind if boards, pinpointing the deals you could have done better on.",
+    "dashboard_title": "Partners, Weekly, Daily",
+    "dashboard_info": "See your average score with each partner, and your results in Weekly and Daily events.",
+    "new": "New!"
+  },
   "stats_overview": {
     "tab_ranked": "Classés",
     "tab_stars": "Etoiles",

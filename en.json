@@ -2520,6 +2520,13 @@
     "no_daily_info": "You've finished no dailies in the last 30 days",
     "load_all": "Load all"
   },
+  "history": {
+    "leak_finder_title": "Leak Finder",
+    "leak_finder_info": "See reports of different kind if boards, pinpointing the deals you could have done better on.",
+    "dashboard_title": "Partners, Weekly, Daily",
+    "dashboard_info": "See your average score with each partner, and your results in Weekly and Daily events.",
+    "new": "New!"
+  },
   "stats_overview": {
     "tab_ranked": "Ranked",
     "tab_stars": "Stars",
