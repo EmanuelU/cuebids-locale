@@ -2517,7 +2517,8 @@
     "daily": "Dagtävling",
     "select_daily_info": "Välj en dagtävling för att visa detaljer",
     "no_weekly_info": "Du har inte avslutat någon veckotävling på 20 veckor",
-    "no_daily_info": "Du har inte avslutat någon dagtävling på 30 dagar"
+    "no_daily_info": "Du har inte avslutat någon dagtävling på 30 dagar",
+    "load_all": "Ladda allt"
   },
   "stats_overview": {
     "tab_ranked": "Rankat",

@@ -2517,7 +2517,8 @@
     "daily": "",
     "select_daily_info": "",
     "no_weekly_info": "",
-    "no_daily_info": ""
+    "no_daily_info": "",
+    "load_all": ""
   },
   "stats_overview": {
     "tab_ranked": "",
