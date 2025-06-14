@@ -2601,7 +2601,7 @@
   },
   "leak_finder": {
     "select_partner": "Select a partner to see reports on areas you can improve",
-    "no_reports": "'You have no reports with the selected partner. Bid some deals and a report will be generated each week!'",
+    "no_reports": "You have no reports with the selected partner. Bid some deals and a report will be generated each week!",
     "aggregate_reports": {
       "slam": "Slams",
       "major": "1M openings",
