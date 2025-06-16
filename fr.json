@@ -2601,6 +2601,7 @@
     }
   },
   "leak_finder": {
+    "coming_soon": "Bientôt disponible !",
     "select_partner": "Sélectionnez un partenaire pour voir les rapports sur les axes d’amélioration",
     "no_reports": "Vous n’avez aucun rapport avec ce partenaire. Jouez quelques donnes et un rapport sera généré chaque semaine !",
     "aggregate_reports": {

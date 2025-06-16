@@ -2601,6 +2601,7 @@
     }
   },
   "leak_finder": {
+    "coming_soon": "Wkrótce dostępne!",
     "select_partner": "Wybierz partnera, aby zobaczyć raporty o możliwościach poprawy",
     "no_reports": "Nie masz raportów z wybranym partnerem. Zagraj kilka rozdań, a raport zostanie wygenerowany co tydzień!",
     "aggregate_reports": {

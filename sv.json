@@ -2601,6 +2601,7 @@
     }
   },
   "leak_finder": {
+    "coming_soon": "Kommer snart!",
     "select_partner": "Välj en partner för att se rapporter om områden ni kan förbättra",
     "no_reports": "Du har inga rapporter med den valda partnern. Spela några brickor så genereras en rapport varje vecka!",
     "aggregate_reports": {
