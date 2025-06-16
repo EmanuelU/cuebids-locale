@@ -765,6 +765,8 @@
     "sbf_logo_alt": "Sbf logga",
     "mid_label": "Medlemsnummer (mid)",
     "connect_to_sbf_info": "När du kopplar ditt Cuebids-konto till Sbf så kan du logga in på Cuebids genom Sbf:s inloggning.",
+    "connect_to_acbl": "Koppla till ACBL",
+    "connect_to_acbl_info": "När du kopplar ditt Cuebids-konto till ACBL så kan du logga in på Cuebids genom ACBL:s inloggning.",
     "view_profile": "Visa profil",
     "subscriptions_collapse_title": "Prenumerationer",
     "active_subscription": "{{sub}}-prenumeration",

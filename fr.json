@@ -765,6 +765,8 @@
     "sbf_logo_alt": "Connection à SBF",
     "mid_label": "Numéro de membre",
     "connect_to_sbf_info": "Lorsque vous connectez votre compte Cuebids à SBF, vous pouvez vous connecter à Cuebids via le login de SBF.",
+    "connect_to_acbl": "Se connecter à ACBL",
+    "connect_to_acbl_info": "Lorsque vous connectez votre compte Cuebids à ACBL, vous pouvez vous connecter à Cuebids via le login de ACBL.",
     "view_profile": "Voir le profil",
     "subscriptions_collapse_title": "Abonnements",
     "active_subscription": "{{sub}} abonnement",
