@@ -1471,6 +1471,7 @@
   },
   "review_modal": {
     "title": "Porównaj",
+    "different_evaluation_version": "To porównanie zostało utworzone z inną wersją punktacji.",
     "tabs": {
       "players": "Gracze ({{count}})",
       "robots": "Roboty ({{count}})",

@@ -1471,6 +1471,7 @@
   },
   "review_modal": {
     "title": "Jämför",
+    "different_evaluation_version": "Den här jämförelsen har skapats med en annan version av Cuebids.",
     "tabs": {
       "players": "Spelare ({{count}})",
       "robots": "Robotar ({{count}})",

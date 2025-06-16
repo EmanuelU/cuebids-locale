@@ -1471,6 +1471,7 @@
   },
   "review_modal": {
     "title": "Comparer",
+    "different_evaluation_version": "Cette comparaison a été créée avec une version d’évaluation différente.",
     "tabs": {
       "players": "Joueurs ({{count}})",
       "robots": "Robots ({{count}})",
