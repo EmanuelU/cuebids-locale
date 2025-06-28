@@ -544,6 +544,7 @@
     "referral_code_info": "Enter referral or promotional code. You can also create an account without a code.",
     "login_with_google": "Continue with Google",
     "login_with_apple": "Continue with Apple",
+    "login_with_acbl": "Continue with ACBL",
     "remember_me": "Remember me",
     "forgot_password": "Forgot password?",
     "create_account": "Create account",

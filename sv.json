@@ -544,6 +544,7 @@
     "referral_code_info": "Skriv inbjudnings- eller kampanjkod. Du kan också skapa ett konto utan en kod.",
     "login_with_google": "Fortsätt med Google",
     "login_with_apple": "Fortsätt med Apple",
+    "login_with_acbl": "Fortsätt med ACBL",
     "remember_me": "Kom ihåg",
     "forgot_password": "Glömt lösenord?",
     "create_account": "Skapa konto",

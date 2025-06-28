@@ -544,6 +544,7 @@
     "referral_code_info": "Wpisz kod polecający, lub promocyjny. Możesz też zarejestrować się bez kodu.",
     "login_with_google": "Zaloguj się kontem Google",
     "login_with_apple": "Zaloguj się kontem Apple",
+    "login_with_acbl": "Zaloguj się kontem ACBL",
     "remember_me": "Zapamiętaj mnie",
     "forgot_password": "Zapomniałeś hasła?",
     "create_account": "Utwórz konto",
