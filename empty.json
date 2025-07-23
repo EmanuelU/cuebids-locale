@@ -2685,6 +2685,7 @@
     "hide_deal": "",
     "show_deal": "",
     "no_report_deals": "",
-    "sub_not_enough": ""
+    "sub_not_enough": "",
+    "go_to_store": ""
   }
 }

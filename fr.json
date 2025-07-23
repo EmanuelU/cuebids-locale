@@ -2692,6 +2692,7 @@
     "hide_deal": "Cacher",
     "show_deal": "Afficher",
     "no_report_deals": "Aucune mauvaise donne. Bien joué !",
-    "sub_not_enough": "Vous avez besoin d’un abonnement {{subscription}} pour voir les détails de ce rapport. Cliquez ici pour accéder à la boutique."
+    "sub_not_enough": "Vous avez besoin d’un abonnement {{subscription}} pour voir les détails de ce rapport.",
+    "go_to_store": "Cliquez ici pour accéder à la boutique"
   }
 }

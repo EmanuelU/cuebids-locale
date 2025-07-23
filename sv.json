@@ -2692,6 +2692,7 @@
     "hide_deal": "Göm",
     "show_deal": "Visa",
     "no_report_deals": "Inga dåliga givar. Bra jobbat!",
-    "sub_not_enough": "Du behöver en {{subscription}}-prenumeration för att se detaljerna i den här rapporten. Klicka här för att gå till butiken."
+    "sub_not_enough": "Du behöver en {{subscription}}-prenumeration för att se detaljerna i den här rapporten.",
+    "go_to_store": "Klicka här för att gå till butiken"
   }
 }
