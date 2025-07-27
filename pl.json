@@ -2696,6 +2696,7 @@
     "hide_deal": "Ukryj",
     "show_deal": "Pokaż",
     "no_report_deals": "Brak słabych rozdań. Brawo!",
-    "sub_not_enough": "Musisz mieć subskrypcję {{subscription}}, aby zobaczyć szczegóły tego raportu. Kliknij tutaj, aby przejść do Sklepu."
+    "sub_not_enough": "Musisz mieć subskrypcję {{subscription}}, aby zobaczyć szczegóły tego raportu.",
+    "go_to_store": "Kliknij tutaj, aby przejść do Sklepu"
   }
 }
