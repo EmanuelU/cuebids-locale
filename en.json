@@ -470,6 +470,12 @@
     }
   },
   "session": {
+    "expired_reasons": {
+      "session-expired": "Session expired",
+      "auto-archived-old-session": "Automatically archived due to inactivity",
+      "challenge-expired": "Challenge expired", 
+      "session-deleted-by-user": "Session deleted by user"
+    },
     "shared_with_users": "Shared with {{users}} users",
     "share_session": "Share session",
     "share": "Share",
@@ -497,6 +503,8 @@
       "info_weekly": "Even if you delete a weekly session, you will not be able to participate again this week.",
       "info_daily": "Even if you delete a daily session, you will not be able to participate again today."
     },
+    
+  
     "pro_badge": "PRO",
     "advanced_robots": "Advanced Robots",
     "basic_robots": "Basic Robots"
@@ -794,6 +802,7 @@
     "chat_notifications_label": "Notifications for chat",
     "poll_notifications_label": "Notifications for new polls",
     "event_notifications_label": "Notifications for events",
+    "bid_reminder_notifications_label": "Reminders when it's your turn to bid",
     "display_collapse_title": "Display",
     "dark_mode_button": "Dark",
     "light_mode_button": "Light",

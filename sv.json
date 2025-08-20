@@ -470,6 +470,12 @@
     }
   },
   "session": {
+    "expired_reasons": {
+      "session-expired": "Sessionen har löpt ut",
+      "auto-archived-old-session": "Automatiskt arkiverad på grund av inaktivitet",
+      "challenge-expired": "Utmaningen har löpt ut", 
+      "session-deleted-by-user": "Sessionen raderad av användare"
+    },
     "shared_with_users": "Delad med {{users}} användare",
     "share_session": "Dela session",
     "share": "Dela",
@@ -794,6 +800,7 @@
     "chat_notifications_label": "Notiser för chat",
     "poll_notifications_label": "Notiser för nya omröstningar",
     "event_notifications_label": "Notiser för tävlingar",
+    "bid_reminder_notifications_label": "Påminnelser när det är din tur att bjuda",
     "display_collapse_title": "Visa",
     "dark_mode_button": "Mörk",
     "light_mode_button": "Ljus",

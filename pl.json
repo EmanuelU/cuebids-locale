@@ -470,6 +470,12 @@
     }
   },
   "session": {
+    "expired_reasons": {
+      "session-expired": "Sesja wygasła",
+      "auto-archived-old-session": "Automatycznie zarchiwizowana z powodu braku aktywności",
+      "challenge-expired": "Wyzwanie wygasło", 
+      "session-deleted-by-user": "Sesja usunięta przez użytkownika"
+    },
     "shared_with_users": "Udostępniono {{users}} użytkownikom",
     "share_session": "Udostępnij sesję",
     "share": "Udostępnij",
@@ -794,6 +800,7 @@
     "chat_notifications_label": "Powiadomienia o czacie",
     "poll_notifications_label": "Powiadomienia o nowych ankietach",
     "event_notifications_label": "Powiadomienia o wydarzeniach",
+    "bid_reminder_notifications_label": "Przypomnienia gdy to twoja kolej licytować",
     "display_collapse_title": "Wyświetlanie",
     "dark_mode_button": "Ciemny",
     "light_mode_button": "Jasny",

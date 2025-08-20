@@ -470,6 +470,12 @@
     }
   },
   "session": {
+    "expired_reasons": {
+      "session-expired": "Session expirée",
+      "auto-archived-old-session": "Automatiquement archivée en raison d'inactivité",
+      "challenge-expired": "Défi expiré", 
+      "session-deleted-by-user": "Session supprimée par l'utilisateur"
+    },
     "shared_with_users": "Partagée avec {{users}} utilisateurs",
     "share_session": "Partager la session",
     "share": "Partagée",
@@ -794,6 +800,7 @@
     "chat_notifications_label": "Notifications pour le chat",
     "poll_notifications_label": "Notifications pour les nouveaux sondages",
     "event_notifications_label": "Notifications pour les événements",
+    "bid_reminder_notifications_label": "Rappels quand c'est votre tour d'enchérir",
     "display_collapse_title": "Affichage",
     "dark_mode_button": "Sombre",
     "light_mode_button": "Lumineux",
