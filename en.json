@@ -2621,6 +2621,7 @@
     }
   },
   "leak_finder": {
+    "title": "Leak Finder",
     "coming_soon": "Coming soon!",
     "select_partner": "Select a partner to see reports on areas you can improve",
     "no_reports": "You have no reports with the selected partner. Bid some deals and a report will be generated each week!",
@@ -2706,6 +2707,47 @@
     "show_deal": "Show",
     "no_report_deals": "No bad deals. Well done!",
     "sub_not_enough": "You need a {{subscription}} subscription to see the details of this report.",
-    "go_to_store": " Click here to go to Store"
+    "go_to_store": " Click here to go to Store",
+    "how_it_works": "How it works",
+    "how_it_works_title": "How Leak Finder Works",
+    "what_is_leak_finder": "What is Leak Finder?",
+    "leak_finder_explanation": "Leak Finder is a powerful analysis tool that identifies areas where you and your partner can improve your bidding. It helps you find discussion points by showing boards that contributed to weaknesses in specific categories. Only deals from practice sessions, weekly competitions, daily competitions, group sessions, and challenges are included in the analysis.",
+    "leak_finder_how_it_works": "After analyzing your games, Leak Finder shows your average rating in each category and compares it to all other players. The sword icon is highlighted in different colors based on how you perform relative to others.",
+    "categories_title": "Report Categories",
+    "category_explanation_title": "Category Explanation",
+    "rating_system_title": "Rating System",
+    "rating_system_explanation": "You can see your average rating in each category. The sword icon color indicates how you compare to all other players:",
+    "legend_title": "Legend", 
+    "legend_green": "Above average performance - you're doing better than most players in this category",
+    "legend_yellow": "Below average but close - there's room for improvement",
+    "legend_red": "Significantly below average (0.5+ points below) - this is a key area to focus on",
+    "subcategories": "Specific areas analyzed",
+    "how_to_use": "How to use Leak Finder",
+    "step_1": "Select a partner from the dropdown to view your joint performance reports",
+    "step_2": "Click on any category to see detailed analysis of that bidding area",
+    "step_3": "Review specific deals where improvements could be made",
+    "step_4": "Practice the identified weak areas to improve your overall performance",
+    "note": "Note",
+    "reports_generated_weekly": "Reports are generated weekly based on your recent bidding sessions. The more you play, the more accurate the analysis becomes.",
+    "category_descriptions": {
+      "slam": "Analyzes your slam bidding decisions. This includes whether you missed making a slam that was available, bid too high when slam wasn't there, or ended up in the wrong slam contract.",
+      "game": "Evaluates your game bidding accuracy. This covers situations where you might have missed making game, bid too high when game wasn't available, or chose the wrong game contract.",
+      "major": "Focuses on sequences that start with a 1♥ or 1♠ opening. This includes various conventional treatments and responses to major suit openings.",
+      "defence": "Analyzes your defensive bidding decisions when the opponents have opened or are bidding. This includes defending against various types of openings and conventional sequences."
+    },
+    "subcategory_descriptions": {
+      "missed_slam": "Deals where slam would make often enough to be worth bidding but you stopped in game",
+      "slam_too_high": "Deals where you bid to slam but it couldn't be made",
+      "wrong_slam": "Deals where you reached slam but in the wrong strain or level",
+      "missed_game": "Deals where game would make often enough to be worth bidding but you stopped in a part game",
+      "game_too_high": "Deals where you bid to game but it couldn't be made",
+      "wrong_game": "Deals where you reached game but in the wrong strain",
+      "jacoby": "Deals involving Jacoby 2NT responses to major suit openings",
+      "splinter": "Deals involving splinter bids (double jumps showing shortness)",
+      "two_over_one": "Deals involving two-over-one game forcing responses",
+      "1N_defence": "Deals where you're defending against opponent's 1NT opening",
+      "pre_empt_defence": "Deals where you're defending against opponent's pre-emptive bids",
+      "two_suited_defence": "Deals where you're defending against opponent's two-suited bids"
+    }
   }
 }

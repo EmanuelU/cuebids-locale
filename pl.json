@@ -2619,6 +2619,7 @@
     }
   },
   "leak_finder": {
+    "title": "Wyszukiwacz Błędów",
     "coming_soon": "Wkrótce dostępne!",
     "select_partner": "Wybierz partnera, aby zobaczyć raporty o możliwościach poprawy",
     "no_reports": "Nie masz raportów z wybranym partnerem. Zagraj kilka rozdań, a raport zostanie wygenerowany co tydzień!",
@@ -2704,6 +2705,47 @@
     "show_deal": "Pokaż",
     "no_report_deals": "Brak słabych rozdań. Brawo!",
     "sub_not_enough": "Musisz mieć subskrypcję {{subscription}}, aby zobaczyć szczegóły tego raportu.",
-    "go_to_store": "Kliknij tutaj, aby przejść do Sklepu"
+    "go_to_store": "Kliknij tutaj, aby przejść do Sklepu",
+    "how_it_works": "Jak to działa",
+    "how_it_works_title": "Jak działa Wyszukiwacz Błędów",
+    "what_is_leak_finder": "Czym jest Wyszukiwacz Błędów?",
+    "leak_finder_explanation": "Wyszukiwacz Błędów to potężne narzędzie analityczne, które identyfikuje obszary, w których ty i twój partner możecie poprawić swoją licytację. Pomaga znaleźć punkty do dyskusji, pokazując rozdania, które przyczyniły się do słabości w określonych kategoriach. Tylko rozdania z sesji treningowych, turniejów tygodniowych, turniejów dziennych, sesji grupowych i wyzwań są uwzględniane w analizie.",
+    "leak_finder_how_it_works": "Po przeanalizowaniu waszych gier Wyszukiwacz Błędów pokazuje waszą średnią ocenę w każdej kategorii i porównuje ją ze wszystkimi innymi graczami. Ikona miecza jest podświetlana różnymi kolorami w zależności od waszych wyników względem innych.",
+    "rating_system_title": "System oceny",
+    "rating_system_explanation": "Możecie zobaczyć waszą średnią ocenę w każdej kategorii. Kolor ikony miecza wskazuje, jak wypadacie w porównaniu ze wszystkimi innymi graczami:",
+    "legend_title": "Legenda",
+    "legend_green": "Wyniki powyżej średniej - radzicie sobie lepiej niż większość graczy w tej kategorii",
+    "legend_yellow": "Poniżej średniej, ale blisko - jest miejsce na poprawę",
+    "legend_red": "Znacznie poniżej średniej (0,5+ punktów poniżej) - to kluczowy obszar do skupienia się",
+    "categories_title": "Kategorie raportów",
+    "subcategories": "Konkretne analizowane obszary",
+    "how_to_use": "Jak używać Wyszukiwacza Błędów",
+    "step_1": "Wybierz partnera z menu rozwijanego, aby zobaczyć wasze wspólne raporty wydajności",
+    "step_2": "Kliknij na dowolną kategorię, aby zobaczyć szczegółową analizę tego obszaru licytacji",
+    "step_3": "Przejrzyj konkretne rozdania, w których można było poczynić ulepszenia",
+    "step_4": "Używaj wyników jako punktów do dyskusji, aby poprawić waszą współpracę",
+    "note": "Uwaga",
+    "reports_generated_weekly": "Raporty są generowane co tydzień na podstawie rozdań, które rozegraliście",
+    "category_explanation_title": "Wyjaśnienie kategorii",
+    "category_descriptions": {
+      "slam": "Analizuje wasze decyzje licytacyjne dotyczące szlemów. Obejmuje to sytuacje, gdy przegapiliście szlem, który był dostępny, licytowaliście za wysoko gdy szlem nie istniał, lub skończyliście w złym kontrakcie szlemowym.",
+      "game": "Ocenia dokładność waszej licytacji do dogranek. Obejmuje sytuacje, w których mogliście przegapić dograną, licytować za wysoko gdy dograna nie była dostępna, lub wybrać zły kontrakt dograny.",
+      "major": "Koncentruje się na sekwencjach rozpoczynających się od otwarcia 1♥ lub 1♠. Obejmuje różne konwencjonalne traktowania i odpowiedzi na otwarcia w kolorach starszych.",
+      "defence": "Analizuje wasze defensywne decyzje licytacyjne, gdy przeciwnicy otworzyli lub licytują. Obejmuje obronę przeciwko różnym typom otwarć i sekwencji konwencjonalnych."
+    },
+    "subcategory_descriptions": {
+      "missed_slam": "Rozdania, gdzie szlem udałby się wystarczająco często, aby było opłacalne go licytować, ale zatrzymaliście się na dogranej",
+      "slam_too_high": "Rozdania, gdzie licytowaliście do szlema, ale nie można było go zrobić",
+      "wrong_slam": "Rozdania, gdzie osiągnęliście szlem, ale w złym kolorze lub na złym poziomie",
+      "missed_game": "Rozdania, gdzie dograna udałaby się wystarczająco często, aby było opłacalne ją licytować, ale zatrzymaliście się na grze częściowej",
+      "game_too_high": "Rozdania, gdzie licytowaliście do dogranej, ale nie można było jej zrobić",
+      "wrong_game": "Rozdania, gdzie osiągnęliście dograną, ale w złym kolorze",
+      "jacoby": "Rozdania obejmujące odpowiedzi Jacoby 2BA na otwarcia w kolorach starszych",
+      "splinter": "Rozdania obejmujące licytacje splinter (podwójne skoki pokazujące krótkość)",
+      "two_over_one": "Rozdania obejmujące odpowiedzi dwa-nad-jeden forsujące do dogranej",
+      "1N_defence": "Rozdania, gdzie bronicie się przed otwarciem przeciwnika 1BA",
+      "pre_empt_defence": "Rozdania, gdzie bronicie się przed blokującymi licytacjami przeciwnika",
+      "two_suited_defence": "Rozdania, gdzie bronicie się przed dwukolorowymi licytacjami przeciwnika"
+    }
   }
 }

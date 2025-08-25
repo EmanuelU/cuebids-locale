@@ -2619,6 +2619,7 @@
     }
   },
   "leak_finder": {
+    "title": "Détecteur de Fautes",
     "coming_soon": "Bientôt disponible !",
     "select_partner": "Sélectionnez un partenaire pour voir les rapports sur les axes d’amélioration",
     "no_reports": "Vous n’avez aucun rapport avec ce partenaire. Jouez quelques donnes et un rapport sera généré chaque semaine !",
@@ -2704,6 +2705,47 @@
     "show_deal": "Afficher",
     "no_report_deals": "Aucune mauvaise donne. Bien joué !",
     "sub_not_enough": "Vous avez besoin d’un abonnement {{subscription}} pour voir les détails de ce rapport.",
-    "go_to_store": "Cliquez ici pour accéder à la boutique"
+    "go_to_store": "Cliquez ici pour accéder à la boutique",
+    "how_it_works": "Comment ça marche",
+    "how_it_works_title": "Comment fonctionne le Détecteur de Fautes",
+    "what_is_leak_finder": "Qu'est-ce que le Détecteur de Fautes ?",
+    "leak_finder_explanation": "Le Détecteur de Fautes est un outil d'analyse puissant qui identifie les domaines où vous et votre partenaire pouvez améliorer vos enchères. Il vous aide à trouver des points de discussion en montrant les donnes qui ont contribué à des faiblesses dans des catégories spécifiques. Seules les donnes des sessions d'entraînement, tournois hebdomadaires, tournois quotidiens, sessions de groupe et défis sont incluses dans l'analyse.",
+    "leak_finder_how_it_works": "Après avoir analysé vos jeux, le Détecteur de Fautes affiche votre note moyenne dans chaque catégorie et la compare à tous les autres joueurs. L'icône d'épée est mise en surbrillance dans différentes couleurs selon vos performances par rapport aux autres.",
+    "rating_system_title": "Système de notation",
+    "rating_system_explanation": "Vous pouvez voir votre note moyenne dans chaque catégorie. La couleur de l'icône d'épée indique vos performances par rapport à tous les autres joueurs :",
+    "legend_title": "Légende",
+    "legend_green": "Performance au-dessus de la moyenne - vous faites mieux que la plupart des joueurs dans cette catégorie",
+    "legend_yellow": "En dessous de la moyenne mais proche - il y a place à l'amélioration",
+    "legend_red": "Significativement en dessous de la moyenne (0,5+ points en dessous) - c'est un domaine clé sur lequel se concentrer",
+    "categories_title": "Catégories de rapports",
+    "subcategories": "Domaines spécifiques analysés",
+    "how_to_use": "Comment utiliser le Détecteur de Fautes",
+    "step_1": "Sélectionnez un partenaire dans le menu déroulant pour voir vos rapports de performance conjoints",
+    "step_2": "Cliquez sur n'importe quelle catégorie pour voir une analyse détaillée de ce domaine d'enchères",
+    "step_3": "Examinez les donnes spécifiques où des améliorations auraient pu être apportées",
+    "step_4": "Utilisez les résultats comme points de discussion pour améliorer votre partenariat",
+    "note": "Note",
+    "reports_generated_weekly": "Les rapports sont générés chaque semaine en fonction des donnes que vous avez jouées",
+    "category_explanation_title": "Explication de la catégorie",
+    "category_descriptions": {
+      "slam": "Analyse vos décisions d'enchères de chelem. Cela inclut si vous avez manqué de faire un chelem qui était disponible, enchéri trop haut quand le chelem n'était pas là, ou fini dans le mauvais contrat de chelem.",
+      "game": "Évalue la précision de vos enchères de manche. Cela couvre les situations où vous auriez pu manquer de faire la manche, enchérir trop haut quand la manche n'était pas disponible, ou choisir le mauvais contrat de manche.",
+      "major": "Se concentre sur les séquences qui commencent par une ouverture de 1♥ ou 1♠. Cela inclut divers traitements conventionnels et réponses aux ouvertures en majeure.",
+      "defence": "Analyse vos décisions d'enchères défensives quand les adversaires ont ouvert ou enchérissent. Cela inclut la défense contre divers types d'ouvertures et séquences conventionnelles."
+    },
+    "subcategory_descriptions": {
+      "missed_slam": "Donnes où le chelem réussirait assez souvent pour être rentable à demander mais vous vous êtes arrêtés à la manche",
+      "slam_too_high": "Donnes où vous avez enchéri au chelem mais il ne pouvait pas être fait",
+      "wrong_slam": "Donnes où vous avez atteint le chelem mais dans la mauvaise couleur ou au mauvais niveau",
+      "missed_game": "Donnes où la manche réussirait assez souvent pour être rentable à demander mais vous vous êtes arrêtés en partielle",
+      "game_too_high": "Donnes où vous avez enchéri à la manche mais elle ne pouvait pas être faite",
+      "wrong_game": "Donnes où vous avez atteint la manche mais dans la mauvaise couleur",
+      "jacoby": "Donnes impliquant des réponses Jacoby 2SA aux ouvertures en majeure",
+      "splinter": "Donnes impliquant des enchères splinter (double saut montrant une courte)",
+      "two_over_one": "Donnes impliquant des réponses deux sur un forcing de manche",
+      "1N_defence": "Donnes où vous défendez contre l'ouverture de 1SA adverse",
+      "pre_empt_defence": "Donnes où vous défendez contre les enchères de barrage adverses",
+      "two_suited_defence": "Donnes où vous défendez contre les enchères bicolores adverses"
+    }
   }
 }

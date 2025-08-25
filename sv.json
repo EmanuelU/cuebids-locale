@@ -2619,6 +2619,7 @@
     }
   },
   "leak_finder": {
+    "title": "Hitta brister",
     "coming_soon": "Kommer snart!",
     "select_partner": "Välj en partner för att se rapporter om områden ni kan förbättra",
     "no_reports": "Du har inga rapporter med den valda partnern. Spela några brickor så genereras en rapport varje vecka!",
@@ -2704,6 +2705,47 @@
     "show_deal": "Visa",
     "no_report_deals": "Inga dåliga givar. Bra jobbat!",
     "sub_not_enough": "Du behöver en {{subscription}}-prenumeration för att se detaljerna i den här rapporten.",
-    "go_to_store": "Klicka här för att gå till butiken"
+    "go_to_store": "Klicka här för att gå till butiken",
+    "how_it_works": "Hur det fungerar",
+    "how_it_works_title": "Hur Hitta Brister Fungerar",
+    "what_is_leak_finder": "Vad är Hitta Brister?",
+    "leak_finder_explanation": "Hitta Brister är ett kraftfullt analysverktyg som identifierar områden där du och din partner kan förbättra er budgivning. Det hjälper er att hitta diskussionspunkter genom att visa brickor som bidragit till svagheter inom specifika kategorier. Endast brickor från träningssessioner, veckotävlingar, dagtävlingar, gruppsessioner och utmaningar inkluderas i analysen.",
+    "leak_finder_how_it_works": "Efter att ha analyserat era spel visar Hitta Brister ert genomsnittliga betyg inom varje kategori och jämför det med alla andra spelare. Svärdsikonen färgas i olika färger baserat på hur ni presterar relativt andra.",
+    "rating_system_title": "Betygssystem",
+    "rating_system_explanation": "Ni kan se ert genomsnittliga betyg inom varje kategori. Svärdikonens färg visar hur ni jämförs med alla andra spelare:",
+    "legend_title": "Förklaring",
+    "legend_green": "Över genomsnittet - ni presterar bättre än de flesta spelare inom denna kategori",
+    "legend_yellow": "Under genomsnittet men nära - det finns utrymme för förbättring",
+    "legend_red": "Betydligt under genomsnittet (0,5+ poäng under) - detta är ett nyckelområde att fokusera på",
+    "categories_title": "Rapportkategorier",
+    "category_explanation_title": "Kategoriförklaring",
+    "subcategories": "Specifika områden som analyseras",
+    "how_to_use": "Hur man använder Hitta Brister",
+    "step_1": "Välj en partner från rullgardinsmenyn för att se era gemensamma prestationsrapporter",
+    "step_2": "Klicka på vilken kategori som helst för att se detaljerad analys av det budgivningsområdet",
+    "step_3": "Granska specifika givar där förbättringar kunde ha gjorts",
+    "step_4": "Använd resultaten som diskussionspunkter för att förbättra ert partnerskap",
+    "note": "Obs",
+    "reports_generated_weekly": "Rapporter genereras veckovis baserat på era spelade brickor",
+    "category_descriptions": {
+      "slam": "Analyserar era slambeslut i budgivningen. Detta inkluderar om ni missade att bjuda slam när det fanns, bjöd för högt när slam inte fanns, eller hamnade i fel slamkontrakt.",
+      "game": "Utvärderar er noggrannhet i utgångsbud. Detta täcker situationer där ni kanske missade att bjuda utgång, bjöd för högt när utgång inte fanns, eller valde fel utgångskontrakt.",
+      "major": "Fokuserar på sekvenser som börjar med 1♥ eller 1♠ öppning. Detta inkluderar olika konventionella behandlingar och svar på högfärgsöppningar.",
+      "defence": "Analyserar era defensiva budgivningsbeslut när motståndarna har öppnat eller bjuder. Detta inkluderar försvar mot olika typer av öppningar och konventionella sekvenser."
+    },
+    "subcategory_descriptions": {
+      "missed_slam": "Givar där slam skulle gå tillräckligt ofta för att vara värt att bjuda men ni stannade på utgång",
+      "slam_too_high": "Givar där ni bjöd till slam men det inte kunde göras",
+      "wrong_slam": "Givar där ni nådde slam men i fel färg eller nivå",
+      "missed_game": "Givar där utgång skulle gå tillräckligt ofta för att vara värt att bjuda men ni stannade på delkontrakt",
+      "game_too_high": "Givar där ni bjöd till utgång men det inte kunde göras",
+      "wrong_game": "Givar där ni nådde utgång men i fel färg",
+      "jacoby": "Givar som involverar Stenbergs 2NT-svar på högfärgsöppningar",
+      "splinter": "Givar som involverar splinterbud (dubbelhopp som visar korthet)",
+      "two_over_one": "Givar som involverar två-över-ett speltvingande svar",
+      "1N_defence": "Givar där ni försvarar er mot motståndarnas 1NT-öppning",
+      "pre_empt_defence": "Givar där ni försvarar er mot motståndarnas spärrande bud",
+      "two_suited_defence": "Givar där ni försvarar er mot motståndarnas tvåfärgsbud"
+    }
   }
 }
