@@ -2726,6 +2726,9 @@
     "step_4": "Używaj wyników jako punktów do dyskusji, aby poprawić waszą współpracę",
     "note": "Uwaga",
     "reports_generated_weekly": "Raporty są generowane co tydzień na podstawie rozdań, które rozegraliście",
+    "historical_averages": "Średnie historyczne",
+    "last_3_reports": "Ostatnie 3",
+    "last_6_reports": "Ostatnie 6",
     "category_explanation_title": "Wyjaśnienie kategorii",
     "category_descriptions": {
       "slam": "Analizuje wasze decyzje licytacyjne dotyczące szlemów. Obejmuje to sytuacje, gdy przegapiliście szlem, który był dostępny, licytowaliście za wysoko gdy szlem nie istniał, lub skończyliście w złym kontrakcie szlemowym.",

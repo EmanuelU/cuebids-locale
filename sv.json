@@ -2727,6 +2727,9 @@
     "step_4": "Använd resultaten som diskussionspunkter för att förbättra ert partnerskap",
     "note": "Obs",
     "reports_generated_weekly": "Rapporter genereras veckovis baserat på era spelade brickor",
+    "historical_averages": "Historiska snitt",
+    "last_3_reports": "Senaste 3",
+    "last_6_reports": "Senaste 6",
     "category_descriptions": {
       "slam": "Analyserar era slambeslut i budgivningen. Detta inkluderar om ni missade att bjuda slam när det fanns, bjöd för högt när slam inte fanns, eller hamnade i fel slamkontrakt.",
       "game": "Utvärderar er noggrannhet i utgångsbud. Detta täcker situationer där ni kanske missade att bjuda utgång, bjöd för högt när utgång inte fanns, eller valde fel utgångskontrakt.",

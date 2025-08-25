@@ -2729,6 +2729,9 @@
     "step_4": "Practice the identified weak areas to improve your overall performance",
     "note": "Note",
     "reports_generated_weekly": "Reports are generated weekly based on your recent bidding sessions. The more you play, the more accurate the analysis becomes.",
+    "historical_averages": "Historical Averages",
+    "last_3_reports": "Last 3",
+    "last_6_reports": "Last 6",
     "category_descriptions": {
       "slam": "Analyzes your slam bidding decisions. This includes whether you missed making a slam that was available, bid too high when slam wasn't there, or ended up in the wrong slam contract.",
       "game": "Evaluates your game bidding accuracy. This covers situations where you might have missed making game, bid too high when game wasn't available, or chose the wrong game contract.",

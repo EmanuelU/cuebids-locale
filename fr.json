@@ -2726,6 +2726,9 @@
     "step_4": "Utilisez les résultats comme points de discussion pour améliorer votre partenariat",
     "note": "Note",
     "reports_generated_weekly": "Les rapports sont générés chaque semaine en fonction des donnes que vous avez jouées",
+    "historical_averages": "Moyennes historiques",
+    "last_3_reports": "3 derniers",
+    "last_6_reports": "6 derniers",
     "category_explanation_title": "Explication de la catégorie",
     "category_descriptions": {
       "slam": "Analyse vos décisions d'enchères de chelem. Cela inclut si vous avez manqué de faire un chelem qui était disponible, enchéri trop haut quand le chelem n'était pas là, ou fini dans le mauvais contrat de chelem.",
