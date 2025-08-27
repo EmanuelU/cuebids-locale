@@ -804,6 +804,7 @@
     "display_collapse_title": "Visa",
     "dark_mode_button": "Mörk",
     "light_mode_button": "Ljus",
+    "contrast_mode_button": "Kontrast",
     "interface_scale_label": "Storlek",
     "interface_scale_small": "Liten",
     "interface_scale_medium": "Mellan",

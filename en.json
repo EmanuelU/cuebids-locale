@@ -806,6 +806,7 @@
     "display_collapse_title": "Display",
     "dark_mode_button": "Dark",
     "light_mode_button": "Light",
+    "contrast_mode_button": "Contrast",
     "interface_scale_label": "Interface scale",
     "interface_scale_small": "Small",
     "interface_scale_medium": "Medium",

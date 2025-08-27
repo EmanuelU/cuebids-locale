@@ -804,6 +804,7 @@
     "display_collapse_title": "Affichage",
     "dark_mode_button": "Sombre",
     "light_mode_button": "Lumineux",
+    "contrast_mode_button": "Contraste",
     "interface_scale_label": "Echelle d’affichage",
     "interface_scale_small": "Petit",
     "interface_scale_medium": "Moyen",
