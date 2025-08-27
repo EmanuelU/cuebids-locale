@@ -90,7 +90,12 @@
     },
     "chat": {
       "placeholder": "Skriv ditt meddelande...",
-      "send": "Skicka"
+      "send": "Skicka",
+      "personalNote": "Personlig anteckning",
+      "personalNotes": "Personliga Anteckningar",
+      "hiddenMessage": "Dolt meddelande",
+      "neverRevealed": "visas aldrig",
+      "revealedAfterDeal": "visas efter given"
     },
     "unscored_deal": {
       "contract": "Kontrakt",

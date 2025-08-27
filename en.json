@@ -90,7 +90,12 @@
     },
     "chat": {
       "placeholder": "Type your message...",
-      "send": "Send"
+      "send": "Send",
+      "personalNote": "Personal note",
+      "personalNotes": "Personal Notes",
+      "hiddenMessage": "Hidden message",
+      "neverRevealed": "never revealed",
+      "revealedAfterDeal": "revealed after deal"
     },
     "unscored_deal": {
       "contract": "Contract",

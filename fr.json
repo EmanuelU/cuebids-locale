@@ -90,7 +90,12 @@
     },
     "chat": {
       "placeholder": "Tapez votre message...",
-      "send": "Envoi"
+      "send": "Envoi",
+      "personalNote": "Note personnelle",
+      "personalNotes": "Notes Personnelles",
+      "hiddenMessage": "Message caché",
+      "neverRevealed": "jamais révélé",
+      "revealedAfterDeal": "révélé après la donne"
     },
     "unscored_deal": {
       "contract": "Contrat",

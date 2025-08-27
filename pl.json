@@ -90,7 +90,12 @@
     },
     "chat": {
       "placeholder": "Napisz wiadomość...",
-      "send": "Wyślij"
+      "send": "Wyślij",
+      "personalNote": "Notatka osobista",
+      "personalNotes": "Notatki Osobiste",
+      "hiddenMessage": "Ukryta wiadomość",
+      "neverRevealed": "nigdy nie ujawniona",
+      "revealedAfterDeal": "ujawniona po rozdaniu"
     },
     "unscored_deal": {
       "contract": "Kontrakt",
