@@ -807,6 +807,7 @@
     "manage_subscription_loading": "Please wait",
     "functionality_collapse_title": "Functionality",
     "auto_next_label": "Auto next board after bid",
+    "undo_timer_label": "Undo timer",
     "notifications_collapse_title": "Notifications",
     "notification_devices_label": "Devices for notifications",
     "no_notification_devices": "You have no devices registered for notifications",
@@ -1458,6 +1459,7 @@
   "session_deal": {
     "alert": "Alert",
     "alert_placeholder": "Artificial",
+    "auto_confirm_in": "Auto-confirm in:",
     "undo": "Undo",
     "undo_failed": "Undo failed",
     "undo_failed_competition": ". In competition you only have 30s to undo a bid.",

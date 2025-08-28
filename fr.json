@@ -805,6 +805,7 @@
     "manage_subscription_loading": "Veuillez attendre",
     "functionality_collapse_title": "Fonctionnalité",
     "auto_next_label": "Donne suivante automatique après enchère",
+    "undo_timer_label": "Minuteur d'annulation",
     "notifications_collapse_title": "Notifications",
     "notification_devices_label": "Appareils pour notifications",
     "no_notification_devices": "Vous n’avez aucun appareil enregistré pour les notifications",
