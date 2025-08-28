@@ -71,6 +71,13 @@
       "early_end_error": "Something went wrong while ending the event",
       "early_end_tooltip": "End event early"
     },
+    "next_deal_button": {
+      "other_sessions_title": "Other Sessions",
+      "other_sessions_message": "You have other unfinished sessions:",
+      "stay_current": "Stay in Current Session",
+      "go_to_session": "Go to Session",
+      "session_without_tags": "Session"
+    },
     "event_timer": {
       "scored_in": "Event scored in",
       "scoring": "Scoring in progress...",

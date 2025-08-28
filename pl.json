@@ -71,6 +71,13 @@
       "early_end_error": "Coś poszło nie tak podczas kończenia wydarzenia",
       "early_end_tooltip": "Zakończ wydarzenie wcześnie"
     },
+    "next_deal_button": {
+      "other_sessions_title": "Inne Sesje",
+      "other_sessions_message": "Masz inne nieukończone sesje:",
+      "stay_current": "Zostań w Bieżącej Sesji",
+      "go_to_session": "Przejdź do Sesji",
+      "session_without_tags": "Sesja"
+    },
     "event_timer": {
       "scored_in": "Wydarzenie punktowane w",
       "scoring": "Trwa punktowanie...",

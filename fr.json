@@ -71,6 +71,13 @@
       "early_end_error": "Quelque chose s'est mal passé lors de la fin de l'événement",
       "early_end_tooltip": "Terminer l'événement plus tôt"
     },
+    "next_deal_button": {
+      "other_sessions_title": "Autres Sessions",
+      "other_sessions_message": "Vous avez d'autres sessions non terminées :",
+      "stay_current": "Rester dans la Session Actuelle",
+      "go_to_session": "Aller à la Session",
+      "session_without_tags": "Session"
+    },
     "event_timer": {
       "scored_in": "Décompte dans",
       "scoring": "Notation en cours...",

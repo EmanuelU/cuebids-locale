@@ -71,6 +71,13 @@
       "early_end_error": "Något gick fel när tävlingen skulle avslutas",
       "early_end_tooltip": "Avsluta tävlingen i förtid"
     },
+    "next_deal_button": {
+      "other_sessions_title": "Andra Sessioner",
+      "other_sessions_message": "Du har andra oavslutade sessioner:",
+      "stay_current": "Stanna i Nuvarande Session",
+      "go_to_session": "Gå till Session",
+      "session_without_tags": "Session"
+    },
     "event_timer": {
       "scored_in": "Resultat räknas om ",
       "scoring": "Resultat beräknas...",
