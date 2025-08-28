@@ -66,7 +66,10 @@
       "pairs": "pary",
       "join_event": "Dołącz",
       "finished": "Zakończone",
-      "details": "Szczegóły"
+      "details": "Szczegóły",
+      "early_end_success": "Wydarzenie zakończone pomyślnie",
+      "early_end_error": "Coś poszło nie tak podczas kończenia wydarzenia",
+      "early_end_tooltip": "Zakończ wydarzenie wcześnie"
     },
     "event_timer": {
       "scored_in": "Wydarzenie punktowane w",
@@ -1069,6 +1072,7 @@
     "premium_promote_confirm": "Czy na pewno chcesz ich awansować?",
     "premium_demote_confirm": "Czy na pewno chcesz ich zdegradować?",
     "delete_confirm": "Czy na pewno chcesz usunąć to wydarzenie?",
+    "early_end_confirm": "Czy na pewno chcesz wcześnie zakończyć to wydarzenie? Spowoduje to natychmiastowe zakończenie wydarzenia i zatrzymanie wszystkich nowych zgłoszeń.",
     "add_members": {
       "already_member_error": "Ten użytkownik jest już członkiem",
       "already_invited_error": "Ten użytkownik jest już zaproszony",

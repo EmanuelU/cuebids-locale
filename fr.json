@@ -66,7 +66,10 @@
       "pairs": "Paires",
       "join_event": "Rejoidre",
       "finished": "Fini",
-      "details": "Détails"
+      "details": "Détails",
+      "early_end_success": "Événement terminé avec succès",
+      "early_end_error": "Quelque chose s'est mal passé lors de la fin de l'événement",
+      "early_end_tooltip": "Terminer l'événement plus tôt"
     },
     "event_timer": {
       "scored_in": "Décompte dans",
@@ -1069,6 +1072,7 @@
     "premium_promote_confirm": "Etes-vous sûr de vouloir le promouvoir ?",
     "premium_demote_confirm": "Etes-vous sûr de vouloir les rétrograder ?",
     "delete_confirm": " Etes-vous sûr de vouloir supprimer cet événement ?",
+    "early_end_confirm": "Êtes-vous sûr de vouloir terminer cet événement plus tôt ? Cela finira immédiatement l'événement et arrêtera toutes les nouvelles soumissions.",
     "add_members": {
       "already_member_error": "Cet utilisateur est déjà membre",
       "already_invited_error": "Cet utilisateur est déjà invite à rejoindre le groupe",

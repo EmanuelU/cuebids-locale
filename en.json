@@ -66,7 +66,10 @@
       "pairs": "pairs",
       "join_event": "Join event",
       "finished": "Finished",
-      "details": "Details"
+      "details": "Details",
+      "early_end_success": "Event ended successfully",
+      "early_end_error": "Something went wrong while ending the event",
+      "early_end_tooltip": "End event early"
     },
     "event_timer": {
       "scored_in": "Event scored in",
@@ -1071,6 +1074,7 @@
     "premium_promote_confirm": "Are you sure you want to promote them?",
     "premium_demote_confirm": "Are you sure you want to demote them?",
     "delete_confirm": "Are you sure you want to delete this event?",
+    "early_end_confirm": "Are you sure you want to end this event early? This will immediately finish the event and stop all new submissions.",
     "add_members": {
       "already_member_error": "This user is already a member",
       "already_invited_error": "This user is already invited to join",

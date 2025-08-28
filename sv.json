@@ -66,7 +66,10 @@
       "pairs": "par",
       "join_event": "Spela tävling",
       "finished": "Avslutad",
-      "details": "Detaljer"
+      "details": "Detaljer",
+      "early_end_success": "Tävlingen avslutades framgångsrikt",
+      "early_end_error": "Något gick fel när tävlingen skulle avslutas",
+      "early_end_tooltip": "Avsluta tävlingen i förtid"
     },
     "event_timer": {
       "scored_in": "Resultat räknas om ",
@@ -1069,6 +1072,7 @@
     "premium_promote_confirm": "Är du säker på att du vill göra dem till premium?",
     "premium_demote_confirm": "Är du säker på att du vill ta bort premium?",
     "delete_confirm": "Är du säker på att du vill radera eventet?",
+    "early_end_confirm": "Är du säker på att du vill avsluta detta event i förtid? Detta kommer omedelbart avsluta eventet och stoppa alla nya inlämningar.",
     "add_members": {
       "already_member_error": "Den här användaren är redan medlem",
       "already_invited_error": "Den här användaren har redan blivit inbjuden",
