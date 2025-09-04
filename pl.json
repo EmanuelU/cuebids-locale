@@ -101,11 +101,11 @@
     "chat": {
       "placeholder": "Napisz wiadomość...",
       "send": "Wyślij",
-      "personalNote": "Notatka osobista",
-      "personalNotes": "Notatki Osobiste",
-      "hiddenMessage": "Ukryta wiadomość",
-      "neverRevealed": "nigdy nie ujawniona",
-      "revealedAfterDeal": "ujawniona po rozdaniu"
+      "personal_note": "Notatka osobista",
+      "personal_notes": "Notatki Osobiste",
+      "hidden_message": "Ukryta wiadomość",
+      "never_revealed": "nigdy nie ujawniona",
+      "revealed_after_deal": "ujawniona po rozdaniu"
     },
     "unscored_deal": {
       "contract": "Kontrakt",

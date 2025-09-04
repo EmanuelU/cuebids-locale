@@ -101,11 +101,11 @@
     "chat": {
       "placeholder": "Type your message...",
       "send": "Send",
-      "personalNote": "Personal note",
-      "personalNotes": "Personal Notes",
-      "hiddenMessage": "Hidden message",
-      "neverRevealed": "never revealed",
-      "revealedAfterDeal": "revealed after deal"
+      "personal_note": "Personal note",
+      "personal_notes": "Personal Notes",
+      "hidden_message": "Hidden message",
+      "never_revealed": "never revealed",
+      "revealed_after_deal": "revealed after deal"
     },
     "unscored_deal": {
       "contract": "Contract",

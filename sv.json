@@ -101,11 +101,11 @@
     "chat": {
       "placeholder": "Skriv ditt meddelande...",
       "send": "Skicka",
-      "personalNote": "Personlig anteckning",
-      "personalNotes": "Personliga Anteckningar",
-      "hiddenMessage": "Dolt meddelande",
-      "neverRevealed": "visas aldrig",
-      "revealedAfterDeal": "visas efter given"
+      "personal_note": "Personlig anteckning",
+      "personal_notes": "Personliga Anteckningar",
+      "hidden_message": "Dolt meddelande",
+      "never_revealed": "visas aldrig",
+      "revealed_after_deal": "visas efter given"
     },
     "unscored_deal": {
       "contract": "Kontrakt",

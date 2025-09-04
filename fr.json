@@ -101,11 +101,11 @@
     "chat": {
       "placeholder": "Tapez votre message...",
       "send": "Envoi",
-      "personalNote": "Note personnelle",
-      "personalNotes": "Notes Personnelles",
-      "hiddenMessage": "Message caché",
-      "neverRevealed": "jamais révélé",
-      "revealedAfterDeal": "révélé après la donne"
+      "personal_note": "Note personnelle",
+      "personal_notes": "Notes Personnelles",
+      "hidden_message": "Message caché",
+      "never_revealed": "jamais révélé",
+      "revealed_after_deal": "révélé après la donne"
     },
     "unscored_deal": {
       "contract": "Contrat",
