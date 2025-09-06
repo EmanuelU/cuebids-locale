@@ -805,7 +805,7 @@
     "manage_subscription_loading": "Proszę czekać",
     "functionality_collapse_title": "Funkcje",
     "auto_next_label": "Następne rozdanie po licytacji",
-    "undo_timer_label": "Timer cofnięcia",
+    "undo_timer_label": "Timer ostatniego przejścia",
     "notifications_collapse_title": "Powiadomienia",
     "notification_devices_label": "Urządzenia do powiadomień",
     "no_notification_devices": "Nie wskazano żadnych urządzeń do powiadomień",

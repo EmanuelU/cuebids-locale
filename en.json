@@ -806,7 +806,7 @@
     "manage_subscription_loading": "Please wait",
     "functionality_collapse_title": "Functionality",
     "auto_next_label": "Auto next board after bid",
-    "undo_timer_label": "Undo timer",
+    "undo_timer_label": "Final pass timer",
     "notifications_collapse_title": "Notifications",
     "notification_devices_label": "Devices for notifications",
     "no_notification_devices": "You have no devices registered for notifications",
