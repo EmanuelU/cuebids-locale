@@ -67,6 +67,7 @@
       "join_event": "Rejoidre",
       "finished": "Fini",
       "details": "Détails",
+      "early_end": "Terminer plus tôt",
       "early_end_success": "Événement terminé avec succès",
       "early_end_error": "Quelque chose s'est mal passé lors de la fin de l'événement",
       "early_end_tooltip": "Terminer l'événement plus tôt"

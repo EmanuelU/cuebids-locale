@@ -67,6 +67,7 @@
       "join_event": "Spela tävling",
       "finished": "Avslutad",
       "details": "Detaljer",
+      "early_end": "Avsluta tidigt",
       "early_end_success": "Tävlingen avslutades framgångsrikt",
       "early_end_error": "Något gick fel när tävlingen skulle avslutas",
       "early_end_tooltip": "Avsluta tävlingen i förtid"

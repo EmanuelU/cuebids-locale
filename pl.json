@@ -67,6 +67,7 @@
       "join_event": "Dołącz",
       "finished": "Zakończone",
       "details": "Szczegóły",
+      "early_end": "Zakończ wcześnie",
       "early_end_success": "Wydarzenie zakończone pomyślnie",
       "early_end_error": "Coś poszło nie tak podczas kończenia wydarzenia",
       "early_end_tooltip": "Zakończ wydarzenie wcześnie"
