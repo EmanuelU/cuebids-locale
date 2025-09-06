@@ -99,7 +99,7 @@
       "pro": "PROFFS"
     },
     "chat": {
-      "placeholder": "Skriv ditt meddelande...",
+      "placeholder": "Ditt meddelande...",
       "send": "Skicka",
       "personal_note": "Personlig anteckning",
       "personal_notes": "Personliga Anteckningar",
@@ -488,7 +488,7 @@
     "expired_reasons": {
       "session-expired": "Sessionen har löpt ut",
       "auto-archived-old-session": "Automatiskt arkiverad på grund av inaktivitet",
-      "challenge-expired": "Utmaningen har löpt ut", 
+      "challenge-expired": "Utmaningen har löpt ut",
       "session-deleted-by-user": "Sessionen raderad av användare"
     },
     "shared_with_users": "Delad med {{users}} användare",

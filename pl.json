@@ -488,7 +488,7 @@
     "expired_reasons": {
       "session-expired": "Sesja wygasła",
       "auto-archived-old-session": "Automatycznie zarchiwizowana z powodu braku aktywności",
-      "challenge-expired": "Wyzwanie wygasło", 
+      "challenge-expired": "Wyzwanie wygasło",
       "session-deleted-by-user": "Sesja usunięta przez użytkownika"
     },
     "shared_with_users": "Udostępniono {{users}} użytkownikom",

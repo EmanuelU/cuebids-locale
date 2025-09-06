@@ -99,7 +99,7 @@
       "pro": "PRO"
     },
     "chat": {
-      "placeholder": "Tapez votre message...",
+      "placeholder": "Votre message...",
       "send": "Envoi",
       "personal_note": "Note personnelle",
       "personal_notes": "Notes Personnelles",
@@ -488,7 +488,7 @@
     "expired_reasons": {
       "session-expired": "Session expirée",
       "auto-archived-old-session": "Automatiquement archivée en raison d'inactivité",
-      "challenge-expired": "Défi expiré", 
+      "challenge-expired": "Défi expiré",
       "session-deleted-by-user": "Session supprimée par l'utilisateur"
     },
     "shared_with_users": "Partagée avec {{users}} utilisateurs",

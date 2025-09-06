@@ -99,7 +99,7 @@
       "pro": "PRO"
     },
     "chat": {
-      "placeholder": "Type your message...",
+      "placeholder": "Your message...",
       "send": "Send",
       "personal_note": "Personal note",
       "personal_notes": "Personal Notes",
@@ -488,7 +488,7 @@
     "expired_reasons": {
       "session-expired": "Session expired",
       "auto-archived-old-session": "Automatically archived due to inactivity",
-      "challenge-expired": "Challenge expired", 
+      "challenge-expired": "Challenge expired",
       "session-deleted-by-user": "Session deleted by user"
     },
     "shared_with_users": "Shared with {{users}} users",
@@ -518,8 +518,7 @@
       "info_weekly": "Even if you delete a weekly session, you will not be able to participate again this week.",
       "info_daily": "Even if you delete a daily session, you will not be able to participate again today."
     },
-    
-  
+
     "pro_badge": "PRO",
     "advanced_robots": "Advanced Robots",
     "basic_robots": "Basic Robots"
@@ -2735,7 +2734,7 @@
     "category_explanation_title": "Category Explanation",
     "rating_system_title": "Rating System",
     "rating_system_explanation": "You can see your average rating in each category. The sword icon color indicates how you compare to all other players:",
-    "legend_title": "Legend", 
+    "legend_title": "Legend",
     "legend_green": "Above average performance - you're doing better than most players in this category",
     "legend_yellow": "Below average but close - there's room for improvement",
     "legend_red": "Significantly below average (0.5+ points below) - this is a key area to focus on",
