@@ -1499,7 +1499,8 @@
     "poll_not_available": "Tworzenie ankiet jest wyłączone w wydarzeniach",
     "visit_poll": "Przejdź do ankiety",
     "contracts": "Kontrakty",
-    "stars": "Gwiazdki"
+    "stars": "Gwiazdki",
+    "divergence_text": "{{count}} out of {{total}} pros bid something else"
   },
   "contracts_modal": {
     "par_contract": "Kontrakt Par",
