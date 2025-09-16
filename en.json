@@ -1500,7 +1500,8 @@
     "poll_not_available": "Poll creation disabled in events",
     "visit_poll": "Visit poll",
     "contracts": "Contracts",
-    "stars": "Stars"
+    "stars": "Stars",
+    "divergence_text": "{{count}} out of {{total}} pros bid something else"
   },
   "contracts_modal": {
     "par_contract": "Par contract",

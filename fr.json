@@ -1499,7 +1499,8 @@
     "poll_not_available": "Création de sondage désactivée dans les événements",
     "visit_poll": "Visiter les sondages",
     "contracts": "Contrats",
-    "stars": "Etoiles"
+    "stars": "Etoiles",
+    "divergence_text": "{{count}} out of {{total}} pros bid something else"
   },
   "contracts_modal": {
     "par_contract": "Contrat par",

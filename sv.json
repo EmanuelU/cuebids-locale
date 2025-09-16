@@ -1499,7 +1499,8 @@
     "poll_not_available": "Omröstning avstängd i events",
     "visit_poll": "Besök omröstning",
     "contracts": "Kontrakt",
-    "stars": "Stjärnor"
+    "stars": "Stjärnor",
+    "divergence_text": "{{count}} utav {{total}} proffs bjöd annorlunda"
   },
   "contracts_modal": {
     "par_contract": "Par-kontrakt",
