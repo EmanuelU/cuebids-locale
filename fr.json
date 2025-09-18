@@ -867,7 +867,8 @@
       "diamond": "Carreau",
       "club": "Trèfle"
     },
-    "redeem_code_button": "Vous avez un code ? Echangez le ici"
+    "redeem_code_button": "Vous avez un code ? Echangez le ici",
+    "show_phone_friend_label": "Show Phone-a-friend"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Vérification de l’email en cours...",
