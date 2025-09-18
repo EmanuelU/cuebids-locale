@@ -1466,7 +1466,8 @@
     "waiting_for_partner": "Väntar på partner...",
     "waiting_for": "Väntar på...",
     "sure": "Är du säker?",
-    "confirm": "Bekräfta"
+    "confirm": "Bekräfta",
+    "phone_friend_info": "Osäker på vad du ska bjuda? Här är några exempel på vad andra spelare valde."
   },
   "session_deal_mock": {
     "waiting_for_partner": "Väntar på partner...",
@@ -1500,7 +1501,8 @@
     "visit_poll": "Besök omröstning",
     "contracts": "Kontrakt",
     "stars": "Stjärnor",
-    "divergence_text": "{{count}} utav {{total}} proffs bjöd annorlunda"
+    "divergence_text": "{{count}} utav {{total}} proffs bjöd annorlunda",
+    "divergence_info": "Få en överblick över vilka proffs som bjöd annorlunda än du."
   },
   "contracts_modal": {
     "par_contract": "Par-kontrakt",
