@@ -867,7 +867,8 @@
       "diamond": "Ruter",
       "club": "Klöver"
     },
-    "redeem_code_button": "Har du en kod? Lös in den här"
+    "redeem_code_button": "Har du en kod? Lös in den här",
+    "show_phone_friend_label": "Visa Ring-en-vän"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Verifiering av e\u2011post pågår...",

@@ -867,7 +867,8 @@
       "diamond": "Karo",
       "club": "Trefl"
     },
-    "redeem_code_button": "Masz kod? Odbierz go tutaj"
+    "redeem_code_button": "Masz kod? Odbierz go tutaj",
+    "show_phone_friend_label": "Show Phone-a-friend"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Weryfikacja e-maila w toku...",
