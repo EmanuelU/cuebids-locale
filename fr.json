@@ -867,7 +867,8 @@
       "diamond": "Carreau",
       "club": "Trèfle"
     },
-    "redeem_code_button": "Vous avez un code ? Echangez le ici"
+    "redeem_code_button": "Vous avez un code ? Echangez le ici",
+    "show_phone_friend_label": "Show Phone-a-friend"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Vérification de l’email en cours...",
@@ -1467,7 +1468,8 @@
     "auto_undo_offline": "Votre enchère en attente a été automatiquement annulée en raison d'une perte de connexion",
     "waiting_for": "En attente de...",
     "sure": "Etes-vous sûr ?",
-    "confirm": "Confirmer"
+    "confirm": "Confirmer",
+    "phone_friend_info": "Not sure what to bid? Here are some examples of what other players did."
   },
   "session_deal_mock": {
     "waiting_for_partner": " En attente du partenaire...",
@@ -1501,7 +1503,8 @@
     "visit_poll": "Visiter les sondages",
     "contracts": "Contrats",
     "stars": "Etoiles",
-    "divergence_text": "{{count}} out of {{total}} pros bid something else"
+    "divergence_text": "{{count}} out of {{total}} pros bid something else",
+    "divergence_info": "Quickly get an overview of which pros bid something different in your spot."
   },
   "contracts_modal": {
     "par_contract": "Contrat par",

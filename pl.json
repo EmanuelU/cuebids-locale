@@ -867,7 +867,8 @@
       "diamond": "Karo",
       "club": "Trefl"
     },
-    "redeem_code_button": "Masz kod? Odbierz go tutaj"
+    "redeem_code_button": "Masz kod? Odbierz go tutaj",
+    "show_phone_friend_label": "Show Phone-a-friend"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Weryfikacja e-maila w toku...",
@@ -1467,7 +1468,8 @@
     "waiting_for_partner": "Oczekiwanie na partnera...",
     "waiting_for": "Oczekiwanie na...",
     "sure": "Czy jesteś pewien?",
-    "confirm": "Potwierdź"
+    "confirm": "Potwierdź",
+    "phone_friend_info": "Not sure what to bid? Here are some examples of what other players did."
   },
   "session_deal_mock": {
     "waiting_for_partner": "Oczekiwanie na partnera...",
@@ -1501,7 +1503,8 @@
     "visit_poll": "Przejdź do ankiety",
     "contracts": "Kontrakty",
     "stars": "Gwiazdki",
-    "divergence_text": "{{count}} out of {{total}} pros bid something else"
+    "divergence_text": "{{count}} out of {{total}} pros bid something else",
+    "divergence_info": "Quickly get an overview of which pros bid something different in your spot."
   },
   "contracts_modal": {
     "par_contract": "Kontrakt Par",

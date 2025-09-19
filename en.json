@@ -868,7 +868,8 @@
       "diamond": "Diamond",
       "club": "Club"
     },
-    "redeem_code_button": "Have a code? Redeem here"
+    "redeem_code_button": "Have a code? Redeem here",
+    "show_phone_friend_label": "Show Phone-a-friend"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Email verification in progress...",
@@ -1468,7 +1469,8 @@
     "waiting_for_partner": "Waiting for partner...",
     "waiting_for": "Waiting for ...",
     "sure": "Are you sure?",
-    "confirm": "Confirm"
+    "confirm": "Confirm",
+    "phone_friend_info": "Not sure what to bid? Here are some examples of what other players did."
   },
   "session_deal_mock": {
     "waiting_for_partner": "Waiting for partner...",
@@ -1502,7 +1504,8 @@
     "visit_poll": "Visit poll",
     "contracts": "Contracts",
     "stars": "Stars",
-    "divergence_text": "{{count}} out of {{total}} pros bid something else"
+    "divergence_text": "{{count}} out of {{total}} pros bid something else",
+    "divergence_info": "Quickly get an overview of which pros bid something different in your spot."
   },
   "contracts_modal": {
     "par_contract": "Par contract",
