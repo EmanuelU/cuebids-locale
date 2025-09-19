@@ -1464,6 +1464,7 @@
     "undo_failed_competition": ". In competition you only have 30s to undo a bid.",
     "double_undo_confirm": "Are you sure you also want to undo your partner's last bid?",
     "not_recommended_confirm": "This is not what I would recommend. Are you sure you want to bid this?",
+    "auto_undo_offline": "Your pending bid was automatically cancelled due to connection loss",
     "waiting_for_partner": "Waiting for partner...",
     "waiting_for": "Waiting for ...",
     "sure": "Are you sure?",
