@@ -510,6 +510,12 @@
     "display_name": "",
     "display_name_placeholder": "",
     "new_spots_notifications": "",
+    "new_email_label": "",
+    "new_email_placeholder": "",
+    "change_email": "",
+    "changing_email": "",
+    "email_changed_success": "",
+    "email_change_error": "",
     "errors": {
       "display_name_too_short": "",
       "display_name_forbidden_characters": "",
@@ -744,6 +750,7 @@
     "private_apple_login": "",
     "unknown": "",
     "account": "",
+    "account_click_to_change": "",
     "account_bound": "",
     "notifications": {
       "saved": "",

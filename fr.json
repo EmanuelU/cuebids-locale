@@ -533,6 +533,12 @@
     "display_name": "Nom affiché",
     "display_name_placeholder": "Entrez un nom d’utilisateur",
     "new_spots_notifications": "Notifications pour les nouveaux sondages",
+    "new_email_label": "Nouvelle adresse e-mail",
+    "new_email_placeholder": "Entrez votre nouvelle adresse e-mail",
+    "change_email": "Changer l'e-mail",
+    "changing_email": "Changement...",
+    "email_changed_success": "E-mail de vérification envoyé à votre nouvelle adresse e-mail. Veuillez vérifier votre e-mail et cliquer sur le lien de vérification pour terminer le changement d'e-mail.",
+    "email_change_error": "Échec du changement d'adresse e-mail. Veuillez réessayer.",
     "errors": {
       "display_name_too_short": "Trop court",
       "display_name_forbidden_characters": "Caractères interdits",
@@ -771,7 +777,8 @@
     "private_apple_login": "Connexion privée Apple",
     "unknown": "Inconnu",
     "account": "Compte : {{email}}",
-    "account_bound": "Votre compte est lié à cette adresse email. Vous pouvez avoir une adresse email de contact différente, que vous pouvez définir sous 'Profil'",
+    "account_click_to_change": "Cliquez pour changer votre adresse e-mail de connexion",
+    "account_bound": "Ceci est votre adresse e-mail de connexion. Cliquez ci-dessus pour la changer. Vous pouvez définir une adresse e-mail de contact différente sous 'Profil'.",
     "notifications": {
       "saved": "Paramètres enregistrées",
       "verification_email_sent": "Email de vérification envoyé",

@@ -533,6 +533,12 @@
     "display_name": "Användarnamn",
     "display_name_placeholder": "Skriv ditt namn",
     "new_spots_notifications": "Notiser för nya problem",
+    "new_email_label": "Ny e-postadress",
+    "new_email_placeholder": "Ange din nya e-postadress",
+    "change_email": "Byt e-post",
+    "changing_email": "Byter...",
+    "email_changed_success": "Verifieringse-post skickad till din nya e-postadress. Kontrollera din e-post och klicka på verifieringslänken för att slutföra e-postbytet.",
+    "email_change_error": "Misslyckades att byta e-postadress. Försök igen.",
     "errors": {
       "display_name_too_short": "För kort",
       "display_name_forbidden_characters": "Otillåtna tecken",
@@ -771,7 +777,8 @@
     "private_apple_login": "Privat Apple-login",
     "unknown": "Okänd",
     "account": "Konto: {{email}}",
-    "account_bound": "Kontot är bundet till denna e\u2011postadress. Om du behöver byta, kontakta supporten.",
+    "account_click_to_change": "Klicka för att byta din inloggningse-post",
+    "account_bound": "Detta är din inloggningse-postadress. Klicka ovan för att byta den. Du kan ställa in en annan kontakte-post under 'Profil'.",
     "notifications": {
       "saved": "Inställningar sparade",
       "verification_email_sent": "Bekräftelsemail skickat",

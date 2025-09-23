@@ -534,6 +534,12 @@
     "display_name": "Display name",
     "display_name_placeholder": "Enter a user name",
     "new_spots_notifications": "Notifications for new polls",
+    "new_email_label": "New email address",
+    "new_email_placeholder": "Enter your new email address",
+    "change_email": "Change Email",
+    "changing_email": "Changing...",
+    "email_changed_success": "Verification email sent to your new email address. Please check your email and click the verification link to complete the email change.",
+    "email_change_error": "Failed to change email address. Please try again.",
     "errors": {
       "display_name_too_short": "Too short",
       "display_name_forbidden_characters": "Forbidden characters",
@@ -772,7 +778,8 @@
     "private_apple_login": "Private Apple login",
     "unknown": "Unknown",
     "account": "Account: {{email}}",
-    "account_bound": "Your account is bound to this email address. You can have a different contact email, which you can set under 'Profile'",
+    "account_click_to_change": "Click to change your login email address",
+    "account_bound": "This is your login email address. Click above to change it. You can set a different contact email under 'Profile'.",
     "notifications": {
       "saved": "Settings saved",
       "verification_email_sent": "Verification email sent",

@@ -533,6 +533,12 @@
     "display_name": "Nazwa użytkownika",
     "display_name_placeholder": "Wpisz nazwę użytkownika",
     "new_spots_notifications": "Powiadomienia o nowych ankietach",
+    "new_email_label": "Nowy adres e-mail",
+    "new_email_placeholder": "Wprowadź nowy adres e-mail",
+    "change_email": "Zmień e-mail",
+    "changing_email": "Zmieniam...",
+    "email_changed_success": "E-mail weryfikacyjny został wysłany na nowy adres e-mail. Sprawdź swoją skrzynkę i kliknij link weryfikacyjny, aby zakończyć zmianę adresu e-mail.",
+    "email_change_error": "Nie udało się zmienić adresu e-mail. Spróbuj ponownie.",
     "errors": {
       "display_name_too_short": "Za krótka nazwa użytkownika",
       "display_name_forbidden_characters": "Zabronione znaki w nazwie",
@@ -771,7 +777,8 @@
     "private_apple_login": "Prywatne logowanie Apple",
     "unknown": "Nieznane",
     "account": "Konto: {{email}}",
-    "account_bound": "Twoje konto jest powiązane z tym adresem e-mail. Możesz mieć inny kontaktowy adres e-mail, który możesz ustawić w sekcji 'Profil'",
+    "account_click_to_change": "Kliknij, aby zmienić adres e-mail logowania",
+    "account_bound": "To jest twój adres e-mail do logowania. Kliknij powyżej, aby go zmienić. Możesz ustawić inny kontaktowy adres e-mail w sekcji 'Profil'.",
     "notifications": {
       "saved": "Ustawienia zapisane",
       "verification_email_sent": "E-mail weryfikacyjny wysłany",
