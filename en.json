@@ -125,7 +125,9 @@
     },
     "select_friend_dropdown": {
       "not_mutual_error": "Could not select this user, not mutual friends.",
-      "no_matches": "No friends match filter..."
+      "no_matches": "No friends match filter...",
+      "disabled": "Disabled",
+      "invite_only": "Invite only"
     },
     "error_boundary": {
       "info_1": "An error occurred, please try again. If the error persists you can reach us on ",
@@ -2471,12 +2473,14 @@
   "events": {
     "partner": "Partner",
     "progress": "Progress",
+    "warning_partner_requires_invite": "Your partner requires an invite to join events with you",
     "error_cannot_afford": "You cannot afford to play",
     "error_partner_cannot_afford": "Your partner cannot afford to play",
     "error_already_playing": "You are already playing",
     "error_partner_already_playing": "Your partner is already playing",
     "error_already_playing_together": "You and your partner are already playing together",
     "error_joining_events_disabled": "Your partner has disabled you from spending their tickets and joining events",
+    "error_ticket_usage_disabled": "Your partner has disabled you from spending their tickets",
     "error_invite_not_for_you": "This invite is not for you",
     "error_invite_expired": "This invite has expired"
   },
@@ -2545,6 +2549,16 @@
     "toggle_tickets_dialog_confirm": "Confirm",
     "enable_tickets_dialog_info": "Enable your friend to spend your tickets and join events and ranked challenges with you as partner.",
     "disable_tickets_dialog_info": "Your friend will not be able to spend your tickets or join events or ranked challenges with you as partner.",
+    "friend_permissions_dialog_title": "Friend Permissions",
+    "friend_permissions_allow_all": "Allow all",
+    "friend_permissions_allow_all_desc": "Friend can join events and spend your tickets without approval",
+    "friend_permissions_allow_tickets_invite_events": "Practice + invite events",
+    "friend_permissions_allow_tickets_invite_events_desc": "Can start practice sessions and challenges that might use tickets, but must invite you to events",
+    "friend_permissions_allow_events_no_tickets": "Invite events only",
+    "friend_permissions_allow_events_no_tickets_desc": "Friend can invite you to events, but cannot spend your tickets",
+    "friend_permissions_disallow_all": "Disallow all",
+    "friend_permissions_disallow_all_desc": "Friend cannot use your tickets or invite you to events",
+    "friend_permissions_confirm": "Set Permissions",
     "no_friends_added_info": "You have not added any friends yet. Click here to add friends.",
     "all_friends_blocked_info": "You have blocked all your friends. You can unblock them if you Show blocked. Click here to Show blocked.",
     "pending_requests_info": "You have pending friend requests to accept",
