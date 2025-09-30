@@ -1,5 +1,7 @@
 import englishJson from './en.json' with { type: 'json' }
 import polishJson from './pl.json' with { type: 'json' }
+import swedishJson from './sv.json' with { type: 'json' }
+import frenchJson from './fr.json' with { type: 'json' }
 
 function getAllKeys(languageJson, path = []) {
   return Object.keys(languageJson).reduce(function (acc, k) {
@@ -41,4 +43,9 @@ function compareLanguageObjects(json1, json2) {
   return true
 }
 
+compareLanguageObjects(englishJson, swedishJson)
 compareLanguageObjects(englishJson, polishJson)
+compareLanguageObjects(englishJson, frenchJson)
+compareLanguageObjects(swedishJson, polishJson)
+compareLanguageObjects(swedishJson, frenchJson)
+compareLanguageObjects(polishJson, frenchJson)

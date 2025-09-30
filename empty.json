@@ -109,7 +109,10 @@
     },
     "select_friend_dropdown": {
       "not_mutual_error": "",
-      "no_matches": ""
+      "no_matches": "",
+      "disabled": "",
+      "invite_only": "",
+      "disabled_tooltip": ""
     },
     "error_boundary": {
       "info_1": "",
@@ -854,7 +857,8 @@
     "latest_challenge": "",
     "account_removal_warning": "",
     "subscribed_claim_pending": "",
-    "invited_to_group_event": "",
+    "invited_to_event": "",
+    "pending_invite_to": "",
     "you_are": "",
     "somebody_is": "",
     "looking_for_challenge": "",
@@ -2377,32 +2381,7 @@
     "google_play_alt_text": "",
     "prefer_web": ""
   },
-  "daily_leaderboard": {
-    "continue": "",
-    "completed": "",
-    "to_start": "",
-    "friends": "",
-    "your_position": "",
-    "participants": "",
-    "leaderboard_minimum": "",
-    "leaderboard_title": ""
-  },
-  "join_daily": {
-    "join_error": "",
-    "headline": "",
-    "description": "",
-    "partner_label": "",
-    "lia_sub_error": "",
-    "fair_play_info": "",
-    "already_participating_error": "",
-    "partner_participating_error": "",
-    "banned_error": "",
-    "partner_banned_error": "",
-    "join_daily_submit": "",
-    "price_dialog_title": "",
-    "price_dialog_submit": ""
-  },
-  "weekly_leaderboard": {
+  "event_leaderboard": {
     "continue": "",
     "completed": "",
     "to_start": "",
@@ -2411,25 +2390,25 @@
     "your_position": "",
     "leaderboard_minimum": "",
     "leaderboard_title": ""
-  },
-  "join_weekly": {
-    "join_error": "",
-    "headline": "",
-    "description": "",
-    "partner_label": "",
-    "lia_sub_error": "",
-    "fair_play_info": "",
-    "already_participating_error": "",
-    "partner_participating_error": "",
-    "banned_error": "",
-    "partner_banned_error": "",
-    "join_weekly_submit": "",
-    "price_dialog_title": "",
-    "price_dialog_submit": ""
   },
   "events": {
     "partner": "",
     "progress": "",
+    "warning_partner_requires_invite": "",
+    "join_error": "",
+    "weekly_headline": "",
+    "daily_headline": "",
+    "description": "",
+    "partner_label": "",
+    "lia_sub_error": "",
+    "already_participating_error": "",
+    "partner_participating_error": "",
+    "banned_error": "",
+    "partner_banned_error": "",
+    "invite_sent": "",
+    "join_submit": "",
+    "price_dialog_title": "",
+    "price_dialog_submit": "",
     "error_cannot_afford": "",
     "error_partner_cannot_afford": "",
     "error_already_playing": "",
