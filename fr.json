@@ -2491,7 +2491,8 @@
     "error_joining_events_disabled": "Votre partenaire a désactivé votre possibilité de dépenser ses tickets et de participer à des événements",
     "error_ticket_usage_disabled": "Votre partenaire a désactivé votre possibilité de dépenser ses tickets",
     "error_invite_not_for_you": "Cette invitation n’est pas pour vous",
-    "error_invite_expired": "Cette invitation est expirée"
+    "error_invite_expired": "Cette invitation est expirée",
+    "error_event_ended": "Cet événement est déjà terminé"
   },
   "add_friend": {
     "link_error": "Vous devez plutôt envoyer ce lien à votre ami.",

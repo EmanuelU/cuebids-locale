@@ -2491,7 +2491,8 @@
     "error_joining_events_disabled": "Twój partner wyłączył ci możliwość wydawania jego biletów i dołączania do wydarzeń",
     "error_ticket_usage_disabled": "Twój partner wyłączył ci możliwość wydawania jego biletów",
     "error_invite_not_for_you": "To zaproszenie nie jest dla ciebie",
-    "error_invite_expired": "To zaproszenie wygasło"
+    "error_invite_expired": "To zaproszenie wygasło",
+    "error_event_ended": "To wydarzenie już się zakończyło"
   },
   "add_friend": {
     "link_error": "Musisz wysłać ten link swojemu znajomemu, a nie sobie.",

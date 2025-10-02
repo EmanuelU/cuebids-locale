@@ -2491,7 +2491,8 @@
     "error_joining_events_disabled": "Din partner har stängt av dig från att spendera deras biljetter och gå med i event",
     "error_ticket_usage_disabled": "Din partner har stängt av dig från att spendera deras biljetter",
     "error_invite_not_for_you": "Den här inbjudan är inte till dig",
-    "error_invite_expired": "Den här inbjudan har gått ut"
+    "error_invite_expired": "Den här inbjudan har gått ut",
+    "error_event_ended": "Det här eventet har redan avslutats"
   },
   "add_friend": {
     "link_error": "Du ska skicka länken till din vän istället.",
