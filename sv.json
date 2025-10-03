@@ -2468,7 +2468,10 @@
   "events": {
     "partner": "Partner",
     "progress": "Framsteg",
+    "received_invites": "Mottagna inbjudningar",
+    "sent_invites": "Skickade inbjudningar",
     "warning_partner_requires_invite": "Din partner kräver en inbjudan för att gå med i tävlingar",
+    "pending_invite_error": "Du har en väntande inbjudan för denna tävling. Acceptera eller avböj den innan du går med någon annan.",
     "join_error": "Ett fel uppstod med att gå med i tävling {{error}}",
     "weekly_headline": "Veckans tävling",
     "daily_headline": "Dagens tävling",

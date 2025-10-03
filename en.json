@@ -2469,7 +2469,10 @@
   "events": {
     "partner": "Partner",
     "progress": "Progress",
+    "received_invites": "Received invites",
+    "sent_invites": "Sent invites",
     "warning_partner_requires_invite": "Your partner requires an invite to join events with you",
+    "pending_invite_error": "You have a pending invite for this event. Accept or decline it before joining with someone else.",
     "join_error": "Error when joining event {{error}}",
     "weekly_headline": "Weekly event",
     "daily_headline": "Daily event",

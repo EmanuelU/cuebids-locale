@@ -2468,7 +2468,10 @@
   "events": {
     "partner": "Partenaire",
     "progress": "En cours",
+    "received_invites": "Invitations reçues",
+    "sent_invites": "Invitations envoyées",
     "warning_partner_requires_invite": "Votre partenaire nécessite une invitation pour rejoindre des événements avec vous",
+    "pending_invite_error": "Vous avez une invitation en attente pour cet événement. Acceptez-la ou refusez-la avant de rejoindre avec quelqu'un d'autre.",
     "join_error": "Error when joining event {{error}}",
     "weekly_headline": "Evénement hebdomadaire",
     "daily_headline": "Evénement quotidien",

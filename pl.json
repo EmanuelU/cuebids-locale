@@ -2468,7 +2468,10 @@
   "events": {
     "partner": "Partner",
     "progress": "Postęp",
+    "received_invites": "Otrzymane zaproszenia",
+    "sent_invites": "Wysłane zaproszenia",
     "warning_partner_requires_invite": "Twój partner wymaga zaproszenia, aby dołączyć do wydarzeń z tobą",
+    "pending_invite_error": "Masz oczekujące zaproszenie na to wydarzenie. Zaakceptuj je lub odrzuć przed dołączeniem z kimś innym.",
     "join_error": "Błąd podczas dołączania do wydarzenia {{error}}",
     "daily_headline": "Dniówka",
     "weekly_headline": "Tygodniówka",
