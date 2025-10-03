@@ -113,7 +113,7 @@
   "hcp_number": "{{hcp_number}} HP",
   "max_diff_between_suits": "Max {{max_difference}} skillnad i längd mellan {{suit_with_difference_1}} och {{suit_with_difference_2}}",
   "max_key_cards": "Max {{number}} nyckelkort",
-  "max_keys_aces_kq_trump": "Max {number_of_keys} kort av ess + K/D i trumf",
+  "max_keys_aces_kq_trump": "Max {{number_of_keys}} kort av ess + K/D i trumf",
   "max_range": "Maximum",
   "michael_cuebid_5_5": "Michael Cuebid - 5 {{known_suit_1}} och 5 {{known_suit_2}}",
   "michael_cuebid_5_unknown": "Michael Cuebid - 5 {{known_suit}} och 5{{unknown_suit_1}} eller {{unknown_suit_2}}",
