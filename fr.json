@@ -2197,7 +2197,7 @@
       "robots": "Robots : ",
       "dialog": {
         "title": "Paramètres du scénario",
-        "flip_label": "Pivoter la donne au hasard (0 ou 180\u00B0)",
+        "flip_label": "Pivoter la donne au hasard (0 ou 180°)",
         "dealer_label": "Donneur",
         "vul_label": "Vulnérabilité",
         "robots_label": "Robots",
@@ -2449,7 +2449,7 @@
   },
   "apps": {
     "apps_title": "Téléchargez l’application",
-    "apps_p1": "On dirait que vous êtes sur un appareil mobile \uD83D\uDCF1",
+    "apps_p1": "On dirait que vous êtes sur un appareil mobile 📱",
     "apps_p2": "Téléchargez l’application pour obtenir le maximum de Cuebids !",
     "app_store_alt_text": "Cuebids sur l’App Store Apple",
     "google_play_alt_text": "Cuebids sur le Play Store Google",
@@ -2495,7 +2495,8 @@
     "error_ticket_usage_disabled": "Votre partenaire a désactivé votre possibilité de dépenser ses tickets",
     "error_invite_not_for_you": "Cette invitation n’est pas pour vous",
     "error_invite_expired": "Cette invitation est expirée",
-    "error_event_ended": "Cet événement est déjà terminé"
+    "error_event_ended": "Cet événement est déjà terminé",
+    "error_friend_invites_disabled": "Votre ami a désactivé la réception d'invitations aux événements"
   },
   "add_friend": {
     "link_error": "Vous devez plutôt envoyer ce lien à votre ami.",

@@ -2440,6 +2440,7 @@
     "error_already_playing_together": "",
     "error_joining_events_disabled": "",
     "error_ticket_usage_disabled": "",
+    "error_friend_invites_disabled": "",
     "error_invite_not_for_you": "",
     "error_invite_expired": ""
   },

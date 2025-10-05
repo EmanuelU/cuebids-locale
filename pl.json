@@ -2493,6 +2493,7 @@
     "error_already_playing_together": "Ty i twój partner już gracie razem",
     "error_joining_events_disabled": "Twój partner wyłączył ci możliwość wydawania jego biletów i dołączania do wydarzeń",
     "error_ticket_usage_disabled": "Twój partner wyłączył ci możliwość wydawania jego biletów",
+    "error_friend_invites_disabled": "Twój znajomy wyłączył otrzymywanie zaproszeń do wydarzeń",
     "error_invite_not_for_you": "To zaproszenie nie jest dla ciebie",
     "error_invite_expired": "To zaproszenie wygasło",
     "error_event_ended": "To wydarzenie już się zakończyło"

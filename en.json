@@ -2494,6 +2494,7 @@
     "error_already_playing_together": "You and your partner are already playing together",
     "error_joining_events_disabled": "Your partner has disabled you from spending their tickets and joining events",
     "error_ticket_usage_disabled": "Your partner has disabled you from spending their tickets",
+    "error_friend_invites_disabled": "Your friend has disabled receiving event invites",
     "error_invite_not_for_you": "This invite is not for you",
     "error_invite_expired": "This invite has expired",
     "error_event_ended": "This event has already ended"
