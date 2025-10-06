@@ -808,6 +808,8 @@
     "email_verified": "Email address verified",
     "email_not_verified": "Email address not verified - check your inbox for verification email",
     "email_verification_pending": "Email change to {{email}} pending verification - check your new email inbox",
+    "send_verification_again": "Send verification email again",
+    "add_email_for_communication": "Please change your email address to receive communication from Cuebids",
     "newsletter_label": "Newsletter",
     "current_password_label": "Current password",
     "current_password_placeholder": "Enter your current password",

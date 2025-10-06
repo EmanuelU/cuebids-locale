@@ -820,6 +820,8 @@
     "email_verified": "Adresse e-mail vérifiée",
     "email_not_verified": "Adresse e-mail non vérifiée - vérifiez votre boîte de réception pour l'e-mail de vérification",
     "email_verification_pending": "Changement d'e-mail vers {{email}} en attente de vérification - vérifiez votre nouvelle boîte de réception",
+    "send_verification_again": "Renvoyer l'e-mail de vérification",
+    "add_email_for_communication": "Veuillez modifier votre adresse e-mail pour recevoir les communications de Cuebids",
     "newsletter_label": "Newsletter",
     "newsletter_confirm_sent_short": "E-mail de vérification envoyé",
     "newsletter_started_short": "Envoi de l'e-mail de vérification",

@@ -820,6 +820,8 @@
     "email_verified": "Adres e-mail zweryfikowany",
     "email_not_verified": "Adres e-mail nie zweryfikowany - sprawdź skrzynkę odbiorczą w poszukiwaniu e-maila weryfikacyjnego",
     "email_verification_pending": "Zmiana e-maila na {{email}} oczekuje na weryfikację - sprawdź nową skrzynkę e-mail",
+    "send_verification_again": "Wyślij e-mail weryfikacyjny ponownie",
+    "add_email_for_communication": "Proszę zmienić swój adres e-mail, aby otrzymywać komunikaty od Cuebids",
     "newsletter_label": "Newsletter",
     "newsletter_confirm_sent_short": "E-mail weryfikacyjny wysłany",
     "newsletter_started_short": "Wysyłanie e-maila weryfikacyjnego",
