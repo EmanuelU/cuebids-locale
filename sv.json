@@ -357,6 +357,18 @@
       "reason": "Motivering",
       "bid": "Bud"
     },
+    "validation": {
+      "text_too_short": "Texten är för kort",
+      "text_too_long": "Texten är för lång",
+      "urls_not_allowed": "Länkar är inte tillåtna",
+      "emails_not_allowed": "E-postadresser är inte tillåtna",
+      "excessive_repetition": "Överdriven teckenupprepning upptäckt",
+      "too_many_numbers": "Texten innehåller för många siffror",
+      "phone_numbers_not_allowed": "Telefonnummer är inte tillåtna",
+      "text_nonsensical": "Texten verkar vara meningslös",
+      "excessive_capitalization": "Överdriven användning av versaler upptäckt",
+      "spam_detected": "Innehållet verkar vara spam eller olämpligt"
+    },
     "warnings": {
       "too_many_cards": "För många kort",
       "too_few_cards": "För få kort",

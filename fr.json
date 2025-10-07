@@ -357,6 +357,18 @@
       "reason": "Raisonnement",
       "bid": "Enchère"
     },
+    "validation": {
+      "text_too_short": "Le texte est trop court",
+      "text_too_long": "Le texte est trop long",
+      "urls_not_allowed": "Les URL et liens ne sont pas autorisés",
+      "emails_not_allowed": "Les adresses e-mail ne sont pas autorisées",
+      "excessive_repetition": "Répétition excessive de caractères détectée",
+      "too_many_numbers": "Le texte contient trop de chiffres",
+      "phone_numbers_not_allowed": "Les numéros de téléphone ne sont pas autorisés",
+      "text_nonsensical": "Le texte semble être absurde",
+      "excessive_capitalization": "Majuscules excessives détectées",
+      "spam_detected": "Le contenu semble être du spam ou inapproprié"
+    },
     "warnings": {
       "too_many_cards": "Trop de cartes",
       "too_few_cards": "Pas assez de cartes",

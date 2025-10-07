@@ -357,6 +357,18 @@
       "reason": "Reasoning",
       "bid": "Bid"
     },
+    "validation": {
+      "text_too_short": "Text is too short",
+      "text_too_long": "Text is too long",
+      "urls_not_allowed": "URLs and links are not allowed",
+      "emails_not_allowed": "Email addresses are not allowed",
+      "excessive_repetition": "Excessive character repetition detected",
+      "too_many_numbers": "Text contains too many numbers",
+      "phone_numbers_not_allowed": "Phone numbers are not allowed",
+      "text_nonsensical": "Text appears to be nonsensical",
+      "excessive_capitalization": "Excessive capitalization detected",
+      "spam_detected": "Content appears to be spam or inappropriate"
+    },
     "warnings": {
       "too_many_cards": "Too many cards",
       "too_few_cards": "Too few cards",

@@ -357,6 +357,18 @@
       "reason": "Wytłumaczenie",
       "bid": "Odzywka"
     },
+    "validation": {
+      "text_too_short": "Tekst jest za krótki",
+      "text_too_long": "Tekst jest za długi",
+      "urls_not_allowed": "Linki i adresy URL są niedozwolone",
+      "emails_not_allowed": "Adresy e-mail są niedozwolone",
+      "excessive_repetition": "Wykryto nadmierne powtarzanie znaków",
+      "too_many_numbers": "Tekst zawiera zbyt wiele cyfr",
+      "phone_numbers_not_allowed": "Numery telefonów są niedozwolone",
+      "text_nonsensical": "Tekst wydaje się być bezsensowny",
+      "excessive_capitalization": "Wykryto nadmierne użycie wielkich liter",
+      "spam_detected": "Treść wydaje się być spamem lub niewłaściwa"
+    },
     "warnings": {
       "too_many_cards": "Za dużo kart",
       "too_few_cards": "Za mało kart",

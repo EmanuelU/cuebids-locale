@@ -340,6 +340,18 @@
       "reason": "",
       "bid": ""
     },
+    "validation": {
+      "text_too_short": "",
+      "text_too_long": "",
+      "urls_not_allowed": "",
+      "emails_not_allowed": "",
+      "excessive_repetition": "",
+      "too_many_numbers": "",
+      "phone_numbers_not_allowed": "",
+      "text_nonsensical": "",
+      "excessive_capitalization": "",
+      "spam_detected": ""
+    },
     "warnings": {
       "too_many_cards": "",
       "too_few_cards": "",
