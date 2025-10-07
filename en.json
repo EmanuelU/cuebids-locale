@@ -798,6 +798,9 @@
       "saved": "Settings saved",
       "verification_email_sent": "Verification email sent",
       "something_went_wrong": "Something went wrong.",
+      "invalid_email": "Invalid email address",
+      "unauthenticated": "You must be logged in",
+      "too_many_attempts": "Too many attempts, please try again later",
       "reward_claimed": "Reward claimed"
     },
     "display_name": "Display name",

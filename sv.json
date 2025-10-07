@@ -797,6 +797,9 @@
       "saved": "Inställningar sparade",
       "verification_email_sent": "Bekräftelsemail skickat",
       "something_went_wrong": "Något gick fel.",
+      "invalid_email": "Ogiltig e-postadress",
+      "unauthenticated": "Du måste vara inloggad",
+      "too_many_attempts": "För många försök, försök igen senare",
       "reward_claimed": "Belöning hämtad"
     },
     "display_name": "Användarnamn",

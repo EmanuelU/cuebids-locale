@@ -795,6 +795,9 @@
       "saved": "",
       "verification_email_sent": "",
       "something_went_wrong": "",
+      "invalid_email": "",
+      "cf_unauthenticated": "",
+      "cf_too_many_attempts": "",
       "reward_claimed": ""
     },
     "display_name": "",

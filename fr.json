@@ -793,6 +793,9 @@
       "saved": "Paramètres enregistrées",
       "verification_email_sent": "Email de vérification envoyé",
       "something_went_wrong": " Quelque chose s'est mal passé.",
+      "invalid_email": "Adresse e-mail invalide",
+      "unauthenticated": "Vous devez être connecté",
+      "too_many_attempts": "Trop de tentatives, veuillez réessayer plus tard",
       "reward_claimed": "Récompense réclamée"
     },
     "display_name": "Nom affiché",

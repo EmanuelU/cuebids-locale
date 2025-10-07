@@ -793,6 +793,9 @@
       "saved": "Ustawienia zapisane",
       "verification_email_sent": "E-mail weryfikacyjny wysłany",
       "something_went_wrong": "Coś poszło nie tak.",
+      "invalid_email": "Nieprawidłowy adres e-mail",
+      "unauthenticated": "Musisz być zalogowany",
+      "too_many_attempts": "Zbyt wiele prób, spróbuj ponownie później",
       "reward_claimed": "Nagroda odebrana"
     },
     "display_name": "Publiczna nazwa",
