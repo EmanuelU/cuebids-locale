@@ -2493,7 +2493,7 @@
     "join_error": "Error when joining event {{error}}",
     "weekly_headline": "Weekly event",
     "daily_headline": "Daily event",
-    "description": "Play {{count}} boards in one week with advanced robots",
+    "description": "Play {{count}} boards with advanced robots",
     "partner_label": "Partner",
     "lia_sub_error": "You need a Diamond subscription to play with Lia in the event.",
     "already_participating_error": "You are already participating in this event.",
