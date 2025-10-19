@@ -1572,7 +1572,9 @@
     "contracts": "Kontrakt",
     "stars": "Stjärnor",
     "divergence_text": "{{count}} utav {{total}} proffs bjöd annorlunda",
-    "divergence_info": "Få en överblick över vilka proffs som bjöd annorlunda än du."
+    "divergence_info": "Få en överblick över vilka proffs som bjöd annorlunda än du.",
+    "divergence_title": "Budavvikelse",
+    "divergence_settings": "Du kan stänga av detta i Inställningar."
   },
   "contracts_modal": {
     "par_contract": "Par-kontrakt",

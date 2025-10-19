@@ -1572,7 +1572,9 @@
     "contracts": "Contrats",
     "stars": "Etoiles",
     "divergence_text": "{{count}} out of {{total}} pros bid something else",
-    "divergence_info": "Quickly get an overview of which pros bid something different in your spot."
+    "divergence_info": "Quickly get an overview of which pros bid something different in your spot.",
+    "divergence_title": "Divergence des enchères",
+    "divergence_settings": "Vous pouvez désactiver cela dans les Paramètres."
   },
   "contracts_modal": {
     "par_contract": "Contrat par",

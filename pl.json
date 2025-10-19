@@ -1572,7 +1572,9 @@
     "contracts": "Kontrakty",
     "stars": "Gwiazdki",
     "divergence_text": "{{count}} out of {{total}} pros bid something else",
-    "divergence_info": "Quickly get an overview of which pros bid something different in your spot."
+    "divergence_info": "Quickly get an overview of which pros bid something different in your spot.",
+    "divergence_title": "Rozbieżność w licytacji",
+    "divergence_settings": "Możesz wyłączyć to w Ustawieniach."
   },
   "contracts_modal": {
     "par_contract": "Kontrakt Par",

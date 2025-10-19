@@ -1573,7 +1573,9 @@
     "contracts": "Contracts",
     "stars": "Stars",
     "divergence_text": "{{count}} out of {{total}} pros bid something else",
-    "divergence_info": "Quickly get an overview of which pros bid something different in your spot."
+    "divergence_info": "Quickly get an overview of which pros bid something different in your spot.",
+    "divergence_title": "Bidding divergence",
+    "divergence_settings": "You can turn this off in Settings."
   },
   "contracts_modal": {
     "par_contract": "Par contract",
