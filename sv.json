@@ -929,7 +929,10 @@
       "club": "Klöver"
     },
     "redeem_code_button": "Har du en kod? Lös in den här",
-    "show_phone_friend_label": "Visa Ring-en-vän"
+    "show_phone_friend_label": "Visa budhjälp",
+    "show_phone_friend_desc": "I övningsläge, få tips från Lia och se vad professionella spelare budade i samma situation.",
+    "show_bidding_divergence_label": "Visa avvikelser i budgivning",
+    "show_bidding_divergence_desc": "Markerar bud som skiljer sig från vad majoriteten av proffs gjorde i samma situation. Gul ram: minst 30% av proffs valde något annat. Röd ram: 60% eller fler valde annorlunda."
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Verifiering av e\u2011post pågår...",
@@ -1521,6 +1524,7 @@
   "session_deal": {
     "alert": "Alert",
     "alert_placeholder": "Artificiellt",
+    "bidding_help": "Hjälp",
     "undo": "Ångra",
     "undo_failed": "Ångra misslyckades.",
     "undo_failed_competition": ". I tävling har du endast 30 sekunder på dig.",
@@ -1531,7 +1535,9 @@
     "waiting_for": "Väntar på...",
     "sure": "Är du säker?",
     "confirm": "Bekräfta",
-    "phone_friend_info": "Osäker på vad du ska bjuda? Här är några exempel på vad andra spelare valde."
+    "phone_friend_info": "Osäker på vad du ska bjuda? Här är några exempel på vad andra spelare valde.",
+    "bidding_help_title": "Budhjälp",
+    "bidding_help_settings": "Du kan stänga av detta i Inställningar."
   },
   "session_deal_mock": {
     "waiting_for_partner": "Väntar på partner...",

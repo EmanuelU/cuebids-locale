@@ -929,7 +929,10 @@
       "club": "Trèfle"
     },
     "redeem_code_button": "Vous avez un code ? Echangez le ici",
-    "show_phone_friend_label": "Show Phone-a-friend"
+    "show_phone_friend_label": "Afficher l'aide aux enchères",
+    "show_phone_friend_desc": "En mode pratique, obtenez des conseils de Lia et voyez ce que les joueurs professionnels ont enchéri dans la même situation.",
+    "show_bidding_divergence_label": "Afficher les conseils de divergence d'enchères",
+    "show_bidding_divergence_desc": "Met en évidence les enchères qui diffèrent de ce que la majorité des professionnels ont fait dans la même situation. Bordure jaune : au moins 30% des professionnels ont choisi quelque chose de différent. Bordure rouge : 60% ou plus ont choisi différemment."
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Vérification de l’email en cours...",
@@ -1521,6 +1524,7 @@
   "session_deal": {
     "alert": "Alert",
     "alert_placeholder": "Artificiel",
+    "bidding_help": "Aide",
     "undo": "Annuler",
     "undo_failed": "Echec de l’annulation",
     "undo_failed_competition": ". En compétition, vous avez seulement 30 secondes pour annuler votre enchère.",
@@ -1531,7 +1535,9 @@
     "waiting_for": "En attente de...",
     "sure": "Etes-vous sûr ?",
     "confirm": "Confirmer",
-    "phone_friend_info": "Not sure what to bid? Here are some examples of what other players did."
+    "phone_friend_info": "Not sure what to bid? Here are some examples of what other players did.",
+    "bidding_help_title": "Aide aux enchères",
+    "bidding_help_settings": "Vous pouvez désactiver cela dans les Paramètres."
   },
   "session_deal_mock": {
     "waiting_for_partner": " En attente du partenaire...",

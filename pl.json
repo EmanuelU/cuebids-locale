@@ -929,7 +929,10 @@
       "club": "Trefl"
     },
     "redeem_code_button": "Masz kod? Odbierz go tutaj",
-    "show_phone_friend_label": "Show Phone-a-friend"
+    "show_phone_friend_label": "Pokaż pomoc w licytacji",
+    "show_phone_friend_desc": "W trybie ćwiczeń otrzymuj wskazówki od Lia i zobacz, co licytowali profesjonalni gracze w tej samej sytuacji.",
+    "show_bidding_divergence_label": "Pokaż wskazówki dotyczące rozbieżności w licytacji",
+    "show_bidding_divergence_desc": "Podkreśla licytacje, które różniły się od tego, co większość profesjonalistów zrobiła w tej samej sytuacji. Żółta ramka: co najmniej 30% profesjonalistów wybrało coś innego. Czerwona ramka: 60% lub więcej wybrało inaczej."
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Weryfikacja e-maila w toku...",
@@ -1521,6 +1524,7 @@
   "session_deal": {
     "alert": "Alert",
     "alert_placeholder": "Sztuczne",
+    "bidding_help": "Pomoc",
     "undo": "Cofnij",
     "undo_failed": "Cofnięcie nie powiodło się",
     "undo_failed_competition": "W grach rankingowych masz tylko 30 sekund na cofnięcie odzywki.",
@@ -1531,7 +1535,9 @@
     "waiting_for": "Oczekiwanie na...",
     "sure": "Czy jesteś pewien?",
     "confirm": "Potwierdź",
-    "phone_friend_info": "Not sure what to bid? Here are some examples of what other players did."
+    "phone_friend_info": "Not sure what to bid? Here are some examples of what other players did.",
+    "bidding_help_title": "Pomoc w licytacji",
+    "bidding_help_settings": "Możesz wyłączyć to w Ustawieniach."
   },
   "session_deal_mock": {
     "waiting_for_partner": "Oczekiwanie na partnera...",

@@ -930,7 +930,10 @@
       "club": "Club"
     },
     "redeem_code_button": "Have a code? Redeem here",
-    "show_phone_friend_label": "Show Phone-a-friend"
+    "show_phone_friend_label": "Show bidding help",
+    "show_phone_friend_desc": "In practice mode, get tips from Lia and see what professional players bid in the same situation.",
+    "show_bidding_divergence_label": "Show bidding divergence tips",
+    "show_bidding_divergence_desc": "Highlights bids that differed from what the majority of pros did in the same spot. Yellow border: at least 30% of pros chose something different. Red border: 60% or more chose differently."
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Email verification in progress...",
@@ -1522,6 +1525,7 @@
   "session_deal": {
     "alert": "Alert",
     "alert_placeholder": "Artificial",
+    "bidding_help": "Help",
     "undo": "Undo",
     "undo_failed": "Undo failed",
     "undo_failed_competition": ". In competition you only have 30s to undo a bid.",
@@ -1532,7 +1536,9 @@
     "waiting_for": "Waiting for ...",
     "sure": "Are you sure?",
     "confirm": "Confirm",
-    "phone_friend_info": "Not sure what to bid? Here are some examples of what other players did."
+    "phone_friend_info": "Not sure what to bid? Here are some examples of what other players did.",
+    "bidding_help_title": "Bidding help",
+    "bidding_help_settings": "You can turn this off in Settings."
   },
   "session_deal_mock": {
     "waiting_for_partner": "Waiting for partner...",
