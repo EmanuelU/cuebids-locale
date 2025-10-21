@@ -2640,6 +2640,7 @@
   },
   "achievements": {
     "stars": "{{count}} stars completed!",
+    "acbl_achievement": "Cuebids ACBL achievement completed!",
     "newsletter": "Newsletter signed up!",
     "error_not_completed": "Achievement has not been completed!",
     "error_already_claimed": "Achievement reward has already been claimed!"
