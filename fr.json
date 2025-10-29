@@ -2639,7 +2639,8 @@
   },
   "achievements": {
     "stars": "{{count}} étoiles complétées!",
-    "acbl_achievement": "Cuebids ACBL achievement completed!",
+    "acbl_achievement_stars": "Cuebids ACBL Stars Achievement!",
+    "acbl_achievement_partner_up": "Cuebids ACBL Stars Partner Up Achievement!",
     "newsletter": "Vous êtes inscrit à la newsletter!",
     "error_not_completed": "La réalisation n’a pas été achevée !",
     "error_already_claimed": "La recompense a déjà été réclamée !"

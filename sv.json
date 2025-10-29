@@ -2639,7 +2639,8 @@
   },
   "achievements": {
     "stars": "{{count}} stjärnor samlade!",
-    "acbl_achievement": "Cuebids ACBL achievement completed!",
+    "acbl_achievement_stars": "Cuebids ACBL Stars Achievement!",
+    "acbl_achievement_partner_up": "Cuebids ACBL Stars Partner Up Achievement!",
     "newsletter": "Anmäld till nyhetsbrev!",
     "error_not_completed": "Milstolpe har inte uppnåtts!",
     "error_already_claimed": "Milstolpe har redan bekräftad!"
