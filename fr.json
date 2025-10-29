@@ -931,8 +931,8 @@
     "redeem_code_button": "Vous avez un code ? Echangez le ici",
     "show_phone_friend_label": "Afficher l'aide aux enchères",
     "show_phone_friend_desc": "En mode pratique, obtenez des conseils de Lia et voyez ce que les joueurs professionnels ont enchéri dans la même situation.",
-    "show_bidding_divergence_label": "Afficher les conseils de divergence d'enchères",
-    "show_bidding_divergence_desc": "Met en évidence les enchères qui diffèrent de ce que la majorité des professionnels ont fait dans la même situation. Bordure jaune : au moins 30% des professionnels ont choisi quelque chose de différent. Bordure rouge : 60% ou plus ont choisi différemment."
+    "show_bidding_divergence_label": "Afficher le panel des Pros",
+    "show_bidding_divergence_desc": "Met en évidence les enchères qui diffèrent de ce que la majorité des professionnels ont fait dans la même situation. Bordure jaune : au moins 50% des professionnels ont choisi quelque chose de différent. Bordure rouge : 70% ou plus ont choisi différemment."
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Vérification de l’email en cours...",
@@ -1573,7 +1573,7 @@
     "stars": "Etoiles",
     "divergence_text": "{{count}} out of {{total}} pros bid something else",
     "divergence_info": "Quickly get an overview of which pros bid something different in your spot.",
-    "divergence_title": "Divergence des enchères",
+    "divergence_title": "Panel des Pros",
     "divergence_settings": "Vous pouvez désactiver cela dans les Paramètres."
   },
   "contracts_modal": {

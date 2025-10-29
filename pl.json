@@ -931,8 +931,8 @@
     "redeem_code_button": "Masz kod? Odbierz go tutaj",
     "show_phone_friend_label": "Pokaż pomoc w licytacji",
     "show_phone_friend_desc": "W trybie ćwiczeń otrzymuj wskazówki od Lia i zobacz, co licytowali profesjonalni gracze w tej samej sytuacji.",
-    "show_bidding_divergence_label": "Pokaż wskazówki dotyczące rozbieżności w licytacji",
-    "show_bidding_divergence_desc": "Podkreśla licytacje, które różniły się od tego, co większość profesjonalistów zrobiła w tej samej sytuacji. Żółta ramka: co najmniej 30% profesjonalistów wybrało coś innego. Czerwona ramka: 60% lub więcej wybrało inaczej."
+    "show_bidding_divergence_label": "Pokaż Panel Pro",
+    "show_bidding_divergence_desc": "Podkreśla licytacje, które różniły się od tego, co większość profesjonalistów zrobiła w tej samej sytuacji. Żółta ramka: co najmniej 50% profesjonalistów wybrało coś innego. Czerwona ramka: 70% lub więcej wybrało inaczej."
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Weryfikacja e-maila w toku...",
@@ -1573,7 +1573,7 @@
     "stars": "Gwiazdki",
     "divergence_text": "{{count}} out of {{total}} pros bid something else",
     "divergence_info": "Quickly get an overview of which pros bid something different in your spot.",
-    "divergence_title": "Rozbieżność w licytacji",
+    "divergence_title": "Panel des Pros",
     "divergence_settings": "Możesz wyłączyć to w Ustawieniach."
   },
   "contracts_modal": {

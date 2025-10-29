@@ -932,8 +932,8 @@
     "redeem_code_button": "Have a code? Redeem here",
     "show_phone_friend_label": "Show bidding help",
     "show_phone_friend_desc": "In practice mode, get tips from Lia and see what professional players bid in the same situation.",
-    "show_bidding_divergence_label": "Show bidding divergence tips",
-    "show_bidding_divergence_desc": "Highlights bids that differed from what the majority of pros did in the same spot. Yellow border: at least 30% of pros chose something different. Red border: 60% or more chose differently."
+    "show_bidding_divergence_label": "Show Pro Panel",
+    "show_bidding_divergence_desc": "Highlights bids that differed from what the majority of pros did in the same spot. Yellow border: at least 50% of pros chose something different. Red border: 70% or more chose differently."
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Email verification in progress...",
@@ -1574,7 +1574,7 @@
     "stars": "Stars",
     "divergence_text": "{{count}} out of {{total}} pros bid something else",
     "divergence_info": "Quickly get an overview of which pros bid something different in your spot.",
-    "divergence_title": "Bidding divergence",
+    "divergence_title": "Show Pro Panel",
     "divergence_settings": "You can turn this off in Settings."
   },
   "contracts_modal": {
