@@ -1571,9 +1571,9 @@
     "visit_poll": "Przejdź do ankiety",
     "contracts": "Kontrakty",
     "stars": "Gwiazdki",
-    "divergence_text": "{{count}} out of {{total}} pros bid something else",
-    "divergence_info": "Quickly get an overview of which pros bid something different in your spot.",
-    "divergence_title": "Panel des Pros",
+    "divergence_text": "{{count}} z {{total}} zawodowców wybrało inną odzywkę",
+    "divergence_info": "Zobacz szybko, którzy profesjonaliści licytowali inaczej w Twoim miejscu.",
+    "divergence_title": "Panel Pro",
     "divergence_settings": "Możesz wyłączyć to w Ustawieniach."
   },
   "contracts_modal": {

@@ -1571,8 +1571,8 @@
     "visit_poll": "Visiter les sondages",
     "contracts": "Contrats",
     "stars": "Etoiles",
-    "divergence_text": "{{count}} out of {{total}} pros bid something else",
-    "divergence_info": "Quickly get an overview of which pros bid something different in your spot.",
+   "divergence_text": "{{count}} sur {{total}} pros ont fait une autre enchère",
+    "divergence_info": "Voyez rapidement quels pros ont fait une enchère différente à votre place.",
     "divergence_title": "Panel des Pros",
     "divergence_settings": "Vous pouvez désactiver cela dans les Paramètres."
   },
