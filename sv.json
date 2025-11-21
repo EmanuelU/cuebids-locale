@@ -185,8 +185,8 @@
   },
   "store": {
     "no_campaign": "Ingen aktiv kampanj",
-    "blackweek2024": "Black Week är här!",
-    "blackweek2024_info": "Heart Subscription är GRATIS i TVÅ VECKOR!",
+    "blackweek": "Black Week är här!",
+    "blackweek_info": "Heart Subscription är GRATIS i TVÅ VECKOR!",
     "offer_only_for_new": "Detta erbjudande gäller endast nya prenumeranter",
     "not_available": "Inte tillgängligt",
     "per_month": "/månad",

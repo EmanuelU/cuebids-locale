@@ -185,8 +185,8 @@
   },
   "store": {
     "no_campaign": "No active campaign",
-    "blackweek2024": "Black Week is here!",
-    "blackweek2024_info": "Heart Subscription is FREE for TWO WEEKS!",
+    "blackweek": "Black Week is here!",
+    "blackweek_info": "Heart Subscription is FREE for TWO WEEKS!",
     "offer_only_for_new": "This offer only applies to new subscribers",
     "not_available": "Not available",
     "per_month": "/month",
