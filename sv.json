@@ -1723,6 +1723,9 @@
         "natSpades8": {
           "name": "Svag 8-korts spader"
         },
+        "natSpade6_10_13": {
+          "name": "6-korts spader (10-13)"
+        },
         "open1C_2plus": {
           "name": "1!C 2+",
           "description": "Balanserad hand eller naturlig klöver. Minst två klöver."

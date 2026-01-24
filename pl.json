@@ -1723,6 +1723,9 @@
         "natSpades8": {
           "name": "Słabe na 8-miu pikach"
         },
+        "natSpade6_10_13": {
+          "name": "6 kart pik (10-13)"
+        },
         "open1C_2plus": {
           "name": "1!C 2+",
           "description": "Zrównoważona ręka lub naturalne otwarcie w treflach. Co najmniej dwa trefle"

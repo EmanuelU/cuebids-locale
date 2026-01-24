@@ -1723,6 +1723,9 @@
         "natSpades8": {
           "name": "Pique faible avec 8 cartes"
         },
+        "natSpade6_10_13": {
+          "name": "6 cartes à pique (10-13)"
+        },
         "open1C_2plus": {
           "name": "1!C 2+",
           "description": "Main régulière ou ouverture naturelle à trèfle. Au moins 2 cartes à trèfle"

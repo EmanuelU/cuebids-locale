@@ -1724,6 +1724,9 @@
         "natSpades8": {
           "name": "Weak 8 card spades"
         },
+        "natSpade6_10_13": {
+          "name": "6 card spades (10-13)"
+        },
         "open1C_2plus": {
           "name": "1!C 2+",
           "description": "Balanced hand or natural club opening. At least two clubs"
