@@ -96,7 +96,7 @@
     "challenge_card": {
       "win": "Vinst",
       "loss": "Förlust",
-      "draw": "Lika",
+      "draw": "Oavgjort",
       "pro": "PROFFS"
     },
     "chat": {
@@ -630,14 +630,14 @@
   "challenge": {
     "win": "Vinst",
     "loss": "Förlust",
-    "draw": "Lika",
+    "draw": "Oavgjort",
     "vs": "MOT",
     "tot": "TOT",
     "avg": "MDL",
     "challenges": "Utmaningar",
     "ranked": "Rankad",
     "friendly": "Vänskaplig",
-    "wdl": "V/L/F",
+    "wdl": "V/O/F",
     "win_percent": "Vinst %",
     "boards": "Brickor",
     "with": "MED",
