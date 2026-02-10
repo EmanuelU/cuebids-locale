@@ -766,6 +766,7 @@
   },
   "settings": {
     "display_name_short_error": "",
+    "display_name_long_error": "",
     "display_name_forbidden_characters_error": "",
     "newsletter_confirm_sent": "",
     "newsletter_started": "",

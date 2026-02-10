@@ -764,6 +764,7 @@
   },
   "settings": {
     "display_name_short_error": "Za krótkie",
+    "display_name_long_error": "Za długie",
     "display_name_forbidden_characters_error": "Niedozwolone znaki",
     "newsletter_confirm_sent": "E-mail weryfikacyjny został wysłany, sprawdź swoją skrzynkę odbiorczą. Jeśli nie widzisz e-maila, sprawdź folder ze spamem. Dostarczenie e-maila może potrwać kilka minut. Po kliknięciu linku potwierdzającego w e-mailu możesz odebrać swoją nagrodę. Jeśli e-mail nie dotarł, sprawdź, czy Twój adres e-mail jest poprawny i spróbuj ponownie.",
     "newsletter_started": "Wysyłanie e-maila weryfikacyjnego. Jeśli e-mail nie dotrze, sprawdź, czy Twój adres e-mail jest poprawny i spróbuj ponownie.",

@@ -764,6 +764,7 @@
   },
   "settings": {
     "display_name_short_error": "Trop court",
+    "display_name_long_error": "Trop long",
     "display_name_forbidden_characters_error": "Caractères interdits",
     "newsletter_confirm_sent": "un email de vérification vous a été envoyé, vérifiez votre boîte de réception. Si vous ne trouvez pas cet email, vérifiez votre dossier de spams. Veuillez noter que cela peut prendre quelques minutes avant que l’email arrive. Quand vous aurez cliqué sur le lien de confirmation dans l’email, vous pourrez réclamer votre récompense. Si l’email n’arrive jamais, vérifiez si votre adresse email est correcte et réessayez.",
     "newsletter_started": "Envoi d’un email de vérification. Si vous ne recevez pas l’email, vérifiez que votre adresse mail est correcte et réessayez.",

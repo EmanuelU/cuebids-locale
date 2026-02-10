@@ -765,6 +765,7 @@
   },
   "settings": {
     "display_name_short_error": "Too short",
+    "display_name_long_error": "Too long",
     "display_name_forbidden_characters_error": "Forbidden characters",
     "newsletter_confirm_sent": "Verification email has been sent, check your email inbox. If you cannot see the email, check your junk folder. Please note that it can take several minutes before the email arrives. When you have clicked the confirmation link in the email you can claim your reward. If the email never arrives, check that your email address is correct and try again.",
     "newsletter_started": "Sending verification email. If the email does not arrive, check that your email address is correct and try again.",

@@ -764,6 +764,7 @@
   },
   "settings": {
     "display_name_short_error": "För kort",
+    "display_name_long_error": "För långt",
     "display_name_forbidden_characters_error": "Förbjudna tecken",
     "newsletter_confirm_sent": "Bekräftelsemail skickat",
     "newsletter_started": "Skickar bekräftelsemail...",
