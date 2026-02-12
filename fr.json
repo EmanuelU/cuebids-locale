@@ -779,7 +779,8 @@
       "scenarios": "Scénarios",
       "history": "Historique",
       "shared": "Partagé",
-      "matchmaking": "Création du match"
+      "matchmaking": "Création du match",
+      "fourplayer": "Quatre joueurs"
     },
     "unsaved_changes": "Modifications non sauvegardées",
     "saved": "Sauvegardé",
@@ -932,6 +933,8 @@
     "redeem_code_button": "Vous avez un code ? Echangez le ici",
     "show_phone_friend_label": "Afficher l'aide aux enchères",
     "show_phone_friend_desc": "En mode pratique, obtenez des conseils de Lia et voyez ce que les joueurs professionnels ont enchéri dans la même situation.",
+    "show_robots_label": "Afficher les partenaires robots",
+    "show_robots_desc": "Afficher les options de partenaires robots, comme Lia, dans les listes déroulantes de partenaire.",
     "show_bidding_divergence_label": "Afficher le panel des Pros",
     "show_bidding_divergence_desc": "Met en évidence les enchères qui diffèrent de ce que la majorité des professionnels ont fait dans la même situation. Bordure jaune : au moins 50% des professionnels ont choisi quelque chose de différent. Bordure rouge : 70% ou plus ont choisi différemment."
   },

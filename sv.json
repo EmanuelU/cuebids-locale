@@ -783,7 +783,8 @@
       "scenarios": "Scenarion",
       "history": "Historik",
       "shared": "Delade",
-      "matchmaking": "Matchmaking"
+      "matchmaking": "Matchmaking",
+      "fourplayer": "Fyra spelare"
     },
     "unsaved_changes": "Osparade ändringar",
     "saved": "Sparat",
@@ -910,7 +911,7 @@
     "animations_label": "Visa animeringar",
     "blinking_label": "Visa blinkade färger",
     "sections_collapse_title": "Sektioner",
-    "sections_info": "Du kan anpassa gränssnittet i Cuebids genom att dölja menyalternativ som du inte använder. Om vi lägger till ya funktioner kommer vi att lägga tillbaka sektionerna så att du inte missar något viktigt!",
+    "sections_info": "Du kan anpassa gränssnittet i Cuebids genom att dölja menyalternativ som du inte använder. Om vi lägger till nya funktioner kommer vi att lägga tillbaka sektionerna så att du inte missar något viktigt!",
     "save": "Spara ",
     "display_name_error": "Ogiltigt visningsnamn",
     "restore_account": "Återställ konto",
@@ -932,6 +933,8 @@
     "redeem_code_button": "Har du en kod? Lös in den här",
     "show_phone_friend_label": "Visa budhjälp",
     "show_phone_friend_desc": "I övningsläge, få tips från Lia och se vad professionella spelare budade i samma situation.",
+    "show_robots_label": "Visa robotpartners",
+    "show_robots_desc": "Visa robotalternativ som Lia i partnerlistor.",
     "show_bidding_divergence_label": "Visa proffspanel",
     "show_bidding_divergence_desc": "Markerar bud som skiljer sig från vad majoriteten av proffs gjorde i samma situation. Gul ram: minst 50% av proffs valde något annat. Röd ram: 70% eller fler valde annorlunda."
   },

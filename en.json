@@ -784,7 +784,8 @@
       "scenarios": "Scenarios",
       "history": "History",
       "shared": "Shared",
-      "matchmaking": "Matchmaking"
+      "matchmaking": "Matchmaking",
+      "fourplayer": "Four players"
     },
     "unsaved_changes": "Unsaved changes",
     "saved": "Saved",
@@ -933,6 +934,8 @@
     "redeem_code_button": "Have a code? Redeem here",
     "show_phone_friend_label": "Show bidding help",
     "show_phone_friend_desc": "In practice mode, get tips from Lia and see what professional players bid in the same situation.",
+    "show_robots_label": "Show robot partners",
+    "show_robots_desc": "Show robot partner options, such as Lia, in partner dropdowns.",
     "show_bidding_divergence_label": "Show Pro Panel",
     "show_bidding_divergence_desc": "Highlights bids that differed from what the majority of pros did in the same spot. Yellow border: at least 50% of pros chose something different. Red border: 70% or more chose differently."
   },

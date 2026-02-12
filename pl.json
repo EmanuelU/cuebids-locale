@@ -779,7 +779,8 @@
       "scenarios": "Scenariusze",
       "history": "Historia",
       "shared": "Udostępnione",
-      "matchmaking": "Wyszukiwanie partnera"
+      "matchmaking": "Wyszukiwanie partnera",
+      "fourplayer": "Czterech graczy"
     },
     "unsaved_changes": "Nie zapisano zmian",
     "saved": "Zapisano",
@@ -932,6 +933,8 @@
     "redeem_code_button": "Masz kod? Odbierz go tutaj",
     "show_phone_friend_label": "Pokaż pomoc w licytacji",
     "show_phone_friend_desc": "W trybie ćwiczeń otrzymuj wskazówki od Lia i zobacz, co licytowali profesjonalni gracze w tej samej sytuacji.",
+    "show_robots_label": "Pokazuj partnerów-roboty",
+    "show_robots_desc": "Pokazuj opcje partnerów-robotów, takie jak Lia, na listach rozwijanych partnera.",
     "show_bidding_divergence_label": "Pokaż Panel Pro",
     "show_bidding_divergence_desc": "Podkreśla licytacje, które różniły się od tego, co większość profesjonalistów zrobiła w tej samej sytuacji. Żółta ramka: co najmniej 50% profesjonalistów wybrało coś innego. Czerwona ramka: 70% lub więcej wybrało inaczej."
   },
