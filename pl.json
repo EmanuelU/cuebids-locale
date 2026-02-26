@@ -1583,7 +1583,11 @@
   "contracts_modal": {
     "par_contract": "Kontrakt Par",
     "best_option": "Najlepszy wybór",
-    "your_contract": "Twój kontrakt"
+    "your_contract": "Twój kontrakt",
+    "excluded_contracts_note_label": "Uwaga",
+    "excluded_contracts_note": "Niektóre kontrakty zostały uznane za mało prawdopodobne i ukryte. Może to wynikać z Twojej siły lub działań przeciwników.",
+    "hide_excluded": "Ukryj",
+    "show_excluded": "Pokaż"
   },
   "review_modal": {
     "title": "Porównaj",

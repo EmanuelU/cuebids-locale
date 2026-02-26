@@ -1583,7 +1583,11 @@
   "contracts_modal": {
     "par_contract": "Contrat par",
     "best_option": "Meilleure option",
-    "your_contract": "Votre contrat"
+    "your_contract": "Votre contrat",
+    "excluded_contracts_note_label": "Note",
+    "excluded_contracts_note": "Certains contrats ont été jugés improbables et masqués. Cela peut dépendre de votre force ou des actions des adversaires.",
+    "hide_excluded": "Masquer",
+    "show_excluded": "Afficher"
   },
   "review_modal": {
     "title": "Comparer",

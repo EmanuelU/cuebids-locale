@@ -1584,7 +1584,11 @@
   "contracts_modal": {
     "par_contract": "Par contract",
     "best_option": "Best option",
-    "your_contract": "Your contract"
+    "your_contract": "Your contract",
+    "excluded_contracts_note_label": "Note",
+    "excluded_contracts_note": "Some contracts have been deemed unlikely and hidden. This can be based on your strength or opponents' actions.",
+    "hide_excluded": "Hide",
+    "show_excluded": "Show"
   },
   "review_modal": {
     "title": "Compare",

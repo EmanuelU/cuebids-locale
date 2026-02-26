@@ -1583,7 +1583,11 @@
   "contracts_modal": {
     "par_contract": "Par-kontrakt",
     "best_option": "Bästa alternativ",
-    "your_contract": "Ditt kontrakt"
+    "your_contract": "Ditt kontrakt",
+    "excluded_contracts_note_label": "Obs",
+    "excluded_contracts_note": "Vissa kontrakt har bedömts som osannolika och har dolts. Detta kan baseras på din styrka eller motståndarnas agerande.",
+    "hide_excluded": "Dölj",
+    "show_excluded": "Visa"
   },
   "review_modal": {
     "title": "Jämför",
