@@ -1606,7 +1606,7 @@
   "session_deal": {
     "alert": "Alert",
     "alert_placeholder": "Sztuczne",
-    "bidding_help": "Pomoc",
+    "bidding_help": "Zapytaj PRO",
     "undo": "Cofnij",
     "undo_failed": "Cofnięcie nie powiodło się",
     "undo_failed_competition": "W grach rankingowych masz tylko 30 sekund na cofnięcie odzywki.",

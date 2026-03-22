@@ -1606,7 +1606,7 @@
   "session_deal": {
     "alert": "Alert",
     "alert_placeholder": "Artificiellt",
-    "bidding_help": "Hjälp",
+    "bidding_help": "Fråga proffs",
     "undo": "Ångra",
     "undo_failed": "Ångra misslyckades.",
     "undo_failed_competition": ". I tävling har du endast 30 sekunder på dig.",

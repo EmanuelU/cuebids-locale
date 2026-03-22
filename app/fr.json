@@ -1606,7 +1606,7 @@
   "session_deal": {
     "alert": "Alert",
     "alert_placeholder": "Artificiel",
-    "bidding_help": "Aide",
+    "bidding_help": "Demander à un pro",
     "undo": "Annuler",
     "undo_failed": "Echec de l’annulation",
     "undo_failed_competition": ". En compétition, vous avez seulement 30 secondes pour annuler votre enchère.",

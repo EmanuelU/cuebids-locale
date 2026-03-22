@@ -1607,7 +1607,7 @@
   "session_deal": {
     "alert": "Alert",
     "alert_placeholder": "Artificial",
-    "bidding_help": "Help",
+    "bidding_help": "Ask Pro",
     "undo": "Undo",
     "undo_failed": "Undo failed",
     "undo_failed_competition": ". In competition you only have 30s to undo a bid.",
