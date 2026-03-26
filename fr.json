@@ -874,6 +874,7 @@
     "confirm_bids_always": "Toujours",
     "confirm_bids_with_lia": "Avec Lia",
     "confirm_bids_never": "Jamais",
+    "lia_response_speed_label": "Vitesse de réponse de Lia",
     "notifications_collapse_title": "Notifications",
     "notification_devices_label": "Appareils pour notifications",
     "no_notification_devices": "Vous n’avez aucun appareil enregistré pour les notifications",

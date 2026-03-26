@@ -940,6 +940,7 @@
     "confirm_bids_always": "Alltid",
     "confirm_bids_with_lia": "Med Lia",
     "confirm_bids_never": "Aldrig",
+    "lia_response_speed_label": "Lias svarstid",
     "notifications_collapse_title": "Notiser",
     "notification_devices_label": "Enheter för notiser",
     "no_notification_devices": "Du har inga enheter registrerade för notiser",

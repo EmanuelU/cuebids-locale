@@ -829,6 +829,7 @@
     "confirm_bids_always": "",
     "confirm_bids_with_lia": "",
     "confirm_bids_never": "",
+    "lia_response_speed_label": "",
     "notifications_collapse_title": "",
     "notification_devices_label": "",
     "no_notification_devices": "",

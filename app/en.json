@@ -941,6 +941,7 @@
     "confirm_bids_always": "Always",
     "confirm_bids_with_lia": "With Lia",
     "confirm_bids_never": "Never",
+    "lia_response_speed_label": "Lia response speed",
     "notifications_collapse_title": "Notifications",
     "notification_devices_label": "Devices for notifications",
     "no_notification_devices": "You have no devices registered for notifications",

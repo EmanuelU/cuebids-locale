@@ -940,6 +940,7 @@
     "confirm_bids_always": "Zawsze",
     "confirm_bids_with_lia": "Z Lia",
     "confirm_bids_never": "Nigdy",
+    "lia_response_speed_label": "Szybkość odpowiedzi Lia",
     "notifications_collapse_title": "Powiadomienia",
     "notification_devices_label": "Urządzenia do powiadomień",
     "no_notification_devices": "Nie wskazano żadnych urządzeń do powiadomień",
