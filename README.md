@@ -7,6 +7,12 @@ Localisation repo
 Run the local editor with:
 
 ```bash
+cd workbench && npm install && npm run dev
+```
+
+From the repo root, the existing wrapper still works after the workbench dependencies are installed:
+
+```bash
 pnpm --filter cuebids-locale run workbench
 ```
 
@@ -22,7 +28,7 @@ By default it uses [`workbench.config.js`](/workbench.config.js).
 To reuse the same tool for another app later, point it at a different config file:
 
 ```bash
-TRANSLATION_WORKBENCH_CONFIG=/absolute/path/to/translation-workbench.config.js pnpm --filter cuebids-locale run workbench
+TRANSLATION_WORKBENCH_CONFIG=/absolute/path/to/translation-workbench.config.js npm --prefix ./workbench run dev
 ```
 
 Supported dataset adapters in the config:

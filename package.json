@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "A package to store and share JSON files for localisation",
   "scripts": {
-    "workbench": "vite --config ./workbench/vite.config.js",
-    "workbench:build": "vite build --config ./workbench/vite.config.js",
-    "workbench:preview": "vite preview --config ./workbench/vite.config.js",
-    "test:workbench": "vitest run ./workbench/src/shared/translationUtils.test.js"
+    "workbench": "npm --prefix ./workbench run dev",
+    "workbench:build": "npm --prefix ./workbench run build",
+    "workbench:preview": "npm --prefix ./workbench run preview",
+    "test:workbench": "npm --prefix ./workbench run test"
   },
   "main": "index.js",
   "keywords": [
@@ -24,13 +24,5 @@
   },
   "bugs": {
     "url": "https://github.com/EmanuelU/cuebids-locale/issues"
-  },
-  "dependencies": {
-    "react": "^19.2.3",
-    "react-dom": "^19.2.3"
-  },
-  "devDependencies": {
-    "vite": "^7.3.0",
-    "vitest": "^4.0.16"
   }
 }
