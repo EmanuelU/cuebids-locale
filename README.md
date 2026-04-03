@@ -17,7 +17,7 @@ The workbench can:
 - edit locale JSON values and save them back to disk
 - flag missing translations, placeholder mismatches, and likely untranslated words
 
-By default it uses [`workbench.config.js`](/Users/unge/dev/sthlm-bridge/Cuebids-develop/packages/cuebids-locale/workbench.config.js).
+By default it uses [`workbench.config.js`](/workbench.config.js).
 
 To reuse the same tool for another app later, point it at a different config file:
 
