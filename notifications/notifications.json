@@ -15,6 +15,10 @@
     "fr": {
       "title": "{{partner}} a terminé d'enchérir",
       "text": "C'est à votre tour !"
+    },
+    "es": {
+      "title": "{{partner}} ha terminado de pujar",
+      "text": "Te toca a ti."
     }
   },
   "partner_started_session": {
@@ -33,6 +37,10 @@
     "fr": {
       "title": "Nouvelle session avec {{partner}}",
       "text": "Le partenaire {{partner}} a démarré une nouvelle session !"
+    },
+    "es": {
+      "title": "Nueva sesión con {{partner}}",
+      "text": "Tu compañero {{partner}} ha iniciado una nueva sesión."
     }
   },
   "event_joined": {
@@ -51,6 +59,10 @@
     "fr": {
       "title": "Événement rejoint",
       "text": "Vous avez rejoint le {{event}} avec le partenaire {{partner}}"
+    },
+    "es": {
+      "title": "Te has unido al evento",
+      "text": "Te has unido a {{event}} con tu compañero {{partner}}"
     }
   },
   "session_finished": {
@@ -69,6 +81,10 @@
     "fr": {
       "title": "Session terminée",
       "text": "Vous et {{partner}} avez terminé d'enchérir"
+    },
+    "es": {
+      "title": "Sesión terminada",
+      "text": "Tú y {{partner}} habéis terminado de pujar"
     }
   },
   "new_friend": {
@@ -87,6 +103,10 @@
     "fr": {
       "title": "Nouvel ami",
       "text": "{{partner}} vous a ajouté comme ami"
+    },
+    "es": {
+      "title": "Nuevo amigo",
+      "text": "{{partner}} te ha añadido como amigo"
     }
   },
   "friend_request": {
@@ -105,6 +125,10 @@
     "fr": {
       "title": "Demande d'ami",
       "text": "{{partner}} vous a envoyé une demande d'ami"
+    },
+    "es": {
+      "title": "Solicitud de amistad",
+      "text": "{{partner}} te ha enviado una solicitud de amistad"
     }
   },
   "challenged": {
@@ -123,6 +147,10 @@
     "fr": {
       "title": "Défi !",
       "text": "{{opponent1}} et {{opponent2}} vous ont défié"
+    },
+    "es": {
+      "title": "Te han desafiado",
+      "text": "{{opponent1}} y {{opponent2}} te han desafiado"
     }
   },
   "found_matchmaking": {
@@ -141,6 +169,10 @@
     "fr": {
       "title": "Match trouvé",
       "text": "Une session a commencé avec {{partner}} - bonne chance !"
+    },
+    "es": {
+      "title": "Partida encontrada",
+      "text": "Ha comenzado una sesión con {{partner}}. ¡Buena suerte!"
     }
   },
   "found_challenge": {
@@ -159,6 +191,10 @@
     "fr": {
       "title": "Défi commencé",
       "text": "Contre {{opponent1}} et {{opponent2}}"
+    },
+    "es": {
+      "title": "Desafío iniciado",
+      "text": "Contra {{opponent1}} y {{opponent2}}"
     }
   },
   "group_event_invite": {
@@ -177,6 +213,10 @@
     "fr": {
       "title": "Invité à jouer",
       "text": "{{partner}} vous a invité à jouer l'événement : {{event}}"
+    },
+    "es": {
+      "title": "Invitación para jugar",
+      "text": "{{partner}} te ha invitado a jugar el evento: {{event}}"
     }
   },
   "group_event_accepted": {
@@ -195,6 +235,10 @@
     "fr": {
       "title": "Invitation acceptée",
       "text": "{{partner}} a accepté votre invitation à jouer l'événement : {{event}}"
+    },
+    "es": {
+      "title": "Invitación aceptada",
+      "text": "{{partner}} ha aceptado tu invitación para jugar el evento: {{event}}"
     }
   },
   "group_invite": {
@@ -213,6 +257,10 @@
     "fr": {
       "title": "Invitation de groupe",
       "text": "Vous avez été invité au groupe : {{group}}"
+    },
+    "es": {
+      "title": "Invitación a grupo",
+      "text": "Has sido invitado al grupo: {{group}}"
     }
   },
   "group_added": {
@@ -231,6 +279,10 @@
     "fr": {
       "title": "Ajouté au groupe",
       "text": "Vous avez été ajouté au groupe : {{group}}"
+    },
+    "es": {
+      "title": "Añadido al grupo",
+      "text": "Has sido añadido al grupo: {{group}}"
     }
   },
   "group_promotion": {
@@ -249,6 +301,10 @@
     "fr": {
       "title": "Membre premium du groupe",
       "text": "Vous avez été promu membre premium du groupe : {{group}}"
+    },
+    "es": {
+      "title": "Miembro premium del grupo",
+      "text": "Has sido ascendido a miembro premium del grupo: {{group}}"
     }
   },
   "new_group_event": {
@@ -267,6 +323,10 @@
     "fr": {
       "title": "Nouvel événement",
       "text": "Nouvel événement dans {{group}}"
+    },
+    "es": {
+      "title": "Nuevo evento",
+      "text": "Nuevo evento en {{group}}"
     }
   },
   "session_shared": {
@@ -285,6 +345,10 @@
     "fr": {
       "title": "Session partagée",
       "text": "{{user}} a partagé une session avec vous"
+    },
+    "es": {
+      "title": "Sesión compartida",
+      "text": "{{partner}} ha compartido una sesión contigo"
     }
   },
   "new_performance_reports": {
@@ -303,6 +367,10 @@
     "fr": {
       "title": "Nouveaux rapports hebdomadaires",
       "text": "Cette semaine, vous avez terminé {{dealsFinished}} parties avec {{numberOfPartners}} partenaires et vous avez obtenu en moyenne {{averageGrade}} étoiles !"
+    },
+    "es": {
+      "title": "Nuevos informes de rendimiento",
+      "text": "Tus nuevos informes de rendimiento ya están listos"
     }
   }
 }

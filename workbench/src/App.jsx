@@ -21,17 +21,17 @@ const ISSUE_FILTER_FIELDS = [
   },
   {
     id: 'sameAsReference',
-    label: 'Same as reference',
+    label: 'Same as ref',
     predicate: (cell) => cell.sameAsReference,
   },
   {
     id: 'likelyUntranslated',
-    label: 'Likely untranslated',
+    label: 'Untranslated',
     predicate: (cell) => cell.likelyUntranslated,
   },
   {
     id: 'placeholderMismatch',
-    label: 'Placeholder mismatch',
+    label: 'Placeholder',
     predicate: (cell) => cell.placeholderMismatch,
   },
 ]
@@ -64,31 +64,17 @@ export function App() {
   }, [])
 
   useEffect(() => {
-    if (!workbench) {
-      return
-    }
+    if (!workbench) return
 
     setSelectedDatasetIds((current) => {
-      if (current.length === 0) {
-        return workbench.datasets.map((dataset) => dataset.id)
-      }
-
-      const next = current.filter((datasetId) =>
-        workbench.datasets.some((dataset) => dataset.id === datasetId)
-      )
-
-      return next.length === 0 ? workbench.datasets.map((dataset) => dataset.id) : next
+      if (current.length === 0) return workbench.datasets.map((d) => d.id)
+      const next = current.filter((id) => workbench.datasets.some((d) => d.id === id))
+      return next.length === 0 ? workbench.datasets.map((d) => d.id) : next
     })
 
     setSelectedLanguages((current) => {
-      if (current.length === 0) {
-        return workbench.languageOrder
-      }
-
-      const next = current.filter((language) =>
-        workbench.languageOrder.includes(language)
-      )
-
+      if (current.length === 0) return workbench.languageOrder
+      const next = current.filter((l) => workbench.languageOrder.includes(l))
       return next.length === 0 ? workbench.languageOrder : next
     })
   }, [workbench])
@@ -116,32 +102,19 @@ export function App() {
 
   useEffect(() => {
     window.addEventListener('keydown', saveWithKeyboardShortcut)
-    return () => {
-      window.removeEventListener('keydown', saveWithKeyboardShortcut)
-    }
+    return () => window.removeEventListener('keydown', saveWithKeyboardShortcut)
   }, [saveWithKeyboardShortcut])
 
   async function loadWorkbench(nextStatus = null) {
     setLoading(true)
-
     try {
       const response = await fetch('/api/translation-workbench')
       const payload = await response.json()
-
-      if (!response.ok) {
-        throw new Error(payload.error ?? 'Could not load translation data')
-      }
-
+      if (!response.ok) throw new Error(payload.error ?? 'Could not load translation data')
       setWorkbench(payload)
-
-      if (nextStatus) {
-        setStatus(nextStatus)
-      }
+      if (nextStatus) setStatus(nextStatus)
     } catch (error) {
-      setStatus({
-        tone: 'error',
-        message: error instanceof Error ? error.message : 'Unknown loading error',
-      })
+      setStatus({ tone: 'error', message: error instanceof Error ? error.message : 'Unknown loading error' })
     } finally {
       setLoading(false)
     }
@@ -149,77 +122,38 @@ export function App() {
 
   async function saveDrafts(draftSubset = null) {
     const pendingDrafts = draftSubset ?? drafts
+    if (Object.keys(pendingDrafts).length === 0 || !workbench) return
 
-    if (Object.keys(pendingDrafts).length === 0 || !workbench) {
-      return
-    }
-
-    const rowLookup = new Map(
-      workbench.rows.map((row) => [`${row.datasetId}::${row.key}`, row])
-    )
+    const rowLookup = new Map(workbench.rows.map((row) => [`${row.datasetId}::${row.key}`, row]))
     const changes = Object.entries(pendingDrafts).map(([cellId, value]) => {
-      const parsedCellId = parseCellId(cellId)
-      const row = rowLookup.get(`${parsedCellId.datasetId}::${parsedCellId.key}`)
-      const currentValue = row?.values[parsedCellId.language]?.value ?? ''
-
-      return {
-        ...parsedCellId,
-        value,
-        hasChanged: value !== currentValue,
-      }
+      const parsed = parseCellId(cellId)
+      const row = rowLookup.get(`${parsed.datasetId}::${parsed.key}`)
+      return { ...parsed, value, hasChanged: value !== (row?.values[parsed.language]?.value ?? '') }
     })
-
-    const filteredChanges = changes.filter((change) => change.hasChanged)
-
-    if (filteredChanges.length === 0) {
-      return
-    }
+    const filteredChanges = changes.filter((c) => c.hasChanged)
+    if (filteredChanges.length === 0) return
 
     setSaving(true)
-    setStatus({
-      tone: 'info',
-      message: `Saving ${filteredChanges.length} change${
-        filteredChanges.length === 1 ? '' : 's'
-      }...`,
-    })
+    setStatus({ tone: 'info', message: `Saving ${filteredChanges.length} change${filteredChanges.length === 1 ? '' : 's'}...` })
 
     try {
       const response = await fetch('/api/translation-workbench/save', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          changes: filteredChanges,
-        }),
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ changes: filteredChanges }),
       })
       const payload = await response.json()
-
-      if (!response.ok) {
-        throw new Error(payload.error ?? 'Could not save translation changes')
-      }
+      if (!response.ok) throw new Error(payload.error ?? 'Could not save translation changes')
 
       setWorkbench(payload.state)
       setDrafts((current) => {
         const next = { ...current }
-
-        filteredChanges.forEach((change) => {
-          delete next[createCellId(change.datasetId, change.key, change.language)]
-        })
-
+        filteredChanges.forEach((c) => delete next[createCellId(c.datasetId, c.key, c.language)])
         return next
       })
-      setStatus({
-        tone: 'success',
-        message: `Saved ${payload.savedCount} change${
-          payload.savedCount === 1 ? '' : 's'
-        }.`,
-      })
+      setStatus({ tone: 'success', message: `Saved ${payload.savedCount} change${payload.savedCount === 1 ? '' : 's'}.` })
     } catch (error) {
-      setStatus({
-        tone: 'error',
-        message: error instanceof Error ? error.message : 'Unknown save error',
-      })
+      setStatus({ tone: 'error', message: error instanceof Error ? error.message : 'Unknown save error' })
     } finally {
       setSaving(false)
     }
@@ -228,16 +162,10 @@ export function App() {
   function updateDraft(row, language, value) {
     const cellId = createCellId(row.datasetId, row.key, language)
     const originalValue = row.values[language]?.value ?? ''
-
     setDrafts((current) => {
       const next = { ...current }
-
-      if (value === originalValue) {
-        delete next[cellId]
-      } else {
-        next[cellId] = value
-      }
-
+      if (value === originalValue) delete next[cellId]
+      else next[cellId] = value
       return next
     })
   }
@@ -245,11 +173,8 @@ export function App() {
   function toggleDataset(datasetId) {
     setSelectedDatasetIds((current) => {
       if (current.includes(datasetId)) {
-        return current.length === 1
-          ? current
-          : current.filter((value) => value !== datasetId)
+        return current.length === 1 ? current : current.filter((v) => v !== datasetId)
       }
-
       return [...current, datasetId]
     })
   }
@@ -257,28 +182,22 @@ export function App() {
   function toggleLanguage(language) {
     setSelectedLanguages((current) => {
       if (current.includes(language)) {
-        return current.length === 1
-          ? current
-          : current.filter((value) => value !== language)
+        return current.length === 1 ? current : current.filter((v) => v !== language)
       }
-
       return [...current, language]
     })
   }
 
   function toggleIssueFilter(filterId) {
-    setIssueFilters((current) => ({
-      ...current,
-      [filterId]: !current[filterId],
-    }))
+    setIssueFilters((current) => ({ ...current, [filterId]: !current[filterId] }))
   }
 
   if (loading && !workbench) {
     return (
       <main className="page-shell">
         <section className="hero-panel hero-panel--loading">
-          <p className="eyebrow">Translation Workbench</p>
-          <h1>Loading locale data...</h1>
+          <span className="hero-title">Translation Workbench</span>
+          <span style={{ color: 'var(--text-secondary)' }}>Loading...</span>
         </section>
       </main>
     )
@@ -288,12 +207,9 @@ export function App() {
     return (
       <main className="page-shell">
         <section className="hero-panel hero-panel--loading">
-          <p className="eyebrow">Translation Workbench</p>
-          <h1>Workbench failed to load</h1>
-          {status ? <p className="hero-copy">{status.message}</p> : null}
-          <button className="action-button" onClick={() => void loadWorkbench()}>
-            Retry
-          </button>
+          <span className="hero-title">Translation Workbench</span>
+          <span style={{ color: 'var(--red)' }}>{status?.message ?? 'Failed to load'}</span>
+          <button className="action-button action-button--strong" onClick={() => void loadWorkbench()}>Retry</button>
         </section>
       </main>
     )
@@ -301,219 +217,165 @@ export function App() {
 
   const selectedDatasetSet = new Set(selectedDatasetIds)
   const selectedLanguageSet = new Set(selectedLanguages)
-  const activeRows = workbench.rows.filter((row) =>
-    selectedDatasetSet.has(row.datasetId)
-  )
-  const namespaceOptions = [
-    'all',
-    ...new Set(activeRows.map((row) => row.namespace)),
-  ].sort((left, right) => left.localeCompare(right))
+  const refLang = workbench.referenceLanguage
+  const targetLanguages = selectedLanguages.filter((l) => l !== refLang)
+  const activeRows = workbench.rows.filter((row) => selectedDatasetSet.has(row.datasetId))
+  const namespaceOptions = ['all', ...new Set(activeRows.map((row) => row.namespace))].sort((a, b) => a.localeCompare(b))
   const normalizedSearchQuery = deferredSearchQuery.trim().toLowerCase()
 
   const filteredRows = activeRows.filter((row) => {
-    if (namespaceFilter !== 'all' && row.namespace !== namespaceFilter) {
-      return false
-    }
+    if (namespaceFilter !== 'all' && row.namespace !== namespaceFilter) return false
 
     if (normalizedSearchQuery) {
-      const haystack = [
-        row.datasetLabel,
-        row.key,
-        ...selectedLanguages.map((language) => row.values[language]?.value ?? ''),
-      ]
-        .join('\n')
-        .toLowerCase()
-
-      if (!haystack.includes(normalizedSearchQuery)) {
-        return false
-      }
+      const haystack = [row.datasetLabel, row.key, ...selectedLanguages.map((l) => row.values[l]?.value ?? '')]
+        .join('\n').toLowerCase()
+      if (!haystack.includes(normalizedSearchQuery)) return false
     }
 
-    if (
-      issueFilters.dirtyOnly &&
-      !selectedLanguages.some((language) =>
-        Object.prototype.hasOwnProperty.call(
-          drafts,
-          createCellId(row.datasetId, row.key, language)
-        )
-      )
-    ) {
-      return false
-    }
+    if (issueFilters.dirtyOnly && !selectedLanguages.some((l) =>
+      Object.prototype.hasOwnProperty.call(drafts, createCellId(row.datasetId, row.key, l))
+    )) return false
 
     return ISSUE_FILTER_FIELDS.every((filter) => {
-      if (!issueFilters[filter.id]) {
-        return true
-      }
-
-      return selectedLanguages.some((language) =>
-        filter.predicate(row.values[language] ?? {})
-      )
+      if (!issueFilters[filter.id]) return true
+      return selectedLanguages.some((l) => filter.predicate(row.values[l] ?? {}))
     })
   })
 
   const visibleRows = filteredRows.slice(0, visibleRowCount)
   const dirtyDraftCount = Object.keys(drafts).length
   const filteredIssueSummary = filteredRows.reduce(
-    (summary, row) => {
-      const rowIssues = summarizeRowIssues(row, selectedLanguages)
-      summary.missing += rowIssues.missingCount
-      summary.sameAsReference += rowIssues.sameAsReferenceCount
-      summary.likelyUntranslated += rowIssues.likelyUntranslatedCount
-      summary.placeholderMismatch += rowIssues.placeholderMismatchCount
-      return summary
+    (s, row) => {
+      const ri = summarizeRowIssues(row, selectedLanguages)
+      s.missing += ri.missingCount
+      s.sameAsReference += ri.sameAsReferenceCount
+      s.likelyUntranslated += ri.likelyUntranslatedCount
+      s.placeholderMismatch += ri.placeholderMismatchCount
+      return s
     },
-    {
-      missing: 0,
-      sameAsReference: 0,
-      likelyUntranslated: 0,
-      placeholderMismatch: 0,
-    }
+    { missing: 0, sameAsReference: 0, likelyUntranslated: 0, placeholderMismatch: 0 }
   )
+
+  const rowsWithIssues = filteredRows.filter((row) =>
+    selectedLanguages.some((l) =>
+      row.values[l]?.missing || row.values[l]?.sameAsReference ||
+      row.values[l]?.likelyUntranslated || row.values[l]?.placeholderMismatch
+    )
+  ).length
 
   return (
     <main className="page-shell">
       <section className="hero-panel">
-        <div className="hero-copy-block">
-          <p className="eyebrow">Translation Workbench</p>
-          <h1>{workbench.title}</h1>
-          <p className="hero-copy">{workbench.description}</p>
-          <div className="hero-meta">
-            <span className="hero-meta-chip">
-              Config: <code>{workbench.configPath}</code>
-            </span>
-            <span className="hero-meta-chip">
-              Reference language: <strong>{languageLabel(workbench, workbench.referenceLanguage)}</strong>
-            </span>
-            <span className="hero-meta-chip">
-              Save with <strong>Cmd/Ctrl + S</strong>
-            </span>
-          </div>
+        <span className="hero-title">{workbench.title}</span>
+        <div className="hero-meta">
+          <span className="hero-meta-chip">
+            Ref: <strong>{languageLabel(workbench, refLang)}</strong>
+          </span>
+          <span className="hero-meta-chip">
+            <kbd style={{ fontSize: '0.9em', opacity: 0.6 }}>Cmd+S</kbd>
+          </span>
         </div>
-        <div className="hero-stats-grid">
-          <StatCard label="Visible rows" value={filteredRows.length} />
-          <StatCard
-            label="Rows with issues"
-            value={
-              filteredRows.filter((row) =>
-                selectedLanguages.some((language) => row.values[language]?.missing || row.values[language]?.sameAsReference || row.values[language]?.likelyUntranslated || row.values[language]?.placeholderMismatch)
-              ).length
-            }
-          />
-          <StatCard label="Dirty edits" value={dirtyDraftCount} />
-          <StatCard label="Loaded datasets" value={selectedDatasetIds.length} />
+        <div className="hero-stats">
+          <div className="stat-item">
+            <span>Rows</span>
+            <strong>{filteredRows.length}</strong>
+          </div>
+          <div className="stat-item">
+            <span>Issues</span>
+            <strong>{rowsWithIssues}</strong>
+          </div>
+          <div className="stat-item">
+            <span>Unsaved</span>
+            <strong>{dirtyDraftCount}</strong>
+          </div>
         </div>
       </section>
 
       <section className="control-panel">
         <div className="control-grid">
-          <div className="control-group">
-            <label className="control-label" htmlFor="translation-search">
-              Search
-            </label>
+          <div className="control-group control-group--search">
+            <label className="control-label" htmlFor="translation-search">Search</label>
             <input
               id="translation-search"
               className="search-input"
               type="search"
-              placeholder="Search keys, values, placeholders, or namespaces..."
+              placeholder="Keys, values, namespaces..."
               value={searchQuery}
-              onChange={(event) => {
-                const nextValue = event.target.value
-                startTransition(() => {
-                  setSearchQuery(nextValue)
-                })
-              }}
+              onChange={(e) => { const v = e.target.value; startTransition(() => setSearchQuery(v)) }}
             />
           </div>
-
-          <div className="control-group">
-            <label className="control-label" htmlFor="namespace-select">
-              Namespace
-            </label>
+          <div className="control-group control-group--namespace">
+            <label className="control-label" htmlFor="namespace-select">Namespace</label>
             <select
               id="namespace-select"
               className="select-input"
               value={namespaceFilter}
-              onChange={(event) => setNamespaceFilter(event.target.value)}
+              onChange={(e) => setNamespaceFilter(e.target.value)}
             >
-              {namespaceOptions.map((namespace) => (
-                <option key={namespace} value={namespace}>
-                  {namespace === 'all' ? 'All namespaces' : namespace}
-                </option>
+              {namespaceOptions.map((ns) => (
+                <option key={ns} value={ns}>{ns === 'all' ? 'All' : ns}</option>
               ))}
             </select>
           </div>
-
-          <div className="control-group control-group--actions">
-            <button
-              className="action-button"
-              onClick={() => void loadWorkbench()}
-              type="button"
-            >
-              Reload
-            </button>
+          <div className="control-group--actions">
+            <button className="action-button" onClick={() => void loadWorkbench()} type="button">Reload</button>
             <button
               className="action-button action-button--strong"
               disabled={dirtyDraftCount === 0 || saving}
               onClick={() => void saveDrafts()}
               type="button"
             >
-              {saving ? 'Saving…' : `Save ${dirtyDraftCount || ''}`.trim()}
+              {saving ? 'Saving...' : `Save ${dirtyDraftCount || ''}`.trim()}
             </button>
           </div>
         </div>
 
         <div className="filter-section">
           <div className="filter-group">
-            <span className="control-label">Datasets</span>
+            <span className="filter-group-label">Sets</span>
             <div className="pill-row">
-              {workbench.datasets.map((dataset) => (
+              {workbench.datasets.map((ds) => (
                 <button
-                  key={dataset.id}
-                  className={`filter-pill ${
-                    selectedDatasetSet.has(dataset.id) ? 'filter-pill--active' : ''
-                  }`}
-                  onClick={() => toggleDataset(dataset.id)}
+                  key={ds.id}
+                  className={`filter-pill ${selectedDatasetSet.has(ds.id) ? 'filter-pill--active' : ''}`}
+                  onClick={() => toggleDataset(ds.id)}
                   type="button"
                 >
-                  <span>{dataset.label}</span>
-                  <strong>{dataset.stats.rows}</strong>
+                  <span>{ds.label}</span>
+                  <strong>{ds.stats.rows}</strong>
                 </button>
               ))}
             </div>
           </div>
 
+          <div className="filter-group-divider" />
+
           <div className="filter-group">
-            <span className="control-label">Languages</span>
+            <span className="filter-group-label">Lang</span>
             <div className="pill-row">
               {workbench.languageOrder.map((language) => (
                 <button
                   key={language}
-                  className={`filter-pill filter-pill--language ${
-                    selectedLanguageSet.has(language) ? 'filter-pill--active' : ''
-                  }`}
+                  className={`filter-pill filter-pill--language ${selectedLanguageSet.has(language) ? 'filter-pill--active' : ''}`}
                   onClick={() => toggleLanguage(language)}
-                  style={{
-                    '--accent': workbench.languages[language]?.accent ?? '#4254c5',
-                  }}
+                  style={{ '--accent': workbench.languages[language]?.accent ?? '#4DC3EA' }}
                   type="button"
                 >
-                  <span>{languageLabel(workbench, language)}</span>
-                  <strong>{language.toUpperCase()}</strong>
+                  <span>{language.toUpperCase()}</span>
                 </button>
               ))}
             </div>
           </div>
 
+          <div className="filter-group-divider" />
+
           <div className="filter-group">
-            <span className="control-label">Issue filters</span>
+            <span className="filter-group-label">Issues</span>
             <div className="pill-row">
               {ISSUE_FILTER_FIELDS.map((filter) => (
                 <button
                   key={filter.id}
-                  className={`filter-pill ${
-                    issueFilters[filter.id] ? 'filter-pill--active' : ''
-                  }`}
+                  className={`filter-pill ${issueFilters[filter.id] ? 'filter-pill--active' : ''}`}
                   onClick={() => toggleIssueFilter(filter.id)}
                   type="button"
                 >
@@ -522,13 +384,11 @@ export function App() {
                 </button>
               ))}
               <button
-                className={`filter-pill ${
-                  issueFilters.dirtyOnly ? 'filter-pill--active' : ''
-                }`}
+                className={`filter-pill ${issueFilters.dirtyOnly ? 'filter-pill--active' : ''}`}
                 onClick={() => toggleIssueFilter('dirtyOnly')}
                 type="button"
               >
-                <span>Dirty only</span>
+                <span>Dirty</span>
                 <strong>{dirtyDraftCount}</strong>
               </button>
             </div>
@@ -536,93 +396,54 @@ export function App() {
         </div>
 
         {status ? (
-          <p className={`status-banner status-banner--${status.tone}`}>
-            {status.message}
-          </p>
+          <p className={`status-banner status-banner--${status.tone}`}>{status.message}</p>
         ) : null}
       </section>
 
-      <section className="list-header">
-        <div>
-          <p className="eyebrow">Results</p>
-          <h2>
-            Showing {visibleRows.length} of {filteredRows.length} matching rows
-          </h2>
-        </div>
-        <p className="list-header-copy">
-          Each row keeps the key on the left and stacks the selected languages on
-          the right so you can compare, scan, and edit without leaving the table.
-        </p>
-      </section>
+      <div className="list-header">
+        <h2>{visibleRows.length} of {filteredRows.length} rows</h2>
+      </div>
 
       <section className="translation-list">
         {visibleRows.map((row) => {
-          const rowDrafts = selectedLanguages.filter((language) =>
-            Object.prototype.hasOwnProperty.call(
-              drafts,
-              createCellId(row.datasetId, row.key, language)
-            )
+          const rowDrafts = selectedLanguages.filter((l) =>
+            Object.prototype.hasOwnProperty.call(drafts, createCellId(row.datasetId, row.key, l))
           )
-          const hiddenReference = !selectedLanguageSet.has(row.referenceLanguage)
-          const rowIssues = summarizeRowIssues(row, selectedLanguages)
+          const rowIssues = summarizeRowIssues(row, targetLanguages)
+          const refCell = row.values[refLang]
 
           return (
             <article className="translation-row" key={row.id}>
-              <div className="translation-key-column">
-                <div className="translation-key-topline">
+              <div className="ref-lane">
+                <div className="ref-lane-topline">
                   <span className="dataset-badge">{row.datasetLabel}</span>
+                  <span className="ref-lane-meta">
+                    <strong>{row.namespace}</strong> / {row.tag}
+                  </span>
                   {rowDrafts.length > 0 ? (
-                    <span className="dirty-badge">{rowDrafts.length} dirty</span>
+                    <span className="dirty-badge">{rowDrafts.length} unsaved</span>
                   ) : null}
                 </div>
                 <h3>{row.key}</h3>
-                <p className="translation-key-meta">
-                  Namespace <strong>{row.namespace}</strong> · Tag{' '}
-                  <strong>{row.tag}</strong>
-                </p>
-
-                {hiddenReference ? (
-                  <div className="reference-panel">
-                    <span className="reference-label">
-                      {languageLabel(workbench, row.referenceLanguage)}
-                    </span>
-                    <p>{row.referenceValue || 'No reference string'}</p>
+                <div className={`ref-text ${!row.referenceValue ? 'ref-text--empty' : ''}`}>
+                  {row.referenceValue || 'No reference string'}
+                </div>
+                {(rowIssues.missingCount > 0 || rowIssues.sameAsReferenceCount > 0 || rowIssues.likelyUntranslatedCount > 0 || rowIssues.placeholderMismatchCount > 0) ? (
+                  <div className="issue-chip-row">
+                    {rowIssues.missingCount > 0 ? <span className="issue-chip issue-chip--missing">Missing {rowIssues.missingCount}</span> : null}
+                    {rowIssues.sameAsReferenceCount > 0 ? <span className="issue-chip issue-chip--warning">Same {rowIssues.sameAsReferenceCount}</span> : null}
+                    {rowIssues.likelyUntranslatedCount > 0 ? <span className="issue-chip issue-chip--warning">Untranslated {rowIssues.likelyUntranslatedCount}</span> : null}
+                    {rowIssues.placeholderMismatchCount > 0 ? <span className="issue-chip issue-chip--danger">Placeholder {rowIssues.placeholderMismatchCount}</span> : null}
                   </div>
                 ) : null}
-
-                <div className="issue-chip-row">
-                  {rowIssues.missingCount > 0 ? (
-                    <span className="issue-chip">Missing {rowIssues.missingCount}</span>
-                  ) : null}
-                  {rowIssues.sameAsReferenceCount > 0 ? (
-                    <span className="issue-chip">
-                      Same as ref {rowIssues.sameAsReferenceCount}
-                    </span>
-                  ) : null}
-                  {rowIssues.likelyUntranslatedCount > 0 ? (
-                    <span className="issue-chip">
-                      Likely untranslated {rowIssues.likelyUntranslatedCount}
-                    </span>
-                  ) : null}
-                  {rowIssues.placeholderMismatchCount > 0 ? (
-                    <span className="issue-chip">
-                      Placeholder mismatch {rowIssues.placeholderMismatchCount}
-                    </span>
-                  ) : null}
-                </div>
-
                 {rowDrafts.length > 0 ? (
                   <button
                     className="inline-save-button"
                     onClick={() =>
                       void saveDrafts(
                         Object.fromEntries(
-                          rowDrafts.map((language) => {
-                            const cellId = createCellId(
-                              row.datasetId,
-                              row.key,
-                              language
-                            )
+                          rowDrafts.map((l) => {
+                            const cellId = createCellId(row.datasetId, row.key, l)
                             return [cellId, drafts[cellId]]
                           })
                         )
@@ -635,63 +456,43 @@ export function App() {
                 ) : null}
               </div>
 
-              <div className="translation-stack">
-                {selectedLanguages.map((language) => {
+              <div className="target-lane">
+                {targetLanguages.map((language) => {
                   const cell = row.values[language]
+                  if (!cell) return null
                   const cellId = createCellId(row.datasetId, row.key, language)
-                  const draftValue =
-                    drafts[cellId] === undefined ? cell.value : drafts[cellId]
-                  const draftAnalysis =
-                    draftValue === cell.value
-                      ? cell
-                      : analyzeTranslationValue({
-                          value: draftValue,
-                          referenceValue: row.referenceValue,
-                          language,
-                          referenceLanguage: row.referenceLanguage,
-                        })
+                  const draftValue = drafts[cellId] === undefined ? cell.value : drafts[cellId]
+                  const draftAnalysis = draftValue === cell.value
+                    ? cell
+                    : analyzeTranslationValue({
+                        value: draftValue,
+                        referenceValue: row.referenceValue,
+                        language,
+                        referenceLanguage: row.referenceLanguage,
+                      })
+
+                  const hasIssue = draftAnalysis.missing || draftAnalysis.sameAsReference ||
+                    draftAnalysis.likelyUntranslated || draftAnalysis.placeholderMismatch
 
                   return (
                     <label
-                      className={`translation-card ${
-                        drafts[cellId] !== undefined ? 'translation-card--dirty' : ''
-                      }`}
+                      className={`target-card ${drafts[cellId] !== undefined ? 'target-card--dirty' : ''}`}
                       key={cellId}
-                      style={{
-                        '--accent': workbench.languages[language]?.accent ?? '#4254c5',
-                      }}
+                      style={{ '--accent': workbench.languages[language]?.accent ?? '#4DC3EA' }}
                     >
-                      <div className="translation-card-header">
-                        <div>
-                          <span className="translation-language">
-                            {languageLabel(workbench, language)}
-                          </span>
-                          <span className="translation-file">
-                            {cell.relativeFilePath}
-                          </span>
-                        </div>
-                        <div className="issue-chip-row issue-chip-row--tight">
-                          {draftAnalysis.missing ? (
-                            <span className="issue-chip issue-chip--missing">
-                              Missing
-                            </span>
-                          ) : null}
-                          {draftAnalysis.sameAsReference ? (
-                            <span className="issue-chip issue-chip--warning">
-                              Same as reference
-                            </span>
-                          ) : null}
-                          {draftAnalysis.likelyUntranslated ? (
-                            <span className="issue-chip issue-chip--warning">
-                              Likely untranslated
-                            </span>
-                          ) : null}
-                          {draftAnalysis.placeholderMismatch ? (
-                            <span className="issue-chip issue-chip--danger">
-                              Placeholder mismatch
-                            </span>
-                          ) : null}
-                        </div>
+                      <div className="target-card-header">
+                        <span className="translation-language">
+                          {languageLabel(workbench, language)}
+                        </span>
+                        <span className="translation-file">{cell.relativeFilePath}</span>
+                        {hasIssue ? (
+                          <div className="issue-chip-row issue-chip-row--tight">
+                            {draftAnalysis.missing ? <span className="issue-chip issue-chip--missing">Missing</span> : null}
+                            {draftAnalysis.sameAsReference ? <span className="issue-chip issue-chip--warning">Same</span> : null}
+                            {draftAnalysis.likelyUntranslated ? <span className="issue-chip issue-chip--warning">Untranslated</span> : null}
+                            {draftAnalysis.placeholderMismatch ? <span className="issue-chip issue-chip--danger">Placeholder</span> : null}
+                          </div>
+                        ) : null}
                       </div>
 
                       <textarea
@@ -699,36 +500,25 @@ export function App() {
                         rows={textareaRows(draftValue)}
                         spellCheck={false}
                         value={draftValue}
-                        onChange={(event) =>
-                          updateDraft(row, language, event.target.value)
-                        }
+                        onChange={(e) => updateDraft(row, language, e.target.value)}
                       />
 
-                      <div className="translation-card-footer">
-                        <div className="translation-placeholder-line">
-                          <span>
-                            Placeholders:{' '}
-                            {draftAnalysis.actualPlaceholders.length > 0
-                              ? draftAnalysis.actualPlaceholders.join(', ')
-                              : 'none'}
-                          </span>
+                      {(draftAnalysis.placeholderMismatch || draftAnalysis.sharedReferenceWords.length > 0) ? (
+                        <div className="target-card-footer">
                           {draftAnalysis.placeholderMismatch ? (
                             <span>
-                              Expected {draftAnalysis.expectedPlaceholders.join(', ') || 'none'}
+                              Placeholders: {draftAnalysis.actualPlaceholders.join(', ') || 'none'} (expected {draftAnalysis.expectedPlaceholders.join(', ') || 'none'})
                             </span>
                           ) : null}
+                          {draftAnalysis.sharedReferenceWords.length > 0 ? (
+                            <div className="shared-word-row">
+                              {draftAnalysis.sharedReferenceWords.map((word) => (
+                                <span className="shared-word-chip" key={word}>{word}</span>
+                              ))}
+                            </div>
+                          ) : null}
                         </div>
-
-                        {draftAnalysis.sharedReferenceWords.length > 0 ? (
-                          <div className="shared-word-row">
-                            {draftAnalysis.sharedReferenceWords.map((word) => (
-                              <span className="shared-word-chip" key={word}>
-                                {word}
-                              </span>
-                            ))}
-                          </div>
-                        ) : null}
-                      </div>
+                      ) : null}
                     </label>
                   )
                 })}
@@ -741,26 +531,15 @@ export function App() {
       {filteredRows.length > visibleRows.length ? (
         <div className="load-more-shell">
           <button
-            className="action-button"
-            onClick={() =>
-              setVisibleRowCount((current) => current + ROW_BATCH_SIZE)
-            }
+            className="action-button action-button--strong"
+            onClick={() => setVisibleRowCount((c) => c + ROW_BATCH_SIZE)}
             type="button"
           >
-            Load {Math.min(ROW_BATCH_SIZE, filteredRows.length - visibleRows.length)} more rows
+            Load {Math.min(ROW_BATCH_SIZE, filteredRows.length - visibleRows.length)} more
           </button>
         </div>
       ) : null}
     </main>
-  )
-}
-
-function StatCard({ label, value }) {
-  return (
-    <div className="stat-card">
-      <span>{label}</span>
-      <strong>{value}</strong>
-    </div>
   )
 }
 
@@ -770,6 +549,6 @@ function languageLabel(workbench, language) {
 
 function textareaRows(value) {
   const lineCount = value.split('\n').length
-  const wrappedLineCount = Math.ceil(value.length / 84)
-  return Math.max(3, Math.min(9, Math.max(lineCount, wrappedLineCount)))
+  const wrappedLineCount = Math.ceil(value.length / 80)
+  return Math.max(2, Math.min(6, Math.max(lineCount, wrappedLineCount)))
 }

@@ -74,7 +74,7 @@ export default {
       description: 'Push notification titles and bodies',
       kind: 'language-nodes',
       file: 'notifications/notifications.json',
-      languages: ['en', 'sv', 'pl', 'fr'],
+      languages: ['en', 'sv', 'pl', 'fr', 'es'],
     },
   ],
 }
