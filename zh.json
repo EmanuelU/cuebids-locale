@@ -116,6 +116,19 @@
       "personal_note": "个人笔记",
       "personal_notes": "个人笔记",
       "hidden_message": "隐藏信息",
+      "message_actions": "消息操作",
+      "edit_message": "编辑",
+      "edit_message_prompt": "编辑消息",
+      "delete_message": "删除",
+      "delete_confirm": "删除这条消息？",
+      "deleted_message": "消息已删除",
+      "edit_window_expired": "消息只能在 30 分钟内修改。",
+      "edited_label": "已编辑",
+      "typing": "正在输入...",
+      "typing_label": "{{displayName}} 正在输入...",
+      "update_failed": "无法更新消息，请重试。",
+      "delete_failed": "无法删除消息，请重试。",
+      "more_send_options": "更多发送选项",
       "never_revealed": "从未透露过",
       "revealed_after_deal": "牌局结束后揭晓"
     },
@@ -2646,7 +2659,10 @@
     "no_friends_added_info": "您还没有添加任何好友。单击此处添加好友。",
     "all_friends_blocked_info": "您已屏蔽所有好友。如果您显示已阻止，则可以取消阻止它们。单击此处显示已阻止。",
     "pending_requests_info": "您有待接受的好友请求",
-    "outstanding_requests_info": "等待您的好友接受您的好友请求"
+    "outstanding_requests_info": "等待您的好友接受您的好友请求",
+    "no_messages_yet": "暂无消息",
+    "unread_messages": "未读消息",
+    "open_chat": "打开聊天"
   },
   "stats_dashboard": {
     "tab_pairs": "双人",
