@@ -1617,7 +1617,7 @@
     "reconnect": "重新连接",
     "connection_issues": "连接问题",
     "matchmaking_successful_notification": "已找到匹配！牌局已开始。",
-    "challenge_matchmaking_successful_notification": "找到匹配的了！挑战已经开始"
+    "challenge_matchmaking_successful_notification": "已找到匹配！挑战已开始。"
   },
   "maintenance": {
     "title": "维护保养",
