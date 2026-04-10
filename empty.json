@@ -90,7 +90,8 @@
     },
     "chat": {
       "placeholder": "",
-      "send": ""
+      "send": "",
+      "setting_up_friend_chat": ""
     },
     "unscored_deal": {
       "contract": "",
