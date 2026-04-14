@@ -1,4 +1,56 @@
 {
+  "event_invite": {
+    "en": {
+      "title": "Invited to play",
+      "text": "{{partner}} invited you to play the event: {{event}}"
+    },
+    "sv": {
+      "title": "Inbjudan att spela",
+      "text": "{{partner}} har bjudit in dig att spela eventet: {{event}}"
+    },
+    "pl": {
+      "title": "Zaproszenie do gry",
+      "text": "{{partner}} zaprosił Cię do zagrania wydarzenia: {{event}}"
+    },
+    "fr": {
+      "title": "Invité à jouer",
+      "text": "{{partner}} vous a invité à jouer l'événement : {{event}}"
+    },
+    "es": {
+      "title": "Invitación para jugar",
+      "text": "{{partner}} te ha invitado a jugar el evento: {{event}}"
+    },
+    "zh": {
+      "title": "邀请你一起玩",
+      "text": "{{partner}} 邀请你参加活动：{{event}}"
+    }
+  },
+  "waiting_for_you": {
+    "en": {
+      "title": "{{partner}} waiting for you",
+      "text": "It's your turn to bid!"
+    },
+    "sv": {
+      "title": "{{partner}} väntar på dig",
+      "text": "Din tur att bjuda!"
+    },
+    "pl": {
+      "title": "{{partner}} czeka na ciebie",
+      "text": "Twoja kolej do licytacji!"
+    },
+    "fr": {
+      "title": "{{partner}} vous attend",
+      "text": "C'est à vous de miser !"
+    },
+    "es": {
+      "title": "{{partner}} te espera",
+      "text": "¡Te toca pujar!"
+    },
+    "zh": {
+      "title": "{{partner}} 正在等你",
+      "text": "轮到你叫牌了！"
+    }
+  },
   "partner_finished_bidding": {
     "en": {
       "title": "{{partner}} finished bidding",
@@ -17,8 +69,12 @@
       "text": "C'est à votre tour !"
     },
     "es": {
-      "title": "{{partner}} ha terminado de pujar",
-      "text": "Te toca a ti."
+      "title": "{{partner}} terminó de pujar",
+      "text": "¡Es tu turno!"
+    },
+    "zh": {
+      "title": "{{partner}} 已完成叫牌",
+      "text": "轮到你了！"
     }
   },
   "partner_started_session": {
@@ -40,7 +96,11 @@
     },
     "es": {
       "title": "Nueva sesión con {{partner}}",
-      "text": "Tu compañero {{partner}} ha iniciado una nueva sesión."
+      "text": "¡Tu compañero {{partner}} ha iniciado una nueva sesión!"
+    },
+    "zh": {
+      "title": "与 {{partner}} 的新牌局",
+      "text": "搭档 {{partner}} 开始了一场新牌局！"
     }
   },
   "event_joined": {
@@ -61,8 +121,12 @@
       "text": "Vous avez rejoint le {{event}} avec le partenaire {{partner}}"
     },
     "es": {
-      "title": "Te has unido al evento",
-      "text": "Te has unido a {{event}} con tu compañero {{partner}}"
+      "title": "Te uniste al evento",
+      "text": "Te has unido al {{event}} con tu compañero {{partner}}"
+    },
+    "zh": {
+      "title": "已加入活动",
+      "text": "你已与搭档 {{partner}} 一起加入 {{event}}"
     }
   },
   "session_finished": {
@@ -84,7 +148,11 @@
     },
     "es": {
       "title": "Sesión terminada",
-      "text": "Tú y {{partner}} habéis terminado de pujar"
+      "text": "Tú y {{partner}} habéis terminado la subasta"
+    },
+    "zh": {
+      "title": "牌局已结束",
+      "text": "你和 {{partner}} 已完成叫牌"
     }
   },
   "new_friend": {
@@ -106,7 +174,11 @@
     },
     "es": {
       "title": "Nuevo amigo",
-      "text": "{{partner}} te ha añadido como amigo"
+      "text": "{{partner}} te añadió como amigo"
+    },
+    "zh": {
+      "title": "新好友",
+      "text": "{{partner}} 已将你添加为好友"
     }
   },
   "friend_request": {
@@ -129,6 +201,10 @@
     "es": {
       "title": "Solicitud de amistad",
       "text": "{{partner}} te ha enviado una solicitud de amistad"
+    },
+    "zh": {
+      "title": "好友请求",
+      "text": "{{partner}} 向你发送了好友请求"
     }
   },
   "challenged": {
@@ -149,8 +225,12 @@
       "text": "{{opponent1}} et {{opponent2}} vous ont défié"
     },
     "es": {
-      "title": "Te han desafiado",
-      "text": "{{opponent1}} y {{opponent2}} te han desafiado"
+      "title": "¡Te han retado!",
+      "text": "{{opponent1}} y {{opponent2}} te han retado"
+    },
+    "zh": {
+      "title": "你被挑战了！",
+      "text": "{{opponent1}} 和 {{opponent2}} 向你发起了挑战"
     }
   },
   "found_matchmaking": {
@@ -172,7 +252,11 @@
     },
     "es": {
       "title": "Partida encontrada",
-      "text": "Ha comenzado una sesión con {{partner}}. ¡Buena suerte!"
+      "text": "Ha empezado una sesión con {{partner}}. ¡Buena suerte!"
+    },
+    "zh": {
+      "title": "已找到对局",
+      "text": "你与 {{partner}} 的牌局已开始，祝你好运！"
     }
   },
   "found_challenge": {
@@ -193,8 +277,12 @@
       "text": "Contre {{opponent1}} et {{opponent2}}"
     },
     "es": {
-      "title": "Desafío iniciado",
+      "title": "El desafío ha comenzado",
       "text": "Contra {{opponent1}} y {{opponent2}}"
+    },
+    "zh": {
+      "title": "挑战已开始",
+      "text": "对阵 {{opponent1}} 和 {{opponent2}}"
     }
   },
   "group_event_invite": {
@@ -217,6 +305,10 @@
     "es": {
       "title": "Invitación para jugar",
       "text": "{{partner}} te ha invitado a jugar el evento: {{event}}"
+    },
+    "zh": {
+      "title": "邀请你一起玩",
+      "text": "{{partner}} 邀请你参加活动：{{event}}"
     }
   },
   "group_event_accepted": {
@@ -239,6 +331,10 @@
     "es": {
       "title": "Invitación aceptada",
       "text": "{{partner}} ha aceptado tu invitación para jugar el evento: {{event}}"
+    },
+    "zh": {
+      "title": "邀请已接受",
+      "text": "{{partner}} 已接受你参加活动 {{event}} 的邀请"
     }
   },
   "group_invite": {
@@ -259,8 +355,12 @@
       "text": "Vous avez été invité au groupe : {{group}}"
     },
     "es": {
-      "title": "Invitación a grupo",
+      "title": "Invitación al grupo",
       "text": "Has sido invitado al grupo: {{group}}"
+    },
+    "zh": {
+      "title": "群组邀请",
+      "text": "你已被邀请加入群组：{{group}}"
     }
   },
   "group_added": {
@@ -283,6 +383,10 @@
     "es": {
       "title": "Añadido al grupo",
       "text": "Has sido añadido al grupo: {{group}}"
+    },
+    "zh": {
+      "title": "已加入群组",
+      "text": "你已被加入群组：{{group}}"
     }
   },
   "group_promotion": {
@@ -303,8 +407,12 @@
       "text": "Vous avez été promu membre premium du groupe : {{group}}"
     },
     "es": {
-      "title": "Miembro premium del grupo",
-      "text": "Has sido ascendido a miembro premium del grupo: {{group}}"
+      "title": "Miembro prémium del grupo",
+      "text": "Has sido ascendido a miembro prémium del grupo: {{group}}"
+    },
+    "zh": {
+      "title": "群组高级成员",
+      "text": "你已被提升为群组 {{group}} 的高级成员"
     }
   },
   "new_group_event": {
@@ -327,6 +435,10 @@
     "es": {
       "title": "Nuevo evento",
       "text": "Nuevo evento en {{group}}"
+    },
+    "zh": {
+      "title": "新活动",
+      "text": "{{group}} 中有新活动"
     }
   },
   "session_shared": {
@@ -348,7 +460,37 @@
     },
     "es": {
       "title": "Sesión compartida",
-      "text": "{{partner}} ha compartido una sesión contigo"
+      "text": "{{user}} compartió una sesión contigo"
+    },
+    "zh": {
+      "title": "牌局已分享",
+      "text": "{{user}} 与你分享了一场牌局"
+    }
+  },
+  "session_deal_shared": {
+    "en": {
+      "title": "Board shared",
+      "text": "{{user}} shared a board with you"
+    },
+    "sv": {
+      "title": "Bräde delat",
+      "text": "{{user}} delade ett bräde med dig"
+    },
+    "pl": {
+      "title": "Rozdanie udostępnione",
+      "text": "{{user}} udostępnił Ci rozdanie"
+    },
+    "fr": {
+      "title": "Donne partagée",
+      "text": "{{user}} a partagé une donne avec vous"
+    },
+    "es": {
+      "title": "Mano compartida",
+      "text": "{{user}} compartió una mano contigo"
+    },
+    "zh": {
+      "title": "牌局已分享",
+      "text": "{{user}} 与你分享了一副牌"
     }
   },
   "new_performance_reports": {
@@ -369,8 +511,142 @@
       "text": "Cette semaine, vous avez terminé {{dealsFinished}} parties avec {{numberOfPartners}} partenaires et vous avez obtenu en moyenne {{averageGrade}} étoiles !"
     },
     "es": {
-      "title": "Nuevos informes de rendimiento",
-      "text": "Tus nuevos informes de rendimiento ya están listos"
+      "title": "Nuevos informes semanales",
+      "text": "Esta semana completaste {{dealsFinished}} manos con {{numberOfPartners}} compañeros y promediaste {{averageGrade}} estrellas."
+    },
+    "zh": {
+      "title": "新的每周报告",
+      "text": "本周你与 {{numberOfPartners}} 位搭档完成了 {{dealsFinished}} 副牌，平均获得了 {{averageGrade}} 颗星！"
+    }
+  },
+  "bid_reminder": {
+    "en": {
+      "title": "Your partner is waiting for you...!",
+      "text": "You have {{count}} deals waiting for you."
+    },
+    "sv": {
+      "title": "Din partner väntar på dig!",
+      "text": "Du har {{count}} givar som väntar på dig."
+    },
+    "pl": {
+      "title": "Twój partner czeka na Ciebie!",
+      "text": "Masz {{count}} licytacji, które czekają na Ciebie."
+    },
+    "fr": {
+      "title": "Votre partenaire vous attend !",
+      "text": "Vous avez {{count}} enchères en attente."
+    },
+    "es": {
+      "title": "¡Tu compañero te está esperando!",
+      "text": "Tienes {{count}} manos esperándote."
+    },
+    "zh": {
+      "title": "你的搭档正在等你！",
+      "text": "你有 {{count}} 副牌正在等你。"
+    }
+  },
+  "event_reminder_headline": {
+    "en": {
+      "title": "{{event}}: {{headline}}",
+      "text": "{{description}}"
+    },
+    "sv": {
+      "title": "{{event}}: {{headline}}",
+      "text": "{{description}}"
+    },
+    "pl": {
+      "title": "{{event}}: {{headline}}",
+      "text": "{{description}}"
+    },
+    "fr": {
+      "title": "{{event}} : {{headline}}",
+      "text": "{{description}}"
+    },
+    "es": {
+      "title": "{{event}}: {{headline}}",
+      "text": "{{description}}"
+    },
+    "zh": {
+      "title": "{{event}}：{{headline}}",
+      "text": "{{description}}"
+    }
+  },
+  "event_reminder_generic": {
+    "en": {
+      "title": "A new {{event}} Event is available!",
+      "text": "Join now!"
+    },
+    "sv": {
+      "title": "Ett nytt {{event}}-event finns tillgängligt!",
+      "text": "Spela nu!"
+    },
+    "pl": {
+      "title": "Nowe wydarzenie {{event}} jest dostępne!",
+      "text": "Dołącz teraz!"
+    },
+    "fr": {
+      "title": "Un nouvel événement {{event}} est disponible !",
+      "text": "Rejoignez maintenant !"
+    },
+    "es": {
+      "title": "¡Hay un nuevo evento de {{event}} disponible!",
+      "text": "¡Únete ahora!"
+    },
+    "zh": {
+      "title": "新的 {{event}} 活动已开放！",
+      "text": "立即加入！"
+    }
+  },
+  "daily_event_reminder_generic": {
+    "en": {
+      "title": "A new daily event is available!",
+      "text": "Join now!"
+    },
+    "sv": {
+      "title": "Dagens tävling har startat!",
+      "text": "Spela nu!"
+    },
+    "pl": {
+      "title": "Nowe dzienne wydarzenie jest dostępne!",
+      "text": "Dołącz teraz!"
+    },
+    "fr": {
+      "title": "Un nouvel événement quotidien est disponible !",
+      "text": "Rejoignez maintenant !"
+    },
+    "es": {
+      "title": "¡Hay un nuevo evento diario disponible!",
+      "text": "¡Únete ahora!"
+    },
+    "zh": {
+      "title": "新的每日活动已开放！",
+      "text": "立即加入！"
+    }
+  },
+  "weekly_event_reminder_generic": {
+    "en": {
+      "title": "A new weekly event is available!",
+      "text": "Join now!"
+    },
+    "sv": {
+      "title": "Veckans tävling har startat!",
+      "text": "Spela nu!"
+    },
+    "pl": {
+      "title": "Nowe tygodniowe wydarzenie jest dostępne!",
+      "text": "Dołącz teraz!"
+    },
+    "fr": {
+      "title": "Un nouvel événement hebdomadaire est disponible !",
+      "text": "Rejoignez maintenant !"
+    },
+    "es": {
+      "title": "¡Hay un nuevo evento semanal disponible!",
+      "text": "¡Únete ahora!"
+    },
+    "zh": {
+      "title": "新的每周活动已开放！",
+      "text": "立即加入！"
     }
   },
   "league_attendance_requested": {
@@ -393,6 +669,10 @@
     "es": {
       "title": "Calendario de liga confirmado",
       "text": "Completa tu disponibilidad para {{season}}."
+    },
+    "zh": {
+      "title": "联赛赛程已确认",
+      "text": "请填写你在 {{season}} 的出勤情况。"
     }
   },
   "league_availability_reminder": {
@@ -415,6 +695,10 @@
     "es": {
       "title": "Recordatorio de disponibilidad",
       "text": "Todavía tienes partidos de liga por responder en {{season}}."
+    },
+    "zh": {
+      "title": "联赛出勤提醒",
+      "text": "你在 {{season}} 里还有联赛场次尚未回复。"
     }
   },
   "league_captain_short_team_warning": {
@@ -437,6 +721,10 @@
     "es": {
       "title": "Aviso de equipo corto",
       "text": "{{match}} solo tiene {{count}} jugadores disponibles."
+    },
+    "zh": {
+      "title": "阵容不足警告",
+      "text": "{{match}} 目前只有 {{count}} 名可上场球员。"
     }
   },
   "league_captain_missing_lineup_warning": {
@@ -459,6 +747,38 @@
     "es": {
       "title": "Falta la alineación",
       "text": "Todavía no se ha definido la alineación para {{match}}."
+    },
+    "zh": {
+      "title": "尚未设置阵容",
+      "text": "{{match}} 还没有确定出场阵容。"
+    }
+  },
+  "common": {
+    "join_now": {
+      "en": "Join now!",
+      "sv": "Spela nu!",
+      "pl": "Dołącz teraz!",
+      "fr": "Rejoignez maintenant !",
+      "es": "¡Únete ahora!",
+      "zh": "立即加入！"
+    }
+  },
+  "event_names": {
+    "daily_headline": {
+      "en": "Daily",
+      "sv": "Dagens",
+      "pl": "Dzienny",
+      "fr": "Quotidien",
+      "es": "Diario",
+      "zh": "每日"
+    },
+    "weekly_headline": {
+      "en": "Weekly",
+      "sv": "Veckans",
+      "pl": "Tygodniowy",
+      "fr": "Hebdomadaire",
+      "es": "Semanal",
+      "zh": "每周"
     }
   }
 }
