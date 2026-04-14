@@ -645,6 +645,8 @@
       "failed_no_user": "No se pudo iniciar sesión. No se encontró ninguna cuenta con este número ACBL o con la dirección de correo vinculada; crea primero una cuenta en Cuebids.",
       "create_account_success": "Bienvenido a Cuebids. Nos alegra tenerte aquí <3",
       "auth_invalid_email": "La dirección de correo no es válida. Revisa cómo la has escrito.",
+      "auth_email_already_in_use": "Ya existe una cuenta con este correo. Inicia sesión en su lugar o usa ¿Olvidaste tu contraseña? si hace falta.",
+      "auth_email_already_in_use_sign_in": "Este correo ya tiene una cuenta. Te hemos cambiado a iniciar sesión. Si no recuerdas la contraseña, usa ¿Olvidaste tu contraseña?.",
       "auth_user_not_found": "La cuenta no existe.\nRevisa cómo has escrito el correo o prueba con otra dirección.",
       "auth_too_many_requests": "Has hecho demasiadas solicitudes. Espera a que llegue el correo o contacta con soporte en support@cuebids.com.",
       "auth_wrong_password": "Contraseña incorrecta.\n¿La olvidaste? Pulsa el enlace de recuperar contraseña."

@@ -641,6 +641,8 @@
       "failed_no_user": "Niepowodzenie logowania. Nie znaleziono konta z tym numerem ACBL lub podłączonym adresem e-mail, proszę najpierw utworzyć konto w Cuebids.",
       "create_account_success": "Witamy w Cuebids! Cieszymy się, że jesteś z nami <3",
       "auth_invalid_email": "Adres e-mail jest nieprawidłowy. Proszę sprawdzić pisownię.",
+      "auth_email_already_in_use": "Konto z tym adresem e-mail już istnieje. Zaloguj się zamiast tego albo użyj opcji Nie pamiętasz hasła?, jeśli trzeba.",
+      "auth_email_already_in_use_sign_in": "Ten adres e-mail ma już konto. Przełączyliśmy Cię do logowania. Jeśli nie znasz hasła, użyj opcji Nie pamiętasz hasła?.",
       "auth_user_not_found": "Konto nie istnieje. \n Proszę sprawdzić pisownię lub spróbować użyć innego adresu e-mail.",
       "auth_too_many_requests": "Zbyt wiele prób logowania. Proszę cierpliwie czekać na e-mail lub skontaktować się z pomocą techniczną na support@cuebids.com",
       "auth_wrong_password": "Nieprawidłowe hasło. \n Zapomniałeś hasła? Kliknij link do zresetowania hasła."

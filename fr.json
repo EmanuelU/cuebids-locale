@@ -641,6 +641,8 @@
       "failed_no_user": "Échec de la connexion. Aucun compte trouvé avec ce numéro ACBL ou l'adresse email connectée, veuillez d'abord créer un compte avec Cuebids.",
       "create_account_success": "Bienvenue sur Cuebids ! Nous sommes heureux que vous nous rejoigniez <3",
       "auth_invalid_email": "Adresse email invalide. Veuillez vérifier son orthographe.",
+      "auth_email_already_in_use": "Un compte existe déjà avec cette adresse email. Connectez-vous à la place, ou utilisez Mot de passe oublié si nécessaire.",
+      "auth_email_already_in_use_sign_in": "Cette adresse email a déjà un compte. Nous vous avons basculé vers la connexion. Si vous ne connaissez pas le mot de passe, utilisez Mot de passe oublié.",
       "auth_user_not_found": "Le compte n’existe pas. \n Veuillez vérifier son orthographe ou essayez une adresse email différente.",
       "auth_too_many_requests": "Vous avez fait trop de demandes. Attendez patiemment notre email ou contactez le support à l’adresse support@cuebids.com",
       "auth_wrong_password": "Mot de passe incorrect. \n Mot de passe oublié ? Cliquez sur le lien Mot de passe oublié."

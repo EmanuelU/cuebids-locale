@@ -641,6 +641,8 @@
       "failed_no_user": "Misslyckades att logga in. Inget konto hittat med detta ACBL-nummer eller den anslutna e-postadressen, vänligen skapa ett konto med Cuebids först.",
       "create_account_success": "Välkommen till Cuebids! Vi är glada att du är här <3",
       "auth_invalid_email": "E\u2011postadressen är ogiltig. Vänligen kontrollera din stavning.",
+      "auth_email_already_in_use": "Det finns redan ett konto med den här e\u2011postadressen. Logga in i stället, eller använd Glömt lösenord om det behövs.",
+      "auth_email_already_in_use_sign_in": "Den här e\u2011postadressen har redan ett konto. Vi bytte dig till inloggning. Om du inte kan lösenordet, använd Glömt lösenord.",
       "auth_user_not_found": "Kontot finns inte. \n Vänligen kontrollera din stavning eller försök med en annan e\u2011postadress.",
       "auth_too_many_requests": "Du har gjort för många försök. Vänligen vänta på att få ditt email eller kontakta supporten på support@cuebids.com",
       "auth_wrong_password": "Felaktigt lösenord. \n Har du glömt ditt lösenord? Klicka på länken för Glömt lösenord."
