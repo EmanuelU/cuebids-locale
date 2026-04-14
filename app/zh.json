@@ -703,6 +703,8 @@
       "failed_no_user": "登录失败。未找到使用此 ACBL 号码或连接的电子邮件地址的账户，请先使用 Cuebids 创建一个账户。",
       "create_account_success": "欢迎来到库比德！我们很高兴您来到这里<3",
       "auth_invalid_email": "电子邮件地址无效。请检查你的拼写。",
+      "auth_email_already_in_use": "该电子邮箱已有关联账户。请直接登录；如果不记得密码，请使用“忘记密码？”。",
+      "auth_email_already_in_use_sign_in": "该电子邮箱已有关联账户。我们已切换到登录界面；如果您不记得密码，请使用“忘记密码？”。",
       "auth_user_not_found": "账户不存在。 \n 请检查您的拼写或尝试使用其他电子邮件地址。",
       "auth_use_google": "此账户使用 Google 登录。请改用 Google 继续。",
       "auth_use_apple": "此账户使用 Apple 登录。请改用 Apple 继续。",

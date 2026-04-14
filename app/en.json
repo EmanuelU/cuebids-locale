@@ -700,6 +700,8 @@
       "failed_no_user": "Failed to login. No account found with this this ACBL number or the connected email address, please create an account with Cuebids first.",
       "create_account_success": "Welcome to Cuebids! We are glad to have you here <3",
       "auth_invalid_email": "Email address is not valid. Please check your spelling.",
+      "auth_email_already_in_use": "An account with this email already exists. Sign in instead, or use Forgot password if needed.",
+      "auth_email_already_in_use_sign_in": "This email already has an account. We switched you to sign in. If you do not know the password, use Forgot password.",
       "auth_user_not_found": "Account does not exist. \n Please check your spelling or try a different email address.",
       "auth_use_google": "This account uses Google sign-in. Continue with Google instead.",
       "auth_use_apple": "This account uses Apple sign-in. Continue with Apple instead.",
