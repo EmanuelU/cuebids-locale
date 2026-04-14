@@ -372,5 +372,93 @@
       "title": "Nuevos informes de rendimiento",
       "text": "Tus nuevos informes de rendimiento ya están listos"
     }
+  },
+  "league_attendance_requested": {
+    "en": {
+      "title": "League schedule confirmed",
+      "text": "Please fill your availability for {{season}}."
+    },
+    "sv": {
+      "title": "Ligaschemat är klart",
+      "text": "Fyll i din tillgänglighet för {{season}}."
+    },
+    "pl": {
+      "title": "Potwierdzono terminarz ligi",
+      "text": "Uzupełnij swoją dostępność na {{season}}."
+    },
+    "fr": {
+      "title": "Calendrier de ligue confirmé",
+      "text": "Veuillez indiquer vos disponibilités pour {{season}}."
+    },
+    "es": {
+      "title": "Calendario de liga confirmado",
+      "text": "Completa tu disponibilidad para {{season}}."
+    }
+  },
+  "league_availability_reminder": {
+    "en": {
+      "title": "League availability reminder",
+      "text": "You still have league matches to answer in {{season}}."
+    },
+    "sv": {
+      "title": "Påminnelse om tillgänglighet",
+      "text": "Du har fortfarande ligamatcher att svara på i {{season}}."
+    },
+    "pl": {
+      "title": "Przypomnienie o dostępności",
+      "text": "W {{season}} wciąż masz mecze ligowe bez odpowiedzi."
+    },
+    "fr": {
+      "title": "Rappel de disponibilité",
+      "text": "Vous avez encore des matchs de ligue sans réponse pour {{season}}."
+    },
+    "es": {
+      "title": "Recordatorio de disponibilidad",
+      "text": "Todavía tienes partidos de liga por responder en {{season}}."
+    }
+  },
+  "league_captain_short_team_warning": {
+    "en": {
+      "title": "Short team warning",
+      "text": "{{match}} only has {{count}} available players."
+    },
+    "sv": {
+      "title": "Varning: för få spelare",
+      "text": "{{match}} har bara {{count}} tillgängliga spelare."
+    },
+    "pl": {
+      "title": "Ostrzeżenie o brakach składu",
+      "text": "{{match}} ma tylko {{count}} dostępnych graczy."
+    },
+    "fr": {
+      "title": "Alerte effectif insuffisant",
+      "text": "{{match}} n'a que {{count}} joueurs disponibles."
+    },
+    "es": {
+      "title": "Aviso de equipo corto",
+      "text": "{{match}} solo tiene {{count}} jugadores disponibles."
+    }
+  },
+  "league_captain_missing_lineup_warning": {
+    "en": {
+      "title": "Lineup still missing",
+      "text": "No lineup has been set yet for {{match}}."
+    },
+    "sv": {
+      "title": "Laguppställning saknas",
+      "text": "Ingen laguppställning är satt ännu för {{match}}."
+    },
+    "pl": {
+      "title": "Brak ustalonego składu",
+      "text": "Dla {{match}} nadal nie wybrano składu."
+    },
+    "fr": {
+      "title": "Composition manquante",
+      "text": "Aucune composition n'a encore été définie pour {{match}}."
+    },
+    "es": {
+      "title": "Falta la alineación",
+      "text": "Todavía no se ha definido la alineación para {{match}}."
+    }
   }
 }
