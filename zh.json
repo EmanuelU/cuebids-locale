@@ -983,6 +983,8 @@
     "show_phone_friend_desc": "在练习模式中，从 Lia 那里获得提示，并查看职业牌手在同样情况下会如何叫牌。",
     "show_robots_label": "显示机器人搭档",
     "show_robots_desc": "在搭档下拉列表中显示机器人搭档选项，例如 Lia。",
+    "show_lia_label": "显示 Lia",
+    "show_lia_desc": "在搭档下拉列表中显示 Lia。",
     "show_bidding_divergence_label": "显示专业面板",
     "show_bidding_divergence_desc": "突出显示与大多数高花人士在同一地点所做的不同的叫牌。黄色边框：至少 50% 的高花人士选择了不同的东西。红色边框：70% 或更多的人选择不同。"
   },

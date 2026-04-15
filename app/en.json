@@ -1055,6 +1055,8 @@
     "photo_label": "Profile photo",
     "show_robots_label": "Show robot partners",
     "show_robots_desc": "Show robot partner options, such as Lia, in partner dropdowns.",
+    "show_lia_label": "Show Lia",
+    "show_lia_desc": "Show Lia in partner dropdowns.",
     "show_bidding_divergence_label": "Show Pro Panel",
     "show_bidding_divergence_desc": "Highlights bids that differed from what the majority of pros did in the same spot. Yellow border: at least 50% of pros chose something different. Red border: 70% or more chose differently."
   },

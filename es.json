@@ -982,6 +982,8 @@
     "show_phone_friend_desc": "En modo práctica, recibe consejos de Lia y mira qué pujaron los jugadores profesionales en la misma situación.",
     "show_robots_label": "Mostrar compañeros robot",
     "show_robots_desc": "Muestra opciones de compañeros robot, como Lia, en los desplegables de compañero.",
+    "show_lia_label": "Mostrar Lia",
+    "show_lia_desc": "Muestra a Lia en los desplegables de compañero.",
     "show_bidding_divergence_label": "Mostrar panel Pro",
     "show_bidding_divergence_desc": "Resalta las pujas que difirieron de lo que hizo la mayoría de los pros en la misma situación. Borde amarillo: al menos el 50 % de los pros eligió algo distinto. Borde rojo: el 70 % o más eligió otra cosa."
   },
