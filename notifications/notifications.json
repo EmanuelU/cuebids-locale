@@ -753,6 +753,26 @@
       "text": "{{match}} 还没有确定出场阵容。"
     }
   },
+  "league_match_lineup_reminder_day_before": {
+    "en": {
+      "title": "League match tomorrow",
+      "text": "Reminder: you are in the lineup for {{match}}."
+    },
+    "sv": {
+      "title": "Ligamatch i morgon",
+      "text": "Påminnelse: du är uttagen till {{match}}."
+    }
+  },
+  "league_match_lineup_reminder_two_hours": {
+    "en": {
+      "title": "League match soon",
+      "text": "Reminder: {{match}} starts in about 2 hours."
+    },
+    "sv": {
+      "title": "Ligamatch snart",
+      "text": "Påminnelse: {{match}} börjar om cirka 2 timmar."
+    }
+  },
   "common": {
     "join_now": {
       "en": "Join now!",
