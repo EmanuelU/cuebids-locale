@@ -1054,6 +1054,8 @@
     "photo_label": "Zdjęcie profilowe",
     "show_robots_label": "Pokazuj partnerów-roboty",
     "show_robots_desc": "Pokazuj opcje partnerów-robotów, takie jak Lia, na listach rozwijanych partnera.",
+    "show_lia_label": "Pokazuj Lię",
+    "show_lia_desc": "Pokazuj Lię na listach rozwijanych partnera.",
     "show_bidding_divergence_label": "Pokaż Panel Pro",
     "show_bidding_divergence_desc": "Podkreśla licytacje, które różniły się od tego, co większość profesjonalistów zrobiła w tej samej sytuacji. Żółta ramka: co najmniej 50% profesjonalistów wybrało coś innego. Czerwona ramka: 70% lub więcej wybrało inaczej."
   },

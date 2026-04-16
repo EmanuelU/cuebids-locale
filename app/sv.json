@@ -1054,6 +1054,8 @@
     "photo_label": "Profilbild",
     "show_robots_label": "Visa robotpartners",
     "show_robots_desc": "Visa robotalternativ som Lia i partnerlistor.",
+    "show_lia_label": "Visa Lia",
+    "show_lia_desc": "Visa Lia i partnerlistor.",
     "show_bidding_divergence_label": "Visa proffspanel",
     "show_bidding_divergence_desc": "Markerar bud som skiljer sig från vad majoriteten av proffs gjorde i samma situation. Gul ram: minst 50% av proffs valde något annat. Röd ram: 70% eller fler valde annorlunda."
   },
