@@ -1215,6 +1215,8 @@
     "start_short": "开始",
     "start_practice_session": "开始练习",
     "scenarios_requires_heart": "你需要红桃订阅才能使用场景。",
+    "partner_loading_info": "正在加载所选搭档…",
+    "boards_range_info": "请选择 1 到 24 副牌。",
     "show_session_headline": "为牌局命名",
     "headline_too_long": "名称太长，最多 {{max}} 个字符",
     "how_to": {

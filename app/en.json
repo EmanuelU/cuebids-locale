@@ -1212,6 +1212,8 @@
     "start_short": "Start",
     "start_practice_session": "Start practice session",
     "scenarios_requires_heart": "You need a Heart subscription to use scenarios.",
+    "partner_loading_info": "Loading selected partner...",
+    "boards_range_info": "Select number of boards between 1 and 24.",
     "show_session_headline": "Name session",
     "headline_too_long": "Too long name, max {{max}} characters",
     "how_to": {

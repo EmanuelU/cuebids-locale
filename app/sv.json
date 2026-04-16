@@ -1211,6 +1211,8 @@
     "start_short": "Starta",
     "start_practice_session": "Starta träningssession",
     "scenarios_requires_heart": "Scenarion kräver en hjärterprenumeration.",
+    "partner_loading_info": "Läser in vald partner...",
+    "boards_range_info": "Välj antal brickor mellan 1 och 24.",
     "show_session_headline": "Namnge session",
     "headline_too_long": "För lång namn, {{max}} tecken",
     "how_to": {
