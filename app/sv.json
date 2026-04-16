@@ -217,7 +217,12 @@
       "friend_request_sent": "Vänförfrågan skickad till {{displayName}}",
       "total_stars": "Totala stjärnor",
       "weekly_wins": "Veckovinster",
-      "daily_wins": "Dagsvinster"
+      "daily_wins": "Dagsvinster",
+      "follow": "Följ",
+      "followed": "Du följer nu {{displayName}}",
+      "following": "Följer",
+      "request_sent": "Förfrågan skickad",
+      "request_pending": "Har frågat dig"
     },
     "user_display": {
       "unknown_user": "Okänd användare",
@@ -2743,7 +2748,10 @@
       "search_info": "Hitta din vän genom att söka på deras namn. Skicka en vänförfrågan när du hittat dem.",
       "send_friend_key_info": "Skicka din <strong>Vännyckel</strong> till din vän. De kan sedan lägga till dig.",
       "your_key": "Din nyckel: ",
-      "link_info": "Skicka din inbjudningslänk till din vän. När de följer länken kommer ni att bli vänner."
+      "link_info": "Skicka din inbjudningslänk till din vän. När de följer länken kommer ni att bli vänner.",
+      "follow_notification": "Du följer nu {{displayName}}",
+      "follow_button": "Följ",
+      "status_request_sent": "Förfrågan skickad"
     }
   },
   "friends_page": {
@@ -2781,7 +2789,13 @@
     "outstanding_requests_info": "Du väntar på att dina vänner ska acceptera din vänförfrågan",
     "no_messages_yet": "Inga meddelanden än",
     "unread_messages": "Olästa meddelanden",
-    "open_chat": "Öppna chatt"
+    "open_chat": "Öppna chatt",
+    "following_info": "Du följer spelare. Att följa låter dig jämföra resultat, men ni måste vara vänner för att kunna starta sessioner tillsammans.",
+    "cancel_request": "Avbryt förfrågan",
+    "request_sent": "Förfrågan skickad",
+    "request_received": "Har frågat dig",
+    "following": "Följer",
+    "blocked_status": "Blockerad"
   },
   "stats_dashboard": {
     "tab_pairs": "Pair",

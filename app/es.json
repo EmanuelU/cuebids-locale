@@ -221,7 +221,12 @@
       "friend_request_sent": "Solicitud de amistad enviada a {{displayName}}",
       "total_stars": "Estrellas totales",
       "weekly_wins": "Victorias semanales",
-      "daily_wins": "Victorias diarias"
+      "daily_wins": "Victorias diarias",
+      "follow": "Seguir",
+      "followed": "Ahora sigues a {{displayName}}",
+      "following": "Siguiendo",
+      "request_sent": "Solicitud enviada",
+      "request_pending": "Te ha solicitado"
     },
     "user_display": {
       "unknown_user": "Usuario desconocido",
@@ -2743,7 +2748,10 @@
       "search_info": "Encuentra a tu amigo buscando su nombre. Envíale una solicitud de amistad cuando lo encuentres.",
       "send_friend_key_info": "Envía a tu amigo tu <strong>código de amigo</strong>. Así podrá añadirte como amigo.",
       "your_key": "Tu código: ",
-      "link_info": "Envía a tu amigo tu enlace de invitación. Cuando lo siga, os haréis amigos."
+      "link_info": "Envía a tu amigo tu enlace de invitación. Cuando lo siga, os haréis amigos.",
+      "follow_notification": "Ahora sigues a {{displayName}}",
+      "follow_button": "Seguir",
+      "status_request_sent": "Solicitud enviada"
     }
   },
   "friends_page": {
@@ -2781,7 +2789,13 @@
     "outstanding_requests_info": "Esperando a que tus amigos acepten tu solicitud de amistad",
     "no_messages_yet": "Aún no hay mensajes",
     "unread_messages": "Mensajes no leídos",
-    "open_chat": "Abrir chat"
+    "open_chat": "Abrir chat",
+    "following_info": "Estás siguiendo a jugadores. Seguir permite comparar resultados, pero necesitáis ser amigos para iniciar sesiones juntos.",
+    "cancel_request": "Cancelar solicitud",
+    "request_sent": "Solicitud enviada",
+    "request_received": "Te ha solicitado",
+    "following": "Siguiendo",
+    "blocked_status": "Bloqueado"
   },
   "stats_dashboard": {
     "tab_pairs": "Parejas",

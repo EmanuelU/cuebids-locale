@@ -221,7 +221,12 @@
       "friend_request_sent": "好友请求已发送至 {{displayName}}",
       "total_stars": "总星星数",
       "weekly_wins": "每周获胜",
-      "daily_wins": "每日胜利"
+      "daily_wins": "每日胜利",
+      "follow": "关注",
+      "followed": "你已关注 {{displayName}}",
+      "following": "已关注",
+      "request_sent": "请求已发送",
+      "request_pending": "已请求加你"
     },
     "user_display": {
       "unknown_user": "未知用户",
@@ -2743,7 +2748,10 @@
       "search_info": "通过搜索朋友的名字来找到他们。当您找到他们时，向他们发送好友请求。",
       "send_friend_key_info": "向您的朋友发送您的<strong>朋友密钥</strong>。然后他们可以将您添加为朋友。",
       "your_key": "你的钥匙：",
-      "link_info": "将您的邀请链接发送给您的朋友。当他们点击链接时，您将成为朋友。"
+      "link_info": "将您的邀请链接发送给您的朋友。当他们点击链接时，您将成为朋友。",
+      "follow_notification": "你已关注 {{displayName}}",
+      "follow_button": "关注",
+      "status_request_sent": "请求已发送"
     }
   },
   "friends_page": {
@@ -2781,7 +2789,13 @@
     "outstanding_requests_info": "等待您的好友接受您的好友请求",
     "no_messages_yet": "暂无消息",
     "unread_messages": "未读消息",
-    "open_chat": "打开聊天"
+    "open_chat": "打开聊天",
+    "following_info": "你正在关注一些玩家。关注可以用于结果对比，但要一起开始会话仍然需要互为好友。",
+    "cancel_request": "取消请求",
+    "request_sent": "请求已发送",
+    "request_received": "已请求加你",
+    "following": "已关注",
+    "blocked_status": "已屏蔽"
   },
   "stats_dashboard": {
     "tab_pairs": "双人",

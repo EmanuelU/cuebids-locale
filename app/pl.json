@@ -217,7 +217,12 @@
       "friend_request_sent": "Zaproszenie do znajomych wysłane do {{displayName}}",
       "total_stars": "Wszystkie gwiazdki",
       "weekly_wins": "Wygrane tygodniówki",
-      "daily_wins": "Wygrane dniówki"
+      "daily_wins": "Wygrane dniówki",
+      "follow": "Obserwuj",
+      "followed": "Obserwujesz teraz {{displayName}}",
+      "following": "Obserwujesz",
+      "request_sent": "Zaproszenie wysłane",
+      "request_pending": "Zaprosił Cię"
     },
     "user_display": {
       "unknown_user": "Nieznany użytkownik",
@@ -2743,7 +2748,10 @@
       "search_info": "Wyszukaj znajomego za pomocą jego imienia. Wyślij zaproszenie gdy go znajdziesz.",
       "send_friend_key_info": "Wyślij znajomemu swój <strong>Klucz Zanjomości</strong>. Wtedy będzie mógł Cię dodać do znajomych.",
       "your_key": "Twój Klucz: ",
-      "link_info": "Wyślij znajomemu link z zaproszeniem. Gdy kliknie link, będziecie znajomymi!"
+      "link_info": "Wyślij znajomemu link z zaproszeniem. Gdy kliknie link, będziecie znajomymi!",
+      "follow_notification": "Obserwujesz teraz {{displayName}}",
+      "follow_button": "Obserwuj",
+      "status_request_sent": "Zaproszenie wysłane"
     }
   },
   "friends_page": {
@@ -2781,7 +2789,13 @@
     "outstanding_requests_info": "Oczekiwanie na zaakceptowanie Twojego zaproszenia do znajomych",
     "no_messages_yet": "Brak wiadomości",
     "unread_messages": "Nieprzeczytane wiadomości",
-    "open_chat": "Otwórz czat"
+    "open_chat": "Otwórz czat",
+    "following_info": "Obserwujesz graczy. Obserwowanie pozwala porównywać wyniki, ale do wspólnych sesji potrzebna jest wzajemna znajomość.",
+    "cancel_request": "Anuluj zaproszenie",
+    "request_sent": "Zaproszenie wysłane",
+    "request_received": "Zaprosił Cię",
+    "following": "Obserwujesz",
+    "blocked_status": "Zablokowany"
   },
   "stats_dashboard": {
     "tab_pairs": "Pary",
