@@ -1133,6 +1133,8 @@
     "start_short": "Start",
     "start_practice_session": "Rozpocznij sesję treningową",
     "scenarios_requires_heart": "Potrzebujesz subskrypcji Kier, aby korzystać ze scenariuszy.",
+    "partner_loading_info": "Wczytywanie wybranego partnera...",
+    "boards_range_info": "Wybierz liczbę rozdań od 1 do 24.",
     "show_session_headline": "Nazwij sesję",
     "headline_too_long": "Nazwa za długa, maksymalnie {{max}} znaków",
     "how_to": {

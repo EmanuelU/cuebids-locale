@@ -1133,6 +1133,8 @@
     "start_short": "Démarrer",
     "start_practice_session": "Démarrer une séance d’entraînement",
     "scenarios_requires_heart": "Vous avez besoin d’un abonnement Coeur pour utiliser les scénarios.",
+    "partner_loading_info": "Chargement du partenaire sélectionné...",
+    "boards_range_info": "Sélectionnez un nombre de donnes entre 1 et 24.",
     "show_session_headline": "Nomme la session",
     "headline_too_long": "Nom trop long, {{max}} caractères maximum",
     "how_to": {

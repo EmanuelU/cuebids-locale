@@ -1137,6 +1137,8 @@
     "start_short": "Empezar",
     "start_practice_session": "Iniciar sesión de práctica",
     "scenarios_requires_heart": "Necesitas una suscripción Heart para usar escenarios.",
+    "partner_loading_info": "Cargando el compañero seleccionado...",
+    "boards_range_info": "Selecciona un número de manos entre 1 y 24.",
     "show_session_headline": "Poner nombre a la sesión",
     "headline_too_long": "Nombre demasiado largo, máximo {{max}} caracteres",
     "how_to": {
