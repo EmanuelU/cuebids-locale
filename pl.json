@@ -211,7 +211,12 @@
       "friend_request_sent": "Zaproszenie do znajomych wysłane do {{displayName}}",
       "total_stars": "Wszystkie gwiazdki",
       "weekly_wins": "Wygrane tygodniówki",
-      "daily_wins": "Wygrane dniówki"
+      "daily_wins": "Wygrane dniówki",
+      "follow": "Obserwuj",
+      "followed": "Obserwujesz teraz {{displayName}}",
+      "following": "Obserwujesz",
+      "request_sent": "Zaproszenie wysłane",
+      "request_pending": "Zaprosił Cię"
     },
     "user_display": {
       "unknown_user": "Nieznany użytkownik",
@@ -2645,6 +2650,9 @@
     "status_pending": "Wysłał Ci zaproszenie",
     "status_blocked": "Zablokowany",
     "status_following": "Śledzi",
+    "follow_notification": "Obserwujesz teraz {{displayName}}",
+    "follow_button": "Obserwuj",
+    "status_request_sent": "Zaproszenie wysłane",
     "how_to": {
       "open_dialog_button": "Jak dodać znajomych",
       "pending_requests_info": "Nie macie żadnych wspólnych znajomych. Możliwe, że Twój partner nie zaakceptował jeszcze Twojego zaproszenia.",
@@ -2663,6 +2671,10 @@
     "show_blocked_count": "Pokaż zablokowanych ({{count}})",
     "show_blocked": "Pokaż zablokowanych",
     "friends_count": "Znajomi ({{count}})",
+    "friends_section_title": "Znajomi ({{count}})",
+    "following_section_title": "Obserwowani ({{count}})",
+    "pending_section_title": "Oczekujące ({{count}})",
+    "blocked_section_title": "Zablokowani ({{count}})",
     "restore": "Przywróć",
     "unfollow": "Przestań śledzić",
     "remove": "Usuń",
@@ -2687,12 +2699,18 @@
     "friend_permissions_disallow_all_desc": "Znajomy nie może używać twoich biletów ani zapraszać cię do wydarzeń",
     "friend_permissions_confirm": "Ustaw uprawnienia",
     "no_friends_added_info": "Nie dodałeś jeszcze żadnych znajomych",
-    "all_friends_blocked_info": "Zablokowałeś wszystkich swoich znajomych. Nieźle! Możesz ich odblokować, jeśli klikniesz Pokaż zablokowanych",
+    "all_friends_blocked_info": "Zablokowałeś wszystkich znajomych. Otwórz kartę Zablokowani, aby ich odblokować.",
     "pending_requests_info": "Masz oczekujące zaproszenia do znajomych",
     "outstanding_requests_info": "Oczekiwanie na zaakceptowanie Twojego zaproszenia do znajomych",
     "no_messages_yet": "Brak wiadomości",
     "unread_messages": "Nieprzeczytane wiadomości",
-    "open_chat": "Otwórz czat"
+    "open_chat": "Otwórz czat",
+    "following_info": "Obserwujesz graczy. Obserwowanie pozwala porównywać wyniki, ale do wspólnych sesji potrzebna jest wzajemna znajomość.",
+    "cancel_request": "Anuluj zaproszenie",
+    "request_sent": "Zaproszenie wysłane",
+    "request_received": "Zaprosił Cię",
+    "following": "Obserwujesz",
+    "blocked_status": "Zablokowany"
   },
   "stats_dashboard": {
     "tab_pairs": "Pary",

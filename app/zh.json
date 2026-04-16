@@ -221,7 +221,12 @@
       "friend_request_sent": "好友请求已发送至 {{displayName}}",
       "total_stars": "总星星数",
       "weekly_wins": "每周获胜",
-      "daily_wins": "每日胜利"
+      "daily_wins": "每日胜利",
+      "follow": "关注",
+      "followed": "你已关注 {{displayName}}",
+      "following": "已关注",
+      "request_sent": "请求已发送",
+      "request_pending": "已请求加你"
     },
     "user_display": {
       "unknown_user": "未知用户",
@@ -2738,6 +2743,9 @@
     "status_pending": "邀请了你",
     "status_blocked": "被阻止",
     "status_following": "正在关注",
+    "follow_notification": "你已关注 {{displayName}}",
+    "follow_button": "关注",
+    "status_request_sent": "请求已发送",
     "how_to": {
       "open_dialog_button": "如何添加好友",
       "pending_requests_info": "你们没有任何共同的朋友。也许您的搭档尚未接受您的好友请求。",
@@ -2756,6 +2764,10 @@
     "show_blocked_count": "显示已阻止 ({{count}})",
     "show_blocked": "显示已阻止",
     "friends_count": "好友 ({{count}})",
+    "friends_section_title": "好友 ({{count}})",
+    "following_section_title": "关注中 ({{count}})",
+    "pending_section_title": "待处理 ({{count}})",
+    "blocked_section_title": "已阻止 ({{count}})",
     "restore": "恢复",
     "unfollow": "取消关注",
     "remove": "删除",
@@ -2780,12 +2792,18 @@
     "friend_permissions_disallow_all_desc": "朋友无法使用您的门票或邀请您参加活动",
     "friend_permissions_confirm": "设置权限",
     "no_friends_added_info": "您还没有添加任何好友。单击此处添加好友。",
-    "all_friends_blocked_info": "您已屏蔽所有好友。如果您显示已阻止，则可以取消阻止它们。单击此处显示已阻止。",
+    "all_friends_blocked_info": "您已屏蔽所有好友。打开“已阻止”标签即可取消屏蔽。",
     "pending_requests_info": "您有待接受的好友请求",
     "outstanding_requests_info": "等待您的好友接受您的好友请求",
     "no_messages_yet": "暂无消息",
     "unread_messages": "未读消息",
-    "open_chat": "打开聊天"
+    "open_chat": "打开聊天",
+    "following_info": "你正在关注一些玩家。关注可以用于结果对比，但要一起开始会话仍然需要互为好友。",
+    "cancel_request": "取消请求",
+    "request_sent": "请求已发送",
+    "request_received": "已请求加你",
+    "following": "已关注",
+    "blocked_status": "已屏蔽"
   },
   "stats_dashboard": {
     "tab_pairs": "双人",

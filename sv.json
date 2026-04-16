@@ -211,7 +211,12 @@
       "friend_request_sent": "Vänförfrågan skickad till {{displayName}}",
       "total_stars": "Totala stjärnor",
       "weekly_wins": "Veckovinster",
-      "daily_wins": "Dagsvinster"
+      "daily_wins": "Dagsvinster",
+      "follow": "Följ",
+      "followed": "Du följer nu {{displayName}}",
+      "following": "Följer",
+      "request_sent": "Förfrågan skickad",
+      "request_pending": "Har frågat dig"
     },
     "user_display": {
       "unknown_user": "Okänd användare",
@@ -2645,6 +2650,9 @@
     "status_pending": "Frågat dig",
     "status_blocked": "Blockerad",
     "status_following": "Följer",
+    "follow_notification": "Du följer nu {{displayName}}",
+    "follow_button": "Följ",
+    "status_request_sent": "Förfrågan skickad",
     "how_to": {
       "open_dialog_button": "Hur du lägger till vänner",
       "pending_requests_info": "Du har inga gemensamma vänner. Kanske har din partner inte accepterat din vänförfrågan än.",
@@ -2663,6 +2671,10 @@
     "show_blocked_count": "Visa blockerade ({{count}})",
     "show_blocked": "Visa blockerade",
     "friends_count": "Vänner ({{count}})",
+    "friends_section_title": "Vänner ({{count}})",
+    "following_section_title": "Följer ({{count}})",
+    "pending_section_title": "Väntande ({{count}})",
+    "blocked_section_title": "Blockerade ({{count}})",
     "restore": "Återställ",
     "unfollow": "Avfölj",
     "remove": "Ta bort",
@@ -2687,12 +2699,18 @@
     "friend_permissions_disallow_all_desc": "Vän kan inte använda dina biljetter eller bjuda in dig till event",
     "friend_permissions_confirm": "Sätt rättigheter",
     "no_friends_added_info": "Du har inte lagt till några vänner än. Tryck här för att lägga till vänner.",
-    "all_friends_blocked_info": "Du har blockerat alla dina vänner. Du kan avblockera dem om du Visar blockerade. Tryck här för att Visa blockerade.",
+    "all_friends_blocked_info": "Du har blockerat alla dina vänner. Öppna fliken Blockerade för att avblockera dem.",
     "pending_requests_info": "Du har vänförfrågningar att acceptera",
     "outstanding_requests_info": "Du väntar på att dina vänner ska acceptera din vänförfrågan",
     "no_messages_yet": "Inga meddelanden än",
     "unread_messages": "Olästa meddelanden",
-    "open_chat": "Öppna chatt"
+    "open_chat": "Öppna chatt",
+    "following_info": "Du följer spelare. Att följa låter dig jämföra resultat, men ni måste vara vänner för att kunna starta sessioner tillsammans.",
+    "cancel_request": "Avbryt förfrågan",
+    "request_sent": "Förfrågan skickad",
+    "request_received": "Har frågat dig",
+    "following": "Följer",
+    "blocked_status": "Blockerad"
   },
   "stats_dashboard": {
     "tab_pairs": "Pair",
