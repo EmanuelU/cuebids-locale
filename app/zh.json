@@ -2739,6 +2739,9 @@
     "status_pending": "邀请了你",
     "status_blocked": "被阻止",
     "status_following": "正在关注",
+    "follow_notification": "你已关注 {{displayName}}",
+    "follow_button": "关注",
+    "status_request_sent": "请求已发送",
     "how_to": {
       "open_dialog_button": "如何添加好友",
       "pending_requests_info": "你们没有任何共同的朋友。也许您的搭档尚未接受您的好友请求。",
@@ -2748,10 +2751,7 @@
       "search_info": "通过搜索朋友的名字来找到他们。当您找到他们时，向他们发送好友请求。",
       "send_friend_key_info": "向您的朋友发送您的<strong>朋友密钥</strong>。然后他们可以将您添加为朋友。",
       "your_key": "你的钥匙：",
-      "link_info": "将您的邀请链接发送给您的朋友。当他们点击链接时，您将成为朋友。",
-      "follow_notification": "你已关注 {{displayName}}",
-      "follow_button": "关注",
-      "status_request_sent": "请求已发送"
+      "link_info": "将您的邀请链接发送给您的朋友。当他们点击链接时，您将成为朋友。"
     }
   },
   "friends_page": {

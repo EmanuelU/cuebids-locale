@@ -2739,6 +2739,9 @@
     "status_pending": "Te ha invitado",
     "status_blocked": "Bloqueado",
     "status_following": "Siguiendo",
+    "follow_notification": "Ahora sigues a {{displayName}}",
+    "follow_button": "Seguir",
+    "status_request_sent": "Solicitud enviada",
     "how_to": {
       "open_dialog_button": "Cómo añadir amigos",
       "pending_requests_info": "No tenéis amigos en común. Quizá tu compañero todavía no ha aceptado tu solicitud de amistad.",
@@ -2748,10 +2751,7 @@
       "search_info": "Encuentra a tu amigo buscando su nombre. Envíale una solicitud de amistad cuando lo encuentres.",
       "send_friend_key_info": "Envía a tu amigo tu <strong>código de amigo</strong>. Así podrá añadirte como amigo.",
       "your_key": "Tu código: ",
-      "link_info": "Envía a tu amigo tu enlace de invitación. Cuando lo siga, os haréis amigos.",
-      "follow_notification": "Ahora sigues a {{displayName}}",
-      "follow_button": "Seguir",
-      "status_request_sent": "Solicitud enviada"
+      "link_info": "Envía a tu amigo tu enlace de invitación. Cuando lo siga, os haréis amigos."
     }
   },
   "friends_page": {

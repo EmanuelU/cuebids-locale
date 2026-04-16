@@ -2739,6 +2739,9 @@
     "status_pending": "Vous a invité",
     "status_blocked": "Bloqués",
     "status_following": "En attente",
+    "follow_notification": "Vous suivez maintenant {{displayName}}",
+    "follow_button": "Suivre",
+    "status_request_sent": "Demande envoyée",
     "how_to": {
       "open_dialog_button": "Comment ajouter des amis",
       "pending_requests_info": "Vous n'avez aucun ami en commun. Peut-être que votre partenaire n'a pas encore accepté votre demande d'ami.",
@@ -2748,10 +2751,7 @@
       "search_info": "Trouvez votre ami en recherchant son nom. Envoyez-lui une demande d'ami lorsque vous le trouvez.",
       "send_friend_key_info": "Envoyez votre <strong>code d'ami</strong> à votre ami. Il pourra alors vous ajouter en tant qu'ami.",
       "your_key": "Votre code : ",
-      "link_info": "Envoyez votre lien d'invitation à votre ami. Lorsqu'il suit le lien, vous deviendrez amis.",
-      "follow_notification": "Vous suivez maintenant {{displayName}}",
-      "follow_button": "Suivre",
-      "status_request_sent": "Demande envoyée"
+      "link_info": "Envoyez votre lien d'invitation à votre ami. Lorsqu'il suit le lien, vous deviendrez amis."
     }
   },
   "friends_page": {

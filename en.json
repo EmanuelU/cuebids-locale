@@ -211,7 +211,12 @@
       "friend_request_sent": "Friend request sent to {{displayName}}",
       "total_stars": "Total stars",
       "weekly_wins": "Weekly wins",
-      "daily_wins": "Daily wins"
+      "daily_wins": "Daily wins",
+      "follow": "Follow",
+      "followed": "Now following {{displayName}}",
+      "following": "Following",
+      "request_sent": "Request sent",
+      "request_pending": "Requested you"
     },
     "user_display": {
       "unknown_user": "Unknown user",
@@ -2632,6 +2637,9 @@
     "status_pending": "Invited you",
     "status_blocked": "Blocked",
     "status_following": "Following",
+    "follow_notification": "Now following {{displayName}}",
+    "follow_button": "Follow",
+    "status_request_sent": "Request sent",
     "how_to": {
       "open_dialog_button": "How to add friends",
       "pending_requests_info": "You do not have any mutual friends. Perhaps your partner has not accepted your friend request yet.",
@@ -2679,7 +2687,13 @@
     "outstanding_requests_info": "Waiting for your friends to accept your friend request",
     "no_messages_yet": "No messages yet",
     "unread_messages": "Unread messages",
-    "open_chat": "Open chat"
+    "open_chat": "Open chat",
+    "following_info": "You are following players. Following lets you compare results, but you need mutual friends to start sessions together.",
+    "cancel_request": "Cancel request",
+    "request_sent": "Request sent",
+    "request_received": "Requested you",
+    "following": "Following",
+    "blocked_status": "Blocked"
   },
   "stats_dashboard": {
     "tab_pairs": "Pairs",

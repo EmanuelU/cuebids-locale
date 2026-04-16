@@ -2739,6 +2739,9 @@
     "status_pending": "Wysłał Ci zaproszenie",
     "status_blocked": "Zablokowany",
     "status_following": "Śledzi",
+    "follow_notification": "Obserwujesz teraz {{displayName}}",
+    "follow_button": "Obserwuj",
+    "status_request_sent": "Zaproszenie wysłane",
     "how_to": {
       "open_dialog_button": "Jak dodać znajomych",
       "pending_requests_info": "Nie macie żadnych wspólnych znajomych. Możliwe, że Twój partner nie zaakceptował jeszcze Twojego zaproszenia.",
@@ -2748,10 +2751,7 @@
       "search_info": "Wyszukaj znajomego za pomocą jego imienia. Wyślij zaproszenie gdy go znajdziesz.",
       "send_friend_key_info": "Wyślij znajomemu swój <strong>Klucz Zanjomości</strong>. Wtedy będzie mógł Cię dodać do znajomych.",
       "your_key": "Twój Klucz: ",
-      "link_info": "Wyślij znajomemu link z zaproszeniem. Gdy kliknie link, będziecie znajomymi!",
-      "follow_notification": "Obserwujesz teraz {{displayName}}",
-      "follow_button": "Obserwuj",
-      "status_request_sent": "Zaproszenie wysłane"
+      "link_info": "Wyślij znajomemu link z zaproszeniem. Gdy kliknie link, będziecie znajomymi!"
     }
   },
   "friends_page": {

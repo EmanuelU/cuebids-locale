@@ -211,7 +211,12 @@
       "friend_request_sent": "Demander à être ami avec {{displayName}}",
       "total_stars": "Étoiles totales",
       "weekly_wins": "Victoires hebdo",
-      "daily_wins": "Victoires jour"
+      "daily_wins": "Victoires jour",
+      "follow": "Suivre",
+      "followed": "Vous suivez maintenant {{displayName}}",
+      "following": "Suivi",
+      "request_sent": "Demande envoyée",
+      "request_pending": "Vous a demandé"
     },
     "user_display": {
       "unknown_user": "Utilisateur inconnu",
@@ -2631,6 +2636,9 @@
     "status_pending": "Vous a invité",
     "status_blocked": "Bloqués",
     "status_following": "En attente",
+    "follow_notification": "Vous suivez maintenant {{displayName}}",
+    "follow_button": "Suivre",
+    "status_request_sent": "Demande envoyée",
     "how_to": {
       "open_dialog_button": "Comment ajouter des amis",
       "pending_requests_info": "Vous n'avez aucun ami en commun. Peut-être que votre partenaire n'a pas encore accepté votre demande d'ami.",
@@ -2678,7 +2686,13 @@
     "outstanding_requests_info": "En attente que vos amis acceptent votre demande d’amis",
     "no_messages_yet": "Pas encore de messages",
     "unread_messages": "Messages non lus",
-    "open_chat": "Ouvrir le chat"
+    "open_chat": "Ouvrir le chat",
+    "following_info": "Vous suivez des joueurs. Suivre permet de comparer les résultats, mais il faut être amis pour démarrer des sessions ensemble.",
+    "cancel_request": "Annuler la demande",
+    "request_sent": "Demande envoyée",
+    "request_received": "Vous a demandé",
+    "following": "Suivi",
+    "blocked_status": "Bloqué"
   },
   "stats_dashboard": {
     "tab_pairs": "Paires",

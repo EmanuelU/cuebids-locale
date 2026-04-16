@@ -2739,6 +2739,9 @@
     "status_pending": "Frågat dig",
     "status_blocked": "Blockerad",
     "status_following": "Följer",
+    "follow_notification": "Du följer nu {{displayName}}",
+    "follow_button": "Följ",
+    "status_request_sent": "Förfrågan skickad",
     "how_to": {
       "open_dialog_button": "Hur du lägger till vänner",
       "pending_requests_info": "Du har inga gemensamma vänner. Kanske har din partner inte accepterat din vänförfrågan än.",
@@ -2748,10 +2751,7 @@
       "search_info": "Hitta din vän genom att söka på deras namn. Skicka en vänförfrågan när du hittat dem.",
       "send_friend_key_info": "Skicka din <strong>Vännyckel</strong> till din vän. De kan sedan lägga till dig.",
       "your_key": "Din nyckel: ",
-      "link_info": "Skicka din inbjudningslänk till din vän. När de följer länken kommer ni att bli vänner.",
-      "follow_notification": "Du följer nu {{displayName}}",
-      "follow_button": "Följ",
-      "status_request_sent": "Förfrågan skickad"
+      "link_info": "Skicka din inbjudningslänk till din vän. När de följer länken kommer ni att bli vänner."
     }
   },
   "friends_page": {

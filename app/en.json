@@ -2740,6 +2740,9 @@
     "status_pending": "Invited you",
     "status_blocked": "Blocked",
     "status_following": "Following",
+    "follow_notification": "Now following {{displayName}}",
+    "follow_button": "Follow",
+    "status_request_sent": "Request sent",
     "how_to": {
       "open_dialog_button": "How to add friends",
       "pending_requests_info": "You do not have any mutual friends. Perhaps your partner has not accepted your friend request yet.",
@@ -2749,10 +2752,7 @@
       "search_info": "Find your friend by searching for their name. Send them a friend request when you find them.",
       "send_friend_key_info": "Send your friend your <strong>Friend Key</strong>. They can then add you as a friend.",
       "your_key": "Your key: ",
-      "link_info": "Send your friend your invite link. When they follow the link you will become friends.",
-      "follow_notification": "Now following {{displayName}}",
-      "follow_button": "Follow",
-      "status_request_sent": "Request sent"
+      "link_info": "Send your friend your invite link. When they follow the link you will become friends."
     }
   },
   "friends_page": {
