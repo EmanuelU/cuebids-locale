@@ -705,7 +705,8 @@
     "error_partner_cannot_afford": "",
     "error_challenges_disabled": "",
     "error_matchmaking_failed": "",
-    "error_too_many_unfinished": ""
+    "error_too_many_unfinished": "",
+    "error_partner_cooldown": ""
   },
   "robot_challenge": {
     "title": "",

@@ -809,7 +809,8 @@
     "error_partner_cannot_afford": "你的搭档负担不起所需费用。",
     "error_challenges_disabled": "你的搭档已禁止你使用他们的门票参加排名挑战。",
     "error_matchmaking_failed": "匹配失败",
-    "error_too_many_unfinished": "你和这位搭档已经有 {{count}} 个未完成的排位挑战。"
+    "error_too_many_unfinished": "你和这位搭档已经有 {{count}} 个未完成的排位挑战。",
+    "error_partner_cooldown": "你需要等待 {{minutes}} 分钟后才能再次与这位搭档排队。"
   },
   "robot_challenge": {
     "title": "机器人挑战",

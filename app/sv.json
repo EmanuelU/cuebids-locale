@@ -805,7 +805,8 @@
     "error_partner_cannot_afford": "Din partner har inte råd att spela",
     "error_challenges_disabled": "Din partner har stängt av dig från att spendera deras biljetter och gå med i rankade utmaningar",
     "error_matchmaking_failed": "Matchmaking misslyckades",
-    "error_too_many_unfinished": "Ni har redan {{count}} oavslutade rankade utmaningar tillsammans."
+    "error_too_many_unfinished": "Ni har redan {{count}} oavslutade rankade utmaningar tillsammans.",
+    "error_partner_cooldown": "Ni måste vänta {{minutes}} minuter innan ni kan söka med den här partnern igen."
   },
   "robot_challenge": {
     "title": "Robotutmaning",
