@@ -804,7 +804,8 @@
     "error_cannot_afford": "Nie stać cię na grę",
     "error_partner_cannot_afford": "Twojego partnera nie stać na grę",
     "error_challenges_disabled": "Twój partner wyłączył możliwość wydawania jego biletów i dołączania do rankingowych wyzwań",
-    "error_matchmaking_failed": "Wyszukiwanie meczu nie powiodło się"
+    "error_matchmaking_failed": "Wyszukiwanie meczu nie powiodło się",
+    "error_too_many_unfinished": "Masz już {{count}} nierozstrzygniętych wyzwań rankingowych z tym partnerem."
   },
   "robot_challenge": {
     "title": "Wyzwanie z robotami",

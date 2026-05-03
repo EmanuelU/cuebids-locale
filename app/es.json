@@ -808,7 +808,8 @@
     "error_cannot_afford": "No puedes permitirte jugar",
     "error_partner_cannot_afford": "Tu compañero no puede permitirse jugar",
     "error_challenges_disabled": "Tu compañero ha desactivado que gastes sus tickets y te unas a desafíos clasificatorios",
-    "error_matchmaking_failed": "El emparejamiento falló"
+    "error_matchmaking_failed": "El emparejamiento falló",
+    "error_too_many_unfinished": "Ya tienes {{count}} desafíos clasificados sin terminar con este compañero."
   },
   "robot_challenge": {
     "title": "Desafío contra robot",

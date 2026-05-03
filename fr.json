@@ -743,7 +743,8 @@
     "error_cannot_afford": "Vous n'avez pas assez de tickets",
     "error_partner_cannot_afford": "Votre partenaire n'a pas assez de tickets",
     "error_challenges_disabled": "Votre partenaire a désactivé votre possibilité de dépenser ses tickets et de participer à des défis classés",
-    "error_matchmaking_failed": "La création du match a échoué"
+    "error_matchmaking_failed": "La création du match a échoué",
+    "error_too_many_unfinished": "Vous avez déjà {{count}} défis classés non terminés avec ce partenaire."
   },
   "robot_challenge": {
     "title": "Défi robot",
