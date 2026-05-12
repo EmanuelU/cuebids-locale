@@ -1,4 +1,8 @@
 {
+  "404": {
+    "warning": "Oops, it seems like the page you are looking for doesn't exist.",
+    "to_start_page": "To start page"
+  },
   "locale": "en",
   "lia_lang": "en",
   "bridge": {
@@ -320,6 +324,54 @@
       "endless_tickets": "<strong>Endless</strong> Tickets"
     },
     "payment_failed": "Payment failed. Please try again.",
+    "checkout_code": {
+      "errors": {
+        "first_stripe_purchase_only": "This discount only applies to your first subscription.",
+        "generic": "This code is not available for this checkout.",
+        "invalid_or_expired": "This code is invalid or expired.",
+        "not_eligible_for_product": "This code is not available for this product.",
+        "not_whitelisted": "This code is not available for your account.",
+        "stripe_rejected": "This code is not available for this checkout."
+      },
+      "billing_day": "daily",
+      "billing_week": "weekly",
+      "billing_month": "monthly",
+      "billing_year": "yearly",
+      "billing_description": "{{billing}} billing",
+      "role_subscription": "{{role}} subscriptions",
+      "selected_products": "selected products",
+      "works_for_billing": "It works for {{billing}}.",
+      "works_for_product": "It works for {{product}}.",
+      "works_for_billing_on_product": "It works for {{billing}} on {{product}}.",
+      "have_code": "Have a code?",
+      "input_label": "Cuebids code",
+      "input_placeholder": "Optional code",
+      "try_without_code": "Try without code",
+      "remove_and_try_without_code": "You can remove the code and choose the product again without a discount.",
+      "section": {
+        "title": "Codes & discounts",
+        "description": "Have a checkout code or referral code? Add it here before continuing to web checkout."
+      },
+      "affiliate_attached_title": "Affiliate code attached",
+      "affiliate_attached_text": "Your affiliate code is attached to this account and will be applied automatically on web checkout.",
+      "affiliate_ineligible_prior_title": "Affiliate discount no longer eligible",
+      "affiliate_ineligible_prior_text": "This account already has a Stripe subscription history, so the attached affiliate discount no longer applies.",
+      "affiliate_invalid_title": "Affiliate code unavailable",
+      "affiliate_invalid_text": "The affiliate code attached to this account is invalid or expired, so no Stripe discount will be applied.",
+      "enter_another_code": "Enter another code",
+      "native_prompt": {
+        "title": "Affiliate discount",
+        "continue_web": "Continue on web",
+        "go_web": "Go to web",
+        "continue_in_app_anyway": "Continue in app anyway",
+        "continue_in_app": "Continue in app",
+        "cancel": "Cancel",
+        "eligible_info": "This account has an affiliate code. If it is still eligible, it only applies on the web checkout.",
+        "eligible_cta": "You can continue on web to use the discount, or continue in the app without it.",
+        "ineligible_info": "This affiliate code is attached to your account, but this account already used Stripe before, so the affiliate discount no longer applies.",
+        "ineligible_cta": "You can continue in the app without the discount, or go to web instead."
+      }
+    },
     "50 Tickets": "50 Tickets",
     "250 Tickets": "250 Tickets",
     "1500 Tickets": "1500 Tickets"
@@ -574,7 +626,6 @@
       "info_weekly": "Even if you delete a weekly session, you will not be able to participate again this week.",
       "info_daily": "Even if you delete a daily session, you will not be able to participate again today."
     },
-
     "pro_badge": "PRO",
     "advanced_robots": "Advanced Robots",
     "basic_robots": "Basic Robots"
@@ -1573,10 +1624,6 @@
     "title": "Maintenance",
     "warning": "Cuebids is currently down for maintenance. Please check back shortly."
   },
-  "404": {
-    "warning": "Oops, it seems like the page you are looking for doesn't exist.",
-    "to_start_page": "To start page"
-  },
   "refresh": {
     "title": "Refresh required",
     "warning": "There is a newer version of Cuebids. You need to refresh the page to get the new version.",
@@ -2317,7 +2364,7 @@
       "robots": "Robots: ",
       "dialog": {
         "title": "Scenario settings",
-        "flip_label": "Randomly flip deal 180\u00B0",
+        "flip_label": "Randomly flip deal 180°",
         "dealer_label": "Dealer",
         "vul_label": "Vulnerability",
         "robots_label": "Robots",
@@ -2435,7 +2482,7 @@
     "add_friends_p3": "Find your friend by searching for their name. Send them a friend request when you find them.",
     "add_friends_p4": "Send your friend your <strong>Friend Key</strong>. They can then add you as a friend.",
     "add_friends_p5": "Your key: ",
-    "add_friends_p6": "Send your friend your invite link. You can copy the link on the \"Add\u00A0friends\" page. When they follow the link you will become friends.",
+    "add_friends_p6": "Send your friend your invite link. You can copy the link on the \"Add friends\" page. When they follow the link you will become friends.",
     "friend_gone_title": "I can no longer see my friend",
     "friend_gone_p1": "Make sure you did not <strong>accidentally block each other</strong>. Both you and your partner should check the \"Show blocked\" option in the friends area. You can access the friends page from the rightmost option in the bottom menu.",
     "stars_title": "How do stars work?",
@@ -2555,6 +2602,7 @@
     "category": "Junior application",
     "notification_success": "Thanks! We will check your application.",
     "notification_error": "Something went wrong :(",
+    "already_applied": "Your junior status has already been reviewed, so you cannot apply again here. Contact us if this looks wrong.",
     "info": "Please type your full name, country and birth year",
     "name_label": "Full name",
     "name_placeholder": "Firstname, Lastname",
@@ -2569,7 +2617,7 @@
   },
   "apps": {
     "apps_title": "Download app",
-    "apps_p1": "Looks like you are on a mobile device \uD83D\uDCF1",
+    "apps_p1": "Looks like you are on a mobile device 📱",
     "apps_p2": "Download the app to get the most out of Cuebids!",
     "app_store_alt_text": "Cuebids on Apple App Store",
     "google_play_alt_text": "Cuebids on Google Play Store",

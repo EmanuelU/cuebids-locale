@@ -1,4 +1,8 @@
 {
+  "404": {
+    "warning": "Hoppsan, det verkar som att sidan du söker inte finns.",
+    "to_start_page": "Till startsidan"
+  },
   "locale": "sv-SE",
   "lia_lang": "sv",
   "bridge": {
@@ -168,7 +172,7 @@
     "error_boundary": {
       "info_1": "Ett fel uppstod, vänligen försök igen. Om felet kvarstår kan du kontakta oss på ",
       "info_2": "Discord",
-      "info_3": " eller skicka e\u2011post till ",
+      "info_3": " eller skicka e‑post till ",
       "info_4": "support@cuebids.com",
       "info_5": ".",
       "try_again": "Försök igen"
@@ -320,6 +324,54 @@
       "endless_tickets": "<strong>Obegränsade</strong> Biljetter"
     },
     "payment_failed": "Betalning misslyckades. Vänligen försök igen.",
+    "checkout_code": {
+      "errors": {
+        "first_stripe_purchase_only": "Den här rabatten gäller bara din första prenumeration.",
+        "generic": "Koden är inte tillgänglig för den här betalningen.",
+        "invalid_or_expired": "Koden är ogiltig eller har gått ut.",
+        "not_eligible_for_product": "Koden gäller inte för den här produkten.",
+        "not_whitelisted": "Koden är inte tillgänglig för ditt konto.",
+        "stripe_rejected": "Koden är inte tillgänglig för den här betalningen."
+      },
+      "billing_day": "daglig",
+      "billing_week": "veckovis",
+      "billing_month": "månadsvis",
+      "billing_year": "årsvis",
+      "billing_description": "{{billing}} fakturering",
+      "role_subscription": "{{role}}-prenumerationer",
+      "selected_products": "utvalda produkter",
+      "works_for_billing": "Den gäller för {{billing}}.",
+      "works_for_product": "Den gäller för {{product}}.",
+      "works_for_billing_on_product": "Den gäller för {{billing}} på {{product}}.",
+      "have_code": "Har du en kod?",
+      "input_label": "Cuebids-kod",
+      "input_placeholder": "Valfri kod",
+      "try_without_code": "Testa utan kod",
+      "remove_and_try_without_code": "Du kan ta bort koden och välja produkten igen utan rabatt.",
+      "section": {
+        "title": "Koder och rabatter",
+        "description": "Har du en checkout-kod eller referral-kod? Lägg till den här innan du går vidare till webbkassan."
+      },
+      "affiliate_attached_title": "Affiliate-kod kopplad",
+      "affiliate_attached_text": "Din affiliate-kod är kopplad till kontot och används automatiskt i webbkassan.",
+      "affiliate_ineligible_prior_title": "Affiliate-rabatten gäller inte längre",
+      "affiliate_ineligible_prior_text": "Det här kontot har redan Stripe-prenumerationshistorik, så den kopplade affiliate-rabatten gäller inte längre.",
+      "affiliate_invalid_title": "Affiliate-kod otillgänglig",
+      "affiliate_invalid_text": "Affiliate-koden som är kopplad till kontot är ogiltig eller har gått ut, så ingen Stripe-rabatt kommer att användas.",
+      "enter_another_code": "Ange en annan kod",
+      "native_prompt": {
+        "title": "Affiliate-rabatt",
+        "continue_web": "Fortsätt på webben",
+        "go_web": "Gå till webben",
+        "continue_in_app_anyway": "Fortsätt i appen ändå",
+        "continue_in_app": "Fortsätt i appen",
+        "cancel": "Avbryt",
+        "eligible_info": "Det här kontot har en affiliate-kod. Om den fortfarande gäller används den bara i webbkassan.",
+        "eligible_cta": "Du kan fortsätta på webben för att använda rabatten, eller fortsätta i appen utan den.",
+        "ineligible_info": "Den här affiliate-koden är kopplad till ditt konto, men kontot har redan använt Stripe tidigare, så affiliate-rabatten gäller inte längre.",
+        "ineligible_cta": "Du kan fortsätta i appen utan rabatten, eller gå till webben i stället."
+      }
+    },
     "50 Tickets": "50 Biljetter",
     "250 Tickets": "250 Biljetter",
     "1500 Tickets": "1500 Biljetter"
@@ -561,10 +613,10 @@
     "print": {
       "title": "Skriv ut den här sessionen",
       "confirm_button": "Bekräfta",
-      "info_1": "Den här sessionen kommer att printas som en PDF och skickas till din e\u2011postadress ",
-      "info_2": "Om det här inte är den korrekta e\u2011postadressen, vänligen uppdatera den på dina profilinställningar.",
+      "info_1": "Den här sessionen kommer att printas som en PDF och skickas till din e‑postadress ",
+      "info_2": "Om det här inte är den korrekta e‑postadressen, vänligen uppdatera den på dina profilinställningar.",
       "warning_not_finished": "Du kan bara skriva ut avslutade sessioner.",
-      "warning_no_email": "Ditt konto saknar en e\u2011postadress.",
+      "warning_no_email": "Ditt konto saknar en e‑postadress.",
       "warning_missing_sub": "Du behöver en Ruterprenumeration för att skriva ut sessioner."
     },
     "delete": {
@@ -633,22 +685,22 @@
     "create_free_account": "Skapa gratis konto",
     "or": "ELLER",
     "messages": {
-      "no_email": "Fyll i din e\u2011postadress och försök igen.",
-      "short_email": "E\u2011postadressen har fel format.",
+      "no_email": "Fyll i din e‑postadress och försök igen.",
+      "short_email": "E‑postadressen har fel format.",
       "password_required": "Lösenord krävs (minst 6 tecken).",
-      "pw_reset_error_default": "Något gick fel. Kontrollera att du har stavat rätt på din e\u2011postadress och att det är den du har registrerat på Cuebids. Om du fortfarande har problem, kontakta supporten på support@cuebids.com",
+      "pw_reset_error_default": "Något gick fel. Kontrollera att du har stavat rätt på din e‑postadress och att det är den du har registrerat på Cuebids. Om du fortfarande har problem, kontakta supporten på support@cuebids.com",
       "pw_reset_success": "Vi har skickat ett mail till dig med en länk för att återställa ditt lösenord.",
-      "create_account_error_default": "Något gick fel, vänligen försök igen. Kontrollera stavningen på din e\u2011postadress.",
-      "login_error_default": "Något gick fel. Kontrollera att du har stavat rätt på din e\u2011postadress och att det är den du har registrerat på Cuebids. Om du fortfarande har problem, kontakta supporten på support@cuebids.com",
+      "create_account_error_default": "Något gick fel, vänligen försök igen. Kontrollera stavningen på din e‑postadress.",
+      "login_error_default": "Något gick fel. Kontrollera att du har stavat rätt på din e‑postadress och att det är den du har registrerat på Cuebids. Om du fortfarande har problem, kontakta supporten på support@cuebids.com",
       "login_success": "Välkommen tillbaka!",
       "failed_account_creation": "Misslyckades att skapa konto. Vänligen försök igen eller kontakta supporten.",
       "failed_login": "Misslyckades att logga in. Vänligen försök igen eller kontakta supporten om felet kvarstår.",
       "failed_no_user": "Misslyckades att logga in. Inget konto hittat med detta ACBL-nummer eller den anslutna e-postadressen, vänligen skapa ett konto med Cuebids först.",
       "create_account_success": "Välkommen till Cuebids! Vi är glada att du är här <3",
-      "auth_invalid_email": "E\u2011postadressen är ogiltig. Vänligen kontrollera din stavning.",
-      "auth_email_already_in_use": "Det finns redan ett konto med den här e\u2011postadressen. Logga in i stället, eller använd Glömt lösenord om det behövs.",
-      "auth_email_already_in_use_sign_in": "Den här e\u2011postadressen har redan ett konto. Vi bytte dig till inloggning. Om du inte kan lösenordet, använd Glömt lösenord.",
-      "auth_user_not_found": "Kontot finns inte. \n Vänligen kontrollera din stavning eller försök med en annan e\u2011postadress.",
+      "auth_invalid_email": "E‑postadressen är ogiltig. Vänligen kontrollera din stavning.",
+      "auth_email_already_in_use": "Det finns redan ett konto med den här e‑postadressen. Logga in i stället, eller använd Glömt lösenord om det behövs.",
+      "auth_email_already_in_use_sign_in": "Den här e‑postadressen har redan ett konto. Vi bytte dig till inloggning. Om du inte kan lösenordet, använd Glömt lösenord.",
+      "auth_user_not_found": "Kontot finns inte. \n Vänligen kontrollera din stavning eller försök med en annan e‑postadress.",
       "auth_too_many_requests": "Du har gjort för många försök. Vänligen vänta på att få ditt email eller kontakta supporten på support@cuebids.com",
       "auth_wrong_password": "Felaktigt lösenord. \n Har du glömt ditt lösenord? Klicka på länken för Glömt lösenord."
     },
@@ -850,7 +902,7 @@
     },
     "display_name": "Användarnamn",
     "profile_collapse_title": "Profil",
-    "contact_email_label": "E\u2011post",
+    "contact_email_label": "E‑post",
     "new_email_label": "Ny e-postadress",
     "new_email_placeholder": "Ange din nya e-postadress",
     "change_email": "Byt e-post",
@@ -975,8 +1027,8 @@
     "remove_account_dialog_info": "Detta kommer att markera kontot för borttagning. Processen kan ta tid. Efter att ditt konto är borta kommer det inte längre gå att återställa det. Är du säker på att du vill radera ditt konto?",
     "newsletter_dialog_title": "Prenumerera på nyhetsbrev",
     "newsletter_dialog_confirm": "Bekräfta",
-    "newsletter_dialog_email_info": "Kontrollera att detta är din e\u2011postadress - du kan ändra den om det behövs",
-    "newsletter_dialog_apple_email_info": "Privata Apple-e\u2011postadresser går inte att använda för att prenumerera på nyhetsbrevet",
+    "newsletter_dialog_email_info": "Kontrollera att detta är din e‑postadress - du kan ändra den om det behövs",
+    "newsletter_dialog_apple_email_info": "Privata Apple-e‑postadresser går inte att använda för att prenumerera på nyhetsbrevet",
     "subs": {
       "heart": "Hjärter",
       "diamond": "Ruter",
@@ -993,11 +1045,11 @@
     "show_bidding_divergence_desc": "Markerar bud som skiljer sig från vad majoriteten av proffs gjorde i samma situation. Gul ram: minst 50% av proffs valde något annat. Röd ram: 70% eller fler valde annorlunda."
   },
   "subscribe_newsletter": {
-    "verification_in_progress": "Verifiering av e\u2011post pågår...",
-    "notification_success": "E\u2011post verifierad",
+    "verification_in_progress": "Verifiering av e‑post pågår...",
+    "notification_success": "E‑post verifierad",
     "error": "Något gick fel. Försök igen. Om problemet kvarstår, maila support@cuebids.com",
     "try_again": "Försök igen",
-    "success": "E\u2011post verifierad!",
+    "success": "E‑post verifierad!",
     "claim_reward": "Hämta belöning"
   },
   "start": {
@@ -1538,7 +1590,7 @@
     "failed_to_load": "Kunde inte ladda sidan",
     "failed_to_load_info": "Något gick fel när sidan skulle laddas.",
     "back_to_start": "Tillbaka till start",
-    "email": "E\u2011post",
+    "email": "E‑post",
     "password": "Lösenord",
     "save": "Spara",
     "login": "Logga in",
@@ -1571,10 +1623,6 @@
   "maintenance": {
     "title": "Underhåll",
     "warning": "Cuebids ligger för närvarande nere för underhåll. Vänligen kom tillbaka strax."
-  },
-  "404": {
-    "warning": "Hoppsan, det verkar som att sidan du söker inte finns.",
-    "to_start_page": "Till startsidan"
   },
   "refresh": {
     "title": "Du behöver ladda om sidan",
@@ -2316,7 +2364,7 @@
       "robots": "Robotar: ",
       "dialog": {
         "title": "Alternativ",
-        "flip_label": "Rotera given 180\u00B0 ibland",
+        "flip_label": "Rotera given 180° ibland",
         "dealer_label": "Giv",
         "vul_label": "Zoner",
         "robots_label": "Robotar",
@@ -2531,7 +2579,7 @@
     "message_label": "Meddelande",
     "message_placeholder": "Skriv din feedback här...",
     "contact_details_label": "Kontaktuppgifter",
-    "contact_details_placeholder": "Om du förväntar dig ett svar, ange din e\u2011post här",
+    "contact_details_placeholder": "Om du förväntar dig ett svar, ange din e‑post här",
     "submit": "Skicka {{category}}",
     "contact_us": "Du kan också kontakta oss på ",
     "or": "eller",
@@ -2554,6 +2602,7 @@
     "category": "Junioransökan",
     "notification_success": "Tack! Vi kommer att granska din ansökan.",
     "notification_error": "Något gick fel :(",
+    "already_applied": "Din juniorstatus har redan granskats, så du kan inte ansöka igen här. Kontakta oss om detta verkar fel.",
     "info": "Vänligen skriv ditt fullständiga namn, land och födelseår",
     "name_label": "Fullständigt namn",
     "name_placeholder": "Förnamn, Efternamn",
@@ -2568,7 +2617,7 @@
   },
   "apps": {
     "apps_title": "Ladda ner appen",
-    "apps_p1": "Det ser ut som att du använder en mobil enhet \uD83D\uDCF1",
+    "apps_p1": "Det ser ut som att du använder en mobil enhet 📱",
     "apps_p2": "Ladda ner appen för att få ut det mesta av Cuebids!",
     "app_store_alt_text": "Cuebids på Apple App Store",
     "google_play_alt_text": "Cuebids på Google Play Store",

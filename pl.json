@@ -1,4 +1,8 @@
 {
+  "404": {
+    "warning": "Cholibka! Wygląda na to, że strona, której szukasz, nie istnieje.",
+    "to_start_page": "Wróć na stronę główną"
+  },
   "locale": "pl",
   "lia_lang": "pl",
   "bridge": {
@@ -320,6 +324,54 @@
       "endless_tickets": "<strong>Nieskończone</strong> bilety"
     },
     "payment_failed": "Płatność nie powiodła się. Spróbuj ponownie.",
+    "checkout_code": {
+      "errors": {
+        "first_stripe_purchase_only": "Ta zniżka dotyczy tylko pierwszej subskrypcji.",
+        "generic": "Ten kod nie jest dostępny dla tej płatności.",
+        "invalid_or_expired": "Ten kod jest nieprawidłowy albo wygasł.",
+        "not_eligible_for_product": "Ten kod nie jest dostępny dla tego produktu.",
+        "not_whitelisted": "Ten kod nie jest dostępny dla Twojego konta.",
+        "stripe_rejected": "Ten kod nie jest dostępny dla tej płatności."
+      },
+      "billing_day": "dzienne",
+      "billing_week": "tygodniowe",
+      "billing_month": "miesięczne",
+      "billing_year": "roczne",
+      "billing_description": "rozliczenie {{billing}}",
+      "role_subscription": "subskrypcje {{role}}",
+      "selected_products": "wybrane produkty",
+      "works_for_billing": "Działa dla: {{billing}}.",
+      "works_for_product": "Działa dla: {{product}}.",
+      "works_for_billing_on_product": "Działa dla {{billing}} na {{product}}.",
+      "have_code": "Masz kod?",
+      "input_label": "Kod Cuebids",
+      "input_placeholder": "Opcjonalny kod",
+      "try_without_code": "Spróbuj bez kodu",
+      "remove_and_try_without_code": "Możesz usunąć kod i ponownie wybrać produkt bez zniżki.",
+      "section": {
+        "title": "Codes & discounts",
+        "description": "Have a checkout code or referral code? Add it here before continuing to web checkout."
+      },
+      "affiliate_attached_title": "Affiliate code attached",
+      "affiliate_attached_text": "Your affiliate code is attached to this account and will be applied automatically on web checkout.",
+      "affiliate_ineligible_prior_title": "Affiliate discount no longer eligible",
+      "affiliate_ineligible_prior_text": "This account already has a Stripe subscription history, so the attached affiliate discount no longer applies.",
+      "affiliate_invalid_title": "Affiliate code unavailable",
+      "affiliate_invalid_text": "The affiliate code attached to this account is invalid or expired, so no Stripe discount will be applied.",
+      "enter_another_code": "Enter another code",
+      "native_prompt": {
+        "title": "Affiliate discount",
+        "continue_web": "Continue on web",
+        "go_web": "Go to web",
+        "continue_in_app_anyway": "Continue in app anyway",
+        "continue_in_app": "Continue in app",
+        "cancel": "Cancel",
+        "eligible_info": "This account has an affiliate code. If it is still eligible, it only applies on the web checkout.",
+        "eligible_cta": "You can continue on web to use the discount, or continue in the app without it.",
+        "ineligible_info": "This affiliate code is attached to your account, but this account already used Stripe before, so the affiliate discount no longer applies.",
+        "ineligible_cta": "You can continue in the app without the discount, or go to web instead."
+      }
+    },
     "50 Tickets": "50 biletów",
     "250 Tickets": "250 biletów",
     "1500 Tickets": "1500 biletów"
@@ -1572,10 +1624,6 @@
     "title": "Przerwa techniczna",
     "warning": "Cuebids jest obecnie niedostępny z powodu prac technicznych. Proszę sprawdzić za chwilę."
   },
-  "404": {
-    "warning": "Cholibka! Wygląda na to, że strona, której szukasz, nie istnieje.",
-    "to_start_page": "Wróć na stronę główną"
-  },
   "refresh": {
     "title": "Wymagane odświeżenie",
     "warning": "Jest dostępna nowsza wersja Cuebids. Musisz odświeżyć stronę, aby uzyskać nową wersję.",
@@ -2316,7 +2364,7 @@
       "robots": "Roboty: ",
       "dialog": {
         "title": "Ustawienia scenariusza",
-        "flip_label": "Losowo obróć o 180\u00B0",
+        "flip_label": "Losowo obróć o 180°",
         "dealer_label": "Rozdający",
         "vul_label": "Założenia",
         "robots_label": "Roboty",
@@ -2434,7 +2482,7 @@
     "add_friends_p3": "Znajdź znajomego, wyszukując jego imię. Wyślij mu zaproszenie do znajomych, gdy go znajdziesz.",
     "add_friends_p4": "Wyślij znajomemu swój <strong>Klucz Znajomości</strong>. Następnie mogą cię dodać jako znajomego.",
     "add_friends_p5": "Twój klucz: ",
-    "add_friends_p6": "Wyślij znajomemu swój link zaproszenia. Możesz skopiować ten link na stronie \"Dodaj\u00A0znajomych\". Gdy klikną ten linki, zostaniecie znajomymi.",
+    "add_friends_p6": "Wyślij znajomemu swój link zaproszenia. Możesz skopiować ten link na stronie \"Dodaj znajomych\". Gdy klikną ten linki, zostaniecie znajomymi.",
     "friend_gone_title": "Nie mogę znaleźć swojego znajomego",
     "friend_gone_p1": "Upewnij się, że przypadkowo nie <strong>zablokowaliście się nawzajem</strong>. Powinniście oboje zaznaczyć opcję \"Pokaż zablokowanych\" w sekcji znajomych. Żeby wejść na stronę znajomych, kliknij prawą opcję dolnego menu.",
     "stars_title": "Jak działają gwiazdki?",
@@ -2554,6 +2602,7 @@
     "category": "Wniosek juniorski",
     "notification_success": "Dziękujemy! Sprawdzimy Twój wniosek.",
     "notification_error": "Coś poszło nie tak :(",
+    "already_applied": "Your junior status has already been reviewed, so you cannot apply again here. Contact us if this looks wrong.",
     "info": "Podaj swoje pełne imię i nazwisko, kraj i rok urodzenia",
     "name_label": "Imię i nazwisko",
     "name_placeholder": "Imię, Nazwisko",
@@ -2568,7 +2617,7 @@
   },
   "apps": {
     "apps_title": "Pobierz aplikację",
-    "apps_p1": "Wygląda na to, że korzystasz z urządzenia mobilnego \uD83D\uDCF1",
+    "apps_p1": "Wygląda na to, że korzystasz z urządzenia mobilnego 📱",
     "apps_p2": "Pobierz aplikację, aby w pełni korzystać z Cuebids!",
     "app_store_alt_text": "Cuebids w Apple App Store",
     "google_play_alt_text": "Cuebids w Google Play Store",

@@ -324,6 +324,54 @@
       "endless_tickets": "<strong>Tickets ilimitados</strong>"
     },
     "payment_failed": "El pago ha fallado. Inténtalo de nuevo.",
+    "checkout_code": {
+      "errors": {
+        "first_stripe_purchase_only": "Este descuento solo se aplica a tu primera suscripción.",
+        "generic": "Este código no está disponible para este pago.",
+        "invalid_or_expired": "Este código no es válido o ha caducado.",
+        "not_eligible_for_product": "Este código no está disponible para este producto.",
+        "not_whitelisted": "Este código no está disponible para tu cuenta.",
+        "stripe_rejected": "Este código no está disponible para este pago."
+      },
+      "billing_day": "diaria",
+      "billing_week": "semanal",
+      "billing_month": "mensual",
+      "billing_year": "anual",
+      "billing_description": "facturación {{billing}}",
+      "role_subscription": "suscripciones {{role}}",
+      "selected_products": "productos seleccionados",
+      "works_for_billing": "Funciona con {{billing}}.",
+      "works_for_product": "Funciona con {{product}}.",
+      "works_for_billing_on_product": "Funciona con {{billing}} en {{product}}.",
+      "have_code": "¿Tienes un código?",
+      "input_label": "Código de Cuebids",
+      "input_placeholder": "Código opcional",
+      "try_without_code": "Probar sin código",
+      "remove_and_try_without_code": "Puedes quitar el código y elegir el producto de nuevo sin descuento.",
+      "section": {
+        "title": "Codes & discounts",
+        "description": "Have a checkout code or referral code? Add it here before continuing to web checkout."
+      },
+      "affiliate_attached_title": "Affiliate code attached",
+      "affiliate_attached_text": "Your affiliate code is attached to this account and will be applied automatically on web checkout.",
+      "affiliate_ineligible_prior_title": "Affiliate discount no longer eligible",
+      "affiliate_ineligible_prior_text": "This account already has a Stripe subscription history, so the attached affiliate discount no longer applies.",
+      "affiliate_invalid_title": "Affiliate code unavailable",
+      "affiliate_invalid_text": "The affiliate code attached to this account is invalid or expired, so no Stripe discount will be applied.",
+      "enter_another_code": "Enter another code",
+      "native_prompt": {
+        "title": "Affiliate discount",
+        "continue_web": "Continue on web",
+        "go_web": "Go to web",
+        "continue_in_app_anyway": "Continue in app anyway",
+        "continue_in_app": "Continue in app",
+        "cancel": "Cancel",
+        "eligible_info": "This account has an affiliate code. If it is still eligible, it only applies on the web checkout.",
+        "eligible_cta": "You can continue on web to use the discount, or continue in the app without it.",
+        "ineligible_info": "This affiliate code is attached to your account, but this account already used Stripe before, so the affiliate discount no longer applies.",
+        "ineligible_cta": "You can continue in the app without the discount, or go to web instead."
+      }
+    },
     "50 Tickets": "50 Tickets",
     "250 Tickets": "250 Tickets",
     "1500 Tickets": "1500 Tickets"
@@ -2554,6 +2602,7 @@
     "category": "Solicitud junior",
     "notification_success": "¡Gracias! Revisaremos tu solicitud.",
     "notification_error": "Algo salió mal :(",
+    "already_applied": "Your junior status has already been reviewed, so you cannot apply again here. Contact us if this looks wrong.",
     "info": "Escribe tu nombre completo, país y año de nacimiento",
     "name_label": "Nombre completo",
     "name_placeholder": "Nombre, Apellidos",
