@@ -231,6 +231,7 @@
   },
   "store": {
     "no_campaign": "No active campaign",
+    "coming_soon": "Coming soon",
     "blackweek": "Black Week is here!",
     "blackweek_info": "Heart Subscription is FREE for TWO WEEKS!",
     "offer_only_for_new": "This offer only applies to new subscribers",
@@ -527,8 +528,21 @@
   },
   "leaderboard": {
     "empty": "Leaderboard empty",
+    "leaderboard": "Leaderboard",
+    "daily_title": "Daily leaderboard",
+    "weekly_title": "Weekly leaderboard",
+    "loading": "Loading leaderboard...",
+    "you": "You",
     "stars": "Stars",
-    "ev": "EV"
+    "ev": "EV",
+    "score": "Score",
+    "participants": "{{count}} participants",
+    "your_rank": "Your rank: #{{rank}}",
+    "continue_session": "Continue session",
+    "all": "All ({{count}})",
+    "friends": "Friends ({{count}})",
+    "pros": "Pros ({{count}})",
+    "robots": "Robots ({{count}})"
   },
   "navbar": {
     "tickets": "tickets",
@@ -596,6 +610,7 @@
     }
   },
   "session": {
+    "expired": "Expired",
     "expired_reasons": {
       "session-expired": "Session expired",
       "auto-archived-old-session": "Automatically archived due to inactivity",
@@ -740,6 +755,9 @@
     "avg": "AVG",
     "challenges": "Challenges",
     "ranked": "Ranked",
+    "ranked_challenges": "Ranked challenges",
+    "rating": "Rating",
+    "queue": "Queue",
     "friendly": "Friendly",
     "wdl": "W/D/L",
     "win_percent": "Win %",
@@ -1236,7 +1254,9 @@
   "deal_type_select": {
     "random": "Random hands",
     "deal_types": "Deal types",
+    "filter": "Filter...",
     "no_types": "No types...",
+    "requires_subscription": "Requires subscription",
     "v4_beta": "This is a beta test of the new scoring system. Please report any issues to support@cuebids.com or in the Cuebids Discord server."
   },
   "deal_types": {
@@ -1613,6 +1633,8 @@
     "failed_to_load": "Failed to load",
     "failed_to_load_info": "Something went wrong when loading the page.",
     "back_to_start": "Back to start",
+    "not_available": "Not available",
+    "not_supported_in_deployment": "is not supported in this deployment.",
     "email": "Email",
     "password": "Password",
     "save": "Save",

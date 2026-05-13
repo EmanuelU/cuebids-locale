@@ -1063,7 +1063,9 @@
   "deal_type_select": {
     "random": "",
     "deal_types": "",
+    "filter": "",
     "no_types": "",
+    "requires_subscription": "",
     "v4_beta": ""
   },
   "deal_types": {

@@ -229,6 +229,7 @@
   },
   "store": {
     "no_campaign": "没有活跃的活动",
+    "coming_soon": "即将推出",
     "blackweek": "黑色周来了！",
     "blackweek_info": "红桃订阅限时免费两周！",
     "offer_only_for_new": "此优惠仅适用于新订阅者",
@@ -525,8 +526,21 @@
   },
   "leaderboard": {
     "empty": "排行榜为空",
+    "leaderboard": "排行榜",
+    "daily_title": "每日排行榜",
+    "weekly_title": "每周排行榜",
+    "loading": "正在加载排行榜...",
+    "you": "你",
     "stars": "星星",
-    "ev": "EV"
+    "ev": "EV",
+    "score": "得分",
+    "participants": "{{count}} 对参赛组合",
+    "your_rank": "你的排名：#{{rank}}",
+    "continue_session": "继续本局",
+    "all": "全部 ({{count}})",
+    "friends": "好友 ({{count}})",
+    "pros": "职业选手 ({{count}})",
+    "robots": "机器人 ({{count}})"
   },
   "navbar": {
     "tickets": "门票",
@@ -594,6 +608,7 @@
     }
   },
   "session": {
+    "expired": "已过期",
     "expired_reasons": {
       "session-expired": "牌局已过期",
       "auto-archived-old-session": "由于不活动而自动存档",
@@ -731,6 +746,9 @@
     "avg": "平均",
     "challenges": "挑战",
     "ranked": "排名",
+    "ranked_challenges": "排名挑战",
+    "rating": "积分",
+    "queue": "队列",
     "friendly": "友谊赛",
     "wdl": "胜/平/负",
     "win_percent": "胜率%",
@@ -1214,7 +1232,9 @@
   "deal_type_select": {
     "random": "随机手",
     "deal_types": "牌型",
+    "filter": "筛选...",
     "no_types": "没有类型...",
+    "requires_subscription": "需要订阅",
     "v4_beta": "这是新评分系统的 Beta 测试。请将任何问题报告给 support@cuebids.com 或在 Cuebids Discord 服务器中报告。"
   },
   "deal_types": {
@@ -1591,6 +1611,8 @@
     "failed_to_load": "加载失败",
     "failed_to_load_info": "加载页面时出现问题。",
     "back_to_start": "返回开始",
+    "not_available": "不可用",
+    "not_supported_in_deployment": "在此部署中不可用。",
     "email": "电子邮件",
     "password": "密码",
     "save": "保存",

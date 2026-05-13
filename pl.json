@@ -229,6 +229,7 @@
   },
   "store": {
     "no_campaign": "Brak aktywnej kampanii",
+    "coming_soon": "Wkrótce dostępne",
     "blackweek": "Black Week już tutaj!",
     "blackweek_info": "Subskrypcja Heart jest DARMOWA przez DWA TYGODNIE!",
     "offer_only_for_new": "Ta oferta dotyczy tylko nowych subskrybentów",
@@ -524,8 +525,21 @@
   },
   "leaderboard": {
     "empty": "Ranking jest pusty",
+    "leaderboard": "Ranking",
+    "daily_title": "Ranking dzienny",
+    "weekly_title": "Ranking tygodniowy",
+    "loading": "Ładowanie rankingu...",
+    "you": "Ty",
     "stars": "Gwiazdki",
-    "ev": "EV"
+    "ev": "EV",
+    "score": "Wynik",
+    "participants": "{{count}} par",
+    "your_rank": "Twoje miejsce: #{{rank}}",
+    "continue_session": "Kontynuuj sesję",
+    "all": "Wszyscy ({{count}})",
+    "friends": "Znajomi ({{count}})",
+    "pros": "Pro ({{count}})",
+    "robots": "Roboty ({{count}})"
   },
   "navbar": {
     "tickets": "bilety",
@@ -593,6 +607,7 @@
     }
   },
   "session": {
+    "expired": "Wygasła",
     "expired_reasons": {
       "session-expired": "Sesja wygasła",
       "auto-archived-old-session": "Automatycznie zarchiwizowana z powodu braku aktywności",
@@ -730,6 +745,9 @@
     "avg": "ŚREDNIA",
     "challenges": "Wyzwania",
     "ranked": "Rankingowe",
+    "ranked_challenges": "Wyzwania rankingowe",
+    "rating": "Rating",
+    "queue": "Kolejka",
     "friendly": "Towarzyskie",
     "wdl": "W/R/P",
     "win_percent": "%wygranych",
@@ -1213,7 +1231,9 @@
   "deal_type_select": {
     "random": "Losowe rozdania",
     "deal_types": "Typy rozdań",
+    "filter": "Filtruj...",
     "no_types": "Brak typów...",
+    "requires_subscription": "Wymaga subskrypcji",
     "v4_beta": "To jest test wersji beta nowego systemu punktacji. Prosimy o zgłaszanie wszelkich problemów na adres support@cuebids.com lub na serwerze Discord Cuebids."
   },
   "deal_types": {
@@ -1590,6 +1610,8 @@
     "failed_to_load": "Nie udało się załadować",
     "failed_to_load_info": "Wystąpił błąd podczas ładowania strony.",
     "back_to_start": "Powrót na początek",
+    "not_available": "Niedostępne",
+    "not_supported_in_deployment": "nie jest obsługiwane w tej wersji.",
     "email": "E-mail",
     "password": "Hasło",
     "save": "Zapisz",

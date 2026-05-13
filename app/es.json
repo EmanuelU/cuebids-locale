@@ -1239,7 +1239,9 @@
   "deal_type_select": {
     "random": "Manos aleatorias",
     "deal_types": "Tipos de manos",
+    "filter": "Filtrar...",
     "no_types": "Sin tipos...",
+    "requires_subscription": "Requiere suscripción",
     "v4_beta": "Esta es una prueba beta del nuevo sistema de puntuación. Informa de cualquier problema en support@cuebids.com o en el servidor de Discord de Cuebids."
   },
   "deal_types": {

@@ -1235,7 +1235,9 @@
   "deal_type_select": {
     "random": "Slumpade händer",
     "deal_types": "Givtyper",
+    "filter": "Filtrera...",
     "no_types": "Inga typer...",
+    "requires_subscription": "Kräver prenumeration",
     "v4_beta": "Detta är en beta test av det nya scoringsystemet. Skicka gärna in synpunkter till support@cuebids.com eller på Cuebids Discord server."
   },
   "deal_types": {

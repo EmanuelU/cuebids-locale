@@ -1235,7 +1235,9 @@
   "deal_type_select": {
     "random": "Losowe rozdania",
     "deal_types": "Typy rozdań",
+    "filter": "Filtruj...",
     "no_types": "Brak typów...",
+    "requires_subscription": "Wymaga subskrypcji",
     "v4_beta": "To jest test wersji beta nowego systemu punktacji. Prosimy o zgłaszanie wszelkich problemów na adres support@cuebids.com lub na serwerze Discord Cuebids."
   },
   "deal_types": {

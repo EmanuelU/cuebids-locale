@@ -1235,7 +1235,9 @@
   "deal_type_select": {
     "random": "Mains aléatoires",
     "deal_types": "Types de donnes",
+    "filter": "Filtrer...",
     "no_types": "Recherche infructueuse...",
+    "requires_subscription": "Abonnement requis",
     "v4_beta": "This is a beta test of the new scoring system. Please report any issues to support@cuebids.com or in the Cuebids Discord server."
   },
   "deal_types": {

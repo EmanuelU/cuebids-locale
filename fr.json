@@ -229,6 +229,7 @@
   },
   "store": {
     "no_campaign": "Aucune campagne active",
+    "coming_soon": "Bientôt disponible",
     "blackweek": "Black Week est là !",
     "blackweek_info": "L'abonnement Coeur est GRATUIT pendant DEUX SEMAINES !",
     "offer_only_for_new": "Cette offre s'applique uniquement aux nouveaux abonnés",
@@ -524,8 +525,21 @@
   },
   "leaderboard": {
     "empty": "Le classement est vide",
+    "leaderboard": "Classement",
+    "daily_title": "Classement quotidien",
+    "weekly_title": "Classement hebdomadaire",
+    "loading": "Chargement du classement...",
+    "you": "Vous",
     "stars": "Etoiles",
-    "ev": "EV"
+    "ev": "EV",
+    "score": "Score",
+    "participants": "{{count}} paires",
+    "your_rank": "Votre rang : #{{rank}}",
+    "continue_session": "Continuer la session",
+    "all": "Tous ({{count}})",
+    "friends": "Amis ({{count}})",
+    "pros": "Pros ({{count}})",
+    "robots": "Robots ({{count}})"
   },
   "navbar": {
     "tickets": "tickets",
@@ -593,6 +607,7 @@
     }
   },
   "session": {
+    "expired": "Expirée",
     "expired_reasons": {
       "session-expired": "Session expirée",
       "auto-archived-old-session": "Automatiquement archivée en raison d'inactivité",
@@ -730,6 +745,9 @@
     "avg": "MOYENNE",
     "challenges": "Défis",
     "ranked": "Classés",
+    "ranked_challenges": "Défis classés",
+    "rating": "Cote",
+    "queue": "File",
     "friendly": "Amical",
     "wdl": "V/N/D",
     "win_percent": "% de victoires",
@@ -1213,7 +1231,9 @@
   "deal_type_select": {
     "random": "Mains aléatoires",
     "deal_types": "Types de donnes",
+    "filter": "Filtrer...",
     "no_types": "Recherche infructueuse...",
+    "requires_subscription": "Abonnement requis",
     "v4_beta": "This is a beta test of the new scoring system. Please report any issues to support@cuebids.com or in the Cuebids Discord server."
   },
   "deal_types": {
@@ -1590,6 +1610,8 @@
     "failed_to_load": "Échec du chargement",
     "failed_to_load_info": "Une erreur s'est produite lors du chargement de la page.",
     "back_to_start": "Retour au début",
+    "not_available": "Indisponible",
+    "not_supported_in_deployment": "n’est pas pris en charge dans ce déploiement.",
     "email": "Email",
     "password": "Mot de passe",
     "save": "Sauvegarder",
