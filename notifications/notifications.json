@@ -22,7 +22,11 @@
     },
     "zh": {
       "title": "邀请你一起玩",
-      "text": "{{partner}} 邀请你参加活动：{{event}}"
+      "text": "{{partner}} 邀请你参加挑战：{{event}}"
+    },
+    "zht": {
+      "title": "邀請你一起玩",
+      "text": "{{partner}} 邀請你參加挑戰：{{event}}"
     }
   },
   "waiting_for_you": {
@@ -49,6 +53,10 @@
     "zh": {
       "title": "{{partner}} 正在等你",
       "text": "轮到你叫牌了！"
+    },
+    "zht": {
+      "title": "{{partner}} 正在等你",
+      "text": "輪到你叫牌了！"
     }
   },
   "partner_finished_bidding": {
@@ -75,6 +83,10 @@
     "zh": {
       "title": "{{partner}} 已完成叫牌",
       "text": "轮到你了！"
+    },
+    "zht": {
+      "title": "{{partner}} 已完成叫牌",
+      "text": "輪到你了！"
     }
   },
   "partner_started_session": {
@@ -99,8 +111,12 @@
       "text": "¡Tu compañero {{partner}} ha iniciado una nueva sesión!"
     },
     "zh": {
-      "title": "与 {{partner}} 的新牌局",
-      "text": "搭档 {{partner}} 开始了一场新牌局！"
+      "title": "与 {{partner}} 的新叫牌练习",
+      "text": "搭档 {{partner}} 开始了一次新的叫牌练习！"
+    },
+    "zht": {
+      "title": "與 {{partner}} 的新叫牌練習",
+      "text": "搭檔 {{partner}} 開始了一次新的叫牌練習！"
     }
   },
   "event_joined": {
@@ -125,8 +141,12 @@
       "text": "Te has unido al {{event}} con tu compañero {{partner}}"
     },
     "zh": {
-      "title": "已加入活动",
-      "text": "你已与搭档 {{partner}} 一起加入 {{event}}"
+      "title": "已加入挑战",
+      "text": "你已与搭档 {{partner}} 一起加入 {{event}} 挑战"
+    },
+    "zht": {
+      "title": "已加入挑戰",
+      "text": "你已與搭檔 {{partner}} 一起加入 {{event}} 挑戰"
     }
   },
   "session_finished": {
@@ -151,7 +171,11 @@
       "text": "Tú y {{partner}} habéis terminado la subasta"
     },
     "zh": {
-      "title": "牌局已结束",
+      "title": "叫牌练习已结束",
+      "text": "你和 {{partner}} 已完成叫牌"
+    },
+    "zht": {
+      "title": "叫牌練習已結束",
       "text": "你和 {{partner}} 已完成叫牌"
     }
   },
@@ -179,6 +203,10 @@
     "zh": {
       "title": "新好友",
       "text": "{{partner}} 已将你添加为好友"
+    },
+    "zht": {
+      "title": "新好友",
+      "text": "{{partner}} 已將你添加為好友"
     }
   },
   "friend_request": {
@@ -205,6 +233,10 @@
     "zh": {
       "title": "好友请求",
       "text": "{{partner}} 向你发送了好友请求"
+    },
+    "zht": {
+      "title": "好友請求",
+      "text": "{{partner}} 向你發送了好友請求"
     }
   },
   "challenged": {
@@ -231,6 +263,10 @@
     "zh": {
       "title": "你被挑战了！",
       "text": "{{opponent1}} 和 {{opponent2}} 向你发起了挑战"
+    },
+    "zht": {
+      "title": "你被挑戰了！",
+      "text": "{{opponent1}} 和 {{opponent2}} 向你發起了挑戰"
     }
   },
   "found_matchmaking": {
@@ -256,7 +292,11 @@
     },
     "zh": {
       "title": "已找到对局",
-      "text": "你与 {{partner}} 的牌局已开始，祝你好运！"
+      "text": "你与 {{partner}} 的叫牌练习已开始，祝你好运！"
+    },
+    "zht": {
+      "title": "已找到對局",
+      "text": "你與 {{partner}} 的叫牌練習已開始，祝你好運！"
     }
   },
   "found_challenge": {
@@ -283,6 +323,10 @@
     "zh": {
       "title": "挑战已开始",
       "text": "对阵 {{opponent1}} 和 {{opponent2}}"
+    },
+    "zht": {
+      "title": "挑戰已開始",
+      "text": "對陣 {{opponent1}} 和 {{opponent2}}"
     }
   },
   "group_event_invite": {
@@ -309,6 +353,10 @@
     "zh": {
       "title": "邀请你一起玩",
       "text": "{{partner}} 邀请你参加活动：{{event}}"
+    },
+    "zht": {
+      "title": "邀請你一起玩",
+      "text": "{{partner}} 邀請你參加活動：{{event}}"
     }
   },
   "group_event_accepted": {
@@ -335,6 +383,10 @@
     "zh": {
       "title": "邀请已接受",
       "text": "{{partner}} 已接受你参加活动 {{event}} 的邀请"
+    },
+    "zht": {
+      "title": "邀請已接受",
+      "text": "{{partner}} 已接受你參加活動 {{event}} 的邀請"
     }
   },
   "group_invite": {
@@ -361,6 +413,10 @@
     "zh": {
       "title": "群组邀请",
       "text": "你已被邀请加入群组：{{group}}"
+    },
+    "zht": {
+      "title": "群組邀請",
+      "text": "你已被邀請加入群組：{{group}}"
     }
   },
   "group_added": {
@@ -387,6 +443,10 @@
     "zh": {
       "title": "已加入群组",
       "text": "你已被加入群组：{{group}}"
+    },
+    "zht": {
+      "title": "已加入群組",
+      "text": "你已被加入群組：{{group}}"
     }
   },
   "group_promotion": {
@@ -413,6 +473,10 @@
     "zh": {
       "title": "群组高级成员",
       "text": "你已被提升为群组 {{group}} 的高级成员"
+    },
+    "zht": {
+      "title": "群組高級成員",
+      "text": "你已被提升為群組 {{group}} 的高級成員"
     }
   },
   "new_group_event": {
@@ -439,6 +503,10 @@
     "zh": {
       "title": "新活动",
       "text": "{{group}} 中有新活动"
+    },
+    "zht": {
+      "title": "新活動",
+      "text": "{{group}} 中有新活動"
     }
   },
   "session_shared": {
@@ -463,8 +531,12 @@
       "text": "{{user}} compartió una sesión contigo"
     },
     "zh": {
-      "title": "牌局已分享",
-      "text": "{{user}} 与你分享了一场牌局"
+      "title": "叫牌练习已分享",
+      "text": "{{user}} 与你分享了一次叫牌练习"
+    },
+    "zht": {
+      "title": "叫牌練習已分享",
+      "text": "{{user}} 與你分享了一次叫牌練習"
     }
   },
   "session_deal_shared": {
@@ -489,8 +561,12 @@
       "text": "{{user}} compartió una mano contigo"
     },
     "zh": {
-      "title": "牌局已分享",
+      "title": "副牌已分享",
       "text": "{{user}} 与你分享了一副牌"
+    },
+    "zht": {
+      "title": "副牌已分享",
+      "text": "{{user}} 與你分享了一副牌"
     }
   },
   "new_performance_reports": {
@@ -517,6 +593,10 @@
     "zh": {
       "title": "新的每周报告",
       "text": "本周你与 {{numberOfPartners}} 位搭档完成了 {{dealsFinished}} 副牌，平均获得了 {{averageGrade}} 颗星！"
+    },
+    "zht": {
+      "title": "新的每週報告",
+      "text": "本週你與 {{numberOfPartners}} 位搭檔完成了 {{dealsFinished}} 副牌，平均獲得了 {{averageGrade}} 顆星！"
     }
   },
   "bid_reminder": {
@@ -542,6 +622,10 @@
     },
     "zh": {
       "title": "你的搭档正在等你！",
+      "text": "你有 {{count}} 副牌正在等你。"
+    },
+    "zht": {
+      "title": "你的搭檔正在等你！",
       "text": "你有 {{count}} 副牌正在等你。"
     }
   },
@@ -569,6 +653,10 @@
     "zh": {
       "title": "{{event}}：{{headline}}",
       "text": "{{description}}"
+    },
+    "zht": {
+      "title": "{{event}}：{{headline}}",
+      "text": "{{description}}"
     }
   },
   "event_reminder_generic": {
@@ -593,7 +681,11 @@
       "text": "¡Únete ahora!"
     },
     "zh": {
-      "title": "新的 {{event}} 活动已开放！",
+      "title": "新的{{event}}挑战已开放！",
+      "text": "立即加入！"
+    },
+    "zht": {
+      "title": "新的{{event}}挑戰已開放！",
       "text": "立即加入！"
     }
   },
@@ -619,7 +711,11 @@
       "text": "¡Únete ahora!"
     },
     "zh": {
-      "title": "新的每日活动已开放！",
+      "title": "新的每日挑战已开放！",
+      "text": "立即加入！"
+    },
+    "zht": {
+      "title": "新的每日挑戰已開放！",
       "text": "立即加入！"
     }
   },
@@ -645,7 +741,11 @@
       "text": "¡Únete ahora!"
     },
     "zh": {
-      "title": "新的每周活动已开放！",
+      "title": "新的每周挑战已开放！",
+      "text": "立即加入！"
+    },
+    "zht": {
+      "title": "新的每週挑戰已開放！",
       "text": "立即加入！"
     }
   },
@@ -673,6 +773,10 @@
     "zh": {
       "title": "联赛赛程已确认",
       "text": "请填写你在 {{season}} 的出勤情况。"
+    },
+    "zht": {
+      "title": "聯賽賽程已確認",
+      "text": "請填寫你在 {{season}} 的出勤情況。"
     }
   },
   "league_availability_reminder": {
@@ -699,6 +803,10 @@
     "zh": {
       "title": "联赛出勤提醒",
       "text": "你在 {{season}} 里还有联赛场次尚未回复。"
+    },
+    "zht": {
+      "title": "聯賽出勤提醒",
+      "text": "你在 {{season}} 裡還有聯賽場次尚未回覆。"
     }
   },
   "league_captain_short_team_warning": {
@@ -724,7 +832,11 @@
     },
     "zh": {
       "title": "阵容不足警告",
-      "text": "{{match}} 目前只有 {{count}} 名可上场球员。"
+      "text": "{{match}} 目前只有 {{count}} 名可出场成员。"
+    },
+    "zht": {
+      "title": "陣容不足警告",
+      "text": "{{match}} 目前只有 {{count}} 名可出場成員。"
     }
   },
   "league_captain_missing_lineup_warning": {
@@ -751,6 +863,10 @@
     "zh": {
       "title": "尚未设置阵容",
       "text": "{{match}} 还没有确定出场阵容。"
+    },
+    "zht": {
+      "title": "尚未設置陣容",
+      "text": "{{match}} 還沒有確定出場陣容。"
     }
   },
   "league_match_lineup_reminder_day_before": {

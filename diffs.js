@@ -4,6 +4,7 @@ import frenchJson from './fr.json' with { type: 'json' }
 import polishJson from './pl.json' with { type: 'json' }
 import swedishJson from './sv.json' with { type: 'json' }
 import mandarinJson from './zh.json' with { type: 'json' }
+import traditionalChineseJson from './zht.json' with { type: 'json' }
 
 function getAllKeys(languageJson, path = []) {
   return Object.keys(languageJson).reduce(function (acc, k) {
@@ -50,13 +51,19 @@ compareLanguageObjects(englishJson, swedishJson)
 compareLanguageObjects(englishJson, polishJson)
 compareLanguageObjects(englishJson, frenchJson)
 compareLanguageObjects(englishJson, mandarinJson)
+compareLanguageObjects(englishJson, traditionalChineseJson)
 compareLanguageObjects(spanishJson, swedishJson)
 compareLanguageObjects(spanishJson, polishJson)
 compareLanguageObjects(spanishJson, frenchJson)
 compareLanguageObjects(spanishJson, mandarinJson)
+compareLanguageObjects(spanishJson, traditionalChineseJson)
 compareLanguageObjects(swedishJson, polishJson)
 compareLanguageObjects(swedishJson, frenchJson)
 compareLanguageObjects(swedishJson, mandarinJson)
+compareLanguageObjects(swedishJson, traditionalChineseJson)
 compareLanguageObjects(polishJson, frenchJson)
 compareLanguageObjects(polishJson, mandarinJson)
+compareLanguageObjects(polishJson, traditionalChineseJson)
 compareLanguageObjects(frenchJson, mandarinJson)
+compareLanguageObjects(frenchJson, traditionalChineseJson)
+compareLanguageObjects(mandarinJson, traditionalChineseJson)
