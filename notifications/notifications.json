@@ -877,6 +877,14 @@
     "sv": {
       "title": "Ligamatch i morgon",
       "text": "Påminnelse: du är uttagen till {{match}}."
+    },
+    "zh": {
+      "title": "明天有联赛比赛",
+      "text": "提醒：你已被安排在 {{match}} 的阵容中。"
+    },
+    "zht": {
+      "title": "明天有聯賽比賽",
+      "text": "提醒：你已被安排在 {{match}} 的陣容中。"
     }
   },
   "league_match_lineup_reminder_two_hours": {
@@ -887,6 +895,14 @@
     "sv": {
       "title": "Ligamatch snart",
       "text": "Påminnelse: {{match}} börjar om cirka 2 timmar."
+    },
+    "zh": {
+      "title": "联赛比赛即将开始",
+      "text": "提醒：{{match}} 将在约 2 小时后开始。"
+    },
+    "zht": {
+      "title": "聯賽比賽即將開始",
+      "text": "提醒：{{match}} 將在約 2 小時後開始。"
     }
   },
   "common": {
@@ -896,7 +912,8 @@
       "pl": "Dołącz teraz!",
       "fr": "Rejoignez maintenant !",
       "es": "¡Únete ahora!",
-      "zh": "立即加入！"
+      "zh": "立即加入！",
+      "zht": "立即加入！"
     }
   },
   "event_names": {
@@ -906,7 +923,8 @@
       "pl": "Dzienny",
       "fr": "Quotidien",
       "es": "Diario",
-      "zh": "每日"
+      "zh": "每日",
+      "zht": "每日"
     },
     "weekly_headline": {
       "en": "Weekly",
@@ -914,7 +932,8 @@
       "pl": "Tygodniowy",
       "fr": "Hebdomadaire",
       "es": "Semanal",
-      "zh": "每周"
+      "zh": "每周",
+      "zht": "每週"
     }
   }
 }
