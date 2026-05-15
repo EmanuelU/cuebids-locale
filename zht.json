@@ -1,0 +1,3052 @@
+{
+  "404": {
+    "warning": "糟糕，您要查找的頁面似乎不存在。",
+    "to_start_page": "返回首頁"
+  },
+  "locale": "zh-CN",
+  "lia_lang": "en",
+  "bridge": {
+    "vulnerability": {
+      "name": "局況",
+      "vulnerable": "有局",
+      "not_vulnerable": "無局",
+      "vuln_vs_not_vuln": "不利局況",
+      "not_vuln_vs_vuln": "有利局況",
+      "NONE": "無",
+      "EW": "東/西",
+      "NS": "北/南",
+      "ALL": "全部"
+    },
+    "hand": {
+      "HCP": "高牌點"
+    },
+    "scoring": {
+      "name": "賽制",
+      "TEAMS": "團體賽",
+      "PAIRS": "雙人賽",
+      "BAM": "BAM",
+      "RUBBER": "橡皮橋"
+    },
+    "dealer": "發牌人",
+    "directions": {
+      "N": "北",
+      "E": "東",
+      "S": "南",
+      "W": "西",
+      "P": "無"
+    },
+    "directions_short": {
+      "N": "N",
+      "E": "E",
+      "S": "S",
+      "W": "W"
+    }
+  },
+  "components": {
+    "select_fed": {
+      "title": "投票"
+    },
+    "challenge_timer": {
+      "end_at_reset": "挑戰將在每日重置時結束。"
+    },
+    "contact_card": {
+      "contact": "聯繫方式"
+    },
+    "daily_card": {
+      "title": "每日挑戰",
+      "pairs": "對",
+      "continue": "繼續",
+      "leaderboard": "排行榜",
+      "join_event": "參加挑戰"
+    },
+    "weekly_card": {
+      "title": "每週挑戰",
+      "pairs": "對",
+      "continue": "繼續",
+      "leaderboard": "排行榜",
+      "join_event": "參加挑戰"
+    },
+    "group_event_card": {
+      "pairs": "對",
+      "join_event": "參加活動",
+      "finished": "完成",
+      "details": "詳情",
+      "early_end": "提早結束",
+      "early_end_success": "活動已成功結束",
+      "early_end_error": "結束活動時出了點問題",
+      "early_end_tooltip": "提前結束活動"
+    },
+    "next_deal_button": {
+      "other_sessions_title": "其他叫牌練習",
+      "other_sessions_message": "你還有其他未完成的叫牌練習：",
+      "stay_current": "留在當前練習",
+      "go_to_session": "前往練習",
+      "session_without_tags": "叫牌練習"
+    },
+    "event_timer": {
+      "scored_in": "活動將在以下時間計分",
+      "scoring": "正在計分...",
+      "starts_soon": "即將開始",
+      "has_ended": "{{label}}已結束",
+      "w": "周",
+      "d": "天",
+      "h": "時",
+      "m": "分",
+      "s": "秒"
+    },
+    "bidding_box": {
+      "good_luck": "祝你好運！"
+    },
+    "challenge_card": {
+      "win": "勝",
+      "loss": "負",
+      "draw": "平局",
+      "pro": "PRO"
+    },
+    "chat": {
+      "placeholder": "輸入消息...",
+      "disabled_placeholder": "已禁用",
+      "send": "發送",
+      "read_only": "當前聊天僅可查看",
+      "loading_permissions": "正在確認聊天權限...",
+      "setting_up_friend_chat": "正在創建你們的聊天空間……請友好相處！<3",
+      "sign_in_required": "請先登錄再使用聊天。",
+      "permission_check_timeout": "確認聊天權限超時，請重試。",
+      "unavailable_permission_update": "聊天暫時不可用。權限剛更新，可能還需要一點時間同步。",
+      "unavailable_generic": "聊天暫時不可用，請稍後重試。",
+      "personal_note": "個人筆記",
+      "personal_notes": "個人筆記",
+      "hidden_message": "隱藏消息",
+      "message_actions": "消息選項",
+      "edit_message": "編輯",
+      "edit_message_prompt": "編輯消息",
+      "delete_message": "刪除",
+      "delete_confirm": "刪除這條消息？",
+      "deleted_message": "消息已刪除",
+      "edit_window_expired": "消息只能在 30 分鐘內修改。",
+      "edited_label": "已編輯",
+      "typing": "正在輸入...",
+      "typing_label": "{{displayName}} 正在輸入...",
+      "daily_event": "每日挑戰",
+      "weekly_event": "每週挑戰",
+      "event_invite_daily": "每日挑戰",
+      "event_invite_weekly": "每週挑戰",
+      "event_invite_sent": "邀請已發送",
+      "event_invite_received": "一起玩嗎？",
+      "event_invite_pending": "邀請待處理",
+      "event_invite_waiting": "正在等待邀請同步...",
+      "event_invite_no_longer_pending": "該邀請已不再待處理。",
+      "event_invite_accepted": "邀請已接受",
+      "event_invite_rejected": "邀請已拒絕",
+      "event_invite_event_unavailable": "該挑戰當前不可用。",
+      "event_invite_already_pending": "此挑戰已有待處理邀請。",
+      "event_invite_send_failed": "無法發送挑戰邀請，請重試。",
+      "update_failed": "無法更新消息，請重試。",
+      "delete_failed": "無法刪除消息，請重試。",
+      "more_send_options": "更多發送選項",
+      "never_revealed": "不會顯示",
+      "revealed_after_deal": "本副牌結束後顯示"
+    },
+    "unscored_deal": {
+      "contract": "定約",
+      "stars": "星星",
+      "fast_scoring": "快速計分",
+      "regular_scoring": "普通計分"
+    },
+    "group_card": {
+      "premium_group_badge": "VIP 群組"
+    },
+    "group_header": {
+      "premium_group_badge": "VIP 群組"
+    },
+    "select_partnership_dropdown": {
+      "select_pair": "選擇對"
+    },
+    "select_friend_dropdown": {
+      "not_mutual_error": "無法選擇該用戶，你們不是互為好友。",
+      "no_matches": "沒有好友匹配過濾器...",
+      "disabled": "已禁用",
+      "invite_only": "僅限受邀者",
+      "disabled_tooltip": "這位好友不允許你們一起參加挑戰"
+    },
+    "error_boundary": {
+      "info_1": "發生錯誤，請重試。如果錯誤仍然存在，您可以通過以下方式聯繫我們",
+      "info_2": "Discord",
+      "info_3": "或發送電子郵件至",
+      "info_4": "support@cuebids.com",
+      "info_5": "。",
+      "try_again": "再試一次"
+    },
+    "weekly_ended": {
+      "info": "本週挑戰已結束，你的結果不會提交到排行榜。不過你仍然可以完成本次叫牌練習。"
+    },
+    "invite": {
+      "remove": "刪除",
+      "join_event_error": "加入挑戰時出錯 ({{error}})",
+      "accept": "接受",
+      "reject": "拒絕",
+      "price_dialog_title": "接受邀請",
+      "price_dialog_confirm": "接受"
+    },
+    "price": {
+      "price": "價格",
+      "free": "免費"
+    },
+    "remaining_tickets_warning": {
+      "you_cannot_afford_partner_heart": "你負擔不起這個價格，但由於搭檔擁有紅桃訂閱，你仍然可以玩！",
+      "you_cannot_afford_partner_heart_short": "你負擔不起這個價格，但由於搭檔擁有紅桃訂閱，你仍然可以玩！",
+      "you_cannot_afford": "你負擔不起這個價格。開通紅桃訂閱即可不限次數遊玩。點擊打開商店。",
+      "you_cannot_afford_short": "你負擔不起這個價格。開通紅桃訂閱即可不限次數遊玩。",
+      "partner_cannot_afford_you_heart": "搭檔負擔不起這個價格，但由於你擁有紅桃訂閱，他們仍然可以玩！",
+      "partner_cannot_afford_you_heart_short": "搭檔負擔不起這個價格，但由於你擁有紅桃訂閱，他們仍然可以玩！",
+      "partner_cannot_afford_you_pay": "搭檔負擔不起這個價格。你可以替他們支付缺少的門票。",
+      "partner_cannot_afford_you_pay_short": "搭檔負擔不起這個價格。你可以替他們支付缺少的門票。",
+      "partner_cannot_afford_get_heart": "搭檔負擔不起這個價格。如果你開通紅桃訂閱，就可以不限次數遊玩。點擊打開商店。",
+      "partner_cannot_afford_get_heart_short": "搭檔負擔不起這個價格。如果你開通紅桃訂閱，就可以不限次數遊玩。"
+    },
+    "user_card": {
+      "junior": "U18",
+      "junior_info": "U18 是指 18 歲以下的青少年。青少年可以通過我們的聯繫表申請 Cuebids 的青少年會員資格。",
+      "pro": "PRO",
+      "pro_info": "PRO 是職業橋牌牌手。在牌局的比較區域，你可以將自己的結果與所有 PRO 牌手進行比較。如果你是職業牌手並希望獲得這個徽章，請聯繫我們。",
+      "robot": "機器人",
+      "robot_info": "這是一個可以和你練習叫牌的機器人。",
+      "send_friend_request": "發送好友請求",
+      "friend_request_sent": "好友請求已發送至 {{displayName}}",
+      "total_stars": "總星星數",
+      "weekly_wins": "每週獲勝",
+      "daily_wins": "每日勝利",
+      "follow": "關注",
+      "followed": "你已關注 {{displayName}}",
+      "following": "已關注",
+      "request_sent": "請求已發送",
+      "request_pending": "已請求加你"
+    },
+    "user_display": {
+      "unknown_user": "未知用戶",
+      "last_seen": "最後一次見到 {{date}}"
+    }
+  },
+  "store": {
+    "no_campaign": "沒有活躍的活動",
+    "coming_soon": "即將推出",
+    "blackweek": "黑色周來了！",
+    "blackweek_info": "紅桃訂閱限時免費兩週！",
+    "offer_only_for_new": "此優惠僅適用於新訂閱者",
+    "not_available": "不可用",
+    "per_month": "/月",
+    "per_year": "/年",
+    "trial_pre_styled": "開始",
+    "trial_styled": "免費",
+    "trial_post_styled": "試用",
+    "subscribe": "訂閱",
+    "store_not_available": "商店不可用",
+    "interval_monthly": "每月",
+    "interval_yearly": "每年（20% 折扣）",
+    "yearly_label": "每年",
+    "sub_map_club": "訂閱即可解鎖更多功能並獲得更多門票！",
+    "sub_map_diamond": "訂閱即可解鎖更多功能並獲得更多門票！",
+    "sub_map_heart_pre_styled": "解鎖",
+    "sub_map_heart_styled": "一切",
+    "sub_map_heart_post_styled": "！",
+    "payment_loading": "正在將您轉至我們的支付平臺，請稍候",
+    "select_currency": "請選擇您的貨幣",
+    "currency": "貨幣",
+    "subscribe_info": "更多信息",
+    "subscription": "{{sub}}訂閱",
+    "subs": {
+      "heart": "紅桃",
+      "diamond": "方塊",
+      "club": "梅花"
+    },
+    "tab_tickets": "門票",
+    "tab_subscriptions": "訂閱",
+    "tickets_heading": "購買門票包",
+    "tickets_info_1": "門票用於每日/每週活動、排位挑戰和高級練習模式。",
+    "tickets_info_2": "你可以在這裡購買門票包，用完為止。",
+    "plans_heading": "選擇您的計劃",
+    "plans_subheading": "解鎖更多功能，每月獲得穩定的門票數量。",
+    "compare_all_features": "比較所有功能",
+    "yearly_savings_badge": "−20%",
+    "yearly_total": "每年 {{price}}",
+    "per_month_short": "月",
+    "free_trial": "免費試用",
+    "upgrade_cta": "升級",
+    "upgrade_available": "可升級",
+    "current_plan": "當前計劃",
+    "source_iap": "應用內",
+    "source_group": "團體",
+    "source_junior": "青少年",
+    "source_web": "網頁",
+    "thanks": "謝謝！",
+    "already_subscribed": "您已經訂閱了！",
+    "iap_sub_info": "您似乎是通過 Cuebids 移動應用程序訂閱的。要管理您的訂閱，請使用該應用程序。",
+    "web_sub_info": "此訂閱是在網頁上啟動的。請在 cuebids.com 上管理。",
+    "group_sub_info": "您已從您的某個團體獲得了免費訂閱。享受！",
+    "junior_sub_info": "由於你是青少年牌手，我們已為你提供免費訂閱。祝你玩得開心！",
+    "upgrade_to_diamond": {
+      "info_1": "升級至",
+      "info_2": "方塊",
+      "info_3": "為了",
+      "info_4": "240",
+      "info_5": "每個月的門票和",
+      "info_6": "更多",
+      "info_7": "牌型"
+    },
+    "upgrade_to_heart": {
+      "info_1": "升級至",
+      "info_2": "紅桃",
+      "info_3": "為了",
+      "info_4": "無限",
+      "info_5": "門票和訪問權",
+      "info_6": "全部",
+      "info_7": "牌型"
+    },
+    "manage_subscription_pre_styled": "點擊",
+    "manage_subscription_styled": "管理訂閱",
+    "manage_subscription_post_styled": "然後點擊更新計劃。",
+    "already_heart": {
+      "info_1": "心訂閱是最高訂閱，包括",
+      "info_2": "無限",
+      "info_3": "門票和訪問權",
+      "info_4": "全部",
+      "info_5": "牌型"
+    },
+    "manage_subscription": "管理訂閱",
+    "manage_subscription_loading": "請稍候",
+    "subscribe_info_1": "訂閱即可解鎖更多功能並獲得穩定的門票流。",
+    "subscribe_info_2": "每個月，你的訂閱門票都會刷新。",
+    "subscribe_info_3": "門票用於<strong>每日/每週挑戰</strong>和<strong>高級練習</strong>。",
+    "subscribe_info_4_pre_styled": "訂閱者還可以訪問和練習",
+    "subscribe_info_4_styled": "牌型",
+    "subscribe_info_4_post_styled": "，例如雅各比2NT。",
+    "subscribe_info_5_1": "紅桃訂閱者",
+    "subscribe_info_5_2": "享受<strong>無限</strong>數量的門票並訪問<strong>所有</strong>牌型。",
+    "club": {
+      "title": "梅花",
+      "deal_types_info": "<strong>5</strong> 牌型",
+      "tickets_per_month": "每月門票"
+    },
+    "diamond": {
+      "most_popular": "最受歡迎",
+      "badge": "最受歡迎",
+      "title": "方塊",
+      "deal_types_info": "<strong>10</strong> 牌型",
+      "tickets_per_month": "每月門票"
+    },
+    "heart": {
+      "unlock_everything": "解鎖一切",
+      "badge": "解鎖一切！",
+      "title": "紅桃",
+      "deal_types_info": "<strong>所有</strong>牌型",
+      "endless_tickets": "<strong>無盡</strong>門票"
+    },
+    "payment_failed": "付款失敗。請再試一次。",
+    "checkout_code": {
+      "errors": {
+        "first_stripe_purchase_only": "此折扣僅適用於你的首次訂閱。",
+        "generic": "此代碼不適用於本次結賬。",
+        "invalid_or_expired": "此代碼無效或已過期。",
+        "not_eligible_for_product": "此代碼不適用於此產品。",
+        "not_whitelisted": "此代碼不適用於你的帳戶。",
+        "stripe_rejected": "此代碼不適用於本次結賬。"
+      },
+      "billing_day": "每日",
+      "billing_week": "每週",
+      "billing_month": "每月",
+      "billing_year": "每年",
+      "billing_description": "{{billing}}結算",
+      "role_subscription": "{{role}}訂閱",
+      "selected_products": "指定產品",
+      "works_for_billing": "適用於{{billing}}。",
+      "works_for_product": "適用於{{product}}。",
+      "works_for_billing_on_product": "適用於{{product}}的{{billing}}。",
+      "have_code": "有代碼嗎？",
+      "input_label": "Cuebids 代碼",
+      "input_placeholder": "可選代碼",
+      "try_without_code": "不使用代碼重試",
+      "remove_and_try_without_code": "你可以移除代碼，然後重新選擇產品且不使用折扣。",
+      "section": {
+        "title": "代碼和折扣",
+        "description": "有結賬代碼或推薦代碼？在繼續網頁結賬前添加到這裡。"
+      },
+      "affiliate_attached_title": "已綁定推廣代碼",
+      "affiliate_attached_text": "你的推廣代碼已綁定到此帳戶，並會在網頁結賬時自動應用。",
+      "affiliate_ineligible_prior_title": "推廣折扣不再適用",
+      "affiliate_ineligible_prior_text": "此帳戶已有 Stripe 訂閱記錄，因此綁定的推廣折扣不再適用。",
+      "affiliate_invalid_title": "推廣代碼不可用",
+      "affiliate_invalid_text": "綁定到此帳戶的推廣代碼無效或已過期，因此不會應用 Stripe 折扣。",
+      "enter_another_code": "輸入其他代碼",
+      "native_prompt": {
+        "title": "推廣折扣",
+        "continue_web": "繼續在網頁上操作",
+        "go_web": "前往網頁",
+        "continue_in_app_anyway": "仍然在應用內繼續",
+        "continue_in_app": "在應用內繼續",
+        "cancel": "取消",
+        "eligible_info": "此帳戶有一個推廣代碼。如果它仍符合條件，該折扣只適用於網頁結賬。",
+        "eligible_cta": "你可以繼續前往網頁使用折扣，或在應用內繼續且不使用折扣。",
+        "ineligible_info": "此推廣代碼已綁定到你的帳戶，但此帳戶之前已使用過 Stripe，因此推廣折扣不再適用。",
+        "ineligible_cta": "你可以在應用內繼續且不使用折扣，或改為前往網頁。"
+      }
+    },
+    "50 Tickets": "50張門票",
+    "250 Tickets": "250張門票",
+    "1500 Tickets": "1500張門票"
+  },
+  "go_to_store": {
+    "no_iap_error": "商店目前無法在移動應用程序中使用。請訪問我們的網站訂閱 Cuebids。"
+  },
+  "store_thanks": {
+    "title": "感謝您的支持！",
+    "info": "我們希望您繼續享受 Cuebids",
+    "to_start_page": "返回首頁",
+    "50_tickets": "您已收到 50 張門票",
+    "250_tickets": "您已收到 250 張門票",
+    "1500_tickets": "您已收到 1500 張門票",
+    "club": {
+      "info_1_pre_styled": "你現在是一個",
+      "info_1_styled": "梅花",
+      "info_1_post_styled": "訂戶",
+      "info_2": "請盡情體驗這些牌型和額外門票！"
+    },
+    "diamond": {
+      "info_1_pre_styled": "你現在是一個",
+      "info_1_styled": "方塊",
+      "info_1_post_styled": "訂戶",
+      "info_2": "請盡情體驗這些牌型和額外門票！"
+    },
+    "heart": {
+      "info_1_pre_styled": "你現在是一個",
+      "info_1_styled": "紅桃",
+      "info_1_post_styled": "訂戶",
+      "info_2_pre_styled": "您已解鎖 Cuebids 中的所有內容：所有牌型以及最重要的 -",
+      "info_2_styled": "你有無窮無盡的門票。"
+    }
+  },
+  "subscriptions": {
+    "title": "訂閱",
+    "info": "訂閱用於解鎖功能並獲得穩定的門票流。"
+  },
+  "marketing": {
+    "go_store": "前往商店",
+    "unlock_more": "升級到方塊，獲得更多功能",
+    "unlock_all": "解鎖所有功能",
+    "features_requires": "此功能需要一個",
+    "heart_sub": "紅桃訂閱",
+    "diamond_sub": "方塊訂閱",
+    "club_sub": "梅花訂閱",
+    "start_trial": "開始免費試用",
+    "subscribe": "訂閱",
+    "no_thanks": "不，謝謝",
+    "free": "免費",
+    "club": "梅花",
+    "diamond": "方塊",
+    "heart": "紅桃",
+    "infinite": "無限",
+    "all": "全部",
+    "tickets": "門票",
+    "deal_types": "牌型",
+    "leak_finder": "Leak Finder 報告",
+    "custom_scenarios": "自定義場景",
+    "private_groups": "私人團體",
+    "four_player": "4人模式",
+    "lia_in_daily": "與 Lia 一起參加挑戰",
+    "printing": "打印 PDF"
+  },
+  "spots": {
+    "select_fed": "選擇發帖地點",
+    "title": "叫牌投票",
+    "create_new_spot_button": "創建投票",
+    "get_random_spot": "隨機投票",
+    "spot_collapse_header": "問題",
+    "labels": {
+      "by": "由",
+      "description": "描述",
+      "hand": "手",
+      "reason": "推理",
+      "bid": "叫牌"
+    },
+    "validation": {
+      "text_too_short": "文字太短",
+      "text_too_long": "文字太長",
+      "urls_not_allowed": "不允許使用 URL 和連結",
+      "emails_not_allowed": "不允許使用電子郵件地址",
+      "excessive_repetition": "檢測到過多的字符重複",
+      "too_many_numbers": "文本包含太多數字",
+      "phone_numbers_not_allowed": "不允許使用電話號碼",
+      "text_nonsensical": "文字似乎毫無意義",
+      "excessive_capitalization": "檢測到大寫過多",
+      "spam_detected": "內容似乎是垃圾郵件或不適當的內容"
+    },
+    "warnings": {
+      "too_many_cards": "卡太多",
+      "too_few_cards": "卡太少了",
+      "login_to_bid": "請先登錄再叫牌",
+      "login_to_create": "請先登錄再創建投票",
+      "select_bid": "選擇叫牌",
+      "description_required": "更詳細地描述該投票..."
+    },
+    "undo_bid_button": "撤消叫牌",
+    "spot_description_input": "描述",
+    "spot_include_answer_input": "包括答案",
+    "spot_answer_input": "回答（可選，在人們回覆後向他們顯示）",
+    "spot_create_submit": "創建投票",
+    "bid_description_input": {
+      "placeholder": "在這裡寫下你的想法... 你可以輸入 !s 表示黑桃，!h 表示紅桃，!d 表示方塊，!c 表示梅花。"
+    },
+    "bid_display-name_input": {
+      "placeholder": "輸入你的名字"
+    },
+    "no_responses": "尚未回覆",
+    "bid_confirm_button": "確認叫牌",
+    "bid_abstain_button": "棄權",
+    "bid_abstain_confirm": "確定要放棄回答本次投票嗎？（你仍然可以看到其他人的叫牌。）",
+    "reply_placeholder": "回覆...",
+    "reply_button": "發送",
+    "total": "總計",
+    "other": "其他",
+    "all": "全部",
+    "friends": "好友",
+    "mine": "我的",
+    "pros": "PRO",
+    "pros_new": "在這裡申請成為",
+    "delete": "刪除投票",
+    "delete_confirm": "確定要刪除此投票嗎？",
+    "spot_delete_error": "出了點問題。如果已有 10 個回答，就不能再刪除投票。",
+    "edit": "編輯投票",
+    "spot_edit_submit": "編輯投票",
+    "spot_edit_error": "出了點問題。如果已有 10 個回答，就不能再編輯投票。",
+    "footer": "在 Cuebids.com 提升你的叫牌",
+    "notifications": {
+      "bid_on_spot": {
+        "header": "投票的新叫牌",
+        "text": "你的投票有新的叫牌！",
+        "url": "https://cuebids.com/spots/en/{{spotId}}"
+      },
+      "first_bid_on_spot": {
+        "header": "投票中的首次叫牌",
+        "text": "你的投票收到了第一個回覆！",
+        "url": "https://cuebids.com/spots/en/{{spotId}}"
+      },
+      "comment_on_bid": {
+        "header": "{{userName}} 評論了你的叫牌",
+        "url": "https://cuebids.com/spots/en/{{spotId}}"
+      },
+      "comment_on_bid_you_follow": {
+        "header": "{{userName}} 評論了你關注的叫牌",
+        "url": "https://cuebids.com/spots/en/{{spotId}}"
+      }
+    },
+    "successfully_created": "已創建投票",
+    "description_required": "請更詳細地描述這個投票..."
+  },
+  "leaderboard": {
+    "empty": "排行榜為空",
+    "leaderboard": "排行榜",
+    "daily_title": "每日排行榜",
+    "weekly_title": "每週排行榜",
+    "loading": "正在載入排行榜...",
+    "you": "你",
+    "stars": "星星",
+    "ev": "EV",
+    "score": "得分",
+    "participants": "{{count}} 對參賽組合",
+    "your_rank": "你的排名：#{{rank}}",
+    "continue_session": "繼續本局",
+    "all": "全部 ({{count}})",
+    "friends": "好友 ({{count}})",
+    "pros": "PRO ({{count}})",
+    "robots": "機器人 ({{count}})"
+  },
+  "navbar": {
+    "tickets": "門票",
+    "tickets_usage": "門票用於每日/每週挑戰、排位挑戰和高級機器人遊戲。",
+    "you_have": "你有",
+    "messages": "消息",
+    "subscription_tickets": "訂閱票",
+    "refreshed": "刷新了",
+    "monthly": "每月。",
+    "extra_tickets": "額外門票",
+    "saved_for_last": "總是留到最後。",
+    "as_a": "作為一個",
+    "you_get": "你有",
+    "infinite": "無限",
+    "heart": "紅桃",
+    "diamond": "方塊",
+    "club": "梅花",
+    "subscriber": "訂戶",
+    "each_month": "每個月",
+    "free_user_tickets": "作為免費用戶，你每月會獲得 {{tickets}} 張門票。",
+    "upgrade_cta": "立即升級以獲得更多門票和其他福利！",
+    "no_iap": "你可以在我們的網站上購買門票。"
+  },
+  "onboarding": {
+    "welcome_title": "歡迎，{{name}}",
+    "skip_step": "跳過步驟",
+    "step_settings": {
+      "title": "檢查設置",
+      "text": "點擊右上角菜單，然後進入“設置”。你可以調整卡片和其他功能的顯示方式。記得保存！"
+    },
+    "step_bidding": {
+      "title": "叫牌",
+      "text": "嘗試和機器人 Lia 練習幾副牌。Lia 會使用二蓋一體系叫牌！你會更快了解 Cuebids 上的叫牌方式。",
+      "try": "嘗試和 Lia 進行一次叫牌練習",
+      "lia_session_started": "與 Lia 的叫牌練習已經開始。你可以在本頁底部找到它。",
+      "click_on_session": "點擊某副牌即可進入。如果該行高亮顯示，就說明輪到你叫牌。",
+      "partners_turn": "現在所有牌都輪到你的搭檔叫牌。",
+      "partners_turn_deal": "這副牌現在輪到你的搭檔叫牌。點擊綠色按鈕即可前往下一副輪到你叫牌的牌。",
+      "click_to_navigate": "點擊這次練習即可進入。如果某一行是紅色，說明其中有輪到你叫牌的牌。",
+      "compare": "在這裡你可以看到其他人做了什麼。點擊定約行即可查看是誰叫到了該定約。點擊某一對可以查看他們的叫牌過程。",
+      "contracts": "在這裡你可以看到一些其他假設定約以及它們的得分。",
+      "error": "創建叫牌練習時出錯（{{error}}）"
+    },
+    "step_help": {
+      "title": "更多信息",
+      "info_youtube_pre_link1": "這個",
+      "info_youtube_link1": "Youtube 視頻",
+      "info_youtube_pre_link2": "解釋了 Cuebids 的核心概念。在我們的",
+      "info_youtube_link2": "Youtube頻道",
+      "info_youtube_post_link2": "您會在 Cuebids 中找到更多解釋各種概念的視頻。",
+      "info_1_pre_link": "在我們的",
+      "info_1_link": "指南部分",
+      "info_1_post_link": "你可以了解 Cuebids 背後的機制。\n例如，評分系統如何計算、機器人如何運作，以及各項功能怎麼使用。\n你可以從選單進入指南，並隨時回來查看。",
+      "info_2_pre_link": "如果您想聯繫我們，請查看",
+      "info_2_link": "聯繫頁面",
+      "info_2_post_link": "。",
+      "info_3_pre_link": "與開發人員或者其他用戶聊天、提供回饋或交流 -",
+      "info_3_link": "加入我們的 Discord 伺服器",
+      "info_facebook_pre_link": "在我們的",
+      "info_facebook_link": "Facebook 頁面",
+      "info_facebook_post_link": "我們會在那裡發佈叫牌題目和其他更新。",
+      "enjoy": "享受 Cuebids 吧！",
+      "confirm": "明白了！",
+      "session_page_help": "本次叫牌練習已經完成，請回到首頁繼續。"
+    }
+  },
+  "session": {
+    "expired": "已過期",
+    "expired_reasons": {
+      "session-expired": "叫牌練習已過期",
+      "auto-archived-old-session": "由於不活動而自動存檔",
+      "challenge-expired": "挑戰已過期",
+      "session-deleted-by-user": "叫牌練習被用戶刪除"
+    },
+    "shared_with_users": "已分享給 {{users}} 位用戶",
+    "share_session": "分享叫牌練習",
+    "share": "分享",
+    "shared_notification": "叫牌練習已分享！",
+    "share_with": "分享給",
+    "share_with_friends": "當你與好友分享一次叫牌練習時，對方可以標記副牌並參與聊天。",
+    "unshare": "取消分享",
+    "unshared_notification": "已取消分享叫牌練習",
+    "remove_access_for": "移除訪問權限",
+    "hand": "手",
+    "deals_left": "剩餘副牌",
+    "print": {
+      "title": "打印本次叫牌練習",
+      "confirm_button": "確認",
+      "info_1": "本次叫牌練習會導出為 PDF 並發送到你的電子郵件地址",
+      "info_2": "如果這不是正確的電子郵件地址，請在您的個人資料設置中更新它。",
+      "warning_not_finished": "你只能打印已經完成的叫牌練習。",
+      "warning_no_email": "您的帳戶缺少電子郵件地址。",
+      "warning_missing_sub": "你需要方塊訂閱才能打印叫牌練習。"
+    },
+    "delete": {
+      "title": "刪除本次叫牌練習",
+      "confirm_button": "確認",
+      "info": "確認刪除這次叫牌練習。刪除後將無法恢復。",
+      "info_weekly": "即使你刪除了本週挑戰中的這次叫牌練習，本週也無法再次參加。",
+      "info_daily": "即使你刪除了今日挑戰中的這次叫牌練習，今天也無法再次參加。"
+    },
+    "pro_badge": "PRO",
+    "advanced_robots": "高級機器人",
+    "basic_robots": "基礎機器人"
+  },
+  "friends": {
+    "select_friend": "選擇好友",
+    "add_friends_cta": "訪問好友頁面並添加一些好友一起玩"
+  },
+  "profile": {
+    "notifications_saved": "設置已保存",
+    "avatar": "頭像",
+    "display_name": "顯示名稱",
+    "display_name_placeholder": "輸入用戶名",
+    "new_spots_notifications": "新投票的通知",
+    "errors": {
+      "display_name_too_short": "太短",
+      "display_name_forbidden_characters": "禁止字符",
+      "display_name_invalid": "顯示名稱無效"
+    }
+  },
+  "login": {
+    "intro_button": "什麼是 Cuebids？",
+    "intro": {
+      "title": "Cuebids",
+      "practice_title": "叫牌練習",
+      "practice_p1_styled": "連接",
+      "practice_p1_post_styled": "給你的搭檔，然後開始叫牌。",
+      "practice_p2": "無需同時在線。",
+      "learn_title": "學習",
+      "learn_p1_pre_styled": "獲取",
+      "learn_p1_styled": "即時反饋",
+      "learn_p1_post_styled": "基於雙虛擬人模擬。",
+      "learn_p2_pre_styled": "看看其他人做了什麼 - 比較",
+      "learn_p2_styled": "PRO",
+      "learn_p2_post_styled": "和好友",
+      "free_pre_styled": "這是",
+      "free_styled": "免費",
+      "example": "示例",
+      "confirm": "明白了！"
+    },
+    "email_placeholder": "example@cuebids.com",
+    "password_placeholder": "密碼",
+    "display_name_placeholder": "庫比茲先生",
+    "referral_code_label": "推薦碼",
+    "referral_code_placeholder": "代碼在這裡",
+    "referral_code_info": "輸入推薦或促銷代碼。您也可以創建一個沒有代碼的帳戶。",
+    "login_with_google": "用 Google 登入",
+    "login_with_apple": "用 Apple 登入",
+    "login_with_acbl": "用 ACBL 登入",
+    "remember_me": "記住我",
+    "forgot_password": "忘記密碼？",
+    "create_account": "創建帳戶",
+    "login_method_label": "登錄方式",
+    "terms": "使用條款",
+    "read_terms": "我已閱讀並同意",
+    "not_member": "還不是會員？",
+    "create_free_account": "創建免費帳戶",
+    "or": "或",
+    "messages": {
+      "no_email": "請輸入您註冊的電子郵件地址並重試。",
+      "short_email": "電子郵件地址格式錯誤。",
+      "password_required": "請輸入密碼（至少 6 個字元）。",
+      "pw_reset_error_default": "出了點問題。確保您的電子郵件地址拼寫正確，並且是您用於 Cuebids 的電子郵件地址。如果您仍然遇到問題，請通過 support@cuebids.com 聯絡支援人員",
+      "pw_reset_success": "成功了！我們已向您發送了一封電子郵件，其中包含用於重置密碼的連結。",
+      "create_account_error_default": "出了點問題，請重試。仔細檢查您的電子郵件拼寫。",
+      "login_error_default": "出了點問題。確保您的電子郵件地址拼寫正確，並且是您用於 Cuebids 的電子郵件地址。如果您仍然遇到問題，請通過 support@cuebids.com 聯絡支援人員",
+      "login_success": "歡迎回來！",
+      "failed_account_creation": "創建帳戶失敗。請重試或聯絡支援人員。",
+      "failed_login": "登錄失敗。如果錯誤仍然存​​在，請重試或聯絡支援人員。",
+      "failed_no_user": "登錄失敗。未找到使用此 ACBL 號碼或連接的電子郵件地址的帳戶，請先使用 Cuebids 創建一個帳戶。",
+      "create_account_success": "歡迎來到 Cuebids！很高興你來到這裡 <3",
+      "auth_invalid_email": "電子郵件地址無效。請檢查你的拼寫。",
+      "auth_email_already_in_use": "該電子郵箱已有關聯帳戶。請直接登錄；如果不記得密碼，請使用“忘記密碼？”。",
+      "auth_email_already_in_use_sign_in": "該電子郵箱已有關聯帳戶。我們已切換到登錄界面；如果您不記得密碼，請使用“忘記密碼？”。",
+      "auth_user_not_found": "帳戶不存在。 \n 請檢查您的拼寫或嘗試使用其他電子郵件地址。",
+      "auth_too_many_requests": "請求次數過多。請稍等一下再查看郵件，或聯絡支援：support@cuebids.com",
+      "auth_wrong_password": "密碼不正確。\n忘記密碼？請點擊“忘記密碼”連結。"
+    },
+    "footer": {
+      "legal": "法律",
+      "privacy_policy": "隱私政策",
+      "terms_of_service": "使用條款",
+      "contact": "聯繫方式",
+      "discord": "加入我們的Discord"
+    }
+  },
+  "account_not_created_correctly": {
+    "info": "您的帳戶未正確創建。請提供缺少的信息以開始使用 Cuebids。",
+    "submit_button": "繼續"
+  },
+  "compare": {
+    "not_finished": "牌局未結束",
+    "not_your_session": "這不是你的叫牌練習",
+    "sessions_not_comparable": "這些叫牌練習無法比較"
+  },
+  "challenge": {
+    "win": "勝",
+    "loss": "負",
+    "draw": "平局",
+    "vs": "VS",
+    "tot": "TOT",
+    "avg": "平均",
+    "challenges": "挑戰",
+    "ranked": "排位",
+    "ranked_challenges": "排位挑戰",
+    "rating": "積分",
+    "queue": "隊列",
+    "friendly": "友誼賽",
+    "wdl": "勝/平/負",
+    "win_percent": "勝率%",
+    "boards": "副牌",
+    "with": "與",
+    "tot_avg": "總計/平均",
+    "more_stats": "更多挑戰統計數據",
+    "most_frequent_partner": "最常合作的搭檔",
+    "most_frequent_matchup": "最常見的組合對戰",
+    "most_frequent_opponents": "最常遇到的對手",
+    "partner": "搭檔",
+    "partnership_stats": "搭檔統計",
+    "opponents": "對手",
+    "or": "或",
+    "search_by_name_label": "按姓名搜索用戶",
+    "search_by_name_placeholder": "用戶名",
+    "search_by_name_submit": "搜索",
+    "search_by_name_results": "結果 ({{count}})",
+    "search_by_name_empty": "沒有搜索結果",
+    "select": "選擇",
+    "tab_player_stats": "玩家統計",
+    "tab_partner": "搭檔",
+    "tab_matchup": "比賽",
+    "tab_search_player": "搜索玩家",
+    "show_older_challenges": "顯示較舊的挑戰",
+    "challenge_friends": "挑戰好友",
+    "ranked_match": "排位賽",
+    "robot": "機器人挑戰",
+    "tab_my_challenges": "我的挑戰",
+    "no_challenges": "你還沒有參加過任何挑戰",
+    "tab_global": "全站",
+    "tab_stats": "統計數據",
+    "tab_top": "前10名",
+    "show_more": "顯示更多",
+    "not_finished": "未完成",
+    "go_to_deal": "前往牌局",
+    "kibitz_ongoing": "玩家還在比賽中！完成後再回來查看結果。",
+    "rematch": "再賽一場",
+    "error_missing_partner": "缺少搭檔",
+    "error_missing_opponents": "缺少對手",
+    "error_insufficient_deals": "可用牌局數量不足"
+  },
+  "challenge_matchmaking": {
+    "cancel_error": "取消挑戰時出錯",
+    "create_error": "創建挑戰時出錯（{{error}}）",
+    "title": "排位挑戰",
+    "info": "系統會為你匹配水平相近的隨機對手，進行一場排位挑戰。你會根據結果獲得或失去星星。努力升到 Ace 級別吧！",
+    "partner": "搭檔",
+    "partner_disabled_label": "排位挑戰已禁用",
+    "bullet_robots": "高級機器人",
+    "bullet_boards": "8副牌",
+    "bullet_ranked": "排位",
+    "in_progress": "正在匹配... 你可以先離開此頁面。挑戰開始時，你會收到通知。",
+    "somebody_looking": "有人正在尋找挑戰",
+    "banned_you": "你的帳戶已被暫時禁止參加競技比賽。",
+    "banned_partner": "你的搭檔帳戶已被暫時禁止參加競技比賽。",
+    "cancel": "取消搜索",
+    "find_match": "查找匹配項",
+    "price_dialog_title": "開始排位挑戰",
+    "price_dialog_submit": "開始",
+    "error_already_searching": "你已經在尋找挑戰",
+    "error_partner_already_searching": "你的搭檔已經在尋找挑戰。",
+    "error_cannot_afford": "門票不足，無法開始。",
+    "error_partner_cannot_afford": "你的搭檔負擔不起所需費用。",
+    "error_challenges_disabled": "你的搭檔不允許你使用他們的門票參加排位挑戰。",
+    "error_matchmaking_failed": "匹配失敗",
+    "error_too_many_unfinished": "你和這位搭檔已經有 {{count}} 個未完成的排位挑戰。",
+    "error_partner_cooldown": "你需要等待 {{minutes}} 分鐘後才能再次與這位搭檔排隊。"
+  },
+  "robot_challenge": {
+    "title": "機器人挑戰",
+    "info": "與兩個 Lia 機器人進行 2v2 比賽！",
+    "partner": "搭檔",
+    "partner_disabled_label": "機器人挑戰已禁用",
+    "bullet_boards": "8副牌",
+    "bullet_robots": "高級機器人",
+    "banned_you": "你的帳戶已被暫時禁止參加競技比賽。",
+    "banned_partner": "你的搭檔帳戶已被暫時禁止參加競技比賽。",
+    "start_challenge": "開始挑戰",
+    "price_dialog_title": "開始機器人挑戰",
+    "price_dialog_submit": "開始",
+    "create_error": "創建挑戰時出錯",
+    "error_cannot_afford": "門票不足，無法開始。",
+    "error_partner_cannot_afford": "你的搭檔負擔不起所需費用。",
+    "error_challenges_disabled": "你的搭檔不允許你使用他們的門票參加排位挑戰。",
+    "error_failed_to_create": "創建挑戰失敗",
+    "chat_start": "祝你好運，玩得開心，嘟嘟！"
+  },
+  "start_challenge": {
+    "create_error": "創建挑戰時出錯",
+    "partner_label": "搭檔",
+    "boards_label": "副牌",
+    "robots_label": "機器人",
+    "opponent_one_label": "對手（北）",
+    "opponent_two_label": "對手（南）",
+    "pro_challenge": "職業挑戰",
+    "pro_challenge_pre_styled": "所有玩家都是",
+    "pro_challenge_styled": "PRO",
+    "pro_challenge_post_styled": "請允許我們保存這些牌局，以便未來用於特殊活動。感謝你成為 PRO 並支持社區！",
+    "create_challenge": "創建挑戰"
+  },
+  "four_player": {
+    "beta": "歡迎來到 4 人 Cuebids 的 Beta 測試！",
+    "info": "和好友坐在同一張牌桌上練習。此模式不會進行模擬，你們會直接使用發出的牌。",
+    "ticket_info": "此模式不消耗門票，但所有玩家都需要至少擁有方塊訂閱。",
+    "opponent_one_label": "對手（東部）",
+    "opponent_two_label": "對手（西）",
+    "partner_label": "搭檔",
+    "boards_label": "副牌",
+    "start_session": "開始叫牌練習",
+    "create_error": "創建牌局時出錯",
+    "ev_explain": "在四人模式下，不進行任何模擬。分數根據實際發牌數計算。",
+    "full_hand": "全手"
+  },
+  "shared": {
+    "shared_with_me": "與我分享",
+    "i_have_shared": "我已經分享過",
+    "flagged": "已標記",
+    "no_flagged": "您現在沒有任何標記的手牌",
+    "show_all": "顯示所有玩家",
+    "hand": "手",
+    "players": "玩家",
+    "progress": "進展",
+    "no_shared_sessions": "你沒有任何已分享的叫牌練習",
+    "no_sessions_shared": "你還沒有分享任何叫牌練習",
+    "remove_shared_session_title": "取消分享叫牌練習",
+    "remove_shared_session_body": "你將無法再看到這次叫牌練習中發生的情況。（請注意，玩家自己的叫牌練習不會被刪除。）"
+  },
+  "settings": {
+    "display_name_short_error": "太短",
+    "display_name_long_error": "太長",
+    "display_name_forbidden_characters_error": "禁止字符",
+    "newsletter_confirm_sent": "驗證郵件已發送，請檢查你的收件箱。如果沒有看到郵件，請檢查垃圾郵件文件夾。郵件可能需要幾分鐘才會送達。點擊郵件中的確認連結後，你就可以領取獎勵。如果一直沒有收到，請檢查郵箱地址是否正確，然後重試。",
+    "newsletter_started": "發送驗證電子郵件。如果電子郵件未到達，請檢查您的電子郵件地址是否正確，然後重試。",
+    "newsletter_confirm_sent_short": "驗證郵件已發送",
+    "newsletter_started_short": "發送驗證郵件",
+    "newsletter_confirm_sent_tooltip": "檢查你的收件箱。如果沒有看到郵件，請檢查垃圾郵件文件夾。郵件可能需要幾分鐘才會送達。點擊郵件中的確認連結後，你就可以領取獎勵。",
+    "newsletter_started_tooltip": "如果電子郵件未到達，請檢查您的電子郵件地址是否正確，然後重試。",
+    "try_again": "再試一次",
+    "newsletter_cta": "訂閱時事通訊",
+    "newsletter_subscribed": "訂閱新聞通訊",
+    "rewards": "獎勵",
+    "preparing_reward": "準備獎勵",
+    "claim": "領取",
+    "sections": {
+      "polls": "投票",
+      "scenarios": "應用場景",
+      "history": "歷史",
+      "shared": "已分享",
+      "matchmaking": "匹配",
+      "fourplayer": "四人模式"
+    },
+    "unsaved_changes": "未保存的更改",
+    "saved": "已保存",
+    "removal_warning": "該帳戶已被標記為刪除。該過程可能需要一些時間。您的帳戶消失後，您將無法再恢復它。如果您改變主意，請點擊此處。",
+    "private_apple_login": "私人蘋果登錄",
+    "unknown": "未知",
+    "account": "帳戶：{{email}}",
+    "account_click_to_change": "點擊更改您的登錄電子郵件地址",
+    "account_click_to_change_password": "點擊更改您的密碼",
+    "account_bound": "這是你的登錄郵箱。點擊上方即可更改。你可以在“個人資料”中設置不同的聯繫郵箱。",
+    "notifications": {
+      "saved": "設置已保存",
+      "verification_email_sent": "驗證郵件已發送",
+      "something_went_wrong": "出了點問題。",
+      "invalid_email": "電子郵件地址無效",
+      "unauthenticated": "您必須登錄",
+      "too_many_attempts": "嘗試次數過多，請稍後再試",
+      "reward_claimed": "已領取獎勵"
+    },
+    "display_name": "顯示名稱",
+    "profile_collapse_title": "個人資料",
+    "contact_email_label": "聯繫郵箱",
+    "new_email_label": "新電子郵件地址",
+    "new_email_placeholder": "輸入您的新電子郵件地址",
+    "change_email": "更改電子郵件",
+    "changing_email": "改變...",
+    "email_changed_success": "驗證電子郵件已發送到您的新電子郵件地址。請檢查您的電子郵件並點擊驗證連結以完成電子郵件更改。",
+    "email_change_error": "更改電子郵件地址失敗。請再試一次。",
+    "signed_in_with": "登錄方式",
+    "can_add_password": "您可以添加密碼，也可以使用電子郵件和密碼登錄。",
+    "also_signed_in_with": "您還可以使用以下方式登錄",
+    "authentication_providers": "身份驗證提供商",
+    "add_password": "添加密碼",
+    "adding_password": "添加...",
+    "password_status_has": "已啟用密碼驗證",
+    "password_status_none": "沒有設置密碼",
+    "email_verified": "電子郵件地址已驗證",
+    "email_not_verified": "電子郵件地址未驗證 - 檢查您的收件箱中的驗證電子郵件",
+    "email_verification_pending": "電子郵件更改為 {{email}} 等待驗證 - 檢查您的新電子郵件收件箱",
+    "send_verification_again": "再次發送驗證郵件",
+    "add_email_for_communication": "請更改您的電子郵件地址以接收來自 Cuebids 的通信",
+    "newsletter_label": "時事通訊",
+    "current_password_label": "當前密碼",
+    "current_password_placeholder": "輸入您當前的密碼",
+    "new_password_label": "新密碼",
+    "new_password_placeholder": "輸入您的新密碼",
+    "confirm_password_label": "確認新密碼",
+    "confirm_password_placeholder": "確認您的新密碼",
+    "change_password": "更改密碼",
+    "changing_password": "改變...",
+    "password_changed_success": "密碼更改成功。",
+    "password_change_error": "更改密碼失敗。請再試一次。",
+    "current_password_required": "需要當前密碼。",
+    "new_password_required": "需要新密碼。",
+    "password_too_short": "密碼長度必須至少為 6 個字符。",
+    "passwords_dont_match": "密碼不匹配。",
+    "password_label": "密碼",
+    "password_placeholder": "輸入您的密碼",
+    "oauth_add_password_info": "您已使用 Google/OAuth 登錄。添加密碼將允許您使用電子郵件和密碼登錄。",
+    "same_as_account_label": "與帳戶相同",
+    "email_placeholder": "example@cuebids.com",
+    "avatar_label": "頭像",
+    "flag_label": "旗幟",
+    "flag_automatic": "自動獲取",
+    "public_flag_label": "公共旗幟",
+    "verify_mid": "驗證碼",
+    "connect_to_sbf": "連接到 SBF 帳戶",
+    "sbf_logo_alt": "SBF 標誌",
+    "mid_label": "梅德姆斯編號（中）",
+    "connect_to_sbf_info": "當您將 Cuebids 帳戶連接到 SBF 時，您可以通過 SBF 的登錄系統登錄 Cuebids。",
+    "connect_to_acbl": "連接到 ACBL",
+    "connect_to_acbl_info": "當您將 Cuebids 帳戶連接到 ACBL 時，您可以使用 ACBL 的登錄名登錄 Cuebids。",
+    "acbl_connection_success_title": "ACBL 帳戶已連接",
+    "acbl_connection_success_message": "您的 ACBL 帳戶已成功連接到 Cuebids。您現在可以使用您的 ACBL 憑據登錄。",
+    "acbl_connection_failure_title": "連接失敗",
+    "acbl_connection_failure_message": "我們無法連接您的 ACBL 帳戶。如果問題仍然存在，請重試或聯絡支援人員。",
+    "view_profile": "查看個人資料",
+    "subscriptions_collapse_title": "訂閱",
+    "active_subscription": "{{sub}}訂閱",
+    "no_active_subscription": "您沒有活躍的訂閱。",
+    "browse_plans": "查看計劃",
+    "mobile_sub_info": "無法在移動應用程序中管理訂閱。\n請訪問我們的網站。",
+    "manage_subscription_button": "管理訂閱",
+    "manage_subscription_loading": "請稍候",
+    "functionality_collapse_title": "功能性",
+    "auto_next_label": "叫牌後自動跳到下一副牌",
+    "undo_timer_label": "最終通過計時器",
+    "confirm_bids_label": "確認叫牌",
+    "confirm_bids_always": "總是",
+    "confirm_bids_with_lia": "與莉亞",
+    "confirm_bids_never": "從來沒有",
+    "lia_response_speed_label": "利亞反應速度",
+    "notifications_collapse_title": "通知",
+    "notification_devices_label": "通知設備",
+    "no_notification_devices": "您沒有註冊通知的設備",
+    "confirm_delete_token": "您將不再收到所選設備的通知。",
+    "web": "網絡",
+    "add_device": "添加設備",
+    "notifications_disabled_info": "該設備已禁用通知",
+    "chat_notifications_label": "聊天通知",
+    "poll_notifications_label": "新投票的通知",
+    "event_notifications_label": "挑戰通知",
+    "bid_reminder_notifications_label": "輪到你叫牌時提醒",
+    "allow_replay_invites_label": "允許重打邀請",
+    "allow_replay_invites_desc": "互相關注的好友可以在重打已完成牌局時選擇你。關閉後，你將不會出現在重打候選列表中。",
+    "display_collapse_title": "顯示",
+    "dark_mode_button": "黑暗",
+    "light_mode_button": "光",
+    "contrast_mode_button": "對比",
+    "interface_scale_label": "接口尺寸",
+    "interface_scale_small": "小號",
+    "interface_scale_medium": "中等",
+    "interface_scale_large": "大號",
+    "haptic_feedback_label": "觸覺反饋",
+    "haptic_feedback_info": "僅適用於手機和平板電腦等手持設備",
+    "haptic_feedback_off": "關閉",
+    "haptic_feedback_light": "光",
+    "haptic_feedback_full": "滿",
+    "symbol_size_label": "符號大小",
+    "sm": "S",
+    "md": "中號",
+    "lg": "L",
+    "xl": "XL",
+    "classic": "經典",
+    "modern": "現代",
+    "diagram": "圖解",
+    "fan": "風扇",
+    "order_label": "訂單",
+    "default": "!S!H!D!C",
+    "shcd": "!S!H!C!D",
+    "two_suits_label": "兩種顏色",
+    "two_suits_label_false": "四種顏色",
+    "hcp_label": "顯示 高牌點 數量",
+    "animations_label": "顯示動畫",
+    "blinking_label": "顯示閃爍顏色",
+    "sections_collapse_title": "部分",
+    "sections_info": "您可以通過隱藏不使用部分的菜單選項來自定義 Cuebids 界面。如果我們添加新功能，我們會將這些部分添加回來，這樣您就不會錯過任何重要的內容！",
+    "save": "保存",
+    "display_name_error": "顯示名稱無效",
+    "restore_account": "恢復帳戶",
+    "remove_account": "啟動帳戶刪除",
+    "mobile": "手機",
+    "browser": "瀏覽器",
+    "remove_account_dialog_title": "帳戶刪除",
+    "remove_account_dialog_confirm": "確認",
+    "remove_account_dialog_info": "這會將帳戶標記為刪除。該過程可能需要一些時間。您的帳戶消失後，您將無法再恢復它。您確定要刪除您的帳戶嗎？",
+    "newsletter_dialog_title": "訂閱時事通訊",
+    "newsletter_dialog_confirm": "確認",
+    "newsletter_dialog_email_info": "確保這是您的電子郵件地址 - 您可以根據需要進行編輯",
+    "newsletter_dialog_apple_email_info": "私人 Apple 電子郵件地址不能用於訂閱新聞通訊",
+    "subs": {
+      "heart": "紅桃",
+      "diamond": "方塊",
+      "club": "梅花"
+    },
+    "redeem_code_button": "有代碼嗎？在這裡兌換",
+    "show_phone_friend_label": "顯示叫牌幫助",
+    "show_phone_friend_desc": "在練習模式中，從 Lia 那裡獲得提示，並查看職業牌手在同樣情況下會如何叫牌。",
+    "show_robots_label": "顯示機器人搭檔",
+    "show_robots_desc": "在搭檔下拉列表中顯示機器人搭檔選項，例如 Lia。",
+    "show_lia_label": "顯示 Lia",
+    "show_lia_desc": "在搭檔下拉列表中顯示 Lia。",
+    "show_bidding_divergence_label": "顯示專業面板",
+    "show_bidding_divergence_desc": "突出顯示與大多數高花人士在同一地點所做的不同的叫牌。黃色邊框：至少 50% 的高花人士選擇了不同的東西。紅色邊框：70% 或更多的人選擇不同。"
+  },
+  "subscribe_newsletter": {
+    "verification_in_progress": "電子郵件驗證正在進行中...",
+    "notification_success": "電子郵件已驗證",
+    "error": "出了點問題。再試一次。如果問題仍然存在，請發送電子郵件至 support@cuebids.com",
+    "try_again": "再試一次",
+    "success": "電子郵件已確認！",
+    "claim_reward": "領取獎勵"
+  },
+  "start": {
+    "latest_challenge": "最新挑戰",
+    "account_removal_warning": "該帳戶已被標記為刪除。該過程可能需要一些時間。您的帳戶消失後，您將無法再恢復它。如果您改變主意，請點擊此處。",
+    "subscribed_claim_pending": "已訂閱郵件通訊。點擊這裡領取你的獎勵。",
+    "invited_to_event": "受邀參加挑戰",
+    "pending_invite_to": "待邀請",
+    "you_are": "你是",
+    "somebody_is": "有人是",
+    "looking_for_challenge": "尋找挑戰",
+    "looking_for_partner": "尋找搭檔",
+    "lia_stuck": "莉亞卡住了？ - 點擊這裡！",
+    "only_your_turn": "只輪到你了",
+    "session_filter_all": "全部",
+    "session_filter_with_actions": "輪到你了",
+    "session_filter_with_partner_actions": "輪到搭檔了",
+    "session_filter_unfinished": "未完成",
+    "flagged": "已標記",
+    "partner": "搭檔",
+    "progress": "進展",
+    "pairs": "對",
+    "gift_friend_yearly": "贈送好友一年的 Cuebids",
+    "show_older_sessions": "顯示更早的叫牌練習",
+    "no_tickets": "<strong>訂閱</strong>或在<strong>商店<strong>購買<strong>門票</strong>",
+    "no_subscription": "<strong>訂閱</strong>以解鎖更多<strong>功能</strong>",
+    "no_heart_subscription": "開通<strong>紅桃訂閱</strong>即可解鎖全部內容"
+  },
+  "practice": {
+    "title": "叫牌練習",
+    "description": "與好友開始練習，或使用我們的搭檔功能隨機找到一個搭檔。",
+    "partner": "搭檔",
+    "progress": "進展",
+    "match": {
+      "title": "匹配",
+      "description": "與隨機搭檔配對並開始練習",
+      "robots": "基礎機器人",
+      "boards": "10副牌",
+      "system": "建議系統：2 比 1",
+      "tip": "提示：使用聊天系統討論系統的更改或添加！",
+      "waiting": "正在匹配中……你可以離開當前頁面。牌局開始時你會收到通知。",
+      "someone_looking": "有人正在尋找搭檔。點擊“查找匹配”即可加入！",
+      "find_match": "查找匹配項",
+      "cancel": "取消搜索",
+      "cancel_error": "取消匹配時出錯",
+      "create_error": "創建牌局時出錯",
+      "warning_slow": "配對可能需要很長時間，Cuebids 最好和好友一起體驗",
+      "error_matchmaking_failed": "匹配失敗"
+    }
+  },
+  "session_archive": {
+    "partner": "搭檔",
+    "progress": "進展",
+    "show_more": "顯示更多",
+    "end_reached": "你已經到達終點了",
+    "delete_dialog": {
+      "title": "刪除本次叫牌練習",
+      "confirm": "確認",
+      "info": "確認刪除這次叫牌練習。刪除後將無法恢復。",
+      "info_weekly": "即使你刪除了本週挑戰中的這次叫牌練習，本週也無法再次參加。",
+      "info_daily": "即使你刪除了今日挑戰中的這次叫牌練習，今天也無法再次參加。"
+    }
+  },
+  "routes": {
+    "home": "首頁",
+    "practice": "練習",
+    "with_friends": "和好友一起",
+    "with_random": "隨機搭檔",
+    "challenge_friends": "挑戰好友",
+    "with_robot": "機器人練習",
+    "four_players": "四人模式",
+    "compete": "競爭",
+    "daily_event": "每日",
+    "weekly_event": "每週",
+    "events": "挑戰",
+    "challenge": "挑戰",
+    "ranked": "排位",
+    "friends": "好友",
+    "groups": "群組",
+    "profile": "個人資料",
+    "settings": "設置",
+    "spots": "投票",
+    "scenarios": "應用場景",
+    "contact": "聯繫方式",
+    "guides": "指南",
+    "store": "商店",
+    "history": "歷史",
+    "top10": "前10名",
+    "shared": "已分享",
+    "season": "賽季"
+  },
+  "robots": {
+    "robots": "機器人",
+    "none": "無",
+    "basic": "基礎",
+    "advanced": "高級",
+    "none_explain": "機器人不會參與叫牌。",
+    "basic_explain": "基礎機器人只會叫出自己最好的花色。這些機器人將在未來版本中移除。想獲得更真實的體驗，請嘗試高級機器人。"
+  },
+  "lia": {
+    "convention_card": "約定卡",
+    "two_over_one_system": "二蓋一",
+    "two_over_one_explain": "卑爾根，半強迫 1NT",
+    "acol": "阿科爾",
+    "acol_explain": "4卡高花，Jacoby 2NT",
+    "advanced_two_over_one_system": "高級2比1",
+    "advanced_two_over_one_explain": "2/1 專家標準",
+    "sayc_system": "標準美式",
+    "sayc_system_explain": "SAYC，5卡高花",
+    "french": "法國標準",
+    "french_explain": "肉迪、2D GF、Ghestem",
+    "swedish": "瑞典專家",
+    "swedish_explain": "多、Stenbergs、Gazilli、XY-NT",
+    "swedish_basic": "基礎瑞典體系",
+    "swedish_basic_explain": "斯普林特、斯滕伯格",
+    "gavin_light": "Gavin 大師系列精簡版",
+    "gavin_advanced": "Gavin 大師系列完整版",
+    "system": "系統",
+    "lia_system": "莉亞的系統",
+    "create_own_system": "在這裡創建你自己的體系"
+  },
+  "convention_card": {
+    "title": "約定卡",
+    "opening_bids": "開叫",
+    "conventions": "約定叫"
+  },
+  "create_session": {
+    "no_friends_info": "你還沒有任何好友。添加一些好友後，就可以在這裡看到他們。",
+    "no_mutual_friends_info": "你們沒有共同好友。請確認你和搭檔沒有誤屏蔽對方，並在好友頁面勾選“顯示已屏蔽”。",
+    "scenario_robot_conflict": "某些選定的場景與機器人設置之間存在衝突",
+    "not_enough_scenarios": "場景副牌庫存不足，請先生成更多。",
+    "not_enough_deals": "可用副牌數量不足，無法開始本次叫牌練習，請聯繫 support@cuebids.com。",
+    "error_creating_session": "出了點問題。請再試一次。",
+    "starting": "正在開始叫牌練習...",
+    "boards": "副牌",
+    "robots": "機器人（對手）",
+    "scenarios": "應用場景",
+    "deal_types": "牌型",
+    "read_more_deal_types": "瞭解更多牌型信息",
+    "sub_not_enough_deal_types": "你需要更高等級的訂閱才能使用這些牌型。點擊這裡前往商店。",
+    "scenario_missing": "缺少什麼嗎？",
+    "scenario_missing_info": "創建新的或生成庫存",
+    "create_new_session": "創建新的叫牌練習",
+    "start_short": "開始",
+    "start_practice_session": "開始練習",
+    "scenarios_requires_heart": "你需要紅桃訂閱才能使用場景。",
+    "partner_loading_info": "正在載入所選搭檔…",
+    "boards_range_info": "請選擇 1 到 24 副牌。",
+    "show_session_headline": "為叫牌練習命名",
+    "headline_too_long": "名稱太長，最多 {{max}} 個字符",
+    "how_to": {
+      "open_dialog_button": "如何創建叫牌練習",
+      "title": "創建叫牌練習選項",
+      "info": "創建叫牌練習時，你可以選擇多種選項，把練習調整成你想要的樣子。",
+      "partner": "選擇一位好友或機器人作為搭檔",
+      "number_of_boards": "選擇副牌數 (1-24)",
+      "robots": "選擇與你對叫的機器人（東/西手）。或者選擇“無”來進行無干擾叫牌。",
+      "deal_type": "選擇牌型（或場景）以僅練習特定類型的手牌"
+    }
+  },
+  "deal_type_select": {
+    "random": "隨機手牌",
+    "deal_types": "牌型",
+    "filter": "篩選...",
+    "no_types": "沒有類型...",
+    "requires_subscription": "需要訂閱",
+    "v4_beta": "這是新評分系統的 Beta 測試。請將任何問題報告給 support@cuebids.com 或在 Cuebids Discord 伺服器中報告。"
+  },
+  "deal_types": {
+    "weak1N": "均型 10-13",
+    "weakish1N": "均型 12-14",
+    "strongish1N": "均型 14-16",
+    "strong1N": "均型 15-17",
+    "variedNT": "多種NT",
+    "stronger1N": "均型 18-19",
+    "veryStrong1N": "均型 20+",
+    "majorOpen": "高花開叫",
+    "strong1C": "開叫者 16+ 高牌點",
+    "strong2C": "開叫者 20+ 高牌點",
+    "natOneClub": "梅花開叫",
+    "natOneDiamond": "方塊開叫",
+    "canape": "Canapé",
+    "pdPreempt": "搭檔阻擊",
+    "vsPreempt": "對手阻擊",
+    "gameTry": "成局邀請",
+    "slamTry": "滿貫邀請",
+    "twoOverOne": "二蓋一",
+    "twoSuiter": "雙套型",
+    "splinter": "Splinter",
+    "jacoby2N": "雅各比2NT",
+    "gazzilli": "加齊利",
+    "marmic": "三套型",
+    "majorsVsNT": "高花或NT",
+    "minorsVsNT": "低花或NT",
+    "vs1N": "1NT 防守",
+    "vs1NEntry": "對 1NT 的進叫",
+    "michaels": "雙套型爭叫",
+    "oppsMichaels": "對手雙套型爭叫",
+    "vs2DMulti": "對手 2D Multi",
+    "weakTwoX": "對弱二的加倍",
+    "v4Beta": "新計分測試",
+    "reverse": "逆叫"
+  },
+  "groups": {
+    "replace_deal_confirm": "確定要替換這副牌嗎？替換後原來的副牌將永久刪除。請注意，新副牌的編號可能與舊副牌不同。",
+    "make_admin_confirm": "確定要把這位成員設為管理員嗎？",
+    "remove_admin_confirm": "確定要移除這位成員的管理員身份嗎？",
+    "remove_member_confirm": "確定要將這位成員移出群組嗎？",
+    "premium_promote_confirm": "確定要授予這位成員 VIP 資格嗎？",
+    "premium_demote_confirm": "確定要取消這位成員的 VIP 資格嗎？",
+    "delete_confirm": "確定要刪除此活動嗎？",
+    "early_end_confirm": "確定要提前結束此活動嗎？活動會立即結束，並停止接受新的提交。",
+    "add_members": {
+      "already_member_error": "該用戶已經是成員",
+      "already_invited_error": "該用戶已被邀請加入",
+      "invite_error": "出了點問題",
+      "add_error": "出了點問題",
+      "invite_success": "已邀請成員加入群組",
+      "add_success": "成員已添加至群組",
+      "link_copied": "連結已複製！",
+      "title": "添加成員",
+      "using_link_title": "使用連結",
+      "link_invites_label": "允許連結邀請",
+      "copy_link_info": "複製此連結，並發送給大家",
+      "copy_link": "複製連結",
+      "closed_group_info": "這是一個封閉的團體。只有管​​理員可以邀請新成員。",
+      "search_users_title": "搜索用戶",
+      "add_friends_title": "添加好友到群組",
+      "friend_key_title": "通過好友密鑰添加",
+      "user_name_label": "搜索用戶名",
+      "user_name_placeholder": "用戶名",
+      "user_name_search": "搜索",
+      "user_name_search_results": "結果 ({{count}})",
+      "already_member": "已經是成員",
+      "remove_invite": "刪除邀請",
+      "invite_member": "邀請成員",
+      "search_empty": "沒有搜索結果",
+      "select_friend_label": "要添加的好友",
+      "add_friend_submit": "添加好友到群組",
+      "friend_key_disabled_error": "該用戶已禁用通過好友密鑰添加。他們可以在“好友”頁面上再次啟用它。",
+      "no_such_friend_key_error": "找不到擁有該好友密鑰的人",
+      "friend_key_add_success": "{{displayName}}已添加到群組",
+      "friend_key_label": "好友密鑰",
+      "friend_key_placeholder": "ABCD01",
+      "friend_key_submit": "添加成員"
+    },
+    "coach_session_deal": {
+      "title": "手 {{number}}",
+      "subtitle": "輔導",
+      "replace_deal_error": "替換副牌失敗：（{{error}}）",
+      "rotate_deal_error": "輪換副牌失敗",
+      "replace_deal": "替換副牌",
+      "rotate_deal": "輪換副牌",
+      "present": "現在",
+      "suggested_bidding": "建議叫牌",
+      "show": "顯示",
+      "edit": "編輯",
+      "add": "添加",
+      "cancel": "取消",
+      "undo_bid": "撤消叫牌",
+      "robot_bid": "機器人叫牌",
+      "save": "保存",
+      "alert_placeholder": "人工",
+      "comment_placeholder": "評論叫牌",
+      "alert": "警報",
+      "alert_bid_placeholder": "提醒叫牌",
+      "explain_bid_placeholder": "解釋叫牌",
+      "contracts": "定約",
+      "contract": "定約",
+      "stars": "星星",
+      "pairs": "雙人",
+      "no_pairs_started": "尚未有配對開始競拍",
+      "join_chat": "加入玩家聊天"
+    },
+    "coach_session_deal_presentation": {
+      "title": "手 {{number}}"
+    },
+    "create_group": {
+      "too_short_error": "太短",
+      "forbidden_characters_error": "禁止字符",
+      "group_name_taken_error": "已存在同名群組",
+      "group_created_success": "群組已創建",
+      "create_group_info": "創建群組後，你會擁有一個只有群組成員可以進入的私人空間，可以在裡面聊天並創建私人活動。請注意，參加活動需要門票；紅桃訂閱者照常無需額外費用。",
+      "premium_groups_button_styled": "你是橋牌教練或老師嗎？或者正在帶一支認真的橋牌隊伍？點擊這裡瞭解<strong>VIP 群組！</strong>",
+      "invite_members_bullet": "邀請成員",
+      "group_chat_bullet": "私人群聊",
+      "group_events_bullet": "私人群組活動",
+      "group_name_label": "名稱",
+      "group_name_placeholder": "輸入群組名稱",
+      "group_description_label": "描述",
+      "group_description_placeholder": "輸入群組描述",
+      "sub_level_error": "紅桃訂閱用戶可以創建群組",
+      "submit_button": "創建群組"
+    },
+    "create_group_session": {
+      "scenarios_robot_error": "某些選定的場景在機器人設置之間存在衝突。",
+      "missing_name_error": "該事件需要一個名稱",
+      "board_count_error": "必須有 1-24 副牌",
+      "end_time_past_error": "結束時間必須是將來的時間。",
+      "start_time_error": "開始時間必須在未來且在結束時間之前。",
+      "start_time_past_error": "開始時間必須是將來的時間。",
+      "end_time_before_start_error": "結束時間必須晚於開始時間。",
+      "scenario_stock_error": "場景副牌庫存不足，請先生成更多。",
+      "create_event_error": "未能創建活動（{{error}}）",
+      "north": "北",
+      "south": "南",
+      "robots_none": "無",
+      "robots_basic": "基礎",
+      "robots_advanced": "高級",
+      "boards_label": "副牌",
+      "robots_label": "機器人",
+      "coach_robot_label": "與教練機器人一起練習",
+      "coach_robot_info_1_pre_styled": "這允許成員使用",
+      "coach_robot_info_1_pre_styled_1": "機器人",
+      "coach_robot_info_1_between_styled": "這將使用你的",
+      "coach_robot_info_1_styled_2": "建議叫牌",
+      "coach_robot_info_1_post_styled": "。",
+      "coach_robot_info_2_pre_styled": "如果玩家偏離建議叫牌，我們的",
+      "coach_robot_info_2_pre_styled_1": "高級機器人（E/W）",
+      "coach_robot_info_2_between_styled": "或",
+      "coach_robot_info_2_styled_2": "利亞 (N/S)",
+      "coach_robot_info_2_post_styled": "將接管。",
+      "coach_direction_label": "教練方向",
+      "show_warning_label": "顯示警告",
+      "show_warning_info": "當玩家偏離建議叫牌時，會向他們顯示警告。",
+      "name_label": "名稱",
+      "name_placeholder": "輸入活動名稱",
+      "description_label": "描述",
+      "description_placeholder": "輸入活動描述",
+      "leaderboard_label": "排行榜",
+      "start_immediately_label": "立即開始",
+      "start_time_label": "開始時間",
+      "permanent_event_label": "永久活動",
+      "end_time_label": "結束時間",
+      "tab_deal_types": "牌型",
+      "tab_scenarios": "應用場景",
+      "group_event_info": "只有群組內的成員才能參加此活動。",
+      "group_free_events_info": "你的群組有免費活動。",
+      "free_event_info": "參加此活動是免費的。",
+      "event_price_info": "加入活動時，每位玩家每副牌需支付一張門票。",
+      "free_event_used_info_1": "你本週已經創建過免費活動。",
+      "free_event_used_info_2": "你仍然可以創建普通活動。",
+      "group_admin_error": "只有群組管理員可以創建活動",
+      "create_submit": "創建群組活動",
+      "edit_submit": "保存活動"
+    },
+    "event_draft": {
+      "error": "出了點問題",
+      "score_all": "全部得分",
+      "score_all_info": "這將使用 E/W 精確握持來得分",
+      "create_event": "創建活動",
+      "event_name_placeholder": "活動名稱",
+      "rotate": "旋轉",
+      "remove_hand": "移除手牌",
+      "remove_bidding": "刪除叫牌記錄"
+    },
+    "group": {
+      "tab_events": "活動",
+      "tab_members": "成員",
+      "tab_invited": "邀請",
+      "tab_premium_members": "VIP 成員",
+      "tab_stats": "統計數據",
+      "create_event": "創建活動",
+      "import_pbn": "導入 PBN",
+      "unfinished_draft_info": "你有一份未完成的草稿",
+      "resume": "繼續",
+      "delete": "刪除",
+      "search_event_placeholder": "搜索事件",
+      "show_finished_label": "顯示完畢",
+      "no_events_info": "該群組尚未創建任何活動",
+      "add_members": "添加成員",
+      "members_count": "成員 ({{count}})",
+      "owner_badge": "群主",
+      "admin_badge": "管理員",
+      "premium_badge": "VIP",
+      "subscribed_badge": "已訂閱",
+      "invited_count": "已邀請 ({{count}})",
+      "remove_invite": "刪除邀請",
+      "make_premium_error": "設置 VIP 成員失敗（{{error}}）",
+      "remove_premium_error": "取消 VIP 成員失敗（{{error}}）",
+      "premium_members_info": "VIP 成員可以使用該群組提供的高級功能。你可以將 VIP 資格重新分配給其他用戶，但成員獲得 VIP 資格後的 30 天內不能移除。",
+      "premium_seats_used_header": "已使用的高級座位：{{used}}，共 {{limit}}",
+      "date_added_info": "添加於 {{timestamp}}",
+      "stats": {
+        "title": "過去 30 天",
+        "info": "過去 30 天內所有成員在 Cuebids 的活動",
+        "show_more": "顯示更多",
+        "show_fewer": "顯示更少",
+        "tab_pairs": "雙人",
+        "tab_players": "玩家",
+        "no_pair_info": "沒有可顯示的配對活動",
+        "pair": "配對",
+        "deals": "牌局",
+        "stars": "星星",
+        "no_player_info": "沒有可顯示的玩家活動"
+      }
+    },
+    "group_list": {
+      "new_events": "新活動",
+      "group_invite_info": "您被邀請加入這些群組",
+      "premium_group_badge": "VIP 群組",
+      "accept": "接受",
+      "reject": "拒絕",
+      "no_group_info": "您不是任何群組的成員",
+      "create_group": "創建群組"
+    },
+    "group_session_leaderboard": {
+      "delete_error": "出了點問題。如果玩家已經開始參加該賽事，則無法將其刪除。",
+      "delete": "刪除事件",
+      "edit": "編輯",
+      "not_started": "此活動尚未開始",
+      "finished": "本次活動已結束",
+      "runs_until": "該活動持續到：",
+      "continue": "繼續活動",
+      "completed": "活動已完成",
+      "invites_sent": "已發送邀請",
+      "join_event": "參加活動",
+      "pair_count": "{{count}}對已參加此活動",
+      "grid_card_coaching": "輔導",
+      "leaderboard_title": "前10名",
+      "no_leaderboard": "此活動沒有排行榜"
+    },
+    "join_group": {
+      "error": "出了點問題。",
+      "success": "謝謝！你很快就會加入該群組。",
+      "title": "加入群組",
+      "private_info": "該群組是私人的。",
+      "loading": "正在載入...",
+      "membership_required": "該群組需要會員資格。",
+      "native_purchase_info_pre_styled": "請使用網絡",
+      "native_purchase_info_styled": "這裡",
+      "native_purchase_info_post_styled": "成為會員。",
+      "purchase_loading": "請稍候",
+      "purchase": "成為會員",
+      "join_info_pre_styled": "您即將加入群組",
+      "join_info_post_styled": "。",
+      "join_group": "加入群組"
+    },
+    "join_group_session": {
+      "no_robots": "沒有機器人",
+      "basic_robots": "基礎機器人",
+      "advanced_robots": "高級機器人",
+      "robot_success": "已加入活動。叫牌練習已開始。",
+      "robot_error": "加入活動時出錯 ({{error}})",
+      "already_invited_success": "你的好友已經邀請你一起玩了。叫牌練習已開始。",
+      "already_invited_error": "您已經邀請您的搭檔參加此活動",
+      "invite_success": "邀請已發送",
+      "invite_error": "發送邀請時出錯 ({{error}})",
+      "not_started": "此活動尚未開始",
+      "finished": "本次活動已結束",
+      "permanent": "永久活動",
+      "runs_until": "該活動持續到：",
+      "event_timer_label": "事件",
+      "boards_count_label": "{{count}} 副牌",
+      "already_finished": "本次活動已經結束",
+      "received_invites": "收到遊玩邀請",
+      "sent_invites": "已發送玩邀請",
+      "partner_label": "搭檔",
+      "already_participating_error": "您已經參加了此活動。",
+      "partner_participating_error": "您的搭檔已經參加此活動。",
+      "together_participating_error": "您和您的搭檔已經一起參加此活動。",
+      "invite_info": "當你加入此活動時，會向搭檔發送邀請。搭檔接受邀請後，你們就可以開始叫牌。邀請被接受時，兩位玩家都必須有可用門票。",
+      "join_event_submit": "參加活動",
+      "price_dialog_title": "參加活動",
+      "price_dialog_submit": "加入"
+    },
+    "manage_group": {
+      "too_short_error": "太短",
+      "forbidden_characters_error": "禁止字符",
+      "name_taken_error": "已存在同名群組",
+      "success": "群組信息已更改",
+      "group_settings": "群組設置",
+      "add_members": "添加成員",
+      "collapse_title_settings": "設置",
+      "compact_events_label": "緊湊事件視圖",
+      "collapse_title_notifications": "通知",
+      "notifications_label": "來自群組的通知",
+      "collapse_title_leave": "離開群組",
+      "owner_leave_info": "您需要先轉讓所有權才能離開群組",
+      "leave_group": "離開群組",
+      "collapse_title_name_description": "更改名稱和描述",
+      "name_label": "名稱",
+      "name_placeholder": "輸入群組名稱",
+      "description_label": "描述",
+      "description_placeholder": "輸入群組描述",
+      "update_group": "更新組",
+      "collapse_title_transfer_ownership": "轉讓所有權",
+      "transfer_ownership_info": "請注意，一旦您轉移了所有權，您就無法自行撤消此操作",
+      "transfer_ownership_confirm_label": "我確定我想轉讓該群組的所有權",
+      "members_count": "成員 ({{count}})",
+      "owner_badge": "群主",
+      "admin_badge": "管理員",
+      "make_owner": "設為所有者",
+      "collapse_title_delete_group": "刪除組",
+      "delete_group_info": "警告！此操作無法撤消。您確實要刪除名為：{{name}} 的群組嗎？",
+      "delete_group_confirm_label": "我想刪除這個群組",
+      "delete_group_really_confirm_label": "我絕對確定我要刪除該群組",
+      "delete_group": "刪除組"
+    },
+    "pbn_import": {
+      "success_no_duplicates": "解析了 {{count}} 手牌。",
+      "success_duplicates": "解析了 {{count}} 手牌。重複項已被刪除",
+      "missing_info_error": "缺少牌局、發牌人或局況",
+      "no_hands_error": "沒有手",
+      "too_many_boards_error": "最多24手",
+      "relevant_fields_info": "唯一相關的 PBN 字段是 Event、Deal、Dealer、Vulnerable 和 Auction。我們也會嘗試查找用 {} 包裹的註釋。其他所有字段都會被忽略。",
+      "split_multiple_label": "拆分多個牌局：",
+      "deal_separation_info": "牌局必須用“ {{splitter}} ”分隔。請在下方粘貼該活動的所有牌局。",
+      "suggested_bidding_import_label": "按照建議叫牌導入拍賣",
+      "import_commentary_label": "導入解說",
+      "paste_pbn_placeholder": "將 PBN 粘貼到此處",
+      "clear": "清除",
+      "create_draft": "創建草稿",
+      "event_name_placeholder": "活動名稱"
+    },
+    "public_group": {
+      "not_member_info": "你不是該群組的成員。可以請群主邀請你。"
+    },
+    "error_only_owner_can_delete": "只有群主可以刪除該群",
+    "error_owner_cannot_leave": "在離開群組之前，您需要將所有權轉讓給其他人",
+    "error_only_owner_can_transfer_ownership": "只有群組所有者才能轉讓所有權",
+    "error_premium_limit_reached": "已達到 VIP 成員上限",
+    "error_user_not_premium": "用戶不是 VIP 成員",
+    "error_user_recently_premium": "用戶成為 VIP 成員還不足 30 天",
+    "error_cannot_have_event_deal_types": "你的群組不能為活動設置牌型。",
+    "error_insufficient_deals_scenario": "所選場景的牌局數量不足。",
+    "error_insufficient_deals": "可用牌局數量不足",
+    "error_generic": "出了點問題",
+    "error_free_weekly_spent": "您本週已經創建了一個免費活動",
+    "error_cannot_create_free_event": "無法創建免費活動",
+    "error_cannot_replace_played_deal": "已有配對打過這副牌時，不能替換。",
+    "error_cannot_rotate_played_deal": "當某些配對已經玩過時，無法輪換髮牌。"
+  },
+  "share": {
+    "navigate_with_buttons_info": "通過箭頭在叫牌中導航"
+  },
+  "app": {
+    "feature_disabled": "功能已禁用",
+    "feature_disabled_info": "此功能目前已禁用。",
+    "failed_to_load": "載入失敗",
+    "failed_to_load_info": "載入頁面時出現問題。",
+    "back_to_start": "返回開始",
+    "not_available": "不可用",
+    "not_supported_in_deployment": "在此部署中不可用。",
+    "email": "電子郵件",
+    "password": "密碼",
+    "save": "保存",
+    "login": "登錄",
+    "logout": "退出",
+    "cancel": "取消",
+    "confirm_title": "你確定嗎？",
+    "confirm": "是的",
+    "next": "下一步",
+    "prev": "上一頁",
+    "start": "開始",
+    "opening": "開幕...",
+    "loading": "正在載入...",
+    "search": "搜索...",
+    "no_hits": "沒有匹配項",
+    "error": "出了點問題",
+    "sign-out-dialog": {
+      "title": "退出？",
+      "confirm_text": "您確定要退出嗎？",
+      "button": "是的，退出"
+    },
+    "language": "語言",
+    "language_disclaimer_en": "此頁面僅提供英文版本",
+    "language_disclaimer_sv": "此頁面僅提供瑞典語版本",
+    "go_to_top": "頂部",
+    "reconnect": "重新連接",
+    "connection_issues": "連接問題",
+    "matchmaking_successful_notification": "已找到匹配！叫牌練習已開始。",
+    "challenge_matchmaking_successful_notification": "已找到匹配！挑戰已開始。"
+  },
+  "maintenance": {
+    "title": "維護保養",
+    "warning": "Cuebids 目前處於停機維護狀態。請稍後回來查看。"
+  },
+  "refresh": {
+    "title": "需要刷新",
+    "warning": "有較新版本的 Cuebids。您需要刷新頁面才能獲取新版本。",
+    "refresh_button": "刷新"
+  },
+  "session_deal": {
+    "alert": "警報",
+    "alert_placeholder": "人工",
+    "bidding_help": "幫助",
+    "undo": "撤消",
+    "undo_failed": "撤消失敗",
+    "undo_failed_competition": "。在比賽中，您只有 30 秒的時間撤消叫牌。",
+    "double_undo_confirm": "您確定還要撤消搭檔的上次叫牌嗎？",
+    "not_recommended_confirm": "這不是我推薦的。您確定要叫牌嗎？",
+    "auto_undo_offline": "由於連接中斷，您的待處理叫牌已自動取消",
+    "waiting_for_partner": "等待搭檔...",
+    "waiting_for": "等待...",
+    "sure": "你確定嗎？",
+    "confirm": "確認",
+    "phone_friend_info": "不確定要叫牌什麼？以下是其他玩家所做的一些示例。",
+    "bidding_help_title": "叫牌幫助",
+    "bidding_help_settings": "您可以在“設置”中關閉此功能。"
+  },
+  "session_deal_mock": {
+    "waiting_for_partner": "等待搭檔...",
+    "bid_error": "在這個演示裡，你只能叫 {{options}}",
+    "or": "或"
+  },
+  "session_deal_result": {
+    "tell_us": "告訴我們這副牌的問題。反饋將直接發送給開發人員！",
+    "remember": "記得",
+    "read_the_faq": "閱讀常見問題解答",
+    "scoring_is_dd": "計分基於雙明手*分析",
+    "discuss_with_partner": "注意：如果你想和搭檔討論這副牌，請改用聊天。",
+    "let_us_know": "讓我們知道！",
+    "thanks_for_feedback": "感謝您的反饋！",
+    "compare": "比較",
+    "you": "你",
+    "best": "最佳",
+    "par": "帕",
+    "best_contract": "最佳定約",
+    "par_contract": "標準定約",
+    "explain_ev": "這個定約基於 1000 次雙明手*模擬的結果計算。實戰與雙明手結果可能不同。（*我們會對雙明手結果進行調整，使其更貼近真實牌局。）",
+    "none": "無",
+    "feedback_to_cuebids": "反饋給 Cuebids",
+    "feedback": "反饋意見",
+    "marked_for_discussion": "已標記",
+    "mark_for_discussion": "標記討論",
+    "like": "喜歡",
+    "liked": "喜歡",
+    "post_poll": "發表投票",
+    "poll_not_available": "活動中禁用投票創建",
+    "visit_poll": "訪問投票",
+    "replay_with_friend": "與好友重打這副牌",
+    "send_to_friend_pair": "發送給兩位好友",
+    "replay_with_friend_info": "用這副牌和一位好友創建一次新的叫牌練習。",
+    "send_to_friend_pair_info": "用這副牌為兩位選定的好友創建一次新的叫牌練習。該練習也會分享給你，方便你跟進。",
+    "start_replay": "開始重打",
+    "send_replay": "發送重打練習",
+    "creating_replay": "正在創建重打練習...",
+    "replay_error": "無法開始重打。{{error}}",
+    "send_replay_error": "無法發送重打練習。{{error}}",
+    "replay_generic_error": "創建重打練習時出現問題。",
+    "no_replay_friends_available": "目前沒有互相關注的好友允許重打練習。",
+    "contracts": "定約",
+    "stars": "星星",
+    "divergence_text": "{{count}} 位（共 {{total}} 位）專家叫牌其他內容",
+    "divergence_info": "快速瞭解哪些 PRO 牌手在你的位置上叫牌不同。",
+    "divergence_title": "顯示專業面板",
+    "divergence_settings": "您可以在“設置”中關閉此功能。"
+  },
+  "contracts_modal": {
+    "par_contract": "標準定約",
+    "best_option": "最佳選擇",
+    "your_contract": "你的定約",
+    "excluded_contracts_note_label": "注意事項",
+    "excluded_contracts_note": "有些定約被判定為不太可能，因此已隱藏。這可能基於你的牌力或對手的行動。",
+    "hide_excluded": "隱藏",
+    "show_excluded": "顯示"
+  },
+  "review_modal": {
+    "title": "比較",
+    "different_evaluation_version": "此比較是使用不同的評估版本創建的。",
+    "tabs": {
+      "players": "玩家 ({{count}})",
+      "robots": "機器人（{{count}}）",
+      "friends": "好友 ({{count}})",
+      "pros": "PRO ({{count}})",
+      "all": "全部 ({{count}})"
+    },
+    "you": "你",
+    "please_apply": "請在此申請成為",
+    "pro": "PRO",
+    "different_system_warning": "玩家可能會使用不同的系統。"
+  },
+  "price_dialog": {
+    "your_charge_one": "將向你收取 {{count}} 張門票",
+    "your_charge_other": "將向你收取 {{count}} 張門票",
+    "partner_charge_one": "將向你的搭檔收取 {{count}} 張門票",
+    "partner_charge_other": "將向你的搭檔收取 {{count}} 張門票",
+    "you": "你",
+    "partner": "搭檔",
+    "available": "可用",
+    "charge": "收費",
+    "explain_split": "練習時需要使用門票。每個月你都會收到新門票，訂閱者會獲得更多門票。紅桃訂閱者可以無限使用。"
+  },
+  "flagged_session_deals": {
+    "none": "都看完啦！點擊旗標即可標記一副牌。",
+    "show_all_partners": "顯示所有搭檔",
+    "unmark_all_confirm": "確定要取消標記所有副牌嗎？",
+    "unmark_all_button": "取消標記所有副牌"
+  },
+  "session_card": {
+    "users": "用戶",
+    "pro": "PRO",
+    "completed": "已完成"
+  },
+  "shared_session_card": {
+    "completed": "已完成"
+  },
+  "scenarios": {
+    "delete_confirm_title": "刪除場景",
+    "delete_confirm": "確定要刪除此場景嗎？",
+    "edit_confirm_title": "編輯場景",
+    "edit_confirm": "任何現有庫存都將被刪除。繼續編輯嗎？",
+    "fast_generation": "快速生成",
+    "high_quality": "高品質",
+    "scenarios": "應用場景",
+    "random": "隨機手牌",
+    "available_stock": "庫存有 {{count}} 個",
+    "no_scenarios": "沒有場景...",
+    "too_little_stock_generate_more": "一些選定的場景庫存太少。請生成更多。",
+    "scenario_name": "場景名稱",
+    "explain": "被指定牌型的玩家只會拿到符合其中一種牌型的手牌。所選牌型中的所有限制都會被滿足，你也可以調整整副牌的設置。",
+    "test_scenario": "測試",
+    "save_edit": "保存",
+    "save_as_new": "另存為新的",
+    "save": "保存",
+    "no_constraints_warning": "場景沒有限制",
+    "no_name_warning": "場景沒有名字",
+    "maintenance_warning": "場景目前正在維護中。請稍後重試。",
+    "hand_types": {
+      "types": {
+        "five_card_major": {
+          "name": "5張高花"
+        },
+        "six_card_minor": {
+          "name": "6張低花"
+        },
+        "four_card_diamonds": {
+          "name": "4張方塊"
+        },
+        "strong": {
+          "name": "強牌"
+        },
+        "balanced": {
+          "name": "均型"
+        },
+        "naturalClubs": {
+          "name": "自然梅花"
+        },
+        "naturalClubs6": {
+          "name": "自然梅花 6+"
+        },
+        "natClubs6": {
+          "name": "弱 6 張梅花"
+        },
+        "natClubs7": {
+          "name": "弱 7 張梅花"
+        },
+        "natClubs8": {
+          "name": "弱 8 張梅花"
+        },
+        "marmicWithClubs": {
+          "name": "馬爾米奇"
+        },
+        "naturalDiamonds": {
+          "name": "自然方塊"
+        },
+        "marmicWithDiamonds": {
+          "name": "馬爾米奇"
+        },
+        "natDiamonds6": {
+          "name": "弱 6 張方塊"
+        },
+        "natDiamonds7": {
+          "name": "弱 7 張方塊"
+        },
+        "natDiamonds8": {
+          "name": "弱 8 張方塊"
+        },
+        "naturalHearts": {
+          "name": "自然紅桃，5+張"
+        },
+        "naturalHearts4": {
+          "name": "自然紅桃 4+"
+        },
+        "natHearts6": {
+          "name": "弱 6 張紅桃"
+        },
+        "natHearts7": {
+          "name": "弱 7 張紅桃"
+        },
+        "natHearts8": {
+          "name": "弱 8 張紅桃"
+        },
+        "natHeart6_10_13": {
+          "name": "6張紅桃（10-13）"
+        },
+        "naturalSpades": {
+          "name": "自然黑桃 5+"
+        },
+        "naturalSpades4": {
+          "name": "自然黑桃 4+"
+        },
+        "natSpades6": {
+          "name": "弱 6 張黑桃"
+        },
+        "natSpades7": {
+          "name": "弱 7 張黑桃"
+        },
+        "natSpades8": {
+          "name": "弱 8 張黑桃"
+        },
+        "natSpade6_10_13": {
+          "name": "6張黑桃（10-13）"
+        },
+        "open1C_2plus": {
+          "name": "1!C 2+",
+          "description": "均型牌，或自然梅花開叫；至少兩張梅花"
+        },
+        "open1C_betterMinor": {
+          "name": "1!C，較好低花",
+          "description": "均型牌，或自然梅花開叫；較好低花"
+        },
+        "open1C_polish": {
+          "name": "1!C，波蘭梅花",
+          "description": "12-14 均型，15-17 的自然梅花，或任意 18+"
+        },
+        "open1C_strong": {
+          "name": "1!C，強牌（17+）",
+          "description": "17+ 醫護人員"
+        },
+        "open1D_betterMinor": {
+          "name": "1!D，較好低花",
+          "description": "均型牌，或自然方塊開叫；較好低花"
+        },
+        "open1D_fourPlus": {
+          "name": "1!D 4+",
+          "description": "均型牌，或自然方塊開叫；至少四張方塊"
+        },
+        "open1D_4PlusUnbal": {
+          "name": "1!D、4+、不平衡",
+          "description": "自然方塊開叫，保證非均型。"
+        },
+        "open1H_4plus": {
+          "name": "1!H 4+",
+          "description": "自然紅桃開叫，至少四張紅桃"
+        },
+        "open1H_5plus": {
+          "name": "1!H 5+",
+          "description": "自然紅桃開叫，至少五張紅桃"
+        },
+        "open1S_4plus": {
+          "name": "1!S 4+",
+          "description": "自然黑桃開叫，至少四張黑桃"
+        },
+        "open1S_5plus": {
+          "name": "1!S 5+",
+          "description": "自然黑桃開叫，至少五張黑桃"
+        },
+        "open1N_weak": {
+          "name": "1NT，弱牌型（10-13）",
+          "description": "均型牌，10-13 高牌點"
+        },
+        "open1N_strong": {
+          "name": "1NT，強牌型（15-17）",
+          "description": "均型牌，15-17 高牌點"
+        },
+        "open2C_strong": {
+          "name": "2!C，強牌（20-21 NT or GF）",
+          "description": "強牌，23+ 高牌點，或均型 20-21 高牌點"
+        },
+        "open2C_nat": {
+          "name": "2!C，自然 6+",
+          "description": "自然梅花開叫，至少6張，11-16 高牌點"
+        },
+        "open2C_nat54": {
+          "name": "2!C，自然 5-4",
+          "description": "自然梅花開叫，至少5張，11-16 高牌點"
+        },
+        "open2D_nat_weak": {
+          "name": "2!D，自然弱牌",
+          "description": "弱方塊開叫，3-9 高牌點"
+        },
+        "open2D_multi": {
+          "name": "2!D，Multi",
+          "description": "弱紅桃或黑桃開叫，3-9 高牌點"
+        },
+        "open2H_weak": {
+          "name": "2!H，弱",
+          "description": "弱紅桃開叫，3-9 高牌點"
+        },
+        "open2H_nat_10_13": {
+          "name": "2!H，自然 10-13",
+          "description": "自然紅桃開叫，10-13 高牌點"
+        },
+        "open2S_nat_weak": {
+          "name": "2!S，自然弱牌",
+          "description": "弱黑桃開叫，3-9 高牌點"
+        },
+        "open2S_nat_10_13": {
+          "name": "2!S，自然 10-13",
+          "description": "自然黑桃開叫，10-13 高牌點"
+        },
+        "open2N_2224": {
+          "name": "2NT，22-24",
+          "description": "均型牌，22-24 高牌點"
+        },
+        "open3C_nat_weak": {
+          "name": "3!C，自然弱牌",
+          "description": "弱梅花開叫，7張以上，3-9 高牌點"
+        },
+        "open3D_nat_weak": {
+          "name": "3!D，自然弱牌",
+          "description": "弱方塊開叫，7張以上，3-9 高牌點"
+        },
+        "open3H_nat_weak": {
+          "name": "3!H，自然弱牌",
+          "description": "弱紅桃開叫，7張以上，3-9 高牌點"
+        },
+        "open3S_nat_weak": {
+          "name": "3!S，自然弱牌",
+          "description": "弱黑桃開叫，7張以上，3-9 高牌點"
+        },
+        "open4C_nat_weak": {
+          "name": "4!C，自然弱牌",
+          "description": "弱梅花開叫，8張以上，3-9 高牌點"
+        },
+        "open4D_nat_weak": {
+          "name": "4!D，自然弱牌",
+          "description": "弱方塊開叫，8張以上，3-9 高牌點"
+        },
+        "open4H_nat_weak": {
+          "name": "4!H，自然弱牌",
+          "description": "弱紅桃開叫，8張以上，3-9 高牌點"
+        },
+        "open4S_nat_weak": {
+          "name": "4!S，自然弱牌",
+          "description": "弱黑桃開叫，8張以上，3-9 高牌點"
+        },
+        "support_major": {
+          "name": "支持高花"
+        },
+        "weak2NonVul": {
+          "name": "弱二無局"
+        },
+        "weak2Vul": {
+          "name": "弱二有局"
+        },
+        "take_out_double": {
+          "name": "技術性加倍"
+        },
+        "twoOverOne": {
+          "name": "二蓋一"
+        },
+        "minorHand": {
+          "name": "低花牌型"
+        },
+        "minorSupport": {
+          "name": "低花支持"
+        },
+        "gazzilliOpener_hearts_clubs": {
+          "name": "紅桃配梅花（11-15）"
+        },
+        "gazzilliOpener_hearts_strong": {
+          "name": "紅桃（16+）"
+        },
+        "gazzilliOpener_spades_clubs": {
+          "name": "黑桃配梅花（11-15）"
+        },
+        "gazzilliOpener_spades_strong": {
+          "name": "黑桃（16+）"
+        },
+        "gazzilliResponder": {
+          "name": "Gazilli，應叫者"
+        },
+        "gazzilliResponder_spades": {
+          "name": "Gazilli，紅桃開叫後1黑桃應叫"
+        },
+        "balanced_10_13": {
+          "name": "均型 10-13"
+        },
+        "balanced_12_14": {
+          "name": "均型 12-14"
+        },
+        "balanced_15_17": {
+          "name": "均型 15-17"
+        },
+        "balanced_15_18": {
+          "name": "均型 15-18"
+        },
+        "balanced_18_19": {
+          "name": "均型 18-19"
+        },
+        "balanced_20_21": {
+          "name": "均型 20-21"
+        },
+        "balanced_22_24": {
+          "name": "均型 22-24"
+        },
+        "oneSuit": {
+          "name": "單套型"
+        },
+        "twoSuits": {
+          "name": "雙套型"
+        },
+        "threeSuits": {
+          "name": "三套型"
+        },
+        "major_support": {
+          "name": "高花支持",
+          "description": "一手會高花開叫，另一手持支持。"
+        },
+        "take_out_double_weak_2": {
+          "name": "拿出雙弱2",
+          "description": "右手對手將弱二開叫，下一手做技術性加倍。"
+        },
+        "two_over_one_": {
+          "name": "二蓋一",
+          "description": "一手會高花開叫，搭檔持成局逼叫牌型，並且沒有可在一階應叫的花色。"
+        },
+        "majors_vs_nt": {
+          "name": "高花或NT成局",
+          "description": "高花 5-3 配合，雙方均型，並有成局牌力。"
+        },
+        "minors_vs_nt": {
+          "name": "低花或NT成局",
+          "description": "低花 9 張配合，沒有高花配合，並有成局牌力。"
+        },
+        "gazzilli": {
+          "name": "加齊利",
+          "description": "開叫方為強牌或帶梅花的高花開叫。應叫方沒有配合，也沒有二蓋一應叫。"
+        },
+        "vs_1N": {
+          "name": "對1NT爭叫",
+          "description": "對手開叫 1NT，我方可以爭叫。"
+        },
+        "vs_1N_Entry": {
+          "name": "受干擾的1NT",
+          "description": "你方開叫 1NT，對手爭叫。"
+        },
+        "entry1D": {
+          "name": "1!D 爭叫",
+          "description": "10-16 高牌點，5+!D"
+        },
+        "command_entry1D": {
+          "name": "會爭叫 1!D"
+        },
+        "entry1H": {
+          "name": "1!H 爭叫",
+          "description": "10-16 高牌點，5+!H"
+        },
+        "command_entry1H": {
+          "name": "會爭叫 1!H"
+        },
+        "entry1S": {
+          "name": "1!S 爭叫",
+          "description": "10-16 高牌點，5+!S"
+        },
+        "command_entry1S": {
+          "name": "會爭叫 1!S"
+        },
+        "entry1N": {
+          "name": "1!N 爭叫",
+          "description": "15-18 均型"
+        },
+        "command_entry1N": {
+          "name": "會爭叫 1!N"
+        },
+        "entry2C": {
+          "name": "2!C 爭叫",
+          "description": "11-17 高牌點，5+!C"
+        },
+        "command_entry2C": {
+          "name": "會爭叫 2!C"
+        },
+        "entry2D": {
+          "name": "2!D 爭叫",
+          "description": "11-17 高牌點，5+!D"
+        },
+        "command_entry2D": {
+          "name": "會爭叫 2!D"
+        },
+        "entry2H": {
+          "name": "2!H 爭叫",
+          "description": "11-17 高牌點，5+!H"
+        },
+        "command_entry2H": {
+          "name": "會爭叫 2!H"
+        },
+        "entry2S": {
+          "name": "2!S 爭叫",
+          "description": "11-17 高牌點，5+!S"
+        },
+        "command_entry2S": {
+          "name": "會爭叫 2!S"
+        },
+        "entry3C": {
+          "name": "3!C 爭叫",
+          "description": "12-18 高牌點，5+!C"
+        },
+        "command_entry3C": {
+          "name": "會爭叫 3!C"
+        },
+        "entry3D": {
+          "name": "3!D 爭叫",
+          "description": "12-18 高牌點，5+!D"
+        },
+        "command_entry3D": {
+          "name": "會爭叫 3!D"
+        },
+        "entry3H": {
+          "name": "3!H 爭叫",
+          "description": "12-18 高牌點，5+!H"
+        },
+        "command_entry3H": {
+          "name": "會爭叫 3!H"
+        },
+        "entry3S": {
+          "name": "3!S 爭叫",
+          "description": "12-18 高牌點，5+!S"
+        },
+        "command_entry3S": {
+          "name": "會爭叫 3!S"
+        },
+        "entry2DJump": {
+          "name": "用 2!D 跳躍爭叫",
+          "description": "6-9 高牌點，6+!D"
+        },
+        "command_entry2DJump": {
+          "name": "會跳爭叫 2!D"
+        },
+        "entry2HJump": {
+          "name": "用 2!H 跳躍爭叫",
+          "description": "6-9 高牌點，6+!H"
+        },
+        "command_entry2HJump": {
+          "name": "將跳爭叫 2!H"
+        },
+        "entry2SJump": {
+          "name": "用 2!S 跳躍爭叫",
+          "description": "6-9 高牌點，6+!S"
+        },
+        "command_entry2SJump": {
+          "name": "將跳爭叫 2!S"
+        },
+        "entry3CJump": {
+          "name": "用 3!C 跳躍爭叫",
+          "description": "6-10 高牌點，6+!C"
+        },
+        "command_entry3CJump": {
+          "name": "將跳爭叫 3!C"
+        },
+        "entry3DJump": {
+          "name": "用 3!D 跳躍爭叫",
+          "description": "6-10 高牌點，6+!D"
+        },
+        "command_entry3DJump": {
+          "name": "會跳搶叫 3!D"
+        },
+        "entry3HJump": {
+          "name": "用 3!H 跳躍爭叫",
+          "description": "6-10 高牌點，6+!H"
+        },
+        "command_entry3HJump": {
+          "name": "將跳爭叫 3!H"
+        },
+        "entry3SJump": {
+          "name": "用 3!S 跳躍爭叫",
+          "description": "6-10 高牌點，6+!S"
+        },
+        "command_entry3SJump": {
+          "name": "將跳爭叫 3!S"
+        },
+        "command_open1C": {
+          "name": "會開叫 1!C"
+        },
+        "command_open1D": {
+          "name": "會開叫 1!D"
+        },
+        "command_open1H": {
+          "name": "會開叫 1!H"
+        },
+        "command_open1S": {
+          "name": "會開叫 1!S"
+        },
+        "command_open1N": {
+          "name": "會開叫 1NT"
+        },
+        "command_open2D": {
+          "name": "會開叫 2!D"
+        },
+        "command_open2H": {
+          "name": "會開叫 2!H"
+        },
+        "command_open2S": {
+          "name": "會開叫 2!S"
+        },
+        "command_open3C": {
+          "name": "會開叫 3!C"
+        },
+        "command_open3D": {
+          "name": "會開叫 3!D"
+        },
+        "command_open3H": {
+          "name": "會開叫 3!H"
+        },
+        "command_open3S": {
+          "name": "會開叫 3!S"
+        },
+        "command_open4C": {
+          "name": "會開叫 4!C"
+        },
+        "command_open4D": {
+          "name": "會開叫 4!D"
+        },
+        "command_open4H": {
+          "name": "會開叫 4!H"
+        },
+        "command_open4S": {
+          "name": "會開叫 4!S"
+        }
+      },
+      "selected": "已選擇",
+      "add": "添加",
+      "north": "北",
+      "east": "東",
+      "south": "南",
+      "west": "西",
+      "no_hand_types": "沒有手型",
+      "title": "將手型添加到 {{dir}}",
+      "name": "名稱",
+      "or": "或",
+      "to": "到",
+      "add_new": "添加",
+      "save": "保存",
+      "create_custom": "創建自定義",
+      "type": "類型",
+      "hcp": "高牌點",
+      "suits": "套裝",
+      "shapes": "形狀",
+      "advanced": "高級",
+      "add_shape": "添加形狀",
+      "shape_explain": {
+        "type_like": "輸入一個形狀，例如",
+        "or": "或",
+        "exact_shape": "要使其成為精確的形狀，請鍵入",
+        "forbid_shape": "要禁止形狀，請鍵入",
+        "forbid_exact_shape": "要禁止精確形狀，請輸入",
+        "allow_any": "要允許任意長度，請輸入",
+        "like": "喜歡",
+        "positions": "第一個位置是黑桃，然後是紅桃、方塊和梅花",
+        "explain": "手將具有包容性形狀之一，並且沒有排他性形狀"
+      },
+      "openings": "開叫",
+      "sequences": "序列",
+      "saved": "已保存",
+      "saved_loading": "正在載入保存的約束...",
+      "no_saved_constraints": "尚未保存約束",
+      "saved_filter_placeholder": "過濾保存的約束",
+      "no_saved_constraints_match": "沒有保存的約束與您的過濾器匹配",
+      "save_constraint": "保存約束",
+      "delete_constraint": "刪除約束",
+      "delete_saved_constraint": "刪除已保存的約束",
+      "saved_constraint_saved": "約束已保存",
+      "saved_constraint_already_saved": "約束已保存",
+      "saved_constraint_limit_reached": "您最多可以保存 100 個約束",
+      "saved_constraint_save_error": "無法保存約束",
+      "saved_constraint_deleted": "已保存的約束已刪除",
+      "saved_constraint_delete_error": "無法刪除已保存的約束",
+      "second_seat_overcalls": "爭搶第二席",
+      "name_placeholder": "給這個類型起個名字",
+      "enable_robots_to_add": "使機器人能夠添加手型",
+      "notify_required_variable": "這需要一個新變量，並且已達到最大數量。在設置中刪除一項，然後重試。",
+      "shape_issue_warning": "其中一個形狀有問題",
+      "not_dealer_warning": "該玩家不是莊家，我們不能保證開叫。",
+      "not_second_seat_warning": "該玩家不在第二席，我們不能保證爭搶。",
+      "long_suit_quality": "套裝品質",
+      "suit_quality": {
+        "garbage": "垃圾",
+        "very_weak": "很弱",
+        "weak": "弱",
+        "medium": "中等",
+        "semi_solid": "半固體",
+        "running": "跑步"
+      },
+      "vulnerabilities_label": "局況",
+      "vulnerabilities": {
+        "none": "無",
+        "NS": "北/南",
+        "EW": "東/西",
+        "all": "全部"
+      },
+      "cancel": "取消",
+      "no_name": "無名"
+    },
+    "scenario_edit_new_name": "{{name}}（新）",
+    "scenario_edited_success": "場景已編輯",
+    "scenario_created_success": "場景已創建",
+    "scenario_error": "出了點問題",
+    "generation_ongoing_error": "牌局生成正在進行中。完成後您可以保存編輯。",
+    "no_changes_error": "在另存為新場景之前，更改原始場景的一些約束。",
+    "no_constraints_error": "場景沒有限制",
+    "no_name_error": "場景需要一個名稱",
+    "invalid_user_error": "用戶無法創建場景",
+    "invalid_vars_error": "您使用了未正確定義的變量 {{incorrectVars}}",
+    "invalid_vuls_error_singular": "{{invalidDirs}} 沒有針對牌局中所有局況的牌型",
+    "invalid_vuls_error_plural": "{{invalidDirs}} 沒有針對牌局中所有局況的牌型",
+    "too_rare_error": "這個場景太罕見了，抱歉；(",
+    "multiple_commands_warning": "場景有多個機器人命令（尚不支持）",
+    "invalid_user_warning": "紅桃訂閱用戶可以創建個人牌型",
+    "subscribe_here": "在此訂閱",
+    "testing_contraints_dialog_title": "測試限制",
+    "testing_contraints_dialog_cancel": "取消",
+    "testing_contraints_dialog_save": "保存",
+    "testing_contraints_dialog_save_edit": "保存編輯",
+    "testing_contraints_dialog_save_new": "另存為新的",
+    "testing_contraints_dialog_generate_info_pre_styled": "請記住，您還需要在玩遊戲之前生成牌局。點擊",
+    "testing_contraints_dialog_generate_info_styled": "產生更多",
+    "testing_contraints_dialog_generate_info_post_styled": "概述頁面上的按鈕。",
+    "settings": {
+      "settings_button": "設置",
+      "flip": "隨機翻轉牌局",
+      "dealer": "發牌人：",
+      "vul": "外傷：",
+      "ns_hcp": "NS 高牌點：",
+      "robots": "機器人：",
+      "dialog": {
+        "title": "場景設置",
+        "flip_label": "隨機翻轉牌局180°",
+        "dealer_label": "發牌人",
+        "vul_label": "局況",
+        "robots_label": "機器人",
+        "ns_hcp_label": "N+S 高牌點",
+        "to": "到",
+        "add_variable_button": "添加變量",
+        "var_info_1": "使用變量允許多種可能的花色，同時仍然連接多手牌。",
+        "var_info_2": "例如，將 X 設置為 ♠ 和 ♥ 並給 North 5+X 和 South 3+X 在一個場景中練習任一高花的加註。",
+        "cancel_button": "取消",
+        "save_button": "保存",
+        "dealer_north": "北",
+        "dealer_south": "南",
+        "dealer_east": "東",
+        "dealer_west": "西",
+        "dealer_any": "任意",
+        "vul_none": "無",
+        "vul_ns": "北/南",
+        "vul_ew": "東/西",
+        "vul_all": "全部",
+        "vul_none_short": "無",
+        "vul_ns_short": "NS",
+        "vul_ew_short": "電子戰",
+        "vul_all_short": "全部",
+        "vul_any": "任意",
+        "robots_none": "無",
+        "robots_advanced": "高級",
+        "robots_multi": "多",
+        "robots_mini_nt": "迷你NT"
+      }
+    }
+  },
+  "community_scenarios": {
+    "by": "通過",
+    "save": "保存至收藏",
+    "save_success": "場景已保存到您的收藏中",
+    "save_error": "出了點問題",
+    "heart_sub_info": "紅桃訂閱用戶可以保存他人創建的場景。",
+    "subscribe": "在此訂閱",
+    "search_user_label": "按創作者搜索",
+    "search_user_placeholder": "用戶名",
+    "search_user_submit": "搜索",
+    "search_scenario_label": "按場景搜索",
+    "search_scenario_placeholder": "名稱或描述",
+    "search_scenario_submit": "搜索",
+    "clear_search": "清除搜索",
+    "results_count": "結果 ({{count}})",
+    "select": "選擇",
+    "user_search_empty": "無用戶搜索結果",
+    "scenario_search_empty": "沒有場景搜索結果",
+    "no_scenarios": "沒有場景"
+  },
+  "manage_deal_types": {
+    "generation_confirm_title": "生成方法",
+    "generation_confirm_message": "您喜歡快速生成（更少的模擬）嗎？",
+    "generation_error": "一代出了問題",
+    "generation_error_text": "一代出了問題",
+    "generation_retry_error": "重試生成時出現問題",
+    "retry": "重試",
+    "stock_full": "庫存已滿",
+    "generate_more": "產生更多",
+    "share_confirm_title": "分享場景",
+    "share_confirm_message": "您想與其他用戶分享這個場景嗎？描述一下場景是什麼。",
+    "edit_description_confirm_title": "編輯描述",
+    "edit_description_confirm_message": "輸入新場景描述",
+    "share_unchanged_error": "您無法在不更改某些約束的情況下發布其他人創建的場景。",
+    "scenario_market": "場景市場",
+    "crate_scenario": "創建場景",
+    "generation_tokens": "生成代幣：",
+    "beta_info_1": "期間",
+    "beta_info_2": "測試版",
+    "beta_info_3": "的",
+    "beta_info_4": "應用場景",
+    "beta_info_5": "：",
+    "beta_info_6": "你有",
+    "beta_info_7": "無限",
+    "beta_info_8": "代幣",
+    "maintenance_warning": "我們正在維護場景功能。在此期間無法生成牌局，很快就會恢復。",
+    "maintenance_info": "牌局生成功能很快恢復",
+    "th_scenario": "場景",
+    "th_stock": "有現貨",
+    "th_progress": "進行中",
+    "by": "通過",
+    "heart_sub_info": "紅桃訂閱用戶可以創建場景。",
+    "subscribe": "在此訂閱"
+  },
+  "messages": {
+    "item_claimed": "物品被認領！",
+    "empty_inbox": "您的收件箱是空的",
+    "mark_all_as_read": "全部標記為已讀",
+    "message": "留言",
+    "from": "來自",
+    "new": "新！",
+    "item": "項目！",
+    "regards": "此致，{{from}}",
+    "click_here": "點擊這裡！",
+    "claim": "領取",
+    "already_claimed": "已認領",
+    "error_generic": "出了問題！",
+    "error_already_claimed": "物品已被認領！",
+    "event_win": {
+      "congratulations": "恭喜！",
+      "header_daily": "你贏得了每日",
+      "header_weekly": "你贏得了每週",
+      "header_group": "您贏得了活動 {{eventName}}",
+      "with_score": "得分為 {{winningScore}}",
+      "well_done": "幹得好，了不起的工作！",
+      "share": "分享",
+      "copied_success": "消息已複製到剪貼板"
+    }
+  },
+  "help": {
+    "add_friends_title": "如何添加好友？",
+    "add_friends_p1": "你可以通過四種方式添加好友。從底部菜單最右側進入好友頁面，然後點擊“添加”按鈕。",
+    "add_friends_p2": "通過對方的<strong>好友密鑰</strong>添加好友。",
+    "add_friends_p3": "通過搜索好友的名字找到他們。找到後，可以向他們發送好友請求。",
+    "add_friends_p4": "把你的<strong>好友密鑰</strong>發給好友，對方就可以添加你。",
+    "add_friends_p5": "你的密鑰：",
+    "add_friends_p6": "把邀請連結發給好友。你可以在“添加好友”頁面複製連結。對方打開連結後，你們就會成為好友。",
+    "friend_gone_title": "我找不到我的好友了",
+    "friend_gone_p1": "請確認你沒有<strong>誤屏蔽對方</strong>。你和搭檔都應在好友頁面勾選“顯示已屏蔽”。你可以從底部菜單最右側進入好友頁面。",
+    "stars_title": "明星是如何工作的？",
+    "stars_p1": "每副牌都有一個星級評分：<strong>0-3</strong>",
+    "stars_p2": "您做得越好，獲得的星星就越多。",
+    "stars_p3": "星星的授予依據是把<strong>你的定約</strong>與<strong>標準定約</strong>進行比較（也就是基於雙明手分析得出的理論最佳定約）。",
+    "stars_rainbow_subtitle": "彩虹效應",
+    "stars_p4": "如果您大大超過了<strong>標準定約</strong>（您的分數遠高於 3 顆星的要求），您將看到星星上出現彩虹效應。如果機器人錯過了比賽，或者您在某件事上加倍了它們，通常會發生這種情況！",
+    "robots_title": "機器人如何工作？",
+    "robots_subtitle1": "沒有機器人",
+    "robots_p1": "您將無爭議地叫牌。",
+    "robots_subtitle2": "基礎機器人",
+    "robots_p2": "它們會叫出自己最好的花色，並根據雙方的綜合長度和實力競爭到合理的高度。",
+    "robots_subtitle3": "高級機器人",
+    "robots_p3": "它們會像真人一樣叫牌（在大多數情況下），並使用 5-5-3-3 或“較好低花”體系。",
+    "robots_p4": "其他功能包括：",
+    "robots_ul_li1": "15-17 NT",
+    "robots_ul_li2": "弱二開叫",
+    "robots_ul_li3": "技術性加倍",
+    "robots_ul_li4": "平衡位置叫牌",
+    "robots_ul_li5": "懲罰性加倍",
+    "robots_subtitle4": "注意事項",
+    "robots_p5": "機器人可能會隨著更新而改變，這可能會導致不同搭檔在同一副牌上的體驗略有不同。",
+    "robots_p6": "您將能夠看到其他配對的結果，即使他們使用其他機器人 - 這可能看起來令人困惑。",
+    "robots_p7": "模擬時，評分不會使用機器人的叫牌——因此，在決定定約時，機器人的叫牌不能用來決定長度或榮譽。",
+    "robots_p8": "這一規則的例外是某些牌型會要求機器人進行開叫或爭叫，例如阻擊練習。在這種情況下，模擬會把它們的叫牌作為輸入。",
+    "lia_title": "莉亞 - 機器人是誰？",
+    "lia_p1": "Lia 是 IntoBridge 的叫牌機器人。您可以通過在下拉列表中選擇莉亞作為您的搭檔來與她一起練習。",
+    "lia_p2": "Lia 使用 SAYC 2/1 系統，並會解釋她自己的叫牌以及她對您的叫牌的解釋。",
+    "lia_p3": "請注意，雖然莉亞可以叫牌很好，但她絕不是專家，並且會犯錯誤。請大家理解！",
+    "percentage_title": "每副牌的百分比是什麼意思？",
+    "percentage_p1": "除了星級評分（你的結果會與該副牌的理論最佳結果比較）之外，你還會與所有<strong>其他搭檔</strong>在同一副牌上的結果進行比較。",
+    "percentage_p2": "為此，使用了賽點系統。",
+    "percentage_p3": "評級範圍為<strong>0-100%</strong>。",
+    "percentage_p4": "100% 意味著您獨自找到了最好的定約，50% 意味著您得到了平均結果。",
+    "scoring_title": "評分如何運作？",
+    "scoring_p1": "每副牌都會經過多次模擬，根據<strong>雙明手*分析</strong>計算出最佳定約。",
+    "scoring_p2": "隨後會把你和搭檔達到的定約，與期望值最高的最佳定約進行比較（例如無局做成 3NT 得 400 分）。",
+    "scoring_p3": "您越接近最佳定約，您獲得的星星就越多（0-3）。",
+    "scoring_p4": "你還可以看到每副牌上的百分比，這是基於賽點、與所有打過同一副牌的玩家結果進行的比較。",
+    "scoring_p5": "請注意，進行模擬時不會考慮機器人叫牌。",
+    "scoring_p6": "*雙明手錶示電腦知道所有手牌並能完美打牌，不過我們也會對結果做調整，使其更接近人類實戰。",
+    "why_subscribe_title": "如果我訂閱我會得到什麼？",
+    "subscriptions": "比較訂閱",
+    "why_subscribe_p1": "訂閱後，您可以解鎖 Cuebids 的更多功能，並可以增強您的練習。您的訂閱級別越高，您解鎖的功能就越多。紅桃訂閱者可以訪問一切。以下是您可以解鎖的一些內容：",
+    "why_subscribe_ul_li1": "更多牌局類型",
+    "why_subscribe_ul_li2": "每個月都有更多門票",
+    "why_subscribe_ul_li3": "創建您自己的牌局類型（場景）",
+    "why_subscribe_ul_li4": "創建您自己的群組",
+    "why_subscribe_ul_li5": "與 Lia 一起參加挑戰",
+    "why_subscribe_p2": "您的支持使我們能夠在 Cuebids 上做更多的工作並為每個人改進它。感謝您的支持！",
+    "why_subscribe_store_button": "點擊這裡前往我們的商店",
+    "subscribe_title": "我如何訂閱？",
+    "subscribe_store_button": "點擊這裡前往我們的商店",
+    "subscribe_p1": "在網絡瀏覽器或 iOS 應用程序中訪問 Cuebids。目前，無法通過 Android 應用程序訂閱。",
+    "subscribe_p2": "然後轉到商店（起始頁上的心形圖標）並選擇訂閱級別。",
+    "tickets_title": "什麼是門票？",
+    "tickets_p1": "門票用於參加每日/每週挑戰、排位挑戰，或與高級機器人一起練習。",
+    "tickets_p2": "你每個月都會收到新門票。支持者可以獲得更多門票：梅花訂閱者每月 96 張，方塊訂閱者每月 240 張，紅桃訂閱者無限。你也可以單獨購買門票。",
+    "tickets_p3": "請前往商店瞭解更多詳情。",
+    "tickets_store_button": "點擊這裡前往我們的商店",
+    "events_title": "挑戰如何運作？",
+    "events_p1": "目前有兩個正在進行的挑戰：",
+    "events_ul_li1": "<strong>每週挑戰</strong> - 24 副牌，每週一 00:00（CET）重新開始。",
+    "events_ul_li2": "<strong>每日挑戰</strong> - 8 副牌，每天 00:00（CET）重新開始。",
+    "events_p2": "在“挑戰”頁面上與搭檔一起參加這些挑戰。你可以隨時完成挑戰，但如果沒有按時完成，就不會計入排行榜。",
+    "events_p3": "嘗試獲得儘可能多的星星，以在排行榜上排名靠前。獲勝者（可能並列）會在個人資料中獲得相應的勝利記錄。",
+    "events_p4": "團體還可以舉辦自己的私人活動。",
+    "ranking_title": "排名系統如何運作？",
+    "ranking_p1": "排位挑戰有單獨的排名系統。",
+    "ranking_ul_li1": "每位玩家都有一個隱藏的 ELO 分數，用於匹配實力接近的對手。",
+    "ranking_ul_li2": "贏得挑戰會獲得一顆星，輸掉挑戰會失去一顆星（這裡的星星不同於你在 Cuebids 每副牌中獲得的星星）。",
+    "ranking_ul_li3": "當你擁有 5 顆星並再贏一場時，就會晉級到下一級別（J / Q / K / A）。",
+    "ranking_ul_li4": "達到 A 級 5 顆星後，你的 ELO 分數會顯示出來，並用於決定玩家前 10 名排名。",
+    "ranking_p2": "祝你好運！",
+    "contact_title": "我怎樣才能聯繫你？",
+    "contact_link": "點擊這裡前往聯繫頁面",
+    "social_media_title": "社交媒體",
+    "social_media_info": "可以在各種社交媒體上找到 Cuebids",
+    "social_media_youtube": "Youtube頻道",
+    "social_media_facebook": "Facebook 頁面",
+    "release_notes_title": "發行說明在哪裡？",
+    "release_notes_link": "點擊這裡前往發行說明"
+  },
+  "contact": {
+    "category_bug": "蟲子",
+    "category_feature_request": "功能請求",
+    "category_feedback": "反饋意見",
+    "category_other": "其他",
+    "notification_success": "感謝您的反饋",
+    "junior_free_title": "U18 免費訂閱",
+    "junior_free_text": "如果您是U18少年<strong>點擊此處</strong>申請免費訂閱。",
+    "category_dropdown_label": "類別",
+    "message_label": "留言",
+    "message_placeholder": "在此輸入您的反饋...",
+    "contact_details_label": "聯繫方式",
+    "contact_details_placeholder": "如果您希望得到回覆，請發送電子郵件至此處",
+    "submit": "提交{{category}}",
+    "contact_us": "您還可以通過以下方式聯繫我們",
+    "or": "或",
+    "join_discord": "加入我們的Discord"
+  },
+  "contact_sales": {
+    "title": "高級組",
+    "p1": "您是橋牌教練或老師嗎？您領導一支認真的橋牌團隊嗎？",
+    "p2_pre_link": "那麼我們的<strong>VIP 群組</strong>就是為你設計的。請聯繫我們的",
+    "p2_post_link": "申請 VIP 群組。",
+    "p3": "我們將根據您的喜好設計群組，為您添加相關功能。我們對您的想法持開放態度，但以下是我們的一些想法：",
+    "ul_li1": "所有會員均可享受 Cuebids 訂閱或享受折扣",
+    "ul_li2": "每副牌的討論串",
+    "ul_li3": "特殊角色，例如教練或教師，具有特殊的訪問權限和功能",
+    "ul_li3_ul_li1": "查看學生的進步",
+    "ul_li3_ul_li2": "點評玩家的叫牌",
+    "ul_li4": "組內統計/表現"
+  },
+  "contact_junior": {
+    "category": "初級申請",
+    "notification_success": "謝謝！我們將檢查您的申請。",
+    "notification_error": "出了點問題:(",
+    "already_applied": "你的青少年身份已審核過，因此不能在這裡再次申請。如果情況不對，請聯繫我們。",
+    "info": "請輸入您的全名、國家/地區和出生年份",
+    "name_label": "全名",
+    "name_placeholder": "名字、姓氏",
+    "country_label": "國家",
+    "country_placeholder": "瑞典",
+    "birthyear_label": "出生年份",
+    "birthyear_placeholder": "2009年",
+    "submit": "申請",
+    "contact_us": "您還可以通過以下方式聯繫我們",
+    "or": "或",
+    "join_discord": "加入我們的Discord"
+  },
+  "apps": {
+    "apps_title": "下載應用程序",
+    "apps_p1": "看起來您正在使用移動設備 📱",
+    "apps_p2": "下載該應用程序以充分利用 Cuebids！",
+    "app_store_alt_text": "Apple App Store 上的 Cuebids",
+    "google_play_alt_text": "Google Play 商店中的 Cuebids",
+    "prefer_web": "我更喜歡網頁版"
+  },
+  "event_leaderboard": {
+    "continue": "繼續挑戰",
+    "completed": "挑戰已完成",
+    "to_start": "開始",
+    "friends": "好友",
+    "participants": "{{count}} 對已參加此挑戰",
+    "your_position": "您的位置：{{position}}，共 {{count}} 對",
+    "leaderboard_minimum": "排行榜至少需要考慮 {{count}} 顆星。",
+    "leaderboard_title": "挑戰最佳"
+  },
+  "events": {
+    "partner": "搭檔",
+    "progress": "進展",
+    "received_invites": "收到邀請",
+    "sent_invites": "已發送邀請",
+    "warning_partner_requires_invite": "你的搭檔需要獲得邀請才能與你一起參加挑戰",
+    "pending_invite_error": "你有一個待處理的挑戰邀請。請先接受或拒絕，再和其他人一起加入。",
+    "join_error": "加入挑戰時出錯 {{error}}",
+    "weekly_headline": "每週挑戰",
+    "daily_headline": "每日挑戰",
+    "description": "與高級機器人一起打 {{count}} 副牌",
+    "partner_label": "搭檔",
+    "lia_sub_error": "你需要方塊訂閱才能在挑戰中與 Lia 一起玩。",
+    "lia_warning_title": "從莉亞開始？",
+    "lia_warning_info": "你即將和 Lia 一起參加這個{{event}}。每個挑戰只能參加一次，因此你無法再和其他搭檔一起參加。",
+    "lia_warning_cancel": "取消",
+    "lia_warning_confirm": "從莉亞開始",
+    "already_participating_error": "你已經參加了此挑戰。",
+    "partner_participating_error": "你的搭檔已經參加此挑戰。",
+    "banned_error": "您的帳戶已暫時停止參加競技比賽。",
+    "partner_banned_error": "你的搭檔帳戶已被暫時禁止參加競技比賽。",
+    "invite_sent": "邀請已發送給{{friend}}！",
+    "join_submit": "參加挑戰",
+    "price_dialog_title": "參加挑戰",
+    "price_dialog_submit": "加入",
+    "error_cannot_afford": "門票不足，無法開始。",
+    "error_partner_cannot_afford": "你的搭檔負擔不起所需費用。",
+    "error_already_playing": "你已經在玩了",
+    "error_partner_already_playing": "你的搭檔已經在玩了",
+    "error_already_playing_together": "您和您的搭檔已經一起玩了",
+    "error_joining_events_disabled": "你的搭檔禁止你使用他們的門票並參加挑戰",
+    "error_ticket_usage_disabled": "你的搭檔不允許你使用他們的門票",
+    "error_friend_invites_disabled": "你的好友已關閉挑戰邀請",
+    "error_invite_not_for_you": "這不是發給你的邀請",
+    "error_invite_expired": "此邀請已過期",
+    "error_event_ended": "本次挑戰已經結束"
+  },
+  "add_friend": {
+    "link_error": "你應該把這個連結發給好友。",
+    "own_key_error": "請輸入好友的密鑰，不是你自己的。",
+    "link_copied": "好友連結已複製！",
+    "adding_friend_loading": "正在添加好友...",
+    "no_key_info": "你還沒有好友密鑰 - <strong>立即生成一個</strong>",
+    "no_name_info": "你還沒有設置顯示名稱 - <strong>前往設置</strong>",
+    "your_key": "你的密鑰：",
+    "disable_key_label": "禁用",
+    "new_key_button": "新",
+    "disable_key_info": "其他人將無法通過你的好友密鑰添加你。",
+    "add_by_key_info": "輸入好友密鑰，然後點擊<strong>添加好友</strong>",
+    "key_placeholder": "ABCD01",
+    "add_by_key_button": "添加好友",
+    "or": "或",
+    "link_info": "把這個連結發給好友",
+    "copy_link_button": "複製連結",
+    "request_sent_notification": "好友請求已發送至 {{displayName}}",
+    "search_name_label": "搜索用戶名",
+    "search_name_placeholder": "用戶名",
+    "search_name_button": "搜索",
+    "search_results_count": "結果 ({{count}})",
+    "send_request_button": "好友請求",
+    "search_results_empty": "沒有搜索結果",
+    "blocked_error": "這位好友屏蔽了你，希望只是誤操作！請對方點擊上方的“顯示已屏蔽”，再按取消屏蔽按鈕。",
+    "key_disabled_error": "這位好友已關閉通過好友密鑰添加。他們可以在“好友”頁面重新啟用。",
+    "no_friend_error": "找不到擁有該好友密鑰的人",
+    "friend_added": "添加了 {{displayName}}",
+    "already_friends_error": "{{displayName}} 已在您的列表中",
+    "status_you": "你",
+    "status_mutual": "好友",
+    "status_pending": "邀請了你",
+    "status_blocked": "被阻止",
+    "status_following": "正在關注",
+    "follow_notification": "你已關注 {{displayName}}",
+    "follow_button": "關注",
+    "status_request_sent": "請求已發送",
+    "how_to": {
+      "open_dialog_button": "如何添加好友",
+      "pending_requests_info": "你們沒有共同好友。也許你的搭檔還沒有接受你的好友請求。",
+      "title": "添加好友",
+      "info": "您可以通過四種方式添加好友。",
+      "friend_key_info": "通過對方的<strong>好友密鑰</strong>添加好友。",
+      "search_info": "通過搜索好友的名字找到他們。找到後，可以向他們發送好友請求。",
+      "send_friend_key_info": "把你的<strong>好友密鑰</strong>發給好友，對方就可以添加你。",
+      "your_key": "你的密鑰：",
+      "link_info": "把邀請連結發給好友。對方打開連結後，你們就會成為好友。"
+    }
+  },
+  "friends_page": {
+    "my_key": "我的密鑰：",
+    "add_button": "添加",
+    "show_blocked_count": "顯示已阻止 ({{count}})",
+    "show_blocked": "顯示已阻止",
+    "friends_count": "好友 ({{count}})",
+    "friends_section_title": "好友 ({{count}})",
+    "following_section_title": "關注中 ({{count}})",
+    "pending_section_title": "待處理 ({{count}})",
+    "blocked_section_title": "已阻止 ({{count}})",
+    "restore": "恢復",
+    "unfollow": "取消關注",
+    "remove": "刪除",
+    "accept": "接受",
+    "block": "屏蔽",
+    "remove_friend_dialog_title": "刪除好友",
+    "remove_friend_dialog_confirm": "確認",
+    "remove_friend_dialog_info": "確定要刪除好友 {{displayName}} 嗎？",
+    "enable_tickets_dialog_title": "啟用門票和挑戰",
+    "disable_tickets_dialog_title": "禁用門票和挑戰",
+    "toggle_tickets_dialog_confirm": "確認",
+    "enable_tickets_dialog_info": "允許這位好友作為你的搭檔使用你的門票，並一起參加每日/每週挑戰和排位挑戰。",
+    "disable_tickets_dialog_info": "這位好友將無法作為你的搭檔使用你的門票，也無法與你一起參加每日/每週挑戰或排位挑戰。",
+    "friend_permissions_dialog_title": "好友權限設置",
+    "friend_permissions_allow_all": "全部允許",
+    "friend_permissions_allow_all_desc": "好友無需你確認，就可以參加挑戰並使用你的門票。",
+    "friend_permissions_allow_tickets_invite_events": "練習 + 邀請參加挑戰",
+    "friend_permissions_allow_tickets_invite_events_desc": "可發起可能使用門票的練習和排位挑戰；參加每日/每週挑戰前需要先邀請你。",
+    "friend_permissions_allow_events_no_tickets": "僅可邀請挑戰",
+    "friend_permissions_allow_events_no_tickets_desc": "好友可以邀請你參加挑戰，但不能使用你的門票。",
+    "friend_permissions_disallow_all": "全部禁止",
+    "friend_permissions_disallow_all_desc": "好友不能使用你的門票，也不能邀請你參加挑戰。",
+    "friend_permissions_confirm": "保存權限設置",
+    "no_friends_added_info": "你還沒有添加任何好友。點擊這裡添加好友。",
+    "all_friends_blocked_info": "您已屏蔽所有好友。打開“已阻止”標籤即可取消屏蔽。",
+    "pending_requests_info": "您有待接受的好友請求",
+    "outstanding_requests_info": "等待好友接受你的好友請求",
+    "no_messages_yet": "暫無消息",
+    "unread_messages": "未讀消息",
+    "open_chat": "打開聊天",
+    "following_info": "你正在關注一些玩家。關注可以用於結果對比，但要一起開始會話仍然需要互為好友。",
+    "cancel_request": "取消請求",
+    "request_sent": "請求已發送",
+    "request_received": "已請求加你",
+    "following": "已關注",
+    "blocked_status": "已屏蔽"
+  },
+  "stats_dashboard": {
+    "tab_pairs": "雙人",
+    "tab_weekly": "每週",
+    "tab_daily": "每日",
+    "pairs_info": "你可以點擊任意搭檔查看更多細節。圖中的每一個點代表一週。",
+    "partner": "搭檔",
+    "deals": "牌局",
+    "stars": "星星",
+    "weekly_info": "你在每週挑戰中的表現",
+    "weekly": "每週",
+    "rank": "排名：{{rank}}",
+    "pairs_count": "{{count}}對",
+    "leaderboard": "排行榜",
+    "select_weekly_info": "選擇每週查看更多詳細信息",
+    "daily_info": "你在每日挑戰中的表現",
+    "daily": "每日",
+    "select_daily_info": "選擇每日查看更多詳細信息",
+    "no_weekly_info": "你在過去 20 周內沒有完成任何每週挑戰",
+    "no_daily_info": "過去 30 天內你沒有完成任何每日挑戰",
+    "load_all": "載入全部"
+  },
+  "history": {
+    "leak_finder_title": "Leak Finder",
+    "leak_finder_info": "查看不同類型牌局的報告，找出你本可以處理得更好的地方。",
+    "dashboard_title": "搭檔、每週、每日",
+    "dashboard_info": "查看你與每個搭檔的平均得分，以及你在每週和每日挑戰中的結果。",
+    "new": "新！"
+  },
+  "stats_overview": {
+    "tab_ranked": "排位",
+    "tab_stars": "星星",
+    "tab_weekly": "每週",
+    "tab_daily": "每日"
+  },
+  "achievements": {
+    "stars": "已完成 {{count}} 顆星！",
+    "acbl_achievement_stars": "Cuebids ACBL 明星成就！",
+    "acbl_achievement_partner_up": "Cuebids ACBL Stars 搭檔成就！",
+    "newsletter": "新聞通訊已註冊！",
+    "error_not_completed": "成就尚未完成！",
+    "error_already_claimed": "成就獎勵已領取！"
+  },
+  "bidding_sessions": {
+    "error_cannot_afford": "門票不足，無法開始。",
+    "error_partner_cannot_afford": "你的搭檔負擔不起所需費用。",
+    "error_tickets_spending_disabled": "你的搭檔不允許你使用他們的門票",
+    "error_missing_partner": "缺少搭檔",
+    "error_generic": "出了點問題",
+    "error_insufficient_deals_scenario": "所選場景的副牌數量不足。",
+    "error_insufficient_deals": "可用副牌數量不足",
+    "coach_joined_chat": "教練已加入聊天"
+  },
+  "storage": {
+    "error_not_image": "不是圖像"
+  },
+  "user_api": {
+    "unknown": "未知"
+  },
+  "code": {
+    "code_claimed": "代碼已領取！",
+    "error_claim": "領取代碼時出錯",
+    "title": "領取代碼",
+    "code_input_label": "在此輸入代碼：",
+    "code_input_placeholder": "代碼在這裡",
+    "claim_submit_button": "領取",
+    "claim_successful_info": "請查看你的收件箱",
+    "Code not found": {
+      "": "未找到代碼"
+    },
+    "Code has expired": {
+      "": "代碼已過期"
+    },
+    "You can only claim a referral code once": {
+      "": "每個推薦代碼只能領取一次。"
+    }
+  },
+  "ccp": {
+    "history": "歷史",
+    "season": "賽季",
+    "number_of_participants": "{{numberOfParticipants}} 名玩家",
+    "rank": "排名：{{rank}}",
+    "tab_leaders": "排行榜",
+    "not_top_1000": "你沒有進入前1000名",
+    "tab_mine": "我",
+    "points": "積分",
+    "type": "類型",
+    "date": "日期",
+    "info": {
+      "coming_soon": "即將推出",
+      "earn_points": "通過參與賺取積分",
+      "cuebids_events": "Cuebids 挑戰",
+      "and": "和",
+      "ranked_challenges": "排位挑戰",
+      "compete": "與其他玩家競爭並登上排行榜",
+      "point_system": "積分規則",
+      "daily": "每日挑戰",
+      "complete_daily": "按時完成每日挑戰：<strong>10 分</strong>",
+      "score_daily": "每擊敗一對可獲得 <strong>1 分</strong>",
+      "weekly": "每週挑戰",
+      "complete_weekly": "按時完成每週挑戰：<strong>70 分</strong>",
+      "score_weekly": "每擊敗一對可獲得 <strong>3 分</strong>",
+      "ranked": "排位挑戰",
+      "win_ranked": "贏得排位挑戰：<strong>3-1 分</strong>",
+      "season_cycle": "賽季週期",
+      "season_resets": "賽季每隔一個月重置一次",
+      "double_time": "<strong class=\"text-secondary font-bold\">雙倍積分</strong>在賽季最後兩週內獲得"
+    }
+  },
+  "leak_finder": {
+    "title": "Leak Finder",
+    "coming_soon": "即將推出！",
+    "select_partner": "選擇搭檔，查看你們可以改進的領域",
+    "no_reports": "你和所選搭檔還沒有報告。多叫幾副牌，每週就會生成一份報告！",
+    "aggregate_reports": {
+      "slam": "滿貫",
+      "major": "1M開叫",
+      "game": "成局",
+      "competition": "競爭性叫牌",
+      "shapes_opening": "開叫牌型",
+      "fits": "配合",
+      "balanced": "均型牌",
+      "conventions": "約定叫",
+      "misc": "其他",
+      "defence": "防守"
+    },
+    "reports": {
+      "slam_too_high": "過高",
+      "missed_slam": "錯失滿貫",
+      "wrong_slam": "錯誤滿貫",
+      "game_too_high": "過高",
+      "missed_game": "錯失成局",
+      "wrong_game": "錯誤成局",
+      "jacoby": "雅各比",
+      "splinter": "Splinter",
+      "two_over_one": "二蓋一",
+      "contested": "競爭性叫牌",
+      "defence": "防守",
+      "high_level": "高階",
+      "one_suited_opening": "單套型",
+      "two_suited_opening": "雙套型",
+      "three_suited_opening": "三套型",
+      "big_fit": "大配合",
+      "double_fit": "雙配合",
+      "misfit": "無配合",
+      "1N_opening": "1NT開叫",
+      "major_fit_balanced": "高花配合",
+      "minor_fit_balanced": "低花配合",
+      "checkback": "回查",
+      "gazzilli": "加齊利",
+      "strong": "強牌",
+      "1N_defence": "1NT防守",
+      "pre_empt_defence": "阻擊防守",
+      "two_suited_defence": "雙套型"
+    },
+    "reports_with_count": {
+      "slam_too_high": "過高",
+      "missed_slam": "錯失滿貫",
+      "wrong_slam": "錯誤滿貫",
+      "game_too_high": "過高",
+      "missed_game": "錯失成局",
+      "wrong_game": "錯誤成局",
+      "jacoby": "雅各比",
+      "splinter": "Splinter",
+      "two_over_one": "二蓋一",
+      "contested": "競爭性叫牌",
+      "defence": "防守",
+      "high_level": "高階",
+      "one_suited_opening": "單套型",
+      "two_suited_opening": "雙套型",
+      "three_suited_opening": "三套型",
+      "big_fit": "大配合",
+      "double_fit": "雙配合",
+      "misfit": "無配合",
+      "1N_opening": "1NT開叫",
+      "major_fit_balanced": "高花配合",
+      "minor_fit_balanced": "低花配合",
+      "checkback": "回查",
+      "gazzilli": "加齊利",
+      "strong": "強牌",
+      "1N_defence": "1NT防守",
+      "pre_empt_defence": "阻擊防守",
+      "two_suited_defence": "雙套型"
+    },
+    "report_details": "{{relevant}} 個，共 {{total}} 個",
+    "over_deals": "超過 {{deals}} 副牌",
+    "average": "平均<strong>{{average}}</strong>",
+    "cuebids_average": "Cuebids 平均分<strong>{{average}}</strong>",
+    "previous_report": "上一份報告",
+    "next_report": "下一份報告",
+    "latest_report": "最新",
+    "previous": "上一篇：",
+    "hide_deal": "隱藏",
+    "show_deal": "顯示",
+    "no_report_deals": "沒有表現不佳的牌局。幹得好！",
+    "sub_not_enough": "你需要 {{subscription}} 訂閱才能查看此報告詳情。",
+    "go_to_store": "點擊此處前往商店",
+    "how_it_works": "工作原理",
+    "how_it_works_title": "Leak Finder 的工作原理",
+    "what_is_leak_finder": "Leak Finder 是什麼？",
+    "leak_finder_explanation": "Leak Finder 是一款分析工具，可以找出你和搭檔在叫牌中最值得改進的領域。它會顯示導致某類弱點的具體牌局，幫助你們找到可以討論的地方。分析只包含練習、每週挑戰、每日挑戰、群組牌局和挑戰中的牌局。",
+    "leak_finder_how_it_works": "分析你的牌局後，Leak Finder 會顯示你在每個類別中的平均評分，並與其他玩家進行比較。劍形圖標會根據你的相對錶現顯示不同顏色。",
+    "categories_title": "報告類別",
+    "category_explanation_title": "類別說明",
+    "rating_system_title": "評級系統",
+    "rating_system_explanation": "你可以查看每個類別的平均評分。劍形圖標的顏色表示你與其他玩家相比的表現：",
+    "legend_title": "圖例",
+    "legend_green": "高於平均水平 - 你在該類別中表現優於大多數玩家",
+    "legend_yellow": "低於平均水平但接近 - 還有改進的空間",
+    "legend_red": "明顯低於平均水平（低於 0.5+ 分）——這是需要重點關注的關鍵領域",
+    "subcategories": "分析的具體領域",
+    "how_to_use": "如何使用 Leak Finder",
+    "step_1": "從下拉列表中選擇搭檔，查看你們的共同表現報告",
+    "step_2": "點擊任意類別，查看該叫牌領域的詳細分析",
+    "step_3": "查看具體哪些牌局還有改進空間",
+    "step_4": "練習這些薄弱環節，提升整體表現",
+    "note": "注意事項",
+    "reports_generated_weekly": "報告會根據你最近的叫牌牌局每週生成。你打得越多，分析就越準確。",
+    "historical_averages": "歷史平均值",
+    "last_10_reports": "最近 10 份報告",
+    "last_20_reports": "最近 20 份報告",
+    "category_descriptions": {
+      "slam": "分析你的滿貫叫牌決策，包括是否錯過可做成的滿貫、在沒有滿貫時叫得過高，或到達了錯誤的滿貫定約。",
+      "game": "評估你的成局叫牌準確性，包括是否錯過可做成的成局、在沒有成局時叫得過高，或選擇了錯誤的成局定約。",
+      "major": "聚焦以 1♥ 或 1♠ 開叫起步的序列，包括各種約定叫處理以及對高花開叫的應叫。",
+      "defence": "分析對手已經開叫或正在叫牌時你的防守性叫牌決策，包括應對不同開叫和約定叫序列的方式。"
+    },
+    "subcategory_descriptions": {
+      "missed_slam": "原本經常值得叫滿貫，但你停在成局的牌局",
+      "slam_too_high": "你叫到滿貫，但滿貫無法做成的牌局",
+      "wrong_slam": "你叫到滿貫，但花色或線位錯誤的牌局",
+      "missed_game": "原本經常值得叫成局，但你停在部分定約的牌局",
+      "game_too_high": "你叫到成局，但成局無法做成的牌局",
+      "wrong_game": "你叫到成局，但定約花色錯誤的牌局",
+      "jacoby": "涉及高花開叫後 Jacoby 2NT 應叫的牌局",
+      "splinter": "涉及 Splinter 叫牌（雙跳顯示短缺）的牌局",
+      "two_over_one": "涉及二蓋一成局逼叫應叫的牌局",
+      "1N_defence": "你防守對手 1NT 開叫的牌局",
+      "pre_empt_defence": "你防守對手阻擊叫的牌局",
+      "two_suited_defence": "你防守對手雙套型叫牌的牌局"
+    }
+  }
+}

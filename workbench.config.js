@@ -25,8 +25,12 @@ export default {
       accent: '#ef6a3a',
     },
     zh: {
-      label: 'Mandarin',
+      label: 'Chinese (Simplified)',
       accent: '#c9302c',
+    },
+    'zht': {
+      label: 'Chinese (Traditional)',
+      accent: '#b03f8d',
     },
   },
   datasets: [
@@ -37,7 +41,7 @@ export default {
       kind: 'language-files',
       directory: '.',
       filePattern: '{lang}.json',
-      languages: ['en', 'sv', 'pl', 'fr', 'es', 'zh'],
+      languages: ['en', 'sv', 'pl', 'fr', 'es', 'zh', 'zht'],
       ignorePaths: ['locale', 'lia_lang'],
     },
     {
@@ -47,7 +51,7 @@ export default {
       kind: 'language-files',
       directory: 'app',
       filePattern: '{lang}.json',
-      languages: ['en', 'sv', 'pl', 'fr', 'es', 'zh'],
+      languages: ['en', 'sv', 'pl', 'fr', 'es', 'zh', 'zht'],
       ignorePaths: ['locale', 'lia_lang'],
     },
     {
@@ -57,7 +61,7 @@ export default {
       kind: 'language-files',
       directory: 'native',
       filePattern: '{lang}.json',
-      languages: ['en', 'sv', 'pl', 'fr', 'es', 'zh'],
+      languages: ['en', 'sv', 'pl', 'fr', 'es', 'zh', 'zht'],
     },
     {
       id: 'lia-alerts',
@@ -74,7 +78,7 @@ export default {
       description: 'Push notification titles and bodies',
       kind: 'language-nodes',
       file: 'notifications/notifications.json',
-      languages: ['en', 'sv', 'pl', 'fr', 'es'],
+      languages: ['en', 'sv', 'pl', 'fr', 'es', 'zh', 'zht'],
     },
   ],
 }
