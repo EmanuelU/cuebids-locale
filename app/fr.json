@@ -1420,6 +1420,7 @@
     },
     "event_draft": {
       "error": " Quelque chose s'est mal passé",
+      "rate_limit_error": "Trop de requêtes au moteur de donne. Patientez un peu puis réessayez.",
       "score_all": "Scorer tout",
       "score_all_info": "La notation des enchères sera faite en utilisant la distribution exacte de E/O",
       "create_event": "Créer événement",
@@ -2366,6 +2367,7 @@
     "scenario_edited_success": "Scénario modifié",
     "scenario_created_success": "Scénario créé",
     "scenario_error": " Quelque chose s'est mal passé",
+    "dealer_rate_limit_error": "Trop de requêtes au moteur de donne. Patientez un peu puis réessayez.",
     "generation_ongoing_error": "Génération de donne en cours. Vous pouvez enregistrer la modification une fois celle-ci terminée.",
     "no_changes_error": "Modifiez certaines contraintes du scenario d’origine avant de l’enregistrer en tant que nouveau scénario.",
     "no_constraints_error": "Le scénario n’a pas de contraintes",
@@ -2451,6 +2453,7 @@
     "generation_confirm_title": "Méthode pour la génération",
     "generation_confirm_message": " Préférez-vous une génération rapide (moins de simulations) ?",
     "generation_error": "Quelque chose s'est mal passé avec la génération",
+    "rate_limit_error": "Trop de requêtes de génération. Patientez un peu puis réessayez.",
     "generation_error_text": " Quelque chose s'est mal passé avec la génération",
     "generation_retry_error": "Quelque chose s'est mal passé en réessayant la génération",
     "retry": "Réessayer",

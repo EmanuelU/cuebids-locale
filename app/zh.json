@@ -1442,6 +1442,7 @@
     },
     "event_draft": {
       "error": "出了点问题",
+      "rate_limit_error": "发牌请求过多。请稍等后重试。",
       "score_all": "全部得分",
       "score_all_info": "这将使用 E/W 精确握持来得分",
       "create_event": "创建活动",
@@ -2386,6 +2387,7 @@
     "scenario_edited_success": "场景已编辑",
     "scenario_created_success": "场景已创建",
     "scenario_error": "出了点问题",
+    "dealer_rate_limit_error": "发牌请求过多。请稍等后重试。",
     "generation_ongoing_error": "牌局生成正在进行中。完成后您可以保存编辑。",
     "no_changes_error": "在另存为新场景之前，更改原始场景的一些约束。",
     "no_constraints_error": "场景没有限制",
@@ -2471,6 +2473,7 @@
     "generation_confirm_title": "生成方法",
     "generation_confirm_message": "您喜欢快速生成（更少的模拟）吗？",
     "generation_error": "一代出了问题",
+    "rate_limit_error": "生成请求过多。请稍等后重试。",
     "generation_error_text": "一代出了问题",
     "generation_retry_error": "重试生成时出现问题",
     "retry": "重试",

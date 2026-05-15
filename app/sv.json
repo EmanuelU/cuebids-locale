@@ -1420,6 +1420,7 @@
     },
     "event_draft": {
       "error": "Något gick fel",
+      "rate_limit_error": "För många förfrågningar till givmotorn. Vänta en stund och försök igen.",
       "score_all": "Scora alla",
       "score_all_info": "Detta kommer att scora givarna med Ö/V:s exakta kort",
       "create_event": "Skapa event",
@@ -2366,6 +2367,7 @@
     "scenario_edited_success": "Scenario ändrat",
     "scenario_created_success": "Scenario skapat",
     "scenario_error": "Något gick fel",
+    "dealer_rate_limit_error": "För många förfrågningar till givmotorn. Vänta en stund och försök igen.",
     "generation_ongoing_error": "Givgenerering pågår. Du kan spara ändringar när den är klar.",
     "no_changes_error": "Ändra några begränsningar från ursprungsscenariot innan du sparar som ny.",
     "no_constraints_error": "Scenariot har inga begränsningar",
@@ -2451,6 +2453,7 @@
     "generation_confirm_title": "Genereringsmetod",
     "generation_confirm_message": "Föredrar du snabb generering (färre simuleringar)?",
     "generation_error": "Något gick fel med genereringen",
+    "rate_limit_error": "För många genereringsförsök. Vänta en stund och försök igen.",
     "generation_error_text": "Något gick fel med genereringen",
     "generation_retry_error": "Något gick fel med det nya försöket att generera",
     "retry": "Försök igen",

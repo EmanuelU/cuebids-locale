@@ -1420,6 +1420,7 @@
     },
     "event_draft": {
       "error": "Coś poszło nie tak",
+      "rate_limit_error": "Za dużo żądań do silnika rozdań. Poczekaj chwilę i spróbuj ponownie.",
       "score_all": "Punktuj wszystkie",
       "score_all_info": "To rozdanie będzie ocenione na podstawie tego samego rozkładu kart E/W",
       "create_event": "Utwórz wydarzenie",
@@ -2366,6 +2367,7 @@
     "scenario_edited_success": "Scenariusz zedytowany",
     "scenario_created_success": "Scenariusz utworzony",
     "scenario_error": "Coś poszło nie tak",
+    "dealer_rate_limit_error": "Za dużo żądań do silnika rozdań. Poczekaj chwilę i spróbuj ponownie.",
     "generation_ongoing_error": "Generowanie rozdań w toku. Będziesz mógł zapisać tę edycję, gdy się skończy.",
     "no_changes_error": "Zmień niektóre ograniczenia oryginalnego scenariusza, zanim zapiszesz jako nowy.",
     "no_constraints_error": "Scenariusz nie ma żadnych ograniczeń",
@@ -2451,6 +2453,7 @@
     "generation_confirm_title": "Metoda generacji",
     "generation_confirm_message": "Czy wolisz szybką generację (mniej symulacji)?",
     "generation_error": "Coś poszło nie tak z generacją",
+    "rate_limit_error": "Za dużo żądań generowania. Poczekaj chwilę i spróbuj ponownie.",
     "generation_error_text": "Coś poszło nie tak z generacją",
     "generation_retry_error": "Coś poszło nie tak podczas ponownej próby generacji",
     "retry": "Spróbuj ponownie",

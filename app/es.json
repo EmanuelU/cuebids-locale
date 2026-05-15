@@ -1424,6 +1424,7 @@
     },
     "event_draft": {
       "error": "Algo salió mal",
+      "rate_limit_error": "Demasiadas solicitudes al repartidor. Espera un poco e inténtalo de nuevo.",
       "score_all": "Puntuar todo",
       "score_all_info": "Esto puntuará las manos usando la distribución exacta de E/O.",
       "create_event": "Crear evento",
@@ -2366,6 +2367,7 @@
     "scenario_edited_success": "Escenario editado",
     "scenario_created_success": "Escenario creado",
     "scenario_error": "Algo salió mal",
+    "dealer_rate_limit_error": "Demasiadas solicitudes al repartidor. Espera un poco e inténtalo de nuevo.",
     "generation_ongoing_error": "La generación de manos sigue en curso. Podrás guardar la edición cuando termine.",
     "no_changes_error": "Cambia algunas restricciones del escenario original antes de guardarlo como nuevo.",
     "no_constraints_error": "El escenario no tiene restricciones",
@@ -2451,6 +2453,7 @@
     "generation_confirm_title": "Método de generación",
     "generation_confirm_message": "¿Prefieres una generación rápida (menos simulaciones)?",
     "generation_error": "Algo salió mal durante la generación",
+    "rate_limit_error": "Demasiadas solicitudes de generación. Espera un poco e inténtalo de nuevo.",
     "generation_error_text": "Algo salió mal durante la generación",
     "generation_retry_error": "Algo salió mal al reintentar la generación",
     "retry": "Reintentar",

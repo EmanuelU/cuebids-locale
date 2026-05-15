@@ -1439,6 +1439,7 @@
     },
     "event_draft": {
       "error": "Something went wrong",
+      "rate_limit_error": "Too many dealer requests. Please wait a bit and try again.",
       "score_all": "Score all",
       "score_all_info": "This will score hands using E/W exact holding",
       "create_event": "Create event",
@@ -2387,6 +2388,7 @@
     "scenario_edited_success": "Scenario edited",
     "scenario_created_success": "Scenario created",
     "scenario_error": "Something went wrong",
+    "dealer_rate_limit_error": "Too many dealer requests. Please wait a bit and try again.",
     "generation_ongoing_error": "Deal generation ongoing. You can save edit once it is done.",
     "no_changes_error": "Change some constraints from the original scenario before you save as new.",
     "no_constraints_error": "Scenario has no constraints",
@@ -2472,6 +2474,7 @@
     "generation_confirm_title": "Generation method",
     "generation_confirm_message": "Do you prefer fast generation (fewer simulations)?",
     "generation_error": "Something went wrong with generation",
+    "rate_limit_error": "Too many generation requests. Please wait a bit and try again.",
     "generation_error_text": "Something went wrong with generation",
     "generation_retry_error": "Something went wrong with retrying generation",
     "retry": "Retry",
