@@ -2390,6 +2390,7 @@
     "invalid_user_warning": "紅桃訂閱用戶可以創建個人牌型",
     "subscribe_here": "在此訂閱",
     "testing_contraints_dialog_title": "測試限制",
+    "testing_contraints_dialog_rotated_badge": "已旋轉",
     "testing_contraints_dialog_cancel": "取消",
     "testing_contraints_dialog_save": "保存",
     "testing_contraints_dialog_save_edit": "保存編輯",

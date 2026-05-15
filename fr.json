@@ -2389,6 +2389,7 @@
     "invalid_user_warning": "Les abonnés coeur peuvent créer des types de donne personnels",
     "subscribe_here": "Abonnez-vous ici",
     "testing_contraints_dialog_title": "Test des contraintes",
+    "testing_contraints_dialog_rotated_badge": "Pivotée",
     "testing_contraints_dialog_cancel": "Annuler",
     "testing_contraints_dialog_save": "Enregistrer",
     "testing_contraints_dialog_save_edit": "Enregistrer les modifications",

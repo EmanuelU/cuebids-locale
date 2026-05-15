@@ -2389,6 +2389,7 @@
     "invalid_user_warning": "Heart subscribers can create personal deal types",
     "subscribe_here": "Subscribe here",
     "testing_contraints_dialog_title": "Testing constraints",
+    "testing_contraints_dialog_rotated_badge": "Rotated",
     "testing_contraints_dialog_cancel": "Cancel",
     "testing_contraints_dialog_save": "Save",
     "testing_contraints_dialog_save_edit": "Save edit",
