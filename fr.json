@@ -628,6 +628,7 @@
     "expired_reasons": {
       "session-expired": "Session expirée",
       "auto-archived-old-session": "Automatiquement archivée en raison d'inactivité",
+      "engine-version-expired": "Session expirée car elle utilise une ancienne version du robot",
       "challenge-expired": "Défi expiré",
       "session-deleted-by-user": "Session supprimée par l'utilisateur"
     },
@@ -1679,6 +1680,7 @@
     "undo_failed_competition": ". En compétition, vous avez seulement 30 secondes pour annuler votre enchère.",
     "double_undo_confirm": "Etes-vous sûr de vouloir aussi annuler la dernière enchère de votre partenaire ?",
     "not_recommended_confirm": "Ce n’est pas ce que je recommanderais. Etes-vous sûr de vouloir faire cette enchère ?",
+    "engine_version_expired": "Désolé, cette session utilisait un ancien moteur robot qui n'est plus disponible. Elle a donc expiré.",
     "waiting_for_partner": "En attente du partenaire...",
     "auto_undo_offline": "Votre enchère en attente a été automatiquement annulée en raison d'une perte de connexion",
     "waiting_for": "En attente de...",
@@ -1724,10 +1726,12 @@
     "send_to_friend_pair_info": "Créez une nouvelle session d'entraînement à partir de cette donne pour deux amis choisis. La session restera aussi partagée avec vous pour que vous puissiez la suivre.",
     "start_replay": "Lancer le rejeu",
     "send_replay": "Envoyer le rejeu",
+    "send_replay_success": "Rejeu envoyé",
     "creating_replay": "Création du rejeu...",
     "replay_error": "Impossible de lancer le rejeu. {{error}}",
     "send_replay_error": "Impossible d'envoyer le rejeu. {{error}}",
     "replay_generic_error": "Un problème est survenu lors de la création de la session de rejeu.",
+    "replay_engine_version_warning": "Ce rejeu utilise le moteur robot actuel ({{replayRobotVersion}}). L'original utilisait {{sourceRobotVersion}}, la séquence d'enchères peut donc différer.",
     "no_replay_friends_available": "Aucun ami mutuel n'autorise actuellement les sessions de rejeu.",
     "contracts": "Contrats",
     "stars": "Etoiles",

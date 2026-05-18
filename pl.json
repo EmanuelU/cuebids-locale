@@ -628,6 +628,7 @@
     "expired_reasons": {
       "session-expired": "Sesja wygasła",
       "auto-archived-old-session": "Automatycznie zarchiwizowana z powodu braku aktywności",
+      "engine-version-expired": "Sesja wygasła, ponieważ używa starej wersji robota",
       "challenge-expired": "Wyzwanie wygasło",
       "session-deleted-by-user": "Sesja usunięta przez użytkownika"
     },
@@ -1679,6 +1680,7 @@
     "undo_failed_competition": "W grach rankingowych masz tylko 30 sekund na cofnięcie odzywki.",
     "double_undo_confirm": "Czy na pewno chcesz cofnąć również ostatnią odzywkę partnera?",
     "not_recommended_confirm": "Nie polecam tego tej odzywki. Czy na pewno chcesz to zalicytować?",
+    "engine_version_expired": "Przepraszamy, ta sesja używała starego silnika robota, który nie jest już dostępny, więc sesja wygasła.",
     "auto_undo_offline": "Twoja oczekująca odzywka została automatycznie anulowana z powodu utraty połączenia",
     "waiting_for_partner": "Oczekiwanie na partnera...",
     "waiting_for": "Oczekiwanie na...",
@@ -1724,10 +1726,12 @@
     "send_to_friend_pair_info": "Utwórz nową sesję treningową z tego rozdania dla dwojga wybranych znajomych. Sesja będzie też udostępniona Tobie, abyś mógł ją śledzić.",
     "start_replay": "Rozpocznij powtórkę",
     "send_replay": "Wyślij powtórkę",
+    "send_replay_success": "Powtórka wysłana",
     "creating_replay": "Tworzenie powtórki...",
     "replay_error": "Nie udało się rozpocząć powtórki. {{error}}",
     "send_replay_error": "Nie udało się wysłać powtórki. {{error}}",
     "replay_generic_error": "Wystąpił problem podczas tworzenia sesji powtórkowej.",
+    "replay_engine_version_warning": "Ta powtórka używa aktualnego silnika robota ({{replayRobotVersion}}). Oryginał używał {{sourceRobotVersion}}, więc licytacja może się różnić.",
     "no_replay_friends_available": "Żaden wzajemny znajomy nie pozwala obecnie na sesje powtórkowe.",
     "contracts": "Kontrakty",
     "stars": "Gwiazdki",

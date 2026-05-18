@@ -629,6 +629,7 @@
     "expired_reasons": {
       "session-expired": "叫牌练习已过期",
       "auto-archived-old-session": "由于不活动而自动存档",
+      "engine-version-expired": "会话已过期，因为它使用旧的机器人版本",
       "challenge-expired": "挑战已过期",
       "session-deleted-by-user": "叫牌练习被用户删除"
     },
@@ -1680,6 +1681,7 @@
     "undo_failed_competition": "。在比赛中，您只有 30 秒的时间撤消叫牌。",
     "double_undo_confirm": "您确定还要撤消搭档的上次叫牌吗？",
     "not_recommended_confirm": "这不是我推荐的。您确定要叫牌吗？",
+    "engine_version_expired": "抱歉，此会话使用了不再可用的旧机器人引擎，因此已过期。",
     "auto_undo_offline": "由于连接中断，您的待处理叫牌已自动取消",
     "waiting_for_partner": "等待搭档...",
     "waiting_for": "等待...",
@@ -1725,10 +1727,12 @@
     "send_to_friend_pair_info": "用这副牌为两位选定的好友创建一次新的叫牌练习。该练习也会分享给你，方便你跟进。",
     "start_replay": "开始重打",
     "send_replay": "发送重打练习",
+    "send_replay_success": "重打练习已发送",
     "creating_replay": "正在创建重打练习...",
     "replay_error": "无法开始重打。{{error}}",
     "send_replay_error": "无法发送重打练习。{{error}}",
     "replay_generic_error": "创建重打练习时出现问题。",
+    "replay_engine_version_warning": "这次重打使用当前机器人引擎（{{replayRobotVersion}}）。原始牌局使用 {{sourceRobotVersion}}，因此叫牌可能不同。",
     "no_replay_friends_available": "目前没有互相关注的好友允许重打练习。",
     "contracts": "定约",
     "stars": "星星",

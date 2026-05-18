@@ -628,6 +628,7 @@
     "expired_reasons": {
       "session-expired": "Sessionen har löpt ut",
       "auto-archived-old-session": "Automatiskt arkiverad på grund av inaktivitet",
+      "engine-version-expired": "Sessionen har löpt ut eftersom den använder en gammal robotversion",
       "challenge-expired": "Utmaningen har löpt ut",
       "session-deleted-by-user": "Sessionen raderad av användare"
     },
@@ -1679,6 +1680,7 @@
     "undo_failed_competition": ". I tävling har du endast 30 sekunder på dig.",
     "double_undo_confirm": "Är du säker på att ta tillbaka även partnerns senaste bud?",
     "not_recommended_confirm": "Det här hade jag inte rekommenderat, är du säker?",
+    "engine_version_expired": "Tyvärr använde den här sessionen en gammal robotmotor som inte längre finns tillgänglig, så sessionen har löpt ut.",
     "auto_undo_offline": "Ditt väntande bud avbröts automatiskt på grund av anslutningsförlust",
     "waiting_for_partner": "Väntar på partner...",
     "waiting_for": "Väntar på...",
@@ -1724,10 +1726,12 @@
     "send_to_friend_pair_info": "Skapa en ny träningssession från den här given för två valda vänner. Sessionen delas också med dig så att du kan följa den.",
     "start_replay": "Starta omspel",
     "send_replay": "Skicka omspel",
+    "send_replay_success": "Omspelet har skickats",
     "creating_replay": "Skapar omspel...",
     "replay_error": "Kunde inte starta omspelet. {{error}}",
     "send_replay_error": "Kunde inte skicka omspelet. {{error}}",
     "replay_generic_error": "Något gick fel när omspelet skulle skapas.",
+    "replay_engine_version_warning": "Det här omspelet använder den aktuella robotmotorn ({{replayRobotVersion}}). Originalet använde {{sourceRobotVersion}}, så budgivningen kan skilja sig.",
     "no_replay_friends_available": "Inga ömsesidiga vänner tillåter omspel just nu.",
     "contracts": "Kontrakt",
     "stars": "Stjärnor",

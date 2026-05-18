@@ -628,6 +628,7 @@
     "expired_reasons": {
       "session-expired": "Session expired",
       "auto-archived-old-session": "Automatically archived due to inactivity",
+      "engine-version-expired": "Session expired because it uses an old robot version",
       "challenge-expired": "Challenge expired",
       "session-deleted-by-user": "Session deleted by user"
     },
@@ -1679,6 +1680,7 @@
     "undo_failed_competition": ". In competition you only have 30s to undo a bid.",
     "double_undo_confirm": "Are you sure you also want to undo your partner's last bid?",
     "not_recommended_confirm": "This is not what I would recommend. Are you sure you want to bid this?",
+    "engine_version_expired": "Sorry, this session used an old robot engine that is no longer available, so it has been expired.",
     "auto_undo_offline": "Your pending bid was automatically cancelled due to connection loss",
     "waiting_for_partner": "Waiting for partner...",
     "waiting_for": "Waiting for ...",
@@ -1724,10 +1726,12 @@
     "send_to_friend_pair_info": "Create a fresh practice session from this board for two selected friends. The session will also be shared with you so you can follow along.",
     "start_replay": "Start replay",
     "send_replay": "Send replay",
+    "send_replay_success": "Replay sent",
     "creating_replay": "Creating replay...",
     "replay_error": "Couldn't start replay. {{error}}",
     "send_replay_error": "Couldn't send replay. {{error}}",
     "replay_generic_error": "Something went wrong while creating the replay session.",
+    "replay_engine_version_warning": "This replay uses the current robot engine ({{replayRobotVersion}}). The original used {{sourceRobotVersion}}, so bidding may differ.",
     "no_replay_friends_available": "No mutual friends currently allow replay sessions.",
     "contracts": "Contracts",
     "stars": "Stars",
