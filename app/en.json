@@ -2657,6 +2657,7 @@
     "category": "Junior application",
     "notification_success": "Thanks! We will check your application.",
     "notification_error": "Something went wrong :(",
+    "already_applied": "Your junior status has already been reviewed, so you cannot apply again here. Contact us if this looks wrong.",
     "info": "Please type your full name, country and birth year",
     "name_label": "Full name",
     "name_placeholder": "Firstname, Lastname",

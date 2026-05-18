@@ -2636,6 +2636,7 @@
     "category": "Wniosek juniorski",
     "notification_success": "Dziękujemy! Sprawdzimy Twój wniosek.",
     "notification_error": "Coś poszło nie tak :(",
+    "already_applied": "Your junior status has already been reviewed, so you cannot apply again here. Contact us if this looks wrong.",
     "info": "Podaj swoje pełne imię i nazwisko, kraj i rok urodzenia",
     "name_label": "Imię i nazwisko",
     "name_placeholder": "Imię, Nazwisko",

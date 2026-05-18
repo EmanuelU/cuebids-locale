@@ -2636,6 +2636,7 @@
     "category": "Junioransökan",
     "notification_success": "Tack! Vi kommer att granska din ansökan.",
     "notification_error": "Något gick fel :(",
+    "already_applied": "Din juniorstatus har redan granskats, så du kan inte ansöka igen här. Kontakta oss om detta verkar fel.",
     "info": "Vänligen skriv ditt fullständiga namn, land och födelseår",
     "name_label": "Fullständigt namn",
     "name_placeholder": "Förnamn, Efternamn",

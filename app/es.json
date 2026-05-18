@@ -2636,6 +2636,7 @@
     "category": "Solicitud junior",
     "notification_success": "¡Gracias! Revisaremos tu solicitud.",
     "notification_error": "Algo salió mal :(",
+    "already_applied": "Tu condición de junior ya ha sido revisada, así que no puedes volver a solicitarla aquí. Contáctanos si crees que esto es un error.",
     "info": "Escribe tu nombre completo, país y año de nacimiento",
     "name_label": "Nombre completo",
     "name_placeholder": "Nombre, Apellidos",

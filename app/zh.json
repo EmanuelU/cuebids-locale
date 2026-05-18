@@ -2656,6 +2656,7 @@
     "category": "初级申请",
     "notification_success": "谢谢！我们将检查您的申请。",
     "notification_error": "出了点问题:(",
+    "already_applied": "你的青少年身份已审核过，因此不能在这里再次申请。如果情况不对，请联系我们。",
     "info": "请输入您的全名、国家/地区和出生年份",
     "name_label": "全名",
     "name_placeholder": "名字、姓氏",

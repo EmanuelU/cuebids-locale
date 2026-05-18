@@ -2636,6 +2636,7 @@
     "category": "Candidature junior",
     "notification_success": "Merci ! Nous allons vérifier votre candidature.",
     "notification_error": "Quelque chose s'est mal passé :(",
+    "already_applied": "Your junior status has already been reviewed, so you cannot apply again here. Contact us if this looks wrong.",
     "info": "Veuillez saisir votre nom complet, votre pays et votre année de naissance",
     "name_label": "Nom complet",
     "name_placeholder": "Prénom, nom de famille",
