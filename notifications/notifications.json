@@ -22,11 +22,11 @@
     },
     "zh": {
       "title": "邀请你一起玩",
-      "text": "{{partner}} 邀请你参加挑战：{{event}}"
+      "text": "{{partner}} 邀请你参加练习：{{event}}"
     },
     "zht": {
       "title": "邀請你一起玩",
-      "text": "{{partner}} 邀請你參加挑戰：{{event}}"
+      "text": "{{partner}} 邀請你參加練習：{{event}}"
     }
   },
   "waiting_for_you": {
@@ -141,12 +141,12 @@
       "text": "Te has unido al {{event}} con tu compañero {{partner}}"
     },
     "zh": {
-      "title": "已加入挑战",
-      "text": "你已与搭档 {{partner}} 一起加入 {{event}} 挑战"
+      "title": "已加入练习",
+      "text": "你已与搭档 {{partner}} 一起加入 {{event}} 练习"
     },
     "zht": {
-      "title": "已加入挑戰",
-      "text": "你已與搭檔 {{partner}} 一起加入 {{event}} 挑戰"
+      "title": "已加入練習",
+      "text": "你已與搭檔 {{partner}} 一起加入 {{event}} 練習"
     }
   },
   "session_finished": {
@@ -352,11 +352,11 @@
     },
     "zh": {
       "title": "邀请你一起玩",
-      "text": "{{partner}} 邀请你参加活动：{{event}}"
+      "text": "{{partner}} 邀请你参加练习：{{event}}"
     },
     "zht": {
       "title": "邀請你一起玩",
-      "text": "{{partner}} 邀請你參加活動：{{event}}"
+      "text": "{{partner}} 邀請你參加練習：{{event}}"
     }
   },
   "group_event_accepted": {
@@ -382,11 +382,11 @@
     },
     "zh": {
       "title": "邀请已接受",
-      "text": "{{partner}} 已接受你参加活动 {{event}} 的邀请"
+      "text": "{{partner}} 已接受你参加练习 {{event}} 的邀请"
     },
     "zht": {
       "title": "邀請已接受",
-      "text": "{{partner}} 已接受你參加活動 {{event}} 的邀請"
+      "text": "{{partner}} 已接受你參加練習 {{event}} 的邀請"
     }
   },
   "group_invite": {
@@ -501,12 +501,12 @@
       "text": "Nuevo evento en {{group}}"
     },
     "zh": {
-      "title": "新活动",
-      "text": "{{group}} 中有新活动"
+      "title": "新练习",
+      "text": "{{group}} 中有新练习"
     },
     "zht": {
-      "title": "新活動",
-      "text": "{{group}} 中有新活動"
+      "title": "新練習",
+      "text": "{{group}} 中有新練習"
     }
   },
   "session_shared": {
@@ -681,11 +681,11 @@
       "text": "¡Únete ahora!"
     },
     "zh": {
-      "title": "新的{{event}}挑战已开放！",
+      "title": "新的{{event}}练习已开放！",
       "text": "立即加入！"
     },
     "zht": {
-      "title": "新的{{event}}挑戰已開放！",
+      "title": "新的{{event}}練習已開放！",
       "text": "立即加入！"
     }
   },
@@ -711,11 +711,11 @@
       "text": "¡Únete ahora!"
     },
     "zh": {
-      "title": "新的每日挑战已开放！",
+      "title": "新的每日练习已开放！",
       "text": "立即加入！"
     },
     "zht": {
-      "title": "新的每日挑戰已開放！",
+      "title": "新的每日練習已開放！",
       "text": "立即加入！"
     }
   },
@@ -741,11 +741,11 @@
       "text": "¡Únete ahora!"
     },
     "zh": {
-      "title": "新的每周挑战已开放！",
+      "title": "新的每周练习已开放！",
       "text": "立即加入！"
     },
     "zht": {
-      "title": "新的每週挑戰已開放！",
+      "title": "新的每週練習已開放！",
       "text": "立即加入！"
     }
   },
