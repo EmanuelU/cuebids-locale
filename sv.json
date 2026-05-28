@@ -937,6 +937,10 @@
       "reward_claimed": "Belöning hämtad"
     },
     "display_name": "Användarnamn",
+    "real_name_label": "Riktigt namn (valfritt)",
+    "real_name_placeholder": "Valfritt",
+    "real_name_optional_help": "Valfritt. Lägg till ditt riktiga namn om du vill att andra spelare ska kunna identifiera dig.",
+    "real_name_pro_help": "Eftersom du är proffs - om inte ditt användarnamn är ditt riktiga namn, fyll i ditt riktiga namn här så att andra proffs och amatörer kan identifiera dig. Tack för att du bidrar till Cuebids-communityt",
     "profile_collapse_title": "Profil",
     "contact_email_label": "E‑post",
     "new_email_label": "Ny e-postadress",

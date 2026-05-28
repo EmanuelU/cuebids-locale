@@ -933,6 +933,10 @@
       "reward_claimed": "已領取獎勵"
     },
     "display_name": "顯示名稱",
+    "real_name_label": "真實姓名（選填）",
+    "real_name_placeholder": "選填",
+    "real_name_optional_help": "選填。如果你希望其他牌手能識別你，請新增真實姓名。",
+    "real_name_pro_help": "由於你是職業牌手 - 除非你的顯示名稱就是真實姓名，否則請在這裡填寫真實姓名，方便其他職業牌手和業餘牌手識別你。感謝你為 Cuebids 社群做出貢獻",
     "profile_collapse_title": "個人資料",
     "contact_email_label": "聯繫郵箱",
     "new_email_label": "新電子郵件地址",

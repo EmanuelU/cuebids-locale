@@ -930,6 +930,10 @@
       "reward_claimed": "Reward claimed"
     },
     "display_name": "Display name",
+    "real_name_label": "Real Name (optional)",
+    "real_name_placeholder": "Optional",
+    "real_name_optional_help": "Optional. Add your real name if you want other players to identify you.",
+    "real_name_pro_help": "Since you are pro - unless your Display Name is your real name, please fill in your real name here to allow other pros and amateurs to identify you. Thanks for contributing to the Cuebids community",
     "profile_collapse_title": "Profile",
     "contact_email_label": "Contact email",
     "new_email_label": "New email address",

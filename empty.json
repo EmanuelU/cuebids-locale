@@ -805,6 +805,10 @@
       "reward_claimed": ""
     },
     "display_name": "",
+    "real_name_label": "",
+    "real_name_placeholder": "",
+    "real_name_optional_help": "",
+    "real_name_pro_help": "",
     "profile_collapse_title": "",
     "contact_email_label": "",
     "same_as_account_label": "",

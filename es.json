@@ -937,6 +937,10 @@
       "reward_claimed": "Recompensa reclamada"
     },
     "display_name": "Nombre visible",
+    "real_name_label": "Nombre real (opcional)",
+    "real_name_placeholder": "Opcional",
+    "real_name_optional_help": "Opcional. Añade tu nombre real si quieres que otros jugadores puedan identificarte.",
+    "real_name_pro_help": "Como eres profesional - a menos que tu nombre visible sea tu nombre real, indica tu nombre real aquí para que otros profesionales y aficionados puedan identificarte. Gracias por contribuir a la comunidad de Cuebids",
     "profile_collapse_title": "Perfil",
     "contact_email_label": "Correo de contacto",
     "new_email_label": "Nueva dirección de correo",

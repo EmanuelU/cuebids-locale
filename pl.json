@@ -933,6 +933,10 @@
       "reward_claimed": "Nagroda odebrana"
     },
     "display_name": "Publiczna nazwa",
+    "real_name_label": "Prawdziwe imię i nazwisko (opcjonalnie)",
+    "real_name_placeholder": "Opcjonalnie",
+    "real_name_optional_help": "Opcjonalnie. Dodaj swoje prawdziwe imię i nazwisko, jeśli chcesz, aby inni gracze mogli Cię rozpoznać.",
+    "real_name_pro_help": "Ponieważ jesteś graczem pro - jeśli Twoja publiczna nazwa nie jest Twoim prawdziwym imieniem i nazwiskiem, wpisz je tutaj, aby inni gracze pro i amatorzy mogli Cię rozpoznać. Dziękujemy za wkład w społeczność Cuebids",
     "profile_collapse_title": "Profil",
     "contact_email_label": "Adres e-mail do korespondencji",
     "new_email_label": "Nowy adres e-mail",
