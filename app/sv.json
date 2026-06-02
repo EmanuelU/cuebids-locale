@@ -2670,7 +2670,7 @@
     "to_start": "Till startsidan",
     "friends": "Vänner",
     "your_position": "Din placering: {{position}} utav {{count}} par",
-    "participants": "{{count}} par har gått med i veckans tävling",
+    "participants": "{{count}} par har gått med i denna tävling",
     "leaderboard_minimum": "Minst {{count}} stjärnor krävs för att hamna på topplistan.",
     "leaderboard_title": "Topplistan"
   },
