@@ -12,20 +12,20 @@
       "not_vulnerable": "无局",
       "vuln_vs_not_vuln": "不利局况",
       "not_vuln_vs_vuln": "有利局况",
-      "NONE": "无",
-      "EW": "东/西",
-      "NS": "北/南",
-      "ALL": "全部"
+      "NONE": "双方无局",
+      "EW": "东西有局",
+      "NS": "南北有局",
+      "ALL": "双方有局"
     },
     "hand": {
-      "HCP": "高牌点"
+      "HCP": "大牌点"
     },
     "scoring": {
-      "name": "赛制",
+      "name": "比赛方式",
       "TEAMS": "团体赛",
       "PAIRS": "双人赛",
-      "BAM": "BAM",
-      "RUBBER": "橡皮桥"
+      "BAM": "一副一比",
+      "RUBBER": "盘式"
     },
     "dealer": "发牌人",
     "directions": {
@@ -101,7 +101,7 @@
       "win": "胜",
       "loss": "负",
       "draw": "平局",
-      "pro": "PRO"
+      "pro": "职业牌手"
     },
     "chat": {
       "placeholder": "输入消息...",
@@ -155,7 +155,7 @@
     },
     "unscored_deal": {
       "contract": "定约",
-      "stars": "星星",
+      "stars": "星级",
       "fast_scoring": "快速计分",
       "regular_scoring": "普通计分"
     },
@@ -199,27 +199,27 @@
       "free": "免费"
     },
     "remaining_tickets_warning": {
-      "you_cannot_afford_partner_heart": "你负担不起这个价格，但由于搭档拥有红桃订阅，你仍然可以玩！",
-      "you_cannot_afford_partner_heart_short": "你负担不起这个价格，但由于搭档拥有红桃订阅，你仍然可以玩！",
-      "you_cannot_afford": "你负担不起这个价格。开通红桃订阅即可不限次数游玩。点击打开商店。",
-      "you_cannot_afford_short": "你负担不起这个价格。开通红桃订阅即可不限次数游玩。",
-      "partner_cannot_afford_you_heart": "搭档负担不起这个价格，但由于你拥有红桃订阅，他们仍然可以玩！",
-      "partner_cannot_afford_you_heart_short": "搭档负担不起这个价格，但由于你拥有红桃订阅，他们仍然可以玩！",
-      "partner_cannot_afford_you_pay": "搭档负担不起这个价格。你可以替他们支付缺少的门票。",
-      "partner_cannot_afford_you_pay_short": "搭档负担不起这个价格。你可以替他们支付缺少的门票。",
-      "partner_cannot_afford_get_heart": "搭档负担不起这个价格。如果你开通红桃订阅，就可以不限次数游玩。点击打开商店。",
-      "partner_cannot_afford_get_heart_short": "搭档负担不起这个价格。如果你开通红桃订阅，就可以不限次数游玩。"
+      "you_cannot_afford_partner_heart": "你负担不起这个价格，但由于搭档拥有红心会员，你仍然可以玩！",
+      "you_cannot_afford_partner_heart_short": "你负担不起这个价格，但由于搭档拥有红心会员，你仍然可以玩！",
+      "you_cannot_afford": "你负担不起这个价格。开通红心会员即可不限次数游玩。点击打开商店。",
+      "you_cannot_afford_short": "你负担不起这个价格。开通红心会员即可不限次数游玩。",
+      "partner_cannot_afford_you_heart": "搭档负担不起这个价格，但由于你拥有红心会员，他们仍然可以玩！",
+      "partner_cannot_afford_you_heart_short": "搭档负担不起这个价格，但由于你拥有红心会员，他们仍然可以玩！",
+      "partner_cannot_afford_you_pay": "搭档负担不起这个价格。你可以替他们支付缺少的牌券。",
+      "partner_cannot_afford_you_pay_short": "搭档负担不起这个价格。你可以替他们支付缺少的牌券。",
+      "partner_cannot_afford_get_heart": "搭档负担不起这个价格。如果你开通红心会员，就可以不限次数游玩。点击打开商店。",
+      "partner_cannot_afford_get_heart_short": "搭档负担不起这个价格。如果你开通红心会员，就可以不限次数游玩。"
     },
     "user_card": {
       "junior": "U18",
       "junior_info": "U18 是指 18 岁以下的青少年。青少年可以通过我们的联系表申请 Cuebids 的青少年会员资格。",
-      "pro": "PRO",
-      "pro_info": "PRO 是职业桥牌牌手。在牌局的比较区域，你可以将自己的结果与所有 PRO 牌手进行比较。如果你是职业牌手并希望获得这个徽章，请联系我们。",
+      "pro": "职业牌手",
+      "pro_info": "PRO 是职业桥牌牌手。在牌局的对比区域，你可以将自己的结果与所有职业牌手进行比较。如果你是职业牌手并希望获得这个徽章，请联系我们。",
       "robot": "机器人",
       "robot_info": "这是一个可以和你练习叫牌的机器人。",
       "send_friend_request": "发送好友请求",
       "friend_request_sent": "好友请求已发送至 {{displayName}}",
-      "total_stars": "总星星数",
+      "total_stars": "总星级别",
       "weekly_wins": "每周获胜",
       "daily_wins": "每日胜利",
       "follow": "关注",
@@ -237,7 +237,7 @@
     "no_campaign": "没有活跃的活动",
     "coming_soon": "即将推出",
     "blackweek": "黑色周来了！",
-    "blackweek_info": "红桃订阅限时免费两周！",
+    "blackweek_info": "红心会员限时免费两周！",
     "offer_only_for_new": "此优惠仅适用于新订阅者",
     "not_available": "不可用",
     "per_month": "/月",
@@ -249,8 +249,8 @@
     "store_not_available": "商店不可用",
     "interval_monthly": "每月",
     "interval_yearly": "每年（20% 折扣）",
-    "sub_map_club": "订阅即可解锁更多功能并获得更多门票！",
-    "sub_map_diamond": "订阅即可解锁更多功能并获得更多门票！",
+    "sub_map_club": "订阅即可解锁更多功能并获得更多牌券！",
+    "sub_map_diamond": "订阅即可解锁更多功能并获得更多牌券！",
     "sub_map_heart_pre_styled": "解锁",
     "sub_map_heart_styled": "一切",
     "sub_map_heart_post_styled": "！",
@@ -260,7 +260,7 @@
     "subscribe_info": "更多信息",
     "subscription": "{{sub}}订阅",
     "subs": {
-      "heart": "红桃",
+      "heart": "红心",
       "diamond": "方块",
       "club": "梅花"
     },
@@ -268,10 +268,10 @@
     "subtitle": "支持 Cuebids，解锁门票、练习模式和订阅。",
     "current_access": "当前访问权限",
     "support_info": "选择订阅以获得每月门票，或在需要时购买一次性门票包。",
-    "tab_tickets": "门票",
+    "tab_tickets": "牌券",
     "tab_subscriptions": "订阅",
-    "tickets_info_1": "门票用于每日/每周挑战、排位挑战和高级练习模式。",
-    "tickets_info_2": "你可以在这里购买门票包，用完为止。",
+    "tickets_info_1": "牌券用于每日/每周挑战、排位挑战和高级练习模式。",
+    "tickets_info_2": "你可以在这里购买牌券包，用完为止。",
     "tickets_left_value": "剩余 {{count}} 张门票",
     "unlimited_tickets": "无限门票",
     "thanks": "谢谢！",
@@ -285,16 +285,16 @@
       "info_2": "方块",
       "info_3": "为了",
       "info_4": "240",
-      "info_5": "每个月的门票和",
+      "info_5": "每个月的牌券和",
       "info_6": "更多",
       "info_7": "牌型"
     },
     "upgrade_to_heart": {
       "info_1": "升级至",
-      "info_2": "红桃",
+      "info_2": "红心",
       "info_3": "为了",
       "info_4": "无限",
-      "info_5": "门票和访问权",
+      "info_5": "牌券和访问权",
       "info_6": "全部",
       "info_7": "牌型"
     },
@@ -302,9 +302,9 @@
     "manage_subscription_styled": "管理订阅",
     "manage_subscription_post_styled": "然后点击更新计划。",
     "already_heart": {
-      "info_1": "心订阅是最高订阅，包括",
+      "info_1": "红心订阅是最高订阅，包括",
       "info_2": "无限",
-      "info_3": "门票和访问权",
+      "info_3": "牌券和访问权",
       "info_4": "全部",
       "info_5": "牌型"
     },
@@ -313,32 +313,32 @@
     "restore_purchases": "恢复购买",
     "purchases_restored": "购买已恢复。",
     "no_purchases_to_restore": "没有可恢复的购买。",
-    "subscribe_info_1": "订阅即可解锁更多功能并获得稳定的门票流。",
-    "subscribe_info_2": "每个月，你的订阅门票都会刷新。",
-    "subscribe_info_3": "门票用于<strong>每日/每周挑战</strong>和<strong>高级练习</strong>。",
+    "subscribe_info_1": "订阅即可解锁更多功能并获得稳定的牌券流。",
+    "subscribe_info_2": "每个月，你的订阅牌券都会刷新。",
+    "subscribe_info_3": "牌券用于<strong>每日/每周挑战</strong>和<strong>高级练习</strong>。",
     "subscribe_info_4_pre_styled": "订阅者还可以访问和练习",
     "subscribe_info_4_styled": "牌型",
     "subscribe_info_4_post_styled": "，例如雅各比2NT。",
-    "subscribe_info_5_1": "红桃订阅者",
-    "subscribe_info_5_2": "享受<strong>无限</strong>数量的门票并访问<strong>所有</strong>牌型。",
+    "subscribe_info_5_1": "红心会员",
+    "subscribe_info_5_2": "享受<strong>无限</strong>数量的牌券并访问<strong>所有</strong>牌型。",
     "club": {
       "title": "梅花",
       "deal_types_info": "<strong>5</strong> 牌型",
-      "tickets_per_month": "每月门票"
+      "tickets_per_month": "每月牌券"
     },
     "diamond": {
       "most_popular": "最受欢迎",
       "badge": "最受欢迎",
       "title": "方块",
       "deal_types_info": "<strong>10</strong> 牌型",
-      "tickets_per_month": "每月门票"
+      "tickets_per_month": "每月牌券"
     },
     "heart": {
       "unlock_everything": "解锁一切",
       "badge": "解锁一切！",
-      "title": "红桃",
+      "title": "红心",
       "deal_types_info": "<strong>所有</strong>牌型",
-      "endless_tickets": "<strong>无尽</strong>门票"
+      "endless_tickets": "<strong>无尽</strong>牌券"
     },
     "sub_map_heart": "用无限门票和全部牌型解锁所有内容。",
     "basic_deal_types": "基础牌型",
@@ -380,9 +380,9 @@
     "subscription_renewal_date": "续订于",
     "subscription_date_unavailable": "不可用",
     "subscription_manage_stripe": "在 Stripe 中管理",
-    "50 Tickets": "50张门票",
-    "250 Tickets": "250张门票",
-    "1500 Tickets": "1500张门票"
+    "50 Tickets": "50张牌券",
+    "250 Tickets": "250张牌券",
+    "1500 Tickets": "1500张牌券"
   },
   "go_to_store": {
     "no_iap_error": "商店目前无法在移动应用程序中使用。请访问我们的网站订阅 Cuebids。"
@@ -391,48 +391,48 @@
     "title": "感谢您的支持！",
     "info": "我们希望您继续享受 Cuebids",
     "to_start_page": "返回首页",
-    "50_tickets": "您已收到 50 张门票",
-    "250_tickets": "您已收到 250 张门票",
-    "1500_tickets": "您已收到 1500 张门票",
+    "50_tickets": "您已收到 50 张牌券",
+    "250_tickets": "您已收到 250 张牌券",
+    "1500_tickets": "您已收到 1500 张牌券",
     "club": {
       "info_1_pre_styled": "你现在是一个",
       "info_1_styled": "梅花",
       "info_1_post_styled": "订户",
-      "info_2": "请尽情体验这些牌型和额外门票！"
+      "info_2": "请尽情体验这些牌型和额外牌券！"
     },
     "diamond": {
       "info_1_pre_styled": "你现在是一个",
       "info_1_styled": "方块",
       "info_1_post_styled": "订户",
-      "info_2": "请尽情体验这些牌型和额外门票！"
+      "info_2": "请尽情体验这些牌型和额外牌券！"
     },
     "heart": {
       "info_1_pre_styled": "你现在是一个",
-      "info_1_styled": "红桃",
+      "info_1_styled": "红心",
       "info_1_post_styled": "订户",
       "info_2_pre_styled": "您已解锁 Cuebids 中的所有内容：所有牌型以及最重要的 -",
-      "info_2_styled": "你有无穷无尽的门票。"
+      "info_2_styled": "你有无穷无尽的牌券。"
     }
   },
   "subscriptions": {
     "title": "订阅",
-    "info": "订阅用于解锁功能并获得稳定的门票流。"
+    "info": "订阅用于解锁功能并获得稳定的牌券流。"
   },
   "marketing": {
     "go_store": "前往商店",
-    "unlock_more": "升级到方块，获得更多功能",
+    "unlock_more": "升级到方块会员，获得更多功能",
     "unlock_all": "解锁所有功能",
     "features_requires": "此功能需要一个",
-    "heart_sub": "红桃订阅",
-    "diamond_sub": "方块订阅",
-    "club_sub": "梅花订阅",
+    "heart_sub": "红心会员订阅",
+    "diamond_sub": "方块会员订阅",
+    "club_sub": "梅花会员订阅",
     "start_trial": "开始免费试用",
     "subscribe": "订阅",
     "no_thanks": "不，谢谢",
     "free": "免费",
     "club": "梅花",
     "diamond": "方块",
-    "heart": "红桃",
+    "heart": "红心",
     "infinite": "无限",
     "all": "全部",
     "tickets": "门票",
@@ -453,7 +453,7 @@
     "labels": {
       "by": "由",
       "description": "描述",
-      "hand": "手",
+      "hand": "牌",
       "reason": "推理",
       "bid": "叫牌"
     },
@@ -470,8 +470,8 @@
       "spam_detected": "内容似乎是垃圾邮件或不适当的内容"
     },
     "warnings": {
-      "too_many_cards": "卡太多",
-      "too_few_cards": "卡太少了",
+      "too_many_cards": "牌太多",
+      "too_few_cards": "牌太少了",
       "login_to_bid": "请先登录再叫牌",
       "login_to_create": "请先登录再创建投票",
       "select_bid": "选择叫牌",
@@ -483,7 +483,7 @@
     "spot_answer_input": "回答（可选，在人们回复后向他们显示）",
     "spot_create_submit": "创建投票",
     "bid_description_input": {
-      "placeholder": "在这里写下你的想法... 你可以输入 !s 表示黑桃，!h 表示红桃，!d 表示方块，!c 表示梅花。"
+      "placeholder": "在这里写下你的想法... 你可以输入 !s 表示黑桃，!h 表示红心，!d 表示方块，!c 表示梅花。"
     },
     "bid_display-name_input": {
       "placeholder": "输入你的名字"
@@ -499,7 +499,7 @@
     "all": "全部",
     "friends": "好友",
     "mine": "我的",
-    "pros": "PRO",
+    "pros": "职业牌手",
     "pros_new": "在这里申请成为",
     "delete": "删除投票",
     "delete_confirm": "确定要删除此投票吗？",
@@ -537,7 +537,7 @@
     "weekly_title": "每周排行榜",
     "loading": "正在加载排行榜...",
     "you": "你",
-    "stars": "星星",
+    "stars": "星级",
     "ev": "EV",
     "score": "得分",
     "participants": "{{count}} 对参赛组合",
@@ -545,30 +545,30 @@
     "continue_session": "继续本局",
     "all": "全部 ({{count}})",
     "friends": "好友 ({{count}})",
-    "pros": "PRO ({{count}})",
+    "pros": "职业牌手 ({{count}})",
     "robots": "机器人 ({{count}})"
   },
   "navbar": {
-    "tickets": "门票",
-    "tickets_usage": "门票用于每日/每周挑战、排位挑战和高级机器人游戏。",
+    "tickets": "牌券",
+    "tickets_usage": "牌券用于每日/每周挑战、排位挑战和高级机器人游戏。",
     "you_have": "你有",
     "messages": "消息",
-    "subscription_tickets": "订阅票",
+    "subscription_tickets": "订阅牌券",
     "refreshed": "刷新了",
     "monthly": "每月。",
-    "extra_tickets": "额外门票",
+    "extra_tickets": "额外牌券",
     "saved_for_last": "总是留到最后。",
     "as_a": "作为一个",
     "you_get": "你有",
     "infinite": "无限",
-    "heart": "红桃",
+    "heart": "红心",
     "diamond": "方块",
     "club": "梅花",
     "subscriber": "订户",
     "each_month": "每个月",
-    "free_user_tickets": "作为免费用户，你每月会获得 {{tickets}} 张门票。",
-    "upgrade_cta": "立即升级以获得更多门票和其他福利！",
-    "no_iap": "你可以在我们的网站上购买门票。"
+    "free_user_tickets": "作为免费用户，你每月会获得 {{tickets}} 张牌券。",
+    "upgrade_cta": "立即升级以获得更多牌券和其他福利！",
+    "no_iap": "你可以在我们的网站上购买牌券。"
   },
   "onboarding": {
     "welcome_title": "欢迎，{{name}}",
@@ -640,7 +640,7 @@
       "info_2": "如果这不是正确的电子邮件地址，请在您的个人资料设置中更新它。",
       "warning_not_finished": "你只能打印已经完成的叫牌练习。",
       "warning_no_email": "您的账户缺少电子邮件地址。",
-      "warning_missing_sub": "你需要方块订阅才能打印叫牌练习。"
+      "warning_missing_sub": "你需要方块会员订阅才能打印叫牌练习。"
     },
     "delete": {
       "title": "删除本次叫牌练习",
@@ -683,7 +683,7 @@
       "learn_p1_styled": "即时反馈",
       "learn_p1_post_styled": "基于双虚拟人模拟。",
       "learn_p2_pre_styled": "看看其他人做了什么 - 比较",
-      "learn_p2_styled": "PRO",
+      "learn_p2_styled": "职业牌手",
       "learn_p2_post_styled": "和好友",
       "free_pre_styled": "这是",
       "free_styled": "免费",
@@ -753,12 +753,12 @@
     "win": "胜",
     "loss": "负",
     "draw": "平局",
-    "vs": "VS",
-    "tot": "TOT",
+    "vs": "对阵",
+    "tot": "总计",
     "avg": "平均",
     "challenges": "挑战",
-    "ranked": "排位",
-    "ranked_challenges": "排位挑战",
+    "ranked": "排名",
+    "ranked_challenges": "挑战排名",
     "rating": "积分",
     "queue": "队列",
     "friendly": "友谊赛",
@@ -857,7 +857,7 @@
     "advanced_robots_free_during_june": "好友挑战中的高级机器人在六月免费使用。",
     "opponent_one_label": "对手（北）",
     "opponent_two_label": "对手（南）",
-    "pro_challenge": "职业挑战",
+    "pro_challenge": "挑战职业牌手",
     "pro_challenge_pre_styled": "所有玩家都是",
     "pro_challenge_styled": "PRO",
     "pro_challenge_post_styled": "请允许我们保存这些牌局，以便未来用于特殊活动。感谢你成为 PRO 并支持社区！",
@@ -866,7 +866,7 @@
   "four_player": {
     "beta": "欢迎来到 4 人 Cuebids 的 Beta 测试！",
     "info": "和好友坐在同一张牌桌上练习。此模式不会进行模拟，你们会直接使用发出的牌。",
-    "ticket_info": "此模式不消耗门票，但所有玩家都需要至少拥有方块订阅。",
+    "ticket_info": "此模式不消耗牌券，但所有玩家都需要至少拥有方块会员订阅。",
     "opponent_one_label": "对手（东部）",
     "opponent_two_label": "对手（西）",
     "partner_label": "搭档",
