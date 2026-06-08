@@ -651,14 +651,14 @@
       "warning_not_finished": "Możesz eksportować tylko ukończone sesje.",
       "warning_no_email": "Twoje konto nie ma adresu e-mail.",
       "warning_missing_sub": "Potrzebujesz subskrybcji karo, żeby eksportować sesje.",
-      "board_title": "Print board {{board}}",
-      "board_info_1": "This board will be printed as a PDF file and sent to your email address ",
-      "warning_board_not_finished": "You can only print finished boards.",
-      "chat_enabled": "Include chat messages",
-      "include_personal_notes": "Include my personal notes",
-      "chat_placement": "Where to show chat",
-      "chat_appendix": "Chat appendix",
-      "chat_after_board": "Chat after each board"
+      "board_title": "Drukuj rozdanie {{board}}",
+      "board_info_1": "To rozdanie zostanie wyeksportowane jako plik PDF i wysłane na twój adres e-mail ",
+      "warning_board_not_finished": "Możesz eksportować tylko ukończone rozdania.",
+      "chat_enabled": "Dołącz wiadomości z czatu",
+      "include_personal_notes": "Dołącz moje notatki osobiste",
+      "chat_placement": "Gdzie pokazać czat",
+      "chat_appendix": "Czat jako załącznik",
+      "chat_after_board": "Czat po każdym rozdaniu"
     },
     "delete": {
       "title": "Usuń tę sesję",

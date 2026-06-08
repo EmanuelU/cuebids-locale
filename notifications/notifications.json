@@ -545,8 +545,8 @@
       "text": "{{user}} shared a board with you"
     },
     "sv": {
-      "title": "Bräde delat",
-      "text": "{{user}} delade ett bräde med dig"
+      "title": "Giv delad",
+      "text": "{{user}} delade en giv med dig"
     },
     "pl": {
       "title": "Rozdanie udostępnione",

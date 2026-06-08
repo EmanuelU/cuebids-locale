@@ -651,14 +651,14 @@
       "warning_not_finished": "Vous ne pouvez imprimer que les sessions terminées.",
       "warning_no_email": "L’adresse email est manquante dans votre profil.",
       "warning_missing_sub": "Un abonnement Carreau est nécessaire pour imprimer des sessions.",
-      "board_title": "Print board {{board}}",
-      "board_info_1": "This board will be printed as a PDF file and sent to your email address ",
-      "warning_board_not_finished": "You can only print finished boards.",
-      "chat_enabled": "Include chat messages",
-      "include_personal_notes": "Include my personal notes",
-      "chat_placement": "Where to show chat",
-      "chat_appendix": "Chat appendix",
-      "chat_after_board": "Chat after each board"
+      "board_title": "Imprimer la donne {{board}}",
+      "board_info_1": "Cette donne sera imprimée en fichier PDF et envoyée à votre adresse email ",
+      "warning_board_not_finished": "Vous ne pouvez imprimer que les donnes terminées.",
+      "chat_enabled": "Inclure les messages du chat",
+      "include_personal_notes": "Inclure mes notes personnelles",
+      "chat_placement": "Où afficher le chat",
+      "chat_appendix": "Chat en annexe",
+      "chat_after_board": "Chat après chaque donne"
     },
     "delete": {
       "title": "Supprimer cette session",

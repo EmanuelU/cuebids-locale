@@ -652,14 +652,14 @@
       "warning_not_finished": "你只能打印已經完成的叫牌練習。",
       "warning_no_email": "您的帳戶缺少電子郵件地址。",
       "warning_missing_sub": "你需要方塊訂閱才能打印叫牌練習。",
-      "board_title": "Print board {{board}}",
-      "board_info_1": "This board will be printed as a PDF file and sent to your email address ",
-      "warning_board_not_finished": "You can only print finished boards.",
-      "chat_enabled": "Include chat messages",
-      "include_personal_notes": "Include my personal notes",
-      "chat_placement": "Where to show chat",
-      "chat_appendix": "Chat appendix",
-      "chat_after_board": "Chat after each board"
+      "board_title": "打印第 {{board}} 副牌",
+      "board_info_1": "這副牌會導出為 PDF 並發送到你的電子郵件地址",
+      "warning_board_not_finished": "你只能打印已經完成的牌。",
+      "chat_enabled": "包含聊天消息",
+      "include_personal_notes": "包含我的個人備註",
+      "chat_placement": "聊天顯示位置",
+      "chat_appendix": "聊天作為附錄",
+      "chat_after_board": "聊天顯示在每副牌之後"
     },
     "delete": {
       "title": "刪除本次叫牌練習",

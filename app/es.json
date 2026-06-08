@@ -626,14 +626,14 @@
       "warning_not_finished": "Solo puedes imprimir sesiones terminadas.",
       "warning_no_email": "A tu cuenta le falta una dirección de correo.",
       "warning_missing_sub": "Necesitas una suscripción Diamond para imprimir sesiones.",
-      "board_title": "Print board {{board}}",
-      "board_info_1": "This board will be printed as a PDF file and sent to your email address ",
-      "warning_board_not_finished": "You can only print finished boards.",
-      "chat_enabled": "Include chat messages",
-      "include_personal_notes": "Include my personal notes",
-      "chat_placement": "Where to show chat",
-      "chat_appendix": "Chat appendix",
-      "chat_after_board": "Chat after each board"
+      "board_title": "Imprimir mano {{board}}",
+      "board_info_1": "Esta mano se imprimirá como un PDF y se enviará a tu dirección de correo ",
+      "warning_board_not_finished": "Solo puedes imprimir manos terminadas.",
+      "chat_enabled": "Incluir mensajes de chat",
+      "include_personal_notes": "Incluir mis notas personales",
+      "chat_placement": "Dónde mostrar el chat",
+      "chat_appendix": "Chat como apéndice",
+      "chat_after_board": "Chat después de cada mano"
     },
     "delete": {
       "title": "Eliminar esta sesión",

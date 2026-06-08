@@ -1,4 +1,8 @@
 {
+  "404": {
+    "warning": "Cholibka! Wygląda na to, że strona, której szukasz, nie istnieje.",
+    "to_start_page": "Wróć na stronę główną"
+  },
   "locale": "pl",
   "lia_lang": "pl",
   "bridge": {
@@ -622,14 +626,14 @@
       "warning_not_finished": "Możesz eksportować tylko ukończone sesje.",
       "warning_no_email": "Twoje konto nie ma adresu e-mail.",
       "warning_missing_sub": "Potrzebujesz subskrybcji karo, żeby eksportować sesje.",
-      "board_title": "Print board {{board}}",
-      "board_info_1": "This board will be printed as a PDF file and sent to your email address ",
-      "warning_board_not_finished": "You can only print finished boards.",
-      "chat_enabled": "Include chat messages",
-      "include_personal_notes": "Include my personal notes",
-      "chat_placement": "Where to show chat",
-      "chat_appendix": "Chat appendix",
-      "chat_after_board": "Chat after each board"
+      "board_title": "Drukuj rozdanie {{board}}",
+      "board_info_1": "To rozdanie zostanie wyeksportowane jako plik PDF i wysłane na twój adres e-mail ",
+      "warning_board_not_finished": "Możesz eksportować tylko ukończone rozdania.",
+      "chat_enabled": "Dołącz wiadomości z czatu",
+      "include_personal_notes": "Dołącz moje notatki osobiste",
+      "chat_placement": "Gdzie pokazać czat",
+      "chat_appendix": "Czat jako załącznik",
+      "chat_after_board": "Czat po każdym rozdaniu"
     },
     "delete": {
       "title": "Usuń tę sesję",
@@ -1664,10 +1668,6 @@
     "title": "Przerwa techniczna",
     "warning": "Cuebids jest obecnie niedostępny z powodu prac technicznych. Proszę sprawdzić za chwilę."
   },
-  "404": {
-    "warning": "Cholibka! Wygląda na to, że strona, której szukasz, nie istnieje.",
-    "to_start_page": "Wróć na stronę główną"
-  },
   "refresh": {
     "title": "Wymagane odświeżenie",
     "warning": "Jest dostępna nowsza wersja Cuebids. Musisz odświeżyć stronę, aby uzyskać nową wersję.",
@@ -2415,7 +2415,7 @@
       "robots": "Roboty: ",
       "dialog": {
         "title": "Ustawienia scenariusza",
-        "flip_label": "Losowo obróć o 180\u00B0",
+        "flip_label": "Losowo obróć o 180°",
         "dealer_label": "Rozdający",
         "vul_label": "Założenia",
         "robots_label": "Roboty",
@@ -2534,7 +2534,7 @@
     "add_friends_p3": "Znajdź znajomego, wyszukując jego imię. Wyślij mu zaproszenie do znajomych, gdy go znajdziesz.",
     "add_friends_p4": "Wyślij znajomemu swój <strong>Klucz Znajomości</strong>. Następnie mogą cię dodać jako znajomego.",
     "add_friends_p5": "Twój klucz: ",
-    "add_friends_p6": "Wyślij znajomemu swój link zaproszenia. Możesz skopiować ten link na stronie \"Dodaj\u00A0znajomych\". Gdy klikną ten linki, zostaniecie znajomymi.",
+    "add_friends_p6": "Wyślij znajomemu swój link zaproszenia. Możesz skopiować ten link na stronie \"Dodaj znajomych\". Gdy klikną ten linki, zostaniecie znajomymi.",
     "friend_gone_title": "Nie mogę znaleźć swojego znajomego",
     "friend_gone_p1": "Upewnij się, że przypadkowo nie <strong>zablokowaliście się nawzajem</strong>. Powinniście oboje zaznaczyć opcję \"Pokaż zablokowanych\" w sekcji znajomych. Żeby wejść na stronę znajomych, kliknij prawą opcję dolnego menu.",
     "stars_title": "Jak działają gwiazdki?",
@@ -2669,7 +2669,7 @@
   },
   "apps": {
     "apps_title": "Pobierz aplikację",
-    "apps_p1": "Wygląda na to, że korzystasz z urządzenia mobilnego \uD83D\uDCF1",
+    "apps_p1": "Wygląda na to, że korzystasz z urządzenia mobilnego 📱",
     "apps_p2": "Pobierz aplikację, aby w pełni korzystać z Cuebids!",
     "app_store_alt_text": "Cuebids w Apple App Store",
     "google_play_alt_text": "Cuebids w Google Play Store",
