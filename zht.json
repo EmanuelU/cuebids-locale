@@ -651,7 +651,15 @@
       "info_2": "如果這不是正確的電子郵件地址，請在您的個人資料設置中更新它。",
       "warning_not_finished": "你只能打印已經完成的叫牌練習。",
       "warning_no_email": "您的帳戶缺少電子郵件地址。",
-      "warning_missing_sub": "你需要方塊訂閱才能打印叫牌練習。"
+      "warning_missing_sub": "你需要方塊訂閱才能打印叫牌練習。",
+      "board_title": "Print board {{board}}",
+      "board_info_1": "This board will be printed as a PDF file and sent to your email address ",
+      "warning_board_not_finished": "You can only print finished boards.",
+      "chat_enabled": "Include chat messages",
+      "include_personal_notes": "Include my personal notes",
+      "chat_placement": "Where to show chat",
+      "chat_appendix": "Chat appendix",
+      "chat_after_board": "Chat after each board"
     },
     "delete": {
       "title": "刪除本次叫牌練習",
@@ -1728,6 +1736,7 @@
     "post_poll": "發表投票",
     "poll_not_available": "練習中禁用投票創建",
     "visit_poll": "訪問投票",
+    "print_board": "打印本副牌",
     "replay_with_friend": "與好友重打這副牌",
     "send_to_friend_pair": "發送給兩位好友",
     "replay_with_friend_info": "用這副牌和一位好友創建一次新的叫牌練習。",

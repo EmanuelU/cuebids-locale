@@ -636,7 +636,15 @@
       "info_2": "If this is not the correct email address, please update it in your profile settings.",
       "warning_not_finished": "You can only print finished sessions.",
       "warning_no_email": "Your account is missing an email adress.",
-      "warning_missing_sub": "You need a Diamond subscription to print sessions."
+      "warning_missing_sub": "You need a Diamond subscription to print sessions.",
+      "board_title": "Print board {{board}}",
+      "board_info_1": "This board will be printed as a PDF file and sent to your email address ",
+      "warning_board_not_finished": "You can only print finished boards.",
+      "chat_enabled": "Include chat messages",
+      "include_personal_notes": "Include my personal notes",
+      "chat_placement": "Where to show chat",
+      "chat_appendix": "Chat appendix",
+      "chat_after_board": "Chat after each board"
     },
     "delete": {
       "title": "Delete this session",
@@ -1734,6 +1742,9 @@
     "post_poll": "Post a poll",
     "poll_not_available": "Poll creation disabled in events",
     "visit_poll": "Visit poll",
+    "print_board": "Print board",
+    "replay_with_friend": "Replay with a friend",
+    "send_to_friend_pair": "Send to two friends",
     "contracts": "Contracts",
     "stars": "Stars",
     "matchpoints": "Matchpoints",

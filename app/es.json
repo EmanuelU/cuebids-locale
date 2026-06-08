@@ -625,7 +625,15 @@
       "info_2": "Si esta no es la dirección correcta, actualízala en la configuración de tu perfil.",
       "warning_not_finished": "Solo puedes imprimir sesiones terminadas.",
       "warning_no_email": "A tu cuenta le falta una dirección de correo.",
-      "warning_missing_sub": "Necesitas una suscripción Diamond para imprimir sesiones."
+      "warning_missing_sub": "Necesitas una suscripción Diamond para imprimir sesiones.",
+      "board_title": "Print board {{board}}",
+      "board_info_1": "This board will be printed as a PDF file and sent to your email address ",
+      "warning_board_not_finished": "You can only print finished boards.",
+      "chat_enabled": "Include chat messages",
+      "include_personal_notes": "Include my personal notes",
+      "chat_placement": "Where to show chat",
+      "chat_appendix": "Chat appendix",
+      "chat_after_board": "Chat after each board"
     },
     "delete": {
       "title": "Eliminar esta sesión",
@@ -1713,6 +1721,9 @@
     "post_poll": "Publicar una encuesta",
     "poll_not_available": "La creación de encuestas está desactivada en los eventos",
     "visit_poll": "Ver encuesta",
+    "print_board": "Imprimir mano",
+    "replay_with_friend": "Repetir con un amigo",
+    "send_to_friend_pair": "Enviar a dos amigos",
     "contracts": "Contratos",
     "stars": "Estrellas",
     "matchpoints": "Matchpoints",
