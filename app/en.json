@@ -1,4 +1,8 @@
 {
+  "404": {
+    "warning": "Oops, it seems like the page you are looking for doesn't exist.",
+    "to_start_page": "To start page"
+  },
   "locale": "en",
   "lia_lang": "en",
   "bridge": {
@@ -653,7 +657,6 @@
       "info_weekly": "Even if you delete a weekly session, you will not be able to participate again this week.",
       "info_daily": "Even if you delete a daily session, you will not be able to participate again today."
     },
-
     "pro_badge": "PRO",
     "advanced_robots": "Advanced Robots",
     "basic_robots": "Basic Robots"
@@ -1306,6 +1309,7 @@
     "oppsMichaels": "Opps Two Suited Overcall",
     "vs2DMulti": "Opps 2D Multi",
     "weakTwoX": "Double After Weak Two",
+    "checkback": "After Opener's 1NT Rebid",
     "v4Beta": "New Scoring Test",
     "reverse": "Reverse"
   },
@@ -1684,10 +1688,6 @@
   "maintenance": {
     "title": "Maintenance",
     "warning": "Cuebids is currently down for maintenance. Please check back shortly."
-  },
-  "404": {
-    "warning": "Oops, it seems like the page you are looking for doesn't exist.",
-    "to_start_page": "To start page"
   },
   "refresh": {
     "title": "Refresh required",
@@ -2436,7 +2436,7 @@
       "robots": "Robots: ",
       "dialog": {
         "title": "Scenario settings",
-        "flip_label": "Randomly flip deal 180\u00B0",
+        "flip_label": "Randomly flip deal 180°",
         "dealer_label": "Dealer",
         "vul_label": "Vulnerability",
         "robots_label": "Robots",
@@ -2555,7 +2555,7 @@
     "add_friends_p3": "Find your friend by searching for their name. Send them a friend request when you find them.",
     "add_friends_p4": "Send your friend your <strong>Friend Key</strong>. They can then add you as a friend.",
     "add_friends_p5": "Your key: ",
-    "add_friends_p6": "Send your friend your invite link. You can copy the link on the \"Add\u00A0friends\" page. When they follow the link you will become friends.",
+    "add_friends_p6": "Send your friend your invite link. You can copy the link on the \"Add friends\" page. When they follow the link you will become friends.",
     "friend_gone_title": "I can no longer see my friend",
     "friend_gone_p1": "Make sure you did not <strong>accidentally block each other</strong>. Both you and your partner should check the \"Show blocked\" option in the friends area. You can access the friends page from the rightmost option in the bottom menu.",
     "stars_title": "How do stars work?",
@@ -2690,7 +2690,7 @@
   },
   "apps": {
     "apps_title": "Download app",
-    "apps_p1": "Looks like you are on a mobile device \uD83D\uDCF1",
+    "apps_p1": "Looks like you are on a mobile device 📱",
     "apps_p2": "Download the app to get the most out of Cuebids!",
     "app_store_alt_text": "Cuebids on Apple App Store",
     "google_play_alt_text": "Cuebids on Google Play Store",
