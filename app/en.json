@@ -2347,7 +2347,7 @@
       "hcp": "HCP",
       "suits": "Suits",
       "shapes": "Shapes",
-      "advanced": "Advanced",
+      "advanced": "Quality",
       "add_shape": "Add shape",
       "shape_explain": {
         "type_like": "Type a shape like ",
@@ -2383,7 +2383,7 @@
       "shape_issue_warning": "There is an issue in one of the shapes",
       "not_dealer_warning": "This player is not dealer, we cannot guarantee opening.",
       "not_second_seat_warning": "This player is not in second seat, we cannot guarantee overcall.",
-      "long_suit_quality": "Suit quality",
+      "long_suit_quality": "Longest suit quality",
       "suit_quality": {
         "garbage": "Garbage",
         "very_weak": "Very weak",

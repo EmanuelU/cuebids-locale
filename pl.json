@@ -2362,7 +2362,7 @@
       "shortness_required_description": "Jeśli zaznaczono kilka opcji singletona lub renonsu, co najmniej jedna zaznaczona opcja musi pasować.",
       "shortness_singleton_in": "Singleton w:",
       "shortness_void_in": "Renons w:",
-      "advanced": "Zaawansowane",
+      "advanced": "Jakość",
       "applicable_when": "Ma zastosowanie gdy",
       "variable_filters": "Filtry zmiennych",
       "variable_filter_label": "{{variable}}",
@@ -2414,7 +2414,7 @@
       "shape_shortness_conflict_singleton_and_void": "singletona i renonsu",
       "not_dealer_warning": "Ten gracz nie jest rozdającym, nie możemy zagwarantować otwarcia.",
       "not_second_seat_warning": "Ten gracz nie jest na drugiej ręce, nie możemy zagwarantować wejścia.",
-      "long_suit_quality": "Jakość koloru",
+      "long_suit_quality": "Jakość najdłuższego koloru",
       "suit_quality": {
         "garbage": "Plaża",
         "very_weak": "Bardzo słaby",

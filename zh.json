@@ -2363,7 +2363,7 @@
       "shortness_required_description": "如果勾选多个单张或缺门选项，至少一个勾选项必须匹配。",
       "shortness_singleton_in": "单张在：",
       "shortness_void_in": "缺门在：",
-      "advanced": "高级",
+      "advanced": "品质",
       "applicable_when": "适用于",
       "variable_filters": "变量筛选",
       "variable_filter_label": "{{variable}}",
@@ -2415,7 +2415,7 @@
       "shape_shortness_conflict_singleton_and_void": "单张和缺门",
       "not_dealer_warning": "该玩家不是庄家，我们不能保证开叫。",
       "not_second_seat_warning": "该玩家不在第二席，我们不能保证争抢。",
-      "long_suit_quality": "套装品质",
+      "long_suit_quality": "最长套装品质",
       "suit_quality": {
         "garbage": "垃圾",
         "very_weak": "很弱",

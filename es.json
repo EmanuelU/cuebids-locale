@@ -2362,7 +2362,7 @@
       "shortness_required_description": "Si marcas varias opciones de singleton o fallo, al menos una de las opciones marcadas debe cumplirse.",
       "shortness_singleton_in": "Un singleton en:",
       "shortness_void_in": "Un fallo en:",
-      "advanced": "Avanzado",
+      "advanced": "Calidad",
       "applicable_when": "Aplicable cuando",
       "variable_filters": "Filtros de variable",
       "variable_filter_label": "{{variable}}",
@@ -2414,7 +2414,7 @@
       "shape_shortness_conflict_singleton_and_void": "un singleton y un fallo",
       "not_dealer_warning": "Este jugador no reparte; no podemos garantizar la apertura.",
       "not_second_seat_warning": "Este jugador no está en segunda posición; no podemos garantizar la intervención.",
-      "long_suit_quality": "Calidad del palo largo",
+      "long_suit_quality": "Calidad del palo más largo",
       "suit_quality": {
         "garbage": "Muy mala",
         "very_weak": "Muy débil",

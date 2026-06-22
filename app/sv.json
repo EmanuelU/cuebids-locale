@@ -2327,7 +2327,7 @@
       "hcp": "HP",
       "suits": "Färger",
       "shapes": "Fördelningar",
-      "advanced": "Avancerat",
+      "advanced": "Kvalitet",
       "add_shape": "Lägg till fördelning",
       "shape_explain": {
         "type_like": "Skriv en fördeling t.ex. ",
@@ -2363,7 +2363,7 @@
       "shape_issue_warning": "En av fördelningar har ett problem.",
       "not_dealer_warning": "Spelaren är inte giv, vi kan inte garantera öppningsbudet",
       "not_second_seat_warning": "Spelaren är inte i andra hand, vi kan inte garantera inkliv",
-      "long_suit_quality": "Färgkvalitet",
+      "long_suit_quality": "Längsta färgens kvalitet",
       "suit_quality": {
         "garbage": "Usel",
         "very_weak": "Väldigt svag",

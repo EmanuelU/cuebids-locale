@@ -2327,7 +2327,7 @@
       "hcp": "PC",
       "suits": "Kolory",
       "shapes": "Układ",
-      "advanced": "Zaawansowane",
+      "advanced": "Jakość",
       "add_shape": "Dodaj układ",
       "shape_explain": {
         "type_like": "Wpisz układ jak ",
@@ -2363,7 +2363,7 @@
       "shape_issue_warning": "Jest problem z jednym z układów",
       "not_dealer_warning": "Ten gracz nie jest rozdającym, nie możemy zagwarantować otwarcia.",
       "not_second_seat_warning": "Ten gracz nie jest na drugiej ręce, nie możemy zagwarantować wejścia.",
-      "long_suit_quality": "Jakość koloru",
+      "long_suit_quality": "Jakość najdłuższego koloru",
       "suit_quality": {
         "garbage": "Plaża",
         "very_weak": "Bardzo słaby",

@@ -2362,7 +2362,7 @@
       "shortness_required_description": "If several singleton or void options are checked, at least one checked option must match.",
       "shortness_singleton_in": "A singleton in:",
       "shortness_void_in": "A void in:",
-      "advanced": "Advanced",
+      "advanced": "Quality",
       "applicable_when": "Applicable when",
       "variable_filters": "Variable filters",
       "variable_filter_label": "{{variable}}",
@@ -2414,7 +2414,7 @@
       "shape_shortness_conflict_singleton_and_void": "a singleton and a void",
       "not_dealer_warning": "This player is not dealer, we cannot guarantee opening.",
       "not_second_seat_warning": "This player is not in second seat, we cannot guarantee overcall.",
-      "long_suit_quality": "Suit quality",
+      "long_suit_quality": "Longest suit quality",
       "suit_quality": {
         "garbage": "Garbage",
         "very_weak": "Very weak",

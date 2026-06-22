@@ -2347,7 +2347,7 @@
       "hcp": "高牌點",
       "suits": "套裝",
       "shapes": "形狀",
-      "advanced": "高級",
+      "advanced": "品質",
       "add_shape": "添加形狀",
       "shape_explain": {
         "type_like": "輸入一個形狀，例如",
@@ -2383,7 +2383,7 @@
       "shape_issue_warning": "其中一個形狀有問題",
       "not_dealer_warning": "該玩家不是莊家，我們不能保證開叫。",
       "not_second_seat_warning": "該玩家不在第二席，我們不能保證爭搶。",
-      "long_suit_quality": "套裝品質",
+      "long_suit_quality": "最長套裝品質",
       "suit_quality": {
         "garbage": "垃圾",
         "very_weak": "很弱",

@@ -2362,7 +2362,7 @@
       "shortness_required_description": "Om flera singel- eller renonsval markeras behöver minst ett markerat val stämma.",
       "shortness_singleton_in": "En singel i:",
       "shortness_void_in": "En renons i:",
-      "advanced": "Avancerat",
+      "advanced": "Kvalitet",
       "applicable_when": "Gäller när",
       "variable_filters": "Variabelfilter",
       "variable_filter_label": "{{variable}}",
@@ -2414,7 +2414,7 @@
       "shape_shortness_conflict_singleton_and_void": "en singel och en renons",
       "not_dealer_warning": "Spelaren är inte giv, vi kan inte garantera öppningsbudet",
       "not_second_seat_warning": "Spelaren är inte i andra hand, vi kan inte garantera inkliv",
-      "long_suit_quality": "Färgkvalitet",
+      "long_suit_quality": "Längsta färgens kvalitet",
       "suit_quality": {
         "garbage": "Usel",
         "very_weak": "Väldigt svag",

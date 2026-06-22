@@ -2362,7 +2362,7 @@
       "shortness_required_description": "Si plusieurs options de singleton ou de chicane sont cochées, au moins l’une des options cochées doit correspondre.",
       "shortness_singleton_in": "Un singleton en:",
       "shortness_void_in": "Une chicane en:",
-      "advanced": "Avancé",
+      "advanced": "Qualité",
       "applicable_when": "Applicable quand",
       "variable_filters": "Filtres de variable",
       "variable_filter_label": "{{variable}}",
@@ -2414,7 +2414,7 @@
       "shape_shortness_conflict_singleton_and_void": "un singleton et une chicane",
       "not_dealer_warning": "Ce joueur n’est pas le donneur, nous ne pouvons garantir l’ouverture.",
       "not_second_seat_warning": "Ce joueur n’est pas en seconde position, nous ne pouvons garantir l’intervention.",
-      "long_suit_quality": "Qualité de la couleur",
+      "long_suit_quality": "Qualité de la couleur la plus longue",
       "suit_quality": {
         "garbage": "Poubelle",
         "very_weak": "Très faible",

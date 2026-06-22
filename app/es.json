@@ -2327,7 +2327,7 @@
       "hcp": "HCP",
       "suits": "Palos",
       "shapes": "Distribuciones",
-      "advanced": "Avanzado",
+      "advanced": "Calidad",
       "add_shape": "Añadir distribución",
       "shape_explain": {
         "type_like": "Escribe una distribución como ",
@@ -2363,7 +2363,7 @@
       "shape_issue_warning": "Hay un problema en una de las distribuciones",
       "not_dealer_warning": "Este jugador no reparte; no podemos garantizar la apertura.",
       "not_second_seat_warning": "Este jugador no está en segunda posición; no podemos garantizar la intervención.",
-      "long_suit_quality": "Calidad del palo largo",
+      "long_suit_quality": "Calidad del palo más largo",
       "suit_quality": {
         "garbage": "Muy mala",
         "very_weak": "Muy débil",
