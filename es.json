@@ -1200,7 +1200,8 @@
     "basic": "Básico",
     "advanced": "Avanzado",
     "none_explain": "Los robots no participarán en la subasta.",
-    "basic_explain": "Los robots básicos solo pujarán un palo. Se eliminarán en una futura actualización. Prueba los robots avanzados para una experiencia más realista."
+    "basic_explain": "Los robots básicos solo pujarán un palo. Se eliminarán en una futura actualización. Prueba los robots avanzados para una experiencia más realista.",
+    "advanced_deal_type_warning": "Es posible que los robots avanzados no manejen {{dealTypes}} de forma fiable. Puedes continuar, pero la subasta de los robots puede no seguir esas convenciones."
   },
   "lia": {
     "convention_card": "Carta de convenciones",

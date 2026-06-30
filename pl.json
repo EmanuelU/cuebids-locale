@@ -1200,7 +1200,8 @@
     "basic": "Proste",
     "advanced": "Super",
     "none_explain": "Roboty nie będą uczestniczyć w licytacji.",
-    "basic_explain": "Proste roboty będą licytować tylko jeden kolor. Planujemy usunąć je w przyszłej aktualizacji. Wypróbuj super roboty dla bardziej realistycznego doświadczenia."
+    "basic_explain": "Proste roboty będą licytować tylko jeden kolor. Planujemy usunąć je w przyszłej aktualizacji. Wypróbuj super roboty dla bardziej realistycznego doświadczenia.",
+    "advanced_deal_type_warning": "Zaawansowane roboty mogą nie obsługiwać niezawodnie {{dealTypes}}. Możesz kontynuować, ale licytacja robotów może nie stosować tych konwencji."
   },
   "lia": {
     "convention_card": "Karta konwencyjna",
