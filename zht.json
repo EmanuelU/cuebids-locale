@@ -1202,7 +1202,7 @@
     "advanced": "高級",
     "none_explain": "機器人不會參與叫牌。",
     "basic_explain": "基礎機器人只會叫出自己最好的花色。這些機器人將在未來版本中移除。想獲得更真實的體驗，請嘗試高級機器人。",
-    "advanced_deal_type_warning": "高級機器人可能無法可靠處理 {{dealTypes}}。你仍可繼續，但機器人叫牌可能不會遵循這些約定。"
+    "advanced_deal_type_warning": "高級機器人可能會在 {{dealTypes}} 牌型中干擾叫牌。這些牌型假設對手都不叫，所以練習可能會有些異常。"
   },
   "lia": {
     "convention_card": "約定卡",

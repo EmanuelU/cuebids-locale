@@ -1202,7 +1202,7 @@
     "advanced": "高级",
     "none_explain": "机器人不会参与叫牌。",
     "basic_explain": "基础机器人只会叫出自己最好的花色。这些机器人将在未来版本中移除。想获得更真实的体验，请尝试高级机器人。",
-    "advanced_deal_type_warning": "高级机器人可能无法可靠处理 {{dealTypes}}。你仍可继续，但机器人叫牌可能不会遵循这些约定。"
+    "advanced_deal_type_warning": "高级机器人可能会在 {{dealTypes}} 牌型中干扰叫牌。这些牌型假设对手都不叫，所以练习可能会有些异常。"
   },
   "lia": {
     "convention_card": "约定卡",

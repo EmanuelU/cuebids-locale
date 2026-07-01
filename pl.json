@@ -1201,7 +1201,7 @@
     "advanced": "Super",
     "none_explain": "Roboty nie będą uczestniczyć w licytacji.",
     "basic_explain": "Proste roboty będą licytować tylko jeden kolor. Planujemy usunąć je w przyszłej aktualizacji. Wypróbuj super roboty dla bardziej realistycznego doświadczenia.",
-    "advanced_deal_type_warning": "Zaawansowane roboty mogą nie obsługiwać niezawodnie {{dealTypes}}. Możesz kontynuować, ale licytacja robotów może nie stosować tych konwencji."
+    "advanced_deal_type_warning": "Zaawansowane roboty mogą wejść do licytacji w {{dealTypes}}. Te rozdania zakładają pasy przeciwników, więc trening może być nietypowy."
   },
   "lia": {
     "convention_card": "Karta konwencyjna",

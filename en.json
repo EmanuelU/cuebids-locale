@@ -1201,7 +1201,7 @@
     "advanced": "Advanced",
     "none_explain": "Robots will not compete in the bidding.",
     "basic_explain": "Basic robots will only bid one suit. These will be removed in a future update. Try Advanced robots for a more realistic experience.",
-    "advanced_deal_type_warning": "Advanced robots may not handle {{dealTypes}} reliably. You can continue, but robot bidding may not follow those conventions."
+    "advanced_deal_type_warning": "Advanced robots may interfere in {{dealTypes}} deals. These deals assume the opponents pass, so practice may be unusual."
   },
   "lia": {
     "convention_card": "Convention card",

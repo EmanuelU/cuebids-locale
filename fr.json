@@ -1201,7 +1201,7 @@
     "advanced": "Avancé",
     "none_explain": "Les robots ne participeront pas aux enchères.",
     "basic_explain": "Les robots basiques enchériront uniquement une couleur. Ils seront supprimés dans une mise à jour future. Essayez les robots avancés pour une expérience plus réaliste.",
-    "advanced_deal_type_warning": "Les robots avancés peuvent ne pas gérer {{dealTypes}} de façon fiable. Vous pouvez continuer, mais leurs enchères peuvent ne pas suivre ces conventions."
+    "advanced_deal_type_warning": "Les robots avancés peuvent intervenir sur {{dealTypes}}. Ces donnes supposent que les adversaires passent, donc l'entraînement peut être inhabituel."
   },
   "lia": {
     "convention_card": "Feuille de conventions",

@@ -1201,7 +1201,7 @@
     "advanced": "Avancerade",
     "none_explain": "Robotar kommer inte att bjuda.",
     "basic_explain": "Enkla robotar bjuder enbart en färg. Dessa kommer troligen tas bort i framtiden. Prova avancerade robotar för en mer realistisk upplevelse.",
-    "advanced_deal_type_warning": "Avancerade robotar hanterar kanske inte {{dealTypes}} pålitligt. Du kan fortsätta, men robotbudgivningen följer kanske inte de konventionerna."
+    "advanced_deal_type_warning": "Avancerade robotar kan kliva in i {{dealTypes}}. Givarna förutsätter att motståndarna passar, så träningen kan bli ovanlig."
   },
   "lia": {
     "convention_card": "Deklarationskort",
