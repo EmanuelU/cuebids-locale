@@ -621,6 +621,151 @@
       "enjoy": "¡Disfruta de Cuebids!",
       "confirm": "¡Entendido!",
       "session_page_help": "Tu sesión ha terminado; ve a la página de inicio para continuar."
+    },
+    "v2": {
+      "progress": {
+        "setup": "Configuración",
+        "step_count": "Paso {{step}} de {{total}}"
+      },
+      "actions": {
+        "back": "Atrás",
+        "saving": "Guardando...",
+        "continue": "Continuar",
+        "continue_to_first_session": "Continuar a la primera sesión"
+      },
+      "welcome": {
+        "title": "Bienvenido a Cuebids",
+        "subtitle": "Podemos ajustar tu mesa, mostrar las opciones de cartas y ayudarte a iniciar tu primera sesión.",
+        "guided_title": "Configurarme y enseñarme",
+        "guided_text": "Elige preferencias de práctica, visualización de cartas y una breve lección.",
+        "recommended_title": "Usar configuración recomendada",
+        "recommended_text": "Activa ayuda útil de subasta y usa la visualización moderna de cartas de Cuebids.",
+        "skip_title": "Omitir configuración",
+        "skip_text": "Dejar los ajustes como están e ir directamente a Cuebids."
+      },
+      "practice_style": {
+        "title": "¿Con quién quieres practicar?",
+        "subtitle": "Usaremos esto para decidir si mostramos ajustes de práctica con robots.",
+        "regular_title": "Mi pareja habitual",
+        "regular_text": "Mejor si casi siempre quieres subastar con la misma persona.",
+        "mix_title": "Una mezcla de parejas",
+        "mix_text": "Mejor si practicas con amigos, compañeros de club o eventos.",
+        "own_title": "Por mi cuenta",
+        "own_text": "Mejor si quieres practicar con Lia.",
+        "not_sure_title": "Aún no lo sé",
+        "not_sure_text": "Mantener visibles las opciones recomendadas."
+      },
+      "robot_availability": {
+        "title": "¿También quieres practicar con robots?",
+        "subtitle": "Los robots son útiles cuando tu pareja no está disponible.",
+        "yes_title": "Sí, mostrar robots",
+        "yes_text": "Mostrar a Lia como pareja de práctica y elegir su sistema de subasta.",
+        "no_title": "No, ocultar robots",
+        "no_text": "Ocultaremos los robots como parejas de práctica. Puedes volver a activarlos después en Ajustes."
+      },
+      "lia_system": {
+        "title": "¿Qué sistema debe usar Lia?",
+        "subtitle": "Este será tu valor predeterminado al practicar con Lia. Puedes cambiarlo antes de iniciar cualquier sesión.",
+        "configure_later": "Puedes configurar el sistema con más detalle más tarde en Ajustes."
+      },
+      "lia_pace": {
+        "title": "¿Qué tan rápido debe responder Lia?",
+        "subtitle": "Elige si Lia responde de inmediato o te da un momento antes de que continúe la subasta.",
+        "fast_title": "Rápido",
+        "fast_text": "Lia responde inmediatamente.",
+        "natural_title": "Natural",
+        "natural_text": "Lia espera brevemente antes de subastar.",
+        "slow_title": "Lento",
+        "slow_text": "Lia te da más tiempo para reconsiderar.",
+        "undo_note": "Importante: cuando juegas de forma competitiva con Lia, una subasta queda definitiva cuando vence el tiempo para deshacer o cuando Lia responde. Con ritmo rápido Lia responde de inmediato, así que la ventana para deshacer se cierra al instante. Elige un ritmo más lento para conservar la opción de deshacer, o activa la pantalla de confirmación más adelante."
+      },
+      "bidding_hints": {
+        "title": "¿Quieres pistas de subasta?",
+        "subtitle": "Estas opciones te ayudan a aprender manteniendo justo el juego competitivo.",
+        "phone_friend_title": "Ayuda de subasta",
+        "phone_friend_text": "Mostrar la bombilla durante la subasta de práctica. Puede mostrar qué hicieron jugadores fuertes en posiciones similares y qué subastaría Lia.",
+        "phone_friend_helper": "Desactivada en modos competitivos.",
+        "divergence_title": "Avisos de desacuerdo experto",
+        "divergence_text": "Después de una mano, resalta subastas donde muchos jugadores fuertes eligieron otra cosa.",
+        "divergence_helper": "Una forma rápida de detectar decisiones interesantes sin abrir todas las comparaciones.",
+        "hcp_title": "Mostrar PH",
+        "hcp_text": "Mostrar puntos de honor con tu mano.",
+        "hcp_helper": "Disponible en todos los modos."
+      },
+      "card_display": {
+        "title": "¿Cómo deben verse las cartas?",
+        "subtitle": "Elige el estilo que te resulte más fácil de leer. Puedes cambiarlo después.",
+        "modern_label": "Moderno",
+        "modern_title": "Cuebids moderno",
+        "modern_text": "Estilo de cartas limpio y moderno.",
+        "diagram_label": "Diagrama",
+        "diagram_title": "Diagrama",
+        "diagram_text": "Estilo compacto de diagrama de bridge.",
+        "classic_label": "Clásico",
+        "classic_title": "Clásico",
+        "classic_text": "Aspecto tradicional de cartas.",
+        "size_note": "¿Prefieres cartas, símbolos o controles más grandes? Puedes ajustar el tamaño de visualización en Ajustes después del onboarding."
+      },
+      "confirm_bids": {
+        "title": "¿Quieres confirmar las subastas?",
+        "subtitle": "Una pantalla de confirmación puede ayudar a evitar subastas accidentales.",
+        "never_title": "Sin confirmación",
+        "never_text": "Colocar subastas inmediatamente.",
+        "with_robot_title": "Con Lia",
+        "with_robot_text": "Confirmar subastas cuando practiques con Lia.",
+        "always_title": "Siempre",
+        "always_text": "Confirmar cada subasta antes de colocarla."
+      },
+      "resources": {
+        "title": "Dónde obtener ayuda",
+        "subtitle": "Guarda estos enlaces para una guía, una respuesta rápida o ayuda de la comunidad de Cuebids.",
+        "guides_title": "Guías y FAQ",
+        "guides_text": "Busca en guías y FAQ sobre amigos, tickets, puntuación, Lia, eventos y suscripciones.",
+        "video_title": "Video introductorio",
+        "video_text": "Mira un video corto que explica las ideas principales de Cuebids.",
+        "youtube_title": "Canal de YouTube",
+        "youtube_text": "Encuentra más guías y videos de funciones en el canal de Cuebids.",
+        "discord_title": "Comunidad de Discord",
+        "discord_text": "Únete al Discord de Cuebids para hacer preguntas y seguir novedades del producto.",
+        "contact_title": "Contactar soporte",
+        "contact_text": "Envía un mensaje si algo no está claro o necesitas ayuda con tu cuenta."
+      },
+      "first_session": {
+        "title": "Ya puedes practicar",
+        "subtitle": "Inicia tu primera sesión real con un amigo o Lia cuando estés listo.",
+        "add_partner_title": "Añadir tu pareja",
+        "add_partner_text": "Envía a tu pareja tu enlace de amigo o añádela con su clave de amigo.",
+        "add_friends_title": "Añadir amigos",
+        "add_friends_text": "Añade personas con las que quieras practicar antes de iniciar una sesión.",
+        "lia_title": "Empezar con Lia",
+        "lia_text": "Usa tu sistema de Lia seleccionado e inicia una sesión de práctica.",
+        "cuebids_title": "Ir a Cuebids",
+        "cuebids_text": "Abrir la página inicial normal de Cuebids."
+      },
+      "complete": {
+        "title": "Bien hecho",
+        "text": "Ahora sigues por tu cuenta, pero la sección de guías siempre está ahí si necesitas más ayuda.",
+        "close": "Continuar",
+        "guides": "Abrir guías"
+      }
+    },
+    "trial": {
+      "got_it": "Entendido",
+      "banner_text": "Termina tu primera sesión para completar la configuración.",
+      "banner_play_lia": "Jugar con Lia",
+      "banner_skip": "Omitir",
+      "create_partner_lia": "Lia está seleccionada como tu pareja. Puedes cambiar su sistema aquí antes de empezar.",
+      "create_partner": "Elige el amigo o robot con quien quieres practicar.",
+      "create_settings": "Elige cuántas manos jugar y si los rivales deben usar robots avanzados. Los valores predeterminados sirven para tu primera sesión.",
+      "create_start": "Cuando la pareja y los ajustes estén bien, toca Iniciar para crear la sesión.",
+      "enter_session": "Tus sesiones están aquí; toca una para volver y seguir subastando.",
+      "open_board": "Es tu turno en esta mano; tócala para abrirla y subastar.",
+      "make_bid": "Elige tu subasta aquí: toca un nivel y luego un palo, o pasa.",
+      "wait_partner": "Tu pareja está subastando ahora; puedes esperar aquí.",
+      "play_another": "...o salta a otra mano mientras esperas. No tienes que jugarlas en orden.",
+      "stars": "Estas estrellas califican el contrato alcanzado comparado con el mejor contrato teórico de esta mano.",
+      "contracts": "Toca Contratos para ver cómo habría puntuado cada contrato posible en esta mano.",
+      "compare": "Toca Comparar para ver qué subastaron jugadores fuertes con las mismas cartas."
     }
   },
   "session": {

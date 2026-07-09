@@ -621,6 +621,151 @@
       "enjoy": "Lycka till med Cuebids!",
       "confirm": "Jag fattar!",
       "session_page_help": "Din session är färdig, gå till startsidan för att fortsätta."
+    },
+    "v2": {
+      "progress": {
+        "setup": "Inställning",
+        "step_count": "Steg {{step}} av {{total}}"
+      },
+      "actions": {
+        "back": "Tillbaka",
+        "saving": "Sparar...",
+        "continue": "Fortsätt",
+        "continue_to_first_session": "Fortsätt till första sessionen"
+      },
+      "welcome": {
+        "title": "Välkommen till Cuebids",
+        "subtitle": "Vi kan ställa in ditt bord, visa kortvisningen och hjälpa dig starta din första session.",
+        "guided_title": "Ställ in och lär mig",
+        "guided_text": "Välj träningsinställningar, kortvisning och en kort genomgång.",
+        "recommended_title": "Använd rekommenderade inställningar",
+        "recommended_text": "Slå på hjälpsam budgivningshjälp och använd den moderna Cuebids-kortvisningen.",
+        "skip_title": "Hoppa över inställning",
+        "skip_text": "Lämna inställningarna som de är och gå direkt till Cuebids."
+      },
+      "practice_style": {
+        "title": "Vem vill du träna med?",
+        "subtitle": "Vi använder svaret för att avgöra om robotinställningar ska visas.",
+        "regular_title": "Min ordinarie partner",
+        "regular_text": "Bäst när du oftast vill bjuda med samma person.",
+        "mix_title": "Flera olika partners",
+        "mix_text": "Bäst när du tränar med vänner, klubbpartners eller i events.",
+        "own_title": "På egen hand",
+        "own_text": "Bäst när du vill träna med Lia.",
+        "not_sure_title": "Jag vet inte än",
+        "not_sure_text": "Behåll de rekommenderade alternativen synliga."
+      },
+      "robot_availability": {
+        "title": "Vill du också kunna träna med robot?",
+        "subtitle": "Robotar är användbara när din partner inte är tillgänglig.",
+        "yes_title": "Ja, visa robotpartners",
+        "yes_text": "Visa Lia som träningspartner och välj hennes budsystem.",
+        "no_title": "Nej, dölj robotpartners",
+        "no_text": "Vi döljer robotar som träningspartners. Du kan slå på dem igen senare i Inställningar."
+      },
+      "lia_system": {
+        "title": "Vilket system ska Lia använda?",
+        "subtitle": "Det här blir din standard när du tränar med Lia. Du kan ändra det innan du startar en session.",
+        "configure_later": "Du kan konfigurera systemet mer detaljerat senare i Inställningar."
+      },
+      "lia_pace": {
+        "title": "Hur snabbt ska Lia svara?",
+        "subtitle": "Välj om Lia ska svara direkt eller ge dig en stund innan budgivningen fortsätter.",
+        "fast_title": "Snabb",
+        "fast_text": "Lia svarar direkt.",
+        "natural_title": "Normal",
+        "natural_text": "Lia väntar kort innan hon bjuder.",
+        "slow_title": "Långsam",
+        "slow_text": "Lia ger dig mer tid att tänka om.",
+        "undo_note": "Bra att veta: när du spelar tävlingslikt med Lia blir ett bud slutgiltigt när ångra-tiden går ut eller Lia svarar. Med snabb takt svarar Lia direkt, så ångra-fönstret stängs direkt. Välj en långsammare takt för att behålla chansen att ångra, eller slå på bekräftelseskärmen senare i inställningen."
+      },
+      "bidding_hints": {
+        "title": "Vill du ha budhjälp?",
+        "subtitle": "De här alternativen hjälper dig lära dig utan att tävlingsspel blir orättvist.",
+        "phone_friend_title": "Budhjälp",
+        "phone_friend_text": "Visa lampan under övningsbudgivning. Den kan visa vad starka spelare gjorde i liknande lägen och vad Lia skulle bjuda.",
+        "phone_friend_helper": "Avstängd i tävlingslägen.",
+        "divergence_title": "Expertavvikelse",
+        "divergence_text": "Efter en bricka markeras bud där många starka spelare valde något annat.",
+        "divergence_helper": "Ett snabbt sätt att hitta intressanta budlägen utan att öppna alla jämförelser.",
+        "hcp_title": "Visa HCP",
+        "hcp_text": "Visa honnörspoäng med din hand.",
+        "hcp_helper": "Tillgängligt i alla lägen."
+      },
+      "card_display": {
+        "title": "Hur ska korten se ut?",
+        "subtitle": "Välj den stil som känns lättast att läsa. Du kan ändra detta senare.",
+        "modern_label": "Modern",
+        "modern_title": "Modern Cuebids",
+        "modern_text": "Ren och modern kortstil.",
+        "diagram_label": "Diagram",
+        "diagram_title": "Diagram",
+        "diagram_text": "Kompakt bridgediagram-stil.",
+        "classic_label": "Klassisk",
+        "classic_title": "Klassisk",
+        "classic_text": "Traditionellt spelkortsutseende.",
+        "size_note": "Föredrar du större kort, symboler eller kontroller? Du kan justera visningsstorleken i Inställningar efter onboarding."
+      },
+      "confirm_bids": {
+        "title": "Vill du bekräfta bud?",
+        "subtitle": "En bekräftelseskärm kan hjälpa till att undvika felklick.",
+        "never_title": "Ingen bekräftelse",
+        "never_text": "Lägg bud direkt.",
+        "with_robot_title": "Med Lia",
+        "with_robot_text": "Bekräfta bud när du tränar med Lia.",
+        "always_title": "Alltid",
+        "always_text": "Bekräfta varje bud innan det läggs."
+      },
+      "resources": {
+        "title": "Var du hittar hjälp",
+        "subtitle": "Ha de här länkarna nära när du vill ha en genomgång, ett snabbt svar eller hjälp från Cuebids-communityn.",
+        "guides_title": "Guider och FAQ",
+        "guides_text": "Sök i guider och FAQ om vänner, biljetter, scoring, Lia, events och prenumerationer.",
+        "video_title": "Introvideo",
+        "video_text": "Se en kort introvideo som förklarar grunderna i Cuebids.",
+        "youtube_title": "YouTube-kanal",
+        "youtube_text": "Hitta fler genomgångar och funktionsvideor på Cuebids-kanalen.",
+        "discord_title": "Discord-community",
+        "discord_text": "Gå med i Cuebids Discord för att ställa frågor och följa produktnyheter.",
+        "contact_title": "Kontakta support",
+        "contact_text": "Skicka ett meddelande om något är oklart eller om du behöver kontohjälp."
+      },
+      "first_session": {
+        "title": "Du är redo att träna",
+        "subtitle": "Starta din första riktiga session med en vän eller Lia när du är redo.",
+        "add_partner_title": "Lägg till din partner",
+        "add_partner_text": "Skicka din partner din vänlänk eller lägg till dem med deras vännyckel.",
+        "add_friends_title": "Lägg till vänner",
+        "add_friends_text": "Lägg till personer du vill träna med innan du startar en session.",
+        "lia_title": "Starta med Lia",
+        "lia_text": "Använd ditt valda Lia-system och starta en träningssession.",
+        "cuebids_title": "Gå till Cuebids",
+        "cuebids_text": "Öppna den vanliga startsidan för Cuebids."
+      },
+      "complete": {
+        "title": "Bra jobbat",
+        "text": "Nu klarar du dig själv, men guidesektionen finns alltid där om du behöver mer hjälp.",
+        "close": "Fortsätt",
+        "guides": "Öppna guider"
+      }
+    },
+    "trial": {
+      "got_it": "Jag fattar",
+      "banner_text": "Avsluta din första session för att slutföra inställningen.",
+      "banner_play_lia": "Spela med Lia",
+      "banner_skip": "Hoppa över",
+      "create_partner_lia": "Lia är vald som partner. Du kan ändra hennes system här innan du startar.",
+      "create_partner": "Välj den vän eller robot du vill träna med.",
+      "create_settings": "Välj hur många brickor du vill spela och om motståndarna ska använda avancerade robotar. Standardinställningarna fungerar bra för första sessionen.",
+      "create_start": "När partner och inställningar ser rätt ut, tryck på Starta för att skapa sessionen.",
+      "enter_session": "Dina sessioner finns här. Tryck på en för att hoppa in igen och fortsätta bjuda.",
+      "open_board": "Det är din tur på den här brickan. Tryck för att öppna och bjuda.",
+      "make_bid": "Välj ditt bud här. Tryck på en nivå och sedan en färg, eller passa.",
+      "wait_partner": "Din partner bjuder nu. Du kan vänta här.",
+      "play_another": "...eller hoppa till en annan bricka medan du väntar. Du måste inte spela dem i ordning.",
+      "stars": "Stjärnorna betygsätter kontraktet ni kom till jämfört med det bästa teoretiska kontraktet på given.",
+      "contracts": "Tryck på Kontrakt för att se hur alla möjliga kontrakt skulle ha scorats på den här given.",
+      "compare": "Tryck på Jämför för att se vad starka spelare bjöd med samma kort."
     }
   },
   "session": {

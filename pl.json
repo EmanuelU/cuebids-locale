@@ -621,6 +621,151 @@
       "enjoy": "Licytuj z Cuebids!",
       "confirm": "Jasne!",
       "session_page_help": "Twoja sesja się skończyła, wróć na stronę główną by kontynuować."
+    },
+    "v2": {
+      "progress": {
+        "setup": "Konfiguracja",
+        "step_count": "Krok {{step}} z {{total}}"
+      },
+      "actions": {
+        "back": "Wstecz",
+        "saving": "Zapisywanie...",
+        "continue": "Dalej",
+        "continue_to_first_session": "Przejdź do pierwszej sesji"
+      },
+      "welcome": {
+        "title": "Witamy w Cuebids",
+        "subtitle": "Możemy ustawić Twój stół, pokazać opcje wyświetlania kart i pomóc rozpocząć pierwszą sesję.",
+        "guided_title": "Skonfiguruj i poprowadź mnie",
+        "guided_text": "Wybierz preferencje treningu, wygląd kart i krótką lekcję.",
+        "recommended_title": "Użyj zalecanych ustawień",
+        "recommended_text": "Włącz pomocne wskazówki licytacyjne i nowoczesny wygląd kart Cuebids.",
+        "skip_title": "Pomiń konfigurację",
+        "skip_text": "Zostaw ustawienia bez zmian i przejdź prosto do Cuebids."
+      },
+      "practice_style": {
+        "title": "Z kim chcesz ćwiczyć?",
+        "subtitle": "Użyjemy tego, aby zdecydować, czy pokazać ustawienia gry z robotami.",
+        "regular_title": "Mój stały partner",
+        "regular_text": "Najlepsze, gdy zwykle chcesz licytować z tą samą osobą.",
+        "mix_title": "Różni partnerzy",
+        "mix_text": "Najlepsze, gdy ćwiczysz ze znajomymi, partnerami klubowymi lub w wydarzeniach.",
+        "own_title": "Samodzielnie",
+        "own_text": "Najlepsze, gdy chcesz ćwiczyć z Lią.",
+        "not_sure_title": "Jeszcze nie wiem",
+        "not_sure_text": "Pozostaw widoczne zalecane opcje."
+      },
+      "robot_availability": {
+        "title": "Czy chcesz mieć też trening z robotami?",
+        "subtitle": "Roboty są przydatne, gdy partner nie jest dostępny.",
+        "yes_title": "Tak, pokaż robotów",
+        "yes_text": "Pokaż Lię jako partnera treningowego i wybierz jej system licytacyjny.",
+        "no_title": "Nie, ukryj robotów",
+        "no_text": "Ukryjemy robotów jako partnerów treningowych. Możesz włączyć ich później w Ustawieniach."
+      },
+      "lia_system": {
+        "title": "Jakiego systemu ma używać Lia?",
+        "subtitle": "To będzie domyślne ustawienie podczas treningu z Lią. Możesz je zmienić przed rozpoczęciem sesji.",
+        "configure_later": "Później możesz dokładniej skonfigurować system w Ustawieniach."
+      },
+      "lia_pace": {
+        "title": "Jak szybko Lia ma odpowiadać?",
+        "subtitle": "Wybierz, czy Lia odpowiada od razu, czy daje Ci chwilę przed kontynuacją licytacji.",
+        "fast_title": "Szybko",
+        "fast_text": "Lia odpowiada natychmiast.",
+        "natural_title": "Naturalnie",
+        "natural_text": "Lia czeka krótko przed licytacją.",
+        "slow_title": "Powoli",
+        "slow_text": "Lia daje Ci więcej czasu na zastanowienie.",
+        "undo_note": "Warto wiedzieć: gdy grasz z Lią w trybie rywalizacji, odzywka staje się ostateczna po wygaśnięciu czasu cofnięcia albo gdy Lia odpowie. Przy szybkim tempie Lia odpowiada od razu, więc okno cofnięcia zamyka się natychmiast. Wybierz wolniejsze tempo, aby zachować szansę cofnięcia, albo włącz ekran potwierdzenia później w konfiguracji."
+      },
+      "bidding_hints": {
+        "title": "Czy chcesz wskazówki licytacyjne?",
+        "subtitle": "Te opcje pomagają się uczyć, zachowując uczciwość gry konkurencyjnej.",
+        "phone_friend_title": "Pomoc licytacyjna",
+        "phone_friend_text": "Pokaż żarówkę podczas licytacji treningowej. Może pokazać, co zrobili silni gracze w podobnych pozycjach i co zalicytowałaby Lia.",
+        "phone_friend_helper": "Wyłączone w trybach konkurencyjnych.",
+        "divergence_title": "Wskazówki niezgody ekspertów",
+        "divergence_text": "Po rozdaniu wyróżnij odzywki, w których wielu silnych graczy wybrało coś innego.",
+        "divergence_helper": "Szybki sposób na znalezienie ciekawych decyzji licytacyjnych bez otwierania wszystkich porównań.",
+        "hcp_title": "Pokaż HCP",
+        "hcp_text": "Pokaż punkty honorowe przy swojej ręce.",
+        "hcp_helper": "Dostępne we wszystkich trybach."
+      },
+      "card_display": {
+        "title": "Jak mają wyglądać karty?",
+        "subtitle": "Wybierz styl najłatwiejszy do czytania. Możesz zmienić go później.",
+        "modern_label": "Nowoczesny",
+        "modern_title": "Nowoczesny Cuebids",
+        "modern_text": "Czysty, nowoczesny styl kart.",
+        "diagram_label": "Diagram",
+        "diagram_title": "Diagram",
+        "diagram_text": "Kompaktowy styl diagramu brydżowego.",
+        "classic_label": "Klasyczny",
+        "classic_title": "Klasyczny",
+        "classic_text": "Tradycyjny wygląd kart do gry.",
+        "size_note": "Wolisz większe karty, symbole lub kontrolki? Po onboardingu możesz dostosować rozmiar wyświetlania w Ustawieniach."
+      },
+      "confirm_bids": {
+        "title": "Czy chcesz potwierdzać odzywki?",
+        "subtitle": "Ekran potwierdzenia może pomóc uniknąć przypadkowych odzywek.",
+        "never_title": "Bez potwierdzenia",
+        "never_text": "Odzywki są składane od razu.",
+        "with_robot_title": "Z Lią",
+        "with_robot_text": "Potwierdzaj odzywki podczas treningu z Lią.",
+        "always_title": "Zawsze",
+        "always_text": "Potwierdzaj każdą odzywkę przed jej złożeniem."
+      },
+      "resources": {
+        "title": "Gdzie szukać pomocy",
+        "subtitle": "Zachowaj te linki, gdy potrzebujesz przewodnika, szybkiej odpowiedzi lub pomocy społeczności Cuebids.",
+        "guides_title": "Przewodniki i FAQ",
+        "guides_text": "Szukaj w przewodnikach i FAQ tematów takich jak znajomi, bilety, punktacja, Lia, wydarzenia i subskrypcje.",
+        "video_title": "Film wprowadzający",
+        "video_text": "Obejrzyj krótki film wyjaśniający podstawy Cuebids.",
+        "youtube_title": "Kanał YouTube",
+        "youtube_text": "Znajdź więcej przewodników i filmów o funkcjach na kanale Cuebids.",
+        "discord_title": "Społeczność Discord",
+        "discord_text": "Dołącz do Discorda Cuebids, aby zadawać pytania i śledzić aktualizacje.",
+        "contact_title": "Kontakt z pomocą",
+        "contact_text": "Wyślij wiadomość, jeśli coś jest niejasne lub potrzebujesz pomocy z kontem."
+      },
+      "first_session": {
+        "title": "Możesz zacząć ćwiczyć",
+        "subtitle": "Rozpocznij pierwszą prawdziwą sesję ze znajomym lub Lią, gdy będziesz gotowy.",
+        "add_partner_title": "Dodaj partnera",
+        "add_partner_text": "Wyślij partnerowi swój link znajomego albo dodaj go kluczem znajomego.",
+        "add_friends_title": "Dodaj znajomych",
+        "add_friends_text": "Dodaj osoby, z którymi chcesz ćwiczyć, zanim rozpoczniesz sesję.",
+        "lia_title": "Zacznij z Lią",
+        "lia_text": "Użyj wybranego systemu Lii i rozpocznij sesję treningową.",
+        "cuebids_title": "Przejdź do Cuebids",
+        "cuebids_text": "Otwórz normalną stronę startową Cuebids."
+      },
+      "complete": {
+        "title": "Dobra robota",
+        "text": "Teraz działasz samodzielnie, ale sekcja przewodników zawsze jest dostępna, jeśli potrzebujesz pomocy.",
+        "close": "Dalej",
+        "guides": "Otwórz przewodniki"
+      }
+    },
+    "trial": {
+      "got_it": "Rozumiem",
+      "banner_text": "Zakończ pierwszą sesję, aby dokończyć konfigurację.",
+      "banner_play_lia": "Graj z Lią",
+      "banner_skip": "Pomiń",
+      "create_partner_lia": "Lia jest wybrana jako partner. Możesz zmienić jej system tutaj przed rozpoczęciem.",
+      "create_partner": "Wybierz znajomego lub robota, z którym chcesz ćwiczyć.",
+      "create_settings": "Wybierz liczbę rozdań i czy przeciwnicy mają używać zaawansowanych robotów. Domyślne ustawienia są dobre na pierwszą sesję.",
+      "create_start": "Gdy partner i ustawienia wyglądają dobrze, stuknij Start, aby utworzyć sesję.",
+      "enter_session": "Twoje sesje są tutaj — stuknij jedną, aby wrócić i kontynuować licytację.",
+      "open_board": "To Twoja kolej w tym rozdaniu — stuknij, aby je otworzyć i licytować.",
+      "make_bid": "Wybierz odzywkę tutaj — stuknij poziom, potem miano, albo spasuj.",
+      "wait_partner": "Twój partner teraz licytuje — możesz poczekać tutaj.",
+      "play_another": "...albo przejść do innego rozdania podczas oczekiwania. Nie musisz grać ich po kolei.",
+      "stars": "Te gwiazdki oceniają kontrakt, do którego doszliście, w porównaniu z najlepszym teoretycznym kontraktem w tym rozdaniu.",
+      "contracts": "Stuknij Kontrakty, aby zobaczyć, jak punktowałby każdy możliwy kontrakt w tym rozdaniu.",
+      "compare": "Stuknij Porównaj, aby zobaczyć, co licytowali silni gracze z tymi samymi kartami."
     }
   },
   "session": {

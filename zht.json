@@ -622,6 +622,151 @@
       "enjoy": "享受 Cuebids 吧！",
       "confirm": "明白了！",
       "session_page_help": "本次叫牌練習已經完成，請回到首頁繼續。"
+    },
+    "v2": {
+      "progress": {
+        "setup": "設定",
+        "step_count": "第 {{step}} 步，共 {{total}} 步"
+      },
+      "actions": {
+        "back": "返回",
+        "saving": "正在儲存...",
+        "continue": "繼續",
+        "continue_to_first_session": "繼續到第一場練習"
+      },
+      "welcome": {
+        "title": "歡迎使用 Cuebids",
+        "subtitle": "我們可以幫你調整牌桌、顯示牌面選項，並帶你開始第一場練習。",
+        "guided_title": "幫我設定並教學",
+        "guided_text": "選擇練習偏好、牌面顯示和一個簡短教學。",
+        "recommended_title": "使用建議設定",
+        "recommended_text": "開啟有用的叫牌提示，並使用現代 Cuebids 牌面顯示。",
+        "skip_title": "略過設定",
+        "skip_text": "保留目前設定，直接進入 Cuebids。"
+      },
+      "practice_style": {
+        "title": "你想和誰練習？",
+        "subtitle": "我們會用這個答案決定是否顯示機器人練習設定。",
+        "regular_title": "我的固定搭檔",
+        "regular_text": "適合主要想和同一個人叫牌的情況。",
+        "mix_title": "不同搭檔",
+        "mix_text": "適合和朋友、俱樂部搭檔或在活動中練習。",
+        "own_title": "自己練習",
+        "own_text": "適合想和 Lia 練習的情況。",
+        "not_sure_title": "還不確定",
+        "not_sure_text": "保留建議選項。"
+      },
+      "robot_availability": {
+        "title": "也想使用機器人練習嗎？",
+        "subtitle": "當搭檔不在線時，機器人很有用。",
+        "yes_title": "是，顯示機器人搭檔",
+        "yes_text": "將 Lia 顯示為練習搭檔，並選擇她的叫牌體系。",
+        "no_title": "否，隱藏機器人搭檔",
+        "no_text": "我們會隱藏機器人練習搭檔。你之後可以在設定中重新開啟。"
+      },
+      "lia_system": {
+        "title": "Lia 應該使用哪個體系？",
+        "subtitle": "這是你和 Lia 練習時的預設設定。開始任何練習前都可以更改。",
+        "configure_later": "之後可以在設定中更詳細地配置體系。"
+      },
+      "lia_pace": {
+        "title": "Lia 應該多快回應？",
+        "subtitle": "選擇 Lia 是立即回應，還是在叫牌繼續前給你一點時間。",
+        "fast_title": "快速",
+        "fast_text": "Lia 會立即回應。",
+        "natural_title": "自然",
+        "natural_text": "Lia 會稍等一下再叫牌。",
+        "slow_title": "慢速",
+        "slow_text": "Lia 會給你更多時間重新考慮。",
+        "undo_note": "提示：和 Lia 進行競技式練習時，一旦復原時間結束或 Lia 回應，你的叫牌就會最終確定。快速模式下 Lia 會立即回應，所以復原視窗會馬上關閉。選擇較慢速度可以保留復原機會，或稍後在設定中開啟叫牌確認畫面。"
+      },
+      "bidding_hints": {
+        "title": "你想要叫牌提示嗎？",
+        "subtitle": "這些選項可以幫助學習，同時保持競技模式公平。",
+        "phone_friend_title": "叫牌幫助",
+        "phone_friend_text": "在練習叫牌中顯示燈泡。它可以顯示強牌手在相似局面下的選擇，以及 Lia 會怎麼叫。",
+        "phone_friend_helper": "競技模式中停用。",
+        "divergence_title": "專家分歧提示",
+        "divergence_text": "一副牌結束後，標出許多強牌手選擇了其他叫品的位置。",
+        "divergence_helper": "不用打開所有比較，也能快速發現有趣的叫牌決策。",
+        "hcp_title": "顯示 HCP",
+        "hcp_text": "在手牌旁顯示大牌點。",
+        "hcp_helper": "所有模式可用。"
+      },
+      "card_display": {
+        "title": "牌應該怎麼顯示？",
+        "subtitle": "選擇你覺得最容易閱讀的樣式。之後可以更改。",
+        "modern_label": "現代",
+        "modern_title": "現代 Cuebids",
+        "modern_text": "清爽的現代牌面樣式。",
+        "diagram_label": "牌圖",
+        "diagram_title": "牌圖",
+        "diagram_text": "緊湊的橋牌牌圖樣式。",
+        "classic_label": "經典",
+        "classic_title": "經典",
+        "classic_text": "傳統撲克牌外觀。",
+        "size_note": "如果你偏好更大的牌、符號或控制項，可以在 onboarding 之後到設定中調整顯示大小。"
+      },
+      "confirm_bids": {
+        "title": "要確認叫牌嗎？",
+        "subtitle": "確認畫面可以幫助避免誤叫。",
+        "never_title": "不確認",
+        "never_text": "立即提交叫牌。",
+        "with_robot_title": "和 Lia 時",
+        "with_robot_text": "和 Lia 練習時確認叫牌。",
+        "always_title": "總是",
+        "always_text": "每次叫牌提交前都確認。"
+      },
+      "resources": {
+        "title": "哪裡可以獲得幫助",
+        "subtitle": "需要教學、快速答案或 Cuebids 社群幫助時，可以保存這些連結。",
+        "guides_title": "指南和 FAQ",
+        "guides_text": "搜尋朋友、票券、計分、Lia、活動和訂閱相關的指南和 FAQ。",
+        "video_title": "介紹影片",
+        "video_text": "觀看一段簡短影片，了解 Cuebids 的核心概念。",
+        "youtube_title": "YouTube 頻道",
+        "youtube_text": "在 Cuebids 頻道找到更多教學和功能影片。",
+        "discord_title": "Discord 社群",
+        "discord_text": "加入 Cuebids Discord，提問並關注產品更新。",
+        "contact_title": "聯絡支援",
+        "contact_text": "如果有不清楚的地方或需要帳戶協助，請傳送訊息。"
+      },
+      "first_session": {
+        "title": "你已經可以開始練習了",
+        "subtitle": "準備好後，和朋友或 Lia 開始第一場真正的練習。",
+        "add_partner_title": "新增你的搭檔",
+        "add_partner_text": "把好友連結傳給搭檔，或用他們的好友金鑰新增。",
+        "add_friends_title": "新增朋友",
+        "add_friends_text": "開始練習前，新增你想一起練習的人。",
+        "lia_title": "從 Lia 開始",
+        "lia_text": "使用你選擇的 Lia 體系並開始一場練習。",
+        "cuebids_title": "進入 Cuebids",
+        "cuebids_text": "開啟普通的 Cuebids 首頁。"
+      },
+      "complete": {
+        "title": "做得好",
+        "text": "現在你可以自己開始了；如果還需要幫助，指南區一直都在。",
+        "close": "繼續",
+        "guides": "開啟指南"
+      }
+    },
+    "trial": {
+      "got_it": "知道了",
+      "banner_text": "完成第一場練習即可完成設定。",
+      "banner_play_lia": "和 Lia 玩",
+      "banner_skip": "略過",
+      "create_partner_lia": "Lia 已被選為你的搭檔。開始前可以在這裡更改她的體系。",
+      "create_partner": "選擇你想一起練習的朋友或機器人。",
+      "create_settings": "選擇要玩的牌數，以及對手是否使用進階機器人。第一次練習使用預設設定即可。",
+      "create_start": "搭檔和設定看起來沒問題後，點擊開始建立練習。",
+      "enter_session": "你的練習會顯示在這裡。點擊一個即可回去繼續叫牌。",
+      "open_board": "這副牌輪到你了。點擊開啟並叫牌。",
+      "make_bid": "在這裡選擇叫品：先點階數，再點花色，或選擇 Pass。",
+      "wait_partner": "現在輪到你的搭檔叫牌。你可以在這裡等待。",
+      "play_another": "...或者等待時跳到另一副牌。你不需要按順序完成。",
+      "stars": "這些星星根據你們達到的合約與本牌最佳理論合約的差距來評分。",
+      "contracts": "點擊合約，查看這副牌每個可能合約的得分。",
+      "compare": "點擊比較，查看強牌手拿同樣的牌會怎麼叫。"
     }
   },
   "session": {

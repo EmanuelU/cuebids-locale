@@ -621,6 +621,151 @@
       "enjoy": "Profitez de Cuebids !",
       "confirm": "J’ai compris !",
       "session_page_help": "Votre session est terminée, retournez à la page de démarrage pour continuer."
+    },
+    "v2": {
+      "progress": {
+        "setup": "Configuration",
+        "step_count": "Étape {{step}} sur {{total}}"
+      },
+      "actions": {
+        "back": "Retour",
+        "saving": "Enregistrement...",
+        "continue": "Continuer",
+        "continue_to_first_session": "Continuer vers la première session"
+      },
+      "welcome": {
+        "title": "Bienvenue sur Cuebids",
+        "subtitle": "Nous pouvons régler votre table, montrer les options d’affichage des cartes et vous aider à lancer votre première session.",
+        "guided_title": "Me configurer et me guider",
+        "guided_text": "Choisissez vos préférences de pratique, l’affichage des cartes et une courte leçon.",
+        "recommended_title": "Utiliser la configuration recommandée",
+        "recommended_text": "Activez les aides d’enchères utiles et l’affichage moderne des cartes Cuebids.",
+        "skip_title": "Ignorer la configuration",
+        "skip_text": "Conserver les réglages actuels et aller directement à Cuebids."
+      },
+      "practice_style": {
+        "title": "Avec qui voulez-vous vous entraîner ?",
+        "subtitle": "Nous utiliserons cette réponse pour décider s’il faut afficher les réglages de pratique avec robot.",
+        "regular_title": "Mon partenaire régulier",
+        "regular_text": "Idéal si vous voulez surtout enchérir avec la même personne.",
+        "mix_title": "Plusieurs partenaires",
+        "mix_text": "Idéal si vous pratiquez avec des amis, des partenaires de club ou en événements.",
+        "own_title": "Seul",
+        "own_text": "Idéal si vous voulez pratiquer avec Lia.",
+        "not_sure_title": "Je ne sais pas encore",
+        "not_sure_text": "Garder les options recommandées visibles."
+      },
+      "robot_availability": {
+        "title": "Voulez-vous aussi pratiquer avec des robots ?",
+        "subtitle": "Les robots sont utiles quand votre partenaire n’est pas disponible.",
+        "yes_title": "Oui, afficher les partenaires robots",
+        "yes_text": "Afficher Lia comme partenaire de pratique et choisir son système d’enchères.",
+        "no_title": "Non, masquer les partenaires robots",
+        "no_text": "Nous masquerons les robots comme partenaires de pratique. Vous pourrez les réactiver plus tard dans les Paramètres."
+      },
+      "lia_system": {
+        "title": "Quel système Lia doit-elle utiliser ?",
+        "subtitle": "Ce sera votre valeur par défaut pour pratiquer avec Lia. Vous pourrez la modifier avant de lancer une session.",
+        "configure_later": "Vous pourrez configurer le système plus précisément plus tard dans les Paramètres."
+      },
+      "lia_pace": {
+        "title": "À quelle vitesse Lia doit-elle répondre ?",
+        "subtitle": "Choisissez si Lia répond immédiatement ou vous laisse un moment avant que les enchères continuent.",
+        "fast_title": "Rapide",
+        "fast_text": "Lia répond immédiatement.",
+        "natural_title": "Naturel",
+        "natural_text": "Lia attend brièvement avant d’enchérir.",
+        "slow_title": "Lent",
+        "slow_text": "Lia vous laisse plus de temps pour réfléchir.",
+        "undo_note": "Bon à savoir : quand vous jouez en mode compétitif avec Lia, une enchère devient définitive quand le délai d’annulation expire ou quand Lia répond. En rythme rapide, Lia répond tout de suite, donc la fenêtre d’annulation se ferme immédiatement. Choisissez un rythme plus lent pour garder une chance d’annuler, ou activez l’écran de confirmation plus tard dans la configuration."
+      },
+      "bidding_hints": {
+        "title": "Voulez-vous des aides d’enchères ?",
+        "subtitle": "Ces options vous aident à apprendre tout en gardant le jeu compétitif équitable.",
+        "phone_friend_title": "Aide aux enchères",
+        "phone_friend_text": "Afficher l’ampoule pendant les enchères d’entraînement. Elle peut montrer ce que de bons joueurs ont fait dans des positions similaires et ce que Lia enchérirait.",
+        "phone_friend_helper": "Désactivé dans les modes compétitifs.",
+        "divergence_title": "Désaccords d’experts",
+        "divergence_text": "Après une donne, met en évidence les enchères où beaucoup de bons joueurs ont choisi autre chose.",
+        "divergence_helper": "Un moyen rapide de repérer les décisions d’enchères intéressantes sans ouvrir toutes les comparaisons.",
+        "hcp_title": "Afficher les HCP",
+        "hcp_text": "Afficher les points d’honneur avec votre main.",
+        "hcp_helper": "Disponible dans tous les modes."
+      },
+      "card_display": {
+        "title": "À quoi doivent ressembler les cartes ?",
+        "subtitle": "Choisissez le style le plus lisible pour vous. Vous pourrez le modifier plus tard.",
+        "modern_label": "Moderne",
+        "modern_title": "Cuebids moderne",
+        "modern_text": "Style de cartes propre et moderne.",
+        "diagram_label": "Diagramme",
+        "diagram_title": "Diagramme",
+        "diagram_text": "Style compact de diagramme de bridge.",
+        "classic_label": "Classique",
+        "classic_title": "Classique",
+        "classic_text": "Aspect traditionnel de cartes à jouer.",
+        "size_note": "Vous préférez des cartes, symboles ou contrôles plus grands ? Vous pourrez ajuster la taille d’affichage dans les Paramètres après l’onboarding."
+      },
+      "confirm_bids": {
+        "title": "Voulez-vous confirmer vos enchères ?",
+        "subtitle": "Un écran de confirmation peut éviter les enchères accidentelles.",
+        "never_title": "Pas de confirmation",
+        "never_text": "Placer les enchères immédiatement.",
+        "with_robot_title": "Avec Lia",
+        "with_robot_text": "Confirmer les enchères quand vous pratiquez avec Lia.",
+        "always_title": "Toujours",
+        "always_text": "Confirmer chaque enchère avant qu’elle soit placée."
+      },
+      "resources": {
+        "title": "Où trouver de l’aide",
+        "subtitle": "Gardez ces liens sous la main pour une visite guidée, une réponse rapide ou l’aide de la communauté Cuebids.",
+        "guides_title": "Guides et FAQ",
+        "guides_text": "Rechercher dans les guides et la FAQ sur les amis, tickets, scoring, Lia, événements et abonnements.",
+        "video_title": "Vidéo d’introduction",
+        "video_text": "Regarder une courte vidéo qui explique les idées principales de Cuebids.",
+        "youtube_title": "Chaîne YouTube",
+        "youtube_text": "Trouver plus de tutoriels et de vidéos de fonctionnalités sur la chaîne Cuebids.",
+        "discord_title": "Communauté Discord",
+        "discord_text": "Rejoindre le Discord Cuebids pour poser des questions et suivre les nouveautés.",
+        "contact_title": "Contacter le support",
+        "contact_text": "Envoyer un message si quelque chose n’est pas clair ou si vous avez besoin d’aide sur votre compte."
+      },
+      "first_session": {
+        "title": "Vous êtes prêt à pratiquer",
+        "subtitle": "Lancez votre première vraie session avec un ami ou Lia quand vous êtes prêt.",
+        "add_partner_title": "Ajouter votre partenaire",
+        "add_partner_text": "Envoyez votre lien d’ami à votre partenaire ou ajoutez-le avec sa clé d’ami.",
+        "add_friends_title": "Ajouter des amis",
+        "add_friends_text": "Ajoutez les personnes avec qui vous voulez pratiquer avant de lancer une session.",
+        "lia_title": "Commencer avec Lia",
+        "lia_text": "Utiliser le système Lia choisi et lancer une session de pratique.",
+        "cuebids_title": "Aller à Cuebids",
+        "cuebids_text": "Ouvrir la page d’accueil normale de Cuebids."
+      },
+      "complete": {
+        "title": "Bien joué",
+        "text": "Vous êtes autonome maintenant, mais la section des guides reste disponible si vous avez besoin d’aide.",
+        "close": "Continuer",
+        "guides": "Ouvrir les guides"
+      }
+    },
+    "trial": {
+      "got_it": "Compris",
+      "banner_text": "Terminez votre première session pour finaliser la configuration.",
+      "banner_play_lia": "Jouer avec Lia",
+      "banner_skip": "Ignorer",
+      "create_partner_lia": "Lia est sélectionnée comme partenaire. Vous pouvez changer son système ici avant de commencer.",
+      "create_partner": "Choisissez l’ami ou le robot avec qui vous voulez pratiquer.",
+      "create_settings": "Choisissez le nombre de donnes et si les adversaires doivent utiliser des robots avancés. Les valeurs par défaut conviennent pour votre première session.",
+      "create_start": "Quand le partenaire et les réglages vous conviennent, appuyez sur Démarrer pour créer la session.",
+      "enter_session": "Vos sessions se trouvent ici — touchez-en une pour y revenir et continuer les enchères.",
+      "open_board": "C’est à vous sur cette donne — touchez-la pour l’ouvrir et enchérir.",
+      "make_bid": "Choisissez votre enchère ici — touchez un niveau, puis une couleur, ou passez.",
+      "wait_partner": "Votre partenaire enchérit maintenant — vous pouvez attendre ici.",
+      "play_another": "...ou passer à une autre donne pendant que vous attendez. Vous n’avez pas besoin de les jouer dans l’ordre.",
+      "stars": "Ces étoiles évaluent le contrat atteint par rapport au meilleur contrat théorique de cette donne.",
+      "contracts": "Touchez Contrats pour voir comment chaque contrat possible aurait scoré sur cette donne.",
+      "compare": "Touchez Comparer pour voir ce que de bons joueurs ont enchéri avec les mêmes cartes."
     }
   },
   "session": {
