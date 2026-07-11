@@ -641,11 +641,11 @@
         "recommended_title": "Utiliser la configuration recommandée",
         "recommended_text": "Activez les aides d’enchères utiles et l’affichage moderne des cartes Cuebids.",
         "skip_title": "Ignorer la configuration",
-        "skip_text": "Conserver les réglages actuels et aller directement à Cuebids."
+        "skip_text": "Conserver les réglages actuels et ignorer également la session d’introduction, qui vous apprend à utiliser Cuebids."
       },
       "practice_style": {
         "title": "Avec qui voulez-vous vous entraîner ?",
-        "subtitle": "Nous utiliserons cette réponse pour décider s’il faut afficher les réglages de pratique avec robot.",
+        "subtitle": "Lia est le bot de bridge de Cuebids. Vous pouvez pratiquer avec elle lorsque vous êtes seul ou que votre partenaire n’est pas disponible.",
         "regular_title": "Mon partenaire régulier",
         "regular_text": "Idéal si vous voulez surtout enchérir avec la même personne.",
         "mix_title": "Plusieurs partenaires",
@@ -711,8 +711,10 @@
         "subtitle": "Un écran de confirmation peut éviter les enchères accidentelles.",
         "never_title": "Pas de confirmation",
         "never_text": "Placer les enchères immédiatement.",
+        "never_recommendation": "Recommandé : avec une réponse différée de Lia, choisissez « Pas de confirmation » et utilisez le délai d’annulation comme fenêtre de confirmation.",
         "with_robot_title": "Avec Lia",
         "with_robot_text": "Confirmer les enchères quand vous pratiquez avec Lia.",
+        "with_robot_recommendation": "Recommandé : puisque vous avez choisi des réponses instantanées de Lia, choisissez « Avec Lia ». Sans confirmation, Lia enchérira si vite que vous n’aurez peut-être pas le temps de réagir à un clic accidentel.",
         "always_title": "Toujours",
         "always_text": "Confirmer chaque enchère avant qu’elle soit placée."
       },

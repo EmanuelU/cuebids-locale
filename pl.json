@@ -641,11 +641,11 @@
         "recommended_title": "Użyj zalecanych ustawień",
         "recommended_text": "Włącz pomocne wskazówki licytacyjne i nowoczesny wygląd kart Cuebids.",
         "skip_title": "Pomiń konfigurację",
-        "skip_text": "Zostaw ustawienia bez zmian i przejdź prosto do Cuebids."
+        "skip_text": "Zostaw ustawienia bez zmian i pomiń także sesję wprowadzającą, która uczy, jak korzystać z Cuebids."
       },
       "practice_style": {
         "title": "Z kim chcesz ćwiczyć?",
-        "subtitle": "Użyjemy tego, aby zdecydować, czy pokazać ustawienia gry z robotami.",
+        "subtitle": "Lia to bot do brydża firmy Cuebids. Możesz z nią ćwiczyć, gdy ćwiczysz samodzielnie lub gdy partner nie jest dostępny.",
         "regular_title": "Mój stały partner",
         "regular_text": "Najlepsze, gdy zwykle chcesz licytować z tą samą osobą.",
         "mix_title": "Różni partnerzy",
@@ -711,8 +711,10 @@
         "subtitle": "Ekran potwierdzenia może pomóc uniknąć przypadkowych odzywek.",
         "never_title": "Bez potwierdzenia",
         "never_text": "Odzywki są składane od razu.",
+        "never_recommendation": "Zalecane: przy opóźnionych odpowiedziach Lii wybierz brak potwierdzenia i używaj czasu na cofnięcie jako okna potwierdzenia.",
         "with_robot_title": "Z Lią",
         "with_robot_text": "Potwierdzaj odzywki podczas treningu z Lią.",
+        "with_robot_recommendation": "Zalecane: ponieważ wybrano natychmiastowe odpowiedzi Lii, wybierz „Z Lią”. Bez potwierdzenia Lia złoży odzywkę tak szybko, że możesz nie zdążyć zareagować na przypadkowe kliknięcie.",
         "always_title": "Zawsze",
         "always_text": "Potwierdzaj każdą odzywkę przed jej złożeniem."
       },

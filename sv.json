@@ -641,11 +641,11 @@
         "recommended_title": "Använd rekommenderade inställningar",
         "recommended_text": "Slå på hjälpsam budgivningshjälp och använd den moderna Cuebids-kortvisningen.",
         "skip_title": "Hoppa över inställning",
-        "skip_text": "Lämna inställningarna som de är och gå direkt till Cuebids."
+        "skip_text": "Lämna inställningarna som de är och hoppa även över introduktionssessionen – sessionen som lär dig hur du använder Cuebids."
       },
       "practice_style": {
         "title": "Vem vill du träna med?",
-        "subtitle": "Vi använder svaret för att avgöra om robotinställningar ska visas.",
+        "subtitle": "Lia är Cuebids bridgebot. Du kan träna med henne när du tränar på egen hand eller när din partner inte är tillgänglig.",
         "regular_title": "Min ordinarie partner",
         "regular_text": "Bäst när du oftast vill bjuda med samma person.",
         "mix_title": "Flera olika partners",
@@ -711,8 +711,10 @@
         "subtitle": "En bekräftelseskärm kan hjälpa till att undvika felklick.",
         "never_title": "Ingen bekräftelse",
         "never_text": "Lägg bud direkt.",
+        "never_recommendation": "Rekommenderas: med en fördröjd Lia kan du välja ingen bekräftelse och använda ångra-timern som ett bekräftelsefönster.",
         "with_robot_title": "Med Lia",
         "with_robot_text": "Bekräfta bud när du tränar med Lia.",
+        "with_robot_recommendation": "Rekommenderas: eftersom du valde att Lia ska svara direkt bör du välja ”Med Lia”. Utan bekräftelse lägger Lia bud så snabbt att du kanske inte hinner reagera på ett felklick.",
         "always_title": "Alltid",
         "always_text": "Bekräfta varje bud innan det läggs."
       },

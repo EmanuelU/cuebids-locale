@@ -641,11 +641,11 @@
         "recommended_title": "Use recommended setup",
         "recommended_text": "Turn on helpful bidding guidance and use the modern Cuebids card display.",
         "skip_title": "Skip setup",
-        "skip_text": "Leave settings unchanged and go straight to Cuebids."
+        "skip_text": "Leave settings unchanged and skip the onboarding session too—the session that teaches you how to use Cuebids."
       },
       "practice_style": {
         "title": "Who do you want to practice with?",
-        "subtitle": "We will use this to decide whether to show robot practice settings.",
+        "subtitle": "Lia is Cuebids' bridge-playing bot. You can practice with her when you are on your own or your partner is unavailable.",
         "regular_title": "My regular partner",
         "regular_text": "Best when you mostly want to bid with the same person.",
         "mix_title": "A mix of partners",
@@ -711,8 +711,10 @@
         "subtitle": "A confirmation screen can help prevent accidental bids.",
         "never_title": "No confirmation",
         "never_text": "Place bids immediately.",
+        "never_recommendation": "Recommended: with a delayed Lia, choose no confirmation and use the undo timer as a confirmation window.",
         "with_robot_title": "With Lia",
         "with_robot_text": "Confirm bids when practicing with Lia.",
+        "with_robot_recommendation": "Recommended: because you chose instant Lia responses, choose “With Lia”. Without confirmation, Lia will bid so quickly that you may not have time to react to a missclick.",
         "always_title": "Always",
         "always_text": "Confirm every bid before it is placed."
       },

@@ -642,11 +642,11 @@
         "recommended_title": "使用推荐设置",
         "recommended_text": "开启有用的叫牌提示，并使用现代 Cuebids 牌面显示。",
         "skip_title": "跳过设置",
-        "skip_text": "保持当前设置，直接进入 Cuebids。"
+        "skip_text": "保持当前设置，并跳过入门练习（该练习用于教你如何使用 Cuebids）。"
       },
       "practice_style": {
         "title": "你想和谁练习？",
-        "subtitle": "我们会用这个答案决定是否显示机器人练习设置。",
+        "subtitle": "Lia 是 Cuebids 的桥牌机器人。当你自己练习或搭档不在线时，可以和她一起练习。",
         "regular_title": "我的固定搭档",
         "regular_text": "适合主要想和同一个人叫牌的情况。",
         "mix_title": "不同搭档",
@@ -712,8 +712,10 @@
         "subtitle": "确认屏幕可以帮助避免误叫。",
         "never_title": "不确认",
         "never_text": "立即提交叫牌。",
+        "never_recommendation": "推荐：Lia 有响应延迟时，选择不确认，并使用撤销计时器作为确认窗口。",
         "with_robot_title": "和 Lia 时",
         "with_robot_text": "和 Lia 练习时确认叫牌。",
+        "with_robot_recommendation": "推荐：你选择了 Lia 立即回应，请选择“和 Lia 时”。如果不确认，Lia 会快速提交叫牌，你可能来不及对误点击做出反应。",
         "always_title": "总是",
         "always_text": "每次叫牌提交前都确认。"
       },

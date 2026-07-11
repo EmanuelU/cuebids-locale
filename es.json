@@ -641,11 +641,11 @@
         "recommended_title": "Usar configuración recomendada",
         "recommended_text": "Activa ayuda útil de subasta y usa la visualización moderna de cartas de Cuebids.",
         "skip_title": "Omitir configuración",
-        "skip_text": "Dejar los ajustes como están e ir directamente a Cuebids."
+        "skip_text": "Deja los ajustes como están y omite también la sesión de introducción, que te enseña a usar Cuebids."
       },
       "practice_style": {
         "title": "¿Con quién quieres practicar?",
-        "subtitle": "Usaremos esto para decidir si mostramos ajustes de práctica con robots.",
+        "subtitle": "Lia es el bot de bridge de Cuebids. Puedes practicar con ella cuando estés por tu cuenta o tu pareja no esté disponible.",
         "regular_title": "Mi pareja habitual",
         "regular_text": "Mejor si casi siempre quieres subastar con la misma persona.",
         "mix_title": "Una mezcla de parejas",
@@ -711,8 +711,10 @@
         "subtitle": "Una pantalla de confirmación puede ayudar a evitar subastas accidentales.",
         "never_title": "Sin confirmación",
         "never_text": "Colocar subastas inmediatamente.",
+        "never_recommendation": "Recomendado: con una Lia con respuesta retardada, elige sin confirmación y usa el temporizador para deshacer como ventana de confirmación.",
         "with_robot_title": "Con Lia",
         "with_robot_text": "Confirmar subastas cuando practiques con Lia.",
+        "with_robot_recommendation": "Recomendado: como has elegido que Lia responda al instante, elige «Con Lia». Sin confirmación, Lia subastará tan rápido que quizá no tengas tiempo de reaccionar a un clic accidental.",
         "always_title": "Siempre",
         "always_text": "Confirmar cada subasta antes de colocarla."
       },
