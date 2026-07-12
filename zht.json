@@ -1849,6 +1849,8 @@
     "engine_version_expired": "抱歉，此會話使用了不再可用的舊機器人引擎，因此已過期。",
     "auto_undo_offline": "由於連接中斷，您的待處理叫牌已自動取消",
     "waiting_for_partner": "等待搭檔...",
+    "opponent_bid_hidden": "對手的叫牌會隱藏，直到再次輪到你叫牌",
+    "alerts_only_on_turn": "只有輪到你時才能編輯叫牌提示",
     "waiting_for": "等待...",
     "sure": "你確定嗎？",
     "confirm": "確認",

@@ -1848,6 +1848,8 @@
     "engine_version_expired": "Lo sentimos, esta sesión usaba un motor de robot antiguo que ya no está disponible, así que ha caducado.",
     "auto_undo_offline": "Tu puja pendiente se canceló automáticamente por pérdida de conexión",
     "waiting_for_partner": "Esperando al compañero...",
+    "opponent_bid_hidden": "La puja del oponente está oculta hasta que vuelva a ser tu turno",
+    "alerts_only_on_turn": "Solo puedes editar las alertas cuando es tu turno",
     "waiting_for": "Esperando a ...",
     "sure": "¿Seguro?",
     "confirm": "Confirmar",

@@ -1848,6 +1848,8 @@
     "engine_version_expired": "Przepraszamy, ta sesja używała starego silnika robota, który nie jest już dostępny, więc sesja wygasła.",
     "auto_undo_offline": "Twoja oczekująca odzywka została automatycznie anulowana z powodu utraty połączenia",
     "waiting_for_partner": "Oczekiwanie na partnera...",
+    "opponent_bid_hidden": "Odzywka przeciwnika jest ukryta, dopóki znów nie nadejdzie Twoja kolej",
+    "alerts_only_on_turn": "Możesz edytować alerty tylko wtedy, gdy jest Twoja kolej",
     "waiting_for": "Oczekiwanie na...",
     "sure": "Czy jesteś pewien?",
     "confirm": "Potwierdź",

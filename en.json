@@ -1848,6 +1848,8 @@
     "engine_version_expired": "Sorry, this session used an old robot engine that is no longer available, so it has been expired.",
     "auto_undo_offline": "Your pending bid was automatically cancelled due to connection loss",
     "waiting_for_partner": "Waiting for partner...",
+    "opponent_bid_hidden": "Opponent bid is hidden until it's your turn again",
+    "alerts_only_on_turn": "You can only edit alerts on your turn",
     "waiting_for": "Waiting for ...",
     "sure": "Are you sure?",
     "confirm": "Confirm",

@@ -1847,6 +1847,8 @@
     "not_recommended_confirm": "Ce n’est pas ce que je recommanderais. Etes-vous sûr de vouloir faire cette enchère ?",
     "engine_version_expired": "Désolé, cette session utilisait un ancien moteur robot qui n'est plus disponible. Elle a donc expiré.",
     "waiting_for_partner": "En attente du partenaire...",
+    "opponent_bid_hidden": "L’enchère de l’adversaire est masquée jusqu’à ce que ce soit à nouveau votre tour",
+    "alerts_only_on_turn": "Vous ne pouvez modifier les alertes que lorsque c’est votre tour",
     "auto_undo_offline": "Votre enchère en attente a été automatiquement annulée en raison d'une perte de connexion",
     "waiting_for": "En attente de...",
     "sure": "Etes-vous sûr ?",
