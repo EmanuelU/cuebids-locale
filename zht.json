@@ -646,7 +646,8 @@
       },
       "practice_style": {
         "title": "你想和誰練習？",
-        "subtitle": "Lia 是 Cuebids 的橋牌機器人。當你自己練習或搭檔不在線時，可以和她一起練習。",
+        "subtitle": "Lia 是一個機器人，你可以在獨自練習或搭檔無法參加時與她練習。",
+        "lia_note": "Lia 是 IntoBridge 的機器人，已整合到 Cuebids 中。",
         "regular_title": "我的固定搭檔",
         "regular_text": "適合主要想和同一個人叫牌的情況。",
         "mix_title": "不同搭檔",

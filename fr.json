@@ -645,7 +645,8 @@
       },
       "practice_style": {
         "title": "Avec qui voulez-vous vous entraîner ?",
-        "subtitle": "Lia est le bot de bridge de Cuebids. Vous pouvez pratiquer avec elle lorsque vous êtes seul ou que votre partenaire n’est pas disponible.",
+        "subtitle": "Lia est un robot avec lequel vous pouvez vous entraîner lorsque vous êtes seul ou que votre partenaire n’est pas disponible.",
+        "lia_note": "Lia est le robot d’IntoBridge, intégré à Cuebids.",
         "regular_title": "Mon partenaire régulier",
         "regular_text": "Idéal si vous voulez surtout enchérir avec la même personne.",
         "mix_title": "Plusieurs partenaires",

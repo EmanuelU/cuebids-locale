@@ -645,7 +645,8 @@
       },
       "practice_style": {
         "title": "Vem vill du träna med?",
-        "subtitle": "Lia är Cuebids bridgebot. Du kan träna med henne när du tränar på egen hand eller när din partner inte är tillgänglig.",
+        "subtitle": "Lia är en robot som du kan träna med när du tränar på egen hand eller när din partner inte är tillgänglig.",
+        "lia_note": "Lia är IntoBridges robot och är integrerad i Cuebids.",
         "regular_title": "Min ordinarie partner",
         "regular_text": "Bäst när du oftast vill bjuda med samma person.",
         "mix_title": "Flera olika partners",

@@ -645,7 +645,8 @@
       },
       "practice_style": {
         "title": "¿Con quién quieres practicar?",
-        "subtitle": "Lia es el bot de bridge de Cuebids. Puedes practicar con ella cuando estés por tu cuenta o tu pareja no esté disponible.",
+        "subtitle": "Lia es un robot con el que puedes practicar cuando estés por tu cuenta o tu pareja no esté disponible.",
+        "lia_note": "Lia es el robot de IntoBridge, integrado en Cuebids.",
         "regular_title": "Mi pareja habitual",
         "regular_text": "Mejor si casi siempre quieres subastar con la misma persona.",
         "mix_title": "Una mezcla de parejas",

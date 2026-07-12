@@ -645,7 +645,8 @@
       },
       "practice_style": {
         "title": "Z kim chcesz ćwiczyć?",
-        "subtitle": "Lia to bot do brydża firmy Cuebids. Możesz z nią ćwiczyć, gdy ćwiczysz samodzielnie lub gdy partner nie jest dostępny.",
+        "subtitle": "Lia to robot, z którym możesz ćwiczyć, gdy jesteś sam lub Twój partner jest niedostępny.",
+        "lia_note": "Lia to robot IntoBridge zintegrowany z Cuebids.",
         "regular_title": "Mój stały partner",
         "regular_text": "Najlepsze, gdy zwykle chcesz licytować z tą samą osobą.",
         "mix_title": "Różni partnerzy",

@@ -645,7 +645,8 @@
       },
       "practice_style": {
         "title": "Who do you want to practice with?",
-        "subtitle": "Lia is Cuebids' bridge-playing bot. You can practice with her when you are on your own or your partner is unavailable.",
+        "subtitle": "Lia is a robot you can practice with when you are on your own or your partner is unavailable.",
+        "lia_note": "Lia is IntoBridge's robot, integrated into Cuebids.",
         "regular_title": "My regular partner",
         "regular_text": "Best when you mostly want to bid with the same person.",
         "mix_title": "A mix of partners",
