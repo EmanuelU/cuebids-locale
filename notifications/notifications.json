@@ -935,5 +935,305 @@
       "zh": "每周",
       "zht": "每週"
     }
+  },
+  "ko_signup_confirmed": {
+    "en": {
+      "title": "Knockout signup",
+      "text": "{{partner}} signed you up for {{tournament}}"
+    },
+    "sv": {
+      "title": "Anmäld till knockout",
+      "text": "{{partner}} har anmält er till {{tournament}}"
+    },
+    "pl": {
+      "title": "Zapis do turnieju",
+      "text": "{{partner}} zapisał Was do {{tournament}}"
+    },
+    "fr": {
+      "title": "Inscription au tournoi",
+      "text": "{{partner}} vous a inscrits à {{tournament}}"
+    },
+    "es": {
+      "title": "Inscripción al torneo",
+      "text": "{{partner}} os ha inscrito en {{tournament}}"
+    },
+    "zh": {
+      "title": "淘汰赛报名",
+      "text": "{{partner}} 为你们报名了 {{tournament}}"
+    },
+    "zht": {
+      "title": "淘汰賽報名",
+      "text": "{{partner}} 為你們報名了 {{tournament}}"
+    }
+  },
+  "ko_withdrawn": {
+    "en": {
+      "title": "Knockout entry withdrawn",
+      "text": "Your pair's entry in {{tournament}} was withdrawn"
+    },
+    "sv": {
+      "title": "Knockout-anmälan återkallad",
+      "text": "Ert pars anmälan till {{tournament}} har återkallats"
+    },
+    "pl": {
+      "title": "Wycofano zgłoszenie",
+      "text": "Zgłoszenie Waszej pary do {{tournament}} zostało wycofane"
+    },
+    "fr": {
+      "title": "Inscription retirée",
+      "text": "L'inscription de votre paire à {{tournament}} a été retirée"
+    },
+    "es": {
+      "title": "Inscripción retirada",
+      "text": "La inscripción de vuestra pareja en {{tournament}} fue retirada"
+    },
+    "zh": {
+      "title": "已退出淘汰赛",
+      "text": "你们已退出 {{tournament}}"
+    },
+    "zht": {
+      "title": "已退出淘汰賽",
+      "text": "你們已退出 {{tournament}}"
+    }
+  },
+  "ko_match_ready": {
+    "en": {
+      "title": "Knockout match ready",
+      "text": "Your round {{round}} match is ready to play"
+    },
+    "sv": {
+      "title": "Knockout-match redo",
+      "text": "Er match i omgång {{round}} är redo att spelas"
+    },
+    "pl": {
+      "title": "Mecz gotowy",
+      "text": "Wasz mecz rundy {{round}} jest gotowy do gry"
+    },
+    "fr": {
+      "title": "Match de tournoi prêt",
+      "text": "Votre match du tour {{round}} est prêt à jouer"
+    },
+    "es": {
+      "title": "Partido listo",
+      "text": "Vuestro partido de la ronda {{round}} está listo para jugar"
+    },
+    "zh": {
+      "title": "淘汰赛对局已就绪",
+      "text": "你们第 {{round}} 轮的对局已可开始"
+    },
+    "zht": {
+      "title": "淘汰賽對局已就緒",
+      "text": "你們第 {{round}} 輪的對局已可開始"
+    }
+  },
+  "ko_started_bye": {
+    "en": {
+      "title": "Knockout started",
+      "text": "{{tournament}} has started — you have a bye into the next round"
+    },
+    "sv": {
+      "title": "Knockout startad",
+      "text": "{{tournament}} har startat — ni står över till nästa omgång"
+    },
+    "pl": {
+      "title": "Turniej rozpoczęty",
+      "text": "{{tournament}} rozpoczął się — macie wolny los do następnej rundy"
+    },
+    "fr": {
+      "title": "Tournoi commencé",
+      "text": "{{tournament}} a commencé — vous êtes exemptés au prochain tour"
+    },
+    "es": {
+      "title": "Torneo iniciado",
+      "text": "{{tournament}} ha comenzado — pasáis directamente a la siguiente ronda"
+    },
+    "zh": {
+      "title": "淘汰赛开始",
+      "text": "{{tournament}} 已开始 — 你们轮空晋级下一轮"
+    },
+    "zht": {
+      "title": "淘汰賽開始",
+      "text": "{{tournament}} 已開始 — 你們輪空晉級下一輪"
+    }
+  },
+  "ko_match_won_waiting": {
+    "en": {
+      "title": "Match won!",
+      "text": "You advanced in {{tournament}} — waiting for your next opponents"
+    },
+    "sv": {
+      "title": "Match vunnen!",
+      "text": "Ni går vidare i {{tournament}} — inväntar era nästa motståndare"
+    },
+    "pl": {
+      "title": "Mecz wygrany!",
+      "text": "Awansowaliście w {{tournament}} — czekacie na kolejnych przeciwników"
+    },
+    "fr": {
+      "title": "Match gagné !",
+      "text": "Vous avancez dans {{tournament}} — en attente de vos prochains adversaires"
+    },
+    "es": {
+      "title": "¡Partido ganado!",
+      "text": "Habéis avanzado en {{tournament}} — esperando a vuestros próximos rivales"
+    },
+    "zh": {
+      "title": "比赛获胜！",
+      "text": "你们在 {{tournament}} 中晋级 — 等待下一轮对手"
+    },
+    "zht": {
+      "title": "比賽獲勝！",
+      "text": "你們在 {{tournament}} 中晉級 — 等待下一輪對手"
+    }
+  },
+  "ko_eliminated": {
+    "en": {
+      "title": "Knocked out",
+      "text": "Your run in {{tournament}} is over. Well played!"
+    },
+    "sv": {
+      "title": "Utslagna",
+      "text": "Er resa i {{tournament}} är över. Bra spelat!"
+    },
+    "pl": {
+      "title": "Odpadliście",
+      "text": "Wasza przygoda w {{tournament}} dobiegła końca. Dobra gra!"
+    },
+    "fr": {
+      "title": "Éliminés",
+      "text": "Votre parcours dans {{tournament}} est terminé. Bien joué !"
+    },
+    "es": {
+      "title": "Eliminados",
+      "text": "Vuestro recorrido en {{tournament}} ha terminado. ¡Bien jugado!"
+    },
+    "zh": {
+      "title": "被淘汰",
+      "text": "你们在 {{tournament}} 的旅程结束了。打得漂亮！"
+    },
+    "zht": {
+      "title": "被淘汰",
+      "text": "你們在 {{tournament}} 的旅程結束了。打得漂亮！"
+    }
+  },
+  "ko_champion": {
+    "en": {
+      "title": "Champions!",
+      "text": "You won {{tournament}}!"
+    },
+    "sv": {
+      "title": "Mästare!",
+      "text": "Ni vann {{tournament}}!"
+    },
+    "pl": {
+      "title": "Mistrzowie!",
+      "text": "Wygraliście {{tournament}}!"
+    },
+    "fr": {
+      "title": "Champions !",
+      "text": "Vous avez gagné {{tournament}} !"
+    },
+    "es": {
+      "title": "¡Campeones!",
+      "text": "¡Habéis ganado {{tournament}}!"
+    },
+    "zh": {
+      "title": "冠军！",
+      "text": "你们赢得了 {{tournament}}！"
+    },
+    "zht": {
+      "title": "冠軍！",
+      "text": "你們贏得了 {{tournament}}！"
+    }
+  },
+  "ko_runner_up": {
+    "en": {
+      "title": "Finalists!",
+      "text": "You reached the final of {{tournament}}"
+    },
+    "sv": {
+      "title": "Finalister!",
+      "text": "Ni nådde finalen i {{tournament}}"
+    },
+    "pl": {
+      "title": "Finaliści!",
+      "text": "Dotarliście do finału {{tournament}}"
+    },
+    "fr": {
+      "title": "Finalistes !",
+      "text": "Vous avez atteint la finale de {{tournament}}"
+    },
+    "es": {
+      "title": "¡Finalistas!",
+      "text": "Habéis llegado a la final de {{tournament}}"
+    },
+    "zh": {
+      "title": "亚军！",
+      "text": "你们打进了 {{tournament}} 的决赛"
+    },
+    "zht": {
+      "title": "亞軍！",
+      "text": "你們打進了 {{tournament}} 的決賽"
+    }
+  },
+  "ko_cancelled_refund": {
+    "en": {
+      "title": "Knockout cancelled",
+      "text": "{{tournament}} was cancelled — your entry was refunded"
+    },
+    "sv": {
+      "title": "Knockout inställd",
+      "text": "{{tournament}} ställdes in — er anmälningsavgift har återbetalats"
+    },
+    "pl": {
+      "title": "Turniej odwołany",
+      "text": "{{tournament}} został odwołany — zwrócono Wam wpisowe"
+    },
+    "fr": {
+      "title": "Tournoi annulé",
+      "text": "{{tournament}} a été annulé — votre inscription a été remboursée"
+    },
+    "es": {
+      "title": "Torneo cancelado",
+      "text": "{{tournament}} fue cancelado — se os devolvió la inscripción"
+    },
+    "zh": {
+      "title": "淘汰赛取消",
+      "text": "{{tournament}} 已取消 — 报名费已退还"
+    },
+    "zht": {
+      "title": "淘汰賽取消",
+      "text": "{{tournament}} 已取消 — 報名費已退還"
+    }
+  },
+  "new_group_knockout": {
+    "en": {
+      "title": "New knockout tournament",
+      "text": "{{group}} is hosting a knockout: {{tournament}}"
+    },
+    "sv": {
+      "title": "Ny knockout-turnering",
+      "text": "{{group}} arrangerar en knockout: {{tournament}}"
+    },
+    "pl": {
+      "title": "Nowy turniej pucharowy",
+      "text": "{{group}} organizuje turniej: {{tournament}}"
+    },
+    "fr": {
+      "title": "Nouveau tournoi à élimination",
+      "text": "{{group}} organise un tournoi : {{tournament}}"
+    },
+    "es": {
+      "title": "Nuevo torneo eliminatorio",
+      "text": "{{group}} organiza un torneo: {{tournament}}"
+    },
+    "zh": {
+      "title": "新淘汰赛",
+      "text": "{{group}} 正在举办淘汰赛：{{tournament}}"
+    },
+    "zht": {
+      "title": "新淘汰賽",
+      "text": "{{group}} 正在舉辦淘汰賽：{{tournament}}"
+    }
   }
 }

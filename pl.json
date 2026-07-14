@@ -220,7 +220,8 @@
       "followed": "Obserwujesz teraz {{displayName}}",
       "following": "Obserwujesz",
       "request_sent": "Zaproszenie wysłane",
-      "request_pending": "Zaprosił Cię"
+      "request_pending": "Zaprosił Cię",
+      "knockout_wins": "Wygrane turnieje"
     },
     "user_display": {
       "unknown_user": "Nieznany użytkownik",
@@ -963,7 +964,8 @@
     "rematch": "Rewanż",
     "error_missing_partner": "Brak partnera",
     "error_missing_opponents": "Brak przeciwników",
-    "error_insufficient_deals": "Niewystarczająca liczba dostępnych rozdań"
+    "error_insufficient_deals": "Niewystarczająca liczba dostępnych rozdań",
+    "knockout": "Puchar"
   },
   "challenge_matchmaking": {
     "cancel_error": "Błąd podczas anulowania wyzwania",
@@ -3066,7 +3068,10 @@
     "acbl_achievement_partner_up": "Cuebids ACBL Stars Partner Up Achievement!",
     "newsletter": "Zapisano się do newslettera!",
     "error_not_completed": "Osiągnięcie nie zostało... osiągnięte.",
-    "error_already_claimed": "Nagroda za osiągnięcie została już odebrana!"
+    "error_already_claimed": "Nagroda za osiągnięcie została już odebrana!",
+    "ko_finalist": "Finalista turnieju!",
+    "ko_champion": "Mistrz turnieju!",
+    "ko_champion_5": "5 tytułów turniejowych!"
   },
   "bidding_sessions": {
     "error_cannot_afford": "Nie stać cię na grę",
@@ -3260,5 +3265,55 @@
       "pre_empt_defence": "Rozdania, gdzie bronicie się przed blokującymi licytacjami przeciwnika",
       "two_suited_defence": "Rozdania, gdzie bronicie się przed dwukolorowymi licytacjami przeciwnika"
     }
+  },
+  "knockout": {
+    "title": "Turnieje pucharowe",
+    "hub_info": "Zapiszcie się jako para. Drabinka startuje automatycznie, gdy lobby się zapełni — każdy mecz to wyzwanie rankingowe, a jedno wpisowe obejmuje cały turniej.",
+    "tab_lobbies": "Lobby",
+    "tab_mine": "Moje turnieje",
+    "no_open_lobbies": "Brak otwartych lobby. Zajrzyj wkrótce!",
+    "no_my_tournaments": "Nie bierzesz jeszcze udziału w żadnym turnieju pucharowym.",
+    "pairs_one": "{{count}} para",
+    "pairs_few": "{{count}} pary",
+    "pairs_many": "{{count}} par",
+    "pairs_other": "{{count}} pary",
+    "signed_up": "Zapisano",
+    "champion": "Mistrzowie",
+    "prize_ccp": "Zwycięzcy otrzymują po {{count}} CCP",
+    "status": {
+      "open": "Otwarty",
+      "starting": "Startuje",
+      "running": "W trakcie",
+      "finished": "Zakończony",
+      "cancelled": "Odwołany"
+    },
+    "not_found": "Nie znaleziono turnieju.",
+    "starts_at": "Start {{date}}. Jeśli liczba par nie jest potęgą dwójki, najwyżej rozstawione pary mają wolny los.",
+    "you_are_signed_up": "Wasza para jest zapisana. Otrzymacie powiadomienie o starcie turnieju.",
+    "withdraw": "Wycofaj zgłoszenie",
+    "withdraw_success": "Zgłoszenie wycofane, wpisowe zwrócone",
+    "partner": "Partner",
+    "join": "Zapisz się",
+    "join_success": "Jesteście zapisani!",
+    "starting_info": "Drabinka jest tworzona — chwileczkę!",
+    "cancelled_info": "Turniej został odwołany. Wpisowe zostało zwrócone.",
+    "my_match_round": "Wasz mecz rundy {{round}}",
+    "play_match": "Graj",
+    "deadline_passed": "Termin minął",
+    "time_left_hours": "Pozostało {{hours}}h {{minutes}}m",
+    "time_left_minutes": "Pozostało {{minutes}}m",
+    "entries": "Zapisane pary",
+    "tbd": "Do ustalenia",
+    "bye": "wolny los",
+    "live": "na żywo",
+    "decided_by": {
+      "ev": "przez EV",
+      "seed": "przez rozstawienie",
+      "bye": "wolny los"
+    },
+    "round_final": "Finał",
+    "round_semi": "Półfinały",
+    "round_quarter": "Ćwierćfinały",
+    "round_n": "Runda {{round}}"
   }
 }

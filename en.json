@@ -220,7 +220,8 @@
       "followed": "Now following {{displayName}}",
       "following": "Following",
       "request_sent": "Request sent",
-      "request_pending": "Requested you"
+      "request_pending": "Requested you",
+      "knockout_wins": "Knockout wins"
     },
     "user_display": {
       "unknown_user": "Unknown user",
@@ -963,7 +964,8 @@
     "rematch": "Rematch",
     "error_missing_partner": "Missing partner",
     "error_missing_opponents": "Missing opponents",
-    "error_insufficient_deals": "Insufficient number of available deals"
+    "error_insufficient_deals": "Insufficient number of available deals",
+    "knockout": "Knockout"
   },
   "challenge_matchmaking": {
     "cancel_error": "Error when cancelling challenge",
@@ -3066,7 +3068,10 @@
     "acbl_achievement_partner_up": "Cuebids ACBL Stars Partner Up Achievement!",
     "newsletter": "Newsletter signed up!",
     "error_not_completed": "Achievement has not been completed!",
-    "error_already_claimed": "Achievement reward has already been claimed!"
+    "error_already_claimed": "Achievement reward has already been claimed!",
+    "ko_finalist": "Knockout finalist!",
+    "ko_champion": "Knockout champion!",
+    "ko_champion_5": "5 knockout titles!"
   },
   "bidding_sessions": {
     "error_cannot_afford": "You cannot afford to play",
@@ -3260,5 +3265,53 @@
       "pre_empt_defence": "Deals where you're defending against opponent's pre-emptive bids",
       "two_suited_defence": "Deals where you're defending against opponent's two-suited bids"
     }
+  },
+  "knockout": {
+    "title": "Knockout tournaments",
+    "hub_info": "Sign up as a pair. The bracket starts automatically when the lobby is full — every match is a ranked challenge, and one entry fee covers the whole tournament.",
+    "tab_lobbies": "Lobbies",
+    "tab_mine": "My tournaments",
+    "no_open_lobbies": "No open lobbies right now. Check back soon!",
+    "no_my_tournaments": "You are not in any knockout tournaments yet.",
+    "pairs_one": "{{count}} pair",
+    "pairs_other": "{{count}} pairs",
+    "signed_up": "Signed up",
+    "champion": "Champions",
+    "prize_ccp": "Winners get {{count}} CCP each",
+    "status": {
+      "open": "Open",
+      "starting": "Starting",
+      "running": "Running",
+      "finished": "Finished",
+      "cancelled": "Cancelled"
+    },
+    "not_found": "Tournament not found.",
+    "starts_at": "Starts {{date}}. Pairs beyond a power of two are handled with byes for the top seeds.",
+    "you_are_signed_up": "Your pair is signed up. You will be notified when the tournament starts.",
+    "withdraw": "Withdraw entry",
+    "withdraw_success": "Entry withdrawn and refunded",
+    "partner": "Partner",
+    "join": "Join",
+    "join_success": "You are signed up!",
+    "starting_info": "The bracket is being created — hang tight!",
+    "cancelled_info": "This tournament was cancelled. Entry fees have been refunded.",
+    "my_match_round": "Your round {{round}} match",
+    "play_match": "Play",
+    "deadline_passed": "Deadline passed",
+    "time_left_hours": "{{hours}}h {{minutes}}m left",
+    "time_left_minutes": "{{minutes}}m left",
+    "entries": "Entries",
+    "tbd": "TBD",
+    "bye": "bye",
+    "live": "live",
+    "decided_by": {
+      "ev": "on EV",
+      "seed": "on seed",
+      "bye": "bye"
+    },
+    "round_final": "Final",
+    "round_semi": "Semifinals",
+    "round_quarter": "Quarterfinals",
+    "round_n": "Round {{round}}"
   }
 }

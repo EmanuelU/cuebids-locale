@@ -220,7 +220,8 @@
       "followed": "Ahora sigues a {{displayName}}",
       "following": "Siguiendo",
       "request_sent": "Solicitud enviada",
-      "request_pending": "Te ha solicitado"
+      "request_pending": "Te ha solicitado",
+      "knockout_wins": "Victorias en torneos"
     },
     "user_display": {
       "unknown_user": "Usuario desconocido",
@@ -963,7 +964,8 @@
     "rematch": "Revancha",
     "error_missing_partner": "Falta el compañero",
     "error_missing_opponents": "Faltan oponentes",
-    "error_insufficient_deals": "No hay suficientes manos disponibles"
+    "error_insufficient_deals": "No hay suficientes manos disponibles",
+    "knockout": "Torneo"
   },
   "challenge_matchmaking": {
     "cancel_error": "Error al cancelar el desafío",
@@ -3066,7 +3068,10 @@
     "acbl_achievement_partner_up": "¡Logro Partner Up de estrellas ACBL de Cuebids!",
     "newsletter": "¡Suscripción al boletín completada!",
     "error_not_completed": "¡El logro no se ha completado!",
-    "error_already_claimed": "¡La recompensa del logro ya se ha reclamado!"
+    "error_already_claimed": "¡La recompensa del logro ya se ha reclamado!",
+    "ko_finalist": "¡Finalista del torneo!",
+    "ko_champion": "¡Campeón del torneo!",
+    "ko_champion_5": "¡5 títulos de torneo!"
   },
   "bidding_sessions": {
     "error_cannot_afford": "No puedes permitirte jugar",
@@ -3260,5 +3265,53 @@
       "pre_empt_defence": "Manos en las que defendéis contra las pujas débiles de los oponentes.",
       "two_suited_defence": "Manos en las que defendéis contra las pujas bicolores de los oponentes."
     }
+  },
+  "knockout": {
+    "title": "Torneos eliminatorios",
+    "hub_info": "Inscribíos como pareja. El cuadro comienza automáticamente cuando el lobby se llena — cada partido es un desafío clasificatorio y una sola inscripción cubre todo el torneo.",
+    "tab_lobbies": "Lobbys",
+    "tab_mine": "Mis torneos",
+    "no_open_lobbies": "No hay lobbys abiertos ahora mismo. ¡Vuelve pronto!",
+    "no_my_tournaments": "Todavía no participas en ningún torneo eliminatorio.",
+    "pairs_one": "{{count}} pareja",
+    "pairs_other": "{{count}} parejas",
+    "signed_up": "Inscrito",
+    "champion": "Campeones",
+    "prize_ccp": "Los ganadores reciben {{count}} CCP cada uno",
+    "status": {
+      "open": "Abierto",
+      "starting": "Comenzando",
+      "running": "En curso",
+      "finished": "Finalizado",
+      "cancelled": "Cancelado"
+    },
+    "not_found": "Torneo no encontrado.",
+    "starts_at": "Comienza el {{date}}. Si el número de parejas no es potencia de dos, las mejores cabezas de serie quedan exentas.",
+    "you_are_signed_up": "Vuestra pareja está inscrita. Se os avisará cuando comience el torneo.",
+    "withdraw": "Retirar inscripción",
+    "withdraw_success": "Inscripción retirada y reembolsada",
+    "partner": "Compañero",
+    "join": "Inscribirse",
+    "join_success": "¡Estáis inscritos!",
+    "starting_info": "Se está creando el cuadro — ¡un momento!",
+    "cancelled_info": "Este torneo fue cancelado. Las inscripciones han sido reembolsadas.",
+    "my_match_round": "Vuestro partido de la ronda {{round}}",
+    "play_match": "Jugar",
+    "deadline_passed": "Plazo vencido",
+    "time_left_hours": "Quedan {{hours}}h {{minutes}}m",
+    "time_left_minutes": "Quedan {{minutes}}m",
+    "entries": "Parejas inscritas",
+    "tbd": "Por determinar",
+    "bye": "exento",
+    "live": "en vivo",
+    "decided_by": {
+      "ev": "por EV",
+      "seed": "por ranking",
+      "bye": "exento"
+    },
+    "round_final": "Final",
+    "round_semi": "Semifinales",
+    "round_quarter": "Cuartos de final",
+    "round_n": "Ronda {{round}}"
   }
 }

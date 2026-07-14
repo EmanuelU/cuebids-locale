@@ -220,7 +220,8 @@
       "followed": "你已关注 {{displayName}}",
       "following": "已关注",
       "request_sent": "请求已发送",
-      "request_pending": "已请求加你"
+      "request_pending": "已请求加你",
+      "knockout_wins": "淘汰赛胜场"
     },
     "user_display": {
       "unknown_user": "未知用户",
@@ -964,7 +965,8 @@
     "rematch": "再赛一场",
     "error_missing_partner": "缺少搭档",
     "error_missing_opponents": "缺少对手",
-    "error_insufficient_deals": "可用牌局数量不足"
+    "error_insufficient_deals": "可用牌局数量不足",
+    "knockout": "淘汰赛"
   },
   "challenge_matchmaking": {
     "cancel_error": "取消挑战时出错",
@@ -3067,7 +3069,10 @@
     "acbl_achievement_partner_up": "Cuebids ACBL Stars 搭档成就！",
     "newsletter": "新闻通讯已注册！",
     "error_not_completed": "成就尚未完成！",
-    "error_already_claimed": "成就奖励已领取！"
+    "error_already_claimed": "成就奖励已领取！",
+    "ko_finalist": "淘汰赛决赛选手！",
+    "ko_champion": "淘汰赛冠军！",
+    "ko_champion_5": "5 个淘汰赛冠军头衔！"
   },
   "bidding_sessions": {
     "error_cannot_afford": "门票不足，无法开始。",
@@ -3267,5 +3272,52 @@
       "pre_empt_defence": "你防守对手阻击叫的牌局",
       "two_suited_defence": "你防守对手双套型叫牌的牌局"
     }
+  },
+  "knockout": {
+    "title": "淘汰赛",
+    "hub_info": "以搭档形式报名。大厅满员后对阵表自动开始 — 每场比赛都是排位挑战，一次报名费覆盖整个赛事。",
+    "tab_lobbies": "大厅",
+    "tab_mine": "我的赛事",
+    "no_open_lobbies": "当前没有开放的大厅，请稍后再来！",
+    "no_my_tournaments": "你还没有参加任何淘汰赛。",
+    "pairs": "{{count}} 对",
+    "signed_up": "已报名",
+    "champion": "冠军",
+    "prize_ccp": "冠军每人获得 {{count}} CCP",
+    "status": {
+      "open": "开放",
+      "starting": "即将开始",
+      "running": "进行中",
+      "finished": "已结束",
+      "cancelled": "已取消"
+    },
+    "not_found": "未找到该赛事。",
+    "starts_at": "{{date}} 开始。若报名对数不是 2 的幂，种子排名靠前的搭档将轮空。",
+    "you_are_signed_up": "你们已报名。赛事开始时会通知你们。",
+    "withdraw": "撤回报名",
+    "withdraw_success": "已撤回报名并退款",
+    "partner": "搭档",
+    "join": "报名",
+    "join_success": "报名成功！",
+    "starting_info": "正在生成对阵表 — 请稍候！",
+    "cancelled_info": "该赛事已取消，报名费已退还。",
+    "my_match_round": "你们第 {{round}} 轮的对局",
+    "play_match": "开始",
+    "deadline_passed": "已超时",
+    "time_left_hours": "剩余 {{hours}} 小时 {{minutes}} 分钟",
+    "time_left_minutes": "剩余 {{minutes}} 分钟",
+    "entries": "已报名搭档",
+    "tbd": "待定",
+    "bye": "轮空",
+    "live": "进行中",
+    "decided_by": {
+      "ev": "按 EV",
+      "seed": "按种子",
+      "bye": "轮空"
+    },
+    "round_final": "决赛",
+    "round_semi": "半决赛",
+    "round_quarter": "四分之一决赛",
+    "round_n": "第 {{round}} 轮"
   }
 }

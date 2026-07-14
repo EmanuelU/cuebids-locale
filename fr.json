@@ -220,7 +220,8 @@
       "followed": "Vous suivez maintenant {{displayName}}",
       "following": "Suivi",
       "request_sent": "Demande envoyée",
-      "request_pending": "Vous a demandé"
+      "request_pending": "Vous a demandé",
+      "knockout_wins": "Victoires en tournoi"
     },
     "user_display": {
       "unknown_user": "Utilisateur inconnu",
@@ -963,7 +964,8 @@
     "rematch": "Match à nouveau",
     "error_missing_partner": "Partenaire manquant",
     "error_missing_opponents": "Adversaires manquants",
-    "error_insufficient_deals": "Nombre insuffisant de donnes disponibles"
+    "error_insufficient_deals": "Nombre insuffisant de donnes disponibles",
+    "knockout": "Tournoi"
   },
   "challenge_matchmaking": {
     "cancel_error": "Erreur lors de l’annulation du défi",
@@ -3066,7 +3068,10 @@
     "acbl_achievement_partner_up": "Cuebids ACBL Stars Partner Up Achievement!",
     "newsletter": "Vous êtes inscrit à la newsletter!",
     "error_not_completed": "La réalisation n’a pas été achevée !",
-    "error_already_claimed": "La recompense a déjà été réclamée !"
+    "error_already_claimed": "La recompense a déjà été réclamée !",
+    "ko_finalist": "Finaliste du tournoi !",
+    "ko_champion": "Champion du tournoi !",
+    "ko_champion_5": "5 titres de tournoi !"
   },
   "bidding_sessions": {
     "error_cannot_afford": "Vous n’avez pas assez de tickets pour participer",
@@ -3260,5 +3265,53 @@
       "pre_empt_defence": "Donnes où vous défendez contre les enchères de barrage adverses",
       "two_suited_defence": "Donnes où vous défendez contre les enchères bicolores adverses"
     }
+  },
+  "knockout": {
+    "title": "Tournois à élimination directe",
+    "hub_info": "Inscrivez-vous en paire. Le tableau démarre automatiquement quand le lobby est complet — chaque match est un défi classé et une seule inscription couvre tout le tournoi.",
+    "tab_lobbies": "Lobbys",
+    "tab_mine": "Mes tournois",
+    "no_open_lobbies": "Aucun lobby ouvert pour le moment. Revenez bientôt !",
+    "no_my_tournaments": "Vous ne participez à aucun tournoi pour l'instant.",
+    "pairs_one": "{{count}} paire",
+    "pairs_other": "{{count}} paires",
+    "signed_up": "Inscrit",
+    "champion": "Champions",
+    "prize_ccp": "Les vainqueurs reçoivent {{count}} CCP chacun",
+    "status": {
+      "open": "Ouvert",
+      "starting": "Démarrage",
+      "running": "En cours",
+      "finished": "Terminé",
+      "cancelled": "Annulé"
+    },
+    "not_found": "Tournoi introuvable.",
+    "starts_at": "Commence le {{date}}. Si le nombre de paires n'est pas une puissance de deux, les meilleures têtes de série sont exemptées.",
+    "you_are_signed_up": "Votre paire est inscrite. Vous serez averti au démarrage du tournoi.",
+    "withdraw": "Retirer l'inscription",
+    "withdraw_success": "Inscription retirée et remboursée",
+    "partner": "Partenaire",
+    "join": "S'inscrire",
+    "join_success": "Vous êtes inscrits !",
+    "starting_info": "Le tableau est en cours de création — patience !",
+    "cancelled_info": "Ce tournoi a été annulé. Les inscriptions ont été remboursées.",
+    "my_match_round": "Votre match du tour {{round}}",
+    "play_match": "Jouer",
+    "deadline_passed": "Délai dépassé",
+    "time_left_hours": "{{hours}}h {{minutes}}m restantes",
+    "time_left_minutes": "{{minutes}}m restantes",
+    "entries": "Paires inscrites",
+    "tbd": "À déterminer",
+    "bye": "exempt",
+    "live": "en direct",
+    "decided_by": {
+      "ev": "à l'EV",
+      "seed": "au classement",
+      "bye": "exempt"
+    },
+    "round_final": "Finale",
+    "round_semi": "Demi-finales",
+    "round_quarter": "Quarts de finale",
+    "round_n": "Tour {{round}}"
   }
 }

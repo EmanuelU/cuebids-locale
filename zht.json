@@ -220,7 +220,8 @@
       "followed": "你已關注 {{displayName}}",
       "following": "已關注",
       "request_sent": "請求已發送",
-      "request_pending": "已請求加你"
+      "request_pending": "已請求加你",
+      "knockout_wins": "淘汰賽勝場"
     },
     "user_display": {
       "unknown_user": "未知用戶",
@@ -964,7 +965,8 @@
     "rematch": "再賽一場",
     "error_missing_partner": "缺少搭檔",
     "error_missing_opponents": "缺少對手",
-    "error_insufficient_deals": "可用牌局數量不足"
+    "error_insufficient_deals": "可用牌局數量不足",
+    "knockout": "淘汰賽"
   },
   "challenge_matchmaking": {
     "cancel_error": "取消挑戰時出錯",
@@ -3067,7 +3069,10 @@
     "acbl_achievement_partner_up": "Cuebids ACBL Stars 搭檔成就！",
     "newsletter": "新聞通訊已註冊！",
     "error_not_completed": "成就尚未完成！",
-    "error_already_claimed": "成就獎勵已領取！"
+    "error_already_claimed": "成就獎勵已領取！",
+    "ko_finalist": "淘汰賽決賽選手！",
+    "ko_champion": "淘汰賽冠軍！",
+    "ko_champion_5": "5 個淘汰賽冠軍頭銜！"
   },
   "bidding_sessions": {
     "error_cannot_afford": "門票不足，無法開始。",
@@ -3267,5 +3272,52 @@
       "pre_empt_defence": "你防守對手阻擊叫的牌局",
       "two_suited_defence": "你防守對手雙套型叫牌的牌局"
     }
+  },
+  "knockout": {
+    "title": "淘汰賽",
+    "hub_info": "以搭檔形式報名。大廳滿員後對陣表自動開始 — 每場比賽都是排位挑戰，一次報名費涵蓋整個賽事。",
+    "tab_lobbies": "大廳",
+    "tab_mine": "我的賽事",
+    "no_open_lobbies": "目前沒有開放的大廳，請稍後再來！",
+    "no_my_tournaments": "你還沒有參加任何淘汰賽。",
+    "pairs": "{{count}} 對",
+    "signed_up": "已報名",
+    "champion": "冠軍",
+    "prize_ccp": "冠軍每人獲得 {{count}} CCP",
+    "status": {
+      "open": "開放",
+      "starting": "即將開始",
+      "running": "進行中",
+      "finished": "已結束",
+      "cancelled": "已取消"
+    },
+    "not_found": "未找到該賽事。",
+    "starts_at": "{{date}} 開始。若報名對數不是 2 的冪，種子排名靠前的搭檔將輪空。",
+    "you_are_signed_up": "你們已報名。賽事開始時會通知你們。",
+    "withdraw": "撤回報名",
+    "withdraw_success": "已撤回報名並退款",
+    "partner": "搭檔",
+    "join": "報名",
+    "join_success": "報名成功！",
+    "starting_info": "正在產生對陣表 — 請稍候！",
+    "cancelled_info": "該賽事已取消，報名費已退還。",
+    "my_match_round": "你們第 {{round}} 輪的對局",
+    "play_match": "開始",
+    "deadline_passed": "已逾時",
+    "time_left_hours": "剩餘 {{hours}} 小時 {{minutes}} 分鐘",
+    "time_left_minutes": "剩餘 {{minutes}} 分鐘",
+    "entries": "已報名搭檔",
+    "tbd": "待定",
+    "bye": "輪空",
+    "live": "進行中",
+    "decided_by": {
+      "ev": "按 EV",
+      "seed": "按種子",
+      "bye": "輪空"
+    },
+    "round_final": "決賽",
+    "round_semi": "準決賽",
+    "round_quarter": "八強賽",
+    "round_n": "第 {{round}} 輪"
   }
 }

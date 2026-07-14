@@ -220,7 +220,8 @@
       "followed": "Du följer nu {{displayName}}",
       "following": "Följer",
       "request_sent": "Förfrågan skickad",
-      "request_pending": "Har frågat dig"
+      "request_pending": "Har frågat dig",
+      "knockout_wins": "Knockout-vinster"
     },
     "user_display": {
       "unknown_user": "Okänd användare",
@@ -963,7 +964,8 @@
     "rematch": "Returmatch",
     "error_missing_partner": "Partner saknas",
     "error_missing_opponents": "Motståndare saknas",
-    "error_insufficient_deals": "Otillräckligt antal tillgängliga givar."
+    "error_insufficient_deals": "Otillräckligt antal tillgängliga givar.",
+    "knockout": "Knockout"
   },
   "challenge_matchmaking": {
     "cancel_error": "Ett fel uppstod med att avbryta utmaningen",
@@ -3066,7 +3068,10 @@
     "acbl_achievement_partner_up": "Cuebids ACBL Stars Partner Up Achievement!",
     "newsletter": "Anmäld till nyhetsbrev!",
     "error_not_completed": "Milstolpe har inte uppnåtts!",
-    "error_already_claimed": "Milstolpe har redan bekräftad!"
+    "error_already_claimed": "Milstolpe har redan bekräftad!",
+    "ko_finalist": "Knockout-finalist!",
+    "ko_champion": "Knockout-mästare!",
+    "ko_champion_5": "5 knockout-titlar!"
   },
   "bidding_sessions": {
     "error_cannot_afford": "Du har inte råd att spela",
@@ -3260,5 +3265,53 @@
       "pre_empt_defence": "Givar där ni försvarar er mot motståndarnas spärrande bud",
       "two_suited_defence": "Givar där ni försvarar er mot motståndarnas tvåfärgsbud"
     }
+  },
+  "knockout": {
+    "title": "Knockout-turneringar",
+    "hub_info": "Anmäl er som par. Brackets startar automatiskt när lobbyn är full — varje match är en rankad utmaning och en anmälningsavgift täcker hela turneringen.",
+    "tab_lobbies": "Lobbys",
+    "tab_mine": "Mina turneringar",
+    "no_open_lobbies": "Inga öppna lobbys just nu. Titta in snart igen!",
+    "no_my_tournaments": "Du är inte med i någon knockout-turnering ännu.",
+    "pairs_one": "{{count}} par",
+    "pairs_other": "{{count}} par",
+    "signed_up": "Anmäld",
+    "champion": "Mästare",
+    "prize_ccp": "Vinnarna får {{count}} CCP var",
+    "status": {
+      "open": "Öppen",
+      "starting": "Startar",
+      "running": "Pågår",
+      "finished": "Avslutad",
+      "cancelled": "Inställd"
+    },
+    "not_found": "Turneringen hittades inte.",
+    "starts_at": "Startar {{date}}. Om antalet par inte är en tvåpotens får de högst seedade paren stå över första omgången.",
+    "you_are_signed_up": "Ert par är anmält. Ni får en avisering när turneringen startar.",
+    "withdraw": "Återkalla anmälan",
+    "withdraw_success": "Anmälan återkallad och återbetald",
+    "partner": "Partner",
+    "join": "Anmäl",
+    "join_success": "Ni är anmälda!",
+    "starting_info": "Bracketen skapas — häng kvar!",
+    "cancelled_info": "Turneringen ställdes in. Anmälningsavgifterna har återbetalats.",
+    "my_match_round": "Er match i omgång {{round}}",
+    "play_match": "Spela",
+    "deadline_passed": "Tidsfristen har passerat",
+    "time_left_hours": "{{hours}}h {{minutes}}m kvar",
+    "time_left_minutes": "{{minutes}}m kvar",
+    "entries": "Anmälda par",
+    "tbd": "TBD",
+    "bye": "stå över",
+    "live": "live",
+    "decided_by": {
+      "ev": "på EV",
+      "seed": "på seedning",
+      "bye": "stå över"
+    },
+    "round_final": "Final",
+    "round_semi": "Semifinaler",
+    "round_quarter": "Kvartsfinaler",
+    "round_n": "Omgång {{round}}"
   }
 }
