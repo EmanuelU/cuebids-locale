@@ -1,4 +1,34 @@
 {
+  "friendly_challenge_invite": {
+    "en": {
+      "title": "Friendly challenge invitation",
+      "text": "{{player}} invited you to a friendly challenge. Approve the ticket charge to join."
+    },
+    "sv": {
+      "title": "Inbjudan till vänskapsutmaning",
+      "text": "{{player}} har bjudit in dig till en vänskapsutmaning. Godkänn biljettkostnaden för att vara med."
+    },
+    "pl": {
+      "title": "Zaproszenie do towarzyskiego wyzwania",
+      "text": "{{player}} zaprasza Cię do towarzyskiego wyzwania. Zatwierdź opłatę w biletach, aby dołączyć."
+    },
+    "fr": {
+      "title": "Invitation à un défi amical",
+      "text": "{{player}} vous invite à un défi amical. Acceptez le débit de tickets pour participer."
+    },
+    "es": {
+      "title": "Invitación a un desafío amistoso",
+      "text": "{{player}} te invitó a un desafío amistoso. Acepta el cargo de boletos para participar."
+    },
+    "zh": {
+      "title": "好友挑战邀请",
+      "text": "{{player}} 邀请你参加好友挑战。同意扣除门票后即可参加。"
+    },
+    "zht": {
+      "title": "好友挑戰邀請",
+      "text": "{{player}} 邀請你參加好友挑戰。同意扣除票券後即可參加。"
+    }
+  },
   "event_invite": {
     "en": {
       "title": "Invited to play",
@@ -934,6 +964,66 @@
       "es": "Semanal",
       "zh": "每周",
       "zht": "每週"
+    }
+  },
+  "friendly_challenge_declined": {
+    "en": {
+      "title": "Challenge invitation declined",
+      "text": "{{player}} declined the friendly challenge invitation."
+    },
+    "sv": {
+      "title": "Utmaningsinbjudan avböjd",
+      "text": "{{player}} tackade nej till inbjudan till vänskapsutmaningen."
+    },
+    "pl": {
+      "title": "Odrzucono zaproszenie do wyzwania",
+      "text": "{{player}} odrzucił zaproszenie do towarzyskiego wyzwania."
+    },
+    "fr": {
+      "title": "Invitation au défi refusée",
+      "text": "{{player}} a refusé l’invitation au défi amical."
+    },
+    "es": {
+      "title": "Invitación al desafío rechazada",
+      "text": "{{player}} rechazó la invitación al desafío amistoso."
+    },
+    "zh": {
+      "title": "好友挑战邀请被拒绝",
+      "text": "{{player}} 拒绝了好友挑战邀请。"
+    },
+    "zht": {
+      "title": "好友挑戰邀請被拒絕",
+      "text": "{{player}} 拒絕了好友挑戰邀請。"
+    }
+  },
+  "friendly_challenge_cancelled": {
+    "en": {
+      "title": "Challenge invitation withdrawn",
+      "text": "{{player}} withdrew the friendly challenge invitation."
+    },
+    "sv": {
+      "title": "Utmaningsinbjudan återkallad",
+      "text": "{{player}} drog tillbaka inbjudan till vänskapsutmaningen."
+    },
+    "pl": {
+      "title": "Wycofano zaproszenie do wyzwania",
+      "text": "{{player}} wycofał zaproszenie do towarzyskiego wyzwania."
+    },
+    "fr": {
+      "title": "Invitation au défi retirée",
+      "text": "{{player}} a retiré l’invitation au défi amical."
+    },
+    "es": {
+      "title": "Invitación al desafío retirada",
+      "text": "{{player}} retiró la invitación al desafío amistoso."
+    },
+    "zh": {
+      "title": "好友挑战邀请已撤回",
+      "text": "{{player}} 撤回了好友挑战邀请。"
+    },
+    "zht": {
+      "title": "好友挑戰邀請已撤回",
+      "text": "{{player}} 撤回了好友挑戰邀請。"
     }
   }
 }
