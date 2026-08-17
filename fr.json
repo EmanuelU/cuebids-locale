@@ -1026,10 +1026,11 @@
   },
   "friendly_challenge": {
     "price_title": "Tickets du défi",
-    "ticket_policy_one": "Une paire sans Heart paie {{count}} chacun.",
-    "ticket_policy_other": "Une paire sans Heart paie {{count}} chacun.",
+    "ticket_policy_one": "Une paire sans abonnement Cœur paie {{count}} chacun.",
+    "ticket_policy_other": "Une paire sans abonnement Cœur paie {{count}} chacun.",
     "pair_free_with_heart": "Un abonnement Cœur rend le défi gratuit pour cette paire.",
     "insufficient_tickets": "Pas assez de tickets.",
+    "pair_short": "Cette paire a besoin de {{needed}} tickets à deux et en a {{available}}.",
     "invitations_disabled": "Un joueur n'autorise pas les invitations aux défis.",
     "send_invitations": "Envoyer les invitations",
     "create": "Créer le défi",
@@ -1059,7 +1060,7 @@
     "your_pair": "Votre paire",
     "opponents": "Adversaires",
     "tickets_each": "{{tickets}} chacun",
-    "heart_pair_free_hint": "Une paire avec Heart joue gratuitement.",
+    "heart_pair_free_hint": "Une paire avec un abonnement Cœur joue gratuitement.",
     "details": "Détails",
     "status_host": "Hôte",
     "status_invited": "Invité"

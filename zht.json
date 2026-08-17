@@ -1027,10 +1027,11 @@
   },
   "friendly_challenge": {
     "price_title": "挑戰票券",
-    "ticket_policy_one": "沒有 Heart 的一對每人支付 {{count}}。",
-    "ticket_policy_other": "沒有 Heart 的一對每人支付 {{count}}。",
+    "ticket_policy_one": "沒有紅桃訂閱的一對每人支付 {{count}}。",
+    "ticket_policy_other": "沒有紅桃訂閱的一對每人支付 {{count}}。",
     "pair_free_with_heart": "一名紅心訂閱玩家可讓本搭檔組合免費。",
     "insufficient_tickets": "票券不足。",
+    "pair_short": "這對搭檔共需 {{needed}} 張票券，目前只有 {{available}} 張。",
     "invitations_disabled": "有玩家不允許挑戰邀請。",
     "send_invitations": "傳送邀請",
     "create": "建立挑戰",
@@ -1060,7 +1061,7 @@
     "your_pair": "你們這一對",
     "opponents": "對手",
     "tickets_each": "每人 {{tickets}}",
-    "heart_pair_free_hint": "擁有 Heart 的一對可免費遊戲。",
+    "heart_pair_free_hint": "擁有紅桃訂閱的一對可免費遊戲。",
     "details": "詳情",
     "status_host": "發起人",
     "status_invited": "已邀請"

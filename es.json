@@ -1026,10 +1026,11 @@
   },
   "friendly_challenge": {
     "price_title": "Boletos del desafío",
-    "ticket_policy_one": "Una pareja sin Heart paga {{count}} cada uno.",
-    "ticket_policy_other": "Una pareja sin Heart paga {{count}} cada uno.",
+    "ticket_policy_one": "Una pareja sin suscripción Corazón paga {{count}} cada uno.",
+    "ticket_policy_other": "Una pareja sin suscripción Corazón paga {{count}} cada uno.",
     "pair_free_with_heart": "Una suscripción Corazón hace que el desafío sea gratis para esta pareja.",
     "insufficient_tickets": "No hay suficientes boletos.",
+    "pair_short": "Esta pareja necesita {{needed}} boletos entre los dos y tiene {{available}}.",
     "invitations_disabled": "Alguien no permite invitaciones a desafíos.",
     "send_invitations": "Enviar invitaciones",
     "create": "Crear desafío",
@@ -1059,7 +1060,7 @@
     "your_pair": "Tu pareja",
     "opponents": "Rivales",
     "tickets_each": "{{tickets}} cada uno",
-    "heart_pair_free_hint": "Una pareja con Heart juega gratis.",
+    "heart_pair_free_hint": "Una pareja con suscripción Corazón juega gratis.",
     "details": "Detalles",
     "status_host": "Anfitrión",
     "status_invited": "Invitado"

@@ -1027,10 +1027,11 @@
   },
   "friendly_challenge": {
     "price_title": "挑战门票",
-    "ticket_policy_one": "没有 Heart 的一对每人支付 {{count}}。",
-    "ticket_policy_other": "没有 Heart 的一对每人支付 {{count}}。",
+    "ticket_policy_one": "没有红心订阅的一对每人支付 {{count}}。",
+    "ticket_policy_other": "没有红心订阅的一对每人支付 {{count}}。",
     "pair_free_with_heart": "一名红心订阅玩家可让本搭档组合免费。",
     "insufficient_tickets": "门票不足。",
+    "pair_short": "这对搭档共需 {{needed}} 张门票，目前只有 {{available}} 张。",
     "invitations_disabled": "有玩家不允许挑战邀请。",
     "send_invitations": "发送邀请",
     "create": "创建挑战",
@@ -1060,7 +1061,7 @@
     "your_pair": "你们这一对",
     "opponents": "对手",
     "tickets_each": "每人 {{tickets}}",
-    "heart_pair_free_hint": "拥有 Heart 的一对可免费游戏。",
+    "heart_pair_free_hint": "拥有红心订阅的一对可免费游戏。",
     "details": "详情",
     "status_host": "发起人",
     "status_invited": "已邀请"

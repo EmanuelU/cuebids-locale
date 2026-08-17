@@ -1026,10 +1026,11 @@
   },
   "friendly_challenge": {
     "price_title": "Utmaningsbiljetter",
-    "ticket_policy_one": "Ett par utan Heart betalar {{count}} var.",
-    "ticket_policy_other": "Ett par utan Heart betalar {{count}} var.",
+    "ticket_policy_one": "Ett par utan Hjärterprenumeration betalar {{count}} var.",
+    "ticket_policy_other": "Ett par utan Hjärterprenumeration betalar {{count}} var.",
     "pair_free_with_heart": "Hjärter gör utmaningen gratis för det här paret.",
     "insufficient_tickets": "Inte tillräckligt med biljetter.",
+    "pair_short": "Paret behöver {{needed}} biljetter tillsammans och har {{available}}.",
     "invitations_disabled": "Någon tillåter inte utmaningsinbjudningar.",
     "send_invitations": "Skicka inbjudningar",
     "create": "Skapa utmaning",
@@ -1059,7 +1060,7 @@
     "your_pair": "Ditt par",
     "opponents": "Motståndare",
     "tickets_each": "{{tickets}} var",
-    "heart_pair_free_hint": "Ett par med Heart spelar gratis.",
+    "heart_pair_free_hint": "Ett par med Hjärterprenumeration spelar gratis.",
     "details": "Detaljer",
     "status_host": "Värd",
     "status_invited": "Inbjuden"

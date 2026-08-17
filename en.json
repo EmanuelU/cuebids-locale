@@ -1030,6 +1030,7 @@
     "ticket_policy_other": "A pair without Heart pays {{count}} each.",
     "pair_free_with_heart": "Heart makes this pair free.",
     "insufficient_tickets": "Not enough tickets.",
+    "pair_short": "This pair needs {{needed}} tickets together and has {{available}}.",
     "invitations_disabled": "Someone does not allow challenge invitations.",
     "send_invitations": "Send invitations",
     "create": "Create challenge",
