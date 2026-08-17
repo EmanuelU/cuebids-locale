@@ -1036,6 +1036,7 @@
     "send_invitations": "发送邀请",
     "create": "创建挑战",
     "invitations_sent": "邀请已发送。所有人同意后才扣除门票。",
+    "invitation_already_waiting": "该邀请已在等待回应。",
     "pricing_changed": "价格已变动 — 请确认后再继续。",
     "proposal_title": "挑战邀请",
     "accept": "接受",

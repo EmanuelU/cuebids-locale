@@ -1036,6 +1036,7 @@
     "send_invitations": "傳送邀請",
     "create": "建立挑戰",
     "invitations_sent": "邀請已發送。所有人同意後才扣除票券。",
+    "invitation_already_waiting": "該邀請已在等待回應。",
     "pricing_changed": "價格已變動 — 請確認後再繼續。",
     "proposal_title": "挑戰邀請",
     "accept": "接受",

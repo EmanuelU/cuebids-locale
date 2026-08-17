@@ -1035,6 +1035,7 @@
     "send_invitations": "Skicka inbjudningar",
     "create": "Skapa utmaning",
     "invitations_sent": "Inbjudningar skickade. Biljetter dras när alla godkänt.",
+    "invitation_already_waiting": "Den inbjudan väntar redan på svar.",
     "pricing_changed": "Priset ändrades – kontrollera innan du fortsätter.",
     "proposal_title": "Utmaningsinbjudan",
     "accept": "Godkänn",

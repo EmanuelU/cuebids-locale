@@ -1035,6 +1035,7 @@
     "send_invitations": "Envoyer les invitations",
     "create": "Créer le défi",
     "invitations_sent": "Invitations envoyées. Débit quand tous auront accepté.",
+    "invitation_already_waiting": "Cette invitation attend déjà une réponse.",
     "pricing_changed": "Le prix a changé — vérifiez avant de continuer.",
     "proposal_title": "Invitation au défi",
     "accept": "Accepter",

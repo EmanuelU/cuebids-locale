@@ -1037,6 +1037,7 @@
     "send_invitations": "Wyślij zaproszenia",
     "create": "Utwórz wyzwanie",
     "invitations_sent": "Zaproszenia wysłane. Opłata po zatwierdzeniu przez wszystkich.",
+    "invitation_already_waiting": "To zaproszenie już czeka na odpowiedź.",
     "pricing_changed": "Cena się zmieniła — sprawdź przed kontynuacją.",
     "proposal_title": "Zaproszenie do wyzwania",
     "accept": "Akceptuj",

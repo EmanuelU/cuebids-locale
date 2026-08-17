@@ -1035,6 +1035,7 @@
     "send_invitations": "Send invitations",
     "create": "Create challenge",
     "invitations_sent": "Invitations sent. Tickets are charged when all approve.",
+    "invitation_already_waiting": "That invitation is already waiting for an answer.",
     "pricing_changed": "Price changed — check before continuing.",
     "proposal_title": "Challenge invitation",
     "accept": "Accept",

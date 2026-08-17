@@ -1035,6 +1035,7 @@
     "send_invitations": "Enviar invitaciones",
     "create": "Crear desafío",
     "invitations_sent": "Invitaciones enviadas. Se cobra cuando todos aprueben.",
+    "invitation_already_waiting": "Esa invitación ya está esperando respuesta.",
     "pricing_changed": "El precio cambió: revísalo antes de continuar.",
     "proposal_title": "Invitación al desafío",
     "accept": "Aceptar",

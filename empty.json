@@ -751,6 +751,7 @@
     "send_invitations": "",
     "create": "",
     "invitations_sent": "",
+    "invitation_already_waiting": "",
     "pricing_changed": "",
     "proposal_title": "",
     "accept": "",
