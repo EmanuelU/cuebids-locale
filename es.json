@@ -1286,8 +1286,9 @@
     "show_bidding_divergence_desc": "Resalta las pujas que difirieron de lo que hizo la mayoría de los pros en la misma situación. Borde amarillo: al menos el 50 % de los pros eligió algo distinto. Borde rojo: el 70 % o más eligió otra cosa.",
     "text_scale_label": "Tamaño del texto",
     "text_scale_info": "Se aplica a las explicaciones de declaraciones, los avisos y el chat.",
-    "text_scale_md": "Normal",
-    "text_scale_lg": "Grande",
+    "text_scale_sm": "Normal",
+    "text_scale_md": "Grande",
+    "text_scale_lg": "Más grande",
     "text_scale_xl": "Muy grande"
   },
   "subscribe_newsletter": {

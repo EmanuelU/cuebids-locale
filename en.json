@@ -1286,8 +1286,9 @@
     "show_bidding_divergence_desc": "Highlights bids that differed from what the majority of pros did in the same spot. Yellow border: at least 50% of pros chose something different. Red border: 70% or more chose differently.",
     "text_scale_label": "Text size",
     "text_scale_info": "Applies to bid explanations, alerts and chat.",
-    "text_scale_md": "Normal",
-    "text_scale_lg": "Large",
+    "text_scale_sm": "Normal",
+    "text_scale_md": "Large",
+    "text_scale_lg": "Larger",
     "text_scale_xl": "Largest"
   },
   "subscribe_newsletter": {

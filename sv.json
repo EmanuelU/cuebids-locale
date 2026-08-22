@@ -1286,8 +1286,9 @@
     "show_bidding_divergence_desc": "Markerar bud som skiljer sig från vad majoriteten av proffs gjorde i samma situation. Gul ram: minst 50% av proffs valde något annat. Röd ram: 70% eller fler valde annorlunda.",
     "text_scale_label": "Textstorlek",
     "text_scale_info": "Gäller budförklaringar, meddelanderutor och chatten.",
-    "text_scale_md": "Normal",
-    "text_scale_lg": "Stor",
+    "text_scale_sm": "Normal",
+    "text_scale_md": "Stor",
+    "text_scale_lg": "Större",
     "text_scale_xl": "Störst"
   },
   "subscribe_newsletter": {

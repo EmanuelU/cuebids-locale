@@ -1287,8 +1287,9 @@
     "show_bidding_divergence_desc": "突出显示与大多数高花人士在同一地点所做的不同的叫牌。黄色边框：至少 50% 的高花人士选择了不同的东西。红色边框：70% 或更多的人选择不同。",
     "text_scale_label": "文字大小",
     "text_scale_info": "适用于叫牌说明、提示框和聊天。",
-    "text_scale_md": "标准",
-    "text_scale_lg": "大",
+    "text_scale_sm": "标准",
+    "text_scale_md": "大",
+    "text_scale_lg": "更大",
     "text_scale_xl": "特大"
   },
   "subscribe_newsletter": {

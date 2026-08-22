@@ -1286,8 +1286,9 @@
     "show_bidding_divergence_desc": "Met en évidence les enchères qui diffèrent de ce que la majorité des professionnels ont fait dans la même situation. Bordure jaune : au moins 50% des professionnels ont choisi quelque chose de différent. Bordure rouge : 70% ou plus ont choisi différemment.",
     "text_scale_label": "Taille du texte",
     "text_scale_info": "S’applique aux explications d’enchères, aux messages et au chat.",
-    "text_scale_md": "Normal",
-    "text_scale_lg": "Grand",
+    "text_scale_sm": "Normal",
+    "text_scale_md": "Grand",
+    "text_scale_lg": "Plus grand",
     "text_scale_xl": "Très grand"
   },
   "subscribe_newsletter": {

@@ -1288,8 +1288,9 @@
     "show_bidding_divergence_desc": "Podkreśla licytacje, które różniły się od tego, co większość profesjonalistów zrobiła w tej samej sytuacji. Żółta ramka: co najmniej 50% profesjonalistów wybrało coś innego. Czerwona ramka: 70% lub więcej wybrało inaczej.",
     "text_scale_label": "Rozmiar tekstu",
     "text_scale_info": "Dotyczy objaśnień odzywek, komunikatów i czatu.",
-    "text_scale_md": "Normalny",
-    "text_scale_lg": "Duży",
+    "text_scale_sm": "Normalny",
+    "text_scale_md": "Duży",
+    "text_scale_lg": "Większy",
     "text_scale_xl": "Największy"
   },
   "subscribe_newsletter": {
