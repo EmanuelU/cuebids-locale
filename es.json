@@ -225,6 +225,13 @@
     "user_display": {
       "unknown_user": "Usuario desconocido",
       "last_seen": "Visto por última vez {{date}}"
+    },
+    "rank": {
+      "legend_title": "Rangos",
+      "legend_intro": "El juego clasificado va de Jack a Ace. Tu anillo muestra dónde estás.",
+      "legend_you": "Tú",
+      "legend_stars": "Cada rango tiene cinco estrellas.",
+      "legend_close": "Entendido"
     }
   },
   "store": {

@@ -225,6 +225,13 @@
     "user_display": {
       "unknown_user": "未知用戶",
       "last_seen": "最後一次見到 {{date}}"
+    },
+    "rank": {
+      "legend_title": "Ranks",
+      "legend_intro": "Ranked play runs from Jack up to Ace. Your ring shows where you are.",
+      "legend_you": "You",
+      "legend_stars": "Each rank holds five stars.",
+      "legend_close": "Got it"
     }
   },
   "store": {

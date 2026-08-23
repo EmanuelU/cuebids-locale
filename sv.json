@@ -225,6 +225,13 @@
     "user_display": {
       "unknown_user": "Okänd användare",
       "last_seen": "Sågs {{date}}"
+    },
+    "rank": {
+      "legend_title": "Ranker",
+      "legend_intro": "Rankat spel går från Jack upp till Ace. Din ring visar var du är.",
+      "legend_you": "Du",
+      "legend_stars": "Varje rank rymmer fem stjärnor.",
+      "legend_close": "Okej"
     }
   },
   "store": {
