@@ -1230,6 +1230,7 @@
     "poll_notifications_label": "Notificaciones de nuevas encuestas",
     "event_notifications_label": "Notificaciones de eventos",
     "bid_reminder_notifications_label": "Recordatorios cuando te toca pujar",
+    "performance_report_notifications_label": "Resumen semanal de cómo van tus parejas",
     "allow_replay_invites_label": "Permitir invitaciones de repetición",
     "allow_replay_invites_desc": "Los amigos mutuos pueden seleccionarte al repetir manos finalizadas. Desactívalo para ocultarte de la selección de repeticiones.",
     "display_collapse_title": "Visible",

@@ -1230,6 +1230,7 @@
     "poll_notifications_label": "Notifications pour les nouveaux sondages",
     "event_notifications_label": "Notifications pour les événements",
     "bid_reminder_notifications_label": "Rappels quand c'est votre tour d'enchérir",
+    "performance_report_notifications_label": "Résumé hebdomadaire des résultats de vos partenariats",
     "allow_replay_invites_label": "Autoriser les invitations de rejeu",
     "allow_replay_invites_desc": "Vos amis mutuels peuvent vous sélectionner pour rejouer des donnes terminées. Désactivez ceci pour vous masquer de la sélection de rejeu.",
     "display_collapse_title": "Affichage",

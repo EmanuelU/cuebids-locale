@@ -1230,6 +1230,7 @@
     "poll_notifications_label": "Notifications for new polls",
     "event_notifications_label": "Notifications for events",
     "bid_reminder_notifications_label": "Reminders when it's your turn to bid",
+    "performance_report_notifications_label": "Weekly summary of how your partnerships are doing",
     "allow_replay_invites_label": "Allow replay invites",
     "allow_replay_invites_desc": "Mutual friends can select you when replaying finished boards. Turn this off to hide yourself from replay selection.",
     "display_collapse_title": "Display",
