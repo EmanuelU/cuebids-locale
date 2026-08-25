@@ -1232,6 +1232,7 @@
     "poll_notifications_label": "Powiadomienia o nowych ankietach",
     "event_notifications_label": "Powiadomienia o wydarzeniach",
     "bid_reminder_notifications_label": "Przypomnienia gdy to twoja kolej licytować",
+    "performance_report_notifications_label": "Cotygodniowe podsumowanie wyników twoich par",
     "allow_replay_invites_label": "Pozwalaj na zaproszenia do powtórek",
     "allow_replay_invites_desc": "Wzajemni znajomi mogą wybierać cię podczas odtwarzania zakończonych rozdań. Wyłącz to, aby ukryć się z listy powtórek.",
     "display_collapse_title": "Wyświetlanie",

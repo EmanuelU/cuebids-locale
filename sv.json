@@ -1230,6 +1230,7 @@
     "poll_notifications_label": "Notiser för nya omröstningar",
     "event_notifications_label": "Notiser för tävlingar",
     "bid_reminder_notifications_label": "Påminnelser när det är din tur att bjuda",
+    "performance_report_notifications_label": "Veckosammanfattning av hur era par presterar",
     "allow_replay_invites_label": "Tillåt omspelsinbjudningar",
     "allow_replay_invites_desc": "Ömsesidiga vänner kan välja dig när de spelar om avslutade givar. Stäng av detta för att dölja dig från omspelsval.",
     "display_collapse_title": "Visa",
