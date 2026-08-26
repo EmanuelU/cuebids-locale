@@ -231,7 +231,9 @@
       "legend_intro": "El juego clasificado va de Jack a Ace. Tu anillo muestra dónde estás.",
       "legend_you": "Tú",
       "legend_stars": "Cada rango tiene cinco estrellas.",
-      "legend_close": "Entendido"
+      "legend_close": "Entendido",
+      "legend_legendary_name": "Ace, seis estrellas",
+      "legend_legendary": "Ganar en Ace con cinco estrellas añade una sexta. El rango se detiene ahí y no se puede perder."
     }
   },
   "store": {

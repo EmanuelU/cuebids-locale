@@ -231,7 +231,9 @@
       "legend_intro": "Rankat spel går från Jack upp till Ace. Din ring visar var du är.",
       "legend_you": "Du",
       "legend_stars": "Varje rank rymmer fem stjärnor.",
-      "legend_close": "Okej"
+      "legend_close": "Okej",
+      "legend_legendary_name": "Ace, sex stjärnor",
+      "legend_legendary": "Vinner du på Ace med fem stjärnor får du en sjätte. Där stannar ranken, och den kan inte förloras."
     }
   },
   "store": {

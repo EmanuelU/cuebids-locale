@@ -231,7 +231,9 @@
       "legend_intro": "Le jeu classé va de Jack à Ace. Votre anneau indique où vous en êtes.",
       "legend_you": "Vous",
       "legend_stars": "Chaque rang compte cinq étoiles.",
-      "legend_close": "Compris"
+      "legend_close": "Compris",
+      "legend_legendary_name": "Ace, six étoiles",
+      "legend_legendary": "Gagner à Ace avec cinq étoiles ajoute une sixième. Le rang s'arrête là et ne peut plus être perdu."
     }
   },
   "store": {

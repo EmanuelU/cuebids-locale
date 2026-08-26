@@ -231,7 +231,9 @@
       "legend_intro": "Ranked play runs from Jack up to Ace. Your ring shows where you are.",
       "legend_you": "You",
       "legend_stars": "Each rank holds five stars.",
-      "legend_close": "Got it"
+      "legend_close": "Got it",
+      "legend_legendary_name": "Ace, six stars",
+      "legend_legendary": "Winning at Ace with five stars adds a sixth. The rank stops there and cannot be lost."
     }
   },
   "store": {
