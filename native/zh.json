@@ -62,5 +62,13 @@
   "diamond_month": "方块支持者",
   "tickets_1500": "1500 张门票",
   "tickets_250": "250 张门票",
-  "tickets_50": "50 张门票"
+  "tickets_50": "50 张门票",
+  "loading_line_1": "正在发牌…",
+  "loading_line_2": "正在理牌…",
+  "loading_line_3": "正在算点…",
+  "loading_line_4": "等待搭档…",
+  "loading_line_5": "刚才那个是逼叫吗…",
+  "loading_line_6": "正在找止张…",
+  "loading_line_7": "搭档还在想…",
+  "loading_line_8": "复盘已经开始了…"
 }

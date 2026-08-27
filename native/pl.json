@@ -62,5 +62,13 @@
   "diamond_month": "Subskrybent Karo",
   "tickets_1500": "1500 biletów",
   "tickets_250": "250 biletów",
-  "tickets_50": "50 biletów"
+  "tickets_50": "50 biletów",
+  "loading_line_1": "Rozdajemy karty…",
+  "loading_line_2": "Porządkujemy rękę…",
+  "loading_line_3": "Liczymy punkty…",
+  "loading_line_4": "Czekamy na partnera…",
+  "loading_line_5": "Czy to był forsing?",
+  "loading_line_6": "Szukamy zatrzymania…",
+  "loading_line_7": "Partner wciąż myśli…",
+  "loading_line_8": "Analiza rozdania już trwa…"
 }

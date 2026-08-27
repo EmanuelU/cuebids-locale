@@ -62,5 +62,13 @@
   "diamond_month": "Abonnement Carreau",
   "tickets_1500": "1500 tickets",
   "tickets_250": "250 tickets",
-  "tickets_50": "50 tickets"
+  "tickets_50": "50 tickets",
+  "loading_line_1": "Distribution des cartes…",
+  "loading_line_2": "Tri de la main…",
+  "loading_line_3": "Comptage des points…",
+  "loading_line_4": "En attente du partenaire…",
+  "loading_line_5": "C'était forcing, ça ?",
+  "loading_line_6": "Recherche d'un arrêt…",
+  "loading_line_7": "Le partenaire réfléchit encore…",
+  "loading_line_8": "Le post-mortem a déjà commencé…"
 }

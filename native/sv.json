@@ -62,5 +62,13 @@
   "diamond_month": "Rutersupporter",
   "tickets_1500": "1500 biljetter",
   "tickets_250": "250 biljetter",
-  "tickets_50": "50 biljetter"
+  "tickets_50": "50 biljetter",
+  "loading_line_1": "Delar ut korten…",
+  "loading_line_2": "Sorterar handen…",
+  "loading_line_3": "Räknar poängen…",
+  "loading_line_4": "Väntar på partnern…",
+  "loading_line_5": "Kollar om budet var krav…",
+  "loading_line_6": "Letar efter ett håll…",
+  "loading_line_7": "Partnern funderar fortfarande…",
+  "loading_line_8": "Efteranalysen är redan igång…"
 }

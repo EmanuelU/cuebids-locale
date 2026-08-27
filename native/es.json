@@ -62,5 +62,13 @@
   "diamond_month": "Suscripción Diamante",
   "tickets_1500": "1500 tickets",
   "tickets_250": "250 tickets",
-  "tickets_50": "50 tickets"
+  "tickets_50": "50 tickets",
+  "loading_line_1": "Repartiendo las cartas…",
+  "loading_line_2": "Ordenando la mano…",
+  "loading_line_3": "Contando los puntos…",
+  "loading_line_4": "Esperando al compañero…",
+  "loading_line_5": "¿Eso era forcing?",
+  "loading_line_6": "Buscando una parada…",
+  "loading_line_7": "El compañero sigue pensando…",
+  "loading_line_8": "El análisis posterior ya ha empezado…"
 }

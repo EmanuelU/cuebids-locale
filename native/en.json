@@ -62,5 +62,13 @@
   "diamond_month": "Diamond Supporter",
   "tickets_1500": "1500 tickets",
   "tickets_250": "250 tickets",
-  "tickets_50": "50 tickets"
+  "tickets_50": "50 tickets",
+  "loading_line_1": "Dealing the cards…",
+  "loading_line_2": "Sorting your hand…",
+  "loading_line_3": "Counting your points…",
+  "loading_line_4": "Waiting for partner…",
+  "loading_line_5": "Checking whether that was forcing…",
+  "loading_line_6": "Looking for a stopper…",
+  "loading_line_7": "Partner is still thinking…",
+  "loading_line_8": "The post-mortem has already started…"
 }
