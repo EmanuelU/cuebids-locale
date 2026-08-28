@@ -833,7 +833,8 @@
   "friends": {
     "select_friend": "选择好友",
     "add_friends_cta": "访问好友页面并添加一些好友一起玩",
-    "suggested": "来自你所在国家的玩家"
+    "suggested": "来自你所在国家的玩家",
+    "find_more": "查找更多"
   },
   "profile": {
     "notifications_saved": "设置已保存",
@@ -3072,7 +3073,8 @@
       "send_friend_key_info": "把你的<strong>好友密钥</strong>发给好友，对方就可以添加你。",
       "your_key": "你的密钥：",
       "link_info": "把邀请链接发给好友。对方打开链接后，你们就会成为好友。"
-    }
+    },
+    "new_key_warning": "生成新钥匙后，旧钥匙以及用它分享的链接都会失效。"
   },
   "friends_page": {
     "my_key": "我的密钥：",

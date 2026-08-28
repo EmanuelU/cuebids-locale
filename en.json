@@ -832,7 +832,8 @@
   "friends": {
     "select_friend": "Select friend",
     "add_friends_cta": "Visit friends page and add some friends to play with",
-    "suggested": "Players from your country"
+    "suggested": "Players from your country",
+    "find_more": "Find more"
   },
   "profile": {
     "notifications_saved": "Settings saved",
@@ -3071,7 +3072,8 @@
       "send_friend_key_info": "Send your friend your <strong>Friend Key</strong>. They can then add you as a friend.",
       "your_key": "Your key: ",
       "link_info": "Send your friend your invite link. When they follow the link you will become friends."
-    }
+    },
+    "new_key_warning": "Generating a new key stops the old one and any links you shared with it from working."
   },
   "friends_page": {
     "my_key": "My key: ",

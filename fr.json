@@ -832,7 +832,8 @@
   "friends": {
     "select_friend": "Sélectionnez un ami",
     "add_friends_cta": "Visitez la page des amis et ajoutez vos amis pour enchérir avec eux",
-    "suggested": "Joueurs de votre pays"
+    "suggested": "Joueurs de votre pays",
+    "find_more": "Voir plus"
   },
   "profile": {
     "notifications_saved": "Paramètres sauvegardés",
@@ -3071,7 +3072,8 @@
       "send_friend_key_info": "Envoyez votre <strong>code d'ami</strong> à votre ami. Il pourra alors vous ajouter en tant qu'ami.",
       "your_key": "Votre code : ",
       "link_info": "Envoyez votre lien d'invitation à votre ami. Lorsqu'il suit le lien, vous deviendrez amis."
-    }
+    },
+    "new_key_warning": "Une nouvelle clé rend l’ancienne, et les liens partagés avec elle, inutilisables."
   },
   "friends_page": {
     "my_key": "Mon code : ",

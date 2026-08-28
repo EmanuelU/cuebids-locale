@@ -832,7 +832,8 @@
   "friends": {
     "select_friend": "Seleccionar amigo",
     "add_friends_cta": "Ve a la página de amigos y añade algunos para jugar",
-    "suggested": "Jugadores de tu país"
+    "suggested": "Jugadores de tu país",
+    "find_more": "Ver más"
   },
   "profile": {
     "notifications_saved": "Ajustes guardados",
@@ -3071,7 +3072,8 @@
       "send_friend_key_info": "Envía a tu amigo tu <strong>código de amigo</strong>. Así podrá añadirte como amigo.",
       "your_key": "Tu código: ",
       "link_info": "Envía a tu amigo tu enlace de invitación. Cuando lo siga, os haréis amigos."
-    }
+    },
+    "new_key_warning": "Generar una clave nueva deja de funcionar la anterior y los enlaces que compartiste con ella."
   },
   "friends_page": {
     "my_key": "Mi código: ",

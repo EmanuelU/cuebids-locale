@@ -832,7 +832,8 @@
   "friends": {
     "select_friend": "Välj vän",
     "add_friends_cta": "Besök vänsidan för att lägga till vänner.",
-    "suggested": "Spelare från ditt land"
+    "suggested": "Spelare från ditt land",
+    "find_more": "Hitta fler"
   },
   "profile": {
     "notifications_saved": "Inställningar sparade",
@@ -3071,7 +3072,8 @@
       "send_friend_key_info": "Skicka din <strong>Vännyckel</strong> till din vän. De kan sedan lägga till dig.",
       "your_key": "Din nyckel: ",
       "link_info": "Skicka din inbjudningslänk till din vän. När de följer länken kommer ni att bli vänner."
-    }
+    },
+    "new_key_warning": "En ny nyckel gör att den gamla, och länkar du delat med den, slutar fungera."
   },
   "friends_page": {
     "my_key": "Min nyckel: ",
