@@ -832,7 +832,8 @@
   },
   "friends": {
     "select_friend": "選擇好友",
-    "add_friends_cta": "訪問好友頁面並添加一些好友一起玩"
+    "add_friends_cta": "訪問好友頁面並添加一些好友一起玩",
+    "suggested": "來自你所在國家的玩家"
   },
   "profile": {
     "notifications_saved": "設置已保存",

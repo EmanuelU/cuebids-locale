@@ -831,7 +831,8 @@
   },
   "friends": {
     "select_friend": "Wybierz znajomego",
-    "add_friends_cta": "Odwiedź stronę znajomi i dodaj paru. W kupie raźniej!"
+    "add_friends_cta": "Odwiedź stronę znajomi i dodaj paru. W kupie raźniej!",
+    "suggested": "Gracze z twojego kraju"
   },
   "profile": {
     "notifications_saved": "Ustawienia zapisane",

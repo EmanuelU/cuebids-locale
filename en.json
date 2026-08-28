@@ -831,7 +831,8 @@
   },
   "friends": {
     "select_friend": "Select friend",
-    "add_friends_cta": "Visit friends page and add some friends to play with"
+    "add_friends_cta": "Visit friends page and add some friends to play with",
+    "suggested": "Players from your country"
   },
   "profile": {
     "notifications_saved": "Settings saved",

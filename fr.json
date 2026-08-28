@@ -831,7 +831,8 @@
   },
   "friends": {
     "select_friend": "Sélectionnez un ami",
-    "add_friends_cta": "Visitez la page des amis et ajoutez vos amis pour enchérir avec eux"
+    "add_friends_cta": "Visitez la page des amis et ajoutez vos amis pour enchérir avec eux",
+    "suggested": "Joueurs de votre pays"
   },
   "profile": {
     "notifications_saved": "Paramètres sauvegardés",

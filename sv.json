@@ -831,7 +831,8 @@
   },
   "friends": {
     "select_friend": "Välj vän",
-    "add_friends_cta": "Besök vänsidan för att lägga till vänner."
+    "add_friends_cta": "Besök vänsidan för att lägga till vänner.",
+    "suggested": "Spelare från ditt land"
   },
   "profile": {
     "notifications_saved": "Inställningar sparade",
