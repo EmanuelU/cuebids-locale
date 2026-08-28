@@ -71,5 +71,20 @@
   "loading_line_6": "Szukamy zatrzymania…",
   "loading_line_7": "Partner wciąż myśli…",
   "loading_line_8": "Analiza rozdania już trwa…",
-  "update_ready": "Aktualizacja gotowa — dotknij, aby odświeżyć"
+  "update_ready": "Aktualizacja gotowa — dotknij, aby odświeżyć",
+  "store_title": "Sklep",
+  "subscription": "Subskrypcje",
+  "current_plan": "Aktualny plan",
+  "no_subscription": "Brak subskrypcji",
+  "club": "Trefl",
+  "diamond": "Karo",
+  "heart": "Kier",
+  "most_popular": "NAJBARDZIEJ POPULARNY",
+  "per_month": "/miesiąc",
+  "per_year": "/rok",
+  "save_percent": "−{{pct}}%",
+  "tickets_info_1": "Bilety są używane na wydarzenia, wyzwania i zaawansowane tryby ćwiczeń.",
+  "best_value": "NAJLEPSZA OFERTA",
+  "heart_covers_pair": "Sesje, które rozpoczynasz, są darmowe dla obojga",
+  "unlock_everything": "ODBLOKUJ WSZYSTKO"
 }

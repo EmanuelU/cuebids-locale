@@ -71,5 +71,20 @@
   "loading_line_6": "Buscando una parada…",
   "loading_line_7": "El compañero sigue pensando…",
   "loading_line_8": "El análisis posterior ya ha empezado…",
-  "update_ready": "Actualización lista — pulsa para recargar"
+  "update_ready": "Actualización lista — pulsa para recargar",
+  "store_title": "Tienda",
+  "subscription": "Suscripciones",
+  "current_plan": "Plan actual",
+  "no_subscription": "Sin suscripción",
+  "club": "Trébol",
+  "diamond": "Diamante",
+  "heart": "Corazón",
+  "most_popular": "MÁS POPULAR",
+  "per_month": "/mes",
+  "per_year": "/año",
+  "save_percent": "−{{pct}}%",
+  "tickets_info_1": "Los tickets se usan para eventos, desafíos y modos de práctica avanzada.",
+  "best_value": "MEJOR OFERTA",
+  "heart_covers_pair": "Las sesiones que inicias son gratis para ambos",
+  "unlock_everything": "DESBLOQUÉALO TODO"
 }

@@ -71,5 +71,20 @@
   "loading_line_6": "Looking for a stopper…",
   "loading_line_7": "Partner is still thinking…",
   "loading_line_8": "The post-mortem has already started…",
-  "update_ready": "Update ready — tap to reload"
+  "update_ready": "Update ready — tap to reload",
+  "store_title": "Store",
+  "subscription": "Subscriptions",
+  "current_plan": "Current plan",
+  "no_subscription": "No subscription",
+  "club": "Club",
+  "diamond": "Diamond",
+  "heart": "Heart",
+  "most_popular": "MOST POPULAR",
+  "per_month": "/month",
+  "per_year": "/year",
+  "save_percent": "−{{pct}}%",
+  "tickets_info_1": "Tickets are used for events, challenges and advanced practice modes.",
+  "best_value": "BEST VALUE",
+  "heart_covers_pair": "Sessions you start are free for both",
+  "unlock_everything": "UNLOCK EVERYTHING"
 }

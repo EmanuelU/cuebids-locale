@@ -71,5 +71,20 @@
   "loading_line_6": "Letar efter ett håll…",
   "loading_line_7": "Partnern funderar fortfarande…",
   "loading_line_8": "Efteranalysen är redan igång…",
-  "update_ready": "Uppdatering klar — tryck för att ladda om"
+  "update_ready": "Uppdatering klar — tryck för att ladda om",
+  "store_title": "Butik",
+  "subscription": "Prenumerationer",
+  "current_plan": "Nuvarande plan",
+  "no_subscription": "Ingen prenumeration",
+  "club": "Klöver",
+  "diamond": "Ruter",
+  "heart": "Hjärter",
+  "most_popular": "POPULÄRAST",
+  "per_month": "/månad",
+  "per_year": "/år",
+  "save_percent": "−{{pct}}%",
+  "tickets_info_1": "Biljetter används för event, utmaningar och avancerad träning.",
+  "best_value": "BÄST VÄRDE",
+  "heart_covers_pair": "Sessioner du startar är gratis för båda",
+  "unlock_everything": "LÅS UPP ALLT"
 }

@@ -71,5 +71,20 @@
   "loading_line_6": "正在找止张…",
   "loading_line_7": "搭档还在想…",
   "loading_line_8": "复盘已经开始了…",
-  "update_ready": "更新已就绪 — 点击重新加载"
+  "update_ready": "更新已就绪 — 点击重新加载",
+  "store_title": "商店",
+  "subscription": "订阅",
+  "current_plan": "当前计划",
+  "no_subscription": "尚未订阅",
+  "club": "梅花",
+  "diamond": "方块",
+  "heart": "红心",
+  "most_popular": "最受欢迎",
+  "per_month": "/月",
+  "per_year": "/年",
+  "save_percent": "−{{pct}}%",
+  "tickets_info_1": "牌券用于每日/每周练习、排位挑战和高级练习模式。",
+  "best_value": "最超值",
+  "heart_covers_pair": "由你发起的练习，双方都免费",
+  "unlock_everything": "解锁一切"
 }

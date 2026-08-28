@@ -71,5 +71,20 @@
   "loading_line_6": "正在找止張…",
   "loading_line_7": "搭檔還在想…",
   "loading_line_8": "複盤已經開始了…",
-  "update_ready": "更新已就緒 — 點擊重新載入"
+  "update_ready": "更新已就緒 — 點擊重新載入",
+  "store_title": "商店",
+  "subscription": "訂閱",
+  "current_plan": "當前計劃",
+  "no_subscription": "尚未訂閱",
+  "club": "梅花",
+  "diamond": "方塊",
+  "heart": "紅桃",
+  "most_popular": "最受歡迎",
+  "per_month": "/月",
+  "per_year": "/年",
+  "save_percent": "−{{pct}}%",
+  "tickets_info_1": "門票用於每日/每週練習、排位挑戰和高級練習模式。",
+  "best_value": "最超值",
+  "heart_covers_pair": "由你發起的練習，雙方都免費",
+  "unlock_everything": "解鎖一切"
 }

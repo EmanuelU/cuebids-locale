@@ -71,5 +71,20 @@
   "loading_line_6": "Recherche d'un arrêt…",
   "loading_line_7": "Le partenaire réfléchit encore…",
   "loading_line_8": "Le post-mortem a déjà commencé…",
-  "update_ready": "Mise à jour prête — touchez pour recharger"
+  "update_ready": "Mise à jour prête — touchez pour recharger",
+  "store_title": "Boutique",
+  "subscription": "Abonnements",
+  "current_plan": "Formule actuelle",
+  "no_subscription": "Aucun abonnement",
+  "club": "Trèfle",
+  "diamond": "Carreau",
+  "heart": "Coeur",
+  "most_popular": "LE PLUS POPULAIRE",
+  "per_month": "/mois",
+  "per_year": "/an",
+  "save_percent": "−{{pct}}%",
+  "tickets_info_1": "Les tickets sont utilisés pour les événements, les challenges et pour les modes avancés d’entraînement.",
+  "best_value": "MEILLEURE OFFRE",
+  "heart_covers_pair": "Les sessions que vous lancez sont gratuites pour vous deux",
+  "unlock_everything": "DEBLOQUEZ TOUT"
 }
