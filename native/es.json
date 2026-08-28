@@ -87,5 +87,6 @@
   "heart_covers_pair": "Las sesiones que inicias son gratis para ambos",
   "unlock_everything": "DESBLOQUÉALO TODO",
   "yearly_value": "+{{pct}}% de valor",
-  "yearly_upsell": "Paga al año y obtén un {{pct}}% más por tu dinero"
+  "yearly_upsell": "Paga al año y obtén un {{pct}}% más por tu dinero",
+  "web_sub_warning": "¿Ya tienes una suscripción en cuebids.com? Gestiónala allí. Comprar aquí inicia una suscripción aparte."
 }

@@ -87,5 +87,6 @@
   "heart_covers_pair": "Sessioner du startar är gratis för båda",
   "unlock_everything": "LÅS UPP ALLT",
   "yearly_value": "+{{pct}}% mer värde",
-  "yearly_upsell": "Betala per år och få {{pct}}% mer för pengarna"
+  "yearly_upsell": "Betala per år och få {{pct}}% mer för pengarna",
+  "web_sub_warning": "Prenumererar du redan på cuebids.com? Hantera den där. Ett köp här startar en separat prenumeration."
 }
