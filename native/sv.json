@@ -82,9 +82,10 @@
   "most_popular": "POPULÄRAST",
   "per_month": "/månad",
   "per_year": "/år",
-  "save_percent": "−{{pct}}%",
   "tickets_info_1": "Biljetter används för event, utmaningar och avancerad träning.",
   "best_value": "BÄST VÄRDE",
   "heart_covers_pair": "Sessioner du startar är gratis för båda",
-  "unlock_everything": "LÅS UPP ALLT"
+  "unlock_everything": "LÅS UPP ALLT",
+  "yearly_value": "+{{pct}}% mer värde",
+  "yearly_upsell": "Betala per år och få {{pct}}% mer för pengarna"
 }

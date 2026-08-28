@@ -82,9 +82,10 @@
   "most_popular": "LE PLUS POPULAIRE",
   "per_month": "/mois",
   "per_year": "/an",
-  "save_percent": "−{{pct}}%",
   "tickets_info_1": "Les tickets sont utilisés pour les événements, les challenges et pour les modes avancés d’entraînement.",
   "best_value": "MEILLEURE OFFRE",
   "heart_covers_pair": "Les sessions que vous lancez sont gratuites pour vous deux",
-  "unlock_everything": "DEBLOQUEZ TOUT"
+  "unlock_everything": "DEBLOQUEZ TOUT",
+  "yearly_value": "+{{pct}}% de valeur",
+  "yearly_upsell": "Payez à l’année et obtenez {{pct}}% de plus pour votre argent"
 }

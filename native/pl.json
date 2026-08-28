@@ -82,9 +82,10 @@
   "most_popular": "NAJBARDZIEJ POPULARNY",
   "per_month": "/miesiąc",
   "per_year": "/rok",
-  "save_percent": "−{{pct}}%",
   "tickets_info_1": "Bilety są używane na wydarzenia, wyzwania i zaawansowane tryby ćwiczeń.",
   "best_value": "NAJLEPSZA OFERTA",
   "heart_covers_pair": "Sesje, które rozpoczynasz, są darmowe dla obojga",
-  "unlock_everything": "ODBLOKUJ WSZYSTKO"
+  "unlock_everything": "ODBLOKUJ WSZYSTKO",
+  "yearly_value": "+{{pct}}% wartości",
+  "yearly_upsell": "Zapłać za rok i zyskaj {{pct}}% więcej"
 }

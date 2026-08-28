@@ -82,9 +82,10 @@
   "most_popular": "MOST POPULAR",
   "per_month": "/month",
   "per_year": "/year",
-  "save_percent": "−{{pct}}%",
   "tickets_info_1": "Tickets are used for events, challenges and advanced practice modes.",
   "best_value": "BEST VALUE",
   "heart_covers_pair": "Sessions you start are free for both",
-  "unlock_everything": "UNLOCK EVERYTHING"
+  "unlock_everything": "UNLOCK EVERYTHING",
+  "yearly_value": "+{{pct}}% value",
+  "yearly_upsell": "Pay yearly and get {{pct}}% more for your money"
 }

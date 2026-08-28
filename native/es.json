@@ -82,9 +82,10 @@
   "most_popular": "MÁS POPULAR",
   "per_month": "/mes",
   "per_year": "/año",
-  "save_percent": "−{{pct}}%",
   "tickets_info_1": "Los tickets se usan para eventos, desafíos y modos de práctica avanzada.",
   "best_value": "MEJOR OFERTA",
   "heart_covers_pair": "Las sesiones que inicias son gratis para ambos",
-  "unlock_everything": "DESBLOQUÉALO TODO"
+  "unlock_everything": "DESBLOQUÉALO TODO",
+  "yearly_value": "+{{pct}}% de valor",
+  "yearly_upsell": "Paga al año y obtén un {{pct}}% más por tu dinero"
 }

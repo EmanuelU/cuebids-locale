@@ -82,9 +82,10 @@
   "most_popular": "最受欢迎",
   "per_month": "/月",
   "per_year": "/年",
-  "save_percent": "−{{pct}}%",
   "tickets_info_1": "牌券用于每日/每周练习、排位挑战和高级练习模式。",
   "best_value": "最超值",
   "heart_covers_pair": "由你发起的练习，双方都免费",
-  "unlock_everything": "解锁一切"
+  "unlock_everything": "解锁一切",
+  "yearly_value": "价值 +{{pct}}%",
+  "yearly_upsell": "按年付费，多获得 {{pct}}% 的价值"
 }
