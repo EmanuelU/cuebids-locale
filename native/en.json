@@ -70,5 +70,6 @@
   "loading_line_5": "Checking whether that was forcing…",
   "loading_line_6": "Looking for a stopper…",
   "loading_line_7": "Partner is still thinking…",
-  "loading_line_8": "The post-mortem has already started…"
+  "loading_line_8": "The post-mortem has already started…",
+  "update_ready": "Update ready — tap to reload"
 }
