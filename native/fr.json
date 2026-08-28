@@ -88,5 +88,6 @@
   "unlock_everything": "DEBLOQUEZ TOUT",
   "yearly_value": "+{{pct}}% de valeur",
   "yearly_upsell": "Payez à l’année et obtenez {{pct}}% de plus pour votre argent",
-  "web_sub_warning": "Déjà abonné sur cuebids.com ? Gérez-le là-bas. Un achat ici démarre un abonnement distinct."
+  "web_sub_warning": "Déjà abonné sur cuebids.com ? Gérez-le là-bas. Un achat ici démarre un abonnement distinct.",
+  "web_sub_info": "Cet abonnement a été lancé sur le web. Gérez-le sur cuebids.com."
 }

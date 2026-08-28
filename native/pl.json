@@ -88,5 +88,6 @@
   "unlock_everything": "ODBLOKUJ WSZYSTKO",
   "yearly_value": "+{{pct}}% wartości",
   "yearly_upsell": "Zapłać za rok i zyskaj {{pct}}% więcej",
-  "web_sub_warning": "Masz już subskrypcję na cuebids.com? Zarządzaj nią tam. Zakup tutaj rozpocznie osobną subskrypcję."
+  "web_sub_warning": "Masz już subskrypcję na cuebids.com? Zarządzaj nią tam. Zakup tutaj rozpocznie osobną subskrypcję.",
+  "web_sub_info": "Ta subskrypcja została rozpoczęta na stronie internetowej. Zarządzaj nią na cuebids.com."
 }

@@ -88,5 +88,6 @@
   "unlock_everything": "解鎖一切",
   "yearly_value": "價值 +{{pct}}%",
   "yearly_upsell": "按年付費，多獲得 {{pct}}% 的價值",
-  "web_sub_warning": "已在 cuebids.com 訂閱？請在網頁上管理。在此購買會另外開啟一個訂閱。"
+  "web_sub_warning": "已在 cuebids.com 訂閱？請在網頁上管理。在此購買會另外開啟一個訂閱。",
+  "web_sub_info": "此訂閱是在網頁上啟動的。請在 cuebids.com 上管理。"
 }
