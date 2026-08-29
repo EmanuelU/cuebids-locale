@@ -89,5 +89,7 @@
   "yearly_value": "+{{pct}}% wartości",
   "yearly_upsell": "Zapłać za rok i zyskaj {{pct}}% więcej",
   "web_sub_warning": "Masz już subskrypcję na cuebids.com? Zarządzaj nią tam. Zakup tutaj rozpocznie osobną subskrypcję.",
-  "web_sub_info": "Ta subskrypcja została rozpoczęta na stronie internetowej. Zarządzaj nią na cuebids.com."
+  "web_sub_info": "Ta subskrypcja została rozpoczęta na stronie internetowej. Zarządzaj nią na cuebids.com.",
+  "site_trouble": "Cuebids nie załadował się do końca.",
+  "site_trouble_hint": "Zwykle oznacza to problem po stronie serwisu, a nie Twojego połączenia."
 }

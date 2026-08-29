@@ -89,5 +89,7 @@
   "yearly_value": "+{{pct}}% value",
   "yearly_upsell": "Pay yearly and get {{pct}}% more for your money",
   "web_sub_warning": "Already subscribed on cuebids.com? Manage it there. Buying here starts a separate subscription.",
-  "web_sub_info": "This subscription was started on the web. Manage it at cuebids.com."
+  "web_sub_info": "This subscription was started on the web. Manage it at cuebids.com.",
+  "site_trouble": "Cuebids did not finish loading.",
+  "site_trouble_hint": "This usually means the site is having trouble, not your connection."
 }

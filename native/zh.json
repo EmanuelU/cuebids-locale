@@ -89,5 +89,7 @@
   "yearly_value": "价值 +{{pct}}%",
   "yearly_upsell": "按年付费，多获得 {{pct}}% 的价值",
   "web_sub_warning": "已在 cuebids.com 订阅？请在网页上管理。在此购买会另外开启一个订阅。",
-  "web_sub_info": "此订阅是在网页上启动的。请在 cuebids.com 上管理。"
+  "web_sub_info": "此订阅是在网页上启动的。请在 cuebids.com 上管理。",
+  "site_trouble": "Cuebids 未能完成加载。",
+  "site_trouble_hint": "这通常是网站的问题，而不是你的网络连接。"
 }
