@@ -91,5 +91,7 @@
   "web_sub_warning": "Already subscribed on cuebids.com? Manage it there. Buying here starts a separate subscription.",
   "web_sub_info": "This subscription was started on the web. Manage it at cuebids.com.",
   "site_trouble": "Cuebids did not finish loading.",
-  "site_trouble_hint": "This usually means the site is having trouble, not your connection."
+  "site_trouble_hint": "This usually means the site is having trouble, not your connection.",
+  "page_stopped": "Cuebids stopped responding.",
+  "page_stopped_hint": "Reloading should fix it."
 }

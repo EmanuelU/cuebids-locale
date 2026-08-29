@@ -91,5 +91,7 @@
   "web_sub_warning": "已在 cuebids.com 訂閱？請在網頁上管理。在此購買會另外開啟一個訂閱。",
   "web_sub_info": "此訂閱是在網頁上啟動的。請在 cuebids.com 上管理。",
   "site_trouble": "Cuebids 未能完成載入。",
-  "site_trouble_hint": "這通常是網站的問題，而不是你的網路連線。"
+  "site_trouble_hint": "這通常是網站的問題，而不是你的網路連線。",
+  "page_stopped": "Cuebids 停止回應。",
+  "page_stopped_hint": "重新載入通常可以解決。"
 }

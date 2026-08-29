@@ -91,5 +91,7 @@
   "web_sub_warning": "Prenumererar du redan på cuebids.com? Hantera den där. Ett köp här startar en separat prenumeration.",
   "web_sub_info": "Denna prenumeration startades på webben. Hantera den på cuebids.com.",
   "site_trouble": "Cuebids laddades inte klart.",
-  "site_trouble_hint": "Det beror oftast på att sajten krånglar, inte på din uppkoppling."
+  "site_trouble_hint": "Det beror oftast på att sajten krånglar, inte på din uppkoppling.",
+  "page_stopped": "Cuebids slutade svara.",
+  "page_stopped_hint": "En omladdning brukar lösa det."
 }

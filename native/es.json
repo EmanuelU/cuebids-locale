@@ -91,5 +91,7 @@
   "web_sub_warning": "¿Ya tienes una suscripción en cuebids.com? Gestiónala allí. Comprar aquí inicia una suscripción aparte.",
   "web_sub_info": "Esta suscripción se inició en la web. Gestiónala en cuebids.com.",
   "site_trouble": "Cuebids no terminó de cargar.",
-  "site_trouble_hint": "Suele ser un problema del sitio, no de tu conexión."
+  "site_trouble_hint": "Suele ser un problema del sitio, no de tu conexión.",
+  "page_stopped": "Cuebids dejó de responder.",
+  "page_stopped_hint": "Recargar suele solucionarlo."
 }
