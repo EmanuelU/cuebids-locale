@@ -1320,6 +1320,7 @@
     "you_are": "Vous êtes ",
     "somebody_is": "Quelqu’un est ",
     "looking_for_challenge": "en train de rechercher un défi",
+    "update_available": "La version {{version}} est disponible — appuyez pour mettre à jour",
     "looking_for_partner": "en train de rechercher un partenaire",
     "lia_stuck": "Lia est coincée – cliquez ici",
     "only_your_turn": "Seulement votre tour",

@@ -1320,6 +1320,7 @@
     "you_are": "You are ",
     "somebody_is": "Somebody is ",
     "looking_for_challenge": "looking for a challenge",
+    "update_available": "Version {{version}} is out — tap to update",
     "looking_for_partner": "looking for a partner",
     "lia_stuck": "Lia stuck? - click here!",
     "only_your_turn": "Only your turn",
