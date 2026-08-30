@@ -583,6 +583,24 @@
     "pros": "Pros ({{count}})",
     "robots": "Robots ({{count}})"
   },
+  "learn": {
+    "title": "Learn",
+    "subtitle": "Short lessons on one convention at a time. Read the idea, then play it.",
+    "lessons": "Lessons",
+    "stage_idea": "The idea",
+    "stage_hands": "Worked hands",
+    "stage_practice": "Practice",
+    "key_idea": "Worth remembering",
+    "practice_cta": "Play these hands",
+    "seat_question": "Who do you want to be?",
+    "seat_random": "Either",
+    "recommended": "Recommended",
+    "hands_pending": "Worked hands are on the way. For now the practice deals start at the same decision.",
+    "read_more": "Read more in the library",
+    "all_lessons": "All lessons",
+    "seat_opener": "Opener",
+    "seat_responder": "Responder"
+  },
   "navbar": {
     "tickets": "tickets",
     "tickets_usage": "Tickets are used in events, challenges and advanced robot games.",

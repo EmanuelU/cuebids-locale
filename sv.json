@@ -583,6 +583,24 @@
     "pros": "Proffs ({{count}})",
     "robots": "Robotar ({{count}})"
   },
+  "learn": {
+    "title": "Lär dig",
+    "subtitle": "Korta lektioner, en konvention i taget. Läs idén och spela den sedan.",
+    "lessons": "Lektioner",
+    "stage_idea": "Idén",
+    "stage_hands": "Genomgångna givar",
+    "stage_practice": "Öva",
+    "key_idea": "Värt att minnas",
+    "practice_cta": "Spela dessa givar",
+    "seat_question": "Vem vill du vara?",
+    "seat_random": "Vilken som",
+    "recommended": "Rekommenderas",
+    "hands_pending": "Genomgångna givar kommer snart. Tills dess börjar övningsgivarna vid samma beslut.",
+    "read_more": "Läs mer i biblioteket",
+    "all_lessons": "Alla lektioner",
+    "seat_opener": "Öppnare",
+    "seat_responder": "Svarshand"
+  },
   "navbar": {
     "tickets": "biljetter",
     "tickets_usage": "Biljetter används i events, utmaningar och avancerade robotar.",

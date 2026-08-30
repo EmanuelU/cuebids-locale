@@ -584,6 +584,24 @@
     "pros": "职业牌手 ({{count}})",
     "robots": "机器人 ({{count}})"
   },
+  "learn": {
+    "title": "Learn",
+    "subtitle": "Short lessons on one convention at a time. Read the idea, then play it.",
+    "lessons": "Lessons",
+    "stage_idea": "The idea",
+    "stage_hands": "Worked hands",
+    "stage_practice": "Practice",
+    "key_idea": "Worth remembering",
+    "practice_cta": "Play these hands",
+    "seat_question": "Who do you want to be?",
+    "seat_random": "Either",
+    "recommended": "Recommended",
+    "hands_pending": "Worked hands are on the way. For now the practice deals start at the same decision.",
+    "read_more": "Read more in the library",
+    "all_lessons": "All lessons",
+    "seat_opener": "Opener",
+    "seat_responder": "Responder"
+  },
   "navbar": {
     "tickets": "牌券",
     "tickets_usage": "牌券用于每日/每周练习、排位挑战和高级机器人游戏。",

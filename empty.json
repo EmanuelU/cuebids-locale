@@ -435,6 +435,24 @@
     "stars": "",
     "ev": ""
   },
+  "learn": {
+    "title": "",
+    "subtitle": "",
+    "lessons": "",
+    "stage_idea": "",
+    "stage_hands": "",
+    "stage_practice": "",
+    "key_idea": "",
+    "practice_cta": "",
+    "seat_question": "",
+    "seat_random": "",
+    "recommended": "",
+    "hands_pending": "",
+    "read_more": "",
+    "all_lessons": "",
+    "seat_opener": "",
+    "seat_responder": ""
+  },
   "navbar": {
     "tickets": "",
     "tickets_usage": "",
