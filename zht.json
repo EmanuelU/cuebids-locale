@@ -593,6 +593,7 @@
     "stage_practice": "Practice",
     "key_idea": "Worth remembering",
     "practice_cta": "Play these hands",
+    "play_as": "Play as {{seat}}",
     "seat_question": "Who do you want to be?",
     "seat_random": "Either",
     "recommended": "Recommended",
