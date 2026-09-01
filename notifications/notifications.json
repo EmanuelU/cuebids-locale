@@ -946,6 +946,16 @@
       "zht": "立即加入！"
     }
   },
+  "subscription_past_due": {
+    "en": {
+      "title": "Your card didn't go through",
+      "text": "We'll retry automatically. Your subscription is still active."
+    },
+    "sv": {
+      "title": "Ditt kort gick inte igenom",
+      "text": "Vi försöker igen automatiskt. Din prenumeration gäller fortfarande."
+    }
+  },
   "event_names": {
     "daily_headline": {
       "en": "Daily",
