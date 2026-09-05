@@ -175,7 +175,9 @@
       "info_3": " or send an email to ",
       "info_4": "support@cuebids.com",
       "info_5": ".",
-      "try_again": "Try again"
+      "try_again": "Try again",
+      "new_version_info": "A new version of Cuebids just arrived.",
+      "new_version_reload": "Load it"
     },
     "weekly_ended": {
       "info": "This weekly has ended and your results will not be submitted to the leaderboard. However, you can still finish bidding the session."

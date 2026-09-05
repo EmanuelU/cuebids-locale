@@ -175,7 +175,9 @@
       "info_3": " eller skicka e‑post till ",
       "info_4": "support@cuebids.com",
       "info_5": ".",
-      "try_again": "Försök igen"
+      "try_again": "Försök igen",
+      "new_version_info": "En ny version av Cuebids har just kommit.",
+      "new_version_reload": "Ladda den"
     },
     "weekly_ended": {
       "info": "Denna veckotävling har tagit slut och dina resultat kommer inte att hamna på topplistan. Du kan fortfarande bjuda färdigt sessionen."
