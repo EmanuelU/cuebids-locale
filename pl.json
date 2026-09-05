@@ -175,7 +175,9 @@
       "info_3": " lub wyślij e-mail na ",
       "info_4": "support@cuebids.com",
       "info_5": ".",
-      "try_again": "Spróbuj ponownie"
+      "try_again": "Spróbuj ponownie",
+      "new_version_info": "Nowa wersja Cuebids właśnie się pojawiła.",
+      "new_version_reload": "Załaduj ją"
     },
     "weekly_ended": {
       "info": "Ta tygodniówka się zakończyła. Możesz jednak kontynuować licytację, ale Twoje wyniki nie będą liczone do rankingu."

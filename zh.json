@@ -175,7 +175,9 @@
       "info_3": "或发送电子邮件至",
       "info_4": "support@cuebids.com",
       "info_5": "。",
-      "try_again": "再试一次"
+      "try_again": "再试一次",
+      "new_version_info": "Cuebids 新版本刚刚上线。",
+      "new_version_reload": "立即加载"
     },
     "weekly_ended": {
       "info": "本周练习已结束，你的结果不会提交到排行榜。不过你仍然可以完成本次叫牌练习。"

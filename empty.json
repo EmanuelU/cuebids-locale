@@ -121,7 +121,9 @@
       "info_3": "",
       "info_4": "",
       "info_5": "",
-      "try_again": ""
+      "try_again": "",
+      "new_version_info": "",
+      "new_version_reload": ""
     },
     "weekly_ended": {
       "info": ""

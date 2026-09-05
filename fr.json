@@ -175,7 +175,9 @@
       "info_3": " ou envoyer un email à ",
       "info_4": "support@cuebids.com",
       "info_5": ".",
-      "try_again": "Réssayez"
+      "try_again": "Réssayez",
+      "new_version_info": "Une nouvelle version de Cuebids vient d’arriver.",
+      "new_version_reload": "La charger"
     },
     "weekly_ended": {
       "info": "Cet événement hebdomadaire est terminé et vos résultats ne seront pas pris en compte dans le classement. Cependant, vous pouvez encore finir d’enchérir cette session."

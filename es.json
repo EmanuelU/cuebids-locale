@@ -175,7 +175,9 @@
       "info_3": " o enviar un correo a ",
       "info_4": "support@cuebids.com",
       "info_5": ".",
-      "try_again": "Inténtalo de nuevo"
+      "try_again": "Inténtalo de nuevo",
+      "new_version_info": "Acaba de llegar una nueva versión de Cuebids.",
+      "new_version_reload": "Cargarla"
     },
     "weekly_ended": {
       "info": "Este evento semanal ha terminado y tus resultados no se enviarán a la clasificación. Aun así, puedes terminar de pujar la sesión."
