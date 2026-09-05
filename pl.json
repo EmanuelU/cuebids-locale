@@ -976,7 +976,8 @@
     "rematch": "Rewanż",
     "error_missing_partner": "Brak partnera",
     "error_missing_opponents": "Brak przeciwników",
-    "error_insufficient_deals": "Niewystarczająca liczba dostępnych rozdań"
+    "error_insufficient_deals": "Niewystarczająca liczba dostępnych rozdań",
+    "open_challenge": "Otwórz wyzwanie"
   },
   "challenge_matchmaking": {
     "cancel_error": "Błąd podczas anulowania wyzwania",

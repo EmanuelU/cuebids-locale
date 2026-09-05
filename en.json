@@ -976,7 +976,8 @@
     "rematch": "Rematch",
     "error_missing_partner": "Missing partner",
     "error_missing_opponents": "Missing opponents",
-    "error_insufficient_deals": "Insufficient number of available deals"
+    "error_insufficient_deals": "Insufficient number of available deals",
+    "open_challenge": "Open challenge"
   },
   "challenge_matchmaking": {
     "cancel_error": "Error when cancelling challenge",

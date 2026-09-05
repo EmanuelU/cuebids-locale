@@ -976,7 +976,8 @@
     "rematch": "Revancha",
     "error_missing_partner": "Falta el compañero",
     "error_missing_opponents": "Faltan oponentes",
-    "error_insufficient_deals": "No hay suficientes manos disponibles"
+    "error_insufficient_deals": "No hay suficientes manos disponibles",
+    "open_challenge": "Abrir el desafío"
   },
   "challenge_matchmaking": {
     "cancel_error": "Error al cancelar el desafío",

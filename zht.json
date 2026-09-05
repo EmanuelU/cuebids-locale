@@ -977,7 +977,8 @@
     "rematch": "再賽一場",
     "error_missing_partner": "缺少搭檔",
     "error_missing_opponents": "缺少對手",
-    "error_insufficient_deals": "可用牌局數量不足"
+    "error_insufficient_deals": "可用牌局數量不足",
+    "open_challenge": "打開挑戰"
   },
   "challenge_matchmaking": {
     "cancel_error": "取消挑戰時出錯",

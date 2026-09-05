@@ -976,7 +976,8 @@
     "rematch": "Match à nouveau",
     "error_missing_partner": "Partenaire manquant",
     "error_missing_opponents": "Adversaires manquants",
-    "error_insufficient_deals": "Nombre insuffisant de donnes disponibles"
+    "error_insufficient_deals": "Nombre insuffisant de donnes disponibles",
+    "open_challenge": "Ouvrir le défi"
   },
   "challenge_matchmaking": {
     "cancel_error": "Erreur lors de l’annulation du défi",

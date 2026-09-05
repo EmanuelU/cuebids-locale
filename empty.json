@@ -681,7 +681,8 @@
     "rematch": "",
     "error_missing_partner": "",
     "error_missing_opponents": "",
-    "error_insufficient_deals": ""
+    "error_insufficient_deals": "",
+    "open_challenge": ""
   },
   "challenge_matchmaking": {
     "cancel_error": "",

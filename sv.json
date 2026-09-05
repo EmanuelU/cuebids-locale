@@ -976,7 +976,8 @@
     "rematch": "Returmatch",
     "error_missing_partner": "Partner saknas",
     "error_missing_opponents": "Motståndare saknas",
-    "error_insufficient_deals": "Otillräckligt antal tillgängliga givar."
+    "error_insufficient_deals": "Otillräckligt antal tillgängliga givar.",
+    "open_challenge": "Öppna utmaningen"
   },
   "challenge_matchmaking": {
     "cancel_error": "Ett fel uppstod med att avbryta utmaningen",
