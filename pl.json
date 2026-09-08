@@ -1145,7 +1145,8 @@
       "invalid_email": "Nieprawidłowy adres e-mail",
       "unauthenticated": "Musisz być zalogowany",
       "too_many_attempts": "Zbyt wiele prób, spróbuj ponownie później",
-      "reward_claimed": "Nagroda odebrana"
+      "reward_claimed": "Nagroda odebrana",
+      "newsletter_subscribed": "Zapisano do newslettera!"
     },
     "display_name": "Publiczna nazwa",
     "real_name_label": "Prawdziwe imię i nazwisko (opcjonalnie)",
@@ -1314,7 +1315,9 @@
     "error": "Coś poszło nie tak. Spróbuj ponownie. Jeśli problem będzie się powtarzał, napisz do nas na support@cuebids.com",
     "try_again": "Spróbuj ponownie",
     "success": "E-mail potwierdzony!",
-    "claim_reward": "Odbierz nagrodę"
+    "claim_reward": "Odbierz nagrodę",
+    "single_opt_in_info": "Subskrypcja newslettera działa teraz natychmiast – zarządzaj nią w Ustawieniach.",
+    "to_settings": "Do Ustawień"
   },
   "start": {
     "latest_challenge": "Ostatnie wyzwanie",

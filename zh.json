@@ -1148,7 +1148,8 @@
       "invalid_email": "电子邮件地址无效",
       "unauthenticated": "您必须登录",
       "too_many_attempts": "尝试次数过多，请稍后再试",
-      "reward_claimed": "已领取奖励"
+      "reward_claimed": "已领取奖励",
+      "newsletter_subscribed": "已订阅新闻通讯！"
     },
     "display_name": "显示名称",
     "real_name_label": "真实姓名（可选）",
@@ -1313,7 +1314,9 @@
     "error": "出了点问题。再试一次。如果问题仍然存在，请发送电子邮件至 support@cuebids.com",
     "try_again": "再试一次",
     "success": "电子邮件已确认！",
-    "claim_reward": "领取奖励"
+    "claim_reward": "领取奖励",
+    "single_opt_in_info": "订阅新闻通讯现已即时生效——请在设置中管理。",
+    "to_settings": "前往设置"
   },
   "start": {
     "latest_challenge": "最新挑战",

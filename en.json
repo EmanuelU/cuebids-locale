@@ -1147,7 +1147,8 @@
       "invalid_email": "Invalid email address",
       "unauthenticated": "You must be logged in",
       "too_many_attempts": "Too many attempts, please try again later",
-      "reward_claimed": "Reward claimed"
+      "reward_claimed": "Reward claimed",
+      "newsletter_subscribed": "Subscribed to the newsletter!"
     },
     "display_name": "Display name",
     "real_name_label": "Real Name (optional)",
@@ -1312,7 +1313,9 @@
     "error": "Something went wrong. Try again. If the problem persists, email support@cuebids.com",
     "try_again": "Try again",
     "success": "Email confirmed!",
-    "claim_reward": "Claim reward"
+    "claim_reward": "Claim reward",
+    "single_opt_in_info": "Newsletter subscriptions are instant now - manage yours from Settings.",
+    "to_settings": "To Settings"
   },
   "start": {
     "latest_challenge": "Latest challenge",

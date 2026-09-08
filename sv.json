@@ -1147,7 +1147,8 @@
       "invalid_email": "Ogiltig e-postadress",
       "unauthenticated": "Du måste vara inloggad",
       "too_many_attempts": "För många försök, försök igen senare",
-      "reward_claimed": "Belöning hämtad"
+      "reward_claimed": "Belöning hämtad",
+      "newsletter_subscribed": "Du prenumererar nu på nyhetsbrevet!"
     },
     "display_name": "Användarnamn",
     "real_name_label": "Riktigt namn (valfritt)",
@@ -1312,7 +1313,9 @@
     "error": "Något gick fel. Försök igen. Om problemet kvarstår, maila support@cuebids.com",
     "try_again": "Försök igen",
     "success": "E‑post verifierad!",
-    "claim_reward": "Hämta belöning"
+    "claim_reward": "Hämta belöning",
+    "single_opt_in_info": "Prenumerationer på nyhetsbrevet sker direkt nu – hantera din under Inställningar.",
+    "to_settings": "Till Inställningar"
   },
   "start": {
     "latest_challenge": "Senaste utmaningen",

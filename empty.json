@@ -847,7 +847,8 @@
       "invalid_email": "",
       "cf_unauthenticated": "",
       "cf_too_many_attempts": "",
-      "reward_claimed": ""
+      "reward_claimed": "",
+      "newsletter_subscribed": ""
     },
     "display_name": "",
     "real_name_label": "",
@@ -957,7 +958,9 @@
     "error": "",
     "try_again": "",
     "success": "",
-    "claim_reward": ""
+    "claim_reward": "",
+    "single_opt_in_info": "",
+    "to_settings": ""
   },
   "start": {
     "latest_challenge": "",

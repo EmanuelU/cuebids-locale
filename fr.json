@@ -1143,7 +1143,8 @@
       "invalid_email": "Adresse e-mail invalide",
       "unauthenticated": "Vous devez être connecté",
       "too_many_attempts": "Trop de tentatives, veuillez réessayer plus tard",
-      "reward_claimed": "Récompense réclamée"
+      "reward_claimed": "Récompense réclamée",
+      "newsletter_subscribed": "Abonné à la newsletter !"
     },
     "display_name": "Nom affiché",
     "real_name_label": "Nom réel (facultatif)",
@@ -1312,7 +1313,9 @@
     "error": "Quelque chose s'est mal passé. Réessayez. Si le problème persiste, envoyez un email à support@cuebids.com",
     "try_again": "Réessayer",
     "success": "Email confirmé !",
-    "claim_reward": "Réclamer ma récompense"
+    "claim_reward": "Réclamer ma récompense",
+    "single_opt_in_info": "L'abonnement à la newsletter est désormais instantané – gérez-le dans les Réglages.",
+    "to_settings": "Vers les Réglages"
   },
   "start": {
     "latest_challenge": "Dernier défi",

@@ -1147,7 +1147,8 @@
       "invalid_email": "Dirección de correo no válida",
       "unauthenticated": "Debes iniciar sesión",
       "too_many_attempts": "Demasiados intentos. Vuelve a intentarlo más tarde.",
-      "reward_claimed": "Recompensa reclamada"
+      "reward_claimed": "Recompensa reclamada",
+      "newsletter_subscribed": "¡Suscrito al boletín!"
     },
     "display_name": "Nombre visible",
     "real_name_label": "Nombre real (opcional)",
@@ -1312,7 +1313,9 @@
     "error": "Algo salió mal. Inténtalo de nuevo. Si el problema persiste, escribe a support@cuebids.com",
     "try_again": "Inténtalo de nuevo",
     "success": "¡Correo confirmado!",
-    "claim_reward": "Reclamar recompensa"
+    "claim_reward": "Reclamar recompensa",
+    "single_opt_in_info": "La suscripción al boletín ahora es instantánea: gestiónala en Ajustes.",
+    "to_settings": "A Ajustes"
   },
   "start": {
     "latest_challenge": "Último desafío",
