@@ -1149,7 +1149,8 @@
       "unauthenticated": "您必须登录",
       "too_many_attempts": "尝试次数过多，请稍后再试",
       "reward_claimed": "已领取奖励",
-      "newsletter_subscribed": "已订阅新闻通讯！"
+      "newsletter_subscribed": "已订阅新闻通讯！",
+      "verify_email_first": "请先验证您的电子邮箱（查看收件箱）"
     },
     "display_name": "显示名称",
     "real_name_label": "真实姓名（可选）",

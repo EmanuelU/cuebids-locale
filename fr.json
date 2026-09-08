@@ -1144,7 +1144,8 @@
       "unauthenticated": "Vous devez être connecté",
       "too_many_attempts": "Trop de tentatives, veuillez réessayer plus tard",
       "reward_claimed": "Récompense réclamée",
-      "newsletter_subscribed": "Abonné à la newsletter !"
+      "newsletter_subscribed": "Abonné à la newsletter !",
+      "verify_email_first": "Vérifiez d'abord votre adresse e-mail (consultez votre boîte de réception)"
     },
     "display_name": "Nom affiché",
     "real_name_label": "Nom réel (facultatif)",

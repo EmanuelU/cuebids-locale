@@ -1148,7 +1148,8 @@
       "unauthenticated": "Du måste vara inloggad",
       "too_many_attempts": "För många försök, försök igen senare",
       "reward_claimed": "Belöning hämtad",
-      "newsletter_subscribed": "Du prenumererar nu på nyhetsbrevet!"
+      "newsletter_subscribed": "Du prenumererar nu på nyhetsbrevet!",
+      "verify_email_first": "Verifiera din e-postadress först (kolla din inkorg)"
     },
     "display_name": "Användarnamn",
     "real_name_label": "Riktigt namn (valfritt)",

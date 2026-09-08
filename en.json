@@ -1148,7 +1148,8 @@
       "unauthenticated": "You must be logged in",
       "too_many_attempts": "Too many attempts, please try again later",
       "reward_claimed": "Reward claimed",
-      "newsletter_subscribed": "Subscribed to the newsletter!"
+      "newsletter_subscribed": "Subscribed to the newsletter!",
+      "verify_email_first": "Verify your email address first (check your inbox)"
     },
     "display_name": "Display name",
     "real_name_label": "Real Name (optional)",

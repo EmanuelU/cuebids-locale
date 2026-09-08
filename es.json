@@ -1148,7 +1148,8 @@
       "unauthenticated": "Debes iniciar sesión",
       "too_many_attempts": "Demasiados intentos. Vuelve a intentarlo más tarde.",
       "reward_claimed": "Recompensa reclamada",
-      "newsletter_subscribed": "¡Suscrito al boletín!"
+      "newsletter_subscribed": "¡Suscrito al boletín!",
+      "verify_email_first": "Verifica primero tu correo electrónico (revisa tu bandeja de entrada)"
     },
     "display_name": "Nombre visible",
     "real_name_label": "Nombre real (opcional)",

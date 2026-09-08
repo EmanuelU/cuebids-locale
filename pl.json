@@ -1146,7 +1146,8 @@
       "unauthenticated": "Musisz być zalogowany",
       "too_many_attempts": "Zbyt wiele prób, spróbuj ponownie później",
       "reward_claimed": "Nagroda odebrana",
-      "newsletter_subscribed": "Zapisano do newslettera!"
+      "newsletter_subscribed": "Zapisano do newslettera!",
+      "verify_email_first": "Najpierw zweryfikuj swój adres e-mail (sprawdź skrzynkę)"
     },
     "display_name": "Publiczna nazwa",
     "real_name_label": "Prawdziwe imię i nazwisko (opcjonalnie)",

@@ -1149,7 +1149,8 @@
       "unauthenticated": "您必須登錄",
       "too_many_attempts": "嘗試次數過多，請稍後再試",
       "reward_claimed": "已領取獎勵",
-      "newsletter_subscribed": "已訂閱新聞通訊！"
+      "newsletter_subscribed": "已訂閱新聞通訊！",
+      "verify_email_first": "請先驗證您的電子郵箱（查看收件匣）"
     },
     "display_name": "顯示名稱",
     "real_name_label": "真實姓名（選填）",

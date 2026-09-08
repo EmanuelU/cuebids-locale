@@ -848,7 +848,8 @@
       "cf_unauthenticated": "",
       "cf_too_many_attempts": "",
       "reward_claimed": "",
-      "newsletter_subscribed": ""
+      "newsletter_subscribed": "",
+      "verify_email_first": ""
     },
     "display_name": "",
     "real_name_label": "",
