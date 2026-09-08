@@ -1307,7 +1307,8 @@
     "text_scale_sm": "標準",
     "text_scale_md": "大",
     "text_scale_lg": "更大",
-    "text_scale_xl": "特大"
+    "text_scale_xl": "特大",
+    "newsletter_needs_verified": "請先驗證郵箱——見上方"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "電子郵件驗證正在進行中...",

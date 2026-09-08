@@ -951,7 +951,8 @@
     "text_scale_sm": "",
     "text_scale_md": "",
     "text_scale_lg": "",
-    "text_scale_xl": ""
+    "text_scale_xl": "",
+    "newsletter_needs_verified": ""
   },
   "subscribe_newsletter": {
     "verification_in_progress": "",

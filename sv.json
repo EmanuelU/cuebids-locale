@@ -1306,7 +1306,8 @@
     "text_scale_sm": "Normal",
     "text_scale_md": "Stor",
     "text_scale_lg": "Större",
-    "text_scale_xl": "Störst"
+    "text_scale_xl": "Störst",
+    "newsletter_needs_verified": "Verifiera din e-post först – se ovan"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Verifiering av e‑post pågår...",

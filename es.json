@@ -1306,7 +1306,8 @@
     "text_scale_sm": "Normal",
     "text_scale_md": "Grande",
     "text_scale_lg": "Más grande",
-    "text_scale_xl": "Muy grande"
+    "text_scale_xl": "Muy grande",
+    "newsletter_needs_verified": "Verifica primero tu correo – ver arriba"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Verificación del correo en curso...",

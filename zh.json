@@ -1307,7 +1307,8 @@
     "text_scale_sm": "标准",
     "text_scale_md": "大",
     "text_scale_lg": "更大",
-    "text_scale_xl": "特大"
+    "text_scale_xl": "特大",
+    "newsletter_needs_verified": "请先验证邮箱——见上方"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "电子邮件验证正在进行中...",

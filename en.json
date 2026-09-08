@@ -1306,7 +1306,8 @@
     "text_scale_sm": "Normal",
     "text_scale_md": "Large",
     "text_scale_lg": "Larger",
-    "text_scale_xl": "Largest"
+    "text_scale_xl": "Largest",
+    "newsletter_needs_verified": "Verify your email first — see above"
   },
   "subscribe_newsletter": {
     "verification_in_progress": "Email verification in progress...",
