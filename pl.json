@@ -1249,6 +1249,8 @@
     "notification_devices_label": "Urządzenia do powiadomień",
     "no_notification_devices": "Nie wskazano żadnych urządzeń do powiadomień",
     "confirm_delete_token": "Nie będziesz dostawać powiadomień na tym urządzeniu",
+    "notification_device_dead": "Powiadomienia nie docierają na to urządzenie.",
+    "reset_notifications": "Zresetuj powiadomienia",
     "web": "Sieć",
     "add_device": "Add device",
     "notifications_disabled_info": "Powiadomienia są wyłączone dla tego urządzenia",

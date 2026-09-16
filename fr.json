@@ -1247,6 +1247,8 @@
     "notification_devices_label": "Appareils pour notifications",
     "no_notification_devices": "Vous n’avez aucun appareil enregistré pour les notifications",
     "confirm_delete_token": "Vous ne recevrez plus de notifications sur l’appareil choisi.",
+    "notification_device_dead": "Les notifications n’arrivent pas sur cet appareil.",
+    "reset_notifications": "Réinitialiser les notifications",
     "web": "Web",
     "add_device": "Ajouter un équipement",
     "notifications_disabled_info": "Les notifications sont désactivées pour cet appareil",

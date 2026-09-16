@@ -1248,6 +1248,8 @@
     "notification_devices_label": "通知設備",
     "no_notification_devices": "您沒有註冊通知的設備",
     "confirm_delete_token": "您將不再收到所選設備的通知。",
+    "notification_device_dead": "通知無法送達此設備。",
+    "reset_notifications": "重置通知",
     "web": "網絡",
     "add_device": "添加設備",
     "notifications_disabled_info": "該設備已禁用通知",

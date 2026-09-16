@@ -1247,6 +1247,8 @@
     "notification_devices_label": "Dispositivos para notificaciones",
     "no_notification_devices": "No tienes dispositivos registrados para notificaciones.",
     "confirm_delete_token": "Ya no recibirás notificaciones en el dispositivo elegido.",
+    "notification_device_dead": "Las notificaciones no llegan a este dispositivo.",
+    "reset_notifications": "Restablecer notificaciones",
     "web": "Web",
     "add_device": "Añadir dispositivo",
     "notifications_disabled_info": "Las notificaciones están desactivadas en este dispositivo.",

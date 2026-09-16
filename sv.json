@@ -1247,6 +1247,8 @@
     "notification_devices_label": "Enheter för notiser",
     "no_notification_devices": "Du har inga enheter registrerade för notiser",
     "confirm_delete_token": "Du kommer inte längre att få notiser till den valda enheten.",
+    "notification_device_dead": "Notiser når inte den här enheten.",
+    "reset_notifications": "Återställ notiser",
     "web": "Webb",
     "add_device": "Add device",
     "notifications_disabled_info": "Notiser är avstängda på denna enhet",

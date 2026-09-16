@@ -903,6 +903,8 @@
     "notification_devices_label": "",
     "no_notification_devices": "",
     "confirm_delete_token": "",
+    "notification_device_dead": "",
+    "reset_notifications": "",
     "web": "",
     "add_device": "",
     "notifications_disabled_info": "",
