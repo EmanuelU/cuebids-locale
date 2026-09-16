@@ -236,6 +236,17 @@
       "legend_close": "Compris",
       "legend_legendary_name": "Ace, six étoiles",
       "legend_legendary": "Gagner à Ace avec cinq étoiles ajoute une sixième. Le rang s'arrête là et ne peut plus être perdu."
+    },
+    "custom_event_card": {
+      "title": "Tournoi",
+      "pairs": "paires",
+      "continue": "Continuer",
+      "leaderboard": "Classement",
+      "results": "Résultats",
+      "join_event": "Participer",
+      "dismiss": "Masquer",
+      "dismiss_title": "Masquer ce tournoi ?",
+      "dismiss_text": "La carte disparaît de votre page d'accueil. Vous pouvez toujours ouvrir le tournoi depuis un lien ou une invitation."
     }
   },
   "store": {
@@ -3012,7 +3023,8 @@
     "your_position": "Votre position : {{position}} sur {{count}} paires",
     "participants": "{{count}} paires ont rejoint cet événement",
     "leaderboard_minimum": "Un minimum de {{count}} étoiles est nécessaire pour être pris en compte dans le classement.",
-    "leaderboard_title": "Meilleur de l'événement"
+    "leaderboard_title": "Meilleur de l'événement",
+    "public_link": "Classement public"
   },
   "events": {
     "partner": "Partenaire",
@@ -3049,7 +3061,11 @@
     "error_invite_not_for_you": "Cette invitation n’est pas pour vous",
     "error_invite_expired": "Cette invitation est expirée",
     "error_event_ended": "Cet événement est déjà terminé",
-    "error_friend_invites_disabled": "Votre ami a désactivé la réception d'invitations aux événements"
+    "error_friend_invites_disabled": "Votre ami a désactivé la réception d'invitations aux événements",
+    "custom_headline": "Tournoi",
+    "error_not_eligible": "Ce tournoi n'est pas ouvert à votre compte.",
+    "error_partner_not_eligible": "Ce tournoi n'est pas ouvert à votre partenaire.",
+    "error_event_not_open": "Ce tournoi n'est pas ouvert pour le moment."
   },
   "add_friend": {
     "link_error": "Vous devez plutôt envoyer ce lien à votre ami.",

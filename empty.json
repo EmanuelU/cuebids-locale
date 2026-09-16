@@ -168,6 +168,17 @@
     "user_display": {
       "unknown_user": "",
       "last_seen": ""
+    },
+    "custom_event_card": {
+      "title": "",
+      "pairs": "",
+      "continue": "",
+      "leaderboard": "",
+      "results": "",
+      "join_event": "",
+      "dismiss": "",
+      "dismiss_title": "",
+      "dismiss_text": ""
     }
   },
   "store": {
@@ -2576,7 +2587,8 @@
     "participants": "",
     "your_position": "",
     "leaderboard_minimum": "",
-    "leaderboard_title": ""
+    "leaderboard_title": "",
+    "public_link": ""
   },
   "events": {
     "partner": "",
@@ -2605,7 +2617,11 @@
     "error_ticket_usage_disabled": "",
     "error_friend_invites_disabled": "",
     "error_invite_not_for_you": "",
-    "error_invite_expired": ""
+    "error_invite_expired": "",
+    "custom_headline": "",
+    "error_not_eligible": "",
+    "error_partner_not_eligible": "",
+    "error_event_not_open": ""
   },
   "add_friend": {
     "link_error": "",

@@ -236,6 +236,17 @@
       "legend_close": "Got it",
       "legend_legendary_name": "Ace, six stars",
       "legend_legendary": "Winning at Ace with five stars adds a sixth. The rank stops there and cannot be lost."
+    },
+    "custom_event_card": {
+      "title": "Turniej",
+      "pairs": "par",
+      "continue": "Kontynuuj",
+      "leaderboard": "Ranking",
+      "results": "Wyniki",
+      "join_event": "Dołącz",
+      "dismiss": "Ukryj",
+      "dismiss_title": "Ukryć ten turniej?",
+      "dismiss_text": "Karta zniknie ze strony startowej. Turniej nadal można otworzyć z linku lub zaproszenia."
     }
   },
   "store": {
@@ -3014,7 +3025,8 @@
     "participants": "{{count}} par dołączyło do tego wydarzenia",
     "your_position": "Twoje miejsce: {{position}} na {{count}} par",
     "leaderboard_minimum": "Aby zostać uwzględnionym w rankingu, wymagane jest minimum {{count}} gwiazdek.",
-    "leaderboard_title": "Najlepsi w wydarzeniu"
+    "leaderboard_title": "Najlepsi w wydarzeniu",
+    "public_link": "Publiczny ranking"
   },
   "events": {
     "partner": "Partner",
@@ -3051,7 +3063,11 @@
     "error_friend_invites_disabled": "Twój znajomy wyłączył otrzymywanie zaproszeń do wydarzeń",
     "error_invite_not_for_you": "To zaproszenie nie jest dla ciebie",
     "error_invite_expired": "To zaproszenie wygasło",
-    "error_event_ended": "To wydarzenie już się zakończyło"
+    "error_event_ended": "To wydarzenie już się zakończyło",
+    "custom_headline": "Turniej",
+    "error_not_eligible": "Ten turniej nie jest dostępny dla Twojego konta.",
+    "error_partner_not_eligible": "Ten turniej nie jest dostępny dla Twojego partnera.",
+    "error_event_not_open": "Ten turniej nie jest teraz otwarty."
   },
   "add_friend": {
     "link_error": "Musisz wysłać ten link swojemu znajomemu, a nie sobie.",

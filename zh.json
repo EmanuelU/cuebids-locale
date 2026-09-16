@@ -236,6 +236,17 @@
       "legend_close": "Got it",
       "legend_legendary_name": "Ace, six stars",
       "legend_legendary": "Winning at Ace with five stars adds a sixth. The rank stops there and cannot be lost."
+    },
+    "custom_event_card": {
+      "title": "赛事",
+      "pairs": "对",
+      "continue": "继续",
+      "leaderboard": "排行榜",
+      "results": "成绩",
+      "join_event": "参加赛事",
+      "dismiss": "隐藏",
+      "dismiss_title": "隐藏这个赛事？",
+      "dismiss_text": "卡片将从你的首页消失。你仍然可以通过链接或邀请打开该赛事。"
     }
   },
   "store": {
@@ -3013,7 +3024,8 @@
     "participants": "{{count}} 对已参加此练习",
     "your_position": "您的位置：{{position}}，共 {{count}} 对",
     "leaderboard_minimum": "排行榜至少需要考虑 {{count}} 颗星。",
-    "leaderboard_title": "练习最佳"
+    "leaderboard_title": "练习最佳",
+    "public_link": "公开排名"
   },
   "events": {
     "partner": "搭档",
@@ -3050,7 +3062,11 @@
     "error_friend_invites_disabled": "你的好友已关闭练习邀请",
     "error_invite_not_for_you": "这不是发给你的邀请",
     "error_invite_expired": "此邀请已过期",
-    "error_event_ended": "本次练习已经结束"
+    "error_event_ended": "本次练习已经结束",
+    "custom_headline": "赛事",
+    "error_not_eligible": "此赛事不对你的账户开放。",
+    "error_partner_not_eligible": "此赛事不对你的搭档开放。",
+    "error_event_not_open": "此赛事目前未开放。"
   },
   "add_friend": {
     "link_error": "你应该把这个链接发给好友。",

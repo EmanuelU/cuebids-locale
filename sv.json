@@ -236,6 +236,17 @@
       "legend_close": "Okej",
       "legend_legendary_name": "Ace, sex stjärnor",
       "legend_legendary": "Vinner du på Ace med fem stjärnor får du en sjätte. Där stannar ranken, och den kan inte förloras."
+    },
+    "custom_event_card": {
+      "title": "Tävling",
+      "pairs": "par",
+      "continue": "Fortsätt",
+      "leaderboard": "Topplistan",
+      "results": "Resultat",
+      "join_event": "Spela tävling",
+      "dismiss": "Dölj",
+      "dismiss_title": "Dölj tävlingen?",
+      "dismiss_text": "Kortet försvinner från din startsida. Du kan fortfarande öppna tävlingen via en länk eller en inbjudan."
     }
   },
   "store": {
@@ -3012,7 +3023,8 @@
     "your_position": "Din placering: {{position}} utav {{count}} par",
     "participants": "{{count}} par har gått med i denna tävling",
     "leaderboard_minimum": "Minst {{count}} stjärnor krävs för att hamna på topplistan.",
-    "leaderboard_title": "Topplistan"
+    "leaderboard_title": "Topplistan",
+    "public_link": "Offentlig ställning"
   },
   "events": {
     "partner": "Partner",
@@ -3049,7 +3061,11 @@
     "error_friend_invites_disabled": "Din vän har stängt av mottagande av evenemangsinbjudningar",
     "error_invite_not_for_you": "Den här inbjudan är inte till dig",
     "error_invite_expired": "Den här inbjudan har gått ut",
-    "error_event_ended": "Det här eventet har redan avslutats"
+    "error_event_ended": "Det här eventet har redan avslutats",
+    "custom_headline": "Tävling",
+    "error_not_eligible": "Den här tävlingen är inte öppen för ditt konto.",
+    "error_partner_not_eligible": "Den här tävlingen är inte öppen för din partner.",
+    "error_event_not_open": "Den här tävlingen är inte öppen just nu."
   },
   "add_friend": {
     "link_error": "Du ska skicka länken till din vän istället.",

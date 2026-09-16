@@ -236,6 +236,17 @@
       "legend_close": "Got it",
       "legend_legendary_name": "Ace, six stars",
       "legend_legendary": "Winning at Ace with five stars adds a sixth. The rank stops there and cannot be lost."
+    },
+    "custom_event_card": {
+      "title": "Event",
+      "pairs": "pairs",
+      "continue": "Continue",
+      "leaderboard": "Leaderboard",
+      "results": "Results",
+      "join_event": "Join event",
+      "dismiss": "Hide",
+      "dismiss_title": "Hide this event?",
+      "dismiss_text": "The card goes away from your start page. You can still open the event from a link or an invite."
     }
   },
   "store": {
@@ -3012,7 +3023,8 @@
     "participants": "{{count}} pairs have joined this event",
     "your_position": "Your position: {{position}} out of {{count}} pairs",
     "leaderboard_minimum": "A minimum of {{count}} stars is required to be considered for the leaderboard.",
-    "leaderboard_title": "Event's best"
+    "leaderboard_title": "Event's best",
+    "public_link": "Public standings"
   },
   "events": {
     "partner": "Partner",
@@ -3049,7 +3061,11 @@
     "error_friend_invites_disabled": "Your friend has disabled receiving event invites",
     "error_invite_not_for_you": "This invite is not for you",
     "error_invite_expired": "This invite has expired",
-    "error_event_ended": "This event has already ended"
+    "error_event_ended": "This event has already ended",
+    "custom_headline": "Event",
+    "error_not_eligible": "This event is not open to your account.",
+    "error_partner_not_eligible": "This event is not open to your partner.",
+    "error_event_not_open": "This event is not open right now."
   },
   "add_friend": {
     "link_error": "You should send this link to your friend instead.",

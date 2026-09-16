@@ -236,6 +236,17 @@
       "legend_close": "Entendido",
       "legend_legendary_name": "Ace, seis estrellas",
       "legend_legendary": "Ganar en Ace con cinco estrellas añade una sexta. El rango se detiene ahí y no se puede perder."
+    },
+    "custom_event_card": {
+      "title": "Torneo",
+      "pairs": "parejas",
+      "continue": "Continuar",
+      "leaderboard": "Clasificación",
+      "results": "Resultados",
+      "join_event": "Participar",
+      "dismiss": "Ocultar",
+      "dismiss_title": "¿Ocultar este torneo?",
+      "dismiss_text": "La tarjeta desaparece de tu página de inicio. Aún puedes abrir el torneo desde un enlace o una invitación."
     }
   },
   "store": {
@@ -3012,7 +3023,8 @@
     "participants": "{{count}} parejas se han unido a este evento",
     "your_position": "Tu posición: {{position}} de {{count}} parejas",
     "leaderboard_minimum": "Se requiere un mínimo de {{count}} estrellas para figurar en la clasificación.",
-    "leaderboard_title": "Mejores del evento"
+    "leaderboard_title": "Mejores del evento",
+    "public_link": "Clasificación pública"
   },
   "events": {
     "partner": "Compañero",
@@ -3049,7 +3061,11 @@
     "error_friend_invites_disabled": "Tu amigo ha desactivado la recepción de invitaciones a eventos",
     "error_invite_not_for_you": "Esta invitación no es para ti",
     "error_invite_expired": "Esta invitación ha caducado",
-    "error_event_ended": "Este evento ya ha terminado"
+    "error_event_ended": "Este evento ya ha terminado",
+    "custom_headline": "Torneo",
+    "error_not_eligible": "Este torneo no está abierto para tu cuenta.",
+    "error_partner_not_eligible": "Este torneo no está abierto para tu compañero.",
+    "error_event_not_open": "Este torneo no está abierto ahora mismo."
   },
   "add_friend": {
     "link_error": "Deberías enviar este enlace a tu amigo.",
