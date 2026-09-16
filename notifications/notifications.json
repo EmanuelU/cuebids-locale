@@ -1035,5 +1035,45 @@
       "title": "好友挑戰邀請已撤回",
       "text": "{{player}} 撤回了好友挑戰邀請。"
     }
+  },
+  "spot_new_bids": {
+    "en": {
+      "title": "New bids on poll",
+      "text": "There are new bids on your poll!"
+    },
+    "sv": {
+      "title": "Nya bud",
+      "text": "Det finns nya bud på ditt problem!"
+    }
+  },
+  "spot_first_bid": {
+    "en": {
+      "title": "First bid on poll",
+      "text": "You got your first reply to your poll!"
+    },
+    "sv": {
+      "title": "Första budet på problem",
+      "text": "Du har fått ett första svar på ditt problem!"
+    }
+  },
+  "spot_comment_on_your_bid": {
+    "en": {
+      "title": "{{partner}} has commented on your bid",
+      "text": "{{message}}"
+    },
+    "sv": {
+      "title": "{{partner}} har kommenterat på ditt bud",
+      "text": "{{message}}"
+    }
+  },
+  "spot_comment_on_bid_you_follow": {
+    "en": {
+      "title": "{{partner}} has commented on a bid you follow",
+      "text": "{{message}}"
+    },
+    "sv": {
+      "title": "{{partner}} har kommenterat på ett bud du följer",
+      "text": "{{message}}"
+    }
   }
 }
