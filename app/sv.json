@@ -1587,7 +1587,7 @@
       "admin_badge": "ADMIN",
       "make_owner": "Gör till ägare",
       "collapse_title_delete_group": "Radera grupp",
-      "delete_group_info": "Varning! Detta går inte att ångra. Är du säger på att du vill radera din grupp med namnet: {{name})?",
+      "delete_group_info": "Varning! Detta går inte att ångra. Är du säker på att du vill radera din grupp med namnet: {{name}}?",
       "delete_group_confirm_label": "Jag vill radera den här gruppen",
       "delete_group_really_confirm_label": "Jag är helt säker på att jag vill radera den här gruppen",
       "delete_group": "Radera grupp"
