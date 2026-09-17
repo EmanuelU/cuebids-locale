@@ -246,7 +246,9 @@
       "join_event": "Participer",
       "dismiss": "Masquer",
       "dismiss_title": "Masquer ce tournoi ?",
-      "dismiss_text": "La carte disparaît de votre page d'accueil. Vous pouvez toujours ouvrir le tournoi depuis un lien ou une invitation."
+      "dismiss_text": "La carte disparaît de votre page d'accueil. Vous pouvez toujours ouvrir le tournoi depuis un lien ou une invitation.",
+      "hidden": "Masqué sur la page d'accueil",
+      "show_again": "Afficher à nouveau"
     }
   },
   "store": {

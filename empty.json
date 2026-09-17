@@ -178,7 +178,9 @@
       "join_event": "",
       "dismiss": "",
       "dismiss_title": "",
-      "dismiss_text": ""
+      "dismiss_text": "",
+      "hidden": "",
+      "show_again": ""
     }
   },
   "store": {

@@ -246,7 +246,9 @@
       "join_event": "Participar",
       "dismiss": "Ocultar",
       "dismiss_title": "¿Ocultar este torneo?",
-      "dismiss_text": "La tarjeta desaparece de tu página de inicio. Aún puedes abrir el torneo desde un enlace o una invitación."
+      "dismiss_text": "La tarjeta desaparece de tu página de inicio. Aún puedes abrir el torneo desde un enlace o una invitación.",
+      "hidden": "Oculto en la página de inicio",
+      "show_again": "Mostrar de nuevo"
     }
   },
   "store": {

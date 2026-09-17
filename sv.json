@@ -246,7 +246,9 @@
       "join_event": "Spela tävling",
       "dismiss": "Dölj",
       "dismiss_title": "Dölj tävlingen?",
-      "dismiss_text": "Kortet försvinner från din startsida. Du kan fortfarande öppna tävlingen via en länk eller en inbjudan."
+      "dismiss_text": "Kortet försvinner från din startsida. Du kan fortfarande öppna tävlingen via en länk eller en inbjudan.",
+      "hidden": "Dold på startsidan",
+      "show_again": "Visa igen"
     }
   },
   "store": {

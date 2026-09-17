@@ -246,7 +246,9 @@
       "join_event": "Dołącz",
       "dismiss": "Ukryj",
       "dismiss_title": "Ukryć ten turniej?",
-      "dismiss_text": "Karta zniknie ze strony startowej. Turniej nadal można otworzyć z linku lub zaproszenia."
+      "dismiss_text": "Karta zniknie ze strony startowej. Turniej nadal można otworzyć z linku lub zaproszenia.",
+      "hidden": "Ukryty na stronie startowej",
+      "show_again": "Pokaż ponownie"
     }
   },
   "store": {

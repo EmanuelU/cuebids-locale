@@ -246,7 +246,9 @@
       "join_event": "Join event",
       "dismiss": "Hide",
       "dismiss_title": "Hide this event?",
-      "dismiss_text": "The card goes away from your start page. You can still open the event from a link or an invite."
+      "dismiss_text": "The card goes away from your start page. You can still open the event from a link or an invite.",
+      "hidden": "Hidden from the start page",
+      "show_again": "Show it again"
     }
   },
   "store": {

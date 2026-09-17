@@ -246,7 +246,9 @@
       "join_event": "參加賽事",
       "dismiss": "隱藏",
       "dismiss_title": "隱藏這個賽事？",
-      "dismiss_text": "卡片將從你的首頁消失。你仍然可以透過連結或邀請開啟該賽事。"
+      "dismiss_text": "卡片將從你的首頁消失。你仍然可以透過連結或邀請開啟該賽事。",
+      "hidden": "已從首頁隱藏",
+      "show_again": "再次顯示"
     }
   },
   "store": {
