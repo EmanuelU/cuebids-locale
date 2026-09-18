@@ -1633,6 +1633,9 @@
     "or": ""
   },
   "session_deal_result": {
+    "copy_link": "",
+    "link_copied": "",
+    "link_copy_failed": "",
     "tell_us": "",
     "remember": "",
     "read_the_faq": "",
