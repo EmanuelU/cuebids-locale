@@ -2866,6 +2866,7 @@
       "header_daily": "You won the daily",
       "header_weekly": "You won the weekly",
       "header_group": "You won the event {{eventName}}",
+      "header_custom": "You won {{eventName}}",
       "with_score": "With a score of {{winningScore}} ",
       "well_done": "Well done, amazing job!",
       "share": "Share",

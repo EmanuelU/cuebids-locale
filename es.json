@@ -2866,6 +2866,7 @@
       "header_daily": "Has ganado el diario",
       "header_weekly": "Has ganado el semanal",
       "header_group": "Has ganado el evento {{eventName}}",
+      "header_custom": "Has ganado {{eventName}}",
       "with_score": "Con una puntuación de {{winningScore}} ",
       "well_done": "¡Muy bien, gran trabajo!",
       "share": "Compartir",

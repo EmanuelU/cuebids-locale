@@ -2866,6 +2866,7 @@
       "header_daily": "Vous avez remporté le défi quotidien",
       "header_weekly": "Vous avez remporté le défi hebdomadaire",
       "header_group": "Vous avez remporté l'événement {{eventName}}",
+      "header_custom": "Vous avez gagné {{eventName}}",
       "with_score": "Avec un score de {{winningScore}}",
       "well_done": "Bravo, travail incroyable !",
       "share": "Partager",

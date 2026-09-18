@@ -2866,6 +2866,7 @@
       "header_daily": "Du vann dagens tävling",
       "header_weekly": "Du vann veckans tävling",
       "header_group": "Du vann tävlingen {{eventName}}",
+      "header_custom": "Du vann {{eventName}}",
       "with_score": "Med resultatet {{winningScore}} ",
       "well_done": "Bra gjort, fantastiskt jobb!",
       "share": "Dela",

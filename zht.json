@@ -2867,6 +2867,7 @@
       "header_daily": "你贏得了每日",
       "header_weekly": "你贏得了每週",
       "header_group": "您贏得了練習 {{eventName}}",
+      "header_custom": "你贏得了 {{eventName}}",
       "with_score": "得分為 {{winningScore}}",
       "well_done": "幹得好，了不起的工作！",
       "share": "分享",
