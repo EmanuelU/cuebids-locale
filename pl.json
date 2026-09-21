@@ -950,6 +950,7 @@
     "rating": "Rating",
     "queue": "Kolejka",
     "friendly": "Towarzyskie",
+    "competitive": "Turniejowe",
     "wdl": "W/R/P",
     "win_percent": "%wygranych",
     "boards": "Rozdania",
@@ -1052,6 +1053,9 @@
     "pro_challenge_pre_styled": "Wszyscy gracze są ",
     "pro_challenge_styled": "PRO",
     "pro_challenge_post_styled": "Prosimy o pozwolenie na zapisanie rozdań do wykorzystania w przyszłych specjalnych wydarzeniach. Dziękujemy za bycie profesjonalistą i wspieranie społeczności!",
+    "competitive": "Turniejowe",
+    "competitive_explain": "Rozdania, których nie dostaje nikt inny, i termin. Ich wyniki są ukryte, dopóki nie skończycie swoich, a nierozegrane rozdania liczą się jako zero.",
+    "days_to_play_label": "Dni na grę",
     "create_challenge": "Utwórz wyzwanie"
   },
   "friendly_challenge": {
@@ -1070,6 +1074,7 @@
     "invitation_already_waiting": "To zaproszenie już czeka na odpowiedź.",
     "pricing_changed": "Cena się zmieniła — sprawdź przed kontynuacją.",
     "proposal_title": "Zaproszenie do wyzwania",
+    "competitive_days": "Turniejowe · {{days}} dni na grę",
     "accept": "Akceptuj",
     "decline": "Odrzuć",
     "cancel": "Anuluj",

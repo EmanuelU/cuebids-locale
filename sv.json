@@ -950,6 +950,7 @@
     "rating": "Rating",
     "queue": "Kö",
     "friendly": "Vänskaplig",
+    "competitive": "Tävling",
     "wdl": "V/L/F",
     "win_percent": "Vinst %",
     "boards": "Brickor",
@@ -1052,6 +1053,9 @@
     "pro_challenge_pre_styled": "Alla spelare är ",
     "pro_challenge_styled": "PROFFS",
     "pro_challenge_post_styled": "Snälla låt oss spara givarna för att använda i speciella events i framtiden. Tack för att du är ett proffs och stöttar vår community!",
+    "competitive": "Tävling",
+    "competitive_explain": "Brickor som ingen annan får, och en tidsgräns. Deras resultat är dolda tills ni har spelat klart era, och ospelade brickor räknas som noll.",
+    "days_to_play_label": "Dagar att spela",
     "create_challenge": "Skapa utmaning"
   },
   "friendly_challenge": {
@@ -1068,6 +1072,7 @@
     "invitation_already_waiting": "Den inbjudan väntar redan på svar.",
     "pricing_changed": "Priset ändrades – kontrollera innan du fortsätter.",
     "proposal_title": "Utmaningsinbjudan",
+    "competitive_days": "Tävling · {{days}} dagar att spela",
     "accept": "Godkänn",
     "decline": "Tacka nej",
     "cancel": "Avbryt",

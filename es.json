@@ -950,6 +950,7 @@
     "rating": "Valoración",
     "queue": "Cola",
     "friendly": "Amistoso",
+    "competitive": "Competitivo",
     "wdl": "W/D/L",
     "win_percent": "Win %",
     "boards": "Manos",
@@ -1052,6 +1053,9 @@
     "pro_challenge_pre_styled": "Todos los jugadores son ",
     "pro_challenge_styled": "PRO",
     "pro_challenge_post_styled": "Permítenos guardar las manos para usarlas en eventos especiales en el futuro. Gracias por ser pro y apoyar a la comunidad.",
+    "competitive": "Competitivo",
+    "competitive_explain": "Manos que nadie más recibe, y un plazo. Sus resultados quedan ocultos hasta que terminéis las vuestras, y las manos sin jugar puntúan cero.",
+    "days_to_play_label": "Días para jugar",
     "create_challenge": "Crear desafío"
   },
   "friendly_challenge": {
@@ -1068,6 +1072,7 @@
     "invitation_already_waiting": "Esa invitación ya está esperando respuesta.",
     "pricing_changed": "El precio cambió: revísalo antes de continuar.",
     "proposal_title": "Invitación al desafío",
+    "competitive_days": "Competitivo · {{days}} días para jugar",
     "accept": "Aceptar",
     "decline": "Rechazar",
     "cancel": "Cancelar",

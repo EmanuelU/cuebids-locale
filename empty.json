@@ -655,6 +655,7 @@
     "challenges": "",
     "ranked": "",
     "friendly": "",
+    "competitive": "",
     "wdl": "",
     "win_percent": "",
     "boards": "",
@@ -757,6 +758,9 @@
     "pro_challenge_pre_styled": "",
     "pro_challenge_styled": "",
     "pro_challenge_post_styled": "",
+    "competitive": "",
+    "competitive_explain": "",
+    "days_to_play_label": "",
     "create_challenge": ""
   },
   "friendly_challenge": {
@@ -773,6 +777,7 @@
     "invitation_already_waiting": "",
     "pricing_changed": "",
     "proposal_title": "",
+    "competitive_days": "",
     "accept": "",
     "decline": "",
     "cancel": "",

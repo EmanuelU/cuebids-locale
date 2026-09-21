@@ -951,6 +951,7 @@
     "rating": "積分",
     "queue": "隊列",
     "friendly": "友誼賽",
+    "competitive": "競賽",
     "wdl": "勝/平/負",
     "win_percent": "勝率%",
     "boards": "副牌",
@@ -1053,6 +1054,9 @@
     "pro_challenge_pre_styled": "所有玩家都是",
     "pro_challenge_styled": "PRO",
     "pro_challenge_post_styled": "請允許我們保存這些牌局，以便未來用於特殊活動。感謝你成為 PRO 並支持社區！",
+    "competitive": "競賽",
+    "competitive_explain": "專屬牌局，並設有期限。在你們完成自己的牌之前，對手的成績保持隱藏；未打的牌計零分。",
+    "days_to_play_label": "比賽天數",
     "create_challenge": "創建挑戰"
   },
   "friendly_challenge": {
@@ -1069,6 +1073,7 @@
     "invitation_already_waiting": "該邀請已在等待回應。",
     "pricing_changed": "價格已變動 — 請確認後再繼續。",
     "proposal_title": "挑戰邀請",
+    "competitive_days": "競賽 · {{days}} 天內完成",
     "accept": "接受",
     "decline": "拒絕",
     "cancel": "取消",

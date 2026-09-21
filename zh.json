@@ -951,6 +951,7 @@
     "rating": "积分",
     "queue": "队列",
     "friendly": "友谊赛",
+    "competitive": "竞赛",
     "wdl": "胜/平/负",
     "win_percent": "胜率%",
     "boards": "副牌",
@@ -1053,6 +1054,9 @@
     "pro_challenge_pre_styled": "所有玩家都是",
     "pro_challenge_styled": "PRO",
     "pro_challenge_post_styled": "请允许我们保存这些牌局，以便未来用于特殊活动。感谢你成为 PRO 并支持社区！",
+    "competitive": "竞赛",
+    "competitive_explain": "专属牌局，并设有期限。在你们完成自己的牌之前，对手的成绩保持隐藏；未打的牌计零分。",
+    "days_to_play_label": "比赛天数",
     "create_challenge": "创建挑战"
   },
   "friendly_challenge": {
@@ -1069,6 +1073,7 @@
     "invitation_already_waiting": "该邀请已在等待回应。",
     "pricing_changed": "价格已变动 — 请确认后再继续。",
     "proposal_title": "挑战邀请",
+    "competitive_days": "竞赛 · {{days}} 天内完成",
     "accept": "接受",
     "decline": "拒绝",
     "cancel": "取消",

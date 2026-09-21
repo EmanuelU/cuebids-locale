@@ -950,6 +950,7 @@
     "rating": "Cote",
     "queue": "File",
     "friendly": "Amical",
+    "competitive": "Compétitif",
     "wdl": "V/N/D",
     "win_percent": "% de victoires",
     "boards": "Donnes",
@@ -1052,6 +1053,9 @@
     "pro_challenge_pre_styled": "Tous les joueurs sont ",
     "pro_challenge_styled": "PRO",
     "pro_challenge_post_styled": "Merci de nous autoriser à sauvegarder les donnes pour les utiliser lors d’événements spéciaux dans le futur. Merci d’être un pro et de soutenir la communauté !",
+    "competitive": "Compétitif",
+    "competitive_explain": "Des donnes que personne d'autre ne reçoit, et une date limite. Leurs résultats restent masqués tant que vous n'avez pas fini les vôtres, et les donnes non jouées comptent zéro.",
+    "days_to_play_label": "Jours pour jouer",
     "create_challenge": "Créer défi"
   },
   "friendly_challenge": {
@@ -1068,6 +1072,7 @@
     "invitation_already_waiting": "Cette invitation attend déjà une réponse.",
     "pricing_changed": "Le prix a changé — vérifiez avant de continuer.",
     "proposal_title": "Invitation au défi",
+    "competitive_days": "Compétitif · {{days}} jours pour jouer",
     "accept": "Accepter",
     "decline": "Refuser",
     "cancel": "Annuler",
