@@ -416,7 +416,8 @@
     },
     "50 Tickets": "50 Tickets",
     "250 Tickets": "250 Tickets",
-    "1500 Tickets": "1500 Tickets"
+    "1500 Tickets": "1500 Tickets",
+    "tab_gift": "Gift"
   },
   "go_to_store": {
     "no_iap_error": "Store is currently not available in the mobile app. Please visit our website to subscribe to Cuebids."

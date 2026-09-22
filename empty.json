@@ -282,7 +282,8 @@
     "payment_failed": "",
     "50 Tickets": "",
     "250 Tickets": "",
-    "1500 Tickets": ""
+    "1500 Tickets": "",
+    "tab_gift": ""
   },
   "go_to_store": {
     "no_iap_error": ""

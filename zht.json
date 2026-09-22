@@ -416,7 +416,8 @@
     },
     "50 Tickets": "50張門票",
     "250 Tickets": "250張門票",
-    "1500 Tickets": "1500張門票"
+    "1500 Tickets": "1500張門票",
+    "tab_gift": "禮物"
   },
   "go_to_store": {
     "no_iap_error": "商店目前無法在移動應用程序中使用。請訪問我們的網站訂閱 Cuebids。"
