@@ -2871,7 +2871,10 @@
       "well_done": "Bra gjort, fantastiskt jobb!",
       "share": "Dela",
       "copied_success": "Meddelandet kopierat"
-    }
+    },
+    "gift_open": "Öppna gåvan",
+    "gift_opened": "Gåvan finns nu på ditt konto.",
+    "error_gift": "Gåvan gick inte att öppna. Skriv till supporten så löser vi det."
   },
   "help": {
     "add_friends_title": "Hur lägger jag till vänner?",
@@ -3168,7 +3171,8 @@
     "request_sent": "Förfrågan skickad",
     "request_received": "Har frågat dig",
     "following": "Följer",
-    "blocked_status": "Blockerad"
+    "blocked_status": "Blockerad",
+    "give_gift": "Ge en gåva"
   },
   "stats_dashboard": {
     "tab_pairs": "Pair",
@@ -3404,5 +3408,31 @@
       "pre_empt_defence": "Givar där ni försvarar er mot motståndarnas spärrande bud",
       "two_suited_defence": "Givar där ni försvarar er mot motståndarnas tvåfärgsbud"
     }
+  },
+  "gift": {
+    "title": "Ge bort en gåva",
+    "intro": "Ge en vän ett år med Hjärter eller Ruter, eller ett biljettpaket.",
+    "friend_label": "Vem är gåvan till?",
+    "friend_placeholder": "Välj en vän",
+    "no_friends_title": "Lägg till en vän först",
+    "no_friends_text": "En gåva går till någon i din vänlista.",
+    "no_friends_cta": "Hitta vänner",
+    "product_label": "Välj gåva",
+    "product_heart": "Hjärter i ett år",
+    "product_diamond": "Ruter i ett år",
+    "product_tickets250": "250 biljetter",
+    "product_tickets1500": "1 500 biljetter",
+    "delivery_note": "{{name}} får ett meddelande och öppnar gåvan där. Du betalar en gång och inget förnyas.",
+    "delivery_note_generic": "Din vän får ett meddelande och öppnar gåvan där. Du betalar en gång och inget förnyas.",
+    "cta": "Gå till betalning",
+    "success_title": "Gåvan är på väg",
+    "success_text": "{{name}} hittar den under Meddelanden.",
+    "success_text_generic": "Din vän hittar den under Meddelanden.",
+    "success_again": "Ge en gåva till",
+    "success_done": "Klar",
+    "cancelled": "Betalningen avbröts. Inget har dragits.",
+    "error_not_a_friend": "Du kan bara ge en gåva till någon i din vänlista.",
+    "error_unavailable": "Den här gåvan går inte att köpa just nu.",
+    "error_generic": "Något gick fel. Inget har dragits."
   }
 }

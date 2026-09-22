@@ -2872,7 +2872,10 @@
       "well_done": "幹得好，了不起的工作！",
       "share": "分享",
       "copied_success": "消息已複製到剪貼板"
-    }
+    },
+    "gift_open": "打開禮物",
+    "gift_opened": "禮物已加入你的帳戶。",
+    "error_gift": "無法打開此禮物。請聯絡客服，我們會處理。"
   },
   "help": {
     "add_friends_title": "如何添加好友？",
@@ -3169,7 +3172,8 @@
     "request_sent": "請求已發送",
     "request_received": "已請求加你",
     "following": "已關注",
-    "blocked_status": "已屏蔽"
+    "blocked_status": "已屏蔽",
+    "give_gift": "贈送禮物"
   },
   "stats_dashboard": {
     "tab_pairs": "雙人",
@@ -3411,5 +3415,31 @@
       "pre_empt_defence": "你防守對手阻擊叫的牌局",
       "two_suited_defence": "你防守對手雙套型叫牌的牌局"
     }
+  },
+  "gift": {
+    "title": "贈送禮物",
+    "intro": "送給好友一年的紅桃或方塊會員，或一包門票。",
+    "friend_label": "送給誰？",
+    "friend_placeholder": "選擇好友",
+    "no_friends_title": "請先新增好友",
+    "no_friends_text": "禮物只能送給好友列表中的人。",
+    "no_friends_cta": "尋找好友",
+    "product_label": "選擇禮物",
+    "product_heart": "紅桃一年",
+    "product_diamond": "方塊一年",
+    "product_tickets250": "250 張門票",
+    "product_tickets1500": "1500 張門票",
+    "delivery_note": "{{name}} 會收到一則消息，並在那裡打開禮物。只需付款一次，不會續費。",
+    "delivery_note_generic": "你的好友會收到一則消息，並在那裡打開禮物。只需付款一次，不會續費。",
+    "cta": "前往付款",
+    "success_title": "禮物已送出",
+    "success_text": "{{name}} 可以在消息中找到它。",
+    "success_text_generic": "你的好友可以在消息中找到它。",
+    "success_again": "再送一份",
+    "success_done": "完成",
+    "cancelled": "付款已取消，未扣款。",
+    "error_not_a_friend": "只能把禮物送給好友列表中的人。",
+    "error_unavailable": "此禮物暫時無法購買。",
+    "error_generic": "出了點問題，未扣款。"
   }
 }

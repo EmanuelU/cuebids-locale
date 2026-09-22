@@ -2871,7 +2871,10 @@
       "well_done": "Well done, amazing job!",
       "share": "Share",
       "copied_success": "Message copied to clipboard"
-    }
+    },
+    "gift_open": "Open your gift",
+    "gift_opened": "Your gift is now on your account.",
+    "error_gift": "This gift could not be opened. Write to support and we will sort it out."
   },
   "help": {
     "add_friends_title": "How do I add friends?",
@@ -3168,7 +3171,8 @@
     "request_sent": "Request sent",
     "request_received": "Requested you",
     "following": "Following",
-    "blocked_status": "Blocked"
+    "blocked_status": "Blocked",
+    "give_gift": "Give a gift"
   },
   "stats_dashboard": {
     "tab_pairs": "Pairs",
@@ -3404,5 +3408,31 @@
       "pre_empt_defence": "Deals where you're defending against opponent's pre-emptive bids",
       "two_suited_defence": "Deals where you're defending against opponent's two-suited bids"
     }
+  },
+  "gift": {
+    "title": "Give a gift",
+    "intro": "Give a friend a year of Heart or Diamond, or a pack of tickets.",
+    "friend_label": "Who is it for?",
+    "friend_placeholder": "Choose a friend",
+    "no_friends_title": "Add a friend first",
+    "no_friends_text": "A gift goes to someone on your friend list.",
+    "no_friends_cta": "Find friends",
+    "product_label": "Choose a gift",
+    "product_heart": "Heart for a year",
+    "product_diamond": "Diamond for a year",
+    "product_tickets250": "250 tickets",
+    "product_tickets1500": "1500 tickets",
+    "delivery_note": "{{name}} gets a message and opens the gift there. You pay once and nothing renews.",
+    "delivery_note_generic": "Your friend gets a message and opens the gift there. You pay once and nothing renews.",
+    "cta": "Continue to payment",
+    "success_title": "Your gift is on its way",
+    "success_text": "{{name}} will find it under Messages.",
+    "success_text_generic": "Your friend will find it under Messages.",
+    "success_again": "Give another gift",
+    "success_done": "Done",
+    "cancelled": "Payment cancelled. Nothing was charged.",
+    "error_not_a_friend": "You can only give a gift to a friend on your list.",
+    "error_unavailable": "This gift is not available right now.",
+    "error_generic": "Something went wrong. Nothing was charged."
   }
 }

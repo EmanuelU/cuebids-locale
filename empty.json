@@ -2435,7 +2435,10 @@
       "well_done": "",
       "share": "",
       "copied_success": ""
-    }
+    },
+    "gift_open": "",
+    "gift_opened": "",
+    "error_gift": ""
   },
   "help": {
     "add_friends_title": "",
@@ -2707,7 +2710,8 @@
     "no_friends_added_info": "",
     "all_friends_blocked_info": "",
     "pending_requests_info": "",
-    "outstanding_requests_info": ""
+    "outstanding_requests_info": "",
+    "give_gift": ""
   },
   "stats_dashboard": {
     "tab_pairs": "",
@@ -2895,5 +2899,31 @@
     "no_report_deals": "",
     "sub_not_enough": "",
     "go_to_store": ""
+  },
+  "gift": {
+    "title": "",
+    "intro": "",
+    "friend_label": "",
+    "friend_placeholder": "",
+    "no_friends_title": "",
+    "no_friends_text": "",
+    "no_friends_cta": "",
+    "product_label": "",
+    "product_heart": "",
+    "product_diamond": "",
+    "product_tickets250": "",
+    "product_tickets1500": "",
+    "delivery_note": "",
+    "delivery_note_generic": "",
+    "cta": "",
+    "success_title": "",
+    "success_text": "",
+    "success_text_generic": "",
+    "success_again": "",
+    "success_done": "",
+    "cancelled": "",
+    "error_not_a_friend": "",
+    "error_unavailable": "",
+    "error_generic": ""
   }
 }

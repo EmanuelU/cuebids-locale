@@ -2871,7 +2871,10 @@
       "well_done": "Bravo, travail incroyable !",
       "share": "Partager",
       "copied_success": "Message copié dans le presse-papiers"
-    }
+    },
+    "gift_open": "Ouvrir le cadeau",
+    "gift_opened": "Votre cadeau est maintenant sur votre compte.",
+    "error_gift": "Ce cadeau n'a pas pu être ouvert. Écrivez au support et nous réglerons cela."
   },
   "help": {
     "add_friends_title": " Comment ajouter des amis ?",
@@ -3168,7 +3171,8 @@
     "request_sent": "Demande envoyée",
     "request_received": "Vous a demandé",
     "following": "Suivi",
-    "blocked_status": "Bloqué"
+    "blocked_status": "Bloqué",
+    "give_gift": "Offrir un cadeau"
   },
   "stats_dashboard": {
     "tab_pairs": "Paires",
@@ -3404,5 +3408,31 @@
       "pre_empt_defence": "Donnes où vous défendez contre les enchères de barrage adverses",
       "two_suited_defence": "Donnes où vous défendez contre les enchères bicolores adverses"
     }
+  },
+  "gift": {
+    "title": "Offrir un cadeau",
+    "intro": "Offrez à un ami un an de Coeur ou de Carreau, ou un lot de tickets.",
+    "friend_label": "Pour qui est le cadeau ?",
+    "friend_placeholder": "Choisir un ami",
+    "no_friends_title": "Ajoutez d'abord un ami",
+    "no_friends_text": "Un cadeau va à une personne de votre liste d'amis.",
+    "no_friends_cta": "Trouver des amis",
+    "product_label": "Choisir un cadeau",
+    "product_heart": "Coeur pendant un an",
+    "product_diamond": "Carreau pendant un an",
+    "product_tickets250": "250 tickets",
+    "product_tickets1500": "1500 tickets",
+    "delivery_note": "{{name}} reçoit un message et y ouvre le cadeau. Vous payez une fois et rien n'est renouvelé.",
+    "delivery_note_generic": "Votre ami reçoit un message et y ouvre le cadeau. Vous payez une fois et rien n'est renouvelé.",
+    "cta": "Passer au paiement",
+    "success_title": "Votre cadeau est en route",
+    "success_text": "{{name}} le trouvera dans Messages.",
+    "success_text_generic": "Votre ami le trouvera dans Messages.",
+    "success_again": "Offrir un autre cadeau",
+    "success_done": "Terminé",
+    "cancelled": "Paiement annulé. Rien n'a été débité.",
+    "error_not_a_friend": "Vous ne pouvez offrir un cadeau qu'à un ami de votre liste.",
+    "error_unavailable": "Ce cadeau n'est pas disponible pour le moment.",
+    "error_generic": "Une erreur s'est produite. Rien n'a été débité."
   }
 }

@@ -2872,7 +2872,10 @@
       "well_done": "干得好，了不起的工作！",
       "share": "分享",
       "copied_success": "消息已复制到剪贴板"
-    }
+    },
+    "gift_open": "打开礼物",
+    "gift_opened": "礼物已添加到你的账户。",
+    "error_gift": "无法打开此礼物。请联系客服，我们会处理。"
   },
   "help": {
     "add_friends_title": "如何添加好友？",
@@ -3169,7 +3172,8 @@
     "request_sent": "请求已发送",
     "request_received": "已请求加你",
     "following": "已关注",
-    "blocked_status": "已屏蔽"
+    "blocked_status": "已屏蔽",
+    "give_gift": "赠送礼物"
   },
   "stats_dashboard": {
     "tab_pairs": "双人",
@@ -3411,5 +3415,31 @@
       "pre_empt_defence": "你防守对手阻击叫的牌局",
       "two_suited_defence": "你防守对手双套型叫牌的牌局"
     }
+  },
+  "gift": {
+    "title": "赠送礼物",
+    "intro": "送给好友一年的红心或方块会员，或一包门票。",
+    "friend_label": "送给谁？",
+    "friend_placeholder": "选择好友",
+    "no_friends_title": "请先添加好友",
+    "no_friends_text": "礼物只能送给好友列表中的人。",
+    "no_friends_cta": "查找好友",
+    "product_label": "选择礼物",
+    "product_heart": "红心一年",
+    "product_diamond": "方块一年",
+    "product_tickets250": "250 张门票",
+    "product_tickets1500": "1500 张门票",
+    "delivery_note": "{{name}} 会收到一条消息，并在那里打开礼物。只需付款一次，不会续费。",
+    "delivery_note_generic": "你的好友会收到一条消息，并在那里打开礼物。只需付款一次，不会续费。",
+    "cta": "前往付款",
+    "success_title": "礼物已送出",
+    "success_text": "{{name}} 可以在消息中找到它。",
+    "success_text_generic": "你的好友可以在消息中找到它。",
+    "success_again": "再送一份",
+    "success_done": "完成",
+    "cancelled": "付款已取消，未扣款。",
+    "error_not_a_friend": "只能把礼物送给好友列表中的人。",
+    "error_unavailable": "此礼物暂时无法购买。",
+    "error_generic": "出了点问题，未扣款。"
   }
 }

@@ -2873,7 +2873,10 @@
       "well_done": "Well done, amazing job!",
       "share": "Share",
       "copied_success": "Message copied to clipboard"
-    }
+    },
+    "gift_open": "Otwórz prezent",
+    "gift_opened": "Prezent jest już na twoim koncie.",
+    "error_gift": "Nie udało się otworzyć prezentu. Napisz do pomocy, a to naprawimy."
   },
   "help": {
     "add_friends_title": "Jak mogę dodać znajomych?",
@@ -3170,7 +3173,8 @@
     "request_sent": "Zaproszenie wysłane",
     "request_received": "Zaprosił Cię",
     "following": "Obserwujesz",
-    "blocked_status": "Zablokowany"
+    "blocked_status": "Zablokowany",
+    "give_gift": "Podaruj prezent"
   },
   "stats_dashboard": {
     "tab_pairs": "Pary",
@@ -3406,5 +3410,31 @@
       "pre_empt_defence": "Rozdania, gdzie bronicie się przed blokującymi licytacjami przeciwnika",
       "two_suited_defence": "Rozdania, gdzie bronicie się przed dwukolorowymi licytacjami przeciwnika"
     }
+  },
+  "gift": {
+    "title": "Podaruj prezent",
+    "intro": "Podaruj znajomemu rok Kier lub Karo albo pakiet biletów.",
+    "friend_label": "Dla kogo jest prezent?",
+    "friend_placeholder": "Wybierz znajomego",
+    "no_friends_title": "Najpierw dodaj znajomego",
+    "no_friends_text": "Prezent trafia do osoby z twojej listy znajomych.",
+    "no_friends_cta": "Znajdź znajomych",
+    "product_label": "Wybierz prezent",
+    "product_heart": "Kier na rok",
+    "product_diamond": "Karo na rok",
+    "product_tickets250": "250 biletów",
+    "product_tickets1500": "1500 biletów",
+    "delivery_note": "{{name}} dostanie wiadomość i tam otworzy prezent. Płacisz raz i nic się nie odnawia.",
+    "delivery_note_generic": "Twój znajomy dostanie wiadomość i tam otworzy prezent. Płacisz raz i nic się nie odnawia.",
+    "cta": "Przejdź do płatności",
+    "success_title": "Prezent jest w drodze",
+    "success_text": "{{name}} znajdzie go w Wiadomościach.",
+    "success_text_generic": "Twój znajomy znajdzie go w Wiadomościach.",
+    "success_again": "Podaruj kolejny",
+    "success_done": "Gotowe",
+    "cancelled": "Płatność anulowana. Nic nie pobrano.",
+    "error_not_a_friend": "Prezent możesz podarować tylko osobie z listy znajomych.",
+    "error_unavailable": "Ten prezent jest teraz niedostępny.",
+    "error_generic": "Coś poszło nie tak. Nic nie pobrano."
   }
 }
