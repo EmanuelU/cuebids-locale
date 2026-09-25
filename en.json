@@ -1381,7 +1381,6 @@
     "pairs": "pairs",
     "gift_friend_yearly": "Gift your friend a year of Cuebids",
     "show_older_sessions": "Show older sessions",
-    "search_deals": "Search deals",
     "no_tickets": "<strong>Subscribe</strong> or buy <strong>Tickets</strong> in the <strong>Store<strong>",
     "no_subscription": "<strong>Subscribe</strong> to unlock more <strong>features</strong>",
     "no_heart_subscription": "Get a <strong>Heart Subscription</strong> to unlock everything"
@@ -3242,6 +3241,8 @@
     "leak_finder_info": "See reports of different kind if boards, pinpointing the deals you could have done better on.",
     "dashboard_title": "Partners, Weekly, Daily",
     "dashboard_info": "See your average score with each partner, and your results in Weekly and Daily events.",
+    "deal_search_title": "Find a deal",
+    "deal_search_info": "Find the boards you bid, by the auction, the contract or the result. Tap the auction you are looking for.",
     "new": "New!"
   },
   "stats_overview": {

@@ -1381,7 +1381,6 @@
     "pairs": "par",
     "gift_friend_yearly": "Ge en vän ett år av Cuebids",
     "show_older_sessions": "Visa äldre sessioner",
-    "search_deals": "Sök brickor",
     "no_tickets": "<strong>Prenumerera</strong> eller köp <strong>Biljetter</strong> i <strong>Butiken<strong>",
     "no_subscription": "<strong>Prenumerera</strong> för att låsa upp fler <strong>Funktioner</strong>",
     "no_heart_subscription": "Bli <strong>Hjärterprenumerant</strong> för tillgång till <strong>allt</strong>!"
@@ -3242,6 +3241,8 @@
     "leak_finder_info": "Se rapporter på olika typer av givar, och se brickorna du kunde ha gjort bättre på.",
     "dashboard_title": "Partners, Veckotävlingar, Dagtävlingar",
     "dashboard_info": "Se din snittscore med varje partner, och dina resultat i Vecko- och Dagtävlingarna.",
+    "deal_search_title": "Hitta en bricka",
+    "deal_search_info": "Hitta brickorna du bjöd, på budgivningen, kontraktet eller resultatet. Tryck in budgivningen du letar efter.",
     "new": "Nytt!"
   },
   "stats_overview": {
