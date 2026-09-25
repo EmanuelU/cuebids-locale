@@ -2082,8 +2082,8 @@
     "different_system_warning": "Gracze mogą używać różnych systemów."
   },
   "price_dialog": {
-    "your_charge_one": "Zostaniesz obciążony {{count}} biletem ",
-    "your_charge_other": "Zostaniesz obciążony {{count}} biletami ",
+    "your_charge_one": "Zostaniesz obciążony {{count}} biletem, ",
+    "your_charge_other": "Zostaniesz obciążony {{count}} biletami, ",
     "partner_charge_one": "a twój partner zostanie obciążony {{count}} biletem",
     "partner_charge_other": "a twój partner zostanie obciążony {{count}} biletami",
     "you": "Ty",
