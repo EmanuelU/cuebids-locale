@@ -330,11 +330,11 @@
     "manage_subscription_styled": "Zarządzaj subskrypcją",
     "manage_subscription_post_styled": "i kliknij zaktualizuj plan.",
     "already_heart": {
-      "info_1": "Subskrypcja Kier to najwyższa subskrypcja i obejmuje",
+      "info_1": "Subskrypcja Kier to najwyższa subskrypcja i obejmuje ",
       "info_2": "nieskończone",
-      "info_3": "bilety i dostęp do",
+      "info_3": " bilety i dostęp do ",
       "info_4": "wszystkich",
-      "info_5": "rodzajów rozdania"
+      "info_5": " rodzajów rozdań"
     },
     "manage_subscription": "Zarządzaj subskrypcją",
     "manage_subscription_loading": "Proszę czekać",
@@ -445,7 +445,7 @@
       "info_1_pre_styled": "Teraz masz subskrypcję ",
       "info_1_styled": "Kier",
       "info_1_post_styled": "",
-      "info_2_pre_styled": "Odblokowałeś wszystko w Cuebids: Wszystkie rodzaje rozdań i na dodatek -",
+      "info_2_pre_styled": "Odblokowałeś wszystko w Cuebids: Wszystkie rodzaje rozdań i na dodatek - ",
       "info_2_styled": "masz nieskończone bilety."
     }
   },
@@ -1238,7 +1238,7 @@
     "email_placeholder": "przyklad@cuebids.com",
     "avatar_label": "Awatar",
     "flag_label": "Flaga",
-    "flag_automatic": "Dopasuj automatycznie",
+    "flag_automatic": "Dopasuj automatycznie ",
     "public_flag_label": "Wyświetlaj flagę przy nazwie",
     "verify_mid": "Zweryfikuj numer członkowski",
     "connect_to_sbf": "Połącz konto z Sbf",
@@ -1500,7 +1500,7 @@
     "deal_types": "Typy rozdań",
     "read_more_deal_types": "Przeczytaj więcej o typach rozdań",
     "sub_not_enough_deal_types": "Potrzebujesz innej subskrypcji, aby korzystać z tych typów rozdań. Kliknij tutaj, aby przejść do sklepu.",
-    "scenario_missing": "Czegoś brakuje?",
+    "scenario_missing": "Czegoś brakuje? ",
     "scenario_missing_info": "Utwórz nowy lub wygeneruj na zapas",
     "create_new_session": "Utwórz nową sesję",
     "start_short": "Start",
@@ -1736,7 +1736,7 @@
       "tab_deal_types": "Typ rozdania",
       "tab_scenarios": "Scenariusze",
       "group_event_info": "Tylko członkowie grupy mogą uczestniczyć w tym wydarzeniu.",
-      "group_free_events_info": "Twoja grupa ma darmowe wydarzenia.",
+      "group_free_events_info": "Twoja grupa ma darmowe wydarzenia. ",
       "free_event_info": "Dołączenie do tego wydarzenia będzie darmowe.",
       "event_price_info": "Dołączenie do wydarzenia będzie kosztować jeden bilet na rozdanie na gracza.",
       "free_event_used_info_1": "Już utworzyłeś darmowe wydarzenie w tym tygodniu.",
@@ -2082,8 +2082,8 @@
     "different_system_warning": "Gracze mogą używać różnych systemów."
   },
   "price_dialog": {
-    "your_charge_one": "Zostaniesz obciążony {{count}} biletem",
-    "your_charge_other": "Zostaniesz obciążony {{count}} biletami",
+    "your_charge_one": "Zostaniesz obciążony {{count}} biletem ",
+    "your_charge_other": "Zostaniesz obciążony {{count}} biletami ",
     "partner_charge_one": "a twój partner zostanie obciążony {{count}} biletem",
     "partner_charge_other": "a twój partner zostanie obciążony {{count}} biletami",
     "you": "Ty",
