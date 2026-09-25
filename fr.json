@@ -368,7 +368,7 @@
     "payment_failed": "Le paiement a échoué. Merci de réessayer.",
     "checkout_code": {
       "errors": {
-        "first_stripe_purchase_only": "Cette remise s’applique uniquement à votre premier abonnement.",
+        "first_stripe_purchase_only": "Cette réduction s’applique uniquement à votre premier abonnement.",
         "generic": "Ce code n’est pas disponible pour ce paiement.",
         "invalid_or_expired": "Ce code est invalide ou a expiré.",
         "not_eligible_for_product": "Ce code n’est pas disponible pour ce produit.",
@@ -389,14 +389,14 @@
       "input_label": "Code Cuebids",
       "input_placeholder": "Code facultatif",
       "try_without_code": "Essayer sans code",
-      "remove_and_try_without_code": "Vous pouvez retirer le code et choisir à nouveau le produit sans remise.",
+      "remove_and_try_without_code": "Vous pouvez retirer le code et choisir à nouveau le produit sans réduction.",
       "section": {
         "title": "Codes et réductions",
-        "description": "Vous avez un code de paiement ou un code de parrainage ? Ajoutez-le ici avant de continuer vers le paiement web."
+        "description": "Vous avez un code Cuebids ou un code de parrainage ? Ajoutez-le ici avant de continuer vers le paiement web."
       },
       "affiliate_attached_title": "Code d’affiliation rattaché",
       "affiliate_attached_text": "Votre code d’affiliation est rattaché à ce compte et sera appliqué automatiquement lors du paiement web.",
-      "affiliate_ineligible_prior_title": "Réduction d’affiliation non applicable",
+      "affiliate_ineligible_prior_title": "La réduction d’affiliation ne s’applique plus",
       "affiliate_ineligible_prior_text": "Ce compte a déjà un historique d’abonnement Stripe, donc la réduction d’affiliation rattachée ne s’applique plus.",
       "affiliate_invalid_title": "Code d’affiliation indisponible",
       "affiliate_invalid_text": "Le code d’affiliation rattaché à ce compte est invalide ou expiré, donc aucune réduction Stripe ne sera appliquée.",
@@ -1559,7 +1559,7 @@
     "vs2DMulti": "2K multi adverse",
     "weakTwoX": "Contre après un 2 faible",
     "checkback": "Après la redemande à 1SA de l'ouvreur",
-    "v4Beta": "Test du nouveau calcul",
+    "v4Beta": "Test de la nouvelle notation",
     "reverse": "Bicolore cher",
     "guides": "Guides :",
     "page_title": "Types de donnes",
@@ -1765,7 +1765,7 @@
       "resume": "Reprendre",
       "delete": "Effacer",
       "search_event_placeholder": "Rechercher un événement",
-      "show_finished_label": "Afficher les terminées",
+      "show_finished_label": "Afficher les événements terminés",
       "no_events_info": "Ce groupe n’a pas encore créé d’événement",
       "add_members": "Ajouter des membres",
       "members_count": "Membres ({{count}})",
@@ -2876,7 +2876,7 @@
       "header_weekly": "Vous avez remporté le défi hebdomadaire",
       "header_group": "Vous avez remporté l'événement {{eventName}}",
       "header_custom": "Vous avez gagné {{eventName}}",
-      "with_score": "Avec un score de {{winningScore}}",
+      "with_score": "Avec un score de {{winningScore}} ",
       "well_done": "Bravo, travail incroyable !",
       "share": "Partager",
       "copied_success": "Message copié dans le presse-papiers"
@@ -3051,7 +3051,7 @@
     "sent_invites": "Invitations envoyées",
     "warning_partner_requires_invite": "Votre partenaire nécessite une invitation pour rejoindre des événements avec vous",
     "pending_invite_error": "Vous avez une invitation en attente pour cet événement. Acceptez-la ou refusez-la avant de rejoindre avec quelqu'un d'autre.",
-    "join_error": "Erreur lors de l’inscription au tournoi {{error}}",
+    "join_error": "Erreur lors de l’inscription à l’événement {{error}}",
     "weekly_headline": "Evénement hebdomadaire",
     "daily_headline": "Evénement quotidien",
     "description": "Jouez {{count}} donnes en une semaine avec des robots avancés",
