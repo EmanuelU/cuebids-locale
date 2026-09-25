@@ -1381,6 +1381,7 @@
     "pairs": "par",
     "gift_friend_yearly": "Ge en vän ett år av Cuebids",
     "show_older_sessions": "Visa äldre sessioner",
+    "search_deals": "Sök brickor",
     "no_tickets": "<strong>Prenumerera</strong> eller köp <strong>Biljetter</strong> i <strong>Butiken<strong>",
     "no_subscription": "<strong>Prenumerera</strong> för att låsa upp fler <strong>Funktioner</strong>",
     "no_heart_subscription": "Bli <strong>Hjärterprenumerant</strong> för tillgång till <strong>allt</strong>!"
@@ -2089,6 +2090,38 @@
     "available": "Saldo",
     "charge": "Kostnad",
     "explain_split": "För att spela dras biljetter från båda spelarna. Varje månad får du nya biljetter och prenumeranter får fler. Hjärterprenumeranter har obegränsat med biljetter."
+  },
+  "deal_search": {
+    "box": {
+      "hint": "Tryck in budgivningen du letar efter",
+      "any_level": "Valfri nivå",
+      "any_call": "Valfritt bud, även pass och dubbelt",
+      "any_call_key": "valfritt",
+      "run": "Valfritt antal bud",
+      "run_key": "…"
+    },
+    "anchor": {
+      "opening": "Från öppningen",
+      "anywhere": "Var som helst",
+      "end": "På slutet"
+    },
+    "lock": {
+      "me": "Jag",
+      "partner": "Partner",
+      "us": "Vi",
+      "them": "De"
+    },
+    "last_call_by": "Sista budet av",
+    "min_grade": "Minst",
+    "contract_in": "Kontrakt i",
+    "undo": "Ångra",
+    "clear": "Rensa",
+    "impossible": "Låsningarna kan inte båda stämma — buden följer på varandra, så det gör platserna också.",
+    "syncing": "Hämtar dina brickor… {{count}} hittills",
+    "sync_failed": "Kunde inte hämta fler brickor. Söker bland de {{count}} som redan finns.",
+    "searching_in": "Söker bland dina senaste {{count}} brickor",
+    "no_matches": "Inga brickor matchar.",
+    "more_hidden": "{{count}} till visas inte — begränsa sökningen."
   },
   "flagged_session_deals": {
     "none": "Allt klart! Markera en giv genom att klicka på flaggan.",

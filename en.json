@@ -1381,6 +1381,7 @@
     "pairs": "pairs",
     "gift_friend_yearly": "Gift your friend a year of Cuebids",
     "show_older_sessions": "Show older sessions",
+    "search_deals": "Search deals",
     "no_tickets": "<strong>Subscribe</strong> or buy <strong>Tickets</strong> in the <strong>Store<strong>",
     "no_subscription": "<strong>Subscribe</strong> to unlock more <strong>features</strong>",
     "no_heart_subscription": "Get a <strong>Heart Subscription</strong> to unlock everything"
@@ -2089,6 +2090,38 @@
     "available": "Available",
     "charge": "Charge",
     "explain_split": "To play, you must use tickets. Every month, you receive new tickets, and subscribers receive more tickets. Heart Subscribers have unlimited access."
+  },
+  "deal_search": {
+    "box": {
+      "hint": "Tap the auction you are looking for",
+      "any_level": "Any level",
+      "any_call": "Any call, including pass and double",
+      "any_call_key": "any",
+      "run": "Any number of calls",
+      "run_key": "…"
+    },
+    "anchor": {
+      "opening": "From the opening",
+      "anywhere": "Anywhere",
+      "end": "At the end"
+    },
+    "lock": {
+      "me": "Me",
+      "partner": "Partner",
+      "us": "Us",
+      "them": "Them"
+    },
+    "last_call_by": "Last call by",
+    "min_grade": "At least",
+    "contract_in": "Contract in",
+    "undo": "Undo",
+    "clear": "Clear",
+    "impossible": "Those locks cannot both be true — the calls are consecutive, so their seats are too.",
+    "syncing": "Loading your boards… {{count}} so far",
+    "sync_failed": "Could not load more boards. Searching the {{count}} already here.",
+    "searching_in": "Searching your last {{count}} boards",
+    "no_matches": "No boards match.",
+    "more_hidden": "{{count}} more not shown — narrow the search."
   },
   "flagged_session_deals": {
     "none": "All caught up! Flag a deal by clicking the flag.",
