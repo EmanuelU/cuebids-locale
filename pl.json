@@ -277,7 +277,7 @@
     "select_currency": "Wybierz walutę",
     "currency": "Waluta",
     "subscribe_info": "Więcej informacji",
-    "subscription": "Subksrybcja {{sub}}",
+    "subscription": "Subskrypcja {{sub}}",
     "subs": {
       "heart": "Kier",
       "diamond": "Karo",
@@ -420,7 +420,7 @@
     "tab_gift": "Prezent"
   },
   "go_to_store": {
-    "no_iap_error": "Sklep jest obecnie niedostępny w aplikacji mobilnej. Proszę odwiedzić naszą stronę internetową, aby uzyskać subskrybcję Cuebids."
+    "no_iap_error": "Sklep jest obecnie niedostępny w aplikacji mobilnej. Proszę odwiedzić naszą stronę internetową, aby uzyskać subskrypcję Cuebids."
   },
   "store_thanks": {
     "title": "Dziękujemy za wsparcie!",
@@ -430,19 +430,19 @@
     "250_tickets": "Otrzymałeś 250 biletów",
     "1500_tickets": "Otrzymałeś 1500 biletów",
     "club": {
-      "info_1_pre_styled": "Teraz masz subskrybcję ",
+      "info_1_pre_styled": "Teraz masz subskrypcję ",
       "info_1_styled": "Trefl",
       "info_1_post_styled": "",
       "info_2": "Korzystaj z rodzajów rozdań i dodatkowych biletów!"
     },
     "diamond": {
-      "info_1_pre_styled": "Teraz masz subskrybcję ",
+      "info_1_pre_styled": "Teraz masz subskrypcję ",
       "info_1_styled": "Karo",
       "info_1_post_styled": "",
       "info_2": "Korzystaj z rodzajów rozdań i dodatkowych biletów!"
     },
     "heart": {
-      "info_1_pre_styled": "Teraz masz subskrybcję ",
+      "info_1_pre_styled": "Teraz masz subskrypcję ",
       "info_1_styled": "Kier",
       "info_1_post_styled": "",
       "info_2_pre_styled": "Odblokowałeś wszystko w Cuebids: Wszystkie rodzaje rozdań i na dodatek -",
@@ -588,7 +588,7 @@
     "tickets_usage": "Bilety są używane w wydarzeniach, wyzwaniach i treningu z zaawansowanymi robotami.",
     "you_have": "Masz",
     "messages": "wiadomości",
-    "subscription_tickets": "Bilety z subskrybcji",
+    "subscription_tickets": "Bilety z subskrypcji",
     "refreshed": "są odnawiane",
     "monthly": "co miesiąc.",
     "extra_tickets": "Dodatkowe bilety",
@@ -824,7 +824,7 @@
       "info_2": "Jeśli ten adres e-mail nie jest prawidłowy, uaktualnij go proszę w opcjach profilu.",
       "warning_not_finished": "Możesz eksportować tylko ukończone sesje.",
       "warning_no_email": "Twoje konto nie ma adresu e-mail.",
-      "warning_missing_sub": "Potrzebujesz subskrybcji karo, żeby eksportować sesje.",
+      "warning_missing_sub": "Potrzebujesz subskrypcji karo, żeby eksportować sesje.",
       "board_title": "Drukuj rozdanie {{board}}",
       "board_info_1": "To rozdanie zostanie wyeksportowane jako plik PDF i wysłane na twój adres e-mail ",
       "warning_board_not_finished": "Możesz eksportować tylko ukończone rozdania.",
@@ -2937,9 +2937,9 @@
     "scoring_p4": "Możesz również zobaczyć % każdego rozdania, który jest porównaniem do tego, co zrobili wszyscy inni, którzy grali to samo rozdanie.",
     "scoring_p5": "Pamiętaj, że licytacje robotów nie będą brane pod uwagę przy symulacjach.",
     "scoring_p6": "* Double dummy oznacza, że komputer zna wszystkie rozdania i potrafi grać perfekcyjnie, jednak wprowadzamy również modyfikacje dostosowane do gry ludzkiej.",
-    "why_subscribe_title": "Co dostanę za subskrybcję?",
+    "why_subscribe_title": "Co dostanę za subskrypcję?",
     "subscriptions": "Porównaj subskrypcje",
-    "why_subscribe_p1": "Kiedy jesteś subskrybentem, odblokowujesz więcej funkcji Cuebids i ulepszasz swój trening. Im wyższy poziom subskrybcji, tym więcej odblokwujesz. Subskrybenci Kier mają dostęp do wszystkiego. Oto niektóre funkcje, które możesz odblokować:",
+    "why_subscribe_p1": "Kiedy jesteś subskrybentem, odblokowujesz więcej funkcji Cuebids i ulepszasz swój trening. Im wyższy poziom subskrypcji, tym więcej odblokowujesz. Subskrybenci Kier mają dostęp do wszystkiego. Oto niektóre funkcje, które możesz odblokować:",
     "why_subscribe_ul_li1": "Więcej typów rozdań",
     "why_subscribe_ul_li2": "Więcej miesięcznych biletów",
     "why_subscribe_ul_li3": "Stwórz własne typy rozdań (Scenariusze)",
