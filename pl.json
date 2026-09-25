@@ -309,22 +309,22 @@
     "group_sub_info": "Otrzymałeś darmową subskrypcję od jednej z Twoich grup. Miłej licytacji!",
     "junior_sub_info": "Otrzymałeś darmową subskrypcję, ponieważ jesteś juniorem. Miłej licytacji!",
     "upgrade_to_diamond": {
-      "info_1": "Ulepsz do",
-      "info_2": "Kara",
-      "info_3": "dla",
+      "info_1": "Ulepsz do ",
+      "info_2": "Karo",
+      "info_3": " dla ",
       "info_4": "240",
-      "info_5": "biletów miesięcznie i",
+      "info_5": " biletów miesięcznie i ",
       "info_6": "więcej",
-      "info_7": "rodzajów rozdań"
+      "info_7": " rodzajów rozdań"
     },
     "upgrade_to_heart": {
-      "info_1": "Ulepsz do",
+      "info_1": "Ulepsz do ",
       "info_2": "Kiera",
-      "info_3": "dla",
+      "info_3": " dla ",
       "info_4": "nieskończonych",
-      "info_5": "biletów i dostępu do",
+      "info_5": " biletów i dostępu do ",
       "info_6": "wszystkich",
-      "info_7": "rodzajów rozdań"
+      "info_7": " rodzajów rozdań"
     },
     "manage_subscription_pre_styled": "Kliknij",
     "manage_subscription_styled": "Zarządzaj subskrypcją",
