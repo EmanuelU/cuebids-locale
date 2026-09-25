@@ -195,15 +195,15 @@
       "free": "GRATUIT"
     },
     "remaining_tickets_warning": {
-      "you_cannot_afford_partner_heart": "Vous n’avez pas assez pour payer, mais votre partenaire ayant souscrit l’abonnement Coeur, vous pouvez jouer quand même !",
-      "you_cannot_afford_partner_heart_short": "Vous n’avez pas assez pour payer, mais votre partenaire étant Coeur, vous pouvez jouer quand même !",
-      "you_cannot_afford": "Vous n’avez pas assez pour payer. Prenez l’abonnement coeur pour jouer autant que vous le souhaitez. Cliquez pour ouvrir la boutique.",
-      "you_cannot_afford_short": "Vous n’avez pas assez pour payer. Prenez l’abonnement coeur pour jouer autant que vous le souhaitez.",
-      "partner_cannot_afford_you_heart": "Votre partenaire ne peut pas payer, mais comme vous êtes Coeur, vous pouvez jouer quand même !",
-      "partner_cannot_afford_you_heart_short": "Votre partenaire ne peut pas payer, mais comme vous êtes Coeur, vous pouvez jouer quand même !",
+      "you_cannot_afford_partner_heart": "Vous n’avez pas assez pour payer, mais votre partenaire ayant souscrit l’abonnement Cœur, vous pouvez jouer quand même !",
+      "you_cannot_afford_partner_heart_short": "Vous n’avez pas assez pour payer, mais votre partenaire étant Cœur, vous pouvez jouer quand même !",
+      "you_cannot_afford": "Vous n’avez pas assez pour payer. Prenez l’abonnement cœur pour jouer autant que vous le souhaitez. Cliquez pour ouvrir la boutique.",
+      "you_cannot_afford_short": "Vous n’avez pas assez pour payer. Prenez l’abonnement cœur pour jouer autant que vous le souhaitez.",
+      "partner_cannot_afford_you_heart": "Votre partenaire ne peut pas payer, mais comme vous êtes Cœur, vous pouvez jouer quand même !",
+      "partner_cannot_afford_you_heart_short": "Votre partenaire ne peut pas payer, mais comme vous êtes Cœur, vous pouvez jouer quand même !",
       "partner_cannot_afford_you_pay": "Votre partenaire ne peut payer, mais vous pouvez payer les tickets manquants à sa place.",
       "partner_cannot_afford_you_pay_short": "Votre partenaire ne peut payer, mais vous pouvez payer les tickets manquants.",
-      "partner_cannot_afford_get_heart": "Votre partenaire ne peut payer, mais si vous prenez l’abonnement Coeur, vous pourrez jouer autant que vous le souhaitez. Cliquez pour ouvrir la boutique.",
+      "partner_cannot_afford_get_heart": "Votre partenaire ne peut payer, mais si vous prenez l’abonnement Cœur, vous pourrez jouer autant que vous le souhaitez. Cliquez pour ouvrir la boutique.",
       "partner_cannot_afford_get_heart_short": "Votre partenaire ne peut pas payer, mais si vous prenez l’abonnement Cœur, vous pourrez jouer autant que vous le souhaitez."
     },
     "user_card": {
@@ -255,7 +255,7 @@
     "no_campaign": "Aucune campagne active",
     "coming_soon": "Bientôt disponible",
     "blackweek": "Black Week est là !",
-    "blackweek_info": "L'abonnement Coeur est GRATUIT pendant DEUX SEMAINES !",
+    "blackweek_info": "L'abonnement Cœur est GRATUIT pendant DEUX SEMAINES !",
     "offer_only_for_new": "Cette offre s'applique uniquement aux nouveaux abonnés",
     "not_available": "Indisponible",
     "per_month": "/mois",
@@ -279,7 +279,7 @@
     "subscribe_info": "Plus d'informations",
     "subscription": " Abonnement {{sub}}",
     "subs": {
-      "heart": "Coeur",
+      "heart": "Cœur",
       "diamond": "Carreau",
       "club": "Trèfle"
     },
@@ -319,7 +319,7 @@
     },
     "upgrade_to_heart": {
       "info_1": "Evoluez vers ",
-      "info_2": "Coeur",
+      "info_2": "Cœur",
       "info_3": " pour avoir ",
       "info_4": "un nombre infini",
       "info_5": " de tickets et un accès à ",
@@ -330,7 +330,7 @@
     "manage_subscription_styled": "Gestion de l’abonnement",
     "manage_subscription_post_styled": " et après sur 'update plan'.",
     "already_heart": {
-      "info_1": "L’abonnement Coeur est l’abonnement de plus haut niveau et il inclut ",
+      "info_1": "L’abonnement Cœur est l’abonnement de plus haut niveau et il inclut ",
       "info_2": "un nombre infini",
       "info_3": " de tickets et un accès à ",
       "info_4": "tous",
@@ -344,7 +344,7 @@
     "subscribe_info_4_pre_styled": "Les abonnés peuvent aussi avoir accès et s’entraîner",
     "subscribe_info_4_styled": "avec des types de donne ",
     "subscribe_info_4_post_styled": "comme le 2SA Jacoby.",
-    "subscribe_info_5_1": "L’abonnement Coeur ",
+    "subscribe_info_5_1": "L’abonnement Cœur ",
     "subscribe_info_5_2": "donne un nombre <strong>infini</strong> de tickets et accès à <strong>tous</strong> les types de donne.",
     "club": {
       "title": "Trèfle",
@@ -361,7 +361,7 @@
     "heart": {
       "unlock_everything": "DEBLOQUEZ TOUT",
       "badge": "DEBLOQUEZ TOUT",
-      "title": "Coeur",
+      "title": "Cœur",
       "deal_types_info": "<strong>Tous</strong> les types de donnes",
       "endless_tickets": "<strong>Nombre illimité</strong> de tickets"
     },
@@ -443,7 +443,7 @@
     },
     "heart": {
       "info_1_pre_styled": "Vous êtes maintenant un abonné ",
-      "info_1_styled": "Coeur",
+      "info_1_styled": "Cœur",
       "info_1_post_styled": "",
       "info_2_pre_styled": "Vous avez accès à tout Cuebids : tous les types de donne et surtout,",
       "info_2_styled": "vous avez un nombre illimité de tickets."
@@ -458,7 +458,7 @@
     "unlock_more": "Obtenez en plus avec l’abonnement Carreau",
     "unlock_all": "Débloquez toutes les fonctionnalités",
     "features_requires": "Cette fonctionnalité nécessite un ",
-    "heart_sub": "abonnement Coeur",
+    "heart_sub": "abonnement Cœur",
     "diamond_sub": "abonnement Carreau",
     "club_sub": "abonnement Trèfle",
     "start_trial": "Commencer un essai gratuit",
@@ -467,7 +467,7 @@
     "free": "Gratuit",
     "club": "Trèfle",
     "diamond": "Carreau",
-    "heart": "Coeur",
+    "heart": "Cœur",
     "infinite": "Illimité",
     "all": "TOUT",
     "tickets": "Tickets",
@@ -518,7 +518,7 @@
     "spot_answer_input": "Réponse (optionnel, sera montrée aux utilisateurs quand ils auront répondu)",
     "spot_create_submit": "Créez un sondage",
     "bid_description_input": {
-      "placeholder": "Expliquez votre enchère... Vous pouvez écrire !s pour piques, !h pour coeurs, !d pour carreau and !c pour trèfle."
+      "placeholder": "Expliquez votre enchère... Vous pouvez écrire !s pour piques, !h pour cœurs, !d pour carreau and !c pour trèfle."
     },
     "bid_display-name_input": {
       "placeholder": "Entrez votre nom"
@@ -596,7 +596,7 @@
     "as_a": "Comme",
     "you_get": "vous avez",
     "infinite": "illimité",
-    "heart": "Coeur",
+    "heart": "Cœur",
     "diamond": "Carreau",
     "club": "Trèfle",
     "subscriber": " abonné",
@@ -1327,7 +1327,7 @@
     "newsletter_dialog_email_info": "Assurez-vous qu’il s’agit bien de votre adresse email – vous pouvez la modifier si nécessaire",
     "newsletter_dialog_apple_email_info": "Les adresses email privées d’Apple ne peuvent être utilisées pour s’abonner à la newsletter",
     "subs": {
-      "heart": "Coeur",
+      "heart": "Cœur",
       "diamond": "Carreau",
       "club": "Trèfle"
     },
@@ -1383,7 +1383,7 @@
     "show_older_sessions": "Montrez des sessions anciennes",
     "no_tickets": "<strong>Abonnez-vous</strong> ou achetez des <strong>tickets</strong> dans la <strong>boutique</strong>",
     "no_subscription": "<strong>Abonnez-vous</strong> pour débloquer plus de <strong>fonctionnalités</strong>",
-    "no_heart_subscription": "Obtenez un <strong>abonnement Coeur</strong> pour tout débloquer"
+    "no_heart_subscription": "Obtenez un <strong>abonnement Cœur</strong> pour tout débloquer"
   },
   "practice": {
     "title": "S'entraîner aux enchères",
@@ -1503,7 +1503,7 @@
     "create_new_session": "Créer une nouvelle session",
     "start_short": "Démarrer",
     "start_practice_session": "Démarrer une séance d’entraînement",
-    "scenarios_requires_heart": "Vous avez besoin d’un abonnement Coeur pour utiliser les scénarios.",
+    "scenarios_requires_heart": "Vous avez besoin d’un abonnement Cœur pour utiliser les scénarios.",
     "partner_loading_info": "Chargement du partenaire sélectionné...",
     "boards_range_info": "Sélectionnez un nombre de donnes entre 1 et 24.",
     "show_session_headline": "Nomme la session",
@@ -1679,7 +1679,7 @@
       "forbidden_characters_error": "Caractères interdits",
       "group_name_taken_error": "Un groupe du même nom existe déjà",
       "group_created_success": "Groupe créé",
-      "create_group_info": "Lorsque vous créez un groupe, vous avez accès à un espace privé auquel seuls les membres du groupe peuvent accéder. Vous pouvez y discuter et créer des événements privés. Notez que la participations aux événements nécessite des tickets. Comme toujours, les abonnés Coeur peuvent participer sans aucun surcoût.",
+      "create_group_info": "Lorsque vous créez un groupe, vous avez accès à un espace privé auquel seuls les membres du groupe peuvent accéder. Vous pouvez y discuter et créer des événements privés. Notez que la participations aux événements nécessite des tickets. Comme toujours, les abonnés Cœur peuvent participer sans aucun surcoût.",
       "premium_groups_button_styled": "Etes vous coach ou professeur de bridge ? Dirigez vous une équipe de bridge de haut niveau ? Cliquez ici pour en savoir plus sur les <strong> groupes premium !</strong>",
       "invite_members_bullet": "Inviter des membres",
       "group_chat_bullet": "Tchat de groupe privé",
@@ -1688,7 +1688,7 @@
       "group_name_placeholder": "Entrez le nom du groupe",
       "group_description_label": "Description",
       "group_description_placeholder": "Entrez la description du groupe",
-      "sub_level_error": "Les abonnés Coeur peuvent créer des groupes",
+      "sub_level_error": "Les abonnés Cœur peuvent créer des groupes",
       "submit_button": "Créer un groupe"
     },
     "create_group_session": {
@@ -2088,7 +2088,7 @@
     "partner": "Partenaire",
     "available": "Disponible",
     "charge": "Débit",
-    "explain_split": "Pour jouer, vous devez utiliser des tickets. Chaque mois, vous recevrez de nouveaux tickets, et les abonnés recoivent plus de tickets. Les abonnés Coeur ont un accès illimité."
+    "explain_split": "Pour jouer, vous devez utiliser des tickets. Chaque mois, vous recevrez de nouveaux tickets, et les abonnés recoivent plus de tickets. Les abonnés Cœur ont un accès illimité."
   },
   "flagged_session_deals": {
     "none": "Tout est à jour ! Marquez une donne à partir du menu en pointillés après avoir terminé les enchères.",
@@ -2176,22 +2176,22 @@
           "name": "Carreau faible avec 8 cartes"
         },
         "naturalHearts": {
-          "name": "Coeur naturel au moins 5ème"
+          "name": "Cœur naturel au moins 5ème"
         },
         "naturalHearts4": {
-          "name": "Coeur naturel au moins 4ème"
+          "name": "Cœur naturel au moins 4ème"
         },
         "natHearts6": {
-          "name": "Coeur faible avec 6 cartes"
+          "name": "Cœur faible avec 6 cartes"
         },
         "natHearts7": {
-          "name": "Coeur faible avec 7 cartes"
+          "name": "Cœur faible avec 7 cartes"
         },
         "natHearts8": {
-          "name": "Coeur faible avec 8 cartes"
+          "name": "Cœur faible avec 8 cartes"
         },
         "natHeart6_10_13": {
-          "name": "6 cartes à coeur (10-13)"
+          "name": "6 cartes à cœur (10-13)"
         },
         "naturalSpades": {
           "name": "Pique naturel au moins 5ème"
@@ -2241,11 +2241,11 @@
         },
         "open1H_4plus": {
           "name": "1!H 4+",
-          "description": "Ouverture naturelle à coeur. Au moins 4 cartes à coeur"
+          "description": "Ouverture naturelle à cœur. Au moins 4 cartes à cœur"
         },
         "open1H_5plus": {
           "name": "1!H 5+",
-          "description": "Ouverture naturelle à coeur. Au moins 5 cartes à coeur "
+          "description": "Ouverture naturelle à cœur. Au moins 5 cartes à cœur "
         },
         "open1S_4plus": {
           "name": "1!S 4+",
@@ -2281,15 +2281,15 @@
         },
         "open2D_multi": {
           "name": "2!D, multi",
-          "description": "Ouverture faible à coeur ou à pique, 3-9 points DH"
+          "description": "Ouverture faible à cœur ou à pique, 3-9 points DH"
         },
         "open2H_weak": {
           "name": "2!H, naturel faible",
-          "description": "Ouverture faible à coeur, 3-9 points DH"
+          "description": "Ouverture faible à cœur, 3-9 points DH"
         },
         "open2H_nat_10_13": {
           "name": "2!H, naturel 10-13",
-          "description": "Ouverture naturelle à coeur, 10-13 points DH"
+          "description": "Ouverture naturelle à cœur, 10-13 points DH"
         },
         "open2S_nat_weak": {
           "name": "2!S, naturel faible",
@@ -2313,7 +2313,7 @@
         },
         "open3H_nat_weak": {
           "name": "3!H, naturel faible",
-          "description": "Ouverture faible à coeur avec 7 cartes et +, 3-9 points DH"
+          "description": "Ouverture faible à cœur avec 7 cartes et +, 3-9 points DH"
         },
         "open3S_nat_weak": {
           "name": "3!S, naturel faible",
@@ -2329,7 +2329,7 @@
         },
         "open4H_nat_weak": {
           "name": "4!H, naturel faible",
-          "description": "Ouverture faible à coeur avec 8 cartes, 3-9 points DH"
+          "description": "Ouverture faible à cœur avec 8 cartes, 3-9 points DH"
         },
         "open4S_nat_weak": {
           "name": "4!S, naturel faible",
@@ -2357,10 +2357,10 @@
           "name": "Soutien mineure"
         },
         "gazzilliOpener_hearts_clubs": {
-          "name": "Des coeurs avec des trèfles (11-15)"
+          "name": "Des cœurs avec des trèfles (11-15)"
         },
         "gazzilliOpener_hearts_strong": {
-          "name": "Des coeurs (16+)"
+          "name": "Des cœurs (16+)"
         },
         "gazzilliOpener_spades_clubs": {
           "name": "Des piques avec des trèfles (11-15)"
@@ -2681,7 +2681,7 @@
         "forbid_exact_shape": " Pour interdire une distribution précise, tapez ",
         "allow_any": "Pour autoriser n’importe quelle longueur, tapez ",
         "like": "comme ",
-        "positions": "En première position, il y a les piques, puis les coeurs, les carreaux et les trèfles",
+        "positions": "En première position, il y a les piques, puis les cœurs, les carreaux et les trèfles",
         "explain": "La main aura l’une des distributions autorisées et n’aura pas celles interdites"
       },
       "openings": "Ouvertures",
@@ -2749,7 +2749,7 @@
     "applicability_gap_warning_plural": "{{invalidDirs}} n’ont pas de types de main applicables pour chaque combinaison vulnérabilité/variable. Les combinaisons sans correspondance généreront des mains aléatoires pour ces joueurs.",
     "too_rare_error": "Le scénario est trop rare, désolé ;(",
     "multiple_commands_warning": "Le scénario a plusieurs enchères imposées aux robots (ce n’est pas encore pris en charge)",
-    "invalid_user_warning": "Les abonnés coeur peuvent créer des types de donne personnels",
+    "invalid_user_warning": "Les abonnés cœur peuvent créer des types de donne personnels",
     "subscribe_here": "Abonnez-vous ici",
     "testing_contraints_dialog_title": "Test des contraintes",
     "testing_contraints_dialog_rotated_badge": "Pivotée",
@@ -2807,7 +2807,7 @@
     "save": "Enregistrer dans la collection",
     "save_success": "Le scénario a été enregistré dans votre collection",
     "save_error": "Quelque chose s'est mal passé",
-    "heart_sub_info": "Les abonnés coeur peuvent enregistrer des scénarios créés par d’autres personnes.",
+    "heart_sub_info": "Les abonnés cœur peuvent enregistrer des scénarios créés par d’autres personnes.",
     "subscribe": "Abonnez-vous ici",
     "search_user_label": "Recherchez par créateur",
     "search_user_placeholder": "Nom d’utilisateur",
@@ -2853,7 +2853,7 @@
     "th_stock": "En stock",
     "th_progress": "En cours",
     "by": "par",
-    "heart_sub_info": "Les abonnés coeur peuvent créer des scénarios.",
+    "heart_sub_info": "Les abonnés cœur peuvent créer des scénarios.",
     "subscribe": "Abonnez-vous ici"
   },
   "messages": {
@@ -2937,7 +2937,7 @@
     "scoring_p6": "* Signifie que l'ordinateur connaît toutes les mains et peut jouer parfaitement, cependant, nous apportons également des ajustements pour le jeu humain.",
     "why_subscribe_title": "Qu’est-ce que j’obtiens si je m’abonne ?",
     "subscriptions": "Comparer les abonnements",
-    "why_subscribe_p1": "Quand vous vous abonnez, vous débloquez de nouvelles fonctionnalités sur Cuebids qui peuvent améliorer votre pratique. Plus élevé est votre niveau d’abonnement, plus vous débloquez de fonctionnalités. Les abonnés coeur ont un accès complet. Voici certaines choses que vous pouvez débloquer :",
+    "why_subscribe_p1": "Quand vous vous abonnez, vous débloquez de nouvelles fonctionnalités sur Cuebids qui peuvent améliorer votre pratique. Plus élevé est votre niveau d’abonnement, plus vous débloquez de fonctionnalités. Les abonnés cœur ont un accès complet. Voici certaines choses que vous pouvez débloquer :",
     "why_subscribe_ul_li1": "Plus de types de donne",
     "why_subscribe_ul_li2": "Plus de tickets chaque mois",
     "why_subscribe_ul_li3": "Créez vos propres types de donne (Scénarios)",
@@ -2948,10 +2948,10 @@
     "subscribe_title": "Comment m’abonner ?",
     "subscribe_store_button": "Cliquez ici pour accéder à notre boutique",
     "subscribe_p1": "Visitez Cuebids avec un navigateur web ou avec l’application sur iOS. Actuellement, il n’est pas possible de s’abonner à partir de l’application Android.",
-    "subscribe_p2": "Allez ensuite à la boutique (l’icone coeur sur la page d’accueil) et sélectionnez un niveau d’abonnement.",
+    "subscribe_p2": "Allez ensuite à la boutique (l’icone cœur sur la page d’accueil) et sélectionnez un niveau d’abonnement.",
     "tickets_title": "Qu’est-ce que sont les tickets ?",
     "tickets_p1": "Les tickets sont utilisés pour participer aux événements, aux défis ou s’entraîner avec des robots avancés.",
-    "tickets_p2": "Chaque mois vous bénéficiez de nouveaux tickets. Les abonnés ont plus de tickets : les abonnés trèfle recoivent 96 tickets par mois, les abonnés carreau recoivent 240 tickets et les abonnés coeur bénéficient d’un nombre illimité de tickets. Vous pouvez aussi acheter des tickets séparément.",
+    "tickets_p2": "Chaque mois vous bénéficiez de nouveaux tickets. Les abonnés ont plus de tickets : les abonnés trèfle recoivent 96 tickets par mois, les abonnés carreau recoivent 240 tickets et les abonnés cœur bénéficient d’un nombre illimité de tickets. Vous pouvez aussi acheter des tickets séparément.",
     "tickets_p3": "Accédez à la boutique pour plus de détails.",
     "tickets_store_button": "Cliquez ici pour accéder à notre boutique",
     "events_title": "Comment les événements fonctionnent ?",
@@ -3420,14 +3420,14 @@
   },
   "gift": {
     "title": "Offrir un cadeau",
-    "intro": "Offrez à un ami un an de Coeur ou de Carreau, ou un lot de tickets.",
+    "intro": "Offrez à un ami un an de Cœur ou de Carreau, ou un lot de tickets.",
     "friend_label": "Pour qui est le cadeau ?",
     "friend_placeholder": "Choisir un ami",
     "no_friends_title": "Ajoutez d'abord un ami",
     "no_friends_text": "Un cadeau va à une personne de votre liste d'amis.",
     "no_friends_cta": "Trouver des amis",
     "product_label": "Choisir un cadeau",
-    "product_heart": "Coeur pendant un an",
+    "product_heart": "Cœur pendant un an",
     "product_diamond": "Carreau pendant un an",
     "product_tickets250": "250 tickets",
     "product_tickets1500": "1500 tickets",
