@@ -3457,7 +3457,7 @@
       "title": "Comment ajouter des amis ?",
       "excerpt": "Ajoutez un ami avec son code ou en cherchant son nom, ou partagez votre propre code ou votre lien d’invitation.",
       "p1": "Ouvrez <b>Amis</b> dans le menu du bas et dépliez <b>Ajouter</b>. Choisissez ensuite la méthode qui convient à votre partenaire :",
-      "li1": "Saisissez le code de votre ami et appuyez sur <b>Ajouter ami</b>.",
+      "li1": "Saisissez le code de votre ami et appuyez sur <b>Ajouter un ami</b>.",
       "li2": "Cherchez son nom et envoyez une demande d’ami.",
       "li3": "Donnez-lui votre propre code d’ami.",
       "li4": "Appuyez sur <b>Copier le lien</b> et envoyez-lui votre lien d’invitation.",
@@ -3541,7 +3541,7 @@
     },
     "ranking": {
       "title": "Comment fonctionne le classement ?",
-      "excerpt": "Les défis classés vous font monter de Valet à As grâce aux étoiles de défi, avec une cote qui sert à l’appariement.",
+      "excerpt": "Les défis classés vous font monter du Valet à l’As grâce aux étoiles de défi, avec une cote qui sert à l’appariement.",
       "p1": "Les défis classés ont leur propre classement.",
       "li1": "Une cote sert à vous opposer à des adversaires de niveau proche. Vous seul pouvez voir votre cote.",
       "li2": "Un défi gagné ajoute une étoile de défi, un défi perdu en retire une, et une égalité ne change rien.",
