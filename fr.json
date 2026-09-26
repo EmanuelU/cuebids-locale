@@ -180,7 +180,7 @@
       "new_version_reload": "La charger"
     },
     "weekly_ended": {
-      "info": "Ce tournoi hebdo est terminé et vos résultats ne compteront pas au classement. Vous pouvez quand même finir d’enchérir cette session."
+      "info": "Ce tournoi hebdo est terminé et vos résultats ne seront pas pris en compte dans le classement. Cependant, vous pouvez encore finir d’enchérir cette session."
     },
     "invite": {
       "remove": "Retirer",
@@ -3534,14 +3534,14 @@
     },
     "events": {
       "title": "Comment fonctionnent les tournois ?",
-      "excerpt": "Le tournoi du jour et le tournoi hebdo ont un nombre fixe de donnes et une échéance ; le classement se fait aux étoiles.",
-      "p1": "Le <b>tournoi du jour</b> compte 8 donnes et dure 24 heures. Le <b>tournoi hebdo</b> compte 24 donnes et dure une semaine. La participation coûte un ticket par donne.",
+      "excerpt": "Le tournoi du jour et le tournoi hebdo ont un nombre fixe de donnes et une échéance, et le classement se fait aux étoiles.",
+      "p1": "Le <b>tournoi du jour</b> compte 8 donnes et dure 24 heures. Le <b>tournoi hebdo</b> compte 24 donnes et dure une semaine. L’inscription coûte un ticket par donne.",
       "p2": "Inscrivez-vous depuis <b>Tournois</b> avec votre partenaire, ou avec Lia si vous avez Carreau ou Cœur. Enchérissez les donnes quand vous voulez ; celles qui ne sont pas enchéries à l’échéance ne rapportent rien.",
       "p3": "Le classement se fait aux étoiles, et l’espérance de gain départage les ex æquo. Les groupes peuvent aussi organiser des tournois privés."
     },
     "ranking": {
       "title": "Comment fonctionnent les défis classés ?",
-      "excerpt": "Les défis classés vous font monter de Valet à As grâce aux étoiles de défi, avec une cote qui sert à l’appariement.",
+      "excerpt": "Les défis classés vous font monter du Valet à l’As grâce aux étoiles de défi, avec une cote qui sert à l’appariement.",
       "p1": "Les défis classés ont leur propre classement.",
       "li1": "Une cote sert à vous opposer à des adversaires de niveau proche. Vous seul pouvez voir votre cote.",
       "li2": "Un défi gagné ajoute une étoile de défi, un défi perdu en retire une, et une égalité ne change rien.",
