@@ -44,7 +44,7 @@
     },
     "fr": {
       "title": "Invitation à jouer",
-      "text": "{{partner}} vous invite à participer à l'événement : {{event}}"
+      "text": "{{partner}} vous invite à jouer « {{event}} »"
     },
     "es": {
       "title": "Invitación para jugar",
@@ -163,8 +163,8 @@
       "text": "Dołączono do {{event}} z partnerem {{partner}}"
     },
     "fr": {
-      "title": "Inscription à l'événement",
-      "text": "Vous êtes inscrit à {{event}} avec {{partner}}"
+      "title": "Inscription au tournoi",
+      "text": "Vous êtes inscrit à « {{event}} » avec {{partner}}"
     },
     "es": {
       "title": "Te uniste al evento",
@@ -374,7 +374,7 @@
     },
     "fr": {
       "title": "Invitation à jouer",
-      "text": "{{partner}} vous invite à participer à l'événement : {{event}}"
+      "text": "{{partner}} vous invite à jouer « {{event}} »"
     },
     "es": {
       "title": "Invitación para jugar",
@@ -404,7 +404,7 @@
     },
     "fr": {
       "title": "Invitation acceptée",
-      "text": "{{partner}} a accepté votre invitation à participer à l'événement : {{event}}"
+      "text": "{{partner}} a accepté votre invitation à jouer « {{event}} »"
     },
     "es": {
       "title": "Invitación aceptada",
@@ -523,8 +523,8 @@
       "text": "Nowe wydarzenie w {{group}}"
     },
     "fr": {
-      "title": "Nouvel événement",
-      "text": "Nouvel événement dans {{group}}"
+      "title": "Nouveau tournoi",
+      "text": "Nouveau tournoi dans {{group}}"
     },
     "es": {
       "title": "Nuevo evento",
@@ -703,7 +703,7 @@
       "text": "Dołącz teraz!"
     },
     "fr": {
-      "title": "Un nouvel événement {{event}} est disponible !",
+      "title": "Nouveau « {{event}} » disponible !",
       "text": "Participez dès maintenant !"
     },
     "es": {
@@ -1021,7 +1021,7 @@
       "en": "Daily",
       "sv": "Dagens",
       "pl": "Dzienny",
-      "fr": "Quotidien",
+      "fr": "Tournoi du jour",
       "es": "Diario",
       "zh": "每日",
       "zht": "每日"
@@ -1030,7 +1030,7 @@
       "en": "Weekly",
       "sv": "Veckans",
       "pl": "Tygodniowy",
-      "fr": "Hebdomadaire",
+      "fr": "Tournoi hebdo",
       "es": "Semanal",
       "zh": "每周",
       "zht": "每週"
