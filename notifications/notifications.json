@@ -986,6 +986,36 @@
       "text": "{{player}} 送了你一份禮物。在訊息中打開。"
     }
   },
+  "gift_code_received": {
+    "en": {
+      "title": "A gift is waiting",
+      "text": "{{player}} sent you a gift code. Redeem it and the gift is yours."
+    },
+    "sv": {
+      "title": "En gåva väntar",
+      "text": "{{player}} har skickat dig en gåvokod. Lös in den så är gåvan din."
+    },
+    "pl": {
+      "title": "Czeka na ciebie prezent",
+      "text": "{{player}} ma dla ciebie kod podarunkowy. Odbierz go, a prezent jest twój."
+    },
+    "fr": {
+      "title": "Un cadeau vous attend",
+      "text": "{{player}} vous a envoyé un code cadeau. Utilisez-le et le cadeau est à vous."
+    },
+    "es": {
+      "title": "Te espera un regalo",
+      "text": "{{player}} te ha enviado un código regalo. Canjéalo y el regalo es tuyo."
+    },
+    "zh": {
+      "title": "有一份礼物在等你",
+      "text": "{{player}} 给你发了一个礼品码。兑换后礼物就是你的了。"
+    },
+    "zht": {
+      "title": "有一份禮物在等你",
+      "text": "{{player}} 給你發了一個禮品碼。兌換後禮物就是你的了。"
+    }
+  },
   "event_names": {
     "daily_headline": {
       "en": "Daily",
