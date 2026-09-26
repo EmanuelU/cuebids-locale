@@ -236,6 +236,19 @@
       "legend_close": "Okej",
       "legend_legendary_name": "Ace, sex stjärnor",
       "legend_legendary": "Vinner du på Ace med fem stjärnor får du en sjätte. Där stannar ranken, och den kan inte förloras."
+    },
+    "custom_event_card": {
+      "title": "Tävling",
+      "pairs": "par",
+      "continue": "Fortsätt",
+      "leaderboard": "Topplistan",
+      "results": "Resultat",
+      "join_event": "Spela tävling",
+      "dismiss": "Dölj",
+      "dismiss_title": "Dölj tävlingen?",
+      "dismiss_text": "Kortet försvinner från din startsida. Du kan fortfarande öppna tävlingen via en länk eller en inbjudan.",
+      "hidden": "Dold på startsidan",
+      "show_again": "Visa igen"
     }
   },
   "store": {
@@ -2010,6 +2023,9 @@
     "poll_not_available": "Omröstning avstängd i events",
     "visit_poll": "Besök omröstning",
     "print_board": "Skriv ut giv",
+    "copy_link": "Kopiera länk",
+    "link_copied": "Länken är kopierad",
+    "link_copy_failed": "Kunde inte kopiera länken",
     "replay_with_friend": "Spela om med en vän",
     "send_to_friend_pair": "Skicka till två vänner",
     "replay_with_friend_info": "Skapa en ny träningssession från den här given med en av dina vänner.",
@@ -2850,11 +2866,15 @@
       "header_daily": "Du vann dagens tävling",
       "header_weekly": "Du vann veckans tävling",
       "header_group": "Du vann tävlingen {{eventName}}",
+      "header_custom": "Du vann {{eventName}}",
       "with_score": "Med resultatet {{winningScore}} ",
       "well_done": "Bra gjort, fantastiskt jobb!",
       "share": "Dela",
       "copied_success": "Meddelandet kopierat"
-    }
+    },
+    "gift_open": "Öppna gåvan",
+    "gift_opened": "Gåvan finns nu på ditt konto.",
+    "error_gift": "Gåvan gick inte att öppna. Skriv till supporten så löser vi det."
   },
   "help": {
     "add_friends_title": "Hur lägger jag till vänner?",
@@ -3012,7 +3032,8 @@
     "your_position": "Din placering: {{position}} utav {{count}} par",
     "participants": "{{count}} par har gått med i denna tävling",
     "leaderboard_minimum": "Minst {{count}} stjärnor krävs för att hamna på topplistan.",
-    "leaderboard_title": "Topplistan"
+    "leaderboard_title": "Topplistan",
+    "public_link": "Offentlig ställning"
   },
   "events": {
     "partner": "Partner",
@@ -3049,7 +3070,11 @@
     "error_friend_invites_disabled": "Din vän har stängt av mottagande av evenemangsinbjudningar",
     "error_invite_not_for_you": "Den här inbjudan är inte till dig",
     "error_invite_expired": "Den här inbjudan har gått ut",
-    "error_event_ended": "Det här eventet har redan avslutats"
+    "error_event_ended": "Det här eventet har redan avslutats",
+    "custom_headline": "Tävling",
+    "error_not_eligible": "Den här tävlingen är inte öppen för ditt konto.",
+    "error_partner_not_eligible": "Den här tävlingen är inte öppen för din partner.",
+    "error_event_not_open": "Den här tävlingen är inte öppen just nu."
   },
   "add_friend": {
     "link_error": "Du ska skicka länken till din vän istället.",
@@ -3146,7 +3171,8 @@
     "request_sent": "Förfrågan skickad",
     "request_received": "Har frågat dig",
     "following": "Följer",
-    "blocked_status": "Blockerad"
+    "blocked_status": "Blockerad",
+    "give_gift": "Ge en gåva"
   },
   "stats_dashboard": {
     "tab_pairs": "Pair",
@@ -3382,5 +3408,31 @@
       "pre_empt_defence": "Givar där ni försvarar er mot motståndarnas spärrande bud",
       "two_suited_defence": "Givar där ni försvarar er mot motståndarnas tvåfärgsbud"
     }
+  },
+  "gift": {
+    "title": "Ge bort en gåva",
+    "intro": "Ge en vän ett år med Hjärter eller Ruter, eller ett biljettpaket.",
+    "friend_label": "Vem är gåvan till?",
+    "friend_placeholder": "Välj en vän",
+    "no_friends_title": "Lägg till en vän först",
+    "no_friends_text": "En gåva går till någon i din vänlista.",
+    "no_friends_cta": "Hitta vänner",
+    "product_label": "Välj gåva",
+    "product_heart": "Hjärter i ett år",
+    "product_diamond": "Ruter i ett år",
+    "product_tickets250": "250 biljetter",
+    "product_tickets1500": "1 500 biljetter",
+    "delivery_note": "{{name}} får ett meddelande och öppnar gåvan där. Du betalar en gång och inget förnyas.",
+    "delivery_note_generic": "Din vän får ett meddelande och öppnar gåvan där. Du betalar en gång och inget förnyas.",
+    "cta": "Gå till betalning",
+    "success_title": "Gåvan är på väg",
+    "success_text": "{{name}} hittar den under Meddelanden.",
+    "success_text_generic": "Din vän hittar den under Meddelanden.",
+    "success_again": "Ge en gåva till",
+    "success_done": "Klar",
+    "cancelled": "Betalningen avbröts. Inget har dragits.",
+    "error_not_a_friend": "Du kan bara ge en gåva till någon i din vänlista.",
+    "error_unavailable": "Den här gåvan går inte att köpa just nu.",
+    "error_generic": "Något gick fel. Inget har dragits."
   }
 }

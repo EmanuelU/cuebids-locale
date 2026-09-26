@@ -236,6 +236,19 @@
       "legend_close": "Got it",
       "legend_legendary_name": "Ace, six stars",
       "legend_legendary": "Winning at Ace with five stars adds a sixth. The rank stops there and cannot be lost."
+    },
+    "custom_event_card": {
+      "title": "賽事",
+      "pairs": "對",
+      "continue": "繼續",
+      "leaderboard": "排行榜",
+      "results": "成績",
+      "join_event": "參加賽事",
+      "dismiss": "隱藏",
+      "dismiss_title": "隱藏這個賽事？",
+      "dismiss_text": "卡片將從你的首頁消失。你仍然可以透過連結或邀請開啟該賽事。",
+      "hidden": "已從首頁隱藏",
+      "show_again": "再次顯示"
     }
   },
   "store": {
@@ -2011,6 +2024,9 @@
     "poll_not_available": "練習中禁用投票創建",
     "visit_poll": "訪問投票",
     "print_board": "打印本副牌",
+    "copy_link": "複製連結",
+    "link_copied": "連結已複製",
+    "link_copy_failed": "無法複製連結",
     "replay_with_friend": "與好友重打這副牌",
     "send_to_friend_pair": "發送給兩位好友",
     "replay_with_friend_info": "用這副牌和一位好友創建一次新的叫牌練習。",
@@ -2851,11 +2867,15 @@
       "header_daily": "你贏得了每日",
       "header_weekly": "你贏得了每週",
       "header_group": "您贏得了練習 {{eventName}}",
+      "header_custom": "你贏得了 {{eventName}}",
       "with_score": "得分為 {{winningScore}}",
       "well_done": "幹得好，了不起的工作！",
       "share": "分享",
       "copied_success": "消息已複製到剪貼板"
-    }
+    },
+    "gift_open": "打開禮物",
+    "gift_opened": "禮物已加入你的帳戶。",
+    "error_gift": "無法打開此禮物。請聯絡客服，我們會處理。"
   },
   "help": {
     "add_friends_title": "如何添加好友？",
@@ -3013,7 +3033,8 @@
     "participants": "{{count}} 對已參加此練習",
     "your_position": "您的位置：{{position}}，共 {{count}} 對",
     "leaderboard_minimum": "排行榜至少需要考慮 {{count}} 顆星。",
-    "leaderboard_title": "練習最佳"
+    "leaderboard_title": "練習最佳",
+    "public_link": "公開排名"
   },
   "events": {
     "partner": "搭檔",
@@ -3050,7 +3071,11 @@
     "error_friend_invites_disabled": "你的好友已關閉練習邀請",
     "error_invite_not_for_you": "這不是發給你的邀請",
     "error_invite_expired": "此邀請已過期",
-    "error_event_ended": "本次練習已經結束"
+    "error_event_ended": "本次練習已經結束",
+    "custom_headline": "賽事",
+    "error_not_eligible": "此賽事不對你的帳戶開放。",
+    "error_partner_not_eligible": "此賽事不對你的搭檔開放。",
+    "error_event_not_open": "此賽事目前未開放。"
   },
   "add_friend": {
     "link_error": "你應該把這個連結發給好友。",
@@ -3147,7 +3172,8 @@
     "request_sent": "請求已發送",
     "request_received": "已請求加你",
     "following": "已關注",
-    "blocked_status": "已屏蔽"
+    "blocked_status": "已屏蔽",
+    "give_gift": "贈送禮物"
   },
   "stats_dashboard": {
     "tab_pairs": "雙人",
@@ -3389,5 +3415,31 @@
       "pre_empt_defence": "你防守對手阻擊叫的牌局",
       "two_suited_defence": "你防守對手雙套型叫牌的牌局"
     }
+  },
+  "gift": {
+    "title": "贈送禮物",
+    "intro": "送給好友一年的紅桃或方塊會員，或一包門票。",
+    "friend_label": "送給誰？",
+    "friend_placeholder": "選擇好友",
+    "no_friends_title": "請先新增好友",
+    "no_friends_text": "禮物只能送給好友列表中的人。",
+    "no_friends_cta": "尋找好友",
+    "product_label": "選擇禮物",
+    "product_heart": "紅桃一年",
+    "product_diamond": "方塊一年",
+    "product_tickets250": "250 張門票",
+    "product_tickets1500": "1500 張門票",
+    "delivery_note": "{{name}} 會收到一則消息，並在那裡打開禮物。只需付款一次，不會續費。",
+    "delivery_note_generic": "你的好友會收到一則消息，並在那裡打開禮物。只需付款一次，不會續費。",
+    "cta": "前往付款",
+    "success_title": "禮物已送出",
+    "success_text": "{{name}} 可以在消息中找到它。",
+    "success_text_generic": "你的好友可以在消息中找到它。",
+    "success_again": "再送一份",
+    "success_done": "完成",
+    "cancelled": "付款已取消，未扣款。",
+    "error_not_a_friend": "只能把禮物送給好友列表中的人。",
+    "error_unavailable": "此禮物暫時無法購買。",
+    "error_generic": "出了點問題，未扣款。"
   }
 }

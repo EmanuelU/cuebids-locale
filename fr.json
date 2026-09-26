@@ -236,6 +236,19 @@
       "legend_close": "Compris",
       "legend_legendary_name": "Ace, six étoiles",
       "legend_legendary": "Gagner à Ace avec cinq étoiles ajoute une sixième. Le rang s'arrête là et ne peut plus être perdu."
+    },
+    "custom_event_card": {
+      "title": "Tournoi",
+      "pairs": "paires",
+      "continue": "Continuer",
+      "leaderboard": "Classement",
+      "results": "Résultats",
+      "join_event": "Participer",
+      "dismiss": "Masquer",
+      "dismiss_title": "Masquer ce tournoi ?",
+      "dismiss_text": "La carte disparaît de votre page d'accueil. Vous pouvez toujours ouvrir le tournoi depuis un lien ou une invitation.",
+      "hidden": "Masqué sur la page d'accueil",
+      "show_again": "Afficher à nouveau"
     }
   },
   "store": {
@@ -2010,6 +2023,9 @@
     "poll_not_available": "Création de sondage désactivée dans les événements",
     "visit_poll": "Visiter les sondages",
     "print_board": "Imprimer la donne",
+    "copy_link": "Copier le lien",
+    "link_copied": "Lien copié",
+    "link_copy_failed": "Impossible de copier le lien",
     "replay_with_friend": "Rejouer avec un ami",
     "send_to_friend_pair": "Envoyer à deux amis",
     "replay_with_friend_info": "Créez une nouvelle session d'entraînement à partir de cette donne avec l'un de vos amis.",
@@ -2850,11 +2866,15 @@
       "header_daily": "Vous avez remporté le défi quotidien",
       "header_weekly": "Vous avez remporté le défi hebdomadaire",
       "header_group": "Vous avez remporté l'événement {{eventName}}",
+      "header_custom": "Vous avez gagné {{eventName}}",
       "with_score": "Avec un score de {{winningScore}}",
       "well_done": "Bravo, travail incroyable !",
       "share": "Partager",
       "copied_success": "Message copié dans le presse-papiers"
-    }
+    },
+    "gift_open": "Ouvrir le cadeau",
+    "gift_opened": "Votre cadeau est maintenant sur votre compte.",
+    "error_gift": "Ce cadeau n'a pas pu être ouvert. Écrivez au support et nous réglerons cela."
   },
   "help": {
     "add_friends_title": " Comment ajouter des amis ?",
@@ -3012,7 +3032,8 @@
     "your_position": "Votre position : {{position}} sur {{count}} paires",
     "participants": "{{count}} paires ont rejoint cet événement",
     "leaderboard_minimum": "Un minimum de {{count}} étoiles est nécessaire pour être pris en compte dans le classement.",
-    "leaderboard_title": "Meilleur de l'événement"
+    "leaderboard_title": "Meilleur de l'événement",
+    "public_link": "Classement public"
   },
   "events": {
     "partner": "Partenaire",
@@ -3049,7 +3070,11 @@
     "error_invite_not_for_you": "Cette invitation n’est pas pour vous",
     "error_invite_expired": "Cette invitation est expirée",
     "error_event_ended": "Cet événement est déjà terminé",
-    "error_friend_invites_disabled": "Votre ami a désactivé la réception d'invitations aux événements"
+    "error_friend_invites_disabled": "Votre ami a désactivé la réception d'invitations aux événements",
+    "custom_headline": "Tournoi",
+    "error_not_eligible": "Ce tournoi n'est pas ouvert à votre compte.",
+    "error_partner_not_eligible": "Ce tournoi n'est pas ouvert à votre partenaire.",
+    "error_event_not_open": "Ce tournoi n'est pas ouvert pour le moment."
   },
   "add_friend": {
     "link_error": "Vous devez plutôt envoyer ce lien à votre ami.",
@@ -3146,7 +3171,8 @@
     "request_sent": "Demande envoyée",
     "request_received": "Vous a demandé",
     "following": "Suivi",
-    "blocked_status": "Bloqué"
+    "blocked_status": "Bloqué",
+    "give_gift": "Offrir un cadeau"
   },
   "stats_dashboard": {
     "tab_pairs": "Paires",
@@ -3382,5 +3408,31 @@
       "pre_empt_defence": "Donnes où vous défendez contre les enchères de barrage adverses",
       "two_suited_defence": "Donnes où vous défendez contre les enchères bicolores adverses"
     }
+  },
+  "gift": {
+    "title": "Offrir un cadeau",
+    "intro": "Offrez à un ami un an de Coeur ou de Carreau, ou un lot de tickets.",
+    "friend_label": "Pour qui est le cadeau ?",
+    "friend_placeholder": "Choisir un ami",
+    "no_friends_title": "Ajoutez d'abord un ami",
+    "no_friends_text": "Un cadeau va à une personne de votre liste d'amis.",
+    "no_friends_cta": "Trouver des amis",
+    "product_label": "Choisir un cadeau",
+    "product_heart": "Coeur pendant un an",
+    "product_diamond": "Carreau pendant un an",
+    "product_tickets250": "250 tickets",
+    "product_tickets1500": "1500 tickets",
+    "delivery_note": "{{name}} reçoit un message et y ouvre le cadeau. Vous payez une fois et rien n'est renouvelé.",
+    "delivery_note_generic": "Votre ami reçoit un message et y ouvre le cadeau. Vous payez une fois et rien n'est renouvelé.",
+    "cta": "Passer au paiement",
+    "success_title": "Votre cadeau est en route",
+    "success_text": "{{name}} le trouvera dans Messages.",
+    "success_text_generic": "Votre ami le trouvera dans Messages.",
+    "success_again": "Offrir un autre cadeau",
+    "success_done": "Terminé",
+    "cancelled": "Paiement annulé. Rien n'a été débité.",
+    "error_not_a_friend": "Vous ne pouvez offrir un cadeau qu'à un ami de votre liste.",
+    "error_unavailable": "Ce cadeau n'est pas disponible pour le moment.",
+    "error_generic": "Une erreur s'est produite. Rien n'a été débité."
   }
 }

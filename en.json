@@ -236,6 +236,19 @@
       "legend_close": "Got it",
       "legend_legendary_name": "Ace, six stars",
       "legend_legendary": "Winning at Ace with five stars adds a sixth. The rank stops there and cannot be lost."
+    },
+    "custom_event_card": {
+      "title": "Event",
+      "pairs": "pairs",
+      "continue": "Continue",
+      "leaderboard": "Leaderboard",
+      "results": "Results",
+      "join_event": "Join event",
+      "dismiss": "Hide",
+      "dismiss_title": "Hide this event?",
+      "dismiss_text": "The card goes away from your start page. You can still open the event from a link or an invite.",
+      "hidden": "Hidden from the start page",
+      "show_again": "Show it again"
     }
   },
   "store": {
@@ -2010,6 +2023,9 @@
     "poll_not_available": "Poll creation disabled in events",
     "visit_poll": "Visit poll",
     "print_board": "Print board",
+    "copy_link": "Copy link",
+    "link_copied": "Link copied",
+    "link_copy_failed": "Could not copy the link",
     "replay_with_friend": "Replay with a friend",
     "send_to_friend_pair": "Send to two friends",
     "replay_with_friend_info": "Create a fresh practice session from this board with one of your friends.",
@@ -2850,11 +2866,15 @@
       "header_daily": "You won the daily",
       "header_weekly": "You won the weekly",
       "header_group": "You won the event {{eventName}}",
+      "header_custom": "You won {{eventName}}",
       "with_score": "With a score of {{winningScore}} ",
       "well_done": "Well done, amazing job!",
       "share": "Share",
       "copied_success": "Message copied to clipboard"
-    }
+    },
+    "gift_open": "Open your gift",
+    "gift_opened": "Your gift is now on your account.",
+    "error_gift": "This gift could not be opened. Write to support and we will sort it out."
   },
   "help": {
     "add_friends_title": "How do I add friends?",
@@ -3012,7 +3032,8 @@
     "participants": "{{count}} pairs have joined this event",
     "your_position": "Your position: {{position}} out of {{count}} pairs",
     "leaderboard_minimum": "A minimum of {{count}} stars is required to be considered for the leaderboard.",
-    "leaderboard_title": "Event's best"
+    "leaderboard_title": "Event's best",
+    "public_link": "Public standings"
   },
   "events": {
     "partner": "Partner",
@@ -3049,7 +3070,11 @@
     "error_friend_invites_disabled": "Your friend has disabled receiving event invites",
     "error_invite_not_for_you": "This invite is not for you",
     "error_invite_expired": "This invite has expired",
-    "error_event_ended": "This event has already ended"
+    "error_event_ended": "This event has already ended",
+    "custom_headline": "Event",
+    "error_not_eligible": "This event is not open to your account.",
+    "error_partner_not_eligible": "This event is not open to your partner.",
+    "error_event_not_open": "This event is not open right now."
   },
   "add_friend": {
     "link_error": "You should send this link to your friend instead.",
@@ -3146,7 +3171,8 @@
     "request_sent": "Request sent",
     "request_received": "Requested you",
     "following": "Following",
-    "blocked_status": "Blocked"
+    "blocked_status": "Blocked",
+    "give_gift": "Give a gift"
   },
   "stats_dashboard": {
     "tab_pairs": "Pairs",
@@ -3382,5 +3408,31 @@
       "pre_empt_defence": "Deals where you're defending against opponent's pre-emptive bids",
       "two_suited_defence": "Deals where you're defending against opponent's two-suited bids"
     }
+  },
+  "gift": {
+    "title": "Give a gift",
+    "intro": "Give a friend a year of Heart or Diamond, or a pack of tickets.",
+    "friend_label": "Who is it for?",
+    "friend_placeholder": "Choose a friend",
+    "no_friends_title": "Add a friend first",
+    "no_friends_text": "A gift goes to someone on your friend list.",
+    "no_friends_cta": "Find friends",
+    "product_label": "Choose a gift",
+    "product_heart": "Heart for a year",
+    "product_diamond": "Diamond for a year",
+    "product_tickets250": "250 tickets",
+    "product_tickets1500": "1500 tickets",
+    "delivery_note": "{{name}} gets a message and opens the gift there. You pay once and nothing renews.",
+    "delivery_note_generic": "Your friend gets a message and opens the gift there. You pay once and nothing renews.",
+    "cta": "Continue to payment",
+    "success_title": "Your gift is on its way",
+    "success_text": "{{name}} will find it under Messages.",
+    "success_text_generic": "Your friend will find it under Messages.",
+    "success_again": "Give another gift",
+    "success_done": "Done",
+    "cancelled": "Payment cancelled. Nothing was charged.",
+    "error_not_a_friend": "You can only give a gift to a friend on your list.",
+    "error_unavailable": "This gift is not available right now.",
+    "error_generic": "Something went wrong. Nothing was charged."
   }
 }

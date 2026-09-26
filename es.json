@@ -236,6 +236,19 @@
       "legend_close": "Entendido",
       "legend_legendary_name": "Ace, seis estrellas",
       "legend_legendary": "Ganar en Ace con cinco estrellas añade una sexta. El rango se detiene ahí y no se puede perder."
+    },
+    "custom_event_card": {
+      "title": "Torneo",
+      "pairs": "parejas",
+      "continue": "Continuar",
+      "leaderboard": "Clasificación",
+      "results": "Resultados",
+      "join_event": "Participar",
+      "dismiss": "Ocultar",
+      "dismiss_title": "¿Ocultar este torneo?",
+      "dismiss_text": "La tarjeta desaparece de tu página de inicio. Aún puedes abrir el torneo desde un enlace o una invitación.",
+      "hidden": "Oculto en la página de inicio",
+      "show_again": "Mostrar de nuevo"
     }
   },
   "store": {
@@ -2010,6 +2023,9 @@
     "poll_not_available": "La creación de encuestas está desactivada en los eventos",
     "visit_poll": "Ver encuesta",
     "print_board": "Imprimir mano",
+    "copy_link": "Copiar enlace",
+    "link_copied": "Enlace copiado",
+    "link_copy_failed": "No se pudo copiar el enlace",
     "replay_with_friend": "Repetir con un amigo",
     "send_to_friend_pair": "Enviar a dos amigos",
     "replay_with_friend_info": "Crea una nueva sesión de práctica a partir de esta mano con uno de tus amigos.",
@@ -2850,11 +2866,15 @@
       "header_daily": "Has ganado el diario",
       "header_weekly": "Has ganado el semanal",
       "header_group": "Has ganado el evento {{eventName}}",
+      "header_custom": "Has ganado {{eventName}}",
       "with_score": "Con una puntuación de {{winningScore}} ",
       "well_done": "¡Muy bien, gran trabajo!",
       "share": "Compartir",
       "copied_success": "Mensaje copiado al portapapeles"
-    }
+    },
+    "gift_open": "Abrir el regalo",
+    "gift_opened": "Tu regalo ya está en tu cuenta.",
+    "error_gift": "No se ha podido abrir el regalo. Escribe a soporte y lo resolvemos."
   },
   "help": {
     "add_friends_title": "¿Cómo añado amigos?",
@@ -3012,7 +3032,8 @@
     "participants": "{{count}} parejas se han unido a este evento",
     "your_position": "Tu posición: {{position}} de {{count}} parejas",
     "leaderboard_minimum": "Se requiere un mínimo de {{count}} estrellas para figurar en la clasificación.",
-    "leaderboard_title": "Mejores del evento"
+    "leaderboard_title": "Mejores del evento",
+    "public_link": "Clasificación pública"
   },
   "events": {
     "partner": "Compañero",
@@ -3049,7 +3070,11 @@
     "error_friend_invites_disabled": "Tu amigo ha desactivado la recepción de invitaciones a eventos",
     "error_invite_not_for_you": "Esta invitación no es para ti",
     "error_invite_expired": "Esta invitación ha caducado",
-    "error_event_ended": "Este evento ya ha terminado"
+    "error_event_ended": "Este evento ya ha terminado",
+    "custom_headline": "Torneo",
+    "error_not_eligible": "Este torneo no está abierto para tu cuenta.",
+    "error_partner_not_eligible": "Este torneo no está abierto para tu compañero.",
+    "error_event_not_open": "Este torneo no está abierto ahora mismo."
   },
   "add_friend": {
     "link_error": "Deberías enviar este enlace a tu amigo.",
@@ -3146,7 +3171,8 @@
     "request_sent": "Solicitud enviada",
     "request_received": "Te ha solicitado",
     "following": "Siguiendo",
-    "blocked_status": "Bloqueado"
+    "blocked_status": "Bloqueado",
+    "give_gift": "Hacer un regalo"
   },
   "stats_dashboard": {
     "tab_pairs": "Parejas",
@@ -3382,5 +3408,31 @@
       "pre_empt_defence": "Manos en las que defendéis contra las pujas débiles de los oponentes.",
       "two_suited_defence": "Manos en las que defendéis contra las pujas bicolores de los oponentes."
     }
+  },
+  "gift": {
+    "title": "Hacer un regalo",
+    "intro": "Regala a un amigo un año de Corazón o Diamante, o un paquete de tickets.",
+    "friend_label": "¿Para quién es?",
+    "friend_placeholder": "Elige un amigo",
+    "no_friends_title": "Primero añade un amigo",
+    "no_friends_text": "Un regalo va a alguien de tu lista de amigos.",
+    "no_friends_cta": "Buscar amigos",
+    "product_label": "Elige un regalo",
+    "product_heart": "Corazón durante un año",
+    "product_diamond": "Diamante durante un año",
+    "product_tickets250": "250 tickets",
+    "product_tickets1500": "1500 tickets",
+    "delivery_note": "{{name}} recibe un mensaje y abre el regalo allí. Pagas una vez y no se renueva nada.",
+    "delivery_note_generic": "Tu amigo recibe un mensaje y abre el regalo allí. Pagas una vez y no se renueva nada.",
+    "cta": "Ir al pago",
+    "success_title": "Tu regalo está en camino",
+    "success_text": "{{name}} lo encontrará en Mensajes.",
+    "success_text_generic": "Tu amigo lo encontrará en Mensajes.",
+    "success_again": "Hacer otro regalo",
+    "success_done": "Listo",
+    "cancelled": "Pago cancelado. No se ha cobrado nada.",
+    "error_not_a_friend": "Solo puedes hacer un regalo a un amigo de tu lista.",
+    "error_unavailable": "Este regalo no está disponible ahora mismo.",
+    "error_generic": "Algo ha fallado. No se ha cobrado nada."
   }
 }

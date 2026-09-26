@@ -236,6 +236,19 @@
       "legend_close": "Got it",
       "legend_legendary_name": "Ace, six stars",
       "legend_legendary": "Winning at Ace with five stars adds a sixth. The rank stops there and cannot be lost."
+    },
+    "custom_event_card": {
+      "title": "Turniej",
+      "pairs": "par",
+      "continue": "Kontynuuj",
+      "leaderboard": "Ranking",
+      "results": "Wyniki",
+      "join_event": "Dołącz",
+      "dismiss": "Ukryj",
+      "dismiss_title": "Ukryć ten turniej?",
+      "dismiss_text": "Karta zniknie ze strony startowej. Turniej nadal można otworzyć z linku lub zaproszenia.",
+      "hidden": "Ukryty na stronie startowej",
+      "show_again": "Pokaż ponownie"
     }
   },
   "store": {
@@ -2012,6 +2025,9 @@
     "poll_not_available": "Tworzenie ankiet jest wyłączone w wydarzeniach",
     "visit_poll": "Przejdź do ankiety",
     "print_board": "Drukuj rozdanie",
+    "copy_link": "Kopiuj link",
+    "link_copied": "Link skopiowany",
+    "link_copy_failed": "Nie udało się skopiować linku",
     "replay_with_friend": "Zagraj ponownie ze znajomym",
     "send_to_friend_pair": "Wyślij do dwojga znajomych",
     "replay_with_friend_info": "Utwórz nową sesję treningową z tego rozdania z jednym ze swoich znajomych.",
@@ -2852,11 +2868,15 @@
       "header_daily": "You won the daily",
       "header_weekly": "You won the weekly",
       "header_group": "You won the event {{eventName}}",
+      "header_custom": "Wygrałeś {{eventName}}",
       "with_score": "With a score of {{winningScore}} ",
       "well_done": "Well done, amazing job!",
       "share": "Share",
       "copied_success": "Message copied to clipboard"
-    }
+    },
+    "gift_open": "Otwórz prezent",
+    "gift_opened": "Prezent jest już na twoim koncie.",
+    "error_gift": "Nie udało się otworzyć prezentu. Napisz do pomocy, a to naprawimy."
   },
   "help": {
     "add_friends_title": "Jak mogę dodać znajomych?",
@@ -3014,7 +3034,8 @@
     "participants": "{{count}} par dołączyło do tego wydarzenia",
     "your_position": "Twoje miejsce: {{position}} na {{count}} par",
     "leaderboard_minimum": "Aby zostać uwzględnionym w rankingu, wymagane jest minimum {{count}} gwiazdek.",
-    "leaderboard_title": "Najlepsi w wydarzeniu"
+    "leaderboard_title": "Najlepsi w wydarzeniu",
+    "public_link": "Publiczny ranking"
   },
   "events": {
     "partner": "Partner",
@@ -3051,7 +3072,11 @@
     "error_friend_invites_disabled": "Twój znajomy wyłączył otrzymywanie zaproszeń do wydarzeń",
     "error_invite_not_for_you": "To zaproszenie nie jest dla ciebie",
     "error_invite_expired": "To zaproszenie wygasło",
-    "error_event_ended": "To wydarzenie już się zakończyło"
+    "error_event_ended": "To wydarzenie już się zakończyło",
+    "custom_headline": "Turniej",
+    "error_not_eligible": "Ten turniej nie jest dostępny dla Twojego konta.",
+    "error_partner_not_eligible": "Ten turniej nie jest dostępny dla Twojego partnera.",
+    "error_event_not_open": "Ten turniej nie jest teraz otwarty."
   },
   "add_friend": {
     "link_error": "Musisz wysłać ten link swojemu znajomemu, a nie sobie.",
@@ -3148,7 +3173,8 @@
     "request_sent": "Zaproszenie wysłane",
     "request_received": "Zaprosił Cię",
     "following": "Obserwujesz",
-    "blocked_status": "Zablokowany"
+    "blocked_status": "Zablokowany",
+    "give_gift": "Podaruj prezent"
   },
   "stats_dashboard": {
     "tab_pairs": "Pary",
@@ -3384,5 +3410,31 @@
       "pre_empt_defence": "Rozdania, gdzie bronicie się przed blokującymi licytacjami przeciwnika",
       "two_suited_defence": "Rozdania, gdzie bronicie się przed dwukolorowymi licytacjami przeciwnika"
     }
+  },
+  "gift": {
+    "title": "Podaruj prezent",
+    "intro": "Podaruj znajomemu rok Kier lub Karo albo pakiet biletów.",
+    "friend_label": "Dla kogo jest prezent?",
+    "friend_placeholder": "Wybierz znajomego",
+    "no_friends_title": "Najpierw dodaj znajomego",
+    "no_friends_text": "Prezent trafia do osoby z twojej listy znajomych.",
+    "no_friends_cta": "Znajdź znajomych",
+    "product_label": "Wybierz prezent",
+    "product_heart": "Kier na rok",
+    "product_diamond": "Karo na rok",
+    "product_tickets250": "250 biletów",
+    "product_tickets1500": "1500 biletów",
+    "delivery_note": "{{name}} dostanie wiadomość i tam otworzy prezent. Płacisz raz i nic się nie odnawia.",
+    "delivery_note_generic": "Twój znajomy dostanie wiadomość i tam otworzy prezent. Płacisz raz i nic się nie odnawia.",
+    "cta": "Przejdź do płatności",
+    "success_title": "Prezent jest w drodze",
+    "success_text": "{{name}} znajdzie go w Wiadomościach.",
+    "success_text_generic": "Twój znajomy znajdzie go w Wiadomościach.",
+    "success_again": "Podaruj kolejny",
+    "success_done": "Gotowe",
+    "cancelled": "Płatność anulowana. Nic nie pobrano.",
+    "error_not_a_friend": "Prezent możesz podarować tylko osobie z listy znajomych.",
+    "error_unavailable": "Ten prezent jest teraz niedostępny.",
+    "error_generic": "Coś poszło nie tak. Nic nie pobrano."
   }
 }
