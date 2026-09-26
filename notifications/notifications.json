@@ -956,6 +956,66 @@
       "text": "Vi försöker igen automatiskt. Din prenumeration gäller fortfarande."
     }
   },
+  "gift_received": {
+    "en": {
+      "title": "You have a gift",
+      "text": "{{player}} sent you a gift. Open it in your messages."
+    },
+    "sv": {
+      "title": "Du har fått en gåva",
+      "text": "{{player}} har gett dig en gåva. Öppna den bland dina meddelanden."
+    },
+    "pl": {
+      "title": "Masz prezent",
+      "text": "{{player}} ma dla ciebie prezent. Otwórz go w wiadomościach."
+    },
+    "fr": {
+      "title": "Vous avez un cadeau",
+      "text": "{{player}} vous a offert un cadeau. Ouvrez-le dans vos messages."
+    },
+    "es": {
+      "title": "Tienes un regalo",
+      "text": "{{player}} te ha hecho un regalo. Ábrelo en tus mensajes."
+    },
+    "zh": {
+      "title": "你收到一份礼物",
+      "text": "{{player}} 送了你一份礼物。在消息中打开。"
+    },
+    "zht": {
+      "title": "你收到一份禮物",
+      "text": "{{player}} 送了你一份禮物。在訊息中打開。"
+    }
+  },
+  "gift_code_received": {
+    "en": {
+      "title": "A gift is waiting",
+      "text": "{{player}} sent you a gift code. Redeem it and the gift is yours."
+    },
+    "sv": {
+      "title": "En gåva väntar",
+      "text": "{{player}} har skickat dig en gåvokod. Lös in den så är gåvan din."
+    },
+    "pl": {
+      "title": "Czeka na ciebie prezent",
+      "text": "{{player}} ma dla ciebie kod podarunkowy. Odbierz go, a prezent jest twój."
+    },
+    "fr": {
+      "title": "Un cadeau vous attend",
+      "text": "{{player}} vous a envoyé un code cadeau. Utilisez-le et le cadeau est à vous."
+    },
+    "es": {
+      "title": "Te espera un regalo",
+      "text": "{{player}} te ha enviado un código regalo. Canjéalo y el regalo es tuyo."
+    },
+    "zh": {
+      "title": "有一份礼物在等你",
+      "text": "{{player}} 给你发了一个礼品码。兑换后礼物就是你的了。"
+    },
+    "zht": {
+      "title": "有一份禮物在等你",
+      "text": "{{player}} 給你發了一個禮品碼。兌換後禮物就是你的了。"
+    }
+  },
   "event_names": {
     "daily_headline": {
       "en": "Daily",
