@@ -2090,6 +2090,54 @@
     "charge": "Coste",
     "explain_split": "Para jugar, debes usar tickets. Cada mes recibes tickets nuevos y los suscriptores reciben más. Los suscriptores Heart tienen acceso ilimitado."
   },
+  "deal_search": {
+    "box": {
+      "hint": "Toca la subasta que buscas",
+      "any_level": "Cualquier nivel",
+      "any_call": "Cualquier declaración, incluidos paso y doblo",
+      "any_call_key": "cualquiera",
+      "run": "Cualquier número de declaraciones",
+      "run_key": "…",
+      "legend_minor": "m = palo menor (♣ o ♦)",
+      "legend_major": "M = palo mayor (♠ o ♥)",
+      "legend_any_strain": "? = cualquier palo o nivel",
+      "legend_run": "… = cualquier número de declaraciones",
+      "remove": "Eliminar",
+      "replace": "Cambiar",
+      "replace_pick": "Elige una declaración…",
+      "label": "¿De quién fue?"
+    },
+    "anchor": {
+      "opening": "Desde la apertura",
+      "anywhere": "En cualquier sitio",
+      "end": "Al final"
+    },
+    "lock": {
+      "me": "Yo",
+      "partner": "Compañero",
+      "us": "Nosotros",
+      "them": "Ellos"
+    },
+    "contract_in": "Contrato en",
+    "undo": "Deshacer",
+    "clear": "Borrar",
+    "impossible": "Esas dos etiquetas no pueden ser ciertas a la vez: las declaraciones son consecutivas, así que sus posiciones también.",
+    "syncing": "Cargando tus manos… {{count}} hasta ahora",
+    "sync_failed": "No se pudieron cargar más manos. Buscando en las {{count}} que ya están aquí.",
+    "searching_in": "Buscando en tus últimas {{count}} manos",
+    "no_matches": "Ninguna mano coincide.",
+    "more_hidden": "{{count}} más sin mostrar: acota la búsqueda.",
+    "with": "Con",
+    "any_partner": "Cualquier compañero",
+    "show_more": "Mostrar {{count}} más",
+    "at_most": "como máximo",
+    "at_least": "al menos",
+    "leading_passes": "Pasos antes",
+    "stars": "Estrellas",
+    "pattern_error": "Ese patrón no se puede buscar: una etiqueta tiene que estar en una declaración que el patrón pueda contar, así que quita el … que va delante.",
+    "whose_call": "¿De quién fue la declaración?",
+    "seat_conflict": "Esas dos no pueden ser ciertas a la vez: {{first}} como {{firstSeat}} y {{second}} como {{secondSeat}} están a una distancia que no cuadra. Cambia una de las dos, o pon un … entre ellas para que el hueco absorba la diferencia."
+  },
   "flagged_session_deals": {
     "none": "¡Todo al día! Marca una mano haciendo clic en la bandera.",
     "show_all_partners": "Mostrar todos los compañeros",
@@ -3209,7 +3257,9 @@
     "leak_finder_info": "Consulta informes de distintos tipos de manos para localizar aquellas en las que podríais haberlo hecho mejor.",
     "dashboard_title": "Compañeros, semanal, diario",
     "dashboard_info": "Consulta tu puntuación media con cada compañero y tus resultados en eventos semanales y diarios.",
-    "new": "¡Nuevo!"
+    "new": "¡Nuevo!",
+    "deal_search_title": "Encuentra una mano",
+    "deal_search_info": "Encuentra las manos que has subastado, por la subasta, el contrato o el resultado. Toca la subasta que buscas."
   },
   "stats_overview": {
     "tab_ranked": "Clasificatorio",

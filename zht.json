@@ -2091,6 +2091,54 @@
     "charge": "收費",
     "explain_split": "練習時需要使用門票。每個月你都會收到新門票，訂閱者會獲得更多門票。紅桃訂閱者可以無限使用。"
   },
+  "deal_search": {
+    "box": {
+      "hint": "點按你要找的叫牌序列",
+      "any_level": "任意階",
+      "any_call": "任意叫品，包括不叫和加倍",
+      "any_call_key": "任意",
+      "run": "任意數量的叫品",
+      "run_key": "…",
+      "legend_minor": "m = 低花（♣ 或 ♦）",
+      "legend_major": "M = 高花（♠ 或 ♥）",
+      "legend_any_strain": "? = 任意花色或階",
+      "legend_run": "… = 任意數量的叫品",
+      "remove": "刪除",
+      "replace": "替換",
+      "replace_pick": "選一個叫品…",
+      "label": "誰的叫品？"
+    },
+    "anchor": {
+      "opening": "從開叫開始",
+      "anywhere": "任意位置",
+      "end": "在結尾"
+    },
+    "lock": {
+      "me": "我",
+      "partner": "搭檔",
+      "us": "我方",
+      "them": "對方"
+    },
+    "contract_in": "定約花色",
+    "undo": "撤消",
+    "clear": "清除",
+    "impossible": "這兩個標記不能同時成立：叫品是連續的，位置也一樣。",
+    "syncing": "正在載入你的牌…已有 {{count}} 副",
+    "sync_failed": "無法載入更多牌。在已有的 {{count}} 副中搜尋。",
+    "searching_in": "在你最近的 {{count}} 副牌中搜尋",
+    "no_matches": "沒有符合的牌。",
+    "more_hidden": "還有 {{count}} 副未顯示，請縮小搜尋範圍。",
+    "with": "搭檔",
+    "any_partner": "任意搭檔",
+    "show_more": "再顯示 {{count}} 副",
+    "at_most": "最多",
+    "at_least": "至少",
+    "leading_passes": "之前的不叫",
+    "stars": "星星",
+    "pattern_error": "這個序列無法搜尋：標記必須落在序列能數到的叫品上，請刪掉它前面的 …。",
+    "whose_call": "誰的叫品？",
+    "seat_conflict": "這兩個不能同時成立：{{first}} 是{{firstSeat}}，{{second}} 是{{secondSeat}}，兩者相隔的叫品數不對。改掉其中一個，或者在它們之間放一個 …，讓空檔吸收差值。"
+  },
   "flagged_session_deals": {
     "none": "都看完啦！點擊旗標即可標記一副牌。",
     "show_all_partners": "顯示所有搭檔",
@@ -3210,7 +3258,9 @@
     "leak_finder_info": "查看不同類型牌局的報告，找出你本可以處理得更好的地方。",
     "dashboard_title": "搭檔、每週、每日",
     "dashboard_info": "查看你與每個搭檔的平均得分，以及你在每週和每日練習中的結果。",
-    "new": "新！"
+    "new": "新！",
+    "deal_search_title": "查找牌局",
+    "deal_search_info": "按叫牌序列、定約或成績查找你叫過的牌。點按你要找的叫牌序列。"
   },
   "stats_overview": {
     "tab_ranked": "排位",

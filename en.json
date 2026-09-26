@@ -2097,7 +2097,15 @@
       "any_call": "Any call, including pass and double",
       "any_call_key": "any",
       "run": "Any number of calls",
-      "run_key": "…"
+      "run_key": "…",
+      "legend_minor": "m = a minor (♣ or ♦)",
+      "legend_major": "M = a major (♠ or ♥)",
+      "legend_any_strain": "? = any strain or level",
+      "legend_run": "… = any number of calls",
+      "remove": "Remove",
+      "replace": "Replace",
+      "replace_pick": "Pick a bid…",
+      "label": "Whose call?"
     },
     "anchor": {
       "opening": "From the opening",
@@ -2110,8 +2118,6 @@
       "us": "Us",
       "them": "Them"
     },
-    "last_call_by": "Last call by",
-    "min_grade": "At least",
     "contract_in": "Contract in",
     "undo": "Undo",
     "clear": "Clear",
@@ -2120,7 +2126,17 @@
     "sync_failed": "Could not load more boards. Searching the {{count}} already here.",
     "searching_in": "Searching your last {{count}} boards",
     "no_matches": "No boards match.",
-    "more_hidden": "{{count}} more not shown — narrow the search."
+    "more_hidden": "{{count}} more not shown — narrow the search.",
+    "with": "With",
+    "any_partner": "Any partner",
+    "show_more": "Show {{count}} more",
+    "at_most": "at most",
+    "at_least": "at least",
+    "leading_passes": "Passes before",
+    "stars": "Stars",
+    "pattern_error": "That pattern cannot be searched: a lock has to be on a call the pattern can count to, so remove the … in front of it.",
+    "whose_call": "Whose call?",
+    "seat_conflict": "Those two cannot both be true: {{first}} as {{firstSeat}} and {{second}} as {{secondSeat}} are the wrong distance apart. Change one of them, or put a … between them so the gap can absorb it."
   },
   "flagged_session_deals": {
     "none": "All caught up! Flag a deal by clicking the flag.",

@@ -2097,7 +2097,15 @@
       "any_call": "Valfritt bud, även pass och dubbelt",
       "any_call_key": "valfritt",
       "run": "Valfritt antal bud",
-      "run_key": "…"
+      "run_key": "…",
+      "legend_minor": "m = lågfärg (♣ eller ♦)",
+      "legend_major": "M = högfärg (♠ eller ♥)",
+      "legend_any_strain": "? = valfri färg eller nivå",
+      "legend_run": "… = valfritt antal bud",
+      "remove": "Ta bort",
+      "replace": "Byt",
+      "replace_pick": "Välj ett bud…",
+      "label": "Vems bud?"
     },
     "anchor": {
       "opening": "Från öppningen",
@@ -2110,8 +2118,6 @@
       "us": "Vi",
       "them": "De"
     },
-    "last_call_by": "Sista budet av",
-    "min_grade": "Minst",
     "contract_in": "Kontrakt i",
     "undo": "Ångra",
     "clear": "Rensa",
@@ -2120,7 +2126,17 @@
     "sync_failed": "Kunde inte hämta fler brickor. Söker bland de {{count}} som redan finns.",
     "searching_in": "Söker bland dina senaste {{count}} brickor",
     "no_matches": "Inga brickor matchar.",
-    "more_hidden": "{{count}} till visas inte — begränsa sökningen."
+    "more_hidden": "{{count}} till visas inte — begränsa sökningen.",
+    "with": "Med",
+    "any_partner": "Alla partners",
+    "show_more": "Visa {{count}} fler",
+    "at_most": "högst",
+    "at_least": "minst",
+    "leading_passes": "Pass före",
+    "stars": "Stjärnor",
+    "pattern_error": "Det mönstret kan inte sökas: en låsning måste sitta på ett bud som mönstret kan räkna till, så ta bort … framför det.",
+    "whose_call": "Vems bud?",
+    "seat_conflict": "De två kan inte båda stämma: {{first}} som {{firstSeat}} och {{second}} som {{secondSeat}} ligger inte rätt antal bud ifrån varandra. Ändra ett av dem, eller sätt ett … mellan dem så att glappet kan ta upp skillnaden."
   },
   "flagged_session_deals": {
     "none": "Allt klart! Markera en giv genom att klicka på flaggan.",

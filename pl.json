@@ -2092,6 +2092,54 @@
     "charge": "Opłata",
     "explain_split": "Używasz biletów do gry. Co miesiąc otrzymujesz nowe bilety, a subskrybenci otrzymują więcej biletów. Subskrybenci Kier mają nieskończoność biletów."
   },
+  "deal_search": {
+    "box": {
+      "hint": "Dotknij licytacji, której szukasz",
+      "any_level": "Dowolny poziom",
+      "any_call": "Dowolna odzywka, także pas i kontra",
+      "any_call_key": "dowolna",
+      "run": "Dowolna liczba odzywek",
+      "run_key": "…",
+      "legend_minor": "m = kolor młodszy (♣ lub ♦)",
+      "legend_major": "M = kolor starszy (♠ lub ♥)",
+      "legend_any_strain": "? = dowolny kolor lub poziom",
+      "legend_run": "… = dowolna liczba odzywek",
+      "remove": "Usuń",
+      "replace": "Zmień",
+      "replace_pick": "Wybierz odzywkę…",
+      "label": "Czyja odzywka?"
+    },
+    "anchor": {
+      "opening": "Od otwarcia",
+      "anywhere": "Gdziekolwiek",
+      "end": "Na końcu"
+    },
+    "lock": {
+      "me": "Ja",
+      "partner": "Partner",
+      "us": "My",
+      "them": "Oni"
+    },
+    "contract_in": "Kontrakt w",
+    "undo": "Cofnij",
+    "clear": "Wyczyść",
+    "impossible": "Te dwie etykiety nie mogą być prawdziwe naraz: odzywki idą po sobie, więc pozycje też.",
+    "syncing": "Ładowanie Twoich rozdań… ({{count}})",
+    "sync_failed": "Nie udało się wczytać więcej rozdań. Szukam w tych, które już są ({{count}}).",
+    "searching_in": "Szukam w Twoich ostatnich rozdaniach ({{count}})",
+    "no_matches": "Żadne rozdanie nie pasuje.",
+    "more_hidden": "Nie pokazano wszystkiego ({{count}} więcej) — zawęź szukanie.",
+    "with": "Z",
+    "any_partner": "Dowolny partner",
+    "show_more": "Pokaż więcej ({{count}})",
+    "at_most": "najwyżej",
+    "at_least": "co najmniej",
+    "leading_passes": "Pasy przed",
+    "stars": "Gwiazdki",
+    "pattern_error": "Tego wzoru nie można wyszukać: etykieta musi stać na odzywce, do której wzór potrafi doliczyć, więc usuń … stojące przed nią.",
+    "whose_call": "Czyja odzywka?",
+    "seat_conflict": "Te dwie nie mogą być prawdziwe naraz: {{first}} jako {{firstSeat}} i {{second}} jako {{secondSeat}} są w złej odległości od siebie. Zmień jedną z nich albo wstaw między nie …, żeby luka wchłonęła różnicę."
+  },
   "flagged_session_deals": {
     "none": "Wszystko nadrobione! Oflaguj rozdanie używając kropkowanego menu po zakończeniu licytacji.",
     "show_all_partners": "Pokaż wszystkich partnerów",
@@ -3211,7 +3259,9 @@
     "leak_finder_info": "Zobacz raporty różnych typów rozdań, wskazujące te, w których mogłeś zagrać lepiej.",
     "dashboard_title": "Partnerzy, Tygodniowe, Codzienne",
     "dashboard_info": "Zobacz swoją średnią punktację z każdym partnerem oraz wyniki w wydarzeniach tygodniowych i codziennych.",
-    "new": "Nowość!"
+    "new": "Nowość!",
+    "deal_search_title": "Znajdź rozdanie",
+    "deal_search_info": "Znajdź rozdania, które licytowałeś — po licytacji, kontrakcie lub wyniku. Dotknij licytacji, której szukasz."
   },
   "stats_overview": {
     "tab_ranked": "Rankingowe",
