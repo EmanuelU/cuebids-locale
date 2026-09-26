@@ -91,7 +91,7 @@
   "Inverted_Minor": "Inverted Minor",
   "Jacoby_2NT": "Jacoby 2NT",
   "Keycard_Blackwood_suit": "Keycard Blackwood {{kc_suit}}",
-  "King_of_suit": "King of {king_suit}",
+  "King_of_suit": "King of {{king_suit}}",
   "Kokish_24_plus_balanced_or_natural": "Kokish- 24+ balanced or natural",
   "Landy": "Landy",
   "Last_Train": "Last Train",

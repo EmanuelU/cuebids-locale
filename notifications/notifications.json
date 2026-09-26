@@ -43,8 +43,8 @@
       "text": "{{partner}} zaprosił Cię do zagrania wydarzenia: {{event}}"
     },
     "fr": {
-      "title": "Invité à jouer",
-      "text": "{{partner}} vous a invité à jouer l'événement : {{event}}"
+      "title": "Invitation à jouer",
+      "text": "{{partner}} vous invite à participer à l'événement : {{event}}"
     },
     "es": {
       "title": "Invitación para jugar",
@@ -74,7 +74,7 @@
     },
     "fr": {
       "title": "{{partner}} vous attend",
-      "text": "C'est à vous de miser !"
+      "text": "C'est à vous d'enchérir !"
     },
     "es": {
       "title": "{{partner}} te espera",
@@ -104,7 +104,7 @@
     },
     "fr": {
       "title": "{{partner}} a terminé d'enchérir",
-      "text": "C'est à votre tour !"
+      "text": "C'est à vous !"
     },
     "es": {
       "title": "{{partner}} terminó de pujar",
@@ -134,7 +134,7 @@
     },
     "fr": {
       "title": "Nouvelle session avec {{partner}}",
-      "text": "Le partenaire {{partner}} a démarré une nouvelle session !"
+      "text": "Votre partenaire {{partner}} a lancé une nouvelle session !"
     },
     "es": {
       "title": "Nueva sesión con {{partner}}",
@@ -163,8 +163,8 @@
       "text": "Dołączono do {{event}} z partnerem {{partner}}"
     },
     "fr": {
-      "title": "Événement rejoint",
-      "text": "Vous avez rejoint le {{event}} avec le partenaire {{partner}}"
+      "title": "Inscription à l'événement",
+      "text": "Vous êtes inscrit à {{event}} avec {{partner}}"
     },
     "es": {
       "title": "Te uniste al evento",
@@ -283,7 +283,7 @@
       "text": "{{opponent1}} i {{opponent2}} rzucili ci wyzwanie"
     },
     "fr": {
-      "title": "Défi !",
+      "title": "Vous êtes défié !",
       "text": "{{opponent1}} et {{opponent2}} vous ont défié"
     },
     "es": {
@@ -313,7 +313,7 @@
       "text": "Rozpoczęto sesję z {{partner}} - powodzenia!"
     },
     "fr": {
-      "title": "Match trouvé",
+      "title": "Partenaire trouvé",
       "text": "Une session a commencé avec {{partner}} - bonne chance !"
     },
     "es": {
@@ -343,7 +343,7 @@
       "text": "Kontra {{opponent1}} i {{opponent2}}"
     },
     "fr": {
-      "title": "Défi commencé",
+      "title": "Le défi commence",
       "text": "Contre {{opponent1}} et {{opponent2}}"
     },
     "es": {
@@ -373,8 +373,8 @@
       "text": "{{partner}} zaprosił Cię do zagrania wydarzenia: {{event}}"
     },
     "fr": {
-      "title": "Invité à jouer",
-      "text": "{{partner}} vous a invité à jouer l'événement : {{event}}"
+      "title": "Invitation à jouer",
+      "text": "{{partner}} vous invite à participer à l'événement : {{event}}"
     },
     "es": {
       "title": "Invitación para jugar",
@@ -404,7 +404,7 @@
     },
     "fr": {
       "title": "Invitation acceptée",
-      "text": "{{partner}} a accepté votre invitation à jouer l'événement : {{event}}"
+      "text": "{{partner}} a accepté votre invitation à participer à l'événement : {{event}}"
     },
     "es": {
       "title": "Invitación aceptada",
@@ -433,7 +433,7 @@
       "text": "Zostałeś zaproszony do grupy: {{group}}"
     },
     "fr": {
-      "title": "Invitation de groupe",
+      "title": "Invitation à un groupe",
       "text": "Vous avez été invité au groupe : {{group}}"
     },
     "es": {
@@ -614,7 +614,7 @@
     },
     "fr": {
       "title": "Nouveaux rapports hebdomadaires",
-      "text": "Cette semaine, vous avez terminé {{dealsFinished}} parties avec {{numberOfPartners}} partenaires et vous avez obtenu en moyenne {{averageGrade}} étoiles !"
+      "text": "Cette semaine, vous avez terminé {{dealsFinished}} donnes avec {{numberOfPartners}} partenaires et obtenu en moyenne {{averageGrade}} étoiles !"
     },
     "es": {
       "title": "Nuevos informes semanales",
@@ -644,7 +644,7 @@
     },
     "fr": {
       "title": "Votre partenaire vous attend !",
-      "text": "Vous avez {{count}} enchères en attente."
+      "text": "{{count}} donnes vous attendent."
     },
     "es": {
       "title": "¡Tu compañero te está esperando!",
@@ -704,7 +704,7 @@
     },
     "fr": {
       "title": "Un nouvel événement {{event}} est disponible !",
-      "text": "Rejoignez maintenant !"
+      "text": "Participez dès maintenant !"
     },
     "es": {
       "title": "¡Hay un nuevo evento de {{event}} disponible!",
@@ -734,7 +734,7 @@
     },
     "fr": {
       "title": "Un nouvel événement quotidien est disponible !",
-      "text": "Rejoignez maintenant !"
+      "text": "Participez dès maintenant !"
     },
     "es": {
       "title": "¡Hay un nuevo evento diario disponible!",
@@ -764,7 +764,7 @@
     },
     "fr": {
       "title": "Un nouvel événement hebdomadaire est disponible !",
-      "text": "Rejoignez maintenant !"
+      "text": "Participez dès maintenant !"
     },
     "es": {
       "title": "¡Hay un nuevo evento semanal disponible!",
@@ -823,7 +823,7 @@
       "text": "W {{season}} wciąż masz mecze ligowe bez odpowiedzi."
     },
     "fr": {
-      "title": "Rappel de disponibilité",
+      "title": "Rappel : disponibilités pour la ligue",
       "text": "Vous avez encore des matchs de ligue sans réponse pour {{season}}."
     },
     "es": {
@@ -853,7 +853,7 @@
       "text": "{{match}} ma tylko {{count}} dostępnych graczy."
     },
     "fr": {
-      "title": "Alerte effectif insuffisant",
+      "title": "Alerte : effectif insuffisant",
       "text": "{{match}} n'a que {{count}} joueurs disponibles."
     },
     "es": {

@@ -86,7 +86,7 @@
   "Inverted_Minor": "Odwrócone podniesienie",
   "Jacoby_2NT": "Jacoby 2NT",
   "Keycard_Blackwood_suit": "Keycard Blackwood {{kc_suit}}",
-  "King_of_suit": "Król {king_suit}",
+  "King_of_suit": "Król {{king_suit}}",
   "Kokish_24_plus_balanced_or_natural": "Kokish- 24+ zrównoważone, lub naturalne",
   "Landy": "Landy",
   "Last_Train": "Last Train - inwit do szlemika",
