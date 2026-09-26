@@ -416,7 +416,8 @@
     },
     "50 Tickets": "50 Biljetter",
     "250 Tickets": "250 Biljetter",
-    "1500 Tickets": "1500 Biljetter"
+    "1500 Tickets": "1500 Biljetter",
+    "tab_gift": "Gåva"
   },
   "go_to_store": {
     "no_iap_error": "Butiken finns för närvarande inte i mobilappen. Vänligen besök vår hemsida för att prenumerera på Cuebids."
@@ -950,6 +951,7 @@
     "rating": "Rating",
     "queue": "Kö",
     "friendly": "Vänskaplig",
+    "competitive": "Tävling",
     "wdl": "V/L/F",
     "win_percent": "Vinst %",
     "boards": "Brickor",
@@ -984,6 +986,9 @@
     "tab_top": "Topp 10",
     "show_more": "Visa mer",
     "not_finished": "Inte färdig",
+    "board_done": "Klar",
+    "boards_done": "{{done}}/{{total}} brickor",
+    "results_withheld": "Deras resultat visas när ni har spelat klart era brickor.",
     "go_to_deal": "Gå till giv",
     "kibitz_ongoing": "Spelarna kämpar fortfarande! Kom tillbaka när de är klara för att se resultatet.",
     "rematch": "Returmatch",
@@ -1049,6 +1054,9 @@
     "pro_challenge_pre_styled": "Alla spelare är ",
     "pro_challenge_styled": "PROFFS",
     "pro_challenge_post_styled": "Snälla låt oss spara givarna för att använda i speciella events i framtiden. Tack för att du är ett proffs och stöttar vår community!",
+    "competitive": "Tävling",
+    "competitive_explain": "Brickor som ingen annan får, och en tidsgräns. Deras resultat är dolda tills ni har spelat klart era, och ospelade brickor räknas som noll.",
+    "days_to_play_label": "Dagar att spela",
     "create_challenge": "Skapa utmaning"
   },
   "friendly_challenge": {
@@ -1065,6 +1073,7 @@
     "invitation_already_waiting": "Den inbjudan väntar redan på svar.",
     "pricing_changed": "Priset ändrades – kontrollera innan du fortsätter.",
     "proposal_title": "Utmaningsinbjudan",
+    "competitive_days": "Tävling · {{days}} dagar att spela",
     "accept": "Godkänn",
     "decline": "Tacka nej",
     "cancel": "Avbryt",

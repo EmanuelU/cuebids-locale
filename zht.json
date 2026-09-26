@@ -416,7 +416,8 @@
     },
     "50 Tickets": "50張門票",
     "250 Tickets": "250張門票",
-    "1500 Tickets": "1500張門票"
+    "1500 Tickets": "1500張門票",
+    "tab_gift": "禮物"
   },
   "go_to_store": {
     "no_iap_error": "商店目前無法在移動應用程序中使用。請訪問我們的網站訂閱 Cuebids。"
@@ -951,6 +952,7 @@
     "rating": "積分",
     "queue": "隊列",
     "friendly": "友誼賽",
+    "competitive": "競賽",
     "wdl": "勝/平/負",
     "win_percent": "勝率%",
     "boards": "副牌",
@@ -985,6 +987,9 @@
     "tab_top": "前10名",
     "show_more": "顯示更多",
     "not_finished": "未完成",
+    "board_done": "已完成",
+    "boards_done": "{{done}}/{{total}} 副牌",
+    "results_withheld": "完成你們的所有牌後即可查看對手的成績。",
     "go_to_deal": "前往牌局",
     "kibitz_ongoing": "玩家還在比賽中！完成後再回來查看結果。",
     "rematch": "再賽一場",
@@ -1050,6 +1055,9 @@
     "pro_challenge_pre_styled": "所有玩家都是",
     "pro_challenge_styled": "PRO",
     "pro_challenge_post_styled": "請允許我們保存這些牌局，以便未來用於特殊活動。感謝你成為 PRO 並支持社區！",
+    "competitive": "競賽",
+    "competitive_explain": "專屬牌局，並設有期限。在你們完成自己的牌之前，對手的成績保持隱藏；未打的牌計零分。",
+    "days_to_play_label": "比賽天數",
     "create_challenge": "創建挑戰"
   },
   "friendly_challenge": {
@@ -1066,6 +1074,7 @@
     "invitation_already_waiting": "該邀請已在等待回應。",
     "pricing_changed": "價格已變動 — 請確認後再繼續。",
     "proposal_title": "挑戰邀請",
+    "competitive_days": "競賽 · {{days}} 天內完成",
     "accept": "接受",
     "decline": "拒絕",
     "cancel": "取消",

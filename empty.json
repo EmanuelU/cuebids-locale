@@ -282,7 +282,8 @@
     "payment_failed": "",
     "50 Tickets": "",
     "250 Tickets": "",
-    "1500 Tickets": ""
+    "1500 Tickets": "",
+    "tab_gift": ""
   },
   "go_to_store": {
     "no_iap_error": ""
@@ -655,6 +656,7 @@
     "challenges": "",
     "ranked": "",
     "friendly": "",
+    "competitive": "",
     "wdl": "",
     "win_percent": "",
     "boards": "",
@@ -689,6 +691,9 @@
     "tab_top": "",
     "show_more": "",
     "not_finished": "",
+    "board_done": "",
+    "boards_done": "",
+    "results_withheld": "",
     "go_to_deal": "",
     "kibitz_ongoing": "",
     "rematch": "",
@@ -754,6 +759,9 @@
     "pro_challenge_pre_styled": "",
     "pro_challenge_styled": "",
     "pro_challenge_post_styled": "",
+    "competitive": "",
+    "competitive_explain": "",
+    "days_to_play_label": "",
     "create_challenge": ""
   },
   "friendly_challenge": {
@@ -770,6 +778,7 @@
     "invitation_already_waiting": "",
     "pricing_changed": "",
     "proposal_title": "",
+    "competitive_days": "",
     "accept": "",
     "decline": "",
     "cancel": "",

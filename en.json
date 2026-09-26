@@ -416,7 +416,8 @@
     },
     "50 Tickets": "50 Tickets",
     "250 Tickets": "250 Tickets",
-    "1500 Tickets": "1500 Tickets"
+    "1500 Tickets": "1500 Tickets",
+    "tab_gift": "Gift"
   },
   "go_to_store": {
     "no_iap_error": "Store is currently not available in the mobile app. Please visit our website to subscribe to Cuebids."
@@ -950,6 +951,7 @@
     "rating": "Rating",
     "queue": "Queue",
     "friendly": "Friendly",
+    "competitive": "Competitive",
     "wdl": "W/D/L",
     "win_percent": "Win %",
     "boards": "Boards",
@@ -984,6 +986,9 @@
     "tab_top": "Top 10",
     "show_more": "Show more",
     "not_finished": "Not finished",
+    "board_done": "Done",
+    "boards_done": "{{done}}/{{total}} boards",
+    "results_withheld": "Their results show once you have finished your boards.",
     "go_to_deal": "Go to deal",
     "kibitz_ongoing": "The players are still fighting it out! Come back when they have finished to see the result.",
     "rematch": "Rematch",
@@ -1049,6 +1054,9 @@
     "pro_challenge_pre_styled": "All players are ",
     "pro_challenge_styled": "PRO",
     "pro_challenge_post_styled": "Please allow us to save the deals for use in special events in the future. Thank you for being a pro and supporting the community!",
+    "competitive": "Competitive",
+    "competitive_explain": "Boards nobody else gets, and a deadline. Their results stay hidden until you have finished yours, and boards left unplayed score zero.",
+    "days_to_play_label": "Days to play",
     "create_challenge": "Create challenge"
   },
   "friendly_challenge": {
@@ -1065,6 +1073,7 @@
     "invitation_already_waiting": "That invitation is already waiting for an answer.",
     "pricing_changed": "Price changed — check before continuing.",
     "proposal_title": "Challenge invitation",
+    "competitive_days": "Competitive · {{days}} days to play",
     "accept": "Accept",
     "decline": "Decline",
     "cancel": "Cancel",

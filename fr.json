@@ -416,7 +416,8 @@
     },
     "50 Tickets": "50 Tickets",
     "250 Tickets": "250 Tickets",
-    "1500 Tickets": "1500 Tickets"
+    "1500 Tickets": "1500 Tickets",
+    "tab_gift": "Cadeau"
   },
   "go_to_store": {
     "no_iap_error": "La boutique est actuellement indisponible dans l’application mobile. Merci d’utiliser notre site web pour vous abonner à Cuebids."
@@ -950,6 +951,7 @@
     "rating": "Cote",
     "queue": "File",
     "friendly": "Amical",
+    "competitive": "Compétitif",
     "wdl": "V/N/D",
     "win_percent": "% de victoires",
     "boards": "Donnes",
@@ -984,6 +986,9 @@
     "tab_top": "Top 10",
     "show_more": "Montrez plus",
     "not_finished": "Pas fini",
+    "board_done": "Finie",
+    "boards_done": "{{done}}/{{total}} donnes",
+    "results_withheld": "Leurs résultats s'affichent une fois vos donnes terminées.",
     "go_to_deal": "Aller à la donne",
     "kibitz_ongoing": "Les joueurs continuent de s’affronter ! Revenez quand ils auront fini pour voir le résultat.",
     "rematch": "Match à nouveau",
@@ -1049,6 +1054,9 @@
     "pro_challenge_pre_styled": "Tous les joueurs sont ",
     "pro_challenge_styled": "PRO",
     "pro_challenge_post_styled": "Merci de nous autoriser à sauvegarder les donnes pour les utiliser lors d’événements spéciaux dans le futur. Merci d’être un pro et de soutenir la communauté !",
+    "competitive": "Compétitif",
+    "competitive_explain": "Des donnes que personne d'autre ne reçoit, et une date limite. Leurs résultats restent masqués tant que vous n'avez pas fini les vôtres, et les donnes non jouées comptent zéro.",
+    "days_to_play_label": "Jours pour jouer",
     "create_challenge": "Créer défi"
   },
   "friendly_challenge": {
@@ -1065,6 +1073,7 @@
     "invitation_already_waiting": "Cette invitation attend déjà une réponse.",
     "pricing_changed": "Le prix a changé — vérifiez avant de continuer.",
     "proposal_title": "Invitation au défi",
+    "competitive_days": "Compétitif · {{days}} jours pour jouer",
     "accept": "Accepter",
     "decline": "Refuser",
     "cancel": "Annuler",
