@@ -3471,6 +3471,8 @@
     "success_pending": "正在确认付款…",
     "copy_code": "复制礼品码",
     "code_copied": "已复制",
+    "have_code": "有礼品码？",
+    "have_code_cta": "去兑换",
     "redeem_title": "兑换礼物",
     "redeem_intro": "输入你收到的礼品码。",
     "redeem_input_label": "礼品码",

@@ -3471,6 +3471,8 @@
     "success_pending": "正在確認付款…",
     "copy_code": "複製禮品碼",
     "code_copied": "已複製",
+    "have_code": "有禮品碼？",
+    "have_code_cta": "去兌換",
     "redeem_title": "兌換禮物",
     "redeem_intro": "輸入你收到的禮品碼。",
     "redeem_input_label": "禮品碼",

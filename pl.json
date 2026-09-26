@@ -3466,6 +3466,8 @@
     "success_pending": "Potwierdzamy płatność…",
     "copy_code": "Kopiuj kod",
     "code_copied": "Skopiowano",
+    "have_code": "Masz kod podarunkowy?",
+    "have_code_cta": "Odbierz prezent",
     "redeem_title": "Odbierz prezent",
     "redeem_intro": "Wpisz otrzymany kod.",
     "redeem_input_label": "Kod podarunkowy",

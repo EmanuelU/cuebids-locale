@@ -3464,6 +3464,8 @@
     "success_pending": "Confirmando el pago…",
     "copy_code": "Copiar código",
     "code_copied": "Copiado",
+    "have_code": "¿Tienes un código regalo?",
+    "have_code_cta": "Canjearlo",
     "redeem_title": "Canjear un regalo",
     "redeem_intro": "Introduce el código que te han dado.",
     "redeem_input_label": "Código regalo",

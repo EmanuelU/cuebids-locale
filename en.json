@@ -3464,6 +3464,8 @@
     "success_pending": "Confirming your payment…",
     "copy_code": "Copy code",
     "code_copied": "Copied",
+    "have_code": "Have a gift code?",
+    "have_code_cta": "Redeem it",
     "redeem_title": "Redeem a gift",
     "redeem_intro": "Enter the code you were given.",
     "redeem_input_label": "Gift code",

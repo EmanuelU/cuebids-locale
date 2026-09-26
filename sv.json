@@ -3464,6 +3464,8 @@
     "success_pending": "Bekräftar din betalning …",
     "copy_code": "Kopiera koden",
     "code_copied": "Kopierad",
+    "have_code": "Har du en gåvokod?",
+    "have_code_cta": "Lös in den",
     "redeem_title": "Lös in en gåva",
     "redeem_intro": "Skriv in koden du fått.",
     "redeem_input_label": "Gåvokod",

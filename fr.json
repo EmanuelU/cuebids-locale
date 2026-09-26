@@ -3464,6 +3464,8 @@
     "success_pending": "Confirmation du paiement…",
     "copy_code": "Copier le code",
     "code_copied": "Copié",
+    "have_code": "Vous avez un code cadeau ?",
+    "have_code_cta": "Utiliser le cadeau",
     "redeem_title": "Utiliser un cadeau",
     "redeem_intro": "Saisissez le code que vous avez reçu.",
     "redeem_input_label": "Code cadeau",

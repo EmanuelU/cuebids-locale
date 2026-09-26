@@ -2955,6 +2955,8 @@
     "success_pending": "",
     "copy_code": "",
     "code_copied": "",
+    "have_code": "",
+    "have_code_cta": "",
     "redeem_title": "",
     "redeem_intro": "",
     "redeem_input_label": "",
