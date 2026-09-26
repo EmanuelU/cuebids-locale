@@ -53,14 +53,14 @@
       "contact": "Contact"
     },
     "daily_card": {
-      "title": "Événement quotidien",
+      "title": "Tournoi du jour",
       "pairs": "Paires",
       "continue": "Continuer",
       "leaderboard": "Classement",
       "join_event": "Rejoindre"
     },
     "weekly_card": {
-      "title": "Événement hebdomadaire",
+      "title": "Tournoi hebdo",
       "pairs": "Paires",
       "continue": "Continuer",
       "leaderboard": "Classement",
@@ -127,10 +127,10 @@
       "edited_label": "modifié",
       "typing": "En train d’écrire...",
       "typing_label": "{{displayName}} écrit...",
-      "daily_event": "Événement quotidien",
-      "weekly_event": "Événement hebdomadaire",
-      "event_invite_daily": "Événement quotidien",
-      "event_invite_weekly": "Événement hebdomadaire",
+      "daily_event": "Tournoi du jour",
+      "weekly_event": "Tournoi hebdo",
+      "event_invite_daily": "Tournoi du jour",
+      "event_invite_weekly": "Tournoi hebdo",
       "event_invite_sent": "Invitation envoyée",
       "event_invite_received": "Jouer ensemble ?",
       "event_invite_pending": "Invitation en attente",
@@ -180,7 +180,7 @@
       "new_version_reload": "La charger"
     },
     "weekly_ended": {
-      "info": "Cet événement hebdomadaire est terminé et vos résultats ne seront pas pris en compte dans le classement. Cependant, vous pouvez encore finir d’enchérir cette session."
+      "info": "Ce tournoi hebdo est terminé et vos résultats ne seront pas pris en compte dans le classement. Cependant, vous pouvez encore finir d’enchérir cette session."
     },
     "invite": {
       "remove": "Retirer",
@@ -2960,8 +2960,8 @@
     "warning_partner_requires_invite": "Votre partenaire exige une invitation pour participer à des événements avec vous",
     "pending_invite_error": "Vous avez une invitation en attente pour cet événement. Acceptez-la ou refusez-la avant de vous inscrire avec quelqu'un d'autre.",
     "join_error": "Erreur lors de l’inscription à l’événement : {{error}}",
-    "weekly_headline": "Événement hebdomadaire",
-    "daily_headline": "Événement quotidien",
+    "weekly_headline": "Tournoi hebdo",
+    "daily_headline": "Tournoi du jour",
     "description": "Jouez {{count}} donnes avec des robots avancés",
     "partner_label": "Partenaire",
     "lia_sub_error": "Vous avez besoin d'un abonnement Carreau pour jouer avec Lia dans cet événement.",
@@ -3099,24 +3099,24 @@
     "partner": "Partenaire",
     "deals": "Donnes",
     "stars": "Étoiles",
-    "weekly_info": "Vos performances aux événements hebdomadaires",
+    "weekly_info": "Vos performances aux tournois hebdo",
     "weekly": "Hebdomadaire",
     "rank": "Rang : {{rank}}",
     "pairs_count": "{{count}} paires",
     "leaderboard": "Classement",
-    "select_weekly_info": "Sélectionnez un événement hebdomadaire pour voir les détails",
-    "daily_info": "Vos performances aux événements quotidiens",
+    "select_weekly_info": "Sélectionnez un tournoi hebdo pour voir les détails",
+    "daily_info": "Vos performances aux tournois du jour",
     "daily": "Quotidien",
-    "select_daily_info": "Sélectionnez un événement quotidien pour voir les détails",
-    "no_weekly_info": "Vous n’avez terminé aucun événement hebdomadaire au cours des 20 dernières semaines",
-    "no_daily_info": "Vous n’avez terminé aucun événement quotidien au cours des 30 derniers jours",
+    "select_daily_info": "Sélectionnez un tournoi du jour pour voir les détails",
+    "no_weekly_info": "Vous n’avez terminé aucun tournoi hebdo au cours des 20 dernières semaines",
+    "no_daily_info": "Vous n’avez terminé aucun tournoi du jour au cours des 30 derniers jours",
     "load_all": "Tout charger"
   },
   "history": {
     "leak_finder_title": "Détecteur de fautes",
     "leak_finder_info": "Consultez des rapports sur différents types de donnes, qui mettent en évidence celles où vous auriez pu mieux faire.",
     "dashboard_title": "Partenaires, Hebdomadaire, Quotidien",
-    "dashboard_info": "Consultez votre score moyen avec chaque partenaire, ainsi que vos résultats aux événements hebdomadaires et quotidiens.",
+    "dashboard_info": "Consultez votre score moyen avec chaque partenaire, ainsi que vos résultats aux tournois hebdo et aux tournois du jour.",
     "new": "Nouveau !"
   },
   "stats_overview": {
@@ -3180,11 +3180,11 @@
       "ranked_challenges": "Défis classés",
       "compete": "Affrontez d'autres joueurs et grimpez dans le classement",
       "point_system": "Système de points",
-      "daily": "Événement quotidien",
-      "complete_daily": "Terminez l'événement quotidien à temps : <strong>10 points</strong>",
+      "daily": "Tournoi du jour",
+      "complete_daily": "Terminez le tournoi du jour à temps : <strong>10 points</strong>",
       "score_daily": "<strong>1 point</strong> de plus par paire battue",
-      "weekly": "Événement hebdomadaire",
-      "complete_weekly": "Terminez l'événement hebdomadaire à temps : <strong>70 points</strong>",
+      "weekly": "Tournoi hebdo",
+      "complete_weekly": "Terminez le tournoi hebdo à temps : <strong>70 points</strong>",
       "score_weekly": "<strong>3 points</strong> de plus par paire battue",
       "ranked": "Défis classés",
       "win_ranked": "Gagnez un défi classé : <strong>3-1 points</strong>",
@@ -3534,8 +3534,8 @@
     },
     "events": {
       "title": "Comment fonctionnent les événements ?",
-      "excerpt": "Le Quotidien et l’Hebdomadaire ont un nombre fixe de donnes et une échéance, et le classement se fait aux étoiles.",
-      "p1": "Le <b>Quotidien</b> compte 8 donnes et dure 24 heures. L’<b>Hebdomadaire</b> compte 24 donnes et dure une semaine. L’inscription coûte un ticket par donne.",
+      "excerpt": "Le tournoi du jour et le tournoi hebdo ont un nombre fixe de donnes et une échéance, et le classement se fait aux étoiles.",
+      "p1": "Le <b>tournoi du jour</b> compte 8 donnes et dure 24 heures. Le <b>tournoi hebdo</b> compte 24 donnes et dure une semaine. L’inscription coûte un ticket par donne.",
       "p2": "Inscrivez-vous depuis <b>Événements</b> avec votre partenaire, ou avec Lia si vous avez Carreau ou Cœur. Enchérissez les donnes quand vous voulez ; celles qui ne sont pas enchéries à l’échéance ne rapportent rien.",
       "p3": "Le classement se fait aux étoiles, et l’espérance départage les ex æquo. Les groupes peuvent aussi organiser des événements privés."
     },
