@@ -3634,5 +3634,20 @@
       "youtube": "YouTube 频道",
       "facebook": "Facebook 主页"
     }
+  },
+  "library": {
+    "save": {
+      "title": "保存这副牌",
+      "title_saved": "已存入你的收藏",
+      "explain": "只属于你。旗标是让搭档来看这副牌；这里是把它留给自己，写上你自己的话。",
+      "needs_heart": "保存牌局是免费的。标签和备注需要红心会员。",
+      "labels": "标签",
+      "label_placeholder": "Lebensohl、问问安娜、配合不佳…",
+      "note": "备注",
+      "note_placeholder": "我当时为什么不叫？",
+      "save": "保存",
+      "update": "保存修改",
+      "remove": "从收藏中移除"
+    }
   }
 }

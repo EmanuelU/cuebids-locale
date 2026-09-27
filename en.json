@@ -3627,5 +3627,20 @@
       "youtube": "YouTube channel",
       "facebook": "Facebook page"
     }
+  },
+  "library": {
+    "save": {
+      "title": "Save this board",
+      "title_saved": "Saved to your library",
+      "explain": "Yours alone. The flag tells your partner to look at a board; this keeps it for you, with your own words on it.",
+      "needs_heart": "Saving a board is free. Labels and a note need Heart.",
+      "labels": "Labels",
+      "label_placeholder": "Lebensohl, ask Anna, misfit…",
+      "note": "Note",
+      "note_placeholder": "Why did I pass?",
+      "save": "Save",
+      "update": "Save changes",
+      "remove": "Remove from library"
+    }
   }
 }

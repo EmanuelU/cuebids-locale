@@ -3627,5 +3627,20 @@
       "youtube": "Canal de YouTube",
       "facebook": "Página de Facebook"
     }
+  },
+  "library": {
+    "save": {
+      "title": "Guarda esta mano",
+      "title_saved": "Guardada en tu biblioteca",
+      "explain": "Solo tuya. La marca le dice a tu compañero que mire una mano; esto la guarda para ti, con tus propias palabras.",
+      "needs_heart": "Guardar una mano es gratis. Las etiquetas y la nota necesitan Corazón.",
+      "labels": "Etiquetas",
+      "label_placeholder": "Lebensohl, preguntar a Ana, misfit…",
+      "note": "Nota",
+      "note_placeholder": "¿Por qué pasé?",
+      "save": "Guardar",
+      "update": "Guardar cambios",
+      "remove": "Quitar de la biblioteca"
+    }
   }
 }

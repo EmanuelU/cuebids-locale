@@ -3629,5 +3629,20 @@
       "youtube": "Kanał YouTube",
       "facebook": "Strona na Facebooku"
     }
+  },
+  "library": {
+    "save": {
+      "title": "Zapisz to rozdanie",
+      "title_saved": "Zapisane w Twojej bibliotece",
+      "explain": "Tylko Twoje. Flaga mówi partnerowi, żeby spojrzał na rozdanie; to zachowuje je dla Ciebie, z Twoimi własnymi słowami.",
+      "needs_heart": "Zapisanie rozdania jest darmowe. Etykiety i notatka wymagają Kier.",
+      "labels": "Etykiety",
+      "label_placeholder": "Lebensohl, zapytać Annę, misfit…",
+      "note": "Notatka",
+      "note_placeholder": "Dlaczego spasowałem?",
+      "save": "Zapisz",
+      "update": "Zapisz zmiany",
+      "remove": "Usuń z biblioteki"
+    }
   }
 }

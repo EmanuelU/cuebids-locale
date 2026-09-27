@@ -3627,5 +3627,20 @@
       "youtube": "YouTube-kanal",
       "facebook": "Facebooksida"
     }
+  },
+  "library": {
+    "save": {
+      "title": "Spara den här brickan",
+      "title_saved": "Sparad i ditt bibliotek",
+      "explain": "Bara din. Flaggan säger till partnern att titta på en bricka; det här behåller den åt dig, med dina egna ord på.",
+      "needs_heart": "Att spara en bricka är gratis. Etiketter och anteckning kräver Hjärter.",
+      "labels": "Etiketter",
+      "label_placeholder": "Lebensohl, fråga Anna, misfit…",
+      "note": "Anteckning",
+      "note_placeholder": "Varför passade jag?",
+      "save": "Spara",
+      "update": "Spara ändringar",
+      "remove": "Ta bort ur biblioteket"
+    }
   }
 }
