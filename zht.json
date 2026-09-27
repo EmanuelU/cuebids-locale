@@ -3575,5 +3575,20 @@
       "youtube": "YouTube 頻道",
       "facebook": "Facebook 專頁"
     }
+  },
+  "library": {
+    "save": {
+      "title": "儲存這副牌",
+      "title_saved": "已存入你的收藏",
+      "explain": "只屬於你。旗標是讓搭檔來看這副牌；這裡是把它留給自己，寫上你自己的話。",
+      "needs_heart": "儲存牌局是免費的。標籤和備註需要紅心會員。",
+      "labels": "標籤",
+      "label_placeholder": "Lebensohl、問問安娜、配合不佳…",
+      "note": "備註",
+      "note_placeholder": "我當時為什麼不叫？",
+      "save": "儲存",
+      "update": "儲存修改",
+      "remove": "從收藏中移除"
+    }
   }
 }

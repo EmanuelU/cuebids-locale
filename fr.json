@@ -3568,5 +3568,20 @@
       "youtube": "Chaîne YouTube",
       "facebook": "Page Facebook"
     }
+  },
+  "library": {
+    "save": {
+      "title": "Enregistrer cette donne",
+      "title_saved": "Enregistrée dans votre bibliothèque",
+      "explain": "À vous seul. Le drapeau dit à votre partenaire de regarder une donne ; ceci la garde pour vous, avec vos propres mots.",
+      "needs_heart": "Enregistrer une donne est gratuit. Les étiquettes et la note demandent Cœur.",
+      "labels": "Étiquettes",
+      "label_placeholder": "Lebensohl, demander à Anna, misfit…",
+      "note": "Note",
+      "note_placeholder": "Pourquoi ai-je passé ?",
+      "save": "Enregistrer",
+      "update": "Enregistrer les modifications",
+      "remove": "Retirer de la bibliothèque"
+    }
   }
 }
