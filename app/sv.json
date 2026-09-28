@@ -347,5 +347,18 @@
     "managed_google": "Debiteras via Google Play. Byt plan eller säg upp när du vill – den gäller till datumet ovan.",
     "trial_ends": "Provperioden slutar",
     "wont_renew": "Den förnyas inte. Du behåller {{plan}} till {{date}}."
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "Prova en giv",
+        "subtitle": "Bjud den här given med Lia hela vägen. Känns korten eller resten för små eller för stora? Ändra här och se given följa med.",
+        "contract": "Kontrakt: {{contract}}",
+        "passed_out": "Alla passade",
+        "result_text": "I en session slutar varje giv så här: stjärnor för ditt kontrakt, och vad andra bjöd med samma kort.",
+        "again": "Spela igen",
+        "table_bidding": "Bordet bjuder…"
+      }
+    }
   }
 }

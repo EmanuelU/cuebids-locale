@@ -347,5 +347,18 @@
     "managed_google": "Facturé via Google Play. Changez de formule ou résiliez quand vous voulez — il reste actif jusqu’à la date ci-dessus.",
     "trial_ends": "L’essai se termine le",
     "wont_renew": "Il ne sera pas renouvelé. Vous gardez {{plan}} jusqu’au {{date}}."
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "Essayez une donne",
+        "subtitle": "Enchérissez cette donne avec Lia jusqu’au bout. Si les cartes ou le reste vous semblent trop petits ou trop grands, changez-les ici et regardez la donne suivre.",
+        "contract": "Contrat : {{contract}}",
+        "passed_out": "Donne passée",
+        "result_text": "En session, chaque donne se termine ainsi : des étoiles pour votre contrat, et ce que d’autres ont annoncé avec les mêmes cartes.",
+        "again": "Rejouer",
+        "table_bidding": "La table enchérit…"
+      }
+    }
   }
 }

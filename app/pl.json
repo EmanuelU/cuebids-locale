@@ -347,5 +347,18 @@
     "managed_google": "Rozliczane przez Google Play. Zmień plan lub anuluj, kiedy zechcesz — pozostaje aktywna do daty powyżej.",
     "trial_ends": "Okres próbny kończy się",
     "wont_renew": "Nie odnowi się. Zachowujesz {{plan}} do {{date}}."
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "Wypróbuj rozdanie",
+        "subtitle": "Zalicytuj to rozdanie z Lią do końca. Jeśli karty lub reszta wydają się za małe albo za duże, zmień je tutaj i zobacz, jak rozdanie się dopasowuje.",
+        "contract": "Kontrakt: {{contract}}",
+        "passed_out": "Wszyscy spasowali",
+        "result_text": "W sesji każde rozdanie kończy się tak: gwiazdki za twój kontrakt i to, co inni zalicytowali z tymi samymi kartami.",
+        "again": "Zagraj jeszcze raz",
+        "table_bidding": "Stół licytuje…"
+      }
+    }
   }
 }

@@ -347,5 +347,18 @@
     "managed_google": "Se cobra a través de Google Play. Cambia de plan o cancela cuando quieras: sigue activa hasta la fecha indicada arriba.",
     "trial_ends": "La prueba termina",
     "wont_renew": "No se renovará. Conservas {{plan}} hasta el {{date}}."
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "Prueba una mano",
+        "subtitle": "Subasta esta mano con Lia hasta el final. Si las cartas o el resto te parecen demasiado pequeños o grandes, cámbialos aquí y verás cómo cambia la mano.",
+        "contract": "Contrato: {{contract}}",
+        "passed_out": "Todos pasan",
+        "result_text": "En una sesión cada mano termina así: estrellas por tu contrato y lo que otros subastaron con las mismas cartas.",
+        "again": "Jugar otra vez",
+        "table_bidding": "La mesa está subastando…"
+      }
+    }
   }
 }

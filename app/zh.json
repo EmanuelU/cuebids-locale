@@ -352,5 +352,18 @@
     "managed_google": "通过 Google Play 计费。可随时更改方案或取消——在上述日期之前仍然有效。",
     "trial_ends": "试用到期",
     "wont_renew": "不会续订。你可以继续使用 {{plan}} 直到 {{date}}。"
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "试一副牌",
+        "subtitle": "和 Lia 一起把这副牌叫完。如果牌或界面太小或太大，就在这里调整，牌桌会随之变化。",
+        "contract": "定约：{{contract}}",
+        "passed_out": "四家都派斯",
+        "result_text": "在练习中，每副牌都这样结束：你的定约会得到星级，还能看到别人用同样的牌怎么叫。",
+        "again": "再来一次",
+        "table_bidding": "其他玩家正在叫牌…"
+      }
+    }
   }
 }
