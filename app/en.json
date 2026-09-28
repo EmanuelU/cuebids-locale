@@ -352,7 +352,7 @@
     "v2": {
       "practice": {
         "title": "Try a board",
-        "subtitle": "Bid a practice hand with Lia on the real board, and adjust the card and interface size there with the sizing button until it reads comfortably.",
+        "subtitle": "Bid a short practice hand to the end on a real board, and adjust how it looks with the button in the bottom left until it fits and reads comfortably.",
         "contract": "Contract: {{contract}}",
         "passed_out": "Passed out",
         "result_text": "In a session every board ends like this: stars for your contract, and what others bid with the same cards.",
@@ -361,7 +361,9 @@
         "start": "Try it now",
         "back_to_setup": "Back to setup",
         "share_note": "On a real board this shares it with a partner or a group.",
-        "compare_note": "On a real board this shows how everyone else bid the same cards."
+        "compare_note": "On a real board this shows how everyone else bid the same cards.",
+        "looks_good": "Looks good!",
+        "edit_hint": "You can change how boards look any time with the button in the bottom left."
       }
     }
   }

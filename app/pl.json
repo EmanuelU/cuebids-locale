@@ -352,7 +352,7 @@
     "v2": {
       "practice": {
         "title": "Wypróbuj rozdanie",
-        "subtitle": "Zalicytuj rozdanie treningowe z Lią na prawdziwym stole i dopasuj tam rozmiar kart i interfejsu przyciskiem rozmiaru, aż będzie się wygodnie czytać.",
+        "subtitle": "Zalicytuj krótkie rozdanie treningowe do końca na prawdziwym stole i dopasuj jego wygląd przyciskiem w lewym dolnym rogu, aż wszystko się zmieści i będzie się wygodnie czytać.",
         "contract": "Kontrakt: {{contract}}",
         "passed_out": "Wszyscy spasowali",
         "result_text": "W sesji każde rozdanie kończy się tak: gwiazdki za twój kontrakt i to, co inni zalicytowali z tymi samymi kartami.",
@@ -361,7 +361,9 @@
         "start": "Wypróbuj teraz",
         "back_to_setup": "Wróć do konfiguracji",
         "share_note": "Na prawdziwym rozdaniu to udostępnia je partnerowi lub grupie.",
-        "compare_note": "Na prawdziwym rozdaniu to pokazuje, jak wszyscy inni licytowali z tymi samymi kartami."
+        "compare_note": "Na prawdziwym rozdaniu to pokazuje, jak wszyscy inni licytowali z tymi samymi kartami.",
+        "looks_good": "Wygląda dobrze!",
+        "edit_hint": "Wygląd rozdań możesz zmienić w każdej chwili przyciskiem w lewym dolnym rogu."
       }
     }
   }

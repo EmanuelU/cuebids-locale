@@ -352,7 +352,7 @@
     "v2": {
       "practice": {
         "title": "Prueba una mano",
-        "subtitle": "Subasta una mano de práctica con Lia en el tablero real y ajusta allí el tamaño de las cartas y de la interfaz con el botón de tamaño hasta que se lea cómodamente.",
+        "subtitle": "Subasta una breve mano de práctica hasta el final en un tablero real y ajusta su aspecto con el botón de abajo a la izquierda hasta que quepa y se lea cómodamente.",
         "contract": "Contrato: {{contract}}",
         "passed_out": "Todos pasan",
         "result_text": "En una sesión cada mano termina así: estrellas por tu contrato y lo que otros subastaron con las mismas cartas.",
@@ -361,7 +361,9 @@
         "start": "Probar ahora",
         "back_to_setup": "Volver a la configuración",
         "share_note": "En una mano real, esto la comparte con un compañero o un grupo.",
-        "compare_note": "En una mano real, esto muestra cómo subastaron todos los demás con las mismas cartas."
+        "compare_note": "En una mano real, esto muestra cómo subastaron todos los demás con las mismas cartas.",
+        "looks_good": "¡Se ve bien!",
+        "edit_hint": "Puedes cambiar el aspecto de los tableros cuando quieras con el botón de abajo a la izquierda."
       }
     }
   }
