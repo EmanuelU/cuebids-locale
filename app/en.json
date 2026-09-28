@@ -372,7 +372,6 @@
     "title_named": "Welcome to the new app, {{name}}",
     "title": "Welcome to the new app",
     "body": "Cuebids is now built for your phone. Your account, partners and settings came with you - but boards look a little different here, so it is worth a minute to make them right for this screen.",
-    "try_board": "Try a board",
-    "later": "Everything below is here any time, under Settings."
+    "skip": "Not now"
   }
 }

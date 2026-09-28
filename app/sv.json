@@ -372,7 +372,6 @@
     "title_named": "Välkommen till nya appen, {{name}}",
     "title": "Välkommen till nya appen",
     "body": "Cuebids är nu byggt för din telefon. Ditt konto, dina partners och inställningar följde med – men brickorna ser lite annorlunda ut här, så det är värt en minut att få dem rätt för den här skärmen.",
-    "try_board": "Prova en giv",
-    "later": "Allt nedan finns alltid kvar under Inställningar."
+    "skip": "Inte nu"
   }
 }

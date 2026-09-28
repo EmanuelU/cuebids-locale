@@ -372,7 +372,6 @@
     "title_named": "Witaj w nowej aplikacji, {{name}}",
     "title": "Witaj w nowej aplikacji",
     "body": "Cuebids jest teraz stworzony z myślą o telefonie. Twoje konto, partnerzy i ustawienia są z tobą – ale rozdania wyglądają tu trochę inaczej, więc warto poświęcić minutę, by dopasować je do tego ekranu.",
-    "try_board": "Wypróbuj rozdanie",
-    "later": "Wszystko poniżej jest zawsze dostępne w Ustawieniach."
+    "skip": "Nie teraz"
   }
 }

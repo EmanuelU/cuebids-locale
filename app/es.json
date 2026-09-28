@@ -372,7 +372,6 @@
     "title_named": "Bienvenido a la nueva app, {{name}}",
     "title": "Bienvenido a la nueva app",
     "body": "Cuebids ahora está hecho para tu teléfono. Tu cuenta, compañeros y ajustes vinieron contigo, pero aquí las manos se ven un poco distintas, así que vale la pena un minuto para ajustarlas a esta pantalla.",
-    "try_board": "Prueba una mano",
-    "later": "Todo lo de abajo está siempre disponible en Ajustes."
+    "skip": "Ahora no"
   }
 }

@@ -372,7 +372,6 @@
     "title_named": "Bienvenue dans la nouvelle app, {{name}}",
     "title": "Bienvenue dans la nouvelle app",
     "body": "Cuebids est désormais conçu pour votre téléphone. Votre compte, vos partenaires et vos réglages vous ont suivi – mais les donnes s’affichent un peu différemment ici, alors prenez une minute pour les ajuster à cet écran.",
-    "try_board": "Essayez une donne",
-    "later": "Tout ce qui suit reste disponible à tout moment dans Réglages."
+    "skip": "Pas maintenant"
   }
 }
