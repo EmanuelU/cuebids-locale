@@ -386,6 +386,8 @@
     "leave_setup_title": "Avsluta introduktionen först?",
     "leave_setup_body": "Du har inte spelat klart din introduktionssession än. Startar du en annan session avslutas introduktionen.",
     "leave_setup_confirm": "Starta ändå",
-    "create_settings_locked": "Din första session är förinställd: tre givar, slumpade händer, inga robotar som tävlar. Nästa gång väljer du själv."
+    "create_settings_locked": "Din första session är förinställd: tre givar, slumpade händer, inga robotar som tävlar. Nästa gång väljer du själv.",
+    "create_partner_guided": "Lia är din partner. Välj vilket budsystem hon spelar; ditt eget kan du bygga senare.",
+    "tap_next": "Tryck för att fortsätta"
   }
 }

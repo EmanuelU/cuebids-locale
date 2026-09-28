@@ -386,6 +386,8 @@
     "leave_setup_title": "¿Terminar la configuración primero?",
     "leave_setup_body": "Aún no has terminado tu sesión de configuración. Empezar otra sesión termina la configuración.",
     "leave_setup_confirm": "Empezar igualmente",
-    "create_settings_locked": "Tu primera sesión ya está preparada: tres manos, cartas al azar y sin robots rivales. La próxima vez eliges tú."
+    "create_settings_locked": "Tu primera sesión ya está preparada: tres manos, cartas al azar y sin robots rivales. La próxima vez eliges tú.",
+    "create_partner_guided": "Lia es tu compañera. Elige el sistema de subasta que juega; puedes crear el tuyo más adelante.",
+    "tap_next": "Toca para continuar"
   }
 }

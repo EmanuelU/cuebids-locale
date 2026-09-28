@@ -249,6 +249,8 @@
     "leave_setup_title": "先完成設定？",
     "leave_setup_body": "你還沒有完成設定牌局。開始另一個牌局將結束設定。",
     "leave_setup_confirm": "仍然開始",
-    "create_settings_locked": "你的第一個牌局已為你設定好：三副牌，隨機牌型，無對抗機器人。下次由你自己選擇。"
+    "create_settings_locked": "你的第一個牌局已為你設定好：三副牌，隨機牌型，無對抗機器人。下次由你自己選擇。",
+    "create_partner_guided": "Lia 是你的搭檔。選擇她使用的叫牌體系；你可以稍後建立自己的體系。",
+    "tap_next": "點擊繼續"
   }
 }

@@ -386,6 +386,8 @@
     "leave_setup_title": "Terminer la configuration d'abord ?",
     "leave_setup_body": "Vous n'avez pas terminé votre session de configuration. Démarrer une autre session met fin à la configuration.",
     "leave_setup_confirm": "Démarrer quand même",
-    "create_settings_locked": "Votre première session est préréglée : trois donnes, mains aléatoires, aucun robot adverse. La prochaine fois, vous choisirez vous-même."
+    "create_settings_locked": "Votre première session est préréglée : trois donnes, mains aléatoires, aucun robot adverse. La prochaine fois, vous choisirez vous-même.",
+    "create_partner_guided": "Lia est votre partenaire. Choisissez le système d'enchères qu'elle joue ; vous pourrez créer le vôtre plus tard.",
+    "tap_next": "Touchez pour continuer"
   }
 }

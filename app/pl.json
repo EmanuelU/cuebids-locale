@@ -386,6 +386,8 @@
     "leave_setup_title": "Najpierw dokończyć konfigurację?",
     "leave_setup_body": "Nie ukończyłeś jeszcze sesji konfiguracyjnej. Rozpoczęcie innej sesji zakończy konfigurację.",
     "leave_setup_confirm": "Rozpocznij mimo to",
-    "create_settings_locked": "Twoja pierwsza sesja jest już ustawiona: trzy rozdania, losowe ręce, bez rywalizujących robotów. Następnym razem wybierzesz sam."
+    "create_settings_locked": "Twoja pierwsza sesja jest już ustawiona: trzy rozdania, losowe ręce, bez rywalizujących robotów. Następnym razem wybierzesz sam.",
+    "create_partner_guided": "Lia jest Twoim partnerem. Wybierz system licytacyjny, którym gra; własny możesz zbudować później.",
+    "tap_next": "Stuknij, aby kontynuować"
   }
 }
