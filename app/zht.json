@@ -251,6 +251,8 @@
     "leave_setup_confirm": "仍然開始",
     "create_settings_locked": "你的第一個牌局已為你設定好：三副牌，隨機牌型，無對抗機器人。下次由你自己選擇。",
     "create_partner_guided": "Lia 是你的搭檔。選擇她使用的叫牌體系；你可以稍後建立自己的體系。",
-    "tap_next": "點擊繼續"
+    "tap_next": "點擊繼續",
+    "lia_waits": "接下來輪到你的搭檔叫牌。Lia 會立即回應；和好友打時，你可以在這裡等待，或在對方思考時跳到另一副牌。",
+    "tap_send_bid": "點擊送出你的叫品"
   }
 }

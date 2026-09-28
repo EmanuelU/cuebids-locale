@@ -388,6 +388,8 @@
     "leave_setup_confirm": "Démarrer quand même",
     "create_settings_locked": "Votre première session est préréglée : trois donnes, mains aléatoires, aucun robot adverse. La prochaine fois, vous choisirez vous-même.",
     "create_partner_guided": "Lia est votre partenaire. Choisissez le système d'enchères qu'elle joue ; vous pourrez créer le vôtre plus tard.",
-    "tap_next": "Touchez pour continuer"
+    "tap_next": "Touchez pour continuer",
+    "lia_waits": "Votre partenaire enchérit ensuite. Lia répond aussitôt ; avec un ami, vous pouvez attendre ici ou passer à une autre donne pendant qu’il réfléchit.",
+    "tap_send_bid": "Touchez pour envoyer votre enchère"
   }
 }

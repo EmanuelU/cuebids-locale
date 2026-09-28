@@ -388,6 +388,8 @@
     "leave_setup_confirm": "Start anyway",
     "create_settings_locked": "Your first session is set up for you: three boards, random hands, no competing robots. Next time you choose these yourself.",
     "create_partner_guided": "Lia is your partner. Pick the bidding system she plays; you can build your own later.",
-    "tap_next": "Tap to continue"
+    "tap_next": "Tap to continue",
+    "lia_waits": "Your partner bids next. With Lia that is instant; with a friend you can wait here, or jump to another board while they think.",
+    "tap_send_bid": "Tap to send your bid"
   }
 }
