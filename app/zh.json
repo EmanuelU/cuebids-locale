@@ -357,12 +357,14 @@
     "v2": {
       "practice": {
         "title": "试一副牌",
-        "subtitle": "和 Lia 一起把这副牌叫完。如果牌或界面太小或太大，就在这里调整，牌桌会随之变化。",
+        "subtitle": "在真实牌桌上和 Lia 叫一副练习牌，并用尺寸按钮调整牌和界面的大小，直到看着舒服为止。",
         "contract": "定约：{{contract}}",
         "passed_out": "四家都派斯",
         "result_text": "在练习中，每副牌都这样结束：你的定约会得到星级，还能看到别人用同样的牌怎么叫。",
         "again": "再来一次",
-        "table_bidding": "其他玩家正在叫牌…"
+        "table_bidding": "其他玩家正在叫牌…",
+        "start": "立即试试",
+        "back_to_setup": "返回设置"
       }
     }
   }

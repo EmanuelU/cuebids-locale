@@ -352,12 +352,14 @@
     "v2": {
       "practice": {
         "title": "Prova en giv",
-        "subtitle": "Bjud den här given med Lia hela vägen. Känns korten eller resten för små eller för stora? Ändra här och se given följa med.",
+        "subtitle": "Bjud en övningsgiv med Lia på den riktiga brickan, och justera kort- och gränssnittsstorleken där med storleksknappen tills det är bekvämt att läsa.",
         "contract": "Kontrakt: {{contract}}",
         "passed_out": "Alla passade",
         "result_text": "I en session slutar varje giv så här: stjärnor för ditt kontrakt, och vad andra bjöd med samma kort.",
         "again": "Spela igen",
-        "table_bidding": "Bordet bjuder…"
+        "table_bidding": "Bordet bjuder…",
+        "start": "Prova nu",
+        "back_to_setup": "Tillbaka till inställningen"
       }
     }
   }

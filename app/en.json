@@ -352,12 +352,14 @@
     "v2": {
       "practice": {
         "title": "Try a board",
-        "subtitle": "Bid this hand with Lia to the end. If the cards or the rest feel too small or too big, change them here and watch the board follow.",
+        "subtitle": "Bid a practice hand with Lia on the real board, and adjust the card and interface size there with the sizing button until it reads comfortably.",
         "contract": "Contract: {{contract}}",
         "passed_out": "Passed out",
         "result_text": "In a session every board ends like this: stars for your contract, and what others bid with the same cards.",
         "again": "Play it again",
-        "table_bidding": "The table is bidding…"
+        "table_bidding": "The table is bidding…",
+        "start": "Try it now",
+        "back_to_setup": "Back to setup"
       }
     }
   }

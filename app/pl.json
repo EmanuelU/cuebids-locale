@@ -352,12 +352,14 @@
     "v2": {
       "practice": {
         "title": "Wypróbuj rozdanie",
-        "subtitle": "Zalicytuj to rozdanie z Lią do końca. Jeśli karty lub reszta wydają się za małe albo za duże, zmień je tutaj i zobacz, jak rozdanie się dopasowuje.",
+        "subtitle": "Zalicytuj rozdanie treningowe z Lią na prawdziwym stole i dopasuj tam rozmiar kart i interfejsu przyciskiem rozmiaru, aż będzie się wygodnie czytać.",
         "contract": "Kontrakt: {{contract}}",
         "passed_out": "Wszyscy spasowali",
         "result_text": "W sesji każde rozdanie kończy się tak: gwiazdki za twój kontrakt i to, co inni zalicytowali z tymi samymi kartami.",
         "again": "Zagraj jeszcze raz",
-        "table_bidding": "Stół licytuje…"
+        "table_bidding": "Stół licytuje…",
+        "start": "Wypróbuj teraz",
+        "back_to_setup": "Wróć do konfiguracji"
       }
     }
   }

@@ -352,12 +352,14 @@
     "v2": {
       "practice": {
         "title": "Essayez une donne",
-        "subtitle": "Enchérissez cette donne avec Lia jusqu’au bout. Si les cartes ou le reste vous semblent trop petits ou trop grands, changez-les ici et regardez la donne suivre.",
+        "subtitle": "Enchérissez une donne d’entraînement avec Lia sur le vrai plateau, et ajustez-y la taille des cartes et de l’interface avec le bouton de taille jusqu’à ce que la lecture soit confortable.",
         "contract": "Contrat : {{contract}}",
         "passed_out": "Donne passée",
         "result_text": "En session, chaque donne se termine ainsi : des étoiles pour votre contrat, et ce que d’autres ont annoncé avec les mêmes cartes.",
         "again": "Rejouer",
-        "table_bidding": "La table enchérit…"
+        "table_bidding": "La table enchérit…",
+        "start": "Essayer maintenant",
+        "back_to_setup": "Retour à la configuration"
       }
     }
   }
