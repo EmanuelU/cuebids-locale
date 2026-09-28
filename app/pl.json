@@ -360,7 +360,8 @@
         "table_bidding": "Stół licytuje…",
         "start": "Wypróbuj teraz",
         "back_to_setup": "Wróć do konfiguracji",
-        "share_note": "Na prawdziwym rozdaniu to udostępnia je partnerowi lub grupie."
+        "share_note": "Na prawdziwym rozdaniu to udostępnia je partnerowi lub grupie.",
+        "compare_note": "Na prawdziwym rozdaniu to pokazuje, jak wszyscy inni licytowali z tymi samymi kartami."
       }
     }
   }

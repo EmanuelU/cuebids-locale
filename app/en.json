@@ -360,7 +360,8 @@
         "table_bidding": "The table is bidding…",
         "start": "Try it now",
         "back_to_setup": "Back to setup",
-        "share_note": "On a real board this shares it with a partner or a group."
+        "share_note": "On a real board this shares it with a partner or a group.",
+        "compare_note": "On a real board this shows how everyone else bid the same cards."
       }
     }
   }

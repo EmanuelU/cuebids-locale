@@ -360,7 +360,8 @@
         "table_bidding": "La table enchérit…",
         "start": "Essayer maintenant",
         "back_to_setup": "Retour à la configuration",
-        "share_note": "Sur une vraie donne, ceci la partage avec un partenaire ou un groupe."
+        "share_note": "Sur une vraie donne, ceci la partage avec un partenaire ou un groupe.",
+        "compare_note": "Sur une vraie donne, ceci montre comment tous les autres ont enchéri avec les mêmes cartes."
       }
     }
   }

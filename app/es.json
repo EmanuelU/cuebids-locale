@@ -360,7 +360,8 @@
         "table_bidding": "La mesa está subastando…",
         "start": "Probar ahora",
         "back_to_setup": "Volver a la configuración",
-        "share_note": "En una mano real, esto la comparte con un compañero o un grupo."
+        "share_note": "En una mano real, esto la comparte con un compañero o un grupo.",
+        "compare_note": "En una mano real, esto muestra cómo subastaron todos los demás con las mismas cartas."
       }
     }
   }

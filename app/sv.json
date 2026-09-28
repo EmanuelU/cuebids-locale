@@ -360,7 +360,8 @@
         "table_bidding": "Bordet bjuder…",
         "start": "Prova nu",
         "back_to_setup": "Tillbaka till inställningen",
-        "share_note": "På en riktig bricka delar du den här med en partner eller en grupp."
+        "share_note": "På en riktig bricka delar du den här med en partner eller en grupp.",
+        "compare_note": "På en riktig bricka visar den här hur alla andra bjöd med samma kort."
       }
     }
   }
