@@ -378,5 +378,8 @@
     "friend_free": "Jouer avec un ami ne nécessite aucun abonnement.",
     "add_friend": "Ajouter un ami",
     "or_pick_friend": "Ou choisissez un ami ci-dessus : jouer avec un ami ne nécessite aucun abonnement."
+  },
+  "coach": {
+    "learn_more": "En savoir plus"
   }
 }

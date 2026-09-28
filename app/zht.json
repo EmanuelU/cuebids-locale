@@ -241,5 +241,8 @@
     "friend_free": "和好友一起玩無需訂閱。",
     "add_friend": "新增好友",
     "or_pick_friend": "或在上方選擇一位好友：和好友一起玩無需訂閱。"
+  },
+  "coach": {
+    "learn_more": "了解更多"
   }
 }

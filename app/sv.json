@@ -378,5 +378,8 @@
     "friend_free": "Att spela med en vän kräver ingen prenumeration.",
     "add_friend": "Lägg till en vän",
     "or_pick_friend": "Eller välj en vän ovan: att spela med en vän kräver ingen prenumeration."
+  },
+  "coach": {
+    "learn_more": "Läs mer"
   }
 }

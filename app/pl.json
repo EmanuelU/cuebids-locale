@@ -378,5 +378,8 @@
     "friend_free": "Gra ze znajomym nie wymaga subskrypcji.",
     "add_friend": "Dodaj znajomego",
     "or_pick_friend": "Albo wybierz znajomego powyżej: gra ze znajomym nie wymaga subskrypcji."
+  },
+  "coach": {
+    "learn_more": "Dowiedz się więcej"
   }
 }

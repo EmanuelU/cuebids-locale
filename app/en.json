@@ -378,5 +378,8 @@
     "friend_free": "Playing with a friend needs no subscription.",
     "add_friend": "Add a friend",
     "or_pick_friend": "Or pick a friend above: playing with a friend needs no subscription."
+  },
+  "coach": {
+    "learn_more": "Learn more"
   }
 }
