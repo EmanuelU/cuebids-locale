@@ -417,7 +417,10 @@
     "50 Tickets": "50 biletów",
     "250 Tickets": "250 biletów",
     "1500 Tickets": "1500 biletów",
-    "tab_gift": "Prezent"
+    "tab_gift": "Prezent",
+    "source_gift": "Prezent",
+    "plan_renews_on": "Odnawia się {{date}}",
+    "plan_ends_on": "Ważny do {{date}}"
   },
   "go_to_store": {
     "no_iap_error": "Sklep jest obecnie niedostępny w aplikacji mobilnej. Proszę odwiedzić naszą stronę internetową, aby uzyskać subskrypcję Cuebids."
