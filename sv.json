@@ -417,7 +417,10 @@
     "50 Tickets": "50 Biljetter",
     "250 Tickets": "250 Biljetter",
     "1500 Tickets": "1500 Biljetter",
-    "tab_gift": "Gåva"
+    "tab_gift": "Gåva",
+    "source_gift": "Gåva",
+    "plan_renews_on": "Förnyas {{date}}",
+    "plan_ends_on": "Gäller till {{date}}"
   },
   "go_to_store": {
     "no_iap_error": "Butiken finns för närvarande inte i mobilappen. Vänligen besök vår hemsida för att prenumerera på Cuebids."

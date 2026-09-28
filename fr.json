@@ -417,7 +417,10 @@
     "50 Tickets": "50 Tickets",
     "250 Tickets": "250 Tickets",
     "1500 Tickets": "1500 Tickets",
-    "tab_gift": "Cadeau"
+    "tab_gift": "Cadeau",
+    "source_gift": "Cadeau",
+    "plan_renews_on": "Renouvellement le {{date}}",
+    "plan_ends_on": "Valable jusqu’au {{date}}"
   },
   "go_to_store": {
     "no_iap_error": "La boutique est actuellement indisponible dans l’application mobile. Merci d’utiliser notre site web pour vous abonner à Cuebids."

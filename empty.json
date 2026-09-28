@@ -283,7 +283,10 @@
     "50 Tickets": "",
     "250 Tickets": "",
     "1500 Tickets": "",
-    "tab_gift": ""
+    "tab_gift": "",
+    "source_gift": "",
+    "plan_renews_on": "",
+    "plan_ends_on": ""
   },
   "go_to_store": {
     "no_iap_error": ""
