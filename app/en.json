@@ -359,7 +359,8 @@
         "again": "Play it again",
         "table_bidding": "The table is bidding…",
         "start": "Try it now",
-        "back_to_setup": "Back to setup"
+        "back_to_setup": "Back to setup",
+        "share_note": "On a real board this shares it with a partner or a group."
       }
     }
   }

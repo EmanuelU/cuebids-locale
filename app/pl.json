@@ -359,7 +359,8 @@
         "again": "Zagraj jeszcze raz",
         "table_bidding": "Stół licytuje…",
         "start": "Wypróbuj teraz",
-        "back_to_setup": "Wróć do konfiguracji"
+        "back_to_setup": "Wróć do konfiguracji",
+        "share_note": "Na prawdziwym rozdaniu to udostępnia je partnerowi lub grupie."
       }
     }
   }

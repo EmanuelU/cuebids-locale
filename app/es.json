@@ -359,7 +359,8 @@
         "again": "Jugar otra vez",
         "table_bidding": "La mesa está subastando…",
         "start": "Probar ahora",
-        "back_to_setup": "Volver a la configuración"
+        "back_to_setup": "Volver a la configuración",
+        "share_note": "En una mano real, esto la comparte con un compañero o un grupo."
       }
     }
   }
