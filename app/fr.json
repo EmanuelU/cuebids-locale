@@ -380,6 +380,12 @@
     "or_pick_friend": "Ou choisissez un ami ci-dessus : jouer avec un ami ne nécessite aucun abonnement."
   },
   "coach": {
-    "learn_more": "En savoir plus"
+    "learn_more": "En savoir plus",
+    "tap_practice": "Touchez Entraînement pour créer votre première session.",
+    "choose_robot": "Choisissez Avec un robot : Lia sera votre partenaire.",
+    "leave_setup_title": "Terminer la configuration d'abord ?",
+    "leave_setup_body": "Vous n'avez pas terminé votre session de configuration. Démarrer une autre session met fin à la configuration.",
+    "leave_setup_confirm": "Démarrer quand même",
+    "create_settings_locked": "Votre première session est préréglée : trois donnes, mains aléatoires, aucun robot adverse. La prochaine fois, vous choisirez vous-même."
   }
 }

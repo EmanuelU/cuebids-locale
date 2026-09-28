@@ -380,6 +380,12 @@
     "or_pick_friend": "Or pick a friend above: playing with a friend needs no subscription."
   },
   "coach": {
-    "learn_more": "Learn more"
+    "learn_more": "Learn more",
+    "tap_practice": "Tap Practice to set up your first session.",
+    "choose_robot": "Choose With robot: Lia will be your partner.",
+    "leave_setup_title": "Finish setup first?",
+    "leave_setup_body": "You haven't finished your setup session yet. Starting another session ends setup.",
+    "leave_setup_confirm": "Start anyway",
+    "create_settings_locked": "Your first session is set up for you: three boards, random hands, no competing robots. Next time you choose these yourself."
   }
 }

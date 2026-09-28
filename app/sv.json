@@ -380,6 +380,12 @@
     "or_pick_friend": "Eller välj en vän ovan: att spela med en vän kräver ingen prenumeration."
   },
   "coach": {
-    "learn_more": "Läs mer"
+    "learn_more": "Läs mer",
+    "tap_practice": "Tryck på Träna för att skapa din första session.",
+    "choose_robot": "Välj Med robot: Lia blir din partner.",
+    "leave_setup_title": "Avsluta introduktionen först?",
+    "leave_setup_body": "Du har inte spelat klart din introduktionssession än. Startar du en annan session avslutas introduktionen.",
+    "leave_setup_confirm": "Starta ändå",
+    "create_settings_locked": "Din första session är förinställd: tre givar, slumpade händer, inga robotar som tävlar. Nästa gång väljer du själv."
   }
 }

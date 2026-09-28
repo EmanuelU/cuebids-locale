@@ -243,6 +243,12 @@
     "or_pick_friend": "或在上方選擇一位好友：和好友一起玩無需訂閱。"
   },
   "coach": {
-    "learn_more": "了解更多"
+    "learn_more": "了解更多",
+    "tap_practice": "點擊「練習」來建立你的第一個牌局。",
+    "choose_robot": "選擇「與機器人」：Lia 將是你的搭檔。",
+    "leave_setup_title": "先完成設定？",
+    "leave_setup_body": "你還沒有完成設定牌局。開始另一個牌局將結束設定。",
+    "leave_setup_confirm": "仍然開始",
+    "create_settings_locked": "你的第一個牌局已為你設定好：三副牌，隨機牌型，無對抗機器人。下次由你自己選擇。"
   }
 }
