@@ -254,5 +254,16 @@
     "tap_next": "點擊繼續",
     "lia_waits": "接下來輪到你的搭檔叫牌。Lia 會立即回應；和好友打時，你可以在這裡等待，或在對方思考時跳到另一副牌。",
     "tap_send_bid": "點擊送出你的叫品"
+  },
+  "setup_complete": {
+    "title": "設定完成",
+    "title_named": "打得好，{{name}}！",
+    "body": "你已經和 Lia 完成了第一個叫牌牌局。之後隨時都可以練習——這些是不錯的下一步。",
+    "stars_other": "第一個牌局獲得 {{count}} 顆星",
+    "next_lia": "和 Lia 再來一局",
+    "next_friend": "新增一起叫牌的好友",
+    "next_event": "試試今天的每日賽事",
+    "next_guides": "閱讀指南",
+    "explore": "探索 Cuebids"
   }
 }

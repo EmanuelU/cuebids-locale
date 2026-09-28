@@ -391,5 +391,19 @@
     "tap_next": "Stuknij, aby kontynuować",
     "lia_waits": "Teraz licytuje Twój partner. Lia odpowiada od razu; ze znajomym możesz poczekać tutaj albo przejść do innego rozdania, gdy się zastanawia.",
     "tap_send_bid": "Stuknij, aby wysłać odzywkę"
+  },
+  "setup_complete": {
+    "title": "Konfiguracja zakończona",
+    "title_named": "Dobrze zagrane, {{name}}!",
+    "body": "Twoja pierwsza sesja licytacji z Lią za Tobą. Od teraz trenuj, kiedy chcesz - oto dobre kolejne kroki.",
+    "stars_one": "{{count}} gwiazdka w pierwszej sesji",
+    "stars_few": "{{count}} gwiazdki w pierwszej sesji",
+    "stars_many": "{{count}} gwiazdek w pierwszej sesji",
+    "stars_other": "{{count}} gwiazdek w pierwszej sesji",
+    "next_lia": "Kolejna sesja z Lią",
+    "next_friend": "Dodaj znajomego do licytacji",
+    "next_event": "Spróbuj dzisiejszego turnieju",
+    "next_guides": "Przeczytaj poradniki",
+    "explore": "Poznaj Cuebids"
   }
 }

@@ -391,5 +391,17 @@
     "tap_next": "Touchez pour continuer",
     "lia_waits": "Votre partenaire enchérit ensuite. Lia répond aussitôt ; avec un ami, vous pouvez attendre ici ou passer à une autre donne pendant qu’il réfléchit.",
     "tap_send_bid": "Touchez pour envoyer votre enchère"
+  },
+  "setup_complete": {
+    "title": "Configuration terminée",
+    "title_named": "Bien joué, {{name}} !",
+    "body": "Vous avez enchéri votre première session avec Lia. Désormais, entraînez-vous quand vous voulez - voici de bonnes prochaines étapes.",
+    "stars_one": "{{count}} étoile lors de votre première session",
+    "stars_other": "{{count}} étoiles lors de votre première session",
+    "next_lia": "Une autre session avec Lia",
+    "next_friend": "Ajouter un ami avec qui enchérir",
+    "next_event": "Essayer l’événement du jour",
+    "next_guides": "Lire les guides",
+    "explore": "Explorer Cuebids"
   }
 }

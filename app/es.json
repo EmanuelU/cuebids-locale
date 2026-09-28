@@ -391,5 +391,17 @@
     "tap_next": "Toca para continuar",
     "lia_waits": "Ahora declara tu compañero. Lia responde al instante; con un amigo puedes esperar aquí o pasar a otra mano mientras piensa.",
     "tap_send_bid": "Toca para enviar tu voz"
+  },
+  "setup_complete": {
+    "title": "Configuración completada",
+    "title_named": "¡Bien jugado, {{name}}!",
+    "body": "Has subastado tu primera sesión con Lia. A partir de ahora, practica cuando quieras: estos son buenos próximos pasos.",
+    "stars_one": "{{count}} estrella en tu primera sesión",
+    "stars_other": "{{count}} estrellas en tu primera sesión",
+    "next_lia": "Otra sesión con Lia",
+    "next_friend": "Añade un amigo con quien subastar",
+    "next_event": "Prueba el evento diario",
+    "next_guides": "Lee las guías",
+    "explore": "Explorar Cuebids"
   }
 }

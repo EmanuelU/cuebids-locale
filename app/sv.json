@@ -391,5 +391,17 @@
     "tap_next": "Tryck för att fortsätta",
     "lia_waits": "Din partner budar härnäst. Lia svarar direkt; med en vän kan du vänta här eller hoppa till en annan giv medan de tänker.",
     "tap_send_bid": "Tryck för att skicka ditt bud"
+  },
+  "setup_complete": {
+    "title": "Klart!",
+    "title_named": "Bra spelat, {{name}}!",
+    "body": "Du har budat din första session med Lia. Härifrån tränar du när du vill - här är några bra nästa steg.",
+    "stars_one": "{{count}} stjärna i din första session",
+    "stars_other": "{{count}} stjärnor i din första session",
+    "next_lia": "En session till med Lia",
+    "next_friend": "Lägg till en vän att buda med",
+    "next_event": "Prova dagens tävling",
+    "next_guides": "Läs guiderna",
+    "explore": "Utforska Cuebids"
   }
 }

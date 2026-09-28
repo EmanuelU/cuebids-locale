@@ -391,5 +391,17 @@
     "tap_next": "Tap to continue",
     "lia_waits": "Your partner bids next. With Lia that is instant; with a friend you can wait here, or jump to another board while they think.",
     "tap_send_bid": "Tap to send your bid"
+  },
+  "setup_complete": {
+    "title": "Setup complete",
+    "title_named": "Well played, {{name}}!",
+    "body": "You've bid your first session with Lia. From here, practise whenever you like - these are good next steps.",
+    "stars_one": "{{count}} star in your first session",
+    "stars_other": "{{count}} stars in your first session",
+    "next_lia": "Another session with Lia",
+    "next_friend": "Add a friend to bid with",
+    "next_event": "Try today's daily event",
+    "next_guides": "Read the guides",
+    "explore": "Explore Cuebids"
   }
 }
