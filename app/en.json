@@ -363,7 +363,8 @@
         "share_note": "On a real board this shares it with a partner or a group.",
         "compare_note": "On a real board this shows how everyone else bid the same cards.",
         "looks_good": "Looks good!",
-        "edit_hint": "Change the look any time with the button bottom left."
+        "edit_hint": "Change the look any time with the button bottom left.",
+        "tip_open": "Tip: 15 points and a balanced hand - open 1NT."
       }
     }
   }

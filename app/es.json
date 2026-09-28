@@ -363,7 +363,8 @@
         "share_note": "En una mano real, esto la comparte con un compañero o un grupo.",
         "compare_note": "En una mano real, esto muestra cómo subastaron todos los demás con las mismas cartas.",
         "looks_good": "¡Se ve bien!",
-        "edit_hint": "Cambia el aspecto cuando quieras con el botón de abajo a la izquierda."
+        "edit_hint": "Cambia el aspecto cuando quieras con el botón de abajo a la izquierda.",
+        "tip_open": "Consejo: 15 puntos y una mano equilibrada: abre 1SA."
       }
     }
   }
