@@ -373,5 +373,10 @@
     "title": "Välkommen till nya appen",
     "body": "Cuebids är nu byggt för din telefon. Ditt konto, dina partners och inställningar följde med – men brickorna ser lite annorlunda ut här, så det är värt en minut att få dem rätt för den här skärmen.",
     "skip": "Inte nu"
+  },
+  "event_join": {
+    "friend_free": "Att spela med en vän kräver ingen prenumeration.",
+    "add_friend": "Lägg till en vän",
+    "or_pick_friend": "Eller välj en vän ovan: att spela med en vän kräver ingen prenumeration."
   }
 }

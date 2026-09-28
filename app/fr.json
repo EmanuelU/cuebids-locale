@@ -373,5 +373,10 @@
     "title": "Bienvenue dans la nouvelle app",
     "body": "Cuebids est désormais conçu pour votre téléphone. Votre compte, vos partenaires et vos réglages vous ont suivi – mais les donnes s’affichent un peu différemment ici, alors prenez une minute pour les ajuster à cet écran.",
     "skip": "Pas maintenant"
+  },
+  "event_join": {
+    "friend_free": "Jouer avec un ami ne nécessite aucun abonnement.",
+    "add_friend": "Ajouter un ami",
+    "or_pick_friend": "Ou choisissez un ami ci-dessus : jouer avec un ami ne nécessite aucun abonnement."
   }
 }

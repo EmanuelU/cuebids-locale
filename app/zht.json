@@ -236,5 +236,10 @@
     "Code not found.": "未找到代碼",
     "Code has expired.": "代碼已過期",
     "You can only claim a referral code once.": "每個推薦代碼只能領取一次。"
+  },
+  "event_join": {
+    "friend_free": "和好友一起玩無需訂閱。",
+    "add_friend": "新增好友",
+    "or_pick_friend": "或在上方選擇一位好友：和好友一起玩無需訂閱。"
   }
 }

@@ -373,5 +373,10 @@
     "title": "Witaj w nowej aplikacji",
     "body": "Cuebids jest teraz stworzony z myślą o telefonie. Twoje konto, partnerzy i ustawienia są z tobą – ale rozdania wyglądają tu trochę inaczej, więc warto poświęcić minutę, by dopasować je do tego ekranu.",
     "skip": "Nie teraz"
+  },
+  "event_join": {
+    "friend_free": "Gra ze znajomym nie wymaga subskrypcji.",
+    "add_friend": "Dodaj znajomego",
+    "or_pick_friend": "Albo wybierz znajomego powyżej: gra ze znajomym nie wymaga subskrypcji."
   }
 }

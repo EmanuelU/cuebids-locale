@@ -373,5 +373,10 @@
     "title": "Welcome to the new app",
     "body": "Cuebids is now built for your phone. Your account, partners and settings came with you - but boards look a little different here, so it is worth a minute to make them right for this screen.",
     "skip": "Not now"
+  },
+  "event_join": {
+    "friend_free": "Playing with a friend needs no subscription.",
+    "add_friend": "Add a friend",
+    "or_pick_friend": "Or pick a friend above: playing with a friend needs no subscription."
   }
 }
