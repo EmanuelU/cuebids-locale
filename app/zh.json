@@ -352,7 +352,8 @@
     "managed_apple": "通过你的 Apple ID 计费。可随时更改方案或取消——在上述日期之前仍然有效。",
     "managed_google": "通过 Google Play 计费。可随时更改方案或取消——在上述日期之前仍然有效。",
     "trial_ends": "试用到期",
-    "wont_renew": "不会续订。你可以继续使用 {{plan}} 直到 {{date}}。"
+    "wont_renew": "不会续订。你可以继续使用 {{plan}} 直到 {{date}}。",
+    "gift_info": "这是一份礼物。无需付款或管理——它会在上方日期结束，不会续订。"
   },
   "onboarding": {
     "v2": {
