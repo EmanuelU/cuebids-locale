@@ -347,7 +347,8 @@
     "managed_apple": "Billed through your Apple ID. Change plan or cancel whenever you like — it stays active until the date above.",
     "managed_google": "Billed through Google Play. Change plan or cancel whenever you like — it stays active until the date above.",
     "trial_ends": "Trial ends",
-    "wont_renew": "It won’t renew. You keep {{plan}} until {{date}}."
+    "wont_renew": "It won’t renew. You keep {{plan}} until {{date}}.",
+    "gift_info": "A gift. Nothing to pay or manage - it ends on the date above and does not renew."
   },
   "onboarding": {
     "v2": {

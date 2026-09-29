@@ -347,7 +347,8 @@
     "managed_apple": "Debiteras via ditt Apple-ID. Byt plan eller säg upp när du vill – den gäller till datumet ovan.",
     "managed_google": "Debiteras via Google Play. Byt plan eller säg upp när du vill – den gäller till datumet ovan.",
     "trial_ends": "Provperioden slutar",
-    "wont_renew": "Den förnyas inte. Du behåller {{plan}} till {{date}}."
+    "wont_renew": "Den förnyas inte. Du behåller {{plan}} till {{date}}.",
+    "gift_info": "En gåva. Inget att betala eller hantera - den upphör datumet ovan och förnyas inte."
   },
   "onboarding": {
     "v2": {

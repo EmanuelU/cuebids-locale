@@ -347,7 +347,8 @@
     "managed_apple": "Se cobra a través de tu Apple ID. Cambia de plan o cancela cuando quieras: sigue activa hasta la fecha indicada arriba.",
     "managed_google": "Se cobra a través de Google Play. Cambia de plan o cancela cuando quieras: sigue activa hasta la fecha indicada arriba.",
     "trial_ends": "La prueba termina",
-    "wont_renew": "No se renovará. Conservas {{plan}} hasta el {{date}}."
+    "wont_renew": "No se renovará. Conservas {{plan}} hasta el {{date}}.",
+    "gift_info": "Un regalo. Nada que pagar ni gestionar: termina en la fecha de arriba y no se renueva."
   },
   "onboarding": {
     "v2": {

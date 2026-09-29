@@ -266,5 +266,8 @@
     "next_event": "試試今天的每日賽事",
     "next_guides": "閱讀指南",
     "explore": "探索 Cuebids"
+  },
+  "subscription": {
+    "gift_info": "這是一份禮物。無需付款或管理——它會在上方日期結束，不會續訂。"
   }
 }

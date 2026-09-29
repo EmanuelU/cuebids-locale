@@ -347,7 +347,8 @@
     "managed_apple": "Rozliczane przez Twój Apple ID. Zmień plan lub anuluj, kiedy zechcesz — pozostaje aktywna do daty powyżej.",
     "managed_google": "Rozliczane przez Google Play. Zmień plan lub anuluj, kiedy zechcesz — pozostaje aktywna do daty powyżej.",
     "trial_ends": "Okres próbny kończy się",
-    "wont_renew": "Nie odnowi się. Zachowujesz {{plan}} do {{date}}."
+    "wont_renew": "Nie odnowi się. Zachowujesz {{plan}} do {{date}}.",
+    "gift_info": "Prezent. Nic do opłacenia ani zarządzania - kończy się w dniu podanym powyżej i nie odnawia się."
   },
   "onboarding": {
     "v2": {

@@ -347,7 +347,8 @@
     "managed_apple": "Facturé via votre identifiant Apple. Changez de formule ou résiliez quand vous voulez — il reste actif jusqu’à la date ci-dessus.",
     "managed_google": "Facturé via Google Play. Changez de formule ou résiliez quand vous voulez — il reste actif jusqu’à la date ci-dessus.",
     "trial_ends": "L’essai se termine le",
-    "wont_renew": "Il ne sera pas renouvelé. Vous gardez {{plan}} jusqu’au {{date}}."
+    "wont_renew": "Il ne sera pas renouvelé. Vous gardez {{plan}} jusqu’au {{date}}.",
+    "gift_info": "Un cadeau. Rien à payer ni à gérer - il prend fin à la date ci-dessus et ne se renouvelle pas."
   },
   "onboarding": {
     "v2": {
