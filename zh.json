@@ -1061,7 +1061,13 @@
     "competitive": "竞赛",
     "competitive_explain": "专属牌局，并设有期限。在你们完成自己的牌之前，对手的成绩保持隐藏；未打的牌计零分。",
     "days_to_play_label": "比赛天数",
-    "create_challenge": "创建挑战"
+    "create_challenge": "创建挑战",
+    "choose_from_label": "从以下选择玩家",
+    "from_friends": "你的好友",
+    "group_invite_note": "不是你好友的玩家会收到邀请，接受后挑战才会开始。",
+    "organize_label": "我不参加：为四名成员安排",
+    "organize_note": "四名玩家都会收到邀请，全部接受后挑战才会开始。",
+    "player_label": "玩家"
   },
   "friendly_challenge": {
     "price_title": "挑战门票",
@@ -1093,6 +1099,7 @@
     "approval_explainer": "部分玩家需先同意各自的扣费。",
     "waiting_for": "等待",
     "needs_your_approval": "需要你的同意",
+    "organizer_waiting": "已由你安排 — 等待玩家",
     "charge_split": "自己 {{own}} + 搭档 {{covering}}",
     "charge_covered": "其余由搭档承担",
     "joining_automatically": "你已加入 — 等待其他玩家",
@@ -1803,7 +1810,8 @@
         "deals": "牌局",
         "stars": "星星",
         "no_player_info": "没有可显示的玩家活动"
-      }
+      },
+      "challenge_members": "挑战成员"
     },
     "group_list": {
       "new_events": "新练习",
@@ -1905,7 +1913,9 @@
       "delete_group_info": "警告！此操作无法撤消。您确实要删除名为：{{name}} 的群组吗？",
       "delete_group_confirm_label": "我想删除这个群组",
       "delete_group_really_confirm_label": "我绝对确定我要删除该群组",
-      "delete_group": "删除组"
+      "delete_group": "删除组",
+      "member_challenges_label": "成员之间可以互相挑战",
+      "member_challenges_help": "不是好友的成员可以互相邀请参加友谊赛，每人需先接受邀请。"
     },
     "pbn_import": {
       "success_no_duplicates": "解析了 {{count}} 手牌。",

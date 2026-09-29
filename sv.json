@@ -1060,7 +1060,13 @@
     "competitive": "Tävling",
     "competitive_explain": "Brickor som ingen annan får, och en tidsgräns. Deras resultat är dolda tills ni har spelat klart era, och ospelade brickor räknas som noll.",
     "days_to_play_label": "Dagar att spela",
-    "create_challenge": "Skapa utmaning"
+    "create_challenge": "Skapa utmaning",
+    "choose_from_label": "Välj spelare från",
+    "from_friends": "Dina vänner",
+    "group_invite_note": "Spelare som inte är dina vänner får en inbjudan och måste tacka ja innan utmaningen börjar.",
+    "organize_label": "Jag spelar inte: ordna den för fyra medlemmar",
+    "organize_note": "Alla fyra spelarna får en inbjudan och måste tacka ja innan utmaningen börjar.",
+    "player_label": "Spelare"
   },
   "friendly_challenge": {
     "price_title": "Utmaningsbiljetter",
@@ -1092,6 +1098,7 @@
     "approval_explainer": "Vissa spelare måste godkänna sin egen kostnad först.",
     "waiting_for": "Väntar på",
     "needs_your_approval": "Ditt godkännande behövs",
+    "organizer_waiting": "Du har ordnat den – väntar på spelarna",
     "charge_split": "{{own}} egna + {{covering}} för partner",
     "charge_covered": "Partnern täcker resten",
     "joining_automatically": "Du är med – väntar på övriga",
@@ -1802,7 +1809,8 @@
         "deals": "Givar",
         "stars": "Stjärnor",
         "no_player_info": "Ingen spelaraktivitet att visa"
-      }
+      },
+      "challenge_members": "Utmana medlemmar"
     },
     "group_list": {
       "new_events": "Nya Event",
@@ -1904,7 +1912,9 @@
       "delete_group_info": "Varning! Detta går inte att ångra. Är du säker på att du vill radera din grupp med namnet: {{name}}?",
       "delete_group_confirm_label": "Jag vill radera den här gruppen",
       "delete_group_really_confirm_label": "Jag är helt säker på att jag vill radera den här gruppen",
-      "delete_group": "Radera grupp"
+      "delete_group": "Radera grupp",
+      "member_challenges_label": "Medlemmar kan utmana varandra",
+      "member_challenges_help": "Medlemmar som inte är vänner kan bjuda in varandra till en vänskaplig utmaning. Var och en tackar ja till en inbjudan först."
     },
     "pbn_import": {
       "success_no_duplicates": "Läste in {{count}} givar.",
