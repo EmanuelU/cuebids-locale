@@ -796,7 +796,7 @@
       "wait_partner": "Tu pareja está subastando ahora; puedes esperar aquí.",
       "play_another": "...o salta a otra mano mientras esperas. No tienes que jugarlas en orden.",
       "stars": "Estas estrellas califican el contrato alcanzado comparado con el mejor contrato teórico de esta mano.",
-      "contracts": "Toca Contratos para ver cómo habría puntuado cada contrato posible en esta mano.",
+      "contracts": "Toca Contratos para ver cómo habrían puntuado otros contratos relevantes en esta mano.",
       "compare": "Toca Comparar para ver qué subastaron jugadores fuertes con las mismas cartas."
     }
   },

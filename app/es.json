@@ -77,7 +77,8 @@
       "auth_use_google": "Esta cuenta usa el inicio de sesión con Google. Continúa con Google.",
       "auth_use_apple": "Esta cuenta usa el inicio de sesión con Apple. Continúa con Apple.",
       "auth_use_google_or_apple": "Esta cuenta usa el inicio de sesión con Google o Apple. Continúa con una de esas opciones."
-    }
+    },
+    "last_used": "Último usado"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "Los robots avanzados en desafíos amistosos son gratis durante junio."
@@ -373,5 +374,35 @@
     "title": "Bienvenido a la nueva app",
     "body": "Cuebids ahora está hecho para tu teléfono. Tu cuenta, compañeros y ajustes vinieron contigo, pero aquí las manos se ven un poco distintas, así que vale la pena un minuto para ajustarlas a esta pantalla.",
     "skip": "Ahora no"
+  },
+  "event_join": {
+    "friend_free": "Jugar con un amigo no requiere suscripción.",
+    "add_friend": "Añadir un amigo",
+    "or_pick_friend": "O elige un amigo arriba: jugar con un amigo no requiere suscripción."
+  },
+  "coach": {
+    "learn_more": "Más información",
+    "tap_practice": "Toca Práctica para crear tu primera sesión.",
+    "choose_robot": "Elige Con robot: Lia será tu compañera.",
+    "leave_setup_title": "¿Terminar la configuración primero?",
+    "leave_setup_body": "Aún no has terminado tu sesión de configuración. Empezar otra sesión termina la configuración.",
+    "leave_setup_confirm": "Empezar igualmente",
+    "create_settings_locked": "Tu primera sesión ya está preparada: tres manos, cartas al azar y sin robots rivales. La próxima vez eliges tú.",
+    "create_partner_guided": "Lia es tu compañera. Elige el sistema de subasta que juega; puedes crear el tuyo más adelante.",
+    "tap_next": "Toca para continuar",
+    "lia_waits": "Ahora declara tu compañero. Lia responde al instante; con un amigo puedes esperar aquí o pasar a otra mano mientras piensa.",
+    "tap_send_bid": "Toca para enviar tu voz"
+  },
+  "setup_complete": {
+    "title": "Configuración completada",
+    "title_named": "¡Bien jugado, {{name}}!",
+    "body": "Has subastado tu primera sesión con Lia. A partir de ahora, practica cuando quieras: estos son buenos próximos pasos.",
+    "stars_one": "{{count}} estrella en tu primera sesión",
+    "stars_other": "{{count}} estrellas en tu primera sesión",
+    "next_lia": "Otra sesión con Lia",
+    "next_friend": "Añade un amigo con quien subastar",
+    "next_event": "Prueba el evento diario",
+    "next_guides": "Lee las guías",
+    "explore": "Explorar Cuebids"
   }
 }

@@ -796,7 +796,7 @@
       "wait_partner": "Votre partenaire enchérit maintenant — vous pouvez attendre ici.",
       "play_another": "…ou passez à une autre donne en attendant — inutile de les jouer dans l’ordre.",
       "stars": "Ces étoiles évaluent le contrat atteint par rapport au meilleur contrat théorique de cette donne.",
-      "contracts": "Touchez Contrats pour voir le score qu’aurait obtenu chaque contrat possible sur cette donne.",
+      "contracts": "Touchez Contrats pour voir le score qu’auraient obtenu d’autres contrats pertinents sur cette donne.",
       "compare": "Touchez Comparer pour voir ce qu’ont annoncé de bons joueurs avec les mêmes cartes."
     }
   },

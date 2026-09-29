@@ -797,7 +797,7 @@
       "wait_partner": "现在轮到你的搭档叫牌。你可以在这里等待。",
       "play_another": "...或者等待时跳到另一副牌。你不需要按顺序完成。",
       "stars": "这些星星根据你们达到的合约与本牌最佳理论合约的差距来评分。",
-      "contracts": "点击合约，查看这副牌每个可能合约的得分。",
+      "contracts": "点击合约，查看这副牌其他几个相关合约的得分。",
       "compare": "点击比较，查看强牌手拿同样的牌会怎么叫。"
     }
   },
@@ -1392,7 +1392,7 @@
     "pairs": "对",
     "gift_friend_yearly": "赠送好友一年的 Cuebids",
     "show_older_sessions": "显示更早的叫牌练习",
-    "no_tickets": "<strong>订阅</strong>或在<strong>商店<strong>购买<strong>门票</strong>",
+    "no_tickets": "<strong>订阅</strong>或在<strong>商店</strong>购买<strong>门票</strong>",
     "no_subscription": "<strong>订阅</strong>以解锁更多<strong>功能</strong>",
     "no_heart_subscription": "开通<strong>红桃订阅</strong>即可解锁全部内容"
   },

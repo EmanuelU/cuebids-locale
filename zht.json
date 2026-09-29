@@ -797,7 +797,7 @@
       "wait_partner": "現在輪到你的搭檔叫牌。你可以在這裡等待。",
       "play_another": "...或者等待時跳到另一副牌。你不需要按順序完成。",
       "stars": "這些星星根據你們達到的合約與本牌最佳理論合約的差距來評分。",
-      "contracts": "點擊合約，查看這副牌每個可能合約的得分。",
+      "contracts": "點擊合約，查看這副牌其他幾個相關合約的得分。",
       "compare": "點擊比較，查看強牌手拿同樣的牌會怎麼叫。"
     }
   },
@@ -1392,7 +1392,7 @@
     "pairs": "對",
     "gift_friend_yearly": "贈送好友一年的 Cuebids",
     "show_older_sessions": "顯示更早的叫牌練習",
-    "no_tickets": "<strong>訂閱</strong>或在<strong>商店<strong>購買<strong>門票</strong>",
+    "no_tickets": "<strong>訂閱</strong>或在<strong>商店</strong>購買<strong>門票</strong>",
     "no_subscription": "<strong>訂閱</strong>以解鎖更多<strong>功能</strong>",
     "no_heart_subscription": "開通<strong>紅桃訂閱</strong>即可解鎖全部內容"
   },

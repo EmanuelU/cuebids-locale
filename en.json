@@ -796,7 +796,7 @@
       "wait_partner": "Your partner is bidding now — you can wait here for them.",
       "play_another": "…or jump to another board while you wait — you don't have to play them in order.",
       "stars": "These stars rate the contract you reached compared with the best theoretical contract on this deal.",
-      "contracts": "Tap Contracts to see how every possible contract would have scored on this deal.",
+      "contracts": "Tap Contracts to see how some other relevant contracts would have scored on this deal.",
       "compare": "Tap Compare to see what strong players bid holding the same cards."
     }
   },
@@ -1391,7 +1391,7 @@
     "pairs": "pairs",
     "gift_friend_yearly": "Gift your friend a year of Cuebids",
     "show_older_sessions": "Show older sessions",
-    "no_tickets": "<strong>Subscribe</strong> or buy <strong>Tickets</strong> in the <strong>Store<strong>",
+    "no_tickets": "<strong>Subscribe</strong> or buy <strong>Tickets</strong> in the <strong>Store</strong>",
     "no_subscription": "<strong>Subscribe</strong> to unlock more <strong>features</strong>",
     "no_heart_subscription": "Get a <strong>Heart Subscription</strong> to unlock everything"
   },

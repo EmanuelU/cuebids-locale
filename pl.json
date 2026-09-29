@@ -796,7 +796,7 @@
       "wait_partner": "Twój partner teraz licytuje — możesz poczekać tutaj.",
       "play_another": "...albo przejść do innego rozdania podczas oczekiwania. Nie musisz grać ich po kolei.",
       "stars": "Te gwiazdki oceniają kontrakt, do którego doszliście, w porównaniu z najlepszym teoretycznym kontraktem w tym rozdaniu.",
-      "contracts": "Stuknij Kontrakty, aby zobaczyć, jak punktowałby każdy możliwy kontrakt w tym rozdaniu.",
+      "contracts": "Stuknij Kontrakty, aby zobaczyć, jak punktowałyby inne istotne kontrakty w tym rozdaniu.",
       "compare": "Stuknij Porównaj, aby zobaczyć, co licytowali silni gracze z tymi samymi kartami."
     }
   },

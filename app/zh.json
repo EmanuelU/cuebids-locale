@@ -77,7 +77,8 @@
       "auth_use_google": "此账户使用 Google 登录。请改用 Google 继续。",
       "auth_use_apple": "此账户使用 Apple 登录。请改用 Apple 继续。",
       "auth_use_google_or_apple": "此账户使用 Google 或 Apple 登录。请改用其中一种方式继续。"
-    }
+    },
+    "last_used": "上次使用"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "好友挑战中的高级机器人在六月免费使用。"
@@ -378,5 +379,34 @@
     "title": "欢迎使用新版应用",
     "body": "Cuebids 现在专为手机打造。你的账户、搭档和设置都已同步——但这里的牌桌看起来略有不同，花一分钟把它调整到适合这块屏幕吧。",
     "skip": "以后再说"
+  },
+  "event_join": {
+    "friend_free": "和好友一起玩无需订阅。",
+    "add_friend": "添加好友",
+    "or_pick_friend": "或在上方选择一位好友：和好友一起玩无需订阅。"
+  },
+  "coach": {
+    "learn_more": "了解更多",
+    "tap_practice": "点击“练习”来创建你的第一个牌局。",
+    "choose_robot": "选择“与机器人”：Lia 将是你的搭档。",
+    "leave_setup_title": "先完成设置？",
+    "leave_setup_body": "你还没有完成设置牌局。开始另一个牌局将结束设置。",
+    "leave_setup_confirm": "仍然开始",
+    "create_settings_locked": "你的第一个牌局已为你设置好：三副牌，随机牌型，无对抗机器人。下次由你自己选择。",
+    "create_partner_guided": "Lia 是你的搭档。选择她使用的叫牌体系；你可以稍后创建自己的体系。",
+    "tap_next": "点击继续",
+    "lia_waits": "接下来轮到你的搭档叫牌。Lia 会立即回应；和好友打时，你可以在这里等待，或在对方思考时跳到另一副牌。",
+    "tap_send_bid": "点击发送你的叫品"
+  },
+  "setup_complete": {
+    "title": "设置完成",
+    "title_named": "打得好，{{name}}！",
+    "body": "你已经和 Lia 完成了第一个叫牌牌局。之后随时都可以练习——这些是不错的下一步。",
+    "stars_other": "第一个牌局获得 {{count}} 颗星",
+    "next_lia": "和 Lia 再来一局",
+    "next_friend": "添加一起叫牌的好友",
+    "next_event": "试试今天的每日赛事",
+    "next_guides": "阅读指南",
+    "explore": "探索 Cuebids"
   }
 }

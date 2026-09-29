@@ -77,7 +77,8 @@
       "auth_use_google": "To konto używa logowania przez Google. Zaloguj się przez Google.",
       "auth_use_apple": "To konto używa logowania przez Apple. Zaloguj się przez Apple.",
       "auth_use_google_or_apple": "To konto używa logowania przez Google lub Apple. Zaloguj się jedną z tych metod."
-    }
+    },
+    "last_used": "Ostatnio używane"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "Zaawansowane roboty w towarzyskich wyzwaniach są darmowe w czerwcu."
@@ -373,5 +374,37 @@
     "title": "Witaj w nowej aplikacji",
     "body": "Cuebids jest teraz stworzony z myślą o telefonie. Twoje konto, partnerzy i ustawienia są z tobą – ale rozdania wyglądają tu trochę inaczej, więc warto poświęcić minutę, by dopasować je do tego ekranu.",
     "skip": "Nie teraz"
+  },
+  "event_join": {
+    "friend_free": "Gra ze znajomym nie wymaga subskrypcji.",
+    "add_friend": "Dodaj znajomego",
+    "or_pick_friend": "Albo wybierz znajomego powyżej: gra ze znajomym nie wymaga subskrypcji."
+  },
+  "coach": {
+    "learn_more": "Dowiedz się więcej",
+    "tap_practice": "Stuknij Trening, aby utworzyć pierwszą sesję.",
+    "choose_robot": "Wybierz Z robotem: Lia będzie Twoim partnerem.",
+    "leave_setup_title": "Najpierw dokończyć konfigurację?",
+    "leave_setup_body": "Nie ukończyłeś jeszcze sesji konfiguracyjnej. Rozpoczęcie innej sesji zakończy konfigurację.",
+    "leave_setup_confirm": "Rozpocznij mimo to",
+    "create_settings_locked": "Twoja pierwsza sesja jest już ustawiona: trzy rozdania, losowe ręce, bez rywalizujących robotów. Następnym razem wybierzesz sam.",
+    "create_partner_guided": "Lia jest Twoim partnerem. Wybierz system licytacyjny, którym gra; własny możesz zbudować później.",
+    "tap_next": "Stuknij, aby kontynuować",
+    "lia_waits": "Teraz licytuje Twój partner. Lia odpowiada od razu; ze znajomym możesz poczekać tutaj albo przejść do innego rozdania, gdy się zastanawia.",
+    "tap_send_bid": "Stuknij, aby wysłać odzywkę"
+  },
+  "setup_complete": {
+    "title": "Konfiguracja zakończona",
+    "title_named": "Dobrze zagrane, {{name}}!",
+    "body": "Twoja pierwsza sesja licytacji z Lią za Tobą. Od teraz trenuj, kiedy chcesz - oto dobre kolejne kroki.",
+    "stars_one": "{{count}} gwiazdka w pierwszej sesji",
+    "stars_few": "{{count}} gwiazdki w pierwszej sesji",
+    "stars_many": "{{count}} gwiazdek w pierwszej sesji",
+    "stars_other": "{{count}} gwiazdek w pierwszej sesji",
+    "next_lia": "Kolejna sesja z Lią",
+    "next_friend": "Dodaj znajomego do licytacji",
+    "next_event": "Spróbuj dzisiejszego turnieju",
+    "next_guides": "Przeczytaj poradniki",
+    "explore": "Poznaj Cuebids"
   }
 }

@@ -796,7 +796,7 @@
       "wait_partner": "Din partner bjuder nu. Du kan vänta här.",
       "play_another": "...eller hoppa till en annan bricka medan du väntar. Du måste inte spela dem i ordning.",
       "stars": "Stjärnorna betygsätter kontraktet ni kom till jämfört med det bästa teoretiska kontraktet på given.",
-      "contracts": "Tryck på Kontrakt för att se hur alla möjliga kontrakt skulle ha scorats på den här given.",
+      "contracts": "Tryck på Kontrakt för att se hur några andra relevanta kontrakt skulle ha scorats på den här given.",
       "compare": "Tryck på Jämför för att se vad starka spelare bjöd med samma kort."
     }
   },
@@ -1391,7 +1391,7 @@
     "pairs": "par",
     "gift_friend_yearly": "Ge en vän ett år av Cuebids",
     "show_older_sessions": "Visa äldre sessioner",
-    "no_tickets": "<strong>Prenumerera</strong> eller köp <strong>Biljetter</strong> i <strong>Butiken<strong>",
+    "no_tickets": "<strong>Prenumerera</strong> eller köp <strong>Biljetter</strong> i <strong>Butiken</strong>",
     "no_subscription": "<strong>Prenumerera</strong> för att låsa upp fler <strong>Funktioner</strong>",
     "no_heart_subscription": "Bli <strong>Hjärterprenumerant</strong> för tillgång till <strong>allt</strong>!"
   },

@@ -77,7 +77,8 @@
       "auth_use_google": "Ce compte utilise la connexion Google. Continuez plutôt avec Google.",
       "auth_use_apple": "Ce compte utilise la connexion Apple. Continuez plutôt avec Apple.",
       "auth_use_google_or_apple": "Ce compte utilise la connexion Google ou Apple. Continuez plutôt avec l’une de ces méthodes."
-    }
+    },
+    "last_used": "Dernière utilisée"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "Les robots avancés dans les défis amicaux sont gratuits en juin."
@@ -373,5 +374,35 @@
     "title": "Bienvenue dans la nouvelle app",
     "body": "Cuebids est désormais conçu pour votre téléphone. Votre compte, vos partenaires et vos réglages vous ont suivi – mais les donnes s’affichent un peu différemment ici, alors prenez une minute pour les ajuster à cet écran.",
     "skip": "Pas maintenant"
+  },
+  "event_join": {
+    "friend_free": "Jouer avec un ami ne nécessite aucun abonnement.",
+    "add_friend": "Ajouter un ami",
+    "or_pick_friend": "Ou choisissez un ami ci-dessus : jouer avec un ami ne nécessite aucun abonnement."
+  },
+  "coach": {
+    "learn_more": "En savoir plus",
+    "tap_practice": "Touchez Entraînement pour créer votre première session.",
+    "choose_robot": "Choisissez Avec un robot : Lia sera votre partenaire.",
+    "leave_setup_title": "Terminer la configuration d'abord ?",
+    "leave_setup_body": "Vous n'avez pas terminé votre session de configuration. Démarrer une autre session met fin à la configuration.",
+    "leave_setup_confirm": "Démarrer quand même",
+    "create_settings_locked": "Votre première session est préréglée : trois donnes, mains aléatoires, aucun robot adverse. La prochaine fois, vous choisirez vous-même.",
+    "create_partner_guided": "Lia est votre partenaire. Choisissez le système d'enchères qu'elle joue ; vous pourrez créer le vôtre plus tard.",
+    "tap_next": "Touchez pour continuer",
+    "lia_waits": "Votre partenaire enchérit ensuite. Lia répond aussitôt ; avec un ami, vous pouvez attendre ici ou passer à une autre donne pendant qu’il réfléchit.",
+    "tap_send_bid": "Touchez pour envoyer votre enchère"
+  },
+  "setup_complete": {
+    "title": "Configuration terminée",
+    "title_named": "Bien joué, {{name}} !",
+    "body": "Vous avez enchéri votre première session avec Lia. Désormais, entraînez-vous quand vous voulez - voici de bonnes prochaines étapes.",
+    "stars_one": "{{count}} étoile lors de votre première session",
+    "stars_other": "{{count}} étoiles lors de votre première session",
+    "next_lia": "Une autre session avec Lia",
+    "next_friend": "Ajouter un ami avec qui enchérir",
+    "next_event": "Essayer l’événement du jour",
+    "next_guides": "Lire les guides",
+    "explore": "Explorer Cuebids"
   }
 }
