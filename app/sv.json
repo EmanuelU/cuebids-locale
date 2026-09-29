@@ -77,7 +77,8 @@
       "auth_use_google": "Det här kontot använder Google-inloggning. Fortsätt med Google i stället.",
       "auth_use_apple": "Det här kontot använder Apple-inloggning. Fortsätt med Apple i stället.",
       "auth_use_google_or_apple": "Det här kontot använder Google- eller Apple-inloggning. Fortsätt med någon av dem i stället."
-    }
+    },
+    "last_used": "Senast använd"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "Avancerade robotar i vänskapsutmaningar är gratis under juni."

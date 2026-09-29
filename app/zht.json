@@ -72,7 +72,8 @@
       "auth_use_google": "此帳戶使用 Google 登錄。請改用 Google 繼續。",
       "auth_use_apple": "此帳戶使用 Apple 登錄。請改用 Apple 繼續。",
       "auth_use_google_or_apple": "此帳戶使用 Google 或 Apple 登錄。請改用其中一種方式繼續。"
-    }
+    },
+    "last_used": "上次使用"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "好友挑戰中的進階機器人在六月免費使用。"

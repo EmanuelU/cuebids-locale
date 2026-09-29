@@ -77,7 +77,8 @@
       "auth_use_google": "此账户使用 Google 登录。请改用 Google 继续。",
       "auth_use_apple": "此账户使用 Apple 登录。请改用 Apple 继续。",
       "auth_use_google_or_apple": "此账户使用 Google 或 Apple 登录。请改用其中一种方式继续。"
-    }
+    },
+    "last_used": "上次使用"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "好友挑战中的高级机器人在六月免费使用。"

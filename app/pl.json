@@ -77,7 +77,8 @@
       "auth_use_google": "To konto używa logowania przez Google. Zaloguj się przez Google.",
       "auth_use_apple": "To konto używa logowania przez Apple. Zaloguj się przez Apple.",
       "auth_use_google_or_apple": "To konto używa logowania przez Google lub Apple. Zaloguj się jedną z tych metod."
-    }
+    },
+    "last_used": "Ostatnio używane"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "Zaawansowane roboty w towarzyskich wyzwaniach są darmowe w czerwcu."

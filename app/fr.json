@@ -77,7 +77,8 @@
       "auth_use_google": "Ce compte utilise la connexion Google. Continuez plutôt avec Google.",
       "auth_use_apple": "Ce compte utilise la connexion Apple. Continuez plutôt avec Apple.",
       "auth_use_google_or_apple": "Ce compte utilise la connexion Google ou Apple. Continuez plutôt avec l’une de ces méthodes."
-    }
+    },
+    "last_used": "Dernière utilisée"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "Les robots avancés dans les défis amicaux sont gratuits en juin."

@@ -77,7 +77,8 @@
       "auth_use_google": "This account uses Google sign-in. Continue with Google instead.",
       "auth_use_apple": "This account uses Apple sign-in. Continue with Apple instead.",
       "auth_use_google_or_apple": "This account uses Google or Apple sign-in. Continue with one of those instead."
-    }
+    },
+    "last_used": "Last used"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "Advanced robots in friendly challenges are free during June."

@@ -77,7 +77,8 @@
       "auth_use_google": "Esta cuenta usa el inicio de sesión con Google. Continúa con Google.",
       "auth_use_apple": "Esta cuenta usa el inicio de sesión con Apple. Continúa con Apple.",
       "auth_use_google_or_apple": "Esta cuenta usa el inicio de sesión con Google o Apple. Continúa con una de esas opciones."
-    }
+    },
+    "last_used": "Último usado"
   },
   "start_challenge": {
     "advanced_robots_free_during_june": "Los robots avanzados en desafíos amistosos son gratis durante junio."
