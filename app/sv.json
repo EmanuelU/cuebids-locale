@@ -347,5 +347,31 @@
     "managed_google": "Debiteras via Google Play. Byt plan eller säg upp när du vill – den gäller till datumet ovan.",
     "trial_ends": "Provperioden slutar",
     "wont_renew": "Den förnyas inte. Du behåller {{plan}} till {{date}}."
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "Prova en giv",
+        "subtitle": "Bjud en kort övningsgiv till slutet på en riktig bricka, och justera hur den ser ut med knappen nere till vänster tills allt får plats och är bekvämt att läsa.",
+        "contract": "Kontrakt: {{contract}}",
+        "passed_out": "Alla passade",
+        "result_text": "I en session slutar varje giv så här: stjärnor för ditt kontrakt, och vad andra bjöd med samma kort.",
+        "again": "Spela igen",
+        "table_bidding": "Bordet bjuder…",
+        "start": "Prova nu",
+        "back_to_setup": "Tillbaka till inställningen",
+        "share_note": "På en riktig bricka delar du den här med en partner eller en grupp.",
+        "compare_note": "På en riktig bricka visar den här hur alla andra bjöd med samma kort.",
+        "looks_good": "Ser bra ut!",
+        "edit_hint": "Ändra utseendet när som helst med knappen nere till vänster.",
+        "tip_open": "Tips: 15 poäng och en jämn hand – öppna med 1NT."
+      }
+    }
+  },
+  "native_welcome": {
+    "title_named": "Välkommen till nya appen, {{name}}",
+    "title": "Välkommen till nya appen",
+    "body": "Cuebids är nu byggt för din telefon. Ditt konto, dina partners och inställningar följde med – men brickorna ser lite annorlunda ut här, så det är värt en minut att få dem rätt för den här skärmen.",
+    "skip": "Inte nu"
   }
 }

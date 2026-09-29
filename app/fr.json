@@ -347,5 +347,31 @@
     "managed_google": "Facturé via Google Play. Changez de formule ou résiliez quand vous voulez — il reste actif jusqu’à la date ci-dessus.",
     "trial_ends": "L’essai se termine le",
     "wont_renew": "Il ne sera pas renouvelé. Vous gardez {{plan}} jusqu’au {{date}}."
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "Essayez une donne",
+        "subtitle": "Enchérissez une courte donne d’entraînement jusqu’au bout sur un vrai plateau, et ajustez son apparence avec le bouton en bas à gauche jusqu’à ce que tout tienne et se lise confortablement.",
+        "contract": "Contrat : {{contract}}",
+        "passed_out": "Donne passée",
+        "result_text": "En session, chaque donne se termine ainsi : des étoiles pour votre contrat, et ce que d’autres ont annoncé avec les mêmes cartes.",
+        "again": "Rejouer",
+        "table_bidding": "La table enchérit…",
+        "start": "Essayer maintenant",
+        "back_to_setup": "Retour à la configuration",
+        "share_note": "Sur une vraie donne, ceci la partage avec un partenaire ou un groupe.",
+        "compare_note": "Sur une vraie donne, ceci montre comment tous les autres ont enchéri avec les mêmes cartes.",
+        "looks_good": "C’est parfait !",
+        "edit_hint": "Changez l’apparence à tout moment avec le bouton en bas à gauche.",
+        "tip_open": "Astuce : 15 points et une main régulière – ouvrez de 1SA."
+      }
+    }
+  },
+  "native_welcome": {
+    "title_named": "Bienvenue dans la nouvelle app, {{name}}",
+    "title": "Bienvenue dans la nouvelle app",
+    "body": "Cuebids est désormais conçu pour votre téléphone. Votre compte, vos partenaires et vos réglages vous ont suivi – mais les donnes s’affichent un peu différemment ici, alors prenez une minute pour les ajuster à cet écran.",
+    "skip": "Pas maintenant"
   }
 }

@@ -352,5 +352,31 @@
     "managed_google": "通过 Google Play 计费。可随时更改方案或取消——在上述日期之前仍然有效。",
     "trial_ends": "试用到期",
     "wont_renew": "不会续订。你可以继续使用 {{plan}} 直到 {{date}}。"
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "试一副牌",
+        "subtitle": "在真实牌桌上把一副简短的练习牌叫完，并用左下角的按钮调整外观，直到内容都能放下、看着舒服为止。",
+        "contract": "定约：{{contract}}",
+        "passed_out": "四家都派斯",
+        "result_text": "在练习中，每副牌都这样结束：你的定约会得到星级，还能看到别人用同样的牌怎么叫。",
+        "again": "再来一次",
+        "table_bidding": "其他玩家正在叫牌…",
+        "start": "立即试试",
+        "back_to_setup": "返回设置",
+        "share_note": "在真实牌局中，这里可以把这副牌分享给搭档或小组。",
+        "compare_note": "在真实牌局中，这里会显示其他人用同样的牌是怎么叫的。",
+        "looks_good": "看起来不错！",
+        "edit_hint": "随时可用左下角的按钮更改外观。",
+        "tip_open": "提示：15 点、均型牌，开叫 1NT。"
+      }
+    }
+  },
+  "native_welcome": {
+    "title_named": "欢迎使用新版应用，{{name}}",
+    "title": "欢迎使用新版应用",
+    "body": "Cuebids 现在专为手机打造。你的账户、搭档和设置都已同步——但这里的牌桌看起来略有不同，花一分钟把它调整到适合这块屏幕吧。",
+    "skip": "以后再说"
   }
 }

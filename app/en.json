@@ -347,5 +347,31 @@
     "managed_google": "Billed through Google Play. Change plan or cancel whenever you like — it stays active until the date above.",
     "trial_ends": "Trial ends",
     "wont_renew": "It won’t renew. You keep {{plan}} until {{date}}."
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "Try a board",
+        "subtitle": "Bid a short practice hand to the end on a real board, and adjust how it looks with the button in the bottom left until it fits and reads comfortably.",
+        "contract": "Contract: {{contract}}",
+        "passed_out": "Passed out",
+        "result_text": "In a session every board ends like this: stars for your contract, and what others bid with the same cards.",
+        "again": "Play it again",
+        "table_bidding": "The table is bidding…",
+        "start": "Try it now",
+        "back_to_setup": "Back to setup",
+        "share_note": "On a real board this shares it with a partner or a group.",
+        "compare_note": "On a real board this shows how everyone else bid the same cards.",
+        "looks_good": "Looks good!",
+        "edit_hint": "Change the look any time with the button bottom left.",
+        "tip_open": "Tip: 15 points and a balanced hand - open 1NT."
+      }
+    }
+  },
+  "native_welcome": {
+    "title_named": "Welcome to the new app, {{name}}",
+    "title": "Welcome to the new app",
+    "body": "Cuebids is now built for your phone. Your account, partners and settings came with you - but boards look a little different here, so it is worth a minute to make them right for this screen.",
+    "skip": "Not now"
   }
 }

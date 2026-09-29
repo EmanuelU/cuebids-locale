@@ -347,5 +347,31 @@
     "managed_google": "Se cobra a través de Google Play. Cambia de plan o cancela cuando quieras: sigue activa hasta la fecha indicada arriba.",
     "trial_ends": "La prueba termina",
     "wont_renew": "No se renovará. Conservas {{plan}} hasta el {{date}}."
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "Prueba una mano",
+        "subtitle": "Subasta una breve mano de práctica hasta el final en un tablero real y ajusta su aspecto con el botón de abajo a la izquierda hasta que quepa y se lea cómodamente.",
+        "contract": "Contrato: {{contract}}",
+        "passed_out": "Todos pasan",
+        "result_text": "En una sesión cada mano termina así: estrellas por tu contrato y lo que otros subastaron con las mismas cartas.",
+        "again": "Jugar otra vez",
+        "table_bidding": "La mesa está subastando…",
+        "start": "Probar ahora",
+        "back_to_setup": "Volver a la configuración",
+        "share_note": "En una mano real, esto la comparte con un compañero o un grupo.",
+        "compare_note": "En una mano real, esto muestra cómo subastaron todos los demás con las mismas cartas.",
+        "looks_good": "¡Se ve bien!",
+        "edit_hint": "Cambia el aspecto cuando quieras con el botón de abajo a la izquierda.",
+        "tip_open": "Consejo: 15 puntos y una mano equilibrada: abre 1SA."
+      }
+    }
+  },
+  "native_welcome": {
+    "title_named": "Bienvenido a la nueva app, {{name}}",
+    "title": "Bienvenido a la nueva app",
+    "body": "Cuebids ahora está hecho para tu teléfono. Tu cuenta, compañeros y ajustes vinieron contigo, pero aquí las manos se ven un poco distintas, así que vale la pena un minuto para ajustarlas a esta pantalla.",
+    "skip": "Ahora no"
   }
 }

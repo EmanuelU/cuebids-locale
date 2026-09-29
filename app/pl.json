@@ -347,5 +347,31 @@
     "managed_google": "Rozliczane przez Google Play. Zmień plan lub anuluj, kiedy zechcesz — pozostaje aktywna do daty powyżej.",
     "trial_ends": "Okres próbny kończy się",
     "wont_renew": "Nie odnowi się. Zachowujesz {{plan}} do {{date}}."
+  },
+  "onboarding": {
+    "v2": {
+      "practice": {
+        "title": "Wypróbuj rozdanie",
+        "subtitle": "Zalicytuj krótkie rozdanie treningowe do końca na prawdziwym stole i dopasuj jego wygląd przyciskiem w lewym dolnym rogu, aż wszystko się zmieści i będzie się wygodnie czytać.",
+        "contract": "Kontrakt: {{contract}}",
+        "passed_out": "Wszyscy spasowali",
+        "result_text": "W sesji każde rozdanie kończy się tak: gwiazdki za twój kontrakt i to, co inni zalicytowali z tymi samymi kartami.",
+        "again": "Zagraj jeszcze raz",
+        "table_bidding": "Stół licytuje…",
+        "start": "Wypróbuj teraz",
+        "back_to_setup": "Wróć do konfiguracji",
+        "share_note": "Na prawdziwym rozdaniu to udostępnia je partnerowi lub grupie.",
+        "compare_note": "Na prawdziwym rozdaniu to pokazuje, jak wszyscy inni licytowali z tymi samymi kartami.",
+        "looks_good": "Wygląda dobrze!",
+        "edit_hint": "Zmień wygląd w każdej chwili przyciskiem w lewym dolnym rogu.",
+        "tip_open": "Wskazówka: 15 punktów i ręka zrównoważona – otwórz 1BA."
+      }
+    }
+  },
+  "native_welcome": {
+    "title_named": "Witaj w nowej aplikacji, {{name}}",
+    "title": "Witaj w nowej aplikacji",
+    "body": "Cuebids jest teraz stworzony z myślą o telefonie. Twoje konto, partnerzy i ustawienia są z tobą – ale rozdania wyglądają tu trochę inaczej, więc warto poświęcić minutę, by dopasować je do tego ekranu.",
+    "skip": "Nie teraz"
   }
 }
