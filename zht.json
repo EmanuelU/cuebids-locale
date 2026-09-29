@@ -1061,7 +1061,10 @@
     "competitive": "競賽",
     "competitive_explain": "專屬牌局，並設有期限。在你們完成自己的牌之前，對手的成績保持隱藏；未打的牌計零分。",
     "days_to_play_label": "比賽天數",
-    "create_challenge": "創建挑戰"
+    "create_challenge": "創建挑戰",
+    "choose_from_label": "從以下選擇玩家",
+    "from_friends": "你的好友",
+    "group_invite_note": "不是你好友的玩家會收到邀請，接受後挑戰才會開始。"
   },
   "friendly_challenge": {
     "price_title": "挑戰票券",
@@ -1803,7 +1806,8 @@
         "deals": "牌局",
         "stars": "星星",
         "no_player_info": "沒有可顯示的玩家活動"
-      }
+      },
+      "challenge_members": "挑戰成員"
     },
     "group_list": {
       "new_events": "新練習",
@@ -1905,7 +1909,9 @@
       "delete_group_info": "警告！此操作無法撤消。您確實要刪除名為：{{name}} 的群組嗎？",
       "delete_group_confirm_label": "我想刪除這個群組",
       "delete_group_really_confirm_label": "我絕對確定我要刪除該群組",
-      "delete_group": "刪除組"
+      "delete_group": "刪除組",
+      "member_challenges_label": "成員之間可以互相挑戰",
+      "member_challenges_help": "不是好友的成員可以互相邀請參加友誼賽，每人需先接受邀請。"
     },
     "pbn_import": {
       "success_no_duplicates": "解析了 {{count}} 手牌。",

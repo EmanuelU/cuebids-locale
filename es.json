@@ -1060,7 +1060,10 @@
     "competitive": "Competitivo",
     "competitive_explain": "Manos que nadie más recibe, y un plazo. Sus resultados quedan ocultos hasta que terminéis las vuestras, y las manos sin jugar puntúan cero.",
     "days_to_play_label": "Días para jugar",
-    "create_challenge": "Crear desafío"
+    "create_challenge": "Crear desafío",
+    "choose_from_label": "Elegir jugadores de",
+    "from_friends": "Tus amigos",
+    "group_invite_note": "Los jugadores que no son tus amigos reciben una invitación y deben aceptarla antes de que empiece el desafío."
   },
   "friendly_challenge": {
     "price_title": "Boletos del desafío",
@@ -1802,7 +1805,8 @@
         "deals": "Manos",
         "stars": "Estrellas",
         "no_player_info": "No hay actividad de jugadores para mostrar."
-      }
+      },
+      "challenge_members": "Desafiar a miembros"
     },
     "group_list": {
       "new_events": "Nuevos eventos",
@@ -1904,7 +1908,9 @@
       "delete_group_info": "Atención. Esta acción no se puede deshacer. ¿De verdad quieres eliminar tu grupo llamado {{name}}?",
       "delete_group_confirm_label": "Quiero eliminar este grupo",
       "delete_group_really_confirm_label": "Estoy completamente seguro de que quiero eliminar este grupo",
-      "delete_group": "Eliminar grupo"
+      "delete_group": "Eliminar grupo",
+      "member_challenges_label": "Los miembros pueden desafiarse entre sí",
+      "member_challenges_help": "Los miembros que no son amigos pueden invitarse a un desafío amistoso. Cada uno acepta primero una invitación."
     },
     "pbn_import": {
       "success_no_duplicates": "Se han procesado {{count}} manos.",

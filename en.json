@@ -1060,7 +1060,10 @@
     "competitive": "Competitive",
     "competitive_explain": "Boards nobody else gets, and a deadline. Their results stay hidden until you have finished yours, and boards left unplayed score zero.",
     "days_to_play_label": "Days to play",
-    "create_challenge": "Create challenge"
+    "create_challenge": "Create challenge",
+    "choose_from_label": "Choose players from",
+    "from_friends": "Your friends",
+    "group_invite_note": "Players who aren't your friends get an invitation and must accept before the challenge starts."
   },
   "friendly_challenge": {
     "price_title": "Challenge tickets",
@@ -1802,7 +1805,8 @@
         "deals": "Deals",
         "stars": "Stars",
         "no_player_info": "No player activity to show"
-      }
+      },
+      "challenge_members": "Challenge members"
     },
     "group_list": {
       "new_events": "New Events",
@@ -1904,7 +1908,9 @@
       "delete_group_info": "Warning! This action cannot be undone. Do you really want to delete your group with the name: {{name}}?",
       "delete_group_confirm_label": "I want to delete this group",
       "delete_group_really_confirm_label": "I am absolutely sure I want to delete this group",
-      "delete_group": "Delete group"
+      "delete_group": "Delete group",
+      "member_challenges_label": "Members can challenge each other",
+      "member_challenges_help": "Members who aren't friends can invite each other to a friendly challenge. Each of them accepts an invitation first."
     },
     "pbn_import": {
       "success_no_duplicates": "Parsed {{count}} hands.",

@@ -765,7 +765,10 @@
     "competitive": "",
     "competitive_explain": "",
     "days_to_play_label": "",
-    "create_challenge": ""
+    "create_challenge": "",
+    "choose_from_label": "",
+    "from_friends": "",
+    "group_invite_note": ""
   },
   "friendly_challenge": {
     "price_title": "",
@@ -1435,7 +1438,8 @@
         "deals": "",
         "stars": "",
         "no_player_info": ""
-      }
+      },
+      "challenge_members": ""
     },
     "group_list": {
       "new_events": "",
@@ -1537,7 +1541,9 @@
       "delete_group_info": "",
       "delete_group_confirm_label": "",
       "delete_group_really_confirm_label": "",
-      "delete_group": ""
+      "delete_group": "",
+      "member_challenges_label": "",
+      "member_challenges_help": ""
     },
     "pbn_import": {
       "success_no_duplicates": "",

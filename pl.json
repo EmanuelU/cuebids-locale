@@ -1060,7 +1060,10 @@
     "competitive": "Turniejowe",
     "competitive_explain": "Rozdania, których nie dostaje nikt inny, i termin. Ich wyniki są ukryte, dopóki nie skończycie swoich, a nierozegrane rozdania liczą się jako zero.",
     "days_to_play_label": "Dni na grę",
-    "create_challenge": "Utwórz wyzwanie"
+    "create_challenge": "Utwórz wyzwanie",
+    "choose_from_label": "Wybierz graczy z",
+    "from_friends": "Twoi znajomi",
+    "group_invite_note": "Gracze, którzy nie są Twoimi znajomymi, dostają zaproszenie i muszą je przyjąć, zanim wyzwanie się zacznie."
   },
   "friendly_challenge": {
     "price_title": "Bilety wyzwania",
@@ -1804,7 +1807,8 @@
         "deals": "Rozdania",
         "stars": "Gwiazdki",
         "no_player_info": "Brak aktywności graczy do pokazania"
-      }
+      },
+      "challenge_members": "Wyzwij członków"
     },
     "group_list": {
       "new_events": "Nowe wydarzenia",
@@ -1906,7 +1910,9 @@
       "delete_group_info": "Ostrzeżenie! Ta akcja nie może zostać cofnięta. Czy na pewno chcesz usunąć swoją grupę o nazwie: {{name}}?",
       "delete_group_confirm_label": "Chcę usunąć tę grupę",
       "delete_group_really_confirm_label": "Jestem absolutnie pewny, że chcę usunąć tę grupę",
-      "delete_group": "Usuń grupę"
+      "delete_group": "Usuń grupę",
+      "member_challenges_label": "Członkowie mogą wyzywać się nawzajem",
+      "member_challenges_help": "Członkowie, którzy nie są znajomymi, mogą zapraszać się nawzajem do wyzwania towarzyskiego. Każdy z nich najpierw przyjmuje zaproszenie."
     },
     "pbn_import": {
       "success_no_duplicates": "Przetworzono {{count}} rąk.",

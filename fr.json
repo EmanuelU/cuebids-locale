@@ -1060,7 +1060,10 @@
     "competitive": "Compétitif",
     "competitive_explain": "Des donnes que personne d'autre ne reçoit, et une date limite. Leurs résultats restent masqués tant que vous n'avez pas fini les vôtres, et les donnes non jouées comptent zéro.",
     "days_to_play_label": "Durée (en jours)",
-    "create_challenge": "Créer le défi"
+    "create_challenge": "Créer le défi",
+    "choose_from_label": "Choisir les joueurs parmi",
+    "from_friends": "Vos amis",
+    "group_invite_note": "Les joueurs qui ne sont pas vos amis reçoivent une invitation et doivent l’accepter avant le début du défi."
   },
   "friendly_challenge": {
     "price_title": "Tickets du défi",
@@ -1802,7 +1805,8 @@
         "deals": "Donnes",
         "stars": "Étoiles",
         "no_player_info": "Aucune activité de joueur à afficher"
-      }
+      },
+      "challenge_members": "Défier des membres"
     },
     "group_list": {
       "new_events": "Nouveaux tournois",
@@ -1904,7 +1908,9 @@
       "delete_group_info": "Attention ! Cette action est irréversible. Voulez-vous vraiment supprimer votre groupe « {{name}} » ?",
       "delete_group_confirm_label": "Je veux supprimer ce groupe",
       "delete_group_really_confirm_label": "Je suis absolument sûr de vouloir supprimer ce groupe",
-      "delete_group": "Supprimer le groupe"
+      "delete_group": "Supprimer le groupe",
+      "member_challenges_label": "Les membres peuvent se défier",
+      "member_challenges_help": "Les membres qui ne sont pas amis peuvent s’inviter à un défi amical. Chacun accepte d’abord une invitation."
     },
     "pbn_import": {
       "success_no_duplicates": "{{count}} donnes analysées.",
