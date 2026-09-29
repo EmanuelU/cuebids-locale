@@ -1064,7 +1064,10 @@
     "create_challenge": "創建挑戰",
     "choose_from_label": "從以下選擇玩家",
     "from_friends": "你的好友",
-    "group_invite_note": "不是你好友的玩家會收到邀請，接受後挑戰才會開始。"
+    "group_invite_note": "不是你好友的玩家會收到邀請，接受後挑戰才會開始。",
+    "organize_label": "我不參加：為四名成員安排",
+    "organize_note": "四名玩家都會收到邀請，全部接受後挑戰才會開始。",
+    "player_label": "玩家"
   },
   "friendly_challenge": {
     "price_title": "挑戰票券",
@@ -1096,6 +1099,7 @@
     "approval_explainer": "部分玩家需先同意各自的扣費。",
     "waiting_for": "等待",
     "needs_your_approval": "需要你的同意",
+    "organizer_waiting": "已由你安排 — 等待玩家",
     "charge_split": "自己 {{own}} + 搭檔 {{covering}}",
     "charge_covered": "其餘由搭檔承擔",
     "joining_automatically": "你已加入 — 等待其他玩家",

@@ -1063,7 +1063,10 @@
     "create_challenge": "Skapa utmaning",
     "choose_from_label": "Välj spelare från",
     "from_friends": "Dina vänner",
-    "group_invite_note": "Spelare som inte är dina vänner får en inbjudan och måste tacka ja innan utmaningen börjar."
+    "group_invite_note": "Spelare som inte är dina vänner får en inbjudan och måste tacka ja innan utmaningen börjar.",
+    "organize_label": "Jag spelar inte: ordna den för fyra medlemmar",
+    "organize_note": "Alla fyra spelarna får en inbjudan och måste tacka ja innan utmaningen börjar.",
+    "player_label": "Spelare"
   },
   "friendly_challenge": {
     "price_title": "Utmaningsbiljetter",
@@ -1095,6 +1098,7 @@
     "approval_explainer": "Vissa spelare måste godkänna sin egen kostnad först.",
     "waiting_for": "Väntar på",
     "needs_your_approval": "Ditt godkännande behövs",
+    "organizer_waiting": "Du har ordnat den – väntar på spelarna",
     "charge_split": "{{own}} egna + {{covering}} för partner",
     "charge_covered": "Partnern täcker resten",
     "joining_automatically": "Du är med – väntar på övriga",

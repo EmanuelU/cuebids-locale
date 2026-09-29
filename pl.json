@@ -1063,7 +1063,10 @@
     "create_challenge": "Utwórz wyzwanie",
     "choose_from_label": "Wybierz graczy z",
     "from_friends": "Twoi znajomi",
-    "group_invite_note": "Gracze, którzy nie są Twoimi znajomymi, dostają zaproszenie i muszą je przyjąć, zanim wyzwanie się zacznie."
+    "group_invite_note": "Gracze, którzy nie są Twoimi znajomymi, dostają zaproszenie i muszą je przyjąć, zanim wyzwanie się zacznie.",
+    "organize_label": "Nie gram: przygotuj wyzwanie dla czterech członków",
+    "organize_note": "Wszyscy czterej gracze dostają zaproszenie i muszą je przyjąć, zanim wyzwanie się zacznie.",
+    "player_label": "Gracz"
   },
   "friendly_challenge": {
     "price_title": "Bilety wyzwania",
@@ -1097,6 +1100,7 @@
     "approval_explainer": "Niektórzy gracze muszą najpierw zatwierdzić swoją opłatę.",
     "waiting_for": "Oczekiwanie na",
     "needs_your_approval": "Potrzebna Twoja zgoda",
+    "organizer_waiting": "Wyzwanie przygotowane — czekamy na graczy",
     "charge_split": "{{own}} za siebie + {{covering}} za partnera",
     "charge_covered": "Partner pokrywa resztę",
     "joining_automatically": "Jesteś w grze — czekamy na pozostałych",

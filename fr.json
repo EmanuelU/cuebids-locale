@@ -1063,7 +1063,10 @@
     "create_challenge": "Créer le défi",
     "choose_from_label": "Choisir les joueurs parmi",
     "from_friends": "Vos amis",
-    "group_invite_note": "Les joueurs qui ne sont pas vos amis reçoivent une invitation et doivent l’accepter avant le début du défi."
+    "group_invite_note": "Les joueurs qui ne sont pas vos amis reçoivent une invitation et doivent l’accepter avant le début du défi.",
+    "organize_label": "Je ne joue pas : l’organiser pour quatre membres",
+    "organize_note": "Les quatre joueurs reçoivent une invitation et doivent l’accepter avant le début du défi.",
+    "player_label": "Joueur"
   },
   "friendly_challenge": {
     "price_title": "Tickets du défi",
@@ -1095,6 +1098,7 @@
     "approval_explainer": "Certains joueurs doivent d'abord accepter d'être débités.",
     "waiting_for": "En attente de",
     "needs_your_approval": "Votre accord est requis",
+    "organizer_waiting": "Vous l’avez organisé — en attente des joueurs",
     "charge_split": "{{own}} pour lui + {{covering}} pour son partenaire",
     "charge_covered": "Son partenaire couvre le reste",
     "joining_automatically": "Vous participez — en attente des autres",

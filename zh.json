@@ -1064,7 +1064,10 @@
     "create_challenge": "创建挑战",
     "choose_from_label": "从以下选择玩家",
     "from_friends": "你的好友",
-    "group_invite_note": "不是你好友的玩家会收到邀请，接受后挑战才会开始。"
+    "group_invite_note": "不是你好友的玩家会收到邀请，接受后挑战才会开始。",
+    "organize_label": "我不参加：为四名成员安排",
+    "organize_note": "四名玩家都会收到邀请，全部接受后挑战才会开始。",
+    "player_label": "玩家"
   },
   "friendly_challenge": {
     "price_title": "挑战门票",
@@ -1096,6 +1099,7 @@
     "approval_explainer": "部分玩家需先同意各自的扣费。",
     "waiting_for": "等待",
     "needs_your_approval": "需要你的同意",
+    "organizer_waiting": "已由你安排 — 等待玩家",
     "charge_split": "自己 {{own}} + 搭档 {{covering}}",
     "charge_covered": "其余由搭档承担",
     "joining_automatically": "你已加入 — 等待其他玩家",

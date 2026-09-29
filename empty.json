@@ -768,7 +768,10 @@
     "create_challenge": "",
     "choose_from_label": "",
     "from_friends": "",
-    "group_invite_note": ""
+    "group_invite_note": "",
+    "organize_label": "",
+    "organize_note": "",
+    "player_label": ""
   },
   "friendly_challenge": {
     "price_title": "",
@@ -800,6 +803,7 @@
     "approval_explainer": "",
     "waiting_for": "",
     "needs_your_approval": "",
+    "organizer_waiting": "",
     "charge_split": "",
     "charge_covered": "",
     "joining_automatically": "",

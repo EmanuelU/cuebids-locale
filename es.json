@@ -1063,7 +1063,10 @@
     "create_challenge": "Crear desafío",
     "choose_from_label": "Elegir jugadores de",
     "from_friends": "Tus amigos",
-    "group_invite_note": "Los jugadores que no son tus amigos reciben una invitación y deben aceptarla antes de que empiece el desafío."
+    "group_invite_note": "Los jugadores que no son tus amigos reciben una invitación y deben aceptarla antes de que empiece el desafío.",
+    "organize_label": "No juego: organizarlo para cuatro miembros",
+    "organize_note": "Los cuatro jugadores reciben una invitación y deben aceptarla antes de que empiece el desafío.",
+    "player_label": "Jugador"
   },
   "friendly_challenge": {
     "price_title": "Boletos del desafío",
@@ -1095,6 +1098,7 @@
     "approval_explainer": "Algunos jugadores deben aprobar su propio cargo primero.",
     "waiting_for": "Esperando a",
     "needs_your_approval": "Se necesita tu aprobación",
+    "organizer_waiting": "Lo has organizado: esperando a los jugadores",
     "charge_split": "{{own}} propios + {{covering}} por su pareja",
     "charge_covered": "Su pareja cubre el resto",
     "joining_automatically": "Estás dentro: esperando a los demás",

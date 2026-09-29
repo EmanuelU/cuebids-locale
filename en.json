@@ -1063,7 +1063,10 @@
     "create_challenge": "Create challenge",
     "choose_from_label": "Choose players from",
     "from_friends": "Your friends",
-    "group_invite_note": "Players who aren't your friends get an invitation and must accept before the challenge starts."
+    "group_invite_note": "Players who aren't your friends get an invitation and must accept before the challenge starts.",
+    "organize_label": "I'm not playing: set it up for four members",
+    "organize_note": "All four players get an invitation and must accept before the challenge starts.",
+    "player_label": "Player"
   },
   "friendly_challenge": {
     "price_title": "Challenge tickets",
@@ -1095,6 +1098,7 @@
     "approval_explainer": "Some players must approve their own charge first.",
     "waiting_for": "Waiting for",
     "needs_your_approval": "Your approval is needed",
+    "organizer_waiting": "You set this up. Waiting for the players",
     "charge_split": "{{own}} own + {{covering}} for partner",
     "charge_covered": "Partner covers the rest",
     "joining_automatically": "You're in — waiting for others",
