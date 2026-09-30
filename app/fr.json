@@ -367,6 +367,41 @@
         "looks_good": "C’est parfait !",
         "edit_hint": "Changez l’apparence à tout moment avec le bouton en bas à gauche.",
         "tip_open": "Astuce : 15 points et une main régulière – ouvrez de 1SA."
+      },
+      "actions": {
+        "skip_done": "Aller sur Cuebids",
+        "start": "Commencer à jouer"
+      },
+      "card_size": {
+        "fan_text": "Les cartes sont disposées en éventail, comme vous les tenez à la table.",
+        "fan_title": "Cartes en éventail",
+        "large": "Grandes",
+        "large_text": "Les plus faciles à lire et à toucher.",
+        "medium": "Moyennes",
+        "medium_text": "L’équilibre que choisissent la plupart des joueurs.",
+        "small": "Petites",
+        "small_text": "Plus d’enchères visibles à la fois.",
+        "subtitle": "La main occupe l’essentiel de l’écran pendant les enchères : cela vaut la peine de bien la régler.",
+        "title": "Quelle taille pour les cartes ?"
+      },
+      "confirm_bids": {
+        "recommended": "Recommandé"
+      },
+      "interface_size": {
+        "large": "Grande",
+        "large_text": "Texte plus grand et boutons plus grands.",
+        "medium": "Moyenne",
+        "medium_text": "Un peu plus grande que compacte.",
+        "small": "Compacte",
+        "small_text": "Affiche le plus de choses à l’écran.",
+        "subtitle": "Cela redimensionne tout : boutons, menus et cette page. Choisissez ce qui se lit confortablement.",
+        "title": "Et le reste de l’application ?"
+      },
+      "resources": {
+        "in_app_note": "Les guides et l’assistance sont dans le menu, à tout moment."
+      },
+      "welcome": {
+        "recommended_badge": "Le plus rapide"
       }
     }
   },

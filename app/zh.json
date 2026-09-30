@@ -372,6 +372,41 @@
         "looks_good": "看起来不错！",
         "edit_hint": "随时可用左下角的按钮更改外观。",
         "tip_open": "提示：15 点、均型牌，开叫 1NT。"
+      },
+      "actions": {
+        "skip_done": "前往 Cuebids",
+        "start": "开始打牌"
+      },
+      "card_size": {
+        "fan_text": "牌呈扇形展开，就像你在牌桌上拿牌一样。",
+        "fan_title": "扇形排列",
+        "large": "大",
+        "large_text": "最容易阅读，也最容易点击。",
+        "medium": "中",
+        "medium_text": "大多数玩家选择的平衡大小。",
+        "small": "小",
+        "small_text": "一次能看到更多叫牌。",
+        "subtitle": "叫牌时手牌占据大部分屏幕，所以值得设置好。",
+        "title": "牌要多大？"
+      },
+      "confirm_bids": {
+        "recommended": "推荐"
+      },
+      "interface_size": {
+        "large": "大",
+        "large_text": "更大的文字和按钮。",
+        "medium": "中",
+        "medium_text": "比紧凑略大。",
+        "small": "紧凑",
+        "small_text": "屏幕上显示最多内容。",
+        "subtitle": "这会调整所有内容的大小——按钮、菜单和本页。选择读起来舒适的大小。",
+        "title": "那应用的其他部分呢？"
+      },
+      "resources": {
+        "in_app_note": "指南和支持随时都在菜单里。"
+      },
+      "welcome": {
+        "recommended_badge": "最快"
       }
     }
   },

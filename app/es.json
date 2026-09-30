@@ -367,6 +367,41 @@
         "looks_good": "¡Se ve bien!",
         "edit_hint": "Cambia el aspecto cuando quieras con el botón de abajo a la izquierda.",
         "tip_open": "Consejo: 15 puntos y una mano equilibrada: abre 1SA."
+      },
+      "actions": {
+        "skip_done": "Ir a Cuebids",
+        "start": "Empezar a jugar"
+      },
+      "card_size": {
+        "fan_text": "Las cartas se abren en abanico, como las sostienes en la mesa.",
+        "fan_title": "Cartas en abanico",
+        "large": "Grandes",
+        "large_text": "Las más fáciles de leer y de tocar.",
+        "medium": "Medianas",
+        "medium_text": "El equilibrio que eligen la mayoría de los jugadores.",
+        "small": "Pequeñas",
+        "small_text": "Se ve más de la subasta a la vez.",
+        "subtitle": "La mano ocupa casi toda la pantalla mientras subastas, así que vale la pena ajustarlo bien.",
+        "title": "¿De qué tamaño quieres las cartas?"
+      },
+      "confirm_bids": {
+        "recommended": "Recomendado"
+      },
+      "interface_size": {
+        "large": "Grande",
+        "large_text": "Texto más grande y botones más grandes.",
+        "medium": "Mediana",
+        "medium_text": "Un poco más grande que compacta.",
+        "small": "Compacta",
+        "small_text": "Cabe lo máximo en pantalla.",
+        "subtitle": "Esto cambia el tamaño de todo: botones, menús y esta página. Elige lo que se lea cómodamente.",
+        "title": "¿Y el resto de la app?"
+      },
+      "resources": {
+        "in_app_note": "Las guías y el soporte están en el menú, en cualquier momento."
+      },
+      "welcome": {
+        "recommended_badge": "Lo más rápido"
       }
     }
   },

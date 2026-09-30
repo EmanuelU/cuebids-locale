@@ -269,5 +269,44 @@
   },
   "subscription": {
     "gift_info": "這是一份禮物。無需付款或管理——它會在上方日期結束，不會續訂。"
+  },
+  "onboarding": {
+    "v2": {
+      "actions": {
+        "skip_done": "前往 Cuebids",
+        "start": "開始打牌"
+      },
+      "card_size": {
+        "fan_text": "牌呈扇形展開，就像你在牌桌上拿牌一樣。",
+        "fan_title": "扇形排列",
+        "large": "大",
+        "large_text": "最容易閱讀，也最容易點擊。",
+        "medium": "中",
+        "medium_text": "大多數玩家選擇的平衡大小。",
+        "small": "小",
+        "small_text": "一次能看到更多叫牌。",
+        "subtitle": "叫牌時手牌佔據大部分螢幕，所以值得設定好。",
+        "title": "牌要多大？"
+      },
+      "confirm_bids": {
+        "recommended": "推薦"
+      },
+      "interface_size": {
+        "large": "大",
+        "large_text": "更大的文字和按鈕。",
+        "medium": "中",
+        "medium_text": "比緊湊略大。",
+        "small": "緊湊",
+        "small_text": "螢幕上顯示最多內容。",
+        "subtitle": "這會調整所有內容的大小——按鈕、選單和本頁。選擇讀起來舒適的大小。",
+        "title": "那應用程式的其他部分呢？"
+      },
+      "resources": {
+        "in_app_note": "指南和支援隨時都在選單裡。"
+      },
+      "welcome": {
+        "recommended_badge": "最快"
+      }
+    }
   }
 }
