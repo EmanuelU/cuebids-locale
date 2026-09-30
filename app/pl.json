@@ -367,6 +367,41 @@
         "looks_good": "Wygląda dobrze!",
         "edit_hint": "Zmień wygląd w każdej chwili przyciskiem w lewym dolnym rogu.",
         "tip_open": "Wskazówka: 15 punktów i ręka zrównoważona – otwórz 1BA."
+      },
+      "actions": {
+        "skip_done": "Przejdź do Cuebids",
+        "start": "Zacznij grać"
+      },
+      "card_size": {
+        "fan_text": "Karty rozłożone w łuk, tak jak trzymasz je przy stole.",
+        "fan_title": "Wachlarz kart",
+        "large": "Duże",
+        "large_text": "Najłatwiejsze do czytania i dotykania.",
+        "medium": "Średnie",
+        "medium_text": "Równowaga, którą wybiera większość graczy.",
+        "small": "Małe",
+        "small_text": "Więcej licytacji widać naraz.",
+        "subtitle": "Podczas licytacji ręka zajmuje większość ekranu, więc warto to dobrze ustawić.",
+        "title": "Jak duże mają być karty?"
+      },
+      "confirm_bids": {
+        "recommended": "Zalecane"
+      },
+      "interface_size": {
+        "large": "Duży",
+        "large_text": "Większy tekst i większe przyciski.",
+        "medium": "Średni",
+        "medium_text": "Nieco większy niż kompaktowy.",
+        "small": "Kompaktowy",
+        "small_text": "Mieści najwięcej na ekranie.",
+        "subtitle": "To zmienia rozmiar wszystkiego - przycisków, menu i tej strony. Wybierz to, co wygodnie się czyta.",
+        "title": "A reszta aplikacji?"
+      },
+      "resources": {
+        "in_app_note": "Poradniki i pomoc są w menu, w każdej chwili."
+      },
+      "welcome": {
+        "recommended_badge": "Najszybciej"
       }
     }
   },

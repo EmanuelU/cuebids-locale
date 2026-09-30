@@ -367,6 +367,41 @@
         "looks_good": "Looks good!",
         "edit_hint": "Change the look any time with the button bottom left.",
         "tip_open": "Tip: 15 points and a balanced hand - open 1NT."
+      },
+      "actions": {
+        "skip_done": "Go to Cuebids",
+        "start": "Start playing"
+      },
+      "card_size": {
+        "fan_text": "Cards spread in an arc, the way you would hold them at the table.",
+        "fan_title": "Fan the cards",
+        "large": "Large",
+        "large_text": "Easiest to read, and the easiest to tap.",
+        "medium": "Medium",
+        "medium_text": "The balance most players settle on.",
+        "small": "Small",
+        "small_text": "More of the auction visible at once.",
+        "subtitle": "The hand is most of the screen while you bid, so this is worth getting right.",
+        "title": "How big should the cards be?"
+      },
+      "confirm_bids": {
+        "recommended": "Recommended"
+      },
+      "interface_size": {
+        "large": "Large",
+        "large_text": "Bigger text and bigger tap targets.",
+        "medium": "Medium",
+        "medium_text": "A little larger than compact.",
+        "small": "Compact",
+        "small_text": "Fits the most on screen.",
+        "subtitle": "This resizes everything - buttons, menus and this page. Pick what reads comfortably.",
+        "title": "And the rest of the app?"
+      },
+      "resources": {
+        "in_app_note": "Guides and support are in the menu, any time."
+      },
+      "welcome": {
+        "recommended_badge": "Fastest"
       }
     }
   },

@@ -367,6 +367,41 @@
         "looks_good": "Ser bra ut!",
         "edit_hint": "Ändra utseendet när som helst med knappen nere till vänster.",
         "tip_open": "Tips: 15 poäng och en jämn hand – öppna med 1NT."
+      },
+      "actions": {
+        "skip_done": "Gå till Cuebids",
+        "start": "Börja spela"
+      },
+      "card_size": {
+        "fan_text": "Korten sprids i en båge, som när du håller dem vid bordet.",
+        "fan_title": "Solfjäder",
+        "large": "Stora",
+        "large_text": "Lättast att läsa och lättast att trycka på.",
+        "medium": "Mellan",
+        "medium_text": "Balansen de flesta spelare väljer.",
+        "small": "Små",
+        "small_text": "Mer av budgivningen syns på en gång.",
+        "subtitle": "Handen tar upp det mesta av skärmen när du budar, så det här är värt att få rätt.",
+        "title": "Hur stora ska korten vara?"
+      },
+      "confirm_bids": {
+        "recommended": "Rekommenderas"
+      },
+      "interface_size": {
+        "large": "Stor",
+        "large_text": "Större text och större knappar.",
+        "medium": "Mellan",
+        "medium_text": "Lite större än kompakt.",
+        "small": "Kompakt",
+        "small_text": "Får plats med mest på skärmen.",
+        "subtitle": "Det här ändrar storleken på allt - knappar, menyer och den här sidan. Välj det som är bekvämt att läsa.",
+        "title": "Och resten av appen?"
+      },
+      "resources": {
+        "in_app_note": "Guider och support finns i menyn, när som helst."
+      },
+      "welcome": {
+        "recommended_badge": "Snabbast"
       }
     }
   },
