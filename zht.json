@@ -2166,7 +2166,17 @@
     "stars": "星星",
     "pattern_error": "這個序列無法搜尋：標記必須落在序列能數到的叫品上，請刪掉它前面的 …。",
     "whose_call": "誰的叫品？",
-    "seat_conflict": "這兩個不能同時成立：{{first}} 是{{firstSeat}}，{{second}} 是{{secondSeat}}，兩者相隔的叫品數不對。改掉其中一個，或者在它們之間放一個 …，讓空檔吸收差值。"
+    "seat_conflict": "這兩個不能同時成立：{{first}} 是{{firstSeat}}，{{second}} 是{{secondSeat}}，兩者相隔的叫品數不對。改掉其中一個，或者在它們之間放一個 …，讓空檔吸收差值。",
+    "tabs": {
+      "auction": "叫牌",
+      "hands": "手牌",
+      "results": "結果"
+    },
+    "hands": {
+      "hcp": "HCP",
+      "length_at_least": "花色長度，至少",
+      "balanced": "均型"
+    }
   },
   "flagged_session_deals": {
     "none": "都看完啦！點擊旗標即可標記一副牌。",

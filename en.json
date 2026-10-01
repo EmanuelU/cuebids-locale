@@ -2165,7 +2165,17 @@
     "stars": "Stars",
     "pattern_error": "That pattern cannot be searched: a lock has to be on a call the pattern can count to, so remove the … in front of it.",
     "whose_call": "Whose call?",
-    "seat_conflict": "Those two cannot both be true: {{first}} as {{firstSeat}} and {{second}} as {{secondSeat}} are the wrong distance apart. Change one of them, or put a … between them so the gap can absorb it."
+    "seat_conflict": "Those two cannot both be true: {{first}} as {{firstSeat}} and {{second}} as {{secondSeat}} are the wrong distance apart. Change one of them, or put a … between them so the gap can absorb it.",
+    "tabs": {
+      "auction": "Auction",
+      "hands": "Hands",
+      "results": "Results"
+    },
+    "hands": {
+      "hcp": "HCP",
+      "length_at_least": "Suit length, at least",
+      "balanced": "Balanced"
+    }
   },
   "flagged_session_deals": {
     "none": "All caught up! Flag a deal by clicking the flag.",
