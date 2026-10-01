@@ -1063,7 +1063,7 @@
     "create_challenge": "Create challenge",
     "choose_from_label": "Choose players from",
     "from_friends": "Your friends",
-    "group_invite_note": "Players who aren't your friends join at once if they allow instant group challenges and it costs them nothing. Otherwise they get an invitation.",
+    "group_invite_note": "Players who aren't your friends join at once if they allow instant group challenges, tickets included. The others get an invitation.",
     "organize_label": "I'm not playing: set it up for four members",
     "organize_note": "Players who allow instant group challenges are in at once, tickets included. The others get an invitation.",
     "player_label": "Player"
@@ -1299,7 +1299,7 @@
     "allow_replay_invites_label": "Allow replay invites",
     "allow_replay_invites_desc": "Mutual friends can select you when replaying finished boards. Turn this off to hide yourself from replay selection.",
     "allow_instant_group_challenges_label": "Allow instant group challenges",
-    "allow_instant_group_challenges_desc": "Group members can put you in a challenge without an invitation. If it costs you tickets you are asked first, unless a group admin set it up. Turn this off to be asked every time.",
+    "allow_instant_group_challenges_desc": "Members and admins of your groups can put you in a challenge without an invitation, and your tickets are used as if you had started it. Turn this off to be asked first, every time.",
     "display_collapse_title": "Display",
     "dark_mode_button": "Dark",
     "light_mode_button": "Light",

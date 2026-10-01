@@ -1063,7 +1063,7 @@
     "create_challenge": "Crear desafío",
     "choose_from_label": "Elegir jugadores de",
     "from_friends": "Tus amigos",
-    "group_invite_note": "Los jugadores que no son tus amigos entran al momento si permiten desafíos de grupo inmediatos y no les cuesta nada. Si no, reciben una invitación.",
+    "group_invite_note": "Los jugadores que no son tus amigos entran al momento, tickets incluidos, si permiten desafíos de grupo inmediatos. Los demás reciben una invitación.",
     "organize_label": "No juego: organizarlo para cuatro miembros",
     "organize_note": "Los jugadores que permiten desafíos de grupo inmediatos entran al momento, tickets incluidos. Los demás reciben una invitación.",
     "player_label": "Jugador"
@@ -1299,7 +1299,7 @@
     "allow_replay_invites_label": "Permitir invitaciones de repetición",
     "allow_replay_invites_desc": "Los amigos mutuos pueden seleccionarte al repetir manos finalizadas. Desactívalo para ocultarte de la selección de repeticiones.",
     "allow_instant_group_challenges_label": "Permitir desafíos de grupo inmediatos",
-    "allow_instant_group_challenges_desc": "Los miembros de tus grupos pueden incluirte en un desafío sin invitación. Si te cuesta tickets, se te pregunta antes, salvo que lo haya organizado un administrador del grupo. Desactívalo para que te pregunten siempre.",
+    "allow_instant_group_challenges_desc": "Los miembros y administradores de tus grupos pueden incluirte en un desafío sin invitación, y se usan tus tickets como si lo hubieras empezado tú. Desactívalo para que te pregunten siempre antes.",
     "display_collapse_title": "Visible",
     "dark_mode_button": "Oscuro",
     "light_mode_button": "Claro",

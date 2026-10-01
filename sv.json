@@ -1063,7 +1063,7 @@
     "create_challenge": "Skapa utmaning",
     "choose_from_label": "Välj spelare från",
     "from_friends": "Dina vänner",
-    "group_invite_note": "Spelare som inte är dina vänner är med direkt om de tillåter direkta gruppmatcher och det inte kostar dem något. Annars får de en inbjudan.",
+    "group_invite_note": "Spelare som inte är dina vänner är med direkt om de tillåter direkta gruppmatcher, biljetter inräknade. Övriga får en inbjudan.",
     "organize_label": "Jag spelar inte: ordna den för fyra medlemmar",
     "organize_note": "Spelare som tillåter direkta gruppmatcher är med direkt, biljetter inräknade. Övriga får en inbjudan.",
     "player_label": "Spelare"
@@ -1299,7 +1299,7 @@
     "allow_replay_invites_label": "Tillåt omspelsinbjudningar",
     "allow_replay_invites_desc": "Ömsesidiga vänner kan välja dig när de spelar om avslutade givar. Stäng av detta för att dölja dig från omspelsval.",
     "allow_instant_group_challenges_label": "Tillåt direkta gruppmatcher",
-    "allow_instant_group_challenges_desc": "Gruppmedlemmar kan lägga till dig i en utmaning utan inbjudan. Kostar den dig biljetter får du frågan först, utom när en gruppadmin har ordnat den. Stäng av för att alltid få frågan.",
+    "allow_instant_group_challenges_desc": "Medlemmar och admins i dina grupper kan lägga till dig i en utmaning utan inbjudan, och dina biljetter dras som om du själv hade startat den. Stäng av för att alltid få frågan först.",
     "display_collapse_title": "Visa",
     "dark_mode_button": "Mörk",
     "light_mode_button": "Ljus",
