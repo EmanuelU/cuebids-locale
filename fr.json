@@ -2165,7 +2165,17 @@
     "stars": "Etoiles",
     "pattern_error": "Ce motif ne peut pas être cherché : une étiquette doit porter sur une enchère que le motif peut compter, donc retirez le … qui la précède.",
     "whose_call": "Enchère de qui ?",
-    "seat_conflict": "Ces deux-là ne peuvent pas être vraies en même temps : {{first}} comme {{firstSeat}} et {{second}} comme {{secondSeat}} ne sont pas à la bonne distance. Changez l'une des deux, ou mettez un … entre elles pour que l'écart absorbe la différence."
+    "seat_conflict": "Ces deux-là ne peuvent pas être vraies en même temps : {{first}} comme {{firstSeat}} et {{second}} comme {{secondSeat}} ne sont pas à la bonne distance. Changez l'une des deux, ou mettez un … entre elles pour que l'écart absorbe la différence.",
+    "tabs": {
+      "auction": "Enchères",
+      "hands": "Mains",
+      "results": "Résultats"
+    },
+    "hands": {
+      "hcp": "H",
+      "length_at_least": "Longueur, au moins",
+      "balanced": "Régulière"
+    }
   },
   "flagged_session_deals": {
     "none": "Aucune donne marquée ! Marquez une donne en cliquant sur le drapeau.",

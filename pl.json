@@ -2167,7 +2167,17 @@
     "stars": "Gwiazdki",
     "pattern_error": "Tego wzoru nie można wyszukać: etykieta musi stać na odzywce, do której wzór potrafi doliczyć, więc usuń … stojące przed nią.",
     "whose_call": "Czyja odzywka?",
-    "seat_conflict": "Te dwie nie mogą być prawdziwe naraz: {{first}} jako {{firstSeat}} i {{second}} jako {{secondSeat}} są w złej odległości od siebie. Zmień jedną z nich albo wstaw między nie …, żeby luka wchłonęła różnicę."
+    "seat_conflict": "Te dwie nie mogą być prawdziwe naraz: {{first}} jako {{firstSeat}} i {{second}} jako {{secondSeat}} są w złej odległości od siebie. Zmień jedną z nich albo wstaw między nie …, żeby luka wchłonęła różnicę.",
+    "tabs": {
+      "auction": "Licytacja",
+      "hands": "Ręce",
+      "results": "Wyniki"
+    },
+    "hands": {
+      "hcp": "PC",
+      "length_at_least": "Długość koloru, co najmniej",
+      "balanced": "Zrównoważona"
+    }
   },
   "flagged_session_deals": {
     "none": "Wszystko nadrobione! Oflaguj rozdanie używając kropkowanego menu po zakończeniu licytacji.",
