@@ -2154,6 +2154,7 @@
     "syncing": "正在载入你的牌…已有 {{count}} 副",
     "sync_failed": "无法载入更多牌。在已有的 {{count}} 副中搜索。",
     "searching_in": "在你最近的 {{count}} 副牌中搜索",
+    "search_further": "开通红心会员，可在最近的 {{max}} 副牌中搜索",
     "no_matches": "没有符合的牌。",
     "more_hidden": "还有 {{count}} 副未显示，请缩小搜索范围。",
     "with": "搭档",

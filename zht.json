@@ -2154,6 +2154,7 @@
     "syncing": "正在載入你的牌…已有 {{count}} 副",
     "sync_failed": "無法載入更多牌。在已有的 {{count}} 副中搜尋。",
     "searching_in": "在你最近的 {{count}} 副牌中搜尋",
+    "search_further": "開通紅桃訂閱，可在最近的 {{max}} 副牌中搜尋",
     "no_matches": "沒有符合的牌。",
     "more_hidden": "還有 {{count}} 副未顯示，請縮小搜尋範圍。",
     "with": "搭檔",

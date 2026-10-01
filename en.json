@@ -2153,6 +2153,7 @@
     "syncing": "Loading your boards… {{count}} so far",
     "sync_failed": "Could not load more boards. Searching the {{count}} already here.",
     "searching_in": "Searching your last {{count}} boards",
+    "search_further": "Heart searches your last {{max}} boards",
     "no_matches": "No boards match.",
     "more_hidden": "{{count}} more not shown — narrow the search.",
     "with": "With",

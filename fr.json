@@ -2153,6 +2153,7 @@
     "syncing": "Chargement de vos donnes… {{count}} pour l'instant",
     "sync_failed": "Impossible de charger plus de donnes. Recherche dans les {{count}} déjà là.",
     "searching_in": "Recherche dans vos {{count}} dernières donnes",
+    "search_further": "Avec l’abonnement Cœur, recherchez dans vos {{max}} dernières donnes",
     "no_matches": "Aucune donne ne correspond.",
     "more_hidden": "{{count}} de plus non affichées — affinez la recherche.",
     "with": "Avec",
