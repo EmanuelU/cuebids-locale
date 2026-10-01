@@ -2118,6 +2118,54 @@
     "charge": "Débit",
     "explain_split": "Pour jouer, vous devez utiliser des tickets. Chaque mois, vous recevez de nouveaux tickets, et les abonnés en reçoivent davantage. Les abonnés Cœur ont un accès illimité."
   },
+  "deal_search": {
+    "box": {
+      "hint": "Touchez les enchères que vous cherchez",
+      "any_level": "N'importe quel palier",
+      "any_call": "N'importe quelle enchère, passe et contre compris",
+      "any_call_key": "toute",
+      "run": "N'importe quel nombre d'enchères",
+      "run_key": "…",
+      "legend_minor": "m = une mineure (♣ ou ♦)",
+      "legend_major": "M = une majeure (♠ ou ♥)",
+      "legend_any_strain": "? = n'importe quelle couleur ou palier",
+      "legend_run": "… = n'importe quel nombre d'enchères",
+      "remove": "Retirer",
+      "replace": "Remplacer",
+      "replace_pick": "Choisissez une enchère…",
+      "label": "Enchère de qui ?"
+    },
+    "anchor": {
+      "opening": "Depuis l'ouverture",
+      "anywhere": "N'importe où",
+      "end": "À la fin"
+    },
+    "lock": {
+      "me": "Moi",
+      "partner": "Partenaire",
+      "us": "Nous",
+      "them": "Eux"
+    },
+    "contract_in": "Contrat en",
+    "undo": "Annuler",
+    "clear": "Effacer",
+    "impossible": "Ces deux étiquettes ne peuvent pas être vraies en même temps : les enchères se suivent, donc les places aussi.",
+    "syncing": "Chargement de vos donnes… {{count}} pour l'instant",
+    "sync_failed": "Impossible de charger plus de donnes. Recherche dans les {{count}} déjà là.",
+    "searching_in": "Recherche dans vos {{count}} dernières donnes",
+    "no_matches": "Aucune donne ne correspond.",
+    "more_hidden": "{{count}} de plus non affichées — affinez la recherche.",
+    "with": "Avec",
+    "any_partner": "Tous les partenaires",
+    "show_more": "Afficher {{count}} de plus",
+    "at_most": "au plus",
+    "at_least": "au moins",
+    "leading_passes": "Passes avant",
+    "stars": "Etoiles",
+    "pattern_error": "Ce motif ne peut pas être cherché : une étiquette doit porter sur une enchère que le motif peut compter, donc retirez le … qui la précède.",
+    "whose_call": "Enchère de qui ?",
+    "seat_conflict": "Ces deux-là ne peuvent pas être vraies en même temps : {{first}} comme {{firstSeat}} et {{second}} comme {{secondSeat}} ne sont pas à la bonne distance. Changez l'une des deux, ou mettez un … entre elles pour que l'écart absorbe la différence."
+  },
   "flagged_session_deals": {
     "none": "Aucune donne marquée ! Marquez une donne en cliquant sur le drapeau.",
     "show_all_partners": "Afficher tous les partenaires",
@@ -3148,7 +3196,9 @@
     "leak_finder_info": "Consultez des rapports sur différents thèmes de donnes, qui mettent en évidence celles où vous auriez pu mieux faire.",
     "dashboard_title": "Partenaires, tournoi hebdo, tournoi du jour",
     "dashboard_info": "Consultez votre score moyen avec chaque partenaire, ainsi que vos résultats aux tournois hebdo et aux tournois du jour.",
-    "new": "Nouveau !"
+    "new": "Nouveau !",
+    "deal_search_title": "Trouver une donne",
+    "deal_search_info": "Retrouvez les donnes que vous avez enchéries, par les enchères, le contrat ou le résultat. Touchez les enchères que vous cherchez."
   },
   "stats_overview": {
     "tab_ranked": "Classés",
@@ -3600,6 +3650,21 @@
       "p1": "Cuebids publie des vidéos et des nouvelles sur les réseaux sociaux.",
       "youtube": "Chaîne YouTube",
       "facebook": "Page Facebook"
+    }
+  },
+  "library": {
+    "save": {
+      "title": "Enregistrer cette donne",
+      "title_saved": "Enregistrée dans votre bibliothèque",
+      "explain": "À vous seul. Le drapeau dit à votre partenaire de regarder une donne ; ceci la garde pour vous, avec vos propres mots.",
+      "needs_heart": "Enregistrer une donne est gratuit. Les étiquettes et la note demandent Cœur.",
+      "labels": "Étiquettes",
+      "label_placeholder": "Lebensohl, demander à Anna, misfit…",
+      "note": "Note",
+      "note_placeholder": "Pourquoi ai-je passé ?",
+      "save": "Enregistrer",
+      "update": "Enregistrer les modifications",
+      "remove": "Retirer de la bibliothèque"
     }
   }
 }

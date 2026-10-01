@@ -2118,6 +2118,54 @@
     "charge": "Charge",
     "explain_split": "To play, you must use tickets. Every month, you receive new tickets, and subscribers receive more tickets. Heart Subscribers have unlimited access."
   },
+  "deal_search": {
+    "box": {
+      "hint": "Tap the auction you are looking for",
+      "any_level": "Any level",
+      "any_call": "Any call, including pass and double",
+      "any_call_key": "any",
+      "run": "Any number of calls",
+      "run_key": "…",
+      "legend_minor": "m = a minor (♣ or ♦)",
+      "legend_major": "M = a major (♠ or ♥)",
+      "legend_any_strain": "? = any strain or level",
+      "legend_run": "… = any number of calls",
+      "remove": "Remove",
+      "replace": "Replace",
+      "replace_pick": "Pick a bid…",
+      "label": "Whose call?"
+    },
+    "anchor": {
+      "opening": "From the opening",
+      "anywhere": "Anywhere",
+      "end": "At the end"
+    },
+    "lock": {
+      "me": "Me",
+      "partner": "Partner",
+      "us": "Us",
+      "them": "Them"
+    },
+    "contract_in": "Contract in",
+    "undo": "Undo",
+    "clear": "Clear",
+    "impossible": "Those locks cannot both be true — the calls are consecutive, so their seats are too.",
+    "syncing": "Loading your boards… {{count}} so far",
+    "sync_failed": "Could not load more boards. Searching the {{count}} already here.",
+    "searching_in": "Searching your last {{count}} boards",
+    "no_matches": "No boards match.",
+    "more_hidden": "{{count}} more not shown — narrow the search.",
+    "with": "With",
+    "any_partner": "Any partner",
+    "show_more": "Show {{count}} more",
+    "at_most": "at most",
+    "at_least": "at least",
+    "leading_passes": "Passes before",
+    "stars": "Stars",
+    "pattern_error": "That pattern cannot be searched: a lock has to be on a call the pattern can count to, so remove the … in front of it.",
+    "whose_call": "Whose call?",
+    "seat_conflict": "Those two cannot both be true: {{first}} as {{firstSeat}} and {{second}} as {{secondSeat}} are the wrong distance apart. Change one of them, or put a … between them so the gap can absorb it."
+  },
   "flagged_session_deals": {
     "none": "All caught up! Flag a deal by clicking the flag.",
     "show_all_partners": "Show all partners",
@@ -3148,6 +3196,8 @@
     "leak_finder_info": "See reports of different kind if boards, pinpointing the deals you could have done better on.",
     "dashboard_title": "Partners, Weekly, Daily",
     "dashboard_info": "See your average score with each partner, and your results in Weekly and Daily events.",
+    "deal_search_title": "Find a deal",
+    "deal_search_info": "Find the boards you bid, by the auction, the contract or the result. Tap the auction you are looking for.",
     "new": "New!"
   },
   "stats_overview": {
@@ -3600,6 +3650,21 @@
       "p1": "Cuebids posts videos and updates on social media.",
       "youtube": "YouTube channel",
       "facebook": "Facebook page"
+    }
+  },
+  "library": {
+    "save": {
+      "title": "Save this board",
+      "title_saved": "Saved to your library",
+      "explain": "Yours alone. The flag tells your partner to look at a board; this keeps it for you, with your own words on it.",
+      "needs_heart": "Saving a board is free. Labels and a note need Heart.",
+      "labels": "Labels",
+      "label_placeholder": "Lebensohl, ask Anna, misfit…",
+      "note": "Note",
+      "note_placeholder": "Why did I pass?",
+      "save": "Save",
+      "update": "Save changes",
+      "remove": "Remove from library"
     }
   }
 }
