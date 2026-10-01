@@ -1001,7 +1001,9 @@
     "text_scale_md": "",
     "text_scale_lg": "",
     "text_scale_xl": "",
-    "newsletter_needs_verified": ""
+    "newsletter_needs_verified": "",
+    "allow_instant_group_challenges_label": "",
+    "allow_instant_group_challenges_desc": ""
   },
   "subscribe_newsletter": {
     "verification_in_progress": "",

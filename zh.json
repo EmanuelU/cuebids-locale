@@ -1064,9 +1064,9 @@
     "create_challenge": "创建挑战",
     "choose_from_label": "从以下选择玩家",
     "from_friends": "你的好友",
-    "group_invite_note": "不是你好友的玩家会收到邀请，接受后挑战才会开始。",
+    "group_invite_note": "不是你好友的玩家，如果允许即时小组挑战且不需要花费他们的票，会直接加入；否则会收到邀请。",
     "organize_label": "我不参加：为四名成员安排",
-    "organize_note": "四名玩家都会收到邀请，全部接受后挑战才会开始。",
+    "organize_note": "允许即时小组挑战的玩家会直接加入，包括扣除票数。其他玩家会收到邀请。",
     "player_label": "玩家"
   },
   "friendly_challenge": {
@@ -1299,6 +1299,8 @@
     "performance_report_notifications_label": "每周搭档表现总结",
     "allow_replay_invites_label": "允许重打邀请",
     "allow_replay_invites_desc": "互相关注的好友可以在重打已完成牌局时选择你。关闭后，你将不会出现在重打候选列表中。",
+    "allow_instant_group_challenges_label": "允许即时小组挑战",
+    "allow_instant_group_challenges_desc": "小组成员可以不经邀请把你加入挑战。如果需要花费你的票，会先征求你的同意，除非挑战由小组管理员安排。关闭后每次都会先询问你。",
     "display_collapse_title": "显示",
     "dark_mode_button": "黑暗",
     "light_mode_button": "光",

@@ -1063,9 +1063,9 @@
     "create_challenge": "Créer le défi",
     "choose_from_label": "Choisir les joueurs parmi",
     "from_friends": "Vos amis",
-    "group_invite_note": "Les joueurs qui ne sont pas vos amis reçoivent une invitation et doivent l’accepter avant le début du défi.",
+    "group_invite_note": "Les joueurs qui ne sont pas vos amis rejoignent le défi tout de suite s’ils autorisent les défis de groupe immédiats et que cela ne leur coûte rien. Sinon, ils reçoivent une invitation.",
     "organize_label": "Je ne joue pas : l’organiser pour quatre membres",
-    "organize_note": "Les quatre joueurs reçoivent une invitation et doivent l’accepter avant le début du défi.",
+    "organize_note": "Les joueurs qui autorisent les défis de groupe immédiats sont inscrits tout de suite, tickets compris. Les autres reçoivent une invitation.",
     "player_label": "Joueur"
   },
   "friendly_challenge": {
@@ -1298,6 +1298,8 @@
     "performance_report_notifications_label": "Résumé hebdomadaire des résultats de vos partenariats",
     "allow_replay_invites_label": "Autoriser les invitations à rejouer",
     "allow_replay_invites_desc": "Vos amis peuvent vous sélectionner lorsqu'ils rejouent des donnes terminées. Désactivez cette option pour ne pas apparaître dans la sélection.",
+    "allow_instant_group_challenges_label": "Autoriser les défis de groupe immédiats",
+    "allow_instant_group_challenges_desc": "Les membres de vos groupes peuvent vous inscrire à un défi sans invitation. S’il vous coûte des tickets, on vous le demande d’abord, sauf s’il est organisé par un administrateur du groupe. Désactivez pour être toujours consulté.",
     "display_collapse_title": "Affichage",
     "dark_mode_button": "Sombre",
     "light_mode_button": "Clair",

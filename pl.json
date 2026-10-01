@@ -1063,9 +1063,9 @@
     "create_challenge": "Utwórz wyzwanie",
     "choose_from_label": "Wybierz graczy z",
     "from_friends": "Twoi znajomi",
-    "group_invite_note": "Gracze, którzy nie są Twoimi znajomymi, dostają zaproszenie i muszą je przyjąć, zanim wyzwanie się zacznie.",
+    "group_invite_note": "Gracze spoza twoich znajomych dołączają od razu, jeśli zezwalają na natychmiastowe wyzwania grupowe i nic ich to nie kosztuje. W przeciwnym razie dostają zaproszenie.",
     "organize_label": "Nie gram: przygotuj wyzwanie dla czterech członków",
-    "organize_note": "Wszyscy czterej gracze dostają zaproszenie i muszą je przyjąć, zanim wyzwanie się zacznie.",
+    "organize_note": "Gracze, którzy zezwalają na natychmiastowe wyzwania grupowe, dołączają od razu, łącznie z biletami. Pozostali dostają zaproszenie.",
     "player_label": "Gracz"
   },
   "friendly_challenge": {
@@ -1300,6 +1300,8 @@
     "performance_report_notifications_label": "Cotygodniowe podsumowanie wyników twoich par",
     "allow_replay_invites_label": "Pozwalaj na zaproszenia do powtórek",
     "allow_replay_invites_desc": "Wzajemni znajomi mogą wybierać cię podczas odtwarzania zakończonych rozdań. Wyłącz to, aby ukryć się z listy powtórek.",
+    "allow_instant_group_challenges_label": "Zezwalaj na natychmiastowe wyzwania grupowe",
+    "allow_instant_group_challenges_desc": "Członkowie grupy mogą dodać cię do wyzwania bez zaproszenia. Jeśli kosztuje cię to bilety, najpierw zostaniesz zapytany, chyba że wyzwanie przygotował administrator grupy. Wyłącz, aby zawsze być pytanym.",
     "display_collapse_title": "Wyświetlanie",
     "dark_mode_button": "Ciemny",
     "light_mode_button": "Jasny",
