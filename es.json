@@ -1772,6 +1772,7 @@
     },
     "group": {
       "tab_events": "Eventos",
+      "tab_challenges": "Desafíos",
       "tab_members": "Miembros",
       "tab_invited": "Invitados",
       "tab_premium_members": "Miembros premium",
@@ -1810,7 +1811,10 @@
         "stars": "Estrellas",
         "no_player_info": "No hay actividad de jugadores para mostrar."
       },
-      "challenge_members": "Desafiar a miembros"
+      "challenge_members": "Desafiar a miembros",
+      "challenges_empty": "Todavía no hay desafíos en este grupo.",
+      "challenges_active": "En juego",
+      "challenges_finished": "Terminados"
     },
     "group_list": {
       "new_events": "Nuevos eventos",

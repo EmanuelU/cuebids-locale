@@ -1405,6 +1405,7 @@
     },
     "group": {
       "tab_events": "",
+      "tab_challenges": "",
       "tab_members": "",
       "tab_invited": "",
       "tab_premium_members": "",
@@ -1443,7 +1444,10 @@
         "stars": "",
         "no_player_info": ""
       },
-      "challenge_members": ""
+      "challenge_members": "",
+      "challenges_empty": "",
+      "challenges_active": "",
+      "challenges_finished": ""
     },
     "group_list": {
       "new_events": "",

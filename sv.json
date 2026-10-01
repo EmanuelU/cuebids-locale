@@ -1772,6 +1772,7 @@
     },
     "group": {
       "tab_events": "Event",
+      "tab_challenges": "Utmaningar",
       "tab_members": "Medlemmar",
       "tab_invited": "Inbjudna",
       "tab_premium_members": "Premium",
@@ -1810,7 +1811,10 @@
         "stars": "Stjärnor",
         "no_player_info": "Ingen spelaraktivitet att visa"
       },
-      "challenge_members": "Utmana medlemmar"
+      "challenge_members": "Utmana medlemmar",
+      "challenges_empty": "Inga utmaningar i gruppen än.",
+      "challenges_active": "Pågår",
+      "challenges_finished": "Avslutade"
     },
     "group_list": {
       "new_events": "Nya Event",

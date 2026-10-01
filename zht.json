@@ -1773,6 +1773,7 @@
     },
     "group": {
       "tab_events": "練習",
+      "tab_challenges": "挑戰",
       "tab_members": "成員",
       "tab_invited": "邀請",
       "tab_premium_members": "VIP 成員",
@@ -1811,7 +1812,10 @@
         "stars": "星星",
         "no_player_info": "沒有可顯示的玩家活動"
       },
-      "challenge_members": "挑戰成員"
+      "challenge_members": "挑戰成員",
+      "challenges_empty": "本組還沒有挑戰。",
+      "challenges_active": "進行中",
+      "challenges_finished": "已結束"
     },
     "group_list": {
       "new_events": "新練習",

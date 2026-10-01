@@ -1773,6 +1773,7 @@
     },
     "group": {
       "tab_events": "练习",
+      "tab_challenges": "挑战",
       "tab_members": "成员",
       "tab_invited": "邀请",
       "tab_premium_members": "VIP 成员",
@@ -1811,7 +1812,10 @@
         "stars": "星星",
         "no_player_info": "没有可显示的玩家活动"
       },
-      "challenge_members": "挑战成员"
+      "challenge_members": "挑战成员",
+      "challenges_empty": "本组还没有挑战。",
+      "challenges_active": "进行中",
+      "challenges_finished": "已结束"
     },
     "group_list": {
       "new_events": "新练习",
