@@ -1920,7 +1920,7 @@
       "delete_group_really_confirm_label": "Estoy completamente seguro de que quiero eliminar este grupo",
       "delete_group": "Eliminar grupo",
       "member_challenges_label": "Los miembros pueden desafiarse entre sí",
-      "member_challenges_help": "Los miembros que no son amigos pueden invitarse a un desafío amistoso. Cada uno acepta primero una invitación."
+      "member_challenges_help": "Los miembros que no son amigos pueden incluirse en un desafío amistoso. Los administradores siempre pueden organizar uno."
     },
     "pbn_import": {
       "success_no_duplicates": "Se han procesado {{count}} manos.",

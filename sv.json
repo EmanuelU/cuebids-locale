@@ -1920,7 +1920,7 @@
       "delete_group_really_confirm_label": "Jag är helt säker på att jag vill radera den här gruppen",
       "delete_group": "Radera grupp",
       "member_challenges_label": "Medlemmar kan utmana varandra",
-      "member_challenges_help": "Medlemmar som inte är vänner kan bjuda in varandra till en vänskaplig utmaning. Var och en tackar ja till en inbjudan först."
+      "member_challenges_help": "Medlemmar som inte är vänner kan utmana varandra. Admins kan alltid ordna en utmaning."
     },
     "pbn_import": {
       "success_no_duplicates": "Läste in {{count}} givar.",

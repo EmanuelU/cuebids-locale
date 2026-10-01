@@ -1922,7 +1922,7 @@
       "delete_group_really_confirm_label": "Jestem absolutnie pewny, że chcę usunąć tę grupę",
       "delete_group": "Usuń grupę",
       "member_challenges_label": "Członkowie mogą wyzywać się nawzajem",
-      "member_challenges_help": "Członkowie, którzy nie są znajomymi, mogą zapraszać się nawzajem do wyzwania towarzyskiego. Każdy z nich najpierw przyjmuje zaproszenie."
+      "member_challenges_help": "Członkowie, którzy nie są znajomymi, mogą wyzywać się nawzajem na towarzyskie wyzwania. Administratorzy zawsze mogą je przygotować."
     },
     "pbn_import": {
       "success_no_duplicates": "Przetworzono {{count}} rąk.",

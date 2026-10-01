@@ -1921,7 +1921,7 @@
       "delete_group_really_confirm_label": "我绝对确定我要删除该群组",
       "delete_group": "删除组",
       "member_challenges_label": "成员之间可以互相挑战",
-      "member_challenges_help": "不是好友的成员可以互相邀请参加友谊赛，每人需先接受邀请。"
+      "member_challenges_help": "不是好友的成员也可以互相发起友谊挑战。管理员随时都可以安排挑战。"
     },
     "pbn_import": {
       "success_no_duplicates": "解析了 {{count}} 手牌。",
