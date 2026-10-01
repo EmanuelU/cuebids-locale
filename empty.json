@@ -1553,7 +1553,9 @@
       "delete_group_really_confirm_label": "",
       "delete_group": "",
       "member_challenges_label": "",
-      "member_challenges_help": ""
+      "member_challenges_help": "",
+      "challenge_defaults_label": "",
+      "challenge_defaults_help": ""
     },
     "pbn_import": {
       "success_no_duplicates": "",

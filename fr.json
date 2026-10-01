@@ -1920,7 +1920,9 @@
       "delete_group_really_confirm_label": "Je suis absolument sûr de vouloir supprimer ce groupe",
       "delete_group": "Supprimer le groupe",
       "member_challenges_label": "Les membres peuvent se défier",
-      "member_challenges_help": "Les membres qui ne sont pas amis peuvent s’inviter à un défi amical. Chacun accepte d’abord une invitation."
+      "member_challenges_help": "Les membres qui ne sont pas amis peuvent s’inviter à un défi amical. Chacun accepte d’abord une invitation.",
+      "challenge_defaults_label": "Réglages par défaut des défis",
+      "challenge_defaults_help": "Ce avec quoi commence un défi de ce groupe, dans l’app et avec /group-challenge sur Discord. Les joueurs peuvent toujours le modifier pour chaque défi."
     },
     "pbn_import": {
       "success_no_duplicates": "{{count}} donnes analysées.",
