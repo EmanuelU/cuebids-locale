@@ -1063,9 +1063,9 @@
     "create_challenge": "Crear desafío",
     "choose_from_label": "Elegir jugadores de",
     "from_friends": "Tus amigos",
-    "group_invite_note": "Los jugadores que no son tus amigos reciben una invitación y deben aceptarla antes de que empiece el desafío.",
+    "group_invite_note": "Los jugadores que no son tus amigos entran al momento, tickets incluidos, si permiten desafíos de grupo inmediatos. Los demás reciben una invitación.",
     "organize_label": "No juego: organizarlo para cuatro miembros",
-    "organize_note": "Los cuatro jugadores reciben una invitación y deben aceptarla antes de que empiece el desafío.",
+    "organize_note": "Los jugadores que permiten desafíos de grupo inmediatos entran al momento, tickets incluidos. Los demás reciben una invitación.",
     "player_label": "Jugador"
   },
   "friendly_challenge": {
@@ -1298,6 +1298,8 @@
     "performance_report_notifications_label": "Resumen semanal de cómo van tus parejas",
     "allow_replay_invites_label": "Permitir invitaciones de repetición",
     "allow_replay_invites_desc": "Los amigos mutuos pueden seleccionarte al repetir manos finalizadas. Desactívalo para ocultarte de la selección de repeticiones.",
+    "allow_instant_group_challenges_label": "Permitir desafíos de grupo inmediatos",
+    "allow_instant_group_challenges_desc": "Los miembros y administradores de tus grupos pueden incluirte en un desafío sin invitación, y se usan tus tickets como si lo hubieras empezado tú. Desactívalo para que te pregunten siempre antes.",
     "display_collapse_title": "Visible",
     "dark_mode_button": "Oscuro",
     "light_mode_button": "Claro",
@@ -1772,6 +1774,7 @@
     },
     "group": {
       "tab_events": "Eventos",
+      "tab_challenges": "Desafíos",
       "tab_members": "Miembros",
       "tab_invited": "Invitados",
       "tab_premium_members": "Miembros premium",
@@ -1810,7 +1813,10 @@
         "stars": "Estrellas",
         "no_player_info": "No hay actividad de jugadores para mostrar."
       },
-      "challenge_members": "Desafiar a miembros"
+      "challenge_members": "Desafiar a miembros",
+      "challenges_empty": "Todavía no hay desafíos en este grupo.",
+      "challenges_active": "En juego",
+      "challenges_finished": "Terminados"
     },
     "group_list": {
       "new_events": "Nuevos eventos",

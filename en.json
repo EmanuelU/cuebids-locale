@@ -1063,9 +1063,9 @@
     "create_challenge": "Create challenge",
     "choose_from_label": "Choose players from",
     "from_friends": "Your friends",
-    "group_invite_note": "Players who aren't your friends get an invitation and must accept before the challenge starts.",
+    "group_invite_note": "Players who aren't your friends join at once if they allow instant group challenges, tickets included. The others get an invitation.",
     "organize_label": "I'm not playing: set it up for four members",
-    "organize_note": "All four players get an invitation and must accept before the challenge starts.",
+    "organize_note": "Players who allow instant group challenges are in at once, tickets included. The others get an invitation.",
     "player_label": "Player"
   },
   "friendly_challenge": {
@@ -1298,6 +1298,8 @@
     "performance_report_notifications_label": "Weekly summary of how your partnerships are doing",
     "allow_replay_invites_label": "Allow replay invites",
     "allow_replay_invites_desc": "Mutual friends can select you when replaying finished boards. Turn this off to hide yourself from replay selection.",
+    "allow_instant_group_challenges_label": "Allow instant group challenges",
+    "allow_instant_group_challenges_desc": "Members and admins of your groups can put you in a challenge without an invitation, and your tickets are used as if you had started it. Turn this off to be asked first, every time.",
     "display_collapse_title": "Display",
     "dark_mode_button": "Dark",
     "light_mode_button": "Light",
@@ -1772,6 +1774,7 @@
     },
     "group": {
       "tab_events": "Events",
+      "tab_challenges": "Challenges",
       "tab_members": "Members",
       "tab_invited": "Invited",
       "tab_premium_members": "Premium members",
@@ -1810,7 +1813,10 @@
         "stars": "Stars",
         "no_player_info": "No player activity to show"
       },
-      "challenge_members": "Challenge members"
+      "challenge_members": "Challenge members",
+      "challenges_empty": "No challenges in this group yet.",
+      "challenges_active": "Being played",
+      "challenges_finished": "Finished"
     },
     "group_list": {
       "new_events": "New Events",

@@ -1063,9 +1063,9 @@
     "create_challenge": "Utwórz wyzwanie",
     "choose_from_label": "Wybierz graczy z",
     "from_friends": "Twoi znajomi",
-    "group_invite_note": "Gracze, którzy nie są Twoimi znajomymi, dostają zaproszenie i muszą je przyjąć, zanim wyzwanie się zacznie.",
+    "group_invite_note": "Gracze spoza twoich znajomych dołączają od razu, łącznie z biletami, jeśli zezwalają na natychmiastowe wyzwania grupowe. Pozostali dostają zaproszenie.",
     "organize_label": "Nie gram: przygotuj wyzwanie dla czterech członków",
-    "organize_note": "Wszyscy czterej gracze dostają zaproszenie i muszą je przyjąć, zanim wyzwanie się zacznie.",
+    "organize_note": "Gracze, którzy zezwalają na natychmiastowe wyzwania grupowe, dołączają od razu, łącznie z biletami. Pozostali dostają zaproszenie.",
     "player_label": "Gracz"
   },
   "friendly_challenge": {
@@ -1300,6 +1300,8 @@
     "performance_report_notifications_label": "Cotygodniowe podsumowanie wyników twoich par",
     "allow_replay_invites_label": "Pozwalaj na zaproszenia do powtórek",
     "allow_replay_invites_desc": "Wzajemni znajomi mogą wybierać cię podczas odtwarzania zakończonych rozdań. Wyłącz to, aby ukryć się z listy powtórek.",
+    "allow_instant_group_challenges_label": "Zezwalaj na natychmiastowe wyzwania grupowe",
+    "allow_instant_group_challenges_desc": "Członkowie i administratorzy twoich grup mogą dodać cię do wyzwania bez zaproszenia, a twoje bilety zostaną pobrane tak, jakbyś sam je rozpoczął. Wyłącz, aby zawsze być najpierw pytanym.",
     "display_collapse_title": "Wyświetlanie",
     "dark_mode_button": "Ciemny",
     "light_mode_button": "Jasny",
@@ -1774,6 +1776,7 @@
     },
     "group": {
       "tab_events": "Eventy",
+      "tab_challenges": "Wyzwania",
       "tab_members": "Członkowie",
       "tab_invited": "Zaproszeni",
       "tab_premium_members": "Członkowie premium",
@@ -1812,7 +1815,10 @@
         "stars": "Gwiazdki",
         "no_player_info": "Brak aktywności graczy do pokazania"
       },
-      "challenge_members": "Wyzwij członków"
+      "challenge_members": "Wyzwij członków",
+      "challenges_empty": "W tej grupie nie ma jeszcze wyzwań.",
+      "challenges_active": "W trakcie",
+      "challenges_finished": "Zakończone"
     },
     "group_list": {
       "new_events": "Nowe wydarzenia",

@@ -1001,7 +1001,9 @@
     "text_scale_md": "",
     "text_scale_lg": "",
     "text_scale_xl": "",
-    "newsletter_needs_verified": ""
+    "newsletter_needs_verified": "",
+    "allow_instant_group_challenges_label": "",
+    "allow_instant_group_challenges_desc": ""
   },
   "subscribe_newsletter": {
     "verification_in_progress": "",
@@ -1405,6 +1407,7 @@
     },
     "group": {
       "tab_events": "",
+      "tab_challenges": "",
       "tab_members": "",
       "tab_invited": "",
       "tab_premium_members": "",
@@ -1443,7 +1446,10 @@
         "stars": "",
         "no_player_info": ""
       },
-      "challenge_members": ""
+      "challenge_members": "",
+      "challenges_empty": "",
+      "challenges_active": "",
+      "challenges_finished": ""
     },
     "group_list": {
       "new_events": "",
