@@ -2155,6 +2155,7 @@
     "syncing": "Ładowanie Twoich rozdań… ({{count}})",
     "sync_failed": "Nie udało się wczytać więcej rozdań. Szukam w tych, które już są ({{count}}).",
     "searching_in": "Szukam w Twoich ostatnich rozdaniach ({{count}})",
+    "search_further": "Z subskrypcją Heart szukasz w ostatnich {{max}} rozdaniach",
     "no_matches": "Żadne rozdanie nie pasuje.",
     "more_hidden": "Nie pokazano wszystkiego ({{count}} więcej) — zawęź szukanie.",
     "with": "Z",

@@ -2153,6 +2153,7 @@
     "syncing": "Cargando tus manos… {{count}} hasta ahora",
     "sync_failed": "No se pudieron cargar más manos. Buscando en las {{count}} que ya están aquí.",
     "searching_in": "Buscando en tus últimas {{count}} manos",
+    "search_further": "Con la suscripción Corazón, busca en tus últimas {{max}} manos",
     "no_matches": "Ninguna mano coincide.",
     "more_hidden": "{{count}} más sin mostrar: acota la búsqueda.",
     "with": "Con",
