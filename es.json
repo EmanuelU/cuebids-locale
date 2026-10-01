@@ -1920,7 +1920,9 @@
       "delete_group_really_confirm_label": "Estoy completamente seguro de que quiero eliminar este grupo",
       "delete_group": "Eliminar grupo",
       "member_challenges_label": "Los miembros pueden desafiarse entre sí",
-      "member_challenges_help": "Los miembros que no son amigos pueden incluirse en un desafío amistoso. Los administradores siempre pueden organizar uno."
+      "member_challenges_help": "Los miembros que no son amigos pueden incluirse en un desafío amistoso. Los administradores siempre pueden organizar uno.",
+      "challenge_defaults_label": "Ajustes predeterminados de los desafíos",
+      "challenge_defaults_help": "Con qué empieza un desafío de este grupo, en la app y en /group-challenge en Discord. Los jugadores pueden cambiarlo en cada desafío."
     },
     "pbn_import": {
       "success_no_duplicates": "Se han procesado {{count}} manos.",

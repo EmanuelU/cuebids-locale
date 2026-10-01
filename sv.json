@@ -1920,7 +1920,9 @@
       "delete_group_really_confirm_label": "Jag är helt säker på att jag vill radera den här gruppen",
       "delete_group": "Radera grupp",
       "member_challenges_label": "Medlemmar kan utmana varandra",
-      "member_challenges_help": "Medlemmar som inte är vänner kan utmana varandra. Admins kan alltid ordna en utmaning."
+      "member_challenges_help": "Medlemmar som inte är vänner kan utmana varandra. Admins kan alltid ordna en utmaning.",
+      "challenge_defaults_label": "Standardval för utmaningar",
+      "challenge_defaults_help": "Det en utmaning från gruppen börjar med, i appen och i /group-challenge på Discord. Spelarna kan fortfarande ändra det för varje utmaning."
     },
     "pbn_import": {
       "success_no_duplicates": "Läste in {{count}} givar.",

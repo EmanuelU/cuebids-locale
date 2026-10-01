@@ -1920,7 +1920,9 @@
       "delete_group_really_confirm_label": "I am absolutely sure I want to delete this group",
       "delete_group": "Delete group",
       "member_challenges_label": "Members can challenge each other",
-      "member_challenges_help": "Members who aren't friends can put each other in a friendly challenge. Admins can always set one up."
+      "member_challenges_help": "Members who aren't friends can put each other in a friendly challenge. Admins can always set one up.",
+      "challenge_defaults_label": "Challenge defaults",
+      "challenge_defaults_help": "What a challenge from this group starts with, in the app and in /group-challenge on Discord. Players can still change it per challenge."
     },
     "pbn_import": {
       "success_no_duplicates": "Parsed {{count}} hands.",
