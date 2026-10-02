@@ -1465,7 +1465,8 @@
     "history": "Historique",
     "top10": "Top 10",
     "shared": "Partagé",
-    "season": "Saison"
+    "season": "Saison",
+    "library": "Bibliothèque"
   },
   "robots": {
     "robots": "Robots",
@@ -2193,8 +2194,10 @@
       "left_out": "Les donnes de tournois et de défis sont retirées : elles ne se rejouent qu’avec le robot.",
       "none_with_friend": "Aucune de ces donnes ne peut se rejouer avec un ami : elles viennent toutes de tournois ou de défis. Choisissez le robot pour les rejouer.",
       "start": "Commencer",
-      "robot_only": "Les donnes de tournois et de défis ne se rejouent qu’avec le robot."
-    }
+      "robot_only": "Les donnes de tournois et de défis ne se rejouent qu’avec le robot.",
+      "first": "Les {{n}} premières"
+    },
+    "add_to_set": "Ajouter à une série"
   },
   "flagged_session_deals": {
     "none": "Aucune donne marquée ! Marquez une donne en cliquant sur le drapeau.",
@@ -3697,6 +3700,55 @@
       "save": "Enregistrer",
       "update": "Enregistrer les modifications",
       "remove": "Retirer de la bibliothèque"
+    },
+    "hub": {
+      "saved_title": "Donnes enregistrées",
+      "saved_info": "Les donnes que vous avez enregistrées, avec vos étiquettes et vos notes.",
+      "sets_title": "Séries",
+      "sets_info": "Vos propres listes de donnes, dans l’ordre que vous choisissez, à rejouer avec un ami ou le robot.",
+      "scenarios_info": "Vos propres scénarios : des donnes générées pour une situation que vous voulez travailler.",
+      "scenarios_title": "Scénarios"
+    },
+    "sets": {
+      "new_placeholder": "Nommer une nouvelle série",
+      "new": "Créer",
+      "needs_heart": "Créer et modifier des séries demande Cœur. Les séries que vous avez déjà restent accessibles et jouables. Touchez pour voir Cœur.",
+      "empty": "Pas encore de série. Cherchez des donnes, puis ajoutez les résultats à une série.",
+      "board_count": "Donnes : {{n}}",
+      "error": "Impossible d’enregistrer la série. Réessayez."
+    },
+    "set": {
+      "drag": "Glisser pour réordonner",
+      "board_unavailable": "Cette donne ne peut plus être affichée.",
+      "remove": "Retirer de la série",
+      "more": "Plus",
+      "move_top": "Placer en tête",
+      "move_bottom": "Placer à la fin",
+      "error": "Impossible d’enregistrer la modification. Réessayez.",
+      "not_found": "Cette série n’est pas ici. Elle a peut-être été supprimée.",
+      "name": "Nom de la série",
+      "description": "Description",
+      "description_placeholder": "À quoi sert la série",
+      "read_only": "Modifier une série demande Cœur. Vous pouvez toujours l’ouvrir et la jouer.",
+      "play": "Jouer",
+      "board_count": "Donnes : {{n}}",
+      "empty": "Pas encore de donne. Cherchez des donnes, puis ajoutez les résultats à cette série.",
+      "delete": "Supprimer la série",
+      "removed": "Donne retirée.",
+      "undo": "Annuler",
+      "delete_title": "Supprimer cette série ?",
+      "delete_info": "La série disparaît, les donnes restent. Les sessions déjà jouées à partir d’elle ne changent pas."
+    },
+    "add": {
+      "title": "Ajouter à une série",
+      "needs_heart": "Les séries demandent Cœur. Touchez pour voir Cœur.",
+      "added": "Donnes ajoutées : {{n}}",
+      "open_set": "Ouvrir la série",
+      "first_only": "Les {{n}} premiers résultats sont ajoutés.",
+      "new_placeholder": "Ou nommer une nouvelle série",
+      "new": "Créer",
+      "full": "Cette série est pleine.",
+      "error": "Impossible d’ajouter les donnes. Réessayez."
     }
   }
 }

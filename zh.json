@@ -1466,7 +1466,8 @@
     "history": "历史",
     "top10": "前10名",
     "shared": "已分享",
-    "season": "赛季"
+    "season": "赛季",
+    "library": "牌库"
   },
   "robots": {
     "robots": "机器人",
@@ -2194,8 +2195,10 @@
       "left_out": "来自赛事和挑战的牌已略去：它们只能与机器人重打。",
       "none_with_friend": "这些牌都来自赛事或挑战，无法与好友重打。选择机器人即可重打。",
       "start": "开始",
-      "robot_only": "来自赛事和挑战的牌只能与机器人重打。"
-    }
+      "robot_only": "来自赛事和挑战的牌只能与机器人重打。",
+      "first": "前 {{n}} 副"
+    },
+    "add_to_set": "加入牌组"
   },
   "flagged_session_deals": {
     "none": "都看完啦！点击旗标即可标记一副牌。",
@@ -3704,6 +3707,55 @@
       "save": "保存",
       "update": "保存修改",
       "remove": "从收藏中移除"
+    },
+    "hub": {
+      "saved_title": "已保存的牌局",
+      "saved_info": "你保存的牌局，以及你的标签和备注。",
+      "sets_title": "牌组",
+      "sets_info": "你自己的牌局列表，按你选择的顺序排列，可与好友或机器人重打。",
+      "scenarios_info": "你自己的应用场景：按你想练习的情况生成的牌。",
+      "scenarios_title": "应用场景"
+    },
+    "sets": {
+      "new_placeholder": "为新牌组命名",
+      "new": "创建",
+      "needs_heart": "创建和修改牌组需要红心会员。已有的牌组仍可打开和重打。点击查看红心会员。",
+      "empty": "还没有牌组。先查找牌局，再把结果加入牌组。",
+      "board_count": "牌数：{{n}}",
+      "error": "无法保存牌组，请重试。"
+    },
+    "set": {
+      "drag": "拖动以调整顺序",
+      "board_unavailable": "这副牌已无法显示。",
+      "remove": "从牌组中移除",
+      "more": "更多",
+      "move_top": "移到最前",
+      "move_bottom": "移到最后",
+      "error": "无法保存更改，请重试。",
+      "not_found": "找不到这个牌组，它可能已被删除。",
+      "name": "牌组名称",
+      "description": "描述",
+      "description_placeholder": "这个牌组的用途",
+      "read_only": "修改牌组需要红心会员。你仍可打开并重打。",
+      "play": "开始",
+      "board_count": "牌数：{{n}}",
+      "empty": "还没有牌。先查找牌局，再把结果加入这个牌组。",
+      "delete": "删除牌组",
+      "removed": "已移除这副牌。",
+      "undo": "撤销",
+      "delete_title": "删除这个牌组？",
+      "delete_info": "牌组会被删除，牌局仍会保留。已从中打过的牌不受影响。"
+    },
+    "add": {
+      "title": "加入牌组",
+      "needs_heart": "牌组需要红心会员。点击查看红心会员。",
+      "added": "已加入的牌：{{n}}",
+      "open_set": "打开牌组",
+      "first_only": "只加入前 {{n}} 个结果。",
+      "new_placeholder": "或为新牌组命名",
+      "new": "创建",
+      "full": "这个牌组已满。",
+      "error": "无法加入这些牌，请重试。"
     }
   }
 }

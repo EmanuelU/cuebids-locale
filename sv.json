@@ -1465,7 +1465,8 @@
     "history": "Historik",
     "top10": "Topp 10",
     "shared": "Delade",
-    "season": "Säsong"
+    "season": "Säsong",
+    "library": "Bibliotek"
   },
   "robots": {
     "robots": "Robotar",
@@ -2193,8 +2194,10 @@
       "left_out": "Brickor från tävlingar och utmaningar är borttagna: de kan bara spelas om med roboten.",
       "none_with_friend": "Ingen av brickorna kan spelas om med en vän – alla kommer från tävlingar eller utmaningar. Välj roboten för att spela om dem.",
       "start": "Starta",
-      "robot_only": "Brickor från tävlingar och utmaningar kan bara spelas om med roboten."
-    }
+      "robot_only": "Brickor från tävlingar och utmaningar kan bara spelas om med roboten.",
+      "first": "De första {{n}}"
+    },
+    "add_to_set": "Lägg till i en samling"
   },
   "flagged_session_deals": {
     "none": "Allt klart! Markera en giv genom att klicka på flaggan.",
@@ -3697,6 +3700,55 @@
       "save": "Spara",
       "update": "Spara ändringar",
       "remove": "Ta bort ur biblioteket"
+    },
+    "hub": {
+      "saved_title": "Sparade brickor",
+      "saved_info": "Brickorna du har sparat, med dina etiketter och anteckningar.",
+      "sets_title": "Samlingar",
+      "sets_info": "Dina egna listor med brickor, i den ordning du väljer, att spela om med en vän eller roboten.",
+      "scenarios_info": "Dina egna scenarion: brickor som genereras för att passa en situation du vill träna på.",
+      "scenarios_title": "Scenarion"
+    },
+    "sets": {
+      "new_placeholder": "Namnge en ny samling",
+      "new": "Skapa",
+      "needs_heart": "Att skapa och ändra samlingar kräver Hjärter. Samlingar du redan har kan du fortfarande öppna och spela. Tryck för att se Hjärter.",
+      "empty": "Inga samlingar än. Hitta brickor och lägg till resultaten i en samling.",
+      "board_count": "Brickor: {{n}}",
+      "error": "Det gick inte att spara samlingen. Försök igen."
+    },
+    "set": {
+      "drag": "Dra för att ändra ordningen",
+      "board_unavailable": "Den här brickan kan inte längre visas.",
+      "remove": "Ta bort ur samlingen",
+      "more": "Mer",
+      "move_top": "Flytta överst",
+      "move_bottom": "Flytta underst",
+      "error": "Det gick inte att spara ändringen. Försök igen.",
+      "not_found": "Samlingen finns inte här. Den kan ha tagits bort.",
+      "name": "Samlingens namn",
+      "description": "Beskrivning",
+      "description_placeholder": "Vad samlingen är till för",
+      "read_only": "Att ändra en samling kräver Hjärter. Du kan fortfarande öppna och spela den.",
+      "play": "Spela",
+      "board_count": "Brickor: {{n}}",
+      "empty": "Inga brickor än. Hitta brickor och lägg till resultaten i den här samlingen.",
+      "delete": "Ta bort samlingen",
+      "removed": "Brickan togs bort.",
+      "undo": "Ångra",
+      "delete_title": "Ta bort samlingen?",
+      "delete_info": "Samlingen försvinner, brickorna finns kvar. Sessioner som redan spelats från den påverkas inte."
+    },
+    "add": {
+      "title": "Lägg till i en samling",
+      "needs_heart": "Samlingar kräver Hjärter. Tryck för att se Hjärter.",
+      "added": "Brickor tillagda: {{n}}",
+      "open_set": "Öppna samlingen",
+      "first_only": "De första {{n}} resultaten läggs till.",
+      "new_placeholder": "Eller namnge en ny samling",
+      "new": "Skapa",
+      "full": "Samlingen är full.",
+      "error": "Det gick inte att lägga till brickorna. Försök igen."
     }
   }
 }

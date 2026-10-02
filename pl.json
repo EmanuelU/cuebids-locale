@@ -1467,7 +1467,8 @@
     "history": "Historia",
     "top10": "Top 10",
     "shared": "Udostępnione",
-    "season": "Sezon"
+    "season": "Sezon",
+    "library": "Biblioteka"
   },
   "robots": {
     "robots": "Roboty",
@@ -2195,8 +2196,10 @@
       "left_out": "Rozdania z turniejów i wyzwań pominięto: ponownie można je zagrać tylko z robotem.",
       "none_with_friend": "Żadnego z tych rozdań nie można zagrać ponownie ze znajomym — wszystkie pochodzą z turniejów lub wyzwań. Wybierz robota, aby je zagrać.",
       "start": "Rozpocznij",
-      "robot_only": "Rozdania z turniejów i wyzwań można zagrać ponownie tylko z robotem."
-    }
+      "robot_only": "Rozdania z turniejów i wyzwań można zagrać ponownie tylko z robotem.",
+      "first": "Pierwsze {{n}}"
+    },
+    "add_to_set": "Dodaj do zestawu"
   },
   "flagged_session_deals": {
     "none": "Wszystko nadrobione! Oflaguj rozdanie używając kropkowanego menu po zakończeniu licytacji.",
@@ -3699,6 +3702,55 @@
       "save": "Zapisz",
       "update": "Zapisz zmiany",
       "remove": "Usuń z biblioteki"
+    },
+    "hub": {
+      "saved_title": "Zapisane rozdania",
+      "saved_info": "Zapisane rozdania, z Twoimi etykietami i notatkami.",
+      "sets_title": "Zestawy",
+      "sets_info": "Twoje własne listy rozdań, w wybranej kolejności, do ponownego zagrania ze znajomym lub z robotem.",
+      "scenarios_info": "Twoje własne scenariusze: rozdania generowane pod sytuację, którą chcesz poćwiczyć.",
+      "scenarios_title": "Scenariusze"
+    },
+    "sets": {
+      "new_placeholder": "Nazwij nowy zestaw",
+      "new": "Utwórz",
+      "needs_heart": "Tworzenie i zmienianie zestawów wymaga Kier. Zestawy, które już masz, nadal możesz otwierać i grać. Dotknij, aby zobaczyć Kier.",
+      "empty": "Nie masz jeszcze zestawów. Wyszukaj rozdania i dodaj wyniki do zestawu.",
+      "board_count": "Rozdania: {{n}}",
+      "error": "Nie udało się zapisać zestawu. Spróbuj ponownie."
+    },
+    "set": {
+      "drag": "Przeciągnij, aby zmienić kolejność",
+      "board_unavailable": "Tego rozdania nie można już wyświetlić.",
+      "remove": "Usuń z zestawu",
+      "more": "Więcej",
+      "move_top": "Przenieś na górę",
+      "move_bottom": "Przenieś na dół",
+      "error": "Nie udało się zapisać zmiany. Spróbuj ponownie.",
+      "not_found": "Tego zestawu tu nie ma. Mógł zostać usunięty.",
+      "name": "Nazwa zestawu",
+      "description": "Opis",
+      "description_placeholder": "Do czego służy zestaw",
+      "read_only": "Zmienianie zestawu wymaga Kier. Nadal możesz go otwierać i grać.",
+      "play": "Zagraj",
+      "board_count": "Rozdania: {{n}}",
+      "empty": "Nie ma jeszcze rozdań. Wyszukaj rozdania i dodaj wyniki do tego zestawu.",
+      "delete": "Usuń zestaw",
+      "removed": "Rozdanie usunięte.",
+      "undo": "Cofnij",
+      "delete_title": "Usunąć ten zestaw?",
+      "delete_info": "Zestaw znika, rozdania zostają. Sesje już z niego rozegrane się nie zmienią."
+    },
+    "add": {
+      "title": "Dodaj do zestawu",
+      "needs_heart": "Zestawy wymagają Kier. Dotknij, aby zobaczyć Kier.",
+      "added": "Dodane rozdania: {{n}}",
+      "open_set": "Otwórz zestaw",
+      "first_only": "Dodawane są pierwsze wyniki ({{n}}).",
+      "new_placeholder": "Albo nazwij nowy zestaw",
+      "new": "Utwórz",
+      "full": "Ten zestaw jest pełny.",
+      "error": "Nie udało się dodać rozdań. Spróbuj ponownie."
     }
   }
 }
