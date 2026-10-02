@@ -2175,7 +2175,11 @@
       "hcp": "HCP",
       "length_at_least": "Suit length, at least",
       "balanced": "Balanced"
-    }
+    },
+    "saved": "Saved",
+    "label": "Label",
+    "any_label": "Any label",
+    "no_saved": "Nothing saved yet. Save a board from its result to keep it here."
   },
   "flagged_session_deals": {
     "none": "All caught up! Flag a deal by clicking the flag.",
@@ -3209,7 +3213,9 @@
     "dashboard_info": "See your average score with each partner, and your results in Weekly and Daily events.",
     "deal_search_title": "Find a deal",
     "deal_search_info": "Find the boards you bid, by the auction, the contract or the result. Tap the auction you are looking for.",
-    "new": "New!"
+    "new": "New!",
+    "library_title": "Library",
+    "library_info": "The boards you saved, with your labels and notes."
   },
   "stats_overview": {
     "tab_ranked": "Ranked",

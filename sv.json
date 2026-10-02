@@ -2175,7 +2175,11 @@
       "hcp": "HP",
       "length_at_least": "Färglängd, minst",
       "balanced": "Balanserad"
-    }
+    },
+    "saved": "Sparade",
+    "label": "Etikett",
+    "any_label": "Alla etiketter",
+    "no_saved": "Inget sparat än. Spara en bricka från resultatet så hamnar den här."
   },
   "flagged_session_deals": {
     "none": "Allt klart! Markera en giv genom att klicka på flaggan.",
@@ -3209,7 +3213,9 @@
     "dashboard_info": "Se din snittscore med varje partner, och dina resultat i Vecko- och Dagtävlingarna.",
     "deal_search_title": "Hitta en bricka",
     "deal_search_info": "Hitta brickorna du bjöd, på budgivningen, kontraktet eller resultatet. Tryck in budgivningen du letar efter.",
-    "new": "Nytt!"
+    "new": "Nytt!",
+    "library_title": "Bibliotek",
+    "library_info": "Brickorna du har sparat, med dina etiketter och anteckningar."
   },
   "stats_overview": {
     "tab_ranked": "Rankat",

@@ -2177,7 +2177,11 @@
       "hcp": "PC",
       "length_at_least": "Długość koloru, co najmniej",
       "balanced": "Zrównoważona"
-    }
+    },
+    "saved": "Zapisane",
+    "label": "Etykieta",
+    "any_label": "Każda etykieta",
+    "no_saved": "Nic jeszcze nie zapisano. Zapisz rozdanie z jego wyniku, a znajdziesz je tutaj."
   },
   "flagged_session_deals": {
     "none": "Wszystko nadrobione! Oflaguj rozdanie używając kropkowanego menu po zakończeniu licytacji.",
@@ -3211,7 +3215,9 @@
     "dashboard_info": "Zobacz swoją średnią punktację z każdym partnerem oraz wyniki w wydarzeniach tygodniowych i codziennych.",
     "new": "Nowość!",
     "deal_search_title": "Znajdź rozdanie",
-    "deal_search_info": "Znajdź rozdania, które licytowałeś — po licytacji, kontrakcie lub wyniku. Dotknij licytacji, której szukasz."
+    "deal_search_info": "Znajdź rozdania, które licytowałeś — po licytacji, kontrakcie lub wyniku. Dotknij licytacji, której szukasz.",
+    "library_title": "Biblioteka",
+    "library_info": "Zapisane rozdania, z Twoimi etykietami i notatkami."
   },
   "stats_overview": {
     "tab_ranked": "Rankingowe",

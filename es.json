@@ -2175,7 +2175,11 @@
       "hcp": "PH",
       "length_at_least": "Longitud del palo, al menos",
       "balanced": "Equilibrada"
-    }
+    },
+    "saved": "Guardadas",
+    "label": "Etiqueta",
+    "any_label": "Cualquier etiqueta",
+    "no_saved": "Aún no has guardado nada. Guarda una mano desde su resultado para tenerla aquí."
   },
   "flagged_session_deals": {
     "none": "¡Todo al día! Marca una mano haciendo clic en la bandera.",
@@ -3209,7 +3213,9 @@
     "dashboard_info": "Consulta tu puntuación media con cada compañero y tus resultados en eventos semanales y diarios.",
     "new": "¡Nuevo!",
     "deal_search_title": "Encuentra una mano",
-    "deal_search_info": "Encuentra las manos que has subastado, por la subasta, el contrato o el resultado. Toca la subasta que buscas."
+    "deal_search_info": "Encuentra las manos que has subastado, por la subasta, el contrato o el resultado. Toca la subasta que buscas.",
+    "library_title": "Biblioteca",
+    "library_info": "Las manos que has guardado, con tus etiquetas y notas."
   },
   "stats_overview": {
     "tab_ranked": "Clasificatorio",
