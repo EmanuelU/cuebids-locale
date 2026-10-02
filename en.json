@@ -1465,7 +1465,8 @@
     "history": "History",
     "top10": "Top 10",
     "shared": "Shared",
-    "season": "Season"
+    "season": "Season",
+    "library": "Library"
   },
   "robots": {
     "robots": "Robots",
@@ -2193,8 +2194,10 @@
       "left_out": "Boards from events and challenges are left out: they can only be played again with the robot.",
       "none_with_friend": "None of these boards can be played with a friend: they all come from events or challenges. Pick the robot to play them again.",
       "start": "Start",
-      "robot_only": "Boards from events and challenges can only be played again with the robot."
-    }
+      "robot_only": "Boards from events and challenges can only be played again with the robot.",
+      "first": "First {{n}}"
+    },
+    "add_to_set": "Add to a set"
   },
   "flagged_session_deals": {
     "none": "All caught up! Flag a deal by clicking the flag.",
@@ -3697,6 +3700,55 @@
       "save": "Save",
       "update": "Save changes",
       "remove": "Remove from library"
+    },
+    "hub": {
+      "saved_title": "Saved boards",
+      "saved_info": "The boards you saved, with your labels and notes.",
+      "sets_title": "Sets",
+      "sets_info": "Your own lists of boards, in the order you choose, to play again with a friend or the robot.",
+      "scenarios_info": "Your own scenarios: deals generated to fit a situation you want to practice.",
+      "scenarios_title": "Scenarios"
+    },
+    "sets": {
+      "new_placeholder": "Name a new set",
+      "new": "Create",
+      "needs_heart": "Making and changing sets needs Heart. Sets you already have stay yours to open and play. Tap to see Heart.",
+      "empty": "No sets yet. Find a deal, then add the results to a set.",
+      "board_count": "Boards: {{n}}",
+      "error": "Could not save the set. Try again."
+    },
+    "set": {
+      "drag": "Drag to reorder",
+      "board_unavailable": "This board can no longer be shown.",
+      "remove": "Remove from set",
+      "more": "More",
+      "move_top": "Move to top",
+      "move_bottom": "Move to bottom",
+      "error": "Could not save the change. Try again.",
+      "not_found": "This set is not here. It may have been deleted.",
+      "name": "Set name",
+      "description": "Description",
+      "description_placeholder": "What the set is for",
+      "read_only": "Changing a set needs Heart. You can still open and play it.",
+      "play": "Play",
+      "board_count": "Boards: {{n}}",
+      "empty": "No boards yet. Find a deal, then add the results to this set.",
+      "delete": "Delete set",
+      "removed": "Board removed.",
+      "undo": "Undo",
+      "delete_title": "Delete this set?",
+      "delete_info": "The set goes, the boards stay. Sessions already played from it are not affected."
+    },
+    "add": {
+      "title": "Add to a set",
+      "needs_heart": "Sets need Heart. Tap to see Heart.",
+      "added": "Boards added: {{n}}",
+      "open_set": "Open the set",
+      "first_only": "The first {{n}} results are added.",
+      "new_placeholder": "Or name a new set",
+      "new": "Create",
+      "full": "That set is full.",
+      "error": "Could not add the boards. Try again."
     }
   }
 }
