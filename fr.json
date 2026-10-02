@@ -2175,7 +2175,11 @@
       "hcp": "H",
       "length_at_least": "Longueur, au moins",
       "balanced": "Régulière"
-    }
+    },
+    "saved": "Enregistrées",
+    "label": "Étiquette",
+    "any_label": "Toutes les étiquettes",
+    "no_saved": "Rien d’enregistré pour l’instant. Enregistrez une donne depuis son résultat pour la retrouver ici."
   },
   "flagged_session_deals": {
     "none": "Aucune donne marquée ! Marquez une donne en cliquant sur le drapeau.",
@@ -3209,7 +3213,9 @@
     "dashboard_info": "Consultez votre score moyen avec chaque partenaire, ainsi que vos résultats aux tournois hebdo et aux tournois du jour.",
     "new": "Nouveau !",
     "deal_search_title": "Trouver une donne",
-    "deal_search_info": "Retrouvez les donnes que vous avez enchéries, par les enchères, le contrat ou le résultat. Touchez les enchères que vous cherchez."
+    "deal_search_info": "Retrouvez les donnes que vous avez enchéries, par les enchères, le contrat ou le résultat. Touchez les enchères que vous cherchez.",
+    "library_title": "Bibliothèque",
+    "library_info": "Les donnes que vous avez enregistrées, avec vos étiquettes et vos notes."
   },
   "stats_overview": {
     "tab_ranked": "Classés",

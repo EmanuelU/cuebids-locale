@@ -2176,7 +2176,11 @@
       "hcp": "HCP",
       "length_at_least": "花色长度，至少",
       "balanced": "均型"
-    }
+    },
+    "saved": "已保存",
+    "label": "标签",
+    "any_label": "全部标签",
+    "no_saved": "还没有保存任何牌局。在牌局结果页保存一副牌，它就会出现在这里。"
   },
   "flagged_session_deals": {
     "none": "都看完啦！点击旗标即可标记一副牌。",
@@ -3210,7 +3214,9 @@
     "dashboard_info": "查看你与每个搭档的平均得分，以及你在每周和每日练习中的结果。",
     "new": "新！",
     "deal_search_title": "查找牌局",
-    "deal_search_info": "按叫牌序列、定约或成绩查找你叫过的牌。点按你要找的叫牌序列。"
+    "deal_search_info": "按叫牌序列、定约或成绩查找你叫过的牌。点按你要找的叫牌序列。",
+    "library_title": "收藏",
+    "library_info": "你保存的牌局，以及你的标签和备注。"
   },
   "stats_overview": {
     "tab_ranked": "排位",
