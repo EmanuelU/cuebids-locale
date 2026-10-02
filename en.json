@@ -3214,8 +3214,8 @@
     "deal_search_title": "Find a deal",
     "deal_search_info": "Find the boards you bid, by the auction, the contract or the result. Tap the auction you are looking for.",
     "new": "New!",
-    "library_title": "Library",
-    "library_info": "The boards you saved, with your labels and notes."
+    "saved_boards_title": "Saved boards",
+    "saved_boards_info": "The boards you saved, with your labels and notes."
   },
   "stats_overview": {
     "tab_ranked": "Ranked",

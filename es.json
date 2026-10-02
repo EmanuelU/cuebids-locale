@@ -3214,8 +3214,8 @@
     "new": "¡Nuevo!",
     "deal_search_title": "Encuentra una mano",
     "deal_search_info": "Encuentra las manos que has subastado, por la subasta, el contrato o el resultado. Toca la subasta que buscas.",
-    "library_title": "Biblioteca",
-    "library_info": "Las manos que has guardado, con tus etiquetas y notas."
+    "saved_boards_title": "Manos guardadas",
+    "saved_boards_info": "Las manos que has guardado, con tus etiquetas y notas."
   },
   "stats_overview": {
     "tab_ranked": "Clasificatorio",

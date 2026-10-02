@@ -3214,8 +3214,8 @@
     "deal_search_title": "Hitta en bricka",
     "deal_search_info": "Hitta brickorna du bjöd, på budgivningen, kontraktet eller resultatet. Tryck in budgivningen du letar efter.",
     "new": "Nytt!",
-    "library_title": "Bibliotek",
-    "library_info": "Brickorna du har sparat, med dina etiketter och anteckningar."
+    "saved_boards_title": "Sparade brickor",
+    "saved_boards_info": "Brickorna du har sparat, med dina etiketter och anteckningar."
   },
   "stats_overview": {
     "tab_ranked": "Rankat",

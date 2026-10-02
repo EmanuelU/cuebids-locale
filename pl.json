@@ -3216,8 +3216,8 @@
     "new": "Nowość!",
     "deal_search_title": "Znajdź rozdanie",
     "deal_search_info": "Znajdź rozdania, które licytowałeś — po licytacji, kontrakcie lub wyniku. Dotknij licytacji, której szukasz.",
-    "library_title": "Biblioteka",
-    "library_info": "Zapisane rozdania, z Twoimi etykietami i notatkami."
+    "saved_boards_title": "Zapisane rozdania",
+    "saved_boards_info": "Zapisane rozdania, z Twoimi etykietami i notatkami."
   },
   "stats_overview": {
     "tab_ranked": "Rankingowe",
