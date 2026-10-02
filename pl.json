@@ -2181,7 +2181,22 @@
     "saved": "Zapisane",
     "label": "Etykieta",
     "any_label": "Każda etykieta",
-    "no_saved": "Nic jeszcze nie zapisano. Zapisz rozdanie z jego wyniku, a znajdziesz je tutaj."
+    "no_saved": "Nic jeszcze nie zapisano. Zapisz rozdanie z jego wyniku, a znajdziesz je tutaj.",
+    "play": {
+      "button": "Zagraj ponownie",
+      "title": "Zagraj ponownie te rozdania",
+      "boards": "Rozdania",
+      "newest": "Najnowsze {{n}}",
+      "random": "{{n}} losowo",
+      "order": "Kolejność",
+      "listed": "Jak na liście",
+      "shuffled": "Wymieszane",
+      "in_session": "Rozdania w sesji: {{n}}",
+      "left_out": "Rozdania z turniejów i wyzwań pominięto: ponownie można je zagrać tylko z robotem.",
+      "none_with_friend": "Żadnego z tych rozdań nie można zagrać ponownie ze znajomym — wszystkie pochodzą z turniejów lub wyzwań. Wybierz robota, aby je zagrać.",
+      "start": "Rozpocznij",
+      "robot_only": "Rozdania z turniejów i wyzwań można zagrać ponownie tylko z robotem."
+    }
   },
   "flagged_session_deals": {
     "none": "Wszystko nadrobione! Oflaguj rozdanie używając kropkowanego menu po zakończeniu licytacji.",

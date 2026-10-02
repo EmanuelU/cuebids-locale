@@ -2179,7 +2179,22 @@
     "saved": "Guardadas",
     "label": "Etiqueta",
     "any_label": "Cualquier etiqueta",
-    "no_saved": "Aún no has guardado nada. Guarda una mano desde su resultado para tenerla aquí."
+    "no_saved": "Aún no has guardado nada. Guarda una mano desde su resultado para tenerla aquí.",
+    "play": {
+      "button": "Repetir estas",
+      "title": "Repetir estas manos",
+      "boards": "Manos",
+      "newest": "Las {{n}} más recientes",
+      "random": "{{n}} al azar",
+      "order": "Orden",
+      "listed": "Como en la lista",
+      "shuffled": "Mezcladas",
+      "in_session": "Manos en la sesión: {{n}}",
+      "left_out": "Las manos de torneos y desafíos se han quitado: solo se pueden repetir con el robot.",
+      "none_with_friend": "Ninguna de estas manos se puede repetir con un amigo: todas son de torneos o desafíos. Elige el robot para repetirlas.",
+      "start": "Empezar",
+      "robot_only": "Las manos de torneos y desafíos solo se pueden repetir con el robot."
+    }
   },
   "flagged_session_deals": {
     "none": "¡Todo al día! Marca una mano haciendo clic en la bandera.",
