@@ -1536,7 +1536,10 @@
       "number_of_boards": "Selecciona el número de manos (1-24)",
       "robots": "Selecciona los robots contra los que quieres pujar (manos Este/Oeste). O elige «Ninguno» para pujar sin oposición.",
       "deal_type": "Selecciona un tipo de mano (o escenario) para practicar solo un tipo concreto de mano"
-    }
+    },
+    "sets": "Series",
+    "no_sets": "Aún no tienes series. Crea una en la Biblioteca.",
+    "pick_set": "Elige una serie con manos que puedas jugar."
   },
   "deal_type_select": {
     "random": "Manos aleatorias",
@@ -2106,7 +2109,8 @@
     "you": "Tú",
     "please_apply": "Solicítalo aquí para convertirte en ",
     "pro": "PRO",
-    "different_system_warning": "Los jugadores pueden usar sistemas distintos."
+    "different_system_warning": "Los jugadores pueden usar sistemas distintos.",
+    "suggested_bidding": "Subasta sugerida"
   },
   "price_dialog": {
     "your_charge_one": "Se te cobrará {{count}} ticket ",
@@ -3707,7 +3711,12 @@
       "sets_title": "Series",
       "sets_info": "Tus propias listas de manos, en el orden que elijas, para repetirlas con un amigo o con el robot.",
       "scenarios_info": "Tus propios escenarios: manos generadas para una situación que quieres practicar.",
-      "scenarios_title": "Escenarios"
+      "scenarios_title": "Escenarios",
+      "recent_sets": "Tus series",
+      "recent_saved": "Guardadas recientemente",
+      "see_all": "Ver todas",
+      "board_count": "Manos: {{n}}",
+      "empty": "Guarda una mano desde su resultado, o añade resultados de búsqueda a una serie, y aparecerá aquí."
     },
     "sets": {
       "new_placeholder": "Nombra una serie nueva",
@@ -3737,7 +3746,15 @@
       "removed": "Mano quitada.",
       "undo": "Deshacer",
       "delete_title": "¿Borrar esta serie?",
-      "delete_info": "La serie desaparece, las manos se quedan. Las sesiones ya jugadas desde ella no cambian."
+      "delete_info": "La serie desaparece, las manos se quedan. Las sesiones ya jugadas desde ella no cambian.",
+      "robot_only": "Solo con robot",
+      "hcp": "{{n}} PH",
+      "edit_suggestion": "Editar la subasta sugerida",
+      "add_suggestion": "Añadir una subasta sugerida",
+      "suggestion_title": "Subasta sugerida",
+      "clear": "Borrar",
+      "comment_placeholder": "Comentario, se muestra después de la mano",
+      "save": "Guardar"
     },
     "add": {
       "title": "Añadir a una serie",

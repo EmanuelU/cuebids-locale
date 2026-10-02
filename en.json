@@ -1536,7 +1536,10 @@
       "number_of_boards": "Select number of boards (1-24)",
       "robots": "Select robots to bid against you (East/West hands). Or select \"None\" to bid uncontested",
       "deal_type": "Select a Deal type (or Scenario) to only practice a specific type of hand"
-    }
+    },
+    "sets": "Sets",
+    "no_sets": "You have no sets yet. Build one in the Library.",
+    "pick_set": "Pick a set with boards you can play."
   },
   "deal_type_select": {
     "random": "Random hands",
@@ -2106,7 +2109,8 @@
     "you": "You",
     "please_apply": "Please apply here to become a ",
     "pro": "PRO",
-    "different_system_warning": "Players might use different systems."
+    "different_system_warning": "Players might use different systems.",
+    "suggested_bidding": "Suggested bidding"
   },
   "price_dialog": {
     "your_charge_one": "You will be charged {{count}} ticket ",
@@ -3707,7 +3711,12 @@
       "sets_title": "Sets",
       "sets_info": "Your own lists of boards, in the order you choose, to play again with a friend or the robot.",
       "scenarios_info": "Your own scenarios: deals generated to fit a situation you want to practice.",
-      "scenarios_title": "Scenarios"
+      "scenarios_title": "Scenarios",
+      "recent_sets": "Your sets",
+      "recent_saved": "Recently saved",
+      "see_all": "See all",
+      "board_count": "Boards: {{n}}",
+      "empty": "Save a board from its result, or add search results to a set, and it shows up here."
     },
     "sets": {
       "new_placeholder": "Name a new set",
@@ -3737,7 +3746,15 @@
       "removed": "Board removed.",
       "undo": "Undo",
       "delete_title": "Delete this set?",
-      "delete_info": "The set goes, the boards stay. Sessions already played from it are not affected."
+      "delete_info": "The set goes, the boards stay. Sessions already played from it are not affected.",
+      "robot_only": "Robot only",
+      "hcp": "{{n}} HCP",
+      "edit_suggestion": "Edit suggested auction",
+      "add_suggestion": "Add a suggested auction",
+      "suggestion_title": "Suggested auction",
+      "clear": "Clear",
+      "comment_placeholder": "Comment, shown after the board",
+      "save": "Save"
     },
     "add": {
       "title": "Add to a set",

@@ -1538,7 +1538,10 @@
       "number_of_boards": "Wybierz liczbę rozdań (1-24)",
       "robots": "Wybierz roboty (ręce Wschód/Zachód), które mają licytować przeciw wam, lub wybierz \"Brak\" by licytować samemu",
       "deal_type": "Wybierz typ rozdań (lub scenariusz) by ćwiczyć tylko konkretne typy rąk"
-    }
+    },
+    "sets": "Zestawy",
+    "no_sets": "Nie masz jeszcze zestawów. Utwórz go w Bibliotece.",
+    "pick_set": "Wybierz zestaw z rozdaniami, które możesz zagrać."
   },
   "deal_type_select": {
     "random": "Losowe rozdania",
@@ -2108,7 +2111,8 @@
     "you": "Ty",
     "please_apply": "Aplikuj tutaj, aby zostać ",
     "pro": "PRO",
-    "different_system_warning": "Gracze mogą używać różnych systemów."
+    "different_system_warning": "Gracze mogą używać różnych systemów.",
+    "suggested_bidding": "Sugerowana licytacja"
   },
   "price_dialog": {
     "your_charge_one": "Zostaniesz obciążony {{count}} biletem, ",
@@ -3709,7 +3713,12 @@
       "sets_title": "Zestawy",
       "sets_info": "Twoje własne listy rozdań, w wybranej kolejności, do ponownego zagrania ze znajomym lub z robotem.",
       "scenarios_info": "Twoje własne scenariusze: rozdania generowane pod sytuację, którą chcesz poćwiczyć.",
-      "scenarios_title": "Scenariusze"
+      "scenarios_title": "Scenariusze",
+      "recent_sets": "Twoje zestawy",
+      "recent_saved": "Ostatnio zapisane",
+      "see_all": "Zobacz wszystkie",
+      "board_count": "Rozdania: {{n}}",
+      "empty": "Zapisz rozdanie z jego wyniku albo dodaj wyniki wyszukiwania do zestawu, a pojawi się tutaj."
     },
     "sets": {
       "new_placeholder": "Nazwij nowy zestaw",
@@ -3739,7 +3748,15 @@
       "removed": "Rozdanie usunięte.",
       "undo": "Cofnij",
       "delete_title": "Usunąć ten zestaw?",
-      "delete_info": "Zestaw znika, rozdania zostają. Sesje już z niego rozegrane się nie zmienią."
+      "delete_info": "Zestaw znika, rozdania zostają. Sesje już z niego rozegrane się nie zmienią.",
+      "robot_only": "Tylko z robotem",
+      "hcp": "{{n}} PC",
+      "edit_suggestion": "Edytuj sugerowaną licytację",
+      "add_suggestion": "Dodaj sugerowaną licytację",
+      "suggestion_title": "Sugerowana licytacja",
+      "clear": "Wyczyść",
+      "comment_placeholder": "Komentarz, widoczny po rozdaniu",
+      "save": "Zapisz"
     },
     "add": {
       "title": "Dodaj do zestawu",

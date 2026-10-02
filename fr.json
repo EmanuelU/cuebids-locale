@@ -1536,7 +1536,10 @@
       "number_of_boards": "Sélectionnez le nombre de donnes (1-24)",
       "robots": "Sélectionnez des robots qui enchériront contre vous (mains Est/Ouest), ou « Aucun » pour enchérir sans intervention adverse",
       "deal_type": "Sélectionnez un thème de donne (ou un scénario) pour vous entraîner sur un type de main précis"
-    }
+    },
+    "sets": "Séries",
+    "no_sets": "Vous n’avez pas encore de série. Créez-en une dans la Bibliothèque.",
+    "pick_set": "Choisissez une série avec des donnes que vous pouvez jouer."
   },
   "deal_type_select": {
     "random": "Mains aléatoires",
@@ -2106,7 +2109,8 @@
     "you": "Vous",
     "please_apply": "Veuillez postuler ici pour devenir un ",
     "pro": "PRO",
-    "different_system_warning": "Les joueurs peuvent utiliser des systèmes différents."
+    "different_system_warning": "Les joueurs peuvent utiliser des systèmes différents.",
+    "suggested_bidding": "Enchères suggérées"
   },
   "price_dialog": {
     "your_charge_one": "Vous serez débité de {{count}} ticket ",
@@ -3707,7 +3711,12 @@
       "sets_title": "Séries",
       "sets_info": "Vos propres listes de donnes, dans l’ordre que vous choisissez, à rejouer avec un ami ou le robot.",
       "scenarios_info": "Vos propres scénarios : des donnes générées pour une situation que vous voulez travailler.",
-      "scenarios_title": "Scénarios"
+      "scenarios_title": "Scénarios",
+      "recent_sets": "Vos séries",
+      "recent_saved": "Enregistrées récemment",
+      "see_all": "Tout voir",
+      "board_count": "Donnes : {{n}}",
+      "empty": "Enregistrez une donne depuis son résultat, ou ajoutez des résultats de recherche à une série, et elle apparaît ici."
     },
     "sets": {
       "new_placeholder": "Nommer une nouvelle série",
@@ -3737,7 +3746,15 @@
       "removed": "Donne retirée.",
       "undo": "Annuler",
       "delete_title": "Supprimer cette série ?",
-      "delete_info": "La série disparaît, les donnes restent. Les sessions déjà jouées à partir d’elle ne changent pas."
+      "delete_info": "La série disparaît, les donnes restent. Les sessions déjà jouées à partir d’elle ne changent pas.",
+      "robot_only": "Robot uniquement",
+      "hcp": "{{n}} H",
+      "edit_suggestion": "Modifier la séquence suggérée",
+      "add_suggestion": "Ajouter une séquence suggérée",
+      "suggestion_title": "Séquence suggérée",
+      "clear": "Effacer",
+      "comment_placeholder": "Commentaire, affiché après la donne",
+      "save": "Enregistrer"
     },
     "add": {
       "title": "Ajouter à une série",

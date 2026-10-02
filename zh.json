@@ -1537,7 +1537,10 @@
       "number_of_boards": "选择副牌数 (1-24)",
       "robots": "选择与你对叫的机器人（东/西手）。或者选择“无”来进行无干扰叫牌。",
       "deal_type": "选择牌型（或场景）以仅练习特定类型的手牌"
-    }
+    },
+    "sets": "牌组",
+    "no_sets": "你还没有牌组。去牌库创建一个。",
+    "pick_set": "请选择一个包含可打牌局的牌组。"
   },
   "deal_type_select": {
     "random": "随机手牌",
@@ -2107,7 +2110,8 @@
     "you": "你",
     "please_apply": "请在此申请成为",
     "pro": "PRO",
-    "different_system_warning": "玩家可能会使用不同的系统。"
+    "different_system_warning": "玩家可能会使用不同的系统。",
+    "suggested_bidding": "建议叫牌"
   },
   "price_dialog": {
     "your_charge_one": "将向你收取 {{count}} 张门票",
@@ -3714,7 +3718,12 @@
       "sets_title": "牌组",
       "sets_info": "你自己的牌局列表，按你选择的顺序排列，可与好友或机器人重打。",
       "scenarios_info": "你自己的应用场景：按你想练习的情况生成的牌。",
-      "scenarios_title": "应用场景"
+      "scenarios_title": "应用场景",
+      "recent_sets": "你的牌组",
+      "recent_saved": "最近保存",
+      "see_all": "查看全部",
+      "board_count": "牌数：{{n}}",
+      "empty": "在牌局结果页保存一副牌，或把搜索结果加入牌组，它就会出现在这里。"
     },
     "sets": {
       "new_placeholder": "为新牌组命名",
@@ -3744,7 +3753,15 @@
       "removed": "已移除这副牌。",
       "undo": "撤销",
       "delete_title": "删除这个牌组？",
-      "delete_info": "牌组会被删除，牌局仍会保留。已从中打过的牌不受影响。"
+      "delete_info": "牌组会被删除，牌局仍会保留。已从中打过的牌不受影响。",
+      "robot_only": "仅限机器人",
+      "hcp": "{{n}} HCP",
+      "edit_suggestion": "编辑建议叫牌",
+      "add_suggestion": "添加建议叫牌",
+      "suggestion_title": "建议叫牌",
+      "clear": "清除",
+      "comment_placeholder": "备注，在牌局后显示",
+      "save": "保存"
     },
     "add": {
       "title": "加入牌组",
