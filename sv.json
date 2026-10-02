@@ -1536,7 +1536,10 @@
       "number_of_boards": "Välj antal brickor (1-24)",
       "robots": "Välj robotar för att bjuda mot dig (Öst/Västs händer). Eller välj \"Utan\" för att bjuda ostört",
       "deal_type": "Välj en Givtyp (eller Scenario) för att bara träna på en specifik sorts giv"
-    }
+    },
+    "sets": "Samlingar",
+    "no_sets": "Du har inga samlingar än. Skapa en i Biblioteket.",
+    "pick_set": "Välj en samling med brickor du kan spela."
   },
   "deal_type_select": {
     "random": "Slumpade händer",
@@ -2106,7 +2109,8 @@
     "you": "Du",
     "please_apply": "Ansök här för att bli ",
     "pro": "PROFFS",
-    "different_system_warning": "Spelare kan använda olika system."
+    "different_system_warning": "Spelare kan använda olika system.",
+    "suggested_bidding": "Föreslagen budgivning"
   },
   "price_dialog": {
     "your_charge_one": "Det kommer dras {{count}} biljett från dig ",
@@ -3707,7 +3711,12 @@
       "sets_title": "Samlingar",
       "sets_info": "Dina egna listor med brickor, i den ordning du väljer, att spela om med en vän eller roboten.",
       "scenarios_info": "Dina egna scenarion: brickor som genereras för att passa en situation du vill träna på.",
-      "scenarios_title": "Scenarion"
+      "scenarios_title": "Scenarion",
+      "recent_sets": "Dina samlingar",
+      "recent_saved": "Senast sparade",
+      "see_all": "Visa alla",
+      "board_count": "Brickor: {{n}}",
+      "empty": "Spara en bricka från resultatet, eller lägg sökresultat i en samling, så hamnar den här."
     },
     "sets": {
       "new_placeholder": "Namnge en ny samling",
@@ -3737,7 +3746,15 @@
       "removed": "Brickan togs bort.",
       "undo": "Ångra",
       "delete_title": "Ta bort samlingen?",
-      "delete_info": "Samlingen försvinner, brickorna finns kvar. Sessioner som redan spelats från den påverkas inte."
+      "delete_info": "Samlingen försvinner, brickorna finns kvar. Sessioner som redan spelats från den påverkas inte.",
+      "robot_only": "Bara med robot",
+      "hcp": "{{n}} HP",
+      "edit_suggestion": "Ändra föreslagen budgivning",
+      "add_suggestion": "Lägg till föreslagen budgivning",
+      "suggestion_title": "Föreslagen budgivning",
+      "clear": "Rensa",
+      "comment_placeholder": "Kommentar, visas efter brickan",
+      "save": "Spara"
     },
     "add": {
       "title": "Lägg till i en samling",
