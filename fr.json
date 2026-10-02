@@ -2179,7 +2179,22 @@
     "saved": "Enregistrées",
     "label": "Étiquette",
     "any_label": "Toutes les étiquettes",
-    "no_saved": "Rien d’enregistré pour l’instant. Enregistrez une donne depuis son résultat pour la retrouver ici."
+    "no_saved": "Rien d’enregistré pour l’instant. Enregistrez une donne depuis son résultat pour la retrouver ici.",
+    "play": {
+      "button": "Rejouer celles-ci",
+      "title": "Rejouer ces donnes",
+      "boards": "Donnes",
+      "newest": "Les {{n}} plus récentes",
+      "random": "{{n}} au hasard",
+      "order": "Ordre",
+      "listed": "Comme dans la liste",
+      "shuffled": "Mélangées",
+      "in_session": "Donnes dans la session : {{n}}",
+      "left_out": "Les donnes de tournois et de défis sont retirées : elles ne se rejouent qu’avec le robot.",
+      "none_with_friend": "Aucune de ces donnes ne peut se rejouer avec un ami : elles viennent toutes de tournois ou de défis. Choisissez le robot pour les rejouer.",
+      "start": "Commencer",
+      "robot_only": "Les donnes de tournois et de défis ne se rejouent qu’avec le robot."
+    }
   },
   "flagged_session_deals": {
     "none": "Aucune donne marquée ! Marquez une donne en cliquant sur le drapeau.",

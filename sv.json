@@ -2179,7 +2179,22 @@
     "saved": "Sparade",
     "label": "Etikett",
     "any_label": "Alla etiketter",
-    "no_saved": "Inget sparat än. Spara en bricka från resultatet så hamnar den här."
+    "no_saved": "Inget sparat än. Spara en bricka från resultatet så hamnar den här.",
+    "play": {
+      "button": "Spela om dessa",
+      "title": "Spela om de här brickorna",
+      "boards": "Brickor",
+      "newest": "De senaste {{n}}",
+      "random": "{{n}} slumpvis",
+      "order": "Ordning",
+      "listed": "Som i listan",
+      "shuffled": "Blandade",
+      "in_session": "Brickor i sessionen: {{n}}",
+      "left_out": "Brickor från tävlingar och utmaningar är borttagna: de kan bara spelas om med roboten.",
+      "none_with_friend": "Ingen av brickorna kan spelas om med en vän – alla kommer från tävlingar eller utmaningar. Välj roboten för att spela om dem.",
+      "start": "Starta",
+      "robot_only": "Brickor från tävlingar och utmaningar kan bara spelas om med roboten."
+    }
   },
   "flagged_session_deals": {
     "none": "Allt klart! Markera en giv genom att klicka på flaggan.",

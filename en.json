@@ -2179,7 +2179,22 @@
     "saved": "Saved",
     "label": "Label",
     "any_label": "Any label",
-    "no_saved": "Nothing saved yet. Save a board from its result to keep it here."
+    "no_saved": "Nothing saved yet. Save a board from its result to keep it here.",
+    "play": {
+      "button": "Play these",
+      "title": "Play these boards again",
+      "boards": "Boards",
+      "newest": "Newest {{n}}",
+      "random": "{{n}} at random",
+      "order": "Order",
+      "listed": "As listed",
+      "shuffled": "Shuffled",
+      "in_session": "Boards in the session: {{n}}",
+      "left_out": "Boards from events and challenges are left out: they can only be played again with the robot.",
+      "none_with_friend": "None of these boards can be played with a friend: they all come from events or challenges. Pick the robot to play them again.",
+      "start": "Start",
+      "robot_only": "Boards from events and challenges can only be played again with the robot."
+    }
   },
   "flagged_session_deals": {
     "none": "All caught up! Flag a deal by clicking the flag.",
