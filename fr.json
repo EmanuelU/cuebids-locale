@@ -3214,8 +3214,8 @@
     "new": "Nouveau !",
     "deal_search_title": "Trouver une donne",
     "deal_search_info": "Retrouvez les donnes que vous avez enchéries, par les enchères, le contrat ou le résultat. Touchez les enchères que vous cherchez.",
-    "library_title": "Bibliothèque",
-    "library_info": "Les donnes que vous avez enregistrées, avec vos étiquettes et vos notes."
+    "saved_boards_title": "Donnes enregistrées",
+    "saved_boards_info": "Les donnes que vous avez enregistrées, avec vos étiquettes et vos notes."
   },
   "stats_overview": {
     "tab_ranked": "Classés",

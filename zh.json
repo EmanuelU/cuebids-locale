@@ -3215,8 +3215,8 @@
     "new": "新！",
     "deal_search_title": "查找牌局",
     "deal_search_info": "按叫牌序列、定约或成绩查找你叫过的牌。点按你要找的叫牌序列。",
-    "library_title": "收藏",
-    "library_info": "你保存的牌局，以及你的标签和备注。"
+    "saved_boards_title": "已保存的牌局",
+    "saved_boards_info": "你保存的牌局，以及你的标签和备注。"
   },
   "stats_overview": {
     "tab_ranked": "排位",
