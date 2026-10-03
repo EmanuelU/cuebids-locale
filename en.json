@@ -3716,7 +3716,8 @@
       "recent_saved": "Recently saved",
       "see_all": "See all",
       "board_count": "Boards: {{n}}",
-      "empty": "Save a board from its result, or add search results to a set, and it shows up here."
+      "empty": "Save a board from its result, or add search results to a set, and it shows up here.",
+      "import_title": "Import PBN"
     },
     "sets": {
       "new_placeholder": "Name a new set",
@@ -3724,7 +3725,8 @@
       "needs_heart": "Making and changing sets needs Heart. Sets you already have stay yours to open and play. Tap to see Heart.",
       "empty": "No sets yet. Find a deal, then add the results to a set.",
       "board_count": "Boards: {{n}}",
-      "error": "Could not save the set. Try again."
+      "error": "Could not save the set. Try again.",
+      "import_pbn": "Import PBN"
     },
     "set": {
       "drag": "Drag to reorder",
@@ -3766,6 +3768,23 @@
       "new": "Create",
       "full": "That set is full.",
       "error": "Could not add the boards. Try again."
+    },
+    "import": {
+      "intro": "Choose a PBN file. Each board becomes a deal in a set; its auction and commentary become the suggestion shown after the board.",
+      "or_paste": "Or paste PBN text",
+      "read": "Read",
+      "nothing_read": "No boards could be read from that file.",
+      "read_count": "Boards read: {{n}}. Duplicates left out: {{dupes}}.",
+      "into": "Add to",
+      "new_set": "A new set",
+      "name": "Set name",
+      "scoring": "Scoring {{done}} of {{total}}…",
+      "import": "Import",
+      "needs_heart": "Importing into sets needs Heart. Tap to see Heart.",
+      "rate_limited": "The scoring service is busy. Try again in a minute.",
+      "set_full": "That set is full.",
+      "error": "Could not import the boards. Try again.",
+      "invalid_deal": "Board {{n}} could not be imported. Check its deal, dealer and vulnerability."
     }
   }
 }

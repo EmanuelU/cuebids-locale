@@ -3718,7 +3718,8 @@
       "recent_saved": "Ostatnio zapisane",
       "see_all": "Zobacz wszystkie",
       "board_count": "Rozdania: {{n}}",
-      "empty": "Zapisz rozdanie z jego wyniku albo dodaj wyniki wyszukiwania do zestawu, a pojawi się tutaj."
+      "empty": "Zapisz rozdanie z jego wyniku albo dodaj wyniki wyszukiwania do zestawu, a pojawi się tutaj.",
+      "import_title": "Importuj PBN"
     },
     "sets": {
       "new_placeholder": "Nazwij nowy zestaw",
@@ -3726,7 +3727,8 @@
       "needs_heart": "Tworzenie i zmienianie zestawów wymaga Kier. Zestawy, które już masz, nadal możesz otwierać i grać. Dotknij, aby zobaczyć Kier.",
       "empty": "Nie masz jeszcze zestawów. Wyszukaj rozdania i dodaj wyniki do zestawu.",
       "board_count": "Rozdania: {{n}}",
-      "error": "Nie udało się zapisać zestawu. Spróbuj ponownie."
+      "error": "Nie udało się zapisać zestawu. Spróbuj ponownie.",
+      "import_pbn": "Importuj PBN"
     },
     "set": {
       "drag": "Przeciągnij, aby zmienić kolejność",
@@ -3768,6 +3770,23 @@
       "new": "Utwórz",
       "full": "Ten zestaw jest pełny.",
       "error": "Nie udało się dodać rozdań. Spróbuj ponownie."
+    },
+    "import": {
+      "intro": "Wybierz plik PBN. Każde rozdanie trafi do zestawu; licytacja i komentarz staną się sugestią pokazywaną po rozdaniu.",
+      "or_paste": "Albo wklej tekst PBN",
+      "read": "Wczytaj",
+      "nothing_read": "Nie udało się wczytać żadnego rozdania z tego pliku.",
+      "read_count": "Wczytane rozdania: {{n}}. Pominięte duplikaty: {{dupes}}.",
+      "into": "Dodaj do",
+      "new_set": "Nowy zestaw",
+      "name": "Nazwa zestawu",
+      "scoring": "Obliczanie wyników {{done}} z {{total}}…",
+      "import": "Importuj",
+      "needs_heart": "Import do zestawów wymaga Kier. Dotknij, aby zobaczyć Kier.",
+      "rate_limited": "Usługa obliczania wyników jest zajęta. Spróbuj ponownie za minutę.",
+      "set_full": "Ten zestaw jest pełny.",
+      "error": "Nie udało się zaimportować rozdań. Spróbuj ponownie.",
+      "invalid_deal": "Nie udało się zaimportować rozdania {{n}}. Sprawdź układ, rozdającego i założenia."
     }
   }
 }
