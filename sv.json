@@ -3784,7 +3784,7 @@
       "rate_limited": "Poängtjänsten är upptagen. Försök igen om en minut.",
       "set_full": "Samlingen är full.",
       "error": "Det gick inte att importera brickorna. Försök igen.",
-      "invalid_deal": "Bricka {{n}} kunde inte importeras. Kontrollera given, given och zonen."
+      "invalid_deal": "Bricka {{n}} kunde inte importeras. Kontrollera korten, given och zonen."
     }
   }
 }
