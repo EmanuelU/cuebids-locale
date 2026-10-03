@@ -3716,7 +3716,8 @@
       "recent_saved": "Senast sparade",
       "see_all": "Visa alla",
       "board_count": "Brickor: {{n}}",
-      "empty": "Spara en bricka från resultatet, eller lägg sökresultat i en samling, så hamnar den här."
+      "empty": "Spara en bricka från resultatet, eller lägg sökresultat i en samling, så hamnar den här.",
+      "import_title": "Importera PBN"
     },
     "sets": {
       "new_placeholder": "Namnge en ny samling",
@@ -3724,7 +3725,8 @@
       "needs_heart": "Att skapa och ändra samlingar kräver Hjärter. Samlingar du redan har kan du fortfarande öppna och spela. Tryck för att se Hjärter.",
       "empty": "Inga samlingar än. Hitta brickor och lägg till resultaten i en samling.",
       "board_count": "Brickor: {{n}}",
-      "error": "Det gick inte att spara samlingen. Försök igen."
+      "error": "Det gick inte att spara samlingen. Försök igen.",
+      "import_pbn": "Importera PBN"
     },
     "set": {
       "drag": "Dra för att ändra ordningen",
@@ -3766,6 +3768,23 @@
       "new": "Skapa",
       "full": "Samlingen är full.",
       "error": "Det gick inte att lägga till brickorna. Försök igen."
+    },
+    "import": {
+      "intro": "Välj en PBN-fil. Varje bricka blir en giv i en samling; budgivningen och kommentaren blir förslaget som visas efter brickan.",
+      "or_paste": "Eller klistra in PBN-text",
+      "read": "Läs in",
+      "nothing_read": "Inga brickor kunde läsas från filen.",
+      "read_count": "Inlästa brickor: {{n}}. Dubbletter som utelämnats: {{dupes}}.",
+      "into": "Lägg till i",
+      "new_set": "En ny samling",
+      "name": "Samlingens namn",
+      "scoring": "Poängsätter {{done}} av {{total}}…",
+      "import": "Importera",
+      "needs_heart": "Att importera till samlingar kräver Hjärter. Tryck för att se Hjärter.",
+      "rate_limited": "Poängtjänsten är upptagen. Försök igen om en minut.",
+      "set_full": "Samlingen är full.",
+      "error": "Det gick inte att importera brickorna. Försök igen.",
+      "invalid_deal": "Bricka {{n}} kunde inte importeras. Kontrollera given, given och zonen."
     }
   }
 }

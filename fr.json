@@ -3716,7 +3716,8 @@
       "recent_saved": "Enregistrées récemment",
       "see_all": "Tout voir",
       "board_count": "Donnes : {{n}}",
-      "empty": "Enregistrez une donne depuis son résultat, ou ajoutez des résultats de recherche à une série, et elle apparaît ici."
+      "empty": "Enregistrez une donne depuis son résultat, ou ajoutez des résultats de recherche à une série, et elle apparaît ici.",
+      "import_title": "Importer un PBN"
     },
     "sets": {
       "new_placeholder": "Nommer une nouvelle série",
@@ -3724,7 +3725,8 @@
       "needs_heart": "Créer et modifier des séries demande Cœur. Les séries que vous avez déjà restent accessibles et jouables. Touchez pour voir Cœur.",
       "empty": "Pas encore de série. Cherchez des donnes, puis ajoutez les résultats à une série.",
       "board_count": "Donnes : {{n}}",
-      "error": "Impossible d’enregistrer la série. Réessayez."
+      "error": "Impossible d’enregistrer la série. Réessayez.",
+      "import_pbn": "Importer un PBN"
     },
     "set": {
       "drag": "Glisser pour réordonner",
@@ -3766,6 +3768,23 @@
       "new": "Créer",
       "full": "Cette série est pleine.",
       "error": "Impossible d’ajouter les donnes. Réessayez."
+    },
+    "import": {
+      "intro": "Choisissez un fichier PBN. Chaque donne rejoint une série ; ses enchères et son commentaire deviennent la suggestion affichée après la donne.",
+      "or_paste": "Ou collez du texte PBN",
+      "read": "Lire",
+      "nothing_read": "Aucune donne n’a pu être lue dans ce fichier.",
+      "read_count": "Donnes lues : {{n}}. Doublons écartés : {{dupes}}.",
+      "into": "Ajouter à",
+      "new_set": "Une nouvelle série",
+      "name": "Nom de la série",
+      "scoring": "Calcul des scores {{done}} sur {{total}}…",
+      "import": "Importer",
+      "needs_heart": "Importer dans des séries demande Cœur. Touchez pour voir Cœur.",
+      "rate_limited": "Le service de calcul est occupé. Réessayez dans une minute.",
+      "set_full": "Cette série est pleine.",
+      "error": "Impossible d’importer les donnes. Réessayez.",
+      "invalid_deal": "La donne {{n}} n’a pas pu être importée. Vérifiez la distribution, le donneur et la vulnérabilité."
     }
   }
 }
