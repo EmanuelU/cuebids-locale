@@ -3774,7 +3774,8 @@
       "save": "保存",
       "auction_over": "叫牌已结束。撤销即可修改。",
       "save_next": "保存并下一副",
-      "board_of": "第 {{n}} / {{total}} 副"
+      "board_of": "第 {{n}} / {{total}} 副",
+      "suggestions_teachers": "建议叫牌属于教师工具，供高级小组的管理员使用。"
     },
     "add": {
       "title": "加入牌组",

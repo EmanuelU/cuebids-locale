@@ -3769,7 +3769,8 @@
       "save": "Zapisz",
       "auction_over": "Licytacja się zakończyła. Cofnij, aby ją zmienić.",
       "save_next": "Zapisz i dalej",
-      "board_of": "Rozdanie {{n}} z {{total}}"
+      "board_of": "Rozdanie {{n}} z {{total}}",
+      "suggestions_teachers": "Sugerowana licytacja jest częścią narzędzi dla nauczycieli, dla administratorów grup premium."
     },
     "add": {
       "title": "Dodaj do zestawu",

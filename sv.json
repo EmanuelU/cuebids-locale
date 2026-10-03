@@ -3767,7 +3767,8 @@
       "save": "Spara",
       "auction_over": "Budgivningen är slut. Ångra för att ändra den.",
       "save_next": "Spara och nästa",
-      "board_of": "Bricka {{n}} av {{total}}"
+      "board_of": "Bricka {{n}} av {{total}}",
+      "suggestions_teachers": "Föreslagen budgivning ingår i lärarverktygen, för administratörer av premiumgrupper."
     },
     "add": {
       "title": "Lägg till i en samling",

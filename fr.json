@@ -3767,7 +3767,8 @@
       "save": "Enregistrer",
       "auction_over": "Les enchères sont terminées. Annulez pour les modifier.",
       "save_next": "Enregistrer et suivante",
-      "board_of": "Donne {{n}} sur {{total}}"
+      "board_of": "Donne {{n}} sur {{total}}",
+      "suggestions_teachers": "Les séquences suggérées font partie des outils pour enseignants, pour les administrateurs de groupes premium."
     },
     "add": {
       "title": "Ajouter à une série",

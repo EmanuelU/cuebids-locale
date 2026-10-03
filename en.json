@@ -3767,7 +3767,8 @@
       "save": "Save",
       "auction_over": "The auction is over. Undo to change it.",
       "save_next": "Save and next",
-      "board_of": "Board {{n}} of {{total}}"
+      "board_of": "Board {{n}} of {{total}}",
+      "suggestions_teachers": "Suggested auctions are part of teacher tools, for admins of premium groups."
     },
     "add": {
       "title": "Add to a set",
