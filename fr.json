@@ -2068,7 +2068,7 @@
     "like": "J’aime",
     "liked": "Aimé",
     "post_poll": "Publier un sondage",
-    "poll_not_available": "Création de sondage désactivée dans les tournois",
+    "poll_not_available": "Les sondages ouvrent à la fin du tournoi",
     "visit_poll": "Voir le sondage",
     "print_board": "Imprimer la donne",
     "copy_link": "Copier le lien",
@@ -2202,10 +2202,10 @@
       "listed": "Comme dans la liste",
       "shuffled": "Mélangées",
       "in_session": "Donnes dans la session : {{n}}",
-      "left_out": "Les donnes de tournois et de défis sont retirées : elles ne se rejouent qu’avec le robot.",
-      "none_with_friend": "Aucune de ces donnes ne peut se rejouer avec un ami : elles viennent toutes de tournois ou de défis. Choisissez le robot pour les rejouer.",
+      "left_out": "Les donnes de tournois et de défis en cours sont retirées : jusqu’à leur fin, elles ne se jouent qu’avec le robot.",
+      "none_with_friend": "Aucune de ces donnes ne peut encore se jouer avec un ami : leurs tournois ou défis sont toujours en cours. Choisissez le robot pour les jouer maintenant.",
       "start": "Commencer",
-      "robot_only": "Les donnes de tournois et de défis ne se rejouent qu’avec le robot.",
+      "robot_only": "Les donnes de tournois et de défis en cours ne se jouent qu’avec le robot.",
       "first": "Les {{n}} premières"
     },
     "add_to_set": "Ajouter à une série"

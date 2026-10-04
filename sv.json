@@ -2068,7 +2068,7 @@
     "like": "Gilla",
     "liked": "Gillad",
     "post_poll": "Skapa omröstning",
-    "poll_not_available": "Omröstning avstängd i events",
+    "poll_not_available": "Omröstning öppnar när tävlingen är slut",
     "visit_poll": "Besök omröstning",
     "print_board": "Skriv ut giv",
     "copy_link": "Kopiera länk",
@@ -2202,10 +2202,10 @@
       "listed": "Som i listan",
       "shuffled": "Blandade",
       "in_session": "Brickor i sessionen: {{n}}",
-      "left_out": "Brickor från tävlingar och utmaningar är borttagna: de kan bara spelas om med roboten.",
-      "none_with_friend": "Ingen av brickorna kan spelas om med en vän – alla kommer från tävlingar eller utmaningar. Välj roboten för att spela om dem.",
+      "left_out": "Brickor från tävlingar och utmaningar som pågår är borttagna: tills de är slut kan de bara spelas med roboten.",
+      "none_with_friend": "Ingen av brickorna kan spelas med en vän ännu – deras tävlingar eller utmaningar pågår fortfarande. Välj roboten för att spela dem nu.",
       "start": "Starta",
-      "robot_only": "Brickor från tävlingar och utmaningar kan bara spelas om med roboten.",
+      "robot_only": "Brickor från tävlingar och utmaningar som pågår kan bara spelas med roboten.",
       "first": "De första {{n}}"
     },
     "add_to_set": "Lägg till i en samling"
