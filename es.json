@@ -3716,7 +3716,8 @@
       "recent_saved": "Guardadas recientemente",
       "see_all": "Ver todas",
       "board_count": "Manos: {{n}}",
-      "empty": "Guarda una mano desde su resultado, o añade resultados de búsqueda a una serie, y aparecerá aquí."
+      "empty": "Guarda una mano desde su resultado, o añade resultados de búsqueda a una serie, y aparecerá aquí.",
+      "import_title": "Importar PBN"
     },
     "sets": {
       "new_placeholder": "Nombra una serie nueva",
@@ -3724,7 +3725,8 @@
       "needs_heart": "Crear y cambiar series requiere Corazón. Las series que ya tienes siguen siendo tuyas para abrir y jugar. Toca para ver Corazón.",
       "empty": "Aún no tienes series. Busca manos y añade los resultados a una serie.",
       "board_count": "Manos: {{n}}",
-      "error": "No se pudo guardar la serie. Inténtalo de nuevo."
+      "error": "No se pudo guardar la serie. Inténtalo de nuevo.",
+      "import_pbn": "Importar PBN"
     },
     "set": {
       "drag": "Arrastra para reordenar",
@@ -3766,6 +3768,23 @@
       "new": "Crear",
       "full": "Esa serie está llena.",
       "error": "No se pudieron añadir las manos. Inténtalo de nuevo."
+    },
+    "import": {
+      "intro": "Elige un archivo PBN. Cada mano pasa a una serie; su subasta y su comentario se convierten en la sugerencia que se muestra después de la mano.",
+      "or_paste": "O pega texto PBN",
+      "read": "Leer",
+      "nothing_read": "No se pudo leer ninguna mano de ese archivo.",
+      "read_count": "Manos leídas: {{n}}. Duplicados descartados: {{dupes}}.",
+      "into": "Añadir a",
+      "new_set": "Una serie nueva",
+      "name": "Nombre de la serie",
+      "scoring": "Puntuando {{done}} de {{total}}…",
+      "import": "Importar",
+      "needs_heart": "Importar a series requiere Corazón. Toca para ver Corazón.",
+      "rate_limited": "El servicio de puntuación está ocupado. Inténtalo de nuevo en un minuto.",
+      "set_full": "Esa serie está llena.",
+      "error": "No se pudieron importar las manos. Inténtalo de nuevo.",
+      "invalid_deal": "No se pudo importar la mano {{n}}. Revisa el reparto, el repartidor y la vulnerabilidad."
     }
   }
 }
