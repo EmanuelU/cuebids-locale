@@ -2068,7 +2068,7 @@
     "like": "Me gusta",
     "liked": "Te gusta",
     "post_poll": "Publicar una encuesta",
-    "poll_not_available": "La creación de encuestas está desactivada en los eventos",
+    "poll_not_available": "Las encuestas se abren cuando termina el evento",
     "visit_poll": "Ver encuesta",
     "print_board": "Imprimir mano",
     "copy_link": "Copiar enlace",
@@ -2202,10 +2202,10 @@
       "listed": "Como en la lista",
       "shuffled": "Mezcladas",
       "in_session": "Manos en la sesión: {{n}}",
-      "left_out": "Las manos de torneos y desafíos se han quitado: solo se pueden repetir con el robot.",
-      "none_with_friend": "Ninguna de estas manos se puede repetir con un amigo: todas son de torneos o desafíos. Elige el robot para repetirlas.",
+      "left_out": "Las manos de torneos y desafíos en curso se han quitado: hasta que terminen, solo se pueden jugar con el robot.",
+      "none_with_friend": "Ninguna de estas manos se puede jugar todavía con un amigo: sus torneos o desafíos siguen en curso. Elige el robot para jugarlas ahora.",
       "start": "Empezar",
-      "robot_only": "Las manos de torneos y desafíos solo se pueden repetir con el robot.",
+      "robot_only": "Las manos de torneos y desafíos en curso solo se pueden jugar con el robot.",
       "first": "Las {{n}} primeras"
     },
     "add_to_set": "Añadir a una serie"

@@ -2070,7 +2070,7 @@
     "like": "Polub",
     "liked": "Polubione",
     "post_poll": "Opublikuj ankietę",
-    "poll_not_available": "Tworzenie ankiet jest wyłączone w wydarzeniach",
+    "poll_not_available": "Ankiety będą dostępne po zakończeniu wydarzenia",
     "visit_poll": "Przejdź do ankiety",
     "print_board": "Drukuj rozdanie",
     "copy_link": "Kopiuj link",
@@ -2204,10 +2204,10 @@
       "listed": "Jak na liście",
       "shuffled": "Wymieszane",
       "in_session": "Rozdania w sesji: {{n}}",
-      "left_out": "Rozdania z turniejów i wyzwań pominięto: ponownie można je zagrać tylko z robotem.",
-      "none_with_friend": "Żadnego z tych rozdań nie można zagrać ponownie ze znajomym — wszystkie pochodzą z turniejów lub wyzwań. Wybierz robota, aby je zagrać.",
+      "left_out": "Pominięto rozdania z trwających turniejów i wyzwań: do ich zakończenia można je zagrać tylko z robotem.",
+      "none_with_friend": "Żadnego z tych rozdań nie można jeszcze zagrać ze znajomym — ich turnieje lub wyzwania wciąż trwają. Wybierz robota, aby zagrać je teraz.",
       "start": "Rozpocznij",
-      "robot_only": "Rozdania z turniejów i wyzwań można zagrać ponownie tylko z robotem.",
+      "robot_only": "Rozdania z trwających turniejów i wyzwań można zagrać tylko z robotem.",
       "first": "Pierwsze {{n}}"
     },
     "add_to_set": "Dodaj do zestawu"

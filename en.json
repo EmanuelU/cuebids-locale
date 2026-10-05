@@ -2068,7 +2068,7 @@
     "like": "Like",
     "liked": "Liked",
     "post_poll": "Post a poll",
-    "poll_not_available": "Poll creation disabled in events",
+    "poll_not_available": "Polls open when the event is over",
     "visit_poll": "Visit poll",
     "print_board": "Print board",
     "copy_link": "Copy link",
@@ -2202,10 +2202,10 @@
       "listed": "As listed",
       "shuffled": "Shuffled",
       "in_session": "Boards in the session: {{n}}",
-      "left_out": "Boards from events and challenges are left out: they can only be played again with the robot.",
-      "none_with_friend": "None of these boards can be played with a friend: they all come from events or challenges. Pick the robot to play them again.",
+      "left_out": "Boards from events and challenges still running are left out: until they end, only the robot can play them.",
+      "none_with_friend": "None of these boards can be played with a friend yet: their events or challenges are still running. Pick the robot to play them now.",
       "start": "Start",
-      "robot_only": "Boards from events and challenges can only be played again with the robot.",
+      "robot_only": "Boards from events and challenges still running can only be played with the robot.",
       "first": "First {{n}}"
     },
     "add_to_set": "Add to a set"

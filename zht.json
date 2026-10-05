@@ -2069,7 +2069,7 @@
     "like": "喜歡",
     "liked": "喜歡",
     "post_poll": "發表投票",
-    "poll_not_available": "練習中禁用投票創建",
+    "poll_not_available": "賽事結束後即可發起投票",
     "visit_poll": "訪問投票",
     "print_board": "打印本副牌",
     "copy_link": "複製連結",
@@ -2203,10 +2203,10 @@
       "listed": "按清單順序",
       "shuffled": "打亂",
       "in_session": "本次的牌數：{{n}}",
-      "left_out": "來自賽事和挑戰的牌已略去：它們只能與機器人重打。",
-      "none_with_friend": "這些牌都來自賽事或挑戰，無法與好友重打。選擇機器人即可重打。",
+      "left_out": "仍在進行的賽事和挑戰中的牌已略去：結束前只能與機器人打。",
+      "none_with_friend": "這些牌暫時都不能與好友打：它們的賽事或挑戰仍在進行。選擇機器人即可現在打。",
       "start": "開始",
-      "robot_only": "來自賽事和挑戰的牌只能與機器人重打。",
+      "robot_only": "仍在進行的賽事和挑戰中的牌只能與機器人打。",
       "first": "前 {{n}} 副"
     },
     "add_to_set": "加入牌組"
