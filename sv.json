@@ -420,7 +420,20 @@
     "tab_gift": "Gåva",
     "source_gift": "Gåva",
     "plan_renews_on": "Förnyas {{date}}",
-    "plan_ends_on": "Gäller till {{date}}"
+    "plan_ends_on": "Gäller till {{date}}",
+    "teacher": {
+      "title": "Lärarverktyg",
+      "intro": "För dig som undervisar i bridge, i grupp eller en och en. Separat från din egen plan.",
+      "feature_suggestions": "Föreslagen budgivning och kommentarer på dina samlingar, som eleverna ser efter varje bricka",
+      "feature_material": "Skapa samlingar och importera PBN-filer utan Hjärter",
+      "trial": "{{days}} dagars gratis provperiod",
+      "per_year": "{{price}} per år",
+      "start_trial": "Starta gratis provperiod",
+      "subscribe": "Prenumerera",
+      "active": "Du har lärarverktygen.",
+      "active_grandfathered": "Du har lärarverktygen genom din premiumgrupp.",
+      "manage": "Hantera prenumeration"
+    }
   },
   "go_to_store": {
     "no_iap_error": "Butiken finns för närvarande inte i mobilappen. Vänligen besök vår hemsida för att prenumerera på Cuebids."
@@ -450,6 +463,9 @@
       "info_1_post_styled": "-prenumerant",
       "info_2_pre_styled": "Du har låst upp allt på CUebids: Alla givtyper och dessutom - ",
       "info_2_styled": "har du obegränsade biljetter."
+    },
+    "teacher": {
+      "info": "Lärarverktygen är aktiverade. Öppna en samling för att lägga till föreslagen budgivning åt dina elever."
     }
   },
   "subscriptions": {
@@ -3704,7 +3720,7 @@
       "title": "Spara den här brickan",
       "title_saved": "Sparad i ditt bibliotek",
       "explain": "Bara din. Flaggan säger till partnern att titta på en bricka; det här behåller den åt dig, med dina egna ord på.",
-      "needs_heart": "Att spara en bricka är gratis. Etiketter och anteckning kräver Hjärter.",
+      "needs_heart": "Att spara en bricka är gratis. Etiketter och anteckning kräver Hjärter eller lärarverktygen.",
       "labels": "Etiketter",
       "label_placeholder": "Lebensohl, fråga Anna, misfit…",
       "note": "Anteckning",
@@ -3730,7 +3746,7 @@
     "sets": {
       "new_placeholder": "Namnge en ny samling",
       "new": "Skapa",
-      "needs_heart": "Att skapa och ändra samlingar kräver Hjärter. Samlingar du redan har kan du fortfarande öppna och spela. Tryck för att se Hjärter.",
+      "needs_heart": "Att skapa och ändra samlingar kräver Hjärter eller lärarverktygen. Samlingar du redan har kan du fortfarande öppna och spela. Tryck för att se Hjärter.",
       "empty": "Inga samlingar än. Hitta brickor och lägg till resultaten i en samling.",
       "board_count": "Brickor: {{n}}",
       "error": "Det gick inte att spara samlingen. Försök igen.",
@@ -3748,7 +3764,7 @@
       "name": "Samlingens namn",
       "description": "Beskrivning",
       "description_placeholder": "Vad samlingen är till för",
-      "read_only": "Att ändra en samling kräver Hjärter. Du kan fortfarande öppna och spela den.",
+      "read_only": "Att ändra en samling kräver Hjärter eller lärarverktygen. Du kan fortfarande öppna och spela den.",
       "play": "Spela",
       "board_count": "Brickor: {{n}}",
       "empty": "Inga brickor än. Hitta brickor och lägg till resultaten i den här samlingen.",
@@ -3768,11 +3784,11 @@
       "auction_over": "Budgivningen är slut. Ångra för att ändra den.",
       "save_next": "Spara och nästa",
       "board_of": "Bricka {{n}} av {{total}}",
-      "suggestions_teachers": "Föreslagen budgivning ingår i lärarverktygen, för administratörer av premiumgrupper."
+      "suggestions_teachers": "Föreslagen budgivning ingår i lärarverktygen."
     },
     "add": {
       "title": "Lägg till i en samling",
-      "needs_heart": "Samlingar kräver Hjärter. Tryck för att se Hjärter.",
+      "needs_heart": "Samlingar kräver Hjärter eller lärarverktygen. Tryck för att se Hjärter.",
       "added": "Brickor tillagda: {{n}}",
       "open_set": "Öppna samlingen",
       "first_only": "De första {{n}} resultaten läggs till.",
@@ -3792,7 +3808,7 @@
       "name": "Samlingens namn",
       "scoring": "Poängsätter {{done}} av {{total}}…",
       "import": "Importera",
-      "needs_heart": "Att importera till samlingar kräver Hjärter. Tryck för att se Hjärter.",
+      "needs_heart": "Att importera till samlingar kräver Hjärter eller lärarverktygen. Tryck för att se Hjärter.",
       "rate_limited": "Poängtjänsten är upptagen. Försök igen om en minut.",
       "set_full": "Samlingen är full.",
       "error": "Det gick inte att importera brickorna. Försök igen.",

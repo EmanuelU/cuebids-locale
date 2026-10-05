@@ -420,7 +420,20 @@
     "tab_gift": "Prezent",
     "source_gift": "Prezent",
     "plan_renews_on": "Odnawia się {{date}}",
-    "plan_ends_on": "Ważny do {{date}}"
+    "plan_ends_on": "Ważny do {{date}}",
+    "teacher": {
+      "title": "Narzędzia dla nauczycieli",
+      "intro": "Dla każdego, kto uczy brydża, w grupie lub indywidualnie. Niezależnie od twojego planu.",
+      "feature_suggestions": "Sugerowana licytacja i komentarze w twoich zestawach, widoczne dla uczniów po każdym rozdaniu",
+      "feature_material": "Tworzenie zestawów i import plików PBN bez Kier",
+      "trial": "Darmowy okres próbny: {{days}} dni",
+      "per_year": "{{price}} rocznie",
+      "start_trial": "Rozpocznij okres próbny",
+      "subscribe": "Subskrybuj",
+      "active": "Masz narzędzia dla nauczycieli.",
+      "active_grandfathered": "Masz narzędzia dla nauczycieli dzięki swojej grupie premium.",
+      "manage": "Zarządzaj subskrypcją"
+    }
   },
   "go_to_store": {
     "no_iap_error": "Sklep jest obecnie niedostępny w aplikacji mobilnej. Proszę odwiedzić naszą stronę internetową, aby uzyskać subskrypcję Cuebids."
@@ -450,6 +463,9 @@
       "info_1_post_styled": "",
       "info_2_pre_styled": "Odblokowałeś wszystko w Cuebids: Wszystkie rodzaje rozdań i na dodatek - ",
       "info_2_styled": "masz nieskończone bilety."
+    },
+    "teacher": {
+      "info": "Narzędzia dla nauczycieli są włączone. Otwórz zestaw, aby dodać sugerowaną licytację dla uczniów."
     }
   },
   "subscriptions": {
@@ -3706,7 +3722,7 @@
       "title": "Zapisz to rozdanie",
       "title_saved": "Zapisane w Twojej bibliotece",
       "explain": "Tylko Twoje. Flaga mówi partnerowi, żeby spojrzał na rozdanie; to zachowuje je dla Ciebie, z Twoimi własnymi słowami.",
-      "needs_heart": "Zapisanie rozdania jest darmowe. Etykiety i notatka wymagają Kier.",
+      "needs_heart": "Zapisanie rozdania jest darmowe. Etykiety i notatka wymagają Kier lub narzędzi dla nauczycieli.",
       "labels": "Etykiety",
       "label_placeholder": "Lebensohl, zapytać Annę, misfit…",
       "note": "Notatka",
@@ -3732,7 +3748,7 @@
     "sets": {
       "new_placeholder": "Nazwij nowy zestaw",
       "new": "Utwórz",
-      "needs_heart": "Tworzenie i zmienianie zestawów wymaga Kier. Zestawy, które już masz, nadal możesz otwierać i grać. Dotknij, aby zobaczyć Kier.",
+      "needs_heart": "Tworzenie i zmienianie zestawów wymaga Kier lub narzędzi dla nauczycieli. Zestawy, które już masz, nadal możesz otwierać i grać. Dotknij, aby zobaczyć Kier.",
       "empty": "Nie masz jeszcze zestawów. Wyszukaj rozdania i dodaj wyniki do zestawu.",
       "board_count": "Rozdania: {{n}}",
       "error": "Nie udało się zapisać zestawu. Spróbuj ponownie.",
@@ -3750,7 +3766,7 @@
       "name": "Nazwa zestawu",
       "description": "Opis",
       "description_placeholder": "Do czego służy zestaw",
-      "read_only": "Zmienianie zestawu wymaga Kier. Nadal możesz go otwierać i grać.",
+      "read_only": "Zmienianie zestawu wymaga Kier lub narzędzi dla nauczycieli. Nadal możesz go otwierać i grać.",
       "play": "Zagraj",
       "board_count": "Rozdania: {{n}}",
       "empty": "Nie ma jeszcze rozdań. Wyszukaj rozdania i dodaj wyniki do tego zestawu.",
@@ -3770,11 +3786,11 @@
       "auction_over": "Licytacja się zakończyła. Cofnij, aby ją zmienić.",
       "save_next": "Zapisz i dalej",
       "board_of": "Rozdanie {{n}} z {{total}}",
-      "suggestions_teachers": "Sugerowana licytacja jest częścią narzędzi dla nauczycieli, dla administratorów grup premium."
+      "suggestions_teachers": "Sugerowana licytacja jest częścią narzędzi dla nauczycieli."
     },
     "add": {
       "title": "Dodaj do zestawu",
-      "needs_heart": "Zestawy wymagają Kier. Dotknij, aby zobaczyć Kier.",
+      "needs_heart": "Zestawy wymagają Kier lub narzędzi dla nauczycieli. Dotknij, aby zobaczyć Kier.",
       "added": "Dodane rozdania: {{n}}",
       "open_set": "Otwórz zestaw",
       "first_only": "Dodawane są pierwsze wyniki ({{n}}).",
@@ -3794,7 +3810,7 @@
       "name": "Nazwa zestawu",
       "scoring": "Obliczanie wyników {{done}} z {{total}}…",
       "import": "Importuj",
-      "needs_heart": "Import do zestawów wymaga Kier. Dotknij, aby zobaczyć Kier.",
+      "needs_heart": "Import do zestawów wymaga Kier lub narzędzi dla nauczycieli. Dotknij, aby zobaczyć Kier.",
       "rate_limited": "Usługa obliczania wyników jest zajęta. Spróbuj ponownie za minutę.",
       "set_full": "Ten zestaw jest pełny.",
       "error": "Nie udało się zaimportować rozdań. Spróbuj ponownie.",

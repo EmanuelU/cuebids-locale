@@ -420,7 +420,20 @@
     "tab_gift": "Cadeau",
     "source_gift": "Cadeau",
     "plan_renews_on": "Renouvellement le {{date}}",
-    "plan_ends_on": "Valable jusqu’au {{date}}"
+    "plan_ends_on": "Valable jusqu’au {{date}}",
+    "teacher": {
+      "title": "Outils pour enseignants",
+      "intro": "Pour celles et ceux qui enseignent le bridge, en groupe ou en cours particulier. Indépendant de votre propre abonnement.",
+      "feature_suggestions": "Séquences suggérées et commentaires sur vos séries, montrés aux élèves après chaque donne",
+      "feature_material": "Créer des séries et importer des fichiers PBN sans Cœur",
+      "trial": "Essai gratuit de {{days}} jours",
+      "per_year": "{{price}} par an",
+      "start_trial": "Commencer l’essai gratuit",
+      "subscribe": "S’abonner",
+      "active": "Vous avez les outils pour enseignants.",
+      "active_grandfathered": "Vous avez les outils pour enseignants grâce à votre groupe premium.",
+      "manage": "Gérer l’abonnement"
+    }
   },
   "go_to_store": {
     "no_iap_error": "La boutique est actuellement indisponible dans l’application mobile. Merci d’utiliser notre site web pour vous abonner à Cuebids."
@@ -450,6 +463,9 @@
       "info_1_post_styled": "",
       "info_2_pre_styled": "Vous avez tout débloqué sur Cuebids : tous les thèmes de donnes et, en prime, ",
       "info_2_styled": "des tickets illimités."
+    },
+    "teacher": {
+      "info": "Les outils pour enseignants sont activés. Ouvrez une série pour ajouter des séquences suggérées pour vos élèves."
     }
   },
   "subscriptions": {
@@ -3704,7 +3720,7 @@
       "title": "Enregistrer cette donne",
       "title_saved": "Enregistrée dans votre bibliothèque",
       "explain": "À vous seul. Le drapeau dit à votre partenaire de regarder une donne ; ceci la garde pour vous, avec vos propres mots.",
-      "needs_heart": "Enregistrer une donne est gratuit. Les étiquettes et la note demandent Cœur.",
+      "needs_heart": "Enregistrer une donne est gratuit. Les étiquettes et la note demandent Cœur ou les outils pour enseignants.",
       "labels": "Étiquettes",
       "label_placeholder": "Lebensohl, demander à Anna, misfit…",
       "note": "Note",
@@ -3730,7 +3746,7 @@
     "sets": {
       "new_placeholder": "Nommer une nouvelle série",
       "new": "Créer",
-      "needs_heart": "Créer et modifier des séries demande Cœur. Les séries que vous avez déjà restent accessibles et jouables. Touchez pour voir Cœur.",
+      "needs_heart": "Créer et modifier des séries demande Cœur ou les outils pour enseignants. Les séries que vous avez déjà restent accessibles et jouables. Touchez pour voir Cœur.",
       "empty": "Pas encore de série. Cherchez des donnes, puis ajoutez les résultats à une série.",
       "board_count": "Donnes : {{n}}",
       "error": "Impossible d’enregistrer la série. Réessayez.",
@@ -3748,7 +3764,7 @@
       "name": "Nom de la série",
       "description": "Description",
       "description_placeholder": "À quoi sert la série",
-      "read_only": "Modifier une série demande Cœur. Vous pouvez toujours l’ouvrir et la jouer.",
+      "read_only": "Modifier une série demande Cœur ou les outils pour enseignants. Vous pouvez toujours l’ouvrir et la jouer.",
       "play": "Jouer",
       "board_count": "Donnes : {{n}}",
       "empty": "Pas encore de donne. Cherchez des donnes, puis ajoutez les résultats à cette série.",
@@ -3768,11 +3784,11 @@
       "auction_over": "Les enchères sont terminées. Annulez pour les modifier.",
       "save_next": "Enregistrer et suivante",
       "board_of": "Donne {{n}} sur {{total}}",
-      "suggestions_teachers": "Les séquences suggérées font partie des outils pour enseignants, pour les administrateurs de groupes premium."
+      "suggestions_teachers": "Les séquences suggérées font partie des outils pour enseignants."
     },
     "add": {
       "title": "Ajouter à une série",
-      "needs_heart": "Les séries demandent Cœur. Touchez pour voir Cœur.",
+      "needs_heart": "Les séries demandent Cœur ou les outils pour enseignants. Touchez pour voir Cœur.",
       "added": "Donnes ajoutées : {{n}}",
       "open_set": "Ouvrir la série",
       "first_only": "Les {{n}} premiers résultats sont ajoutés.",
@@ -3792,7 +3808,7 @@
       "name": "Nom de la série",
       "scoring": "Calcul des scores {{done}} sur {{total}}…",
       "import": "Importer",
-      "needs_heart": "Importer dans des séries demande Cœur. Touchez pour voir Cœur.",
+      "needs_heart": "Importer dans des séries demande Cœur ou les outils pour enseignants. Touchez pour voir Cœur.",
       "rate_limited": "Le service de calcul est occupé. Réessayez dans une minute.",
       "set_full": "Cette série est pleine.",
       "error": "Impossible d’importer les donnes. Réessayez.",
