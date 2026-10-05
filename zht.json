@@ -420,7 +420,20 @@
     "tab_gift": "禮物",
     "source_gift": "禮物",
     "plan_renews_on": "{{date}} 自動續訂",
-    "plan_ends_on": "有效期至 {{date}}"
+    "plan_ends_on": "有效期至 {{date}}",
+    "teacher": {
+      "title": "教師工具",
+      "intro": "適合教授橋牌的人，無論是小組課還是一對一。與你自己的會員相互獨立。",
+      "feature_suggestions": "在你的牌組中加入建議叫牌和講解，學生每打完一副牌即可看到",
+      "feature_material": "無需紅心會員即可建立牌組和匯入PBN檔案",
+      "trial": "{{days}}天免費試用",
+      "per_year": "每年{{price}}",
+      "start_trial": "開始免費試用",
+      "subscribe": "訂閱",
+      "active": "你已擁有教師工具。",
+      "active_grandfathered": "你透過高級小組擁有教師工具。",
+      "manage": "管理訂閱"
+    }
   },
   "go_to_store": {
     "no_iap_error": "商店目前無法在移動應用程序中使用。請訪問我們的網站訂閱 Cuebids。"
@@ -450,6 +463,9 @@
       "info_1_post_styled": "訂戶",
       "info_2_pre_styled": "您已解鎖 Cuebids 中的所有內容：所有牌型以及最重要的 -",
       "info_2_styled": "你有無窮無盡的門票。"
+    },
+    "teacher": {
+      "info": "教師工具已開通。打開一個牌組，為學生加入建議叫牌。"
     }
   },
   "subscriptions": {
@@ -3711,7 +3727,7 @@
       "title": "儲存這副牌",
       "title_saved": "已存入你的收藏",
       "explain": "只屬於你。旗標是讓搭檔來看這副牌；這裡是把它留給自己，寫上你自己的話。",
-      "needs_heart": "儲存牌局是免費的。標籤和備註需要紅心會員。",
+      "needs_heart": "儲存牌局是免費的。標籤和備註需要紅心會員或教師工具。",
       "labels": "標籤",
       "label_placeholder": "Lebensohl、問問安娜、配合不佳…",
       "note": "備註",
@@ -3737,7 +3753,7 @@
     "sets": {
       "new_placeholder": "為新牌組命名",
       "new": "建立",
-      "needs_heart": "建立和修改牌組需要紅心會員。已有的牌組仍可開啟和重打。點擊查看紅心會員。",
+      "needs_heart": "建立和修改牌組需要紅心會員或教師工具。已有的牌組仍可開啟和重打。點擊查看紅心會員。",
       "empty": "還沒有牌組。先查找牌局，再把結果加入牌組。",
       "board_count": "牌數：{{n}}",
       "error": "無法儲存牌組，請重試。",
@@ -3755,7 +3771,7 @@
       "name": "牌組名稱",
       "description": "描述",
       "description_placeholder": "這個牌組的用途",
-      "read_only": "修改牌組需要紅心會員。你仍可開啟並重打。",
+      "read_only": "修改牌組需要紅心會員或教師工具。你仍可開啟並重打。",
       "play": "開始",
       "board_count": "牌數：{{n}}",
       "empty": "還沒有牌。先查找牌局，再把結果加入這個牌組。",
@@ -3775,11 +3791,11 @@
       "auction_over": "叫牌已結束。復原即可修改。",
       "save_next": "儲存並下一副",
       "board_of": "第 {{n}} / {{total}} 副",
-      "suggestions_teachers": "建議叫牌屬於教師工具，供高級小組的管理員使用。"
+      "suggestions_teachers": "建議叫牌屬於教師工具。"
     },
     "add": {
       "title": "加入牌組",
-      "needs_heart": "牌組需要紅心會員。點擊查看紅心會員。",
+      "needs_heart": "牌組需要紅心會員或教師工具。點擊查看紅心會員。",
       "added": "已加入的牌：{{n}}",
       "open_set": "開啟牌組",
       "first_only": "只加入前 {{n}} 個結果。",
@@ -3799,7 +3815,7 @@
       "name": "牌組名稱",
       "scoring": "正在計分 {{done}} / {{total}}…",
       "import": "匯入",
-      "needs_heart": "匯入到牌組需要紅心會員。點擊查看紅心會員。",
+      "needs_heart": "匯入到牌組需要紅心會員或教師工具。點擊查看紅心會員。",
       "rate_limited": "計分服務繁忙，請一分鐘後再試。",
       "set_full": "這個牌組已滿。",
       "error": "無法匯入這些牌，請重試。",

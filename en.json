@@ -420,7 +420,20 @@
     "tab_gift": "Gift",
     "source_gift": "Gift",
     "plan_renews_on": "Renews {{date}}",
-    "plan_ends_on": "Ends {{date}}"
+    "plan_ends_on": "Ends {{date}}",
+    "teacher": {
+      "title": "Teacher tools",
+      "intro": "For anyone who teaches bridge, to a class or one to one. Separate from your own plan.",
+      "feature_suggestions": "Suggested auctions and comments on your sets, shown to students after each board",
+      "feature_material": "Build sets and import PBN files without Heart",
+      "trial": "{{days}}-day free trial",
+      "per_year": "{{price}} per year",
+      "start_trial": "Start free trial",
+      "subscribe": "Subscribe",
+      "active": "You have teacher tools.",
+      "active_grandfathered": "You have teacher tools through your premium group.",
+      "manage": "Manage subscription"
+    }
   },
   "go_to_store": {
     "no_iap_error": "Store is currently not available in the mobile app. Please visit our website to subscribe to Cuebids."
@@ -450,6 +463,9 @@
       "info_1_post_styled": " subscriber",
       "info_2_pre_styled": "You have unlocked everything in Cuebids: All the deal types and on top - ",
       "info_2_styled": "you have endless tickets."
+    },
+    "teacher": {
+      "info": "Teacher tools are on. Open a set to add suggested auctions for your students."
     }
   },
   "subscriptions": {
@@ -3704,7 +3720,7 @@
       "title": "Save this board",
       "title_saved": "Saved to your library",
       "explain": "Yours alone. The flag tells your partner to look at a board; this keeps it for you, with your own words on it.",
-      "needs_heart": "Saving a board is free. Labels and a note need Heart.",
+      "needs_heart": "Saving a board is free. Labels and a note need Heart or teacher tools.",
       "labels": "Labels",
       "label_placeholder": "Lebensohl, ask Anna, misfit…",
       "note": "Note",
@@ -3730,7 +3746,7 @@
     "sets": {
       "new_placeholder": "Name a new set",
       "new": "Create",
-      "needs_heart": "Making and changing sets needs Heart. Sets you already have stay yours to open and play. Tap to see Heart.",
+      "needs_heart": "Making and changing sets needs Heart or teacher tools. Sets you already have stay yours to open and play. Tap to see Heart.",
       "empty": "No sets yet. Find a deal, then add the results to a set.",
       "board_count": "Boards: {{n}}",
       "error": "Could not save the set. Try again.",
@@ -3748,7 +3764,7 @@
       "name": "Set name",
       "description": "Description",
       "description_placeholder": "What the set is for",
-      "read_only": "Changing a set needs Heart. You can still open and play it.",
+      "read_only": "Changing a set needs Heart or teacher tools. You can still open and play it.",
       "play": "Play",
       "board_count": "Boards: {{n}}",
       "empty": "No boards yet. Find a deal, then add the results to this set.",
@@ -3768,11 +3784,11 @@
       "auction_over": "The auction is over. Undo to change it.",
       "save_next": "Save and next",
       "board_of": "Board {{n}} of {{total}}",
-      "suggestions_teachers": "Suggested auctions are part of teacher tools, for admins of premium groups."
+      "suggestions_teachers": "Suggested auctions are part of teacher tools."
     },
     "add": {
       "title": "Add to a set",
-      "needs_heart": "Sets need Heart. Tap to see Heart.",
+      "needs_heart": "Sets need Heart or teacher tools. Tap to see Heart.",
       "added": "Boards added: {{n}}",
       "open_set": "Open the set",
       "first_only": "The first {{n}} results are added.",
@@ -3792,7 +3808,7 @@
       "name": "Set name",
       "scoring": "Scoring {{done}} of {{total}}…",
       "import": "Import",
-      "needs_heart": "Importing into sets needs Heart. Tap to see Heart.",
+      "needs_heart": "Importing into sets needs Heart or teacher tools. Tap to see Heart.",
       "rate_limited": "The scoring service is busy. Try again in a minute.",
       "set_full": "That set is full.",
       "error": "Could not import the boards. Try again.",
