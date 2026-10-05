@@ -1541,7 +1541,13 @@
     },
     "sets": "Zestawy",
     "no_sets": "Nie masz jeszcze zestawów. Utwórz go w Bibliotece.",
-    "pick_set": "Wybierz zestaw z rozdaniami, które możesz zagrać."
+    "pick_set": "Wybierz zestaw z rozdaniami, które możesz zagrać.",
+    "choose_sets": "Wybierz zestawy",
+    "sets_first": "Pierwsze",
+    "sets_random": "Losowo",
+    "sets_order_listed": "Zestaw po zestawie",
+    "sets_order_shuffled": "Wymieszane",
+    "sets_available": "Dostępne rozdania: {{n}}. Są dzielone po równo między zestawy."
   },
   "deal_type_select": {
     "random": "Losowe rozdania",
@@ -1766,7 +1772,8 @@
       "free_event_used_info_2": "Wciąż możesz utworzyć zwykłe wydarzenie.",
       "group_admin_error": "Tylko administratorzy grupy mogą tworzyć wydarzenia",
       "create_submit": "Utwórz wydarzenie grupowe",
-      "edit_submit": "Zapisz wydarzenie"
+      "edit_submit": "Zapisz wydarzenie",
+      "sets_too_few": "Wybrane zestawy mają tyle rozdań, które można dać grupie: {{n}}. Wybierz mniej rozdań albo więcej zestawów."
     },
     "event_draft": {
       "error": "Coś poszło nie tak",
@@ -2063,7 +2070,7 @@
     "like": "Polub",
     "liked": "Polubione",
     "post_poll": "Opublikuj ankietę",
-    "poll_not_available": "Tworzenie ankiet jest wyłączone w wydarzeniach",
+    "poll_not_available": "Ankiety będą dostępne po zakończeniu wydarzenia",
     "visit_poll": "Przejdź do ankiety",
     "print_board": "Drukuj rozdanie",
     "copy_link": "Kopiuj link",
@@ -2197,10 +2204,10 @@
       "listed": "Jak na liście",
       "shuffled": "Wymieszane",
       "in_session": "Rozdania w sesji: {{n}}",
-      "left_out": "Rozdania z turniejów i wyzwań pominięto: ponownie można je zagrać tylko z robotem.",
-      "none_with_friend": "Żadnego z tych rozdań nie można zagrać ponownie ze znajomym — wszystkie pochodzą z turniejów lub wyzwań. Wybierz robota, aby je zagrać.",
+      "left_out": "Pominięto rozdania z trwających turniejów i wyzwań: do ich zakończenia można je zagrać tylko z robotem.",
+      "none_with_friend": "Żadnego z tych rozdań nie można jeszcze zagrać ze znajomym — ich turnieje lub wyzwania wciąż trwają. Wybierz robota, aby zagrać je teraz.",
       "start": "Rozpocznij",
-      "robot_only": "Rozdania z turniejów i wyzwań można zagrać ponownie tylko z robotem.",
+      "robot_only": "Rozdania z trwających turniejów i wyzwań można zagrać tylko z robotem.",
       "first": "Pierwsze {{n}}"
     },
     "add_to_set": "Dodaj do zestawu"
@@ -3239,7 +3246,8 @@
     "deal_search_title": "Znajdź rozdanie",
     "deal_search_info": "Znajdź rozdania, które licytowałeś — po licytacji, kontrakcie lub wyniku. Dotknij licytacji, której szukasz.",
     "saved_boards_title": "Zapisane rozdania",
-    "saved_boards_info": "Zapisane rozdania, z Twoimi etykietami i notatkami."
+    "saved_boards_info": "Zapisane rozdania, z Twoimi etykietami i notatkami.",
+    "dashboard_short": "Wyniki"
   },
   "stats_overview": {
     "tab_ranked": "Rankingowe",
@@ -3758,7 +3766,11 @@
       "suggestion_title": "Sugerowana licytacja",
       "clear": "Wyczyść",
       "comment_placeholder": "Komentarz, widoczny po rozdaniu",
-      "save": "Zapisz"
+      "save": "Zapisz",
+      "auction_over": "Licytacja się zakończyła. Cofnij, aby ją zmienić.",
+      "save_next": "Zapisz i dalej",
+      "board_of": "Rozdanie {{n}} z {{total}}",
+      "suggestions_teachers": "Sugerowana licytacja jest częścią narzędzi dla nauczycieli, dla administratorów grup premium."
     },
     "add": {
       "title": "Dodaj do zestawu",
@@ -3786,7 +3798,8 @@
       "rate_limited": "Usługa obliczania wyników jest zajęta. Spróbuj ponownie za minutę.",
       "set_full": "Ten zestaw jest pełny.",
       "error": "Nie udało się zaimportować rozdań. Spróbuj ponownie.",
-      "invalid_deal": "Nie udało się zaimportować rozdania {{n}}. Sprawdź układ, rozdającego i założenia."
+      "invalid_deal": "Nie udało się zaimportować rozdania {{n}}. Sprawdź układ, rozdającego i założenia.",
+      "too_big": "Ten plik jest za duży. Można zaimportować plik PBN do 1 MB."
     }
   }
 }

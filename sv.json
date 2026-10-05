@@ -1539,7 +1539,13 @@
     },
     "sets": "Samlingar",
     "no_sets": "Du har inga samlingar än. Skapa en i Biblioteket.",
-    "pick_set": "Välj en samling med brickor du kan spela."
+    "pick_set": "Välj en samling med brickor du kan spela.",
+    "choose_sets": "Välj samlingar",
+    "sets_first": "De första",
+    "sets_random": "Slumpvis",
+    "sets_order_listed": "Samling för samling",
+    "sets_order_shuffled": "Blandade",
+    "sets_available": "Tillgängliga brickor: {{n}}. De delas jämnt mellan samlingarna."
   },
   "deal_type_select": {
     "random": "Slumpade händer",
@@ -1764,7 +1770,8 @@
       "free_event_used_info_2": "Du kan fortfarande skapa ett vanligt event.",
       "group_admin_error": "Endast gruppadministratörer kan skapa event",
       "create_submit": "Skapa gruppevent",
-      "edit_submit": "Spara event"
+      "edit_submit": "Spara event",
+      "sets_too_few": "De valda samlingarna har {{n}} brickor som kan delas ut till gruppen. Välj färre brickor eller fler samlingar."
     },
     "event_draft": {
       "error": "Något gick fel",
@@ -2061,7 +2068,7 @@
     "like": "Gilla",
     "liked": "Gillad",
     "post_poll": "Skapa omröstning",
-    "poll_not_available": "Omröstning avstängd i events",
+    "poll_not_available": "Omröstning öppnar när tävlingen är slut",
     "visit_poll": "Besök omröstning",
     "print_board": "Skriv ut giv",
     "copy_link": "Kopiera länk",
@@ -2195,10 +2202,10 @@
       "listed": "Som i listan",
       "shuffled": "Blandade",
       "in_session": "Brickor i sessionen: {{n}}",
-      "left_out": "Brickor från tävlingar och utmaningar är borttagna: de kan bara spelas om med roboten.",
-      "none_with_friend": "Ingen av brickorna kan spelas om med en vän – alla kommer från tävlingar eller utmaningar. Välj roboten för att spela om dem.",
+      "left_out": "Brickor från tävlingar och utmaningar som pågår är borttagna: tills de är slut kan de bara spelas med roboten.",
+      "none_with_friend": "Ingen av brickorna kan spelas med en vän ännu – deras tävlingar eller utmaningar pågår fortfarande. Välj roboten för att spela dem nu.",
       "start": "Starta",
-      "robot_only": "Brickor från tävlingar och utmaningar kan bara spelas om med roboten.",
+      "robot_only": "Brickor från tävlingar och utmaningar som pågår kan bara spelas med roboten.",
       "first": "De första {{n}}"
     },
     "add_to_set": "Lägg till i en samling"
@@ -3237,7 +3244,8 @@
     "deal_search_info": "Hitta brickorna du bjöd, på budgivningen, kontraktet eller resultatet. Tryck in budgivningen du letar efter.",
     "new": "Nytt!",
     "saved_boards_title": "Sparade brickor",
-    "saved_boards_info": "Brickorna du har sparat, med dina etiketter och anteckningar."
+    "saved_boards_info": "Brickorna du har sparat, med dina etiketter och anteckningar.",
+    "dashboard_short": "Resultat"
   },
   "stats_overview": {
     "tab_ranked": "Rankat",
@@ -3756,7 +3764,11 @@
       "suggestion_title": "Föreslagen budgivning",
       "clear": "Rensa",
       "comment_placeholder": "Kommentar, visas efter brickan",
-      "save": "Spara"
+      "save": "Spara",
+      "auction_over": "Budgivningen är slut. Ångra för att ändra den.",
+      "save_next": "Spara och nästa",
+      "board_of": "Bricka {{n}} av {{total}}",
+      "suggestions_teachers": "Föreslagen budgivning ingår i lärarverktygen, för administratörer av premiumgrupper."
     },
     "add": {
       "title": "Lägg till i en samling",
@@ -3784,7 +3796,8 @@
       "rate_limited": "Poängtjänsten är upptagen. Försök igen om en minut.",
       "set_full": "Samlingen är full.",
       "error": "Det gick inte att importera brickorna. Försök igen.",
-      "invalid_deal": "Bricka {{n}} kunde inte importeras. Kontrollera korten, given och zonen."
+      "invalid_deal": "Bricka {{n}} kunde inte importeras. Kontrollera korten, given och zonen.",
+      "too_big": "Filen är för stor. En PBN-fil på upp till 1 MB kan importeras."
     }
   }
 }

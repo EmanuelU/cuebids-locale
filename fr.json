@@ -1539,7 +1539,13 @@
     },
     "sets": "Séries",
     "no_sets": "Vous n’avez pas encore de série. Créez-en une dans la Bibliothèque.",
-    "pick_set": "Choisissez une série avec des donnes que vous pouvez jouer."
+    "pick_set": "Choisissez une série avec des donnes que vous pouvez jouer.",
+    "choose_sets": "Choisir des séries",
+    "sets_first": "Les premières",
+    "sets_random": "Au hasard",
+    "sets_order_listed": "Série par série",
+    "sets_order_shuffled": "Mélangées",
+    "sets_available": "Donnes disponibles : {{n}}. Elles sont réparties également entre les séries."
   },
   "deal_type_select": {
     "random": "Mains aléatoires",
@@ -1764,7 +1770,8 @@
       "free_event_used_info_2": "Vous pouvez tout de même créer un tournoi standard.",
       "group_admin_error": "Seuls les administrateurs du groupe peuvent créer des tournois",
       "create_submit": "Créer un tournoi de groupe",
-      "edit_submit": "Enregistrer le tournoi"
+      "edit_submit": "Enregistrer le tournoi",
+      "sets_too_few": "Les séries choisies ont {{n}} donnes qui peuvent être données au groupe. Choisissez moins de donnes ou plus de séries."
     },
     "event_draft": {
       "error": "Une erreur s'est produite",
@@ -2061,7 +2068,7 @@
     "like": "J’aime",
     "liked": "Aimé",
     "post_poll": "Publier un sondage",
-    "poll_not_available": "Création de sondage désactivée dans les tournois",
+    "poll_not_available": "Les sondages ouvrent à la fin du tournoi",
     "visit_poll": "Voir le sondage",
     "print_board": "Imprimer la donne",
     "copy_link": "Copier le lien",
@@ -2195,10 +2202,10 @@
       "listed": "Comme dans la liste",
       "shuffled": "Mélangées",
       "in_session": "Donnes dans la session : {{n}}",
-      "left_out": "Les donnes de tournois et de défis sont retirées : elles ne se rejouent qu’avec le robot.",
-      "none_with_friend": "Aucune de ces donnes ne peut se rejouer avec un ami : elles viennent toutes de tournois ou de défis. Choisissez le robot pour les rejouer.",
+      "left_out": "Les donnes de tournois et de défis en cours sont retirées : jusqu’à leur fin, elles ne se jouent qu’avec le robot.",
+      "none_with_friend": "Aucune de ces donnes ne peut encore se jouer avec un ami : leurs tournois ou défis sont toujours en cours. Choisissez le robot pour les jouer maintenant.",
       "start": "Commencer",
-      "robot_only": "Les donnes de tournois et de défis ne se rejouent qu’avec le robot.",
+      "robot_only": "Les donnes de tournois et de défis en cours ne se jouent qu’avec le robot.",
       "first": "Les {{n}} premières"
     },
     "add_to_set": "Ajouter à une série"
@@ -3237,7 +3244,8 @@
     "deal_search_title": "Trouver une donne",
     "deal_search_info": "Retrouvez les donnes que vous avez enchéries, par les enchères, le contrat ou le résultat. Touchez les enchères que vous cherchez.",
     "saved_boards_title": "Donnes enregistrées",
-    "saved_boards_info": "Les donnes que vous avez enregistrées, avec vos étiquettes et vos notes."
+    "saved_boards_info": "Les donnes que vous avez enregistrées, avec vos étiquettes et vos notes.",
+    "dashboard_short": "Résultats"
   },
   "stats_overview": {
     "tab_ranked": "Classés",
@@ -3756,7 +3764,11 @@
       "suggestion_title": "Séquence suggérée",
       "clear": "Effacer",
       "comment_placeholder": "Commentaire, affiché après la donne",
-      "save": "Enregistrer"
+      "save": "Enregistrer",
+      "auction_over": "Les enchères sont terminées. Annulez pour les modifier.",
+      "save_next": "Enregistrer et suivante",
+      "board_of": "Donne {{n}} sur {{total}}",
+      "suggestions_teachers": "Les séquences suggérées font partie des outils pour enseignants, pour les administrateurs de groupes premium."
     },
     "add": {
       "title": "Ajouter à une série",
@@ -3784,7 +3796,8 @@
       "rate_limited": "Le service de calcul est occupé. Réessayez dans une minute.",
       "set_full": "Cette série est pleine.",
       "error": "Impossible d’importer les donnes. Réessayez.",
-      "invalid_deal": "La donne {{n}} n’a pas pu être importée. Vérifiez la distribution, le donneur et la vulnérabilité."
+      "invalid_deal": "La donne {{n}} n’a pas pu être importée. Vérifiez la distribution, le donneur et la vulnérabilité.",
+      "too_big": "Ce fichier est trop volumineux. Un PBN de 1 Mo au plus peut être importé."
     }
   }
 }

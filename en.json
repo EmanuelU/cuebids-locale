@@ -1539,7 +1539,13 @@
     },
     "sets": "Sets",
     "no_sets": "You have no sets yet. Build one in the Library.",
-    "pick_set": "Pick a set with boards you can play."
+    "pick_set": "Pick a set with boards you can play.",
+    "choose_sets": "Choose sets",
+    "sets_first": "First",
+    "sets_random": "At random",
+    "sets_order_listed": "Set by set",
+    "sets_order_shuffled": "Shuffled",
+    "sets_available": "Boards available: {{n}}. They are shared evenly between the sets."
   },
   "deal_type_select": {
     "random": "Random hands",
@@ -1764,7 +1770,8 @@
       "free_event_used_info_2": "You can still create a normal event.",
       "group_admin_error": "Only group admins can create events",
       "create_submit": "Create group event",
-      "edit_submit": "Save event"
+      "edit_submit": "Save event",
+      "sets_too_few": "The chosen sets have {{n}} boards that can be dealt to the group. Choose fewer boards or more sets."
     },
     "event_draft": {
       "error": "Something went wrong",
@@ -2061,7 +2068,7 @@
     "like": "Like",
     "liked": "Liked",
     "post_poll": "Post a poll",
-    "poll_not_available": "Poll creation disabled in events",
+    "poll_not_available": "Polls open when the event is over",
     "visit_poll": "Visit poll",
     "print_board": "Print board",
     "copy_link": "Copy link",
@@ -2195,10 +2202,10 @@
       "listed": "As listed",
       "shuffled": "Shuffled",
       "in_session": "Boards in the session: {{n}}",
-      "left_out": "Boards from events and challenges are left out: they can only be played again with the robot.",
-      "none_with_friend": "None of these boards can be played with a friend: they all come from events or challenges. Pick the robot to play them again.",
+      "left_out": "Boards from events and challenges still running are left out: until they end, only the robot can play them.",
+      "none_with_friend": "None of these boards can be played with a friend yet: their events or challenges are still running. Pick the robot to play them now.",
       "start": "Start",
-      "robot_only": "Boards from events and challenges can only be played again with the robot.",
+      "robot_only": "Boards from events and challenges still running can only be played with the robot.",
       "first": "First {{n}}"
     },
     "add_to_set": "Add to a set"
@@ -3237,7 +3244,8 @@
     "deal_search_info": "Find the boards you bid, by the auction, the contract or the result. Tap the auction you are looking for.",
     "new": "New!",
     "saved_boards_title": "Saved boards",
-    "saved_boards_info": "The boards you saved, with your labels and notes."
+    "saved_boards_info": "The boards you saved, with your labels and notes.",
+    "dashboard_short": "Results"
   },
   "stats_overview": {
     "tab_ranked": "Ranked",
@@ -3756,7 +3764,11 @@
       "suggestion_title": "Suggested auction",
       "clear": "Clear",
       "comment_placeholder": "Comment, shown after the board",
-      "save": "Save"
+      "save": "Save",
+      "auction_over": "The auction is over. Undo to change it.",
+      "save_next": "Save and next",
+      "board_of": "Board {{n}} of {{total}}",
+      "suggestions_teachers": "Suggested auctions are part of teacher tools, for admins of premium groups."
     },
     "add": {
       "title": "Add to a set",
@@ -3784,7 +3796,8 @@
       "rate_limited": "The scoring service is busy. Try again in a minute.",
       "set_full": "That set is full.",
       "error": "Could not import the boards. Try again.",
-      "invalid_deal": "Board {{n}} could not be imported. Check its deal, dealer and vulnerability."
+      "invalid_deal": "Board {{n}} could not be imported. Check its deal, dealer and vulnerability.",
+      "too_big": "That file is too large. A PBN of up to 1 MB can be imported."
     }
   }
 }

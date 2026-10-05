@@ -1540,7 +1540,13 @@
     },
     "sets": "牌組",
     "no_sets": "你還沒有牌組。去牌庫建立一個。",
-    "pick_set": "請選擇一個包含可打牌局的牌組。"
+    "pick_set": "請選擇一個包含可打牌局的牌組。",
+    "choose_sets": "選擇牌組",
+    "sets_first": "前面的",
+    "sets_random": "隨機",
+    "sets_order_listed": "按牌組順序",
+    "sets_order_shuffled": "打亂",
+    "sets_available": "可用的牌：{{n}}。會平均分配到各牌組。"
   },
   "deal_type_select": {
     "random": "隨機手牌",
@@ -1765,7 +1771,8 @@
       "free_event_used_info_2": "你仍然可以創建普通練習。",
       "group_admin_error": "只有群組管理員可以創建練習",
       "create_submit": "創建群組練習",
-      "edit_submit": "保存練習"
+      "edit_submit": "保存練習",
+      "sets_too_few": "所選牌組中可發給小組的牌只有 {{n}} 副。請減少副數或多選牌組。"
     },
     "event_draft": {
       "error": "出了點問題",
@@ -2062,7 +2069,7 @@
     "like": "喜歡",
     "liked": "喜歡",
     "post_poll": "發表投票",
-    "poll_not_available": "練習中禁用投票創建",
+    "poll_not_available": "賽事結束後即可發起投票",
     "visit_poll": "訪問投票",
     "print_board": "打印本副牌",
     "copy_link": "複製連結",
@@ -2196,10 +2203,10 @@
       "listed": "按清單順序",
       "shuffled": "打亂",
       "in_session": "本次的牌數：{{n}}",
-      "left_out": "來自賽事和挑戰的牌已略去：它們只能與機器人重打。",
-      "none_with_friend": "這些牌都來自賽事或挑戰，無法與好友重打。選擇機器人即可重打。",
+      "left_out": "仍在進行的賽事和挑戰中的牌已略去：結束前只能與機器人打。",
+      "none_with_friend": "這些牌暫時都不能與好友打：它們的賽事或挑戰仍在進行。選擇機器人即可現在打。",
       "start": "開始",
-      "robot_only": "來自賽事和挑戰的牌只能與機器人重打。",
+      "robot_only": "仍在進行的賽事和挑戰中的牌只能與機器人打。",
       "first": "前 {{n}} 副"
     },
     "add_to_set": "加入牌組"
@@ -3238,7 +3245,8 @@
     "deal_search_title": "查找牌局",
     "deal_search_info": "按叫牌序列、定約或成績查找你叫過的牌。點按你要找的叫牌序列。",
     "saved_boards_title": "已儲存的牌局",
-    "saved_boards_info": "你儲存的牌局，以及你的標籤和備註。"
+    "saved_boards_info": "你儲存的牌局，以及你的標籤和備註。",
+    "dashboard_short": "成績"
   },
   "stats_overview": {
     "tab_ranked": "排位",
@@ -3763,7 +3771,11 @@
       "suggestion_title": "建議叫牌",
       "clear": "清除",
       "comment_placeholder": "備註，在牌局後顯示",
-      "save": "儲存"
+      "save": "儲存",
+      "auction_over": "叫牌已結束。復原即可修改。",
+      "save_next": "儲存並下一副",
+      "board_of": "第 {{n}} / {{total}} 副",
+      "suggestions_teachers": "建議叫牌屬於教師工具，供高級小組的管理員使用。"
     },
     "add": {
       "title": "加入牌組",
@@ -3791,7 +3803,8 @@
       "rate_limited": "計分服務繁忙，請一分鐘後再試。",
       "set_full": "這個牌組已滿。",
       "error": "無法匯入這些牌，請重試。",
-      "invalid_deal": "第 {{n}} 副牌無法匯入。請檢查牌型、發牌人和局況。"
+      "invalid_deal": "第 {{n}} 副牌無法匯入。請檢查牌型、發牌人和局況。",
+      "too_big": "檔案太大。最多可匯入 1 MB 的 PBN 檔案。"
     }
   }
 }

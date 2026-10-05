@@ -1539,7 +1539,13 @@
     },
     "sets": "Series",
     "no_sets": "Aún no tienes series. Crea una en la Biblioteca.",
-    "pick_set": "Elige una serie con manos que puedas jugar."
+    "pick_set": "Elige una serie con manos que puedas jugar.",
+    "choose_sets": "Elegir series",
+    "sets_first": "Las primeras",
+    "sets_random": "Al azar",
+    "sets_order_listed": "Serie por serie",
+    "sets_order_shuffled": "Mezcladas",
+    "sets_available": "Manos disponibles: {{n}}. Se reparten por igual entre las series."
   },
   "deal_type_select": {
     "random": "Manos aleatorias",
@@ -1764,7 +1770,8 @@
       "free_event_used_info_2": "Aun así, puedes crear un evento normal.",
       "group_admin_error": "Solo los administradores del grupo pueden crear eventos.",
       "create_submit": "Crear evento de grupo",
-      "edit_submit": "Guardar evento"
+      "edit_submit": "Guardar evento",
+      "sets_too_few": "Las series elegidas tienen {{n}} manos que se pueden repartir al grupo. Elige menos manos o más series."
     },
     "event_draft": {
       "error": "Algo salió mal",
@@ -2061,7 +2068,7 @@
     "like": "Me gusta",
     "liked": "Te gusta",
     "post_poll": "Publicar una encuesta",
-    "poll_not_available": "La creación de encuestas está desactivada en los eventos",
+    "poll_not_available": "Las encuestas se abren cuando termina el evento",
     "visit_poll": "Ver encuesta",
     "print_board": "Imprimir mano",
     "copy_link": "Copiar enlace",
@@ -2195,10 +2202,10 @@
       "listed": "Como en la lista",
       "shuffled": "Mezcladas",
       "in_session": "Manos en la sesión: {{n}}",
-      "left_out": "Las manos de torneos y desafíos se han quitado: solo se pueden repetir con el robot.",
-      "none_with_friend": "Ninguna de estas manos se puede repetir con un amigo: todas son de torneos o desafíos. Elige el robot para repetirlas.",
+      "left_out": "Las manos de torneos y desafíos en curso se han quitado: hasta que terminen, solo se pueden jugar con el robot.",
+      "none_with_friend": "Ninguna de estas manos se puede jugar todavía con un amigo: sus torneos o desafíos siguen en curso. Elige el robot para jugarlas ahora.",
       "start": "Empezar",
-      "robot_only": "Las manos de torneos y desafíos solo se pueden repetir con el robot.",
+      "robot_only": "Las manos de torneos y desafíos en curso solo se pueden jugar con el robot.",
       "first": "Las {{n}} primeras"
     },
     "add_to_set": "Añadir a una serie"
@@ -3237,7 +3244,8 @@
     "deal_search_title": "Encuentra una mano",
     "deal_search_info": "Encuentra las manos que has subastado, por la subasta, el contrato o el resultado. Toca la subasta que buscas.",
     "saved_boards_title": "Manos guardadas",
-    "saved_boards_info": "Las manos que has guardado, con tus etiquetas y notas."
+    "saved_boards_info": "Las manos que has guardado, con tus etiquetas y notas.",
+    "dashboard_short": "Resultados"
   },
   "stats_overview": {
     "tab_ranked": "Clasificatorio",
@@ -3756,7 +3764,11 @@
       "suggestion_title": "Subasta sugerida",
       "clear": "Borrar",
       "comment_placeholder": "Comentario, se muestra después de la mano",
-      "save": "Guardar"
+      "save": "Guardar",
+      "auction_over": "La subasta ha terminado. Deshaz para cambiarla.",
+      "save_next": "Guardar y siguiente",
+      "board_of": "Mano {{n}} de {{total}}",
+      "suggestions_teachers": "Las subastas sugeridas forman parte de las herramientas para profesores, para los administradores de grupos premium."
     },
     "add": {
       "title": "Añadir a una serie",
@@ -3784,7 +3796,8 @@
       "rate_limited": "El servicio de puntuación está ocupado. Inténtalo de nuevo en un minuto.",
       "set_full": "Esa serie está llena.",
       "error": "No se pudieron importar las manos. Inténtalo de nuevo.",
-      "invalid_deal": "No se pudo importar la mano {{n}}. Revisa el reparto, el repartidor y la vulnerabilidad."
+      "invalid_deal": "No se pudo importar la mano {{n}}. Revisa el reparto, el repartidor y la vulnerabilidad.",
+      "too_big": "Ese archivo es demasiado grande. Se puede importar un PBN de hasta 1 MB."
     }
   }
 }
