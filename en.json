@@ -421,20 +421,7 @@
     "tab_gift": "Gift",
     "source_gift": "Gift",
     "plan_renews_on": "Renews {{date}}",
-    "plan_ends_on": "Ends {{date}}",
-    "teacher": {
-      "title": "Teacher tools",
-      "intro": "For anyone who teaches bridge, to a class or one to one. Separate from your own plan.",
-      "feature_suggestions": "Suggested auctions and comments on your sets, shown to students after each board",
-      "feature_material": "Build sets and import PBN files without Heart",
-      "trial": "{{days}}-day free trial",
-      "per_year": "{{price}} per year",
-      "start_trial": "Start free trial",
-      "subscribe": "Subscribe",
-      "active": "You have teacher tools.",
-      "active_grandfathered": "You have teacher tools through your premium group.",
-      "manage": "Manage subscription"
-    }
+    "plan_ends_on": "Ends {{date}}"
   },
   "go_to_store": {
     "no_iap_error": "Store is currently not available in the mobile app. Please visit our website to subscribe to Cuebids."
@@ -464,9 +451,6 @@
       "info_1_post_styled": " subscriber",
       "info_2_pre_styled": "You have unlocked everything in Cuebids: All the deal types and on top - ",
       "info_2_styled": "you have endless tickets."
-    },
-    "teacher": {
-      "info": "Teacher tools are on. Open a set to add suggested auctions for your students."
     }
   },
   "subscriptions": {
@@ -1735,7 +1719,8 @@
       "group_description_label": "Description",
       "group_description_placeholder": "Enter group description",
       "sub_level_error": "Heart subscribers can create groups",
-      "submit_button": "Create group"
+      "submit_button": "Create group",
+      "teach_card": "Teaching a class? Teacher tools are free."
     },
     "create_group_session": {
       "scenarios_robot_error": "Some selected scenarios have a conflict between the robot settings.",
@@ -3742,7 +3727,8 @@
       "see_all": "See all",
       "board_count": "Boards: {{n}}",
       "empty": "Save a board from its result, or add search results to a set, and it shows up here.",
-      "import_title": "Import PBN"
+      "import_title": "Import PBN",
+      "teach_title": "Teach"
     },
     "sets": {
       "new_placeholder": "Name a new set",
@@ -3816,5 +3802,29 @@
       "invalid_deal": "Board {{n}} could not be imported. Check its deal, dealer and vulnerability.",
       "too_big": "That file is too large. A PBN of up to 1 MB can be imported."
     }
+  },
+  "teach": {
+    "title": "Teach with Cuebids",
+    "intro": "Teacher tools are free for teachers who bring their students to Cuebids.",
+    "how_title": "How it works",
+    "how_tools": "Build sets, import PBN files, add suggested auctions and run class events from your sets.",
+    "how_students": "Your students play on their own accounts. Class events cost them tickets as usual, unless they have Heart or you cover them.",
+    "how_free": "Free for 6 months to start. When new players join Cuebids through your class, it stays free.",
+    "how_yours": "What you build stays yours, and stays playable.",
+    "where_label": "Where do you teach?",
+    "where": {
+      "club": "At a club",
+      "school": "At a school",
+      "private": "Privately",
+      "online": "Online"
+    },
+    "students_label": "Roughly how many students at a time?",
+    "submit": "Send request",
+    "pending_title": "Request received",
+    "pending_text": "We read every request ourselves. You will get an email when teacher tools are on.",
+    "has_title": "You have teacher tools",
+    "has_text": "Create a group for your class, then build sets and run class events from them.",
+    "create_group": "Create a class group",
+    "error": "The request could not be sent. Try again."
   }
 }
