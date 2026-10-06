@@ -421,20 +421,7 @@
     "tab_gift": "礼物",
     "source_gift": "礼物",
     "plan_renews_on": "{{date}} 自动续订",
-    "plan_ends_on": "有效期至 {{date}}",
-    "teacher": {
-      "title": "教师工具",
-      "intro": "适合教授桥牌的人，无论是小组课还是一对一。与你自己的会员相互独立。",
-      "feature_suggestions": "在你的牌组中添加建议叫牌和讲解，学生每打完一副牌即可看到",
-      "feature_material": "无需红心会员即可创建牌组和导入PBN文件",
-      "trial": "{{days}}天免费试用",
-      "per_year": "每年{{price}}",
-      "start_trial": "开始免费试用",
-      "subscribe": "订阅",
-      "active": "你已拥有教师工具。",
-      "active_grandfathered": "你通过高级小组拥有教师工具。",
-      "manage": "管理订阅"
-    }
+    "plan_ends_on": "有效期至 {{date}}"
   },
   "go_to_store": {
     "no_iap_error": "商店目前无法在移动应用程序中使用。请访问我们的网站订阅 Cuebids。"
@@ -464,9 +451,6 @@
       "info_1_post_styled": "订户",
       "info_2_pre_styled": "您已解锁 Cuebids 中的所有内容：所有牌型以及最重要的 -",
       "info_2_styled": "你有无穷无尽的牌券。"
-    },
-    "teacher": {
-      "info": "教师工具已开通。打开一个牌组，为学生添加建议叫牌。"
     }
   },
   "subscriptions": {
@@ -1736,7 +1720,8 @@
       "group_description_label": "描述",
       "group_description_placeholder": "输入群组描述",
       "sub_level_error": "红桃订阅用户可以创建群组",
-      "submit_button": "创建群组"
+      "submit_button": "创建群组",
+      "teach_card": "在教桥牌班？教师工具免费。"
     },
     "create_group_session": {
       "scenarios_robot_error": "某些选定的场景在机器人设置之间存在冲突。",
@@ -3749,7 +3734,8 @@
       "see_all": "查看全部",
       "board_count": "牌数：{{n}}",
       "empty": "在牌局结果页保存一副牌，或把搜索结果加入牌组，它就会出现在这里。",
-      "import_title": "导入 PBN"
+      "import_title": "导入 PBN",
+      "teach_title": "教学"
     },
     "sets": {
       "new_placeholder": "为新牌组命名",
@@ -3823,5 +3809,29 @@
       "invalid_deal": "第 {{n}} 副牌无法导入。请检查牌型、发牌人和局况。",
       "too_big": "文件太大。最多可导入 1 MB 的 PBN 文件。"
     }
+  },
+  "teach": {
+    "title": "用 Cuebids 教学",
+    "intro": "对于带学生来 Cuebids 的老师，教师工具免费。",
+    "how_title": "如何运作",
+    "how_tools": "创建牌组、导入 PBN 文件、添加建议叫牌，并用你的牌组举办班级赛事。",
+    "how_students": "学生使用自己的账户。参加班级赛事照常消耗牌券，除非他们有红心会员或由你承担。",
+    "how_free": "起初免费 6 个月。只要有新玩家通过你的班级加入 Cuebids，就继续免费。",
+    "how_yours": "你创建的内容永远属于你，也始终可以打。",
+    "where_label": "你在哪里教学？",
+    "where": {
+      "club": "在俱乐部",
+      "school": "在学校",
+      "private": "私人授课",
+      "online": "线上"
+    },
+    "students_label": "你一次大约有多少学生？",
+    "submit": "发送申请",
+    "pending_title": "已收到申请",
+    "pending_text": "每份申请我们都会亲自查看。教师工具开通后你会收到邮件。",
+    "has_title": "你已拥有教师工具",
+    "has_text": "为你的班级创建一个群组，然后创建牌组并用它们举办班级赛事。",
+    "create_group": "创建班级群组",
+    "error": "申请发送失败，请重试。"
   }
 }

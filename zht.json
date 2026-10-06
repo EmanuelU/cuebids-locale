@@ -421,20 +421,7 @@
     "tab_gift": "禮物",
     "source_gift": "禮物",
     "plan_renews_on": "{{date}} 自動續訂",
-    "plan_ends_on": "有效期至 {{date}}",
-    "teacher": {
-      "title": "教師工具",
-      "intro": "適合教授橋牌的人，無論是小組課還是一對一。與你自己的會員相互獨立。",
-      "feature_suggestions": "在你的牌組中加入建議叫牌和講解，學生每打完一副牌即可看到",
-      "feature_material": "無需紅心會員即可建立牌組和匯入PBN檔案",
-      "trial": "{{days}}天免費試用",
-      "per_year": "每年{{price}}",
-      "start_trial": "開始免費試用",
-      "subscribe": "訂閱",
-      "active": "你已擁有教師工具。",
-      "active_grandfathered": "你透過高級小組擁有教師工具。",
-      "manage": "管理訂閱"
-    }
+    "plan_ends_on": "有效期至 {{date}}"
   },
   "go_to_store": {
     "no_iap_error": "商店目前無法在移動應用程序中使用。請訪問我們的網站訂閱 Cuebids。"
@@ -464,9 +451,6 @@
       "info_1_post_styled": "訂戶",
       "info_2_pre_styled": "您已解鎖 Cuebids 中的所有內容：所有牌型以及最重要的 -",
       "info_2_styled": "你有無窮無盡的門票。"
-    },
-    "teacher": {
-      "info": "教師工具已開通。打開一個牌組，為學生加入建議叫牌。"
     }
   },
   "subscriptions": {
@@ -1736,7 +1720,8 @@
       "group_description_label": "描述",
       "group_description_placeholder": "輸入群組描述",
       "sub_level_error": "紅桃訂閱用戶可以創建群組",
-      "submit_button": "創建群組"
+      "submit_button": "創建群組",
+      "teach_card": "在教橋牌班？教師工具免費。"
     },
     "create_group_session": {
       "scenarios_robot_error": "某些選定的場景在機器人設置之間存在衝突。",
@@ -3749,7 +3734,8 @@
       "see_all": "查看全部",
       "board_count": "牌數：{{n}}",
       "empty": "在牌局結果頁儲存一副牌，或把搜尋結果加入牌組，它就會出現在這裡。",
-      "import_title": "匯入 PBN"
+      "import_title": "匯入 PBN",
+      "teach_title": "教學"
     },
     "sets": {
       "new_placeholder": "為新牌組命名",
@@ -3823,5 +3809,29 @@
       "invalid_deal": "第 {{n}} 副牌無法匯入。請檢查牌型、發牌人和局況。",
       "too_big": "檔案太大。最多可匯入 1 MB 的 PBN 檔案。"
     }
+  },
+  "teach": {
+    "title": "用 Cuebids 教學",
+    "intro": "對於帶學生來 Cuebids 的老師，教師工具免費。",
+    "how_title": "如何運作",
+    "how_tools": "建立牌組、匯入 PBN 檔案、加入建議叫牌，並用你的牌組舉辦班級賽事。",
+    "how_students": "學生使用自己的帳戶。參加班級賽事照常消耗門票，除非他們有紅心會員或由你承擔。",
+    "how_free": "起初免費 6 個月。只要有新玩家透過你的班級加入 Cuebids，就繼續免費。",
+    "how_yours": "你建立的內容永遠屬於你，也始終可以打。",
+    "where_label": "你在哪裡教學？",
+    "where": {
+      "club": "在俱樂部",
+      "school": "在學校",
+      "private": "私人授課",
+      "online": "線上"
+    },
+    "students_label": "你一次大約有多少學生？",
+    "submit": "送出申請",
+    "pending_title": "已收到申請",
+    "pending_text": "每份申請我們都會親自查看。教師工具開通後你會收到郵件。",
+    "has_title": "你已擁有教師工具",
+    "has_text": "為你的班級建立一個群組，然後建立牌組並用它們舉辦班級賽事。",
+    "create_group": "建立班級群組",
+    "error": "申請送出失敗，請重試。"
   }
 }

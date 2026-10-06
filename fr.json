@@ -421,20 +421,7 @@
     "tab_gift": "Cadeau",
     "source_gift": "Cadeau",
     "plan_renews_on": "Renouvellement le {{date}}",
-    "plan_ends_on": "Valable jusqu’au {{date}}",
-    "teacher": {
-      "title": "Outils pour enseignants",
-      "intro": "Pour celles et ceux qui enseignent le bridge, en groupe ou en cours particulier. Indépendant de votre propre abonnement.",
-      "feature_suggestions": "Séquences suggérées et commentaires sur vos séries, montrés aux élèves après chaque donne",
-      "feature_material": "Créer des séries et importer des fichiers PBN sans Cœur",
-      "trial": "Essai gratuit de {{days}} jours",
-      "per_year": "{{price}} par an",
-      "start_trial": "Commencer l’essai gratuit",
-      "subscribe": "S’abonner",
-      "active": "Vous avez les outils pour enseignants.",
-      "active_grandfathered": "Vous avez les outils pour enseignants grâce à votre groupe premium.",
-      "manage": "Gérer l’abonnement"
-    }
+    "plan_ends_on": "Valable jusqu’au {{date}}"
   },
   "go_to_store": {
     "no_iap_error": "La boutique est actuellement indisponible dans l’application mobile. Merci d’utiliser notre site web pour vous abonner à Cuebids."
@@ -464,9 +451,6 @@
       "info_1_post_styled": "",
       "info_2_pre_styled": "Vous avez tout débloqué sur Cuebids : tous les thèmes de donnes et, en prime, ",
       "info_2_styled": "des tickets illimités."
-    },
-    "teacher": {
-      "info": "Les outils pour enseignants sont activés. Ouvrez une série pour ajouter des séquences suggérées pour vos élèves."
     }
   },
   "subscriptions": {
@@ -1735,7 +1719,8 @@
       "group_description_label": "Description",
       "group_description_placeholder": "Entrez la description du groupe",
       "sub_level_error": "Seuls les abonnés Cœur peuvent créer des groupes",
-      "submit_button": "Créer un groupe"
+      "submit_button": "Créer un groupe",
+      "teach_card": "Vous enseignez à une classe ? Les outils pour enseignants sont gratuits."
     },
     "create_group_session": {
       "scenarios_robot_error": "Certains scénarios sélectionnés ont des paramètres de robot incompatibles.",
@@ -3742,7 +3727,8 @@
       "see_all": "Tout voir",
       "board_count": "Donnes : {{n}}",
       "empty": "Enregistrez une donne depuis son résultat, ou ajoutez des résultats de recherche à une série, et elle apparaît ici.",
-      "import_title": "Importer un PBN"
+      "import_title": "Importer un PBN",
+      "teach_title": "Enseigner"
     },
     "sets": {
       "new_placeholder": "Nommer une nouvelle série",
@@ -3816,5 +3802,29 @@
       "invalid_deal": "La donne {{n}} n’a pas pu être importée. Vérifiez la distribution, le donneur et la vulnérabilité.",
       "too_big": "Ce fichier est trop volumineux. Un PBN de 1 Mo au plus peut être importé."
     }
+  },
+  "teach": {
+    "title": "Enseigner avec Cuebids",
+    "intro": "Les outils pour enseignants sont gratuits pour les enseignants qui amènent leurs élèves sur Cuebids.",
+    "how_title": "Comment ça marche",
+    "how_tools": "Créez des séries, importez des fichiers PBN, ajoutez des séquences suggérées et organisez des tournois de classe à partir de vos séries.",
+    "how_students": "Vos élèves jouent sur leur propre compte. Les tournois de classe leur coûtent des tickets comme d’habitude, sauf s’ils ont Cœur ou si vous les prenez en charge.",
+    "how_free": "Gratuit pendant 6 mois pour commencer. Quand de nouveaux joueurs arrivent sur Cuebids grâce à votre classe, cela reste gratuit.",
+    "how_yours": "Ce que vous créez vous appartient et reste jouable.",
+    "where_label": "Où enseignez-vous ?",
+    "where": {
+      "club": "Dans un club",
+      "school": "Dans une école",
+      "private": "En cours particuliers",
+      "online": "En ligne"
+    },
+    "students_label": "Combien d’élèves avez-vous à la fois, à peu près ?",
+    "submit": "Envoyer la demande",
+    "pending_title": "Demande reçue",
+    "pending_text": "Nous lisons chaque demande nous-mêmes. Vous recevrez un e-mail quand les outils seront activés.",
+    "has_title": "Vous avez les outils pour enseignants",
+    "has_text": "Créez un groupe pour votre classe, puis des séries et des tournois de classe à partir d’elles.",
+    "create_group": "Créer un groupe de classe",
+    "error": "La demande n’a pas pu être envoyée. Réessayez."
   }
 }

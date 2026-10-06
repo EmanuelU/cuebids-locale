@@ -421,20 +421,7 @@
     "tab_gift": "Gåva",
     "source_gift": "Gåva",
     "plan_renews_on": "Förnyas {{date}}",
-    "plan_ends_on": "Gäller till {{date}}",
-    "teacher": {
-      "title": "Lärarverktyg",
-      "intro": "För dig som undervisar i bridge, i grupp eller en och en. Separat från din egen plan.",
-      "feature_suggestions": "Föreslagen budgivning och kommentarer på dina samlingar, som eleverna ser efter varje bricka",
-      "feature_material": "Skapa samlingar och importera PBN-filer utan Hjärter",
-      "trial": "{{days}} dagars gratis provperiod",
-      "per_year": "{{price}} per år",
-      "start_trial": "Starta gratis provperiod",
-      "subscribe": "Prenumerera",
-      "active": "Du har lärarverktygen.",
-      "active_grandfathered": "Du har lärarverktygen genom din premiumgrupp.",
-      "manage": "Hantera prenumeration"
-    }
+    "plan_ends_on": "Gäller till {{date}}"
   },
   "go_to_store": {
     "no_iap_error": "Butiken finns för närvarande inte i mobilappen. Vänligen besök vår hemsida för att prenumerera på Cuebids."
@@ -464,9 +451,6 @@
       "info_1_post_styled": "-prenumerant",
       "info_2_pre_styled": "Du har låst upp allt på CUebids: Alla givtyper och dessutom - ",
       "info_2_styled": "har du obegränsade biljetter."
-    },
-    "teacher": {
-      "info": "Lärarverktygen är aktiverade. Öppna en samling för att lägga till föreslagen budgivning åt dina elever."
     }
   },
   "subscriptions": {
@@ -1735,7 +1719,8 @@
       "group_description_label": "Beskrivning",
       "group_description_placeholder": "Skriv gruppbeskrivning",
       "sub_level_error": "Hjärterprenumeranter kan skapa grupper",
-      "submit_button": "Skapa grupp"
+      "submit_button": "Skapa grupp",
+      "teach_card": "Undervisar du en klass? Lärarverktygen är gratis."
     },
     "create_group_session": {
       "scenarios_robot_error": "Några valda scenarion har en konflikt mellan robotinställningar.",
@@ -3742,7 +3727,8 @@
       "see_all": "Visa alla",
       "board_count": "Brickor: {{n}}",
       "empty": "Spara en bricka från resultatet, eller lägg sökresultat i en samling, så hamnar den här.",
-      "import_title": "Importera PBN"
+      "import_title": "Importera PBN",
+      "teach_title": "Undervisa"
     },
     "sets": {
       "new_placeholder": "Namnge en ny samling",
@@ -3816,5 +3802,29 @@
       "invalid_deal": "Bricka {{n}} kunde inte importeras. Kontrollera korten, given och zonen.",
       "too_big": "Filen är för stor. En PBN-fil på upp till 1 MB kan importeras."
     }
+  },
+  "teach": {
+    "title": "Undervisa med Cuebids",
+    "intro": "Lärarverktygen är gratis för lärare som tar med sina elever till Cuebids.",
+    "how_title": "Så fungerar det",
+    "how_tools": "Skapa samlingar, importera PBN-filer, lägg till föreslagen budgivning och kör klassevent från dina samlingar.",
+    "how_students": "Eleverna spelar på egna konton. Klassevent kostar dem biljetter som vanligt, om de inte har Hjärter eller du står för dem.",
+    "how_free": "Gratis i 6 månader till att börja med. När nya spelare kommer till Cuebids genom din klass fortsätter det att vara gratis.",
+    "how_yours": "Det du bygger är ditt och går alltid att spela.",
+    "where_label": "Var undervisar du?",
+    "where": {
+      "club": "På en klubb",
+      "school": "På en skola",
+      "private": "Privat",
+      "online": "Online"
+    },
+    "students_label": "Ungefär hur många elever har du åt gången?",
+    "submit": "Skicka förfrågan",
+    "pending_title": "Förfrågan mottagen",
+    "pending_text": "Vi läser varje förfrågan själva. Du får ett mejl när lärarverktygen är aktiverade.",
+    "has_title": "Du har lärarverktygen",
+    "has_text": "Skapa en grupp för din klass, bygg samlingar och kör klassevent från dem.",
+    "create_group": "Skapa en klassgrupp",
+    "error": "Förfrågan kunde inte skickas. Försök igen."
   }
 }
