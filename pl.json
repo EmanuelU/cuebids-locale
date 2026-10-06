@@ -1712,7 +1712,6 @@
       "group_name_taken_error": "Grupa o tej nazwie już istnieje",
       "group_created_success": "Grupa utworzona",
       "create_group_info": "Tworząc grupę, uzyskujesz dostęp do prywatnej przestrzeni, do której dostęp mają tylko członkowie Twojej grupy. Możesz tam czatować i tworzyć prywatne wydarzenia. Udział w wydarzeniach wymaga biletów. Jak zawsze, subskrybenci Kier mogą uczestniczyć bez dodatkowych kosztów.",
-      "premium_groups_button_styled": "Jesteś trenerem lub nauczycielem brydża? Prowadzisz poważny zespół brydżowy? Kliknij tutaj, aby przeczytać o <strong>grupach premium!</strong>",
       "invite_members_bullet": "Zaproś członków",
       "group_chat_bullet": "Prywatny czat grupowy",
       "group_events_bullet": "Prywatne wydarzenia grupowe",
@@ -1722,7 +1721,10 @@
       "group_description_placeholder": "Wprowadź opis grupy",
       "sub_level_error": "Subskrybenci Kier mogą tworzyć grupy",
       "submit_button": "Utwórz grupę",
-      "teach_card": "Uczysz grupę? Narzędzia dla nauczycieli są darmowe."
+      "purpose_title": "Do czego ma służyć ta grupa?",
+      "purpose_class": "Uczysz grupę? Narzędzia dla nauczycieli są darmowe dla nauczycieli, którzy przyprowadzają swoich uczniów do Cuebids.",
+      "purpose_class_has_tools": "Masz narzędzia dla nauczycieli. Utwórz poniżej grupę dla swojej klasy.",
+      "purpose_team": "Drużyna albo grupa treningowa? Grupy premium dają darmowe wydarzenia dla członków, planowanie ligi i więcej."
     },
     "create_group_session": {
       "scenarios_robot_error": "Niektóre wybrane scenariusze kłócą się z ustawieniami robotów.",
@@ -3028,17 +3030,17 @@
     "join_discord": "Dołącz do naszego serwera Discord"
   },
   "contact_sales": {
-    "title": "Grupa premium",
-    "p1": "Jesteś trenerem lub nauczycielem brydża? Prowadzisz poważny zespół brydżowy?",
-    "p2_pre_link": "Nasze <strong>grupy premium</strong> są dla Ciebie stworzone. Skontaktuj się z naszym ",
-    "p2_post_link": ", aby poprosić o grupę premium.",
-    "p3": "Zaprojektujemy grupę zgodnie z Twoimi upodobaniami, dodając odpowiednie funkcje dla Ciebie. Jesteśmy otwarci na Twoje pomysły; oto niektóre z naszych:",
-    "ul_li1": "Subskrypcja Cuebids wliczona lub zniżkowa dla wszystkich członków",
-    "ul_li2": "Wątki dyskusyjne w rozdaniach",
-    "ul_li3": "Specjalne role, takie jak Trener lub Nauczyciel, z specjalnym dostępem i funkcjami",
-    "ul_li3_ul_li1": "Podgląd postępów uczniów",
-    "ul_li3_ul_li2": "Komentowanie licytacji graczy",
-    "ul_li4": "Statystyki/Wyniki w grupie"
+    "title": "Grupy premium",
+    "intro": "Dla drużyn, klubów i grup treningowych, które grają razem na Cuebids. Grupa premium daje to, czego nie ma zwykła grupa:",
+    "feature_members": "Kier, Karo albo darmowe wydarzenia dla wybranych członków",
+    "feature_events": "Wydarzenia grupowe z własnymi typami rozdań",
+    "feature_league": "Planer ligi: sezony, obecność i składy",
+    "feature_pbn": "Wydarzenia grupowe z twoich plików PBN",
+    "contact_pre": "Chcesz taką grupę? Napisz na",
+    "contact_post": ".",
+    "teachers_title": "Uczysz grupę?",
+    "teachers_text": "Narzędzia dla nauczycieli są darmowe dla nauczycieli, którzy przyprowadzają swoich uczniów do Cuebids. Grupa premium nie jest do tego potrzebna.",
+    "teachers_link": "Ucz z Cuebids"
   },
   "contact_junior": {
     "category": "Wniosek juniorski",

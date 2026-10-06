@@ -1710,7 +1710,6 @@
       "group_name_taken_error": "Det finns redan en grupp med det namnet",
       "group_created_success": "Grupp skapad",
       "create_group_info": "När du skapar en grupp får du tillgång till en privat yta som bara medlemmar i din grupp kan nå. Där kan du chatta och skapa privata event. Notera att man behöver biljetter för att delta i eventen. Som vanlig så kan hjärterprenumeranter delta utan någon extra kostnad.",
-      "premium_groups_button_styled": "Är du en bridgecoach eller -lärare? Leder du ett seriöst bridgelag? Klicka här för att läsa om <strong>premiumgrupper!</strong>",
       "invite_members_bullet": "Bjud in medlemmar",
       "group_chat_bullet": "Privat gruppchat",
       "group_events_bullet": "Privata gruppevent",
@@ -1720,7 +1719,10 @@
       "group_description_placeholder": "Skriv gruppbeskrivning",
       "sub_level_error": "Hjärterprenumeranter kan skapa grupper",
       "submit_button": "Skapa grupp",
-      "teach_card": "Undervisar du en klass? Lärarverktygen är gratis."
+      "purpose_title": "Vad ska gruppen användas till?",
+      "purpose_class": "Undervisar du en klass? Lärarverktygen är gratis för lärare som tar med sina elever till Cuebids.",
+      "purpose_class_has_tools": "Du har lärarverktygen. Skapa en grupp för din klass här nedanför.",
+      "purpose_team": "Ett lag eller en träningsgrupp? Premiumgrupper ger gratis event för medlemmarna, ligaplanering och mer."
     },
     "create_group_session": {
       "scenarios_robot_error": "Några valda scenarion har en konflikt mellan robotinställningar.",
@@ -3026,17 +3028,17 @@
     "join_discord": "Gå med i vår Discord"
   },
   "contact_sales": {
-    "title": "Premiumgrupp",
-    "p1": "Är du en bridgecoach eller lärare? Leder du ett seriöst bridgeteam?",
-    "p2_pre_link": "Då är våra <strong>premiumgrupper</strong> designade för dig. Vänligen kontakta oss på ",
-    "p2_post_link": "för att begära en premiumgrupp.",
-    "p3": "Vi kommer att utforma gruppen efter dina önskemål och lägga till relevanta funktioner för dig. Vi är öppna för dina idéer, men här är några av våra:",
-    "ul_li1": "Cuebids-prenumeration inkluderad eller rabatterad för alla medlemmar",
-    "ul_li2": "Diskussionstrådar om spelade brickor",
-    "ul_li3": "Särskilda roller som Coach eller Lärare, med speciell åtkomst och funktioner",
-    "ul_li3_ul_li1": "Se elevernas framsteg",
-    "ul_li3_ul_li2": "Kommentera spelares budgivning",
-    "ul_li4": "Statistik/Prestation inom gruppen"
+    "title": "Premiumgrupper",
+    "intro": "För lag, klubbar och träningsgrupper som spelar tillsammans på Cuebids. En premiumgrupp ger det som en vanlig grupp saknar:",
+    "feature_members": "Hjärter, Ruter eller gratis event för de medlemmar du väljer",
+    "feature_events": "Gruppevent med egna givtyper",
+    "feature_league": "En ligaplanerare: säsonger, närvaro och laguppställningar",
+    "feature_pbn": "Gruppevent från dina egna PBN-filer",
+    "contact_pre": "Vill du ha en? Skriv till",
+    "contact_post": ".",
+    "teachers_title": "Undervisar du en klass?",
+    "teachers_text": "Lärarverktygen är gratis för lärare som tar med sina elever till Cuebids. Du behöver ingen premiumgrupp för dem.",
+    "teachers_link": "Undervisa med Cuebids"
   },
   "contact_junior": {
     "category": "Junioransökan",

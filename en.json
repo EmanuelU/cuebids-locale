@@ -1710,7 +1710,6 @@
       "group_name_taken_error": "A group with that name already exists",
       "group_created_success": "Group created",
       "create_group_info": "When you create a group you get access to a private space only members of your group can access. There you can chat and create private events. Note that participating in events requires tickets. As always, heart subscribers can participate without any additional cost.",
-      "premium_groups_button_styled": "Are you a bridge coach or teacher? Do you lead a serious bridge team? Click here to read about <strong>premium groups!</strong>",
       "invite_members_bullet": "Invite members",
       "group_chat_bullet": "Private group chat",
       "group_events_bullet": "Private group events",
@@ -1720,7 +1719,10 @@
       "group_description_placeholder": "Enter group description",
       "sub_level_error": "Heart subscribers can create groups",
       "submit_button": "Create group",
-      "teach_card": "Teaching a class? Teacher tools are free."
+      "purpose_title": "What is this group for?",
+      "purpose_class": "Teaching a class? Teacher tools are free for teachers who bring their students to Cuebids.",
+      "purpose_class_has_tools": "You have teacher tools. Create a group for your class below.",
+      "purpose_team": "A team or practice group? Premium groups add free events for members, league planning and more."
     },
     "create_group_session": {
       "scenarios_robot_error": "Some selected scenarios have a conflict between the robot settings.",
@@ -3026,17 +3028,17 @@
     "join_discord": "Join our Discord"
   },
   "contact_sales": {
-    "title": "Premium group",
-    "p1": "Are you a bridge coach or teacher? Do you lead a serious bridge team?",
-    "p2_pre_link": "Then our <strong>premium groups</strong> are designed for you. Please contact our ",
-    "p2_post_link": "to request a premium group.",
-    "p3": "We will design the group to your liking, adding relevant features for you. We are open to your ideas, but here are some of ours:",
-    "ul_li1": "Cuebids subscription included or discounted for all members",
-    "ul_li2": "Discussion threads on boards",
-    "ul_li3": "Special roles such as Coach or Teacher, with special access and features",
-    "ul_li3_ul_li1": "View pupils' progress",
-    "ul_li3_ul_li2": "Comment on players' bidding",
-    "ul_li4": "Statistics/Performance within the group"
+    "title": "Premium groups",
+    "intro": "For teams, clubs and practice groups that play together on Cuebids. A premium group adds what a plain group does not have:",
+    "feature_members": "Heart, Diamond or free events included for the members you choose",
+    "feature_events": "Group events with your own deal types",
+    "feature_league": "A league planner: seasons, attendance and lineups",
+    "feature_pbn": "Group events from your own PBN files",
+    "contact_pre": "To set one up, write to",
+    "contact_post": ".",
+    "teachers_title": "Teaching a class?",
+    "teachers_text": "Teacher tools are free for teachers who bring their students to Cuebids. You do not need a premium group for them.",
+    "teachers_link": "Teach with Cuebids"
   },
   "contact_junior": {
     "category": "Junior application",

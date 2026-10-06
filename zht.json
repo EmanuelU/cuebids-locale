@@ -1711,7 +1711,6 @@
       "group_name_taken_error": "已存在同名群組",
       "group_created_success": "群組已創建",
       "create_group_info": "創建群組後，你會擁有一個只有群組成員可以進入的私人空間，可以在裡面聊天並創建私人練習。請注意，參加練習需要門票；紅桃訂閱者照常無需額外費用。",
-      "premium_groups_button_styled": "你是橋牌教練或老師嗎？或者正在帶一支認真的橋牌隊伍？點擊這裡瞭解<strong>VIP 群組！</strong>",
       "invite_members_bullet": "邀請成員",
       "group_chat_bullet": "私人群聊",
       "group_events_bullet": "私人群組練習",
@@ -1721,7 +1720,10 @@
       "group_description_placeholder": "輸入群組描述",
       "sub_level_error": "紅桃訂閱用戶可以創建群組",
       "submit_button": "創建群組",
-      "teach_card": "在教橋牌班？教師工具免費。"
+      "purpose_title": "這個群組用來做什麼？",
+      "purpose_class": "在教橋牌班？對於帶學生來 Cuebids 的老師，教師工具免費。",
+      "purpose_class_has_tools": "你已擁有教師工具。在下方為你的班級建立群組。",
+      "purpose_team": "球隊或練習小組？高級群組為成員提供免費賽事、聯賽規劃等功能。"
     },
     "create_group_session": {
       "scenarios_robot_error": "某些選定的場景在機器人設置之間存在衝突。",
@@ -3027,17 +3029,17 @@
     "join_discord": "加入我們的Discord"
   },
   "contact_sales": {
-    "title": "高級組",
-    "p1": "您是橋牌教練或老師嗎？您領導一支認真的橋牌團隊嗎？",
-    "p2_pre_link": "那麼我們的<strong>VIP 群組</strong>就是為你設計的。請聯繫我們的",
-    "p2_post_link": "申請 VIP 群組。",
-    "p3": "我們將根據您的喜好設計群組，為您添加相關功能。我們對您的想法持開放態度，但以下是我們的一些想法：",
-    "ul_li1": "所有會員均可享受 Cuebids 訂閱或享受折扣",
-    "ul_li2": "每副牌的討論串",
-    "ul_li3": "特殊角色，例如教練或教師，具有特殊的訪問權限和功能",
-    "ul_li3_ul_li1": "查看學生的進步",
-    "ul_li3_ul_li2": "點評玩家的叫牌",
-    "ul_li4": "組內統計/表現"
+    "title": "高級群組",
+    "intro": "適合在 Cuebids 上一起打牌的球隊、俱樂部和練習小組。高級群組提供普通群組沒有的功能：",
+    "feature_members": "為你選定的成員提供紅桃、方塊會員或免費賽事",
+    "feature_events": "使用自訂牌型的群組賽事",
+    "feature_league": "聯賽規劃：賽季、出勤和陣容",
+    "feature_pbn": "用你自己的 PBN 檔案舉辦群組賽事",
+    "contact_pre": "如需開通，請寫信至",
+    "contact_post": "。",
+    "teachers_title": "在教橋牌班？",
+    "teachers_text": "對於帶學生來 Cuebids 的老師，教師工具免費，不需要高級群組。",
+    "teachers_link": "用 Cuebids 教學"
   },
   "contact_junior": {
     "category": "初級申請",

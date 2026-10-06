@@ -1710,7 +1710,6 @@
       "group_name_taken_error": "Ya existe un grupo con ese nombre.",
       "group_created_success": "Grupo creado",
       "create_group_info": "Cuando creas un grupo, obtienes acceso a un espacio privado al que solo pueden entrar los miembros del grupo. Allí podéis chatear y crear eventos privados. Ten en cuenta que participar en eventos requiere tickets. Como siempre, los suscriptores Corazón pueden participar sin coste adicional.",
-      "premium_groups_button_styled": "¿Eres entrenador o profesor de bridge? ¿Lideras un equipo de bridge serio? Haz clic aquí para leer sobre los <strong>grupos premium</strong>.",
       "invite_members_bullet": "Invitar miembros",
       "group_chat_bullet": "Chat privado del grupo",
       "group_events_bullet": "Eventos privados del grupo",
@@ -1720,7 +1719,10 @@
       "group_description_placeholder": "Introduce la descripción del grupo",
       "sub_level_error": "Los suscriptores Corazón pueden crear grupos.",
       "submit_button": "Crear grupo",
-      "teach_card": "¿Das clases? Las herramientas para profesores son gratis."
+      "purpose_title": "¿Para qué es este grupo?",
+      "purpose_class": "¿Das clases? Las herramientas para profesores son gratis para los profesores que traen a sus alumnos a Cuebids.",
+      "purpose_class_has_tools": "Tienes las herramientas para profesores. Crea abajo un grupo para tu clase.",
+      "purpose_team": "¿Un equipo o un grupo de práctica? Los grupos premium añaden eventos gratis para los miembros, planificación de ligas y más."
     },
     "create_group_session": {
       "scenarios_robot_error": "Algunos escenarios seleccionados tienen un conflicto entre los ajustes del robot.",
@@ -3026,17 +3028,17 @@
     "join_discord": "Únete a nuestro Discord"
   },
   "contact_sales": {
-    "title": "Grupo premium",
-    "p1": "¿Eres entrenador o profesor de bridge? ¿Lideras un equipo de bridge serio?",
-    "p2_pre_link": "Entonces nuestros <strong>grupos premium</strong> están pensados para ti. Ponte en contacto con nuestro ",
-    "p2_post_link": " para solicitar un grupo premium.",
-    "p3": "Diseñaremos el grupo a tu medida, añadiendo las funciones que te resulten útiles. Estamos abiertos a tus ideas, pero aquí van algunas de las nuestras:",
-    "ul_li1": "Suscripción Cuebids incluida o con descuento para todos los miembros",
-    "ul_li2": "Hilos de discusión sobre las manos",
-    "ul_li3": "Roles especiales como Coach o Teacher, con accesos y funciones especiales",
-    "ul_li3_ul_li1": "Ver el progreso de los alumnos",
-    "ul_li3_ul_li2": "Comentar la subasta de los jugadores",
-    "ul_li4": "Estadísticas/rendimiento dentro del grupo"
+    "title": "Grupos premium",
+    "intro": "Para equipos, clubes y grupos de práctica que juegan juntos en Cuebids. Un grupo premium añade lo que un grupo normal no tiene:",
+    "feature_members": "Corazón, Diamante o eventos gratis para los miembros que elijas",
+    "feature_events": "Eventos de grupo con tus propios tipos de mano",
+    "feature_league": "Un planificador de ligas: temporadas, asistencia y alineaciones",
+    "feature_pbn": "Eventos de grupo a partir de tus archivos PBN",
+    "contact_pre": "Para crear uno, escribe a",
+    "contact_post": ".",
+    "teachers_title": "¿Das clases?",
+    "teachers_text": "Las herramientas para profesores son gratis para los profesores que traen a sus alumnos a Cuebids. No necesitas un grupo premium para ellas.",
+    "teachers_link": "Enseña con Cuebids"
   },
   "contact_junior": {
     "category": "Solicitud junior",
