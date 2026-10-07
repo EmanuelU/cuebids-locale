@@ -3777,11 +3777,16 @@
       "board_of": "Bricka {{n}} av {{total}}",
       "suggestions_teachers": "Föreslagen budgivning ingår i lärarverktygen.",
       "add_boards": "Lägg till brickor",
-      "add_boards_hint": "Hitta en bricka och PBN-import lägger till brickor i samlingen. Vill du ha nya brickor? Spela ett scenario eller en givtyp och lägg sedan till dem från Hitta en bricka.",
+      "add_boards_hint": "Hitta en bricka och Importera PBN lägger till brickor du redan har. Givtyper och scenarion lägger till nya brickor från Cuebids.",
       "show_scoring": "Visa poäng",
       "show_more": "Visa fler",
       "show_fewer": "Visa färre",
-      "robots_follow": "Robotarna bjuder enligt den föreslagna budgivningen"
+      "robots_follow": "Robotarna bjuder enligt den föreslagna budgivningen",
+      "draw_count": "brickor",
+      "draw_button": "Lägg till",
+      "draw_added": "Tillagda: {{n}}.",
+      "draw_short": "Tillagda: {{n}}. Det fanns inga fler nya brickor av det här slaget.",
+      "draw_none": "Inga nya brickor av det här slaget just nu. För ett scenario kan du generera fler på scenariosidan."
     },
     "add": {
       "title": "Lägg till i en samling",

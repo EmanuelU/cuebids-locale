@@ -3784,11 +3784,16 @@
       "board_of": "第 {{n}} / {{total}} 副",
       "suggestions_teachers": "建议叫牌属于教师工具。",
       "add_boards": "添加牌",
-      "add_boards_hint": "“查找牌局”和 PBN 导入可以把牌加入这个牌组。想要新牌，先打一个应用场景或牌型，再从“查找牌局”添加。",
+      "add_boards_hint": "“查找牌局”和“导入 PBN”添加你已有的牌。牌型和场景会从 Cuebids 添加新牌。",
       "show_scoring": "显示得分",
       "show_more": "显示更多",
       "show_fewer": "收起",
-      "robots_follow": "机器人按建议叫牌叫牌"
+      "robots_follow": "机器人按建议叫牌叫牌",
+      "draw_count": "副牌",
+      "draw_button": "添加到牌组",
+      "draw_added": "已添加：{{n}}。",
+      "draw_short": "已添加：{{n}}。此类型没有更多新牌了。",
+      "draw_none": "此类型暂时没有新牌。如果是场景，可在场景页面生成更多。"
     },
     "add": {
       "title": "加入牌组",

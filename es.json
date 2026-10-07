@@ -3777,11 +3777,16 @@
       "board_of": "Mano {{n}} de {{total}}",
       "suggestions_teachers": "Las subastas sugeridas forman parte de las herramientas para profesores.",
       "add_boards": "Añadir manos",
-      "add_boards_hint": "Encuentra una mano y la importación PBN añaden manos a esta serie. Para manos nuevas, juega un escenario o un tipo de manos y luego añádelas desde Encuentra una mano.",
+      "add_boards_hint": "Buscar una mano e Importar PBN añaden manos que ya tienes. Los tipos de mano y los escenarios añaden manos nuevas de Cuebids.",
       "show_scoring": "Mostrar puntuación",
       "show_more": "Mostrar más",
       "show_fewer": "Mostrar menos",
-      "robots_follow": "Los robots siguen la subasta sugerida"
+      "robots_follow": "Los robots siguen la subasta sugerida",
+      "draw_count": "manos",
+      "draw_button": "Añadir a la serie",
+      "draw_added": "Añadidas: {{n}}.",
+      "draw_short": "Añadidas: {{n}}. No había más manos nuevas de este tipo.",
+      "draw_none": "Ahora no hay manos nuevas de este tipo. Para un escenario, genera más en la página del escenario."
     },
     "add": {
       "title": "Añadir a una serie",

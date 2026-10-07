@@ -3777,11 +3777,16 @@
       "board_of": "Board {{n}} of {{total}}",
       "suggestions_teachers": "Suggested auctions are part of teacher tools.",
       "add_boards": "Add boards",
-      "add_boards_hint": "Find a deal and Import PBN add boards to this set. For new boards, play a scenario or a deal type, then add them from Find a deal.",
+      "add_boards_hint": "Find a deal and Import PBN add boards you already have. Deal types and scenarios add new boards from Cuebids.",
       "show_scoring": "Show scoring",
       "show_more": "Show more",
       "show_fewer": "Show fewer",
-      "robots_follow": "Robots bid the suggested auction"
+      "robots_follow": "Robots bid the suggested auction",
+      "draw_count": "boards",
+      "draw_button": "Add to set",
+      "draw_added": "Added: {{n}}.",
+      "draw_short": "Added: {{n}}. There were no more new boards of this kind.",
+      "draw_none": "No new boards of this kind right now. For a scenario, generate more on the scenario page."
     },
     "add": {
       "title": "Add to a set",

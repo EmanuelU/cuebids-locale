@@ -3779,11 +3779,16 @@
       "board_of": "Rozdanie {{n}} z {{total}}",
       "suggestions_teachers": "Sugerowana licytacja jest częścią narzędzi dla nauczycieli.",
       "add_boards": "Dodaj rozdania",
-      "add_boards_hint": "Znajdź rozdanie i import PBN dodają rozdania do tego zestawu. Po nowe rozdania zagraj scenariusz albo typ rozdań, a potem dodaj je przez Znajdź rozdanie.",
+      "add_boards_hint": "Znajdź rozdanie i Importuj PBN dodają rozdania, które już masz. Typy rozdań i scenariusze dodają nowe rozdania z Cuebids.",
       "show_scoring": "Pokaż punktację",
       "show_more": "Pokaż więcej",
       "show_fewer": "Pokaż mniej",
-      "robots_follow": "Roboty licytują według sugerowanej licytacji"
+      "robots_follow": "Roboty licytują według sugerowanej licytacji",
+      "draw_count": "rozdań",
+      "draw_button": "Dodaj do zestawu",
+      "draw_added": "Dodano: {{n}}.",
+      "draw_short": "Dodano: {{n}}. Nie było więcej nowych rozdań tego rodzaju.",
+      "draw_none": "Na razie brak nowych rozdań tego rodzaju. Dla scenariusza wygeneruj więcej na stronie scenariusza."
     },
     "add": {
       "title": "Dodaj do zestawu",

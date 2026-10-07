@@ -3777,11 +3777,16 @@
       "board_of": "Donne {{n}} sur {{total}}",
       "suggestions_teachers": "Les séquences suggérées font partie des outils pour enseignants.",
       "add_boards": "Ajouter des donnes",
-      "add_boards_hint": "Trouver une donne et l’import PBN ajoutent des donnes à cette série. Pour de nouvelles donnes, jouez un scénario ou un thème de donnes, puis ajoutez-les depuis Trouver une donne.",
+      "add_boards_hint": "Trouver une donne et Importer un PBN ajoutent des donnes que vous avez déjà. Les thèmes de donnes et les scénarios ajoutent de nouvelles donnes de Cuebids.",
       "show_scoring": "Afficher les scores",
       "show_more": "Afficher plus",
       "show_fewer": "Afficher moins",
-      "robots_follow": "Les robots suivent la séquence suggérée"
+      "robots_follow": "Les robots suivent la séquence suggérée",
+      "draw_count": "donnes",
+      "draw_button": "Ajouter à la série",
+      "draw_added": "Ajoutées : {{n}}.",
+      "draw_short": "Ajoutées : {{n}}. Il n’y avait plus de nouvelles donnes de ce type.",
+      "draw_none": "Pas de nouvelles donnes de ce type pour l’instant. Pour un scénario, générez-en d’autres sur la page du scénario."
     },
     "add": {
       "title": "Ajouter à une série",
