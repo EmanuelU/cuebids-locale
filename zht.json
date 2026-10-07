@@ -1723,7 +1723,7 @@
       "purpose_title": "這個群組用來做什麼？",
       "purpose_class": "在教橋牌班？對於帶學生來 Cuebids 的老師，教師工具免費。",
       "purpose_class_has_tools": "你已擁有教師工具。在下方為你的班級建立群組。",
-      "purpose_team": "球隊或練習小組？高級群組為成員提供免費賽事、聯賽規劃等功能。"
+      "purpose_team": "球隊或練習小組？高級群組讓你的群組有更多舉辦賽事的方式。"
     },
     "create_group_session": {
       "scenarios_robot_error": "某些選定的場景在機器人設置之間存在衝突。",
@@ -3031,15 +3031,15 @@
   "contact_sales": {
     "title": "高級群組",
     "intro": "適合在 Cuebids 上一起打牌的球隊、俱樂部和練習小組。高級群組提供普通群組沒有的功能：",
-    "feature_members": "為你選定的成員提供紅桃、方塊會員或免費賽事",
     "feature_events": "使用自訂牌型的群組賽事",
-    "feature_league": "聯賽規劃：賽季、出勤和陣容",
     "feature_pbn": "用你自己的 PBN 檔案舉辦群組賽事",
     "contact_pre": "如需開通，請寫信至",
     "contact_post": "。",
     "teachers_title": "在教橋牌班？",
     "teachers_text": "對於帶學生來 Cuebids 的老師，教師工具免費，不需要高級群組。",
-    "teachers_link": "用 Cuebids 教學"
+    "teachers_link": "用 Cuebids 教學",
+    "addon_title": "附加項：為成員付費",
+    "addon_text": "為你選定的成員支付賽事費用，或為他們開通紅桃、方塊會員。按成員計價，低於他們自己購買的價格。"
   },
   "contact_junior": {
     "category": "初級申請",

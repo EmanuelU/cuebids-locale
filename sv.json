@@ -1722,7 +1722,7 @@
       "purpose_title": "Vad ska gruppen användas till?",
       "purpose_class": "Undervisar du en klass? Lärarverktygen är gratis för lärare som tar med sina elever till Cuebids.",
       "purpose_class_has_tools": "Du har lärarverktygen. Skapa en grupp för din klass här nedanför.",
-      "purpose_team": "Ett lag eller en träningsgrupp? Premiumgrupper ger gratis event för medlemmarna, ligaplanering och mer."
+      "purpose_team": "Ett lag eller en träningsgrupp? Med en premiumgrupp får gruppen fler sätt att köra event."
     },
     "create_group_session": {
       "scenarios_robot_error": "Några valda scenarion har en konflikt mellan robotinställningar.",
@@ -3030,15 +3030,15 @@
   "contact_sales": {
     "title": "Premiumgrupper",
     "intro": "För lag, klubbar och träningsgrupper som spelar tillsammans på Cuebids. En premiumgrupp ger det som en vanlig grupp saknar:",
-    "feature_members": "Hjärter, Ruter eller gratis event för de medlemmar du väljer",
     "feature_events": "Gruppevent med egna givtyper",
-    "feature_league": "En ligaplanerare: säsonger, närvaro och laguppställningar",
     "feature_pbn": "Gruppevent från dina egna PBN-filer",
     "contact_pre": "Vill du ha en? Skriv till",
     "contact_post": ".",
     "teachers_title": "Undervisar du en klass?",
     "teachers_text": "Lärarverktygen är gratis för lärare som tar med sina elever till Cuebids. Du behöver ingen premiumgrupp för dem.",
-    "teachers_link": "Undervisa med Cuebids"
+    "teachers_link": "Undervisa med Cuebids",
+    "addon_title": "Tillägg: stå för dina medlemmar",
+    "addon_text": "Betala medlemmarnas event, eller ge dem Hjärter eller Ruter, för de medlemmar du väljer. Prissatt per medlem, lägre än vad de själva skulle betala."
   },
   "contact_junior": {
     "category": "Junioransökan",

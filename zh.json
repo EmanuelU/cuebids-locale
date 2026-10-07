@@ -1723,7 +1723,7 @@
       "purpose_title": "这个群组用来做什么？",
       "purpose_class": "在教桥牌班？对于带学生来 Cuebids 的老师，教师工具免费。",
       "purpose_class_has_tools": "你已拥有教师工具。在下方为你的班级创建群组。",
-      "purpose_team": "球队或练习小组？高级群组为成员提供免费赛事、联赛规划等功能。"
+      "purpose_team": "球队或练习小组？高级群组让你的群组有更多举办赛事的方式。"
     },
     "create_group_session": {
       "scenarios_robot_error": "某些选定的场景在机器人设置之间存在冲突。",
@@ -3031,15 +3031,15 @@
   "contact_sales": {
     "title": "高级群组",
     "intro": "适合在 Cuebids 上一起打牌的球队、俱乐部和练习小组。高级群组提供普通群组没有的功能：",
-    "feature_members": "为你选定的成员提供红心、方块会员或免费赛事",
     "feature_events": "使用自定义牌型的群组赛事",
-    "feature_league": "联赛规划：赛季、出勤和阵容",
     "feature_pbn": "用你自己的 PBN 文件举办群组赛事",
     "contact_pre": "如需开通，请写信至",
     "contact_post": "。",
     "teachers_title": "在教桥牌班？",
     "teachers_text": "对于带学生来 Cuebids 的老师，教师工具免费，不需要高级群组。",
-    "teachers_link": "用 Cuebids 教学"
+    "teachers_link": "用 Cuebids 教学",
+    "addon_title": "附加项：为成员付费",
+    "addon_text": "为你选定的成员支付赛事费用，或为他们开通红心、方块会员。按成员计价，低于他们自己购买的价格。"
   },
   "contact_junior": {
     "category": "初级申请",

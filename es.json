@@ -1722,7 +1722,7 @@
       "purpose_title": "¿Para qué es este grupo?",
       "purpose_class": "¿Das clases? Las herramientas para profesores son gratis para los profesores que traen a sus alumnos a Cuebids.",
       "purpose_class_has_tools": "Tienes las herramientas para profesores. Crea abajo un grupo para tu clase.",
-      "purpose_team": "¿Un equipo o un grupo de práctica? Los grupos premium añaden eventos gratis para los miembros, planificación de ligas y más."
+      "purpose_team": "¿Un equipo o un grupo de práctica? Un grupo premium da más formas de organizar eventos."
     },
     "create_group_session": {
       "scenarios_robot_error": "Algunos escenarios seleccionados tienen un conflicto entre los ajustes del robot.",
@@ -3030,15 +3030,15 @@
   "contact_sales": {
     "title": "Grupos premium",
     "intro": "Para equipos, clubes y grupos de práctica que juegan juntos en Cuebids. Un grupo premium añade lo que un grupo normal no tiene:",
-    "feature_members": "Corazón, Diamante o eventos gratis para los miembros que elijas",
     "feature_events": "Eventos de grupo con tus propios tipos de mano",
-    "feature_league": "Un planificador de ligas: temporadas, asistencia y alineaciones",
     "feature_pbn": "Eventos de grupo a partir de tus archivos PBN",
     "contact_pre": "Para crear uno, escribe a",
     "contact_post": ".",
     "teachers_title": "¿Das clases?",
     "teachers_text": "Las herramientas para profesores son gratis para los profesores que traen a sus alumnos a Cuebids. No necesitas un grupo premium para ellas.",
-    "teachers_link": "Enseña con Cuebids"
+    "teachers_link": "Enseña con Cuebids",
+    "addon_title": "Complemento: cubre a tus miembros",
+    "addon_text": "Paga los eventos de tus miembros, o dales Corazón o Diamante, para los miembros que elijas. Precio por miembro, por debajo de lo que pagarían ellos."
   },
   "contact_junior": {
     "category": "Solicitud junior",

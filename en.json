@@ -1722,7 +1722,7 @@
       "purpose_title": "What is this group for?",
       "purpose_class": "Teaching a class? Teacher tools are free for teachers who bring their students to Cuebids.",
       "purpose_class_has_tools": "You have teacher tools. Create a group for your class below.",
-      "purpose_team": "A team or practice group? Premium groups add free events for members, league planning and more."
+      "purpose_team": "A team or practice group? Premium groups give your group more ways to run events."
     },
     "create_group_session": {
       "scenarios_robot_error": "Some selected scenarios have a conflict between the robot settings.",
@@ -3030,15 +3030,15 @@
   "contact_sales": {
     "title": "Premium groups",
     "intro": "For teams, clubs and practice groups that play together on Cuebids. A premium group adds what a plain group does not have:",
-    "feature_members": "Heart, Diamond or free events included for the members you choose",
     "feature_events": "Group events with your own deal types",
-    "feature_league": "A league planner: seasons, attendance and lineups",
     "feature_pbn": "Group events from your own PBN files",
     "contact_pre": "To set one up, write to",
     "contact_post": ".",
     "teachers_title": "Teaching a class?",
     "teachers_text": "Teacher tools are free for teachers who bring their students to Cuebids. You do not need a premium group for them.",
-    "teachers_link": "Teach with Cuebids"
+    "teachers_link": "Teach with Cuebids",
+    "addon_title": "Add-on: cover your members",
+    "addon_text": "Pay for your members' events, or give them Heart or Diamond, for the members you choose. Priced per member, below what they would pay themselves."
   },
   "contact_junior": {
     "category": "Junior application",

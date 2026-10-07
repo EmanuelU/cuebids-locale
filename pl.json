@@ -1724,7 +1724,7 @@
       "purpose_title": "Do czego ma służyć ta grupa?",
       "purpose_class": "Uczysz grupę? Narzędzia dla nauczycieli są darmowe dla nauczycieli, którzy przyprowadzają swoich uczniów do Cuebids.",
       "purpose_class_has_tools": "Masz narzędzia dla nauczycieli. Utwórz poniżej grupę dla swojej klasy.",
-      "purpose_team": "Drużyna albo grupa treningowa? Grupy premium dają darmowe wydarzenia dla członków, planowanie ligi i więcej."
+      "purpose_team": "Drużyna albo grupa treningowa? Grupa premium daje więcej sposobów prowadzenia wydarzeń."
     },
     "create_group_session": {
       "scenarios_robot_error": "Niektóre wybrane scenariusze kłócą się z ustawieniami robotów.",
@@ -3032,15 +3032,15 @@
   "contact_sales": {
     "title": "Grupy premium",
     "intro": "Dla drużyn, klubów i grup treningowych, które grają razem na Cuebids. Grupa premium daje to, czego nie ma zwykła grupa:",
-    "feature_members": "Kier, Karo albo darmowe wydarzenia dla wybranych członków",
     "feature_events": "Wydarzenia grupowe z własnymi typami rozdań",
-    "feature_league": "Planer ligi: sezony, obecność i składy",
     "feature_pbn": "Wydarzenia grupowe z twoich plików PBN",
     "contact_pre": "Chcesz taką grupę? Napisz na",
     "contact_post": ".",
     "teachers_title": "Uczysz grupę?",
     "teachers_text": "Narzędzia dla nauczycieli są darmowe dla nauczycieli, którzy przyprowadzają swoich uczniów do Cuebids. Grupa premium nie jest do tego potrzebna.",
-    "teachers_link": "Ucz z Cuebids"
+    "teachers_link": "Ucz z Cuebids",
+    "addon_title": "Dodatek: opłać członków",
+    "addon_text": "Opłać wydarzenia członków albo daj im Kier lub Karo, wybranym przez ciebie osobom. Cena za członka, niższa niż ta, którą zapłaciliby sami."
   },
   "contact_junior": {
     "category": "Wniosek juniorski",

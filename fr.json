@@ -1722,7 +1722,7 @@
       "purpose_title": "À quoi servira ce groupe ?",
       "purpose_class": "Vous enseignez à une classe ? Les outils pour enseignants sont gratuits pour les enseignants qui amènent leurs élèves sur Cuebids.",
       "purpose_class_has_tools": "Vous avez les outils pour enseignants. Créez ci-dessous un groupe pour votre classe.",
-      "purpose_team": "Une équipe ou un groupe d’entraînement ? Les groupes premium ajoutent des tournois gratuits pour les membres, un planificateur de championnat et plus encore."
+      "purpose_team": "Une équipe ou un groupe d’entraînement ? Un groupe premium offre plus de façons d’organiser vos tournois."
     },
     "create_group_session": {
       "scenarios_robot_error": "Certains scénarios sélectionnés ont des paramètres de robot incompatibles.",
@@ -3030,15 +3030,15 @@
   "contact_sales": {
     "title": "Groupes premium",
     "intro": "Pour les équipes, les clubs et les groupes d’entraînement qui jouent ensemble sur Cuebids. Un groupe premium ajoute ce qu’un groupe simple n’a pas :",
-    "feature_members": "Cœur, Carreau ou des tournois gratuits pour les membres que vous choisissez",
     "feature_events": "Des tournois de groupe avec vos propres thèmes de donnes",
-    "feature_league": "Un planificateur de championnat : saisons, présences et compositions",
     "feature_pbn": "Des tournois de groupe à partir de vos fichiers PBN",
     "contact_pre": "Pour en créer un, écrivez à",
     "contact_post": ".",
     "teachers_title": "Vous enseignez à une classe ?",
     "teachers_text": "Les outils pour enseignants sont gratuits pour les enseignants qui amènent leurs élèves sur Cuebids. Vous n’avez pas besoin d’un groupe premium pour cela.",
-    "teachers_link": "Enseigner avec Cuebids"
+    "teachers_link": "Enseigner avec Cuebids",
+    "addon_title": "Option : prendre vos membres en charge",
+    "addon_text": "Payez les tournois de vos membres, ou offrez-leur Cœur ou Carreau, pour les membres que vous choisissez. Prix par membre, inférieur à ce qu’ils paieraient eux-mêmes."
   },
   "contact_junior": {
     "category": "Candidature junior",
