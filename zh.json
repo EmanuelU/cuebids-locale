@@ -1549,7 +1549,7 @@
     "sets_order_shuffled": "打乱",
     "sets_available": "可用的牌：{{n}}。会平均分配到各牌组。",
     "sets_order_in_order": "按顺序",
-    "sets_available_one": "可用牌局：{{n}}。"
+    "sets_available_one": "可用的牌：{{n}}。"
   },
   "deal_type_select": {
     "random": "随机手牌",
