@@ -1546,7 +1546,9 @@
     "sets_random": "At random",
     "sets_order_listed": "Set by set",
     "sets_order_shuffled": "Shuffled",
-    "sets_available": "Boards available: {{n}}. They are shared evenly between the sets."
+    "sets_available": "Boards available: {{n}}. They are shared evenly between the sets.",
+    "sets_order_in_order": "In order",
+    "sets_available_one": "Boards available: {{n}}."
   },
   "deal_type_select": {
     "random": "Random hands",

@@ -1546,7 +1546,9 @@
     "sets_random": "Slumpvis",
     "sets_order_listed": "Samling för samling",
     "sets_order_shuffled": "Blandade",
-    "sets_available": "Tillgängliga brickor: {{n}}. De delas jämnt mellan samlingarna."
+    "sets_available": "Tillgängliga brickor: {{n}}. De delas jämnt mellan samlingarna.",
+    "sets_order_in_order": "I ordning",
+    "sets_available_one": "Tillgängliga brickor: {{n}}."
   },
   "deal_type_select": {
     "random": "Slumpade händer",

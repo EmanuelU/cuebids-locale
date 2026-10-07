@@ -1548,7 +1548,9 @@
     "sets_random": "Losowo",
     "sets_order_listed": "Zestaw po zestawie",
     "sets_order_shuffled": "Wymieszane",
-    "sets_available": "Dostępne rozdania: {{n}}. Są dzielone po równo między zestawy."
+    "sets_available": "Dostępne rozdania: {{n}}. Są dzielone po równo między zestawy.",
+    "sets_order_in_order": "Po kolei",
+    "sets_available_one": "Dostępne rozdania: {{n}}."
   },
   "deal_type_select": {
     "random": "Losowe rozdania",

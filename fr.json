@@ -1546,7 +1546,9 @@
     "sets_random": "Au hasard",
     "sets_order_listed": "Série par série",
     "sets_order_shuffled": "Mélangées",
-    "sets_available": "Donnes disponibles : {{n}}. Elles sont réparties également entre les séries."
+    "sets_available": "Donnes disponibles : {{n}}. Elles sont réparties également entre les séries.",
+    "sets_order_in_order": "Dans l’ordre",
+    "sets_available_one": "Donnes disponibles : {{n}}."
   },
   "deal_type_select": {
     "random": "Mains aléatoires",
