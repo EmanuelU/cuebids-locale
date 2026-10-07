@@ -3778,7 +3778,8 @@
       "add_boards_hint": "Find a deal and Import PBN add boards to this set. For new boards, play a scenario or a deal type, then add them from Find a deal.",
       "show_scoring": "Show scoring",
       "show_more": "Show more",
-      "show_fewer": "Show fewer"
+      "show_fewer": "Show fewer",
+      "robots_follow": "Robots bid the suggested auction"
     },
     "add": {
       "title": "Add to a set",

@@ -3778,7 +3778,8 @@
       "add_boards_hint": "Hitta en bricka och PBN-import lägger till brickor i samlingen. Vill du ha nya brickor? Spela ett scenario eller en givtyp och lägg sedan till dem från Hitta en bricka.",
       "show_scoring": "Visa poäng",
       "show_more": "Visa fler",
-      "show_fewer": "Visa färre"
+      "show_fewer": "Visa färre",
+      "robots_follow": "Robotarna bjuder enligt den föreslagna budgivningen"
     },
     "add": {
       "title": "Lägg till i en samling",

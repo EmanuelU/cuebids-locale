@@ -3778,7 +3778,8 @@
       "add_boards_hint": "Encuentra una mano y la importación PBN añaden manos a esta serie. Para manos nuevas, juega un escenario o un tipo de manos y luego añádelas desde Encuentra una mano.",
       "show_scoring": "Mostrar puntuación",
       "show_more": "Mostrar más",
-      "show_fewer": "Mostrar menos"
+      "show_fewer": "Mostrar menos",
+      "robots_follow": "Los robots siguen la subasta sugerida"
     },
     "add": {
       "title": "Añadir a una serie",

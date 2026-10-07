@@ -3785,7 +3785,8 @@
       "add_boards_hint": "“查找牌局”和 PBN 导入可以把牌加入这个牌组。想要新牌，先打一个应用场景或牌型，再从“查找牌局”添加。",
       "show_scoring": "显示得分",
       "show_more": "显示更多",
-      "show_fewer": "收起"
+      "show_fewer": "收起",
+      "robots_follow": "机器人按建议叫牌叫牌"
     },
     "add": {
       "title": "加入牌组",

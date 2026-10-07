@@ -3785,7 +3785,8 @@
       "add_boards_hint": "「查找牌局」和 PBN 匯入可以把牌加入這個牌組。想要新牌，先打一個應用場景或牌型，再從「查找牌局」新增。",
       "show_scoring": "顯示得分",
       "show_more": "顯示更多",
-      "show_fewer": "收起"
+      "show_fewer": "收起",
+      "robots_follow": "機器人按建議叫牌叫牌"
     },
     "add": {
       "title": "加入牌組",
