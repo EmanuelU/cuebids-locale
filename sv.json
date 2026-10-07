@@ -3773,7 +3773,9 @@
       "auction_over": "Budgivningen är slut. Ångra för att ändra den.",
       "save_next": "Spara och nästa",
       "board_of": "Bricka {{n}} av {{total}}",
-      "suggestions_teachers": "Föreslagen budgivning ingår i lärarverktygen."
+      "suggestions_teachers": "Föreslagen budgivning ingår i lärarverktygen.",
+      "add_boards": "Lägg till brickor",
+      "add_boards_hint": "Hitta en bricka och PBN-import lägger till brickor i samlingen. Vill du ha nya brickor? Spela ett scenario eller en givtyp och lägg sedan till dem från Hitta en bricka."
     },
     "add": {
       "title": "Lägg till i en samling",

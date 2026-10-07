@@ -3775,7 +3775,9 @@
       "auction_over": "Licytacja się zakończyła. Cofnij, aby ją zmienić.",
       "save_next": "Zapisz i dalej",
       "board_of": "Rozdanie {{n}} z {{total}}",
-      "suggestions_teachers": "Sugerowana licytacja jest częścią narzędzi dla nauczycieli."
+      "suggestions_teachers": "Sugerowana licytacja jest częścią narzędzi dla nauczycieli.",
+      "add_boards": "Dodaj rozdania",
+      "add_boards_hint": "Znajdź rozdanie i import PBN dodają rozdania do tego zestawu. Po nowe rozdania zagraj scenariusz albo typ rozdań, a potem dodaj je przez Znajdź rozdanie."
     },
     "add": {
       "title": "Dodaj do zestawu",

@@ -3773,7 +3773,9 @@
       "auction_over": "The auction is over. Undo to change it.",
       "save_next": "Save and next",
       "board_of": "Board {{n}} of {{total}}",
-      "suggestions_teachers": "Suggested auctions are part of teacher tools."
+      "suggestions_teachers": "Suggested auctions are part of teacher tools.",
+      "add_boards": "Add boards",
+      "add_boards_hint": "Find a deal and Import PBN add boards to this set. For new boards, play a scenario or a deal type, then add them from Find a deal."
     },
     "add": {
       "title": "Add to a set",

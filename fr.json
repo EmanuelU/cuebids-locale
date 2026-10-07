@@ -3773,7 +3773,9 @@
       "auction_over": "Les enchères sont terminées. Annulez pour les modifier.",
       "save_next": "Enregistrer et suivante",
       "board_of": "Donne {{n}} sur {{total}}",
-      "suggestions_teachers": "Les séquences suggérées font partie des outils pour enseignants."
+      "suggestions_teachers": "Les séquences suggérées font partie des outils pour enseignants.",
+      "add_boards": "Ajouter des donnes",
+      "add_boards_hint": "Trouver une donne et l’import PBN ajoutent des donnes à cette série. Pour de nouvelles donnes, jouez un scénario ou un thème de donnes, puis ajoutez-les depuis Trouver une donne."
     },
     "add": {
       "title": "Ajouter à une série",

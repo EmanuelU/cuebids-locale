@@ -3780,7 +3780,9 @@
       "auction_over": "叫牌已結束。復原即可修改。",
       "save_next": "儲存並下一副",
       "board_of": "第 {{n}} / {{total}} 副",
-      "suggestions_teachers": "建議叫牌屬於教師工具。"
+      "suggestions_teachers": "建議叫牌屬於教師工具。",
+      "add_boards": "新增牌",
+      "add_boards_hint": "「查找牌局」和 PBN 匯入可以把牌加入這個牌組。想要新牌，先打一個應用場景或牌型，再從「查找牌局」新增。"
     },
     "add": {
       "title": "加入牌組",

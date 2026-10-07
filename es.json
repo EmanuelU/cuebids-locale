@@ -3773,7 +3773,9 @@
       "auction_over": "La subasta ha terminado. Deshaz para cambiarla.",
       "save_next": "Guardar y siguiente",
       "board_of": "Mano {{n}} de {{total}}",
-      "suggestions_teachers": "Las subastas sugeridas forman parte de las herramientas para profesores."
+      "suggestions_teachers": "Las subastas sugeridas forman parte de las herramientas para profesores.",
+      "add_boards": "Añadir manos",
+      "add_boards_hint": "Encuentra una mano y la importación PBN añaden manos a esta serie. Para manos nuevas, juega un escenario o un tipo de manos y luego añádelas desde Encuentra una mano."
     },
     "add": {
       "title": "Añadir a una serie",
