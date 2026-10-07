@@ -3775,7 +3775,10 @@
       "board_of": "Bricka {{n}} av {{total}}",
       "suggestions_teachers": "Föreslagen budgivning ingår i lärarverktygen.",
       "add_boards": "Lägg till brickor",
-      "add_boards_hint": "Hitta en bricka och PBN-import lägger till brickor i samlingen. Vill du ha nya brickor? Spela ett scenario eller en givtyp och lägg sedan till dem från Hitta en bricka."
+      "add_boards_hint": "Hitta en bricka och PBN-import lägger till brickor i samlingen. Vill du ha nya brickor? Spela ett scenario eller en givtyp och lägg sedan till dem från Hitta en bricka.",
+      "show_scoring": "Visa poäng",
+      "show_more": "Visa fler",
+      "show_fewer": "Visa färre"
     },
     "add": {
       "title": "Lägg till i en samling",

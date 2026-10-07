@@ -3775,7 +3775,10 @@
       "board_of": "Donne {{n}} sur {{total}}",
       "suggestions_teachers": "Les séquences suggérées font partie des outils pour enseignants.",
       "add_boards": "Ajouter des donnes",
-      "add_boards_hint": "Trouver une donne et l’import PBN ajoutent des donnes à cette série. Pour de nouvelles donnes, jouez un scénario ou un thème de donnes, puis ajoutez-les depuis Trouver une donne."
+      "add_boards_hint": "Trouver une donne et l’import PBN ajoutent des donnes à cette série. Pour de nouvelles donnes, jouez un scénario ou un thème de donnes, puis ajoutez-les depuis Trouver une donne.",
+      "show_scoring": "Afficher les scores",
+      "show_more": "Afficher plus",
+      "show_fewer": "Afficher moins"
     },
     "add": {
       "title": "Ajouter à une série",

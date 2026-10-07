@@ -3777,7 +3777,10 @@
       "board_of": "Rozdanie {{n}} z {{total}}",
       "suggestions_teachers": "Sugerowana licytacja jest częścią narzędzi dla nauczycieli.",
       "add_boards": "Dodaj rozdania",
-      "add_boards_hint": "Znajdź rozdanie i import PBN dodają rozdania do tego zestawu. Po nowe rozdania zagraj scenariusz albo typ rozdań, a potem dodaj je przez Znajdź rozdanie."
+      "add_boards_hint": "Znajdź rozdanie i import PBN dodają rozdania do tego zestawu. Po nowe rozdania zagraj scenariusz albo typ rozdań, a potem dodaj je przez Znajdź rozdanie.",
+      "show_scoring": "Pokaż punktację",
+      "show_more": "Pokaż więcej",
+      "show_fewer": "Pokaż mniej"
     },
     "add": {
       "title": "Dodaj do zestawu",
