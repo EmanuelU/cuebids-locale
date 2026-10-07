@@ -3828,5 +3828,8 @@
     "has_text": "Crea un grupo para tu clase y luego crea series y organiza eventos de clase con ellas.",
     "create_group": "Crear un grupo de clase",
     "error": "No se pudo enviar la solicitud. Inténtalo de nuevo."
+  },
+  "pbn": {
+    "skipped": "Algunas manos no se pudieron leer y se dejaron fuera: {{boards}}."
   }
 }

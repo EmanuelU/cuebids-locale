@@ -3828,5 +3828,8 @@
     "has_text": "Skapa en grupp för din klass, bygg samlingar och kör klassevent från dem.",
     "create_group": "Skapa en klassgrupp",
     "error": "Förfrågan kunde inte skickas. Försök igen."
+  },
+  "pbn": {
+    "skipped": "Några brickor kunde inte läsas och togs inte med: {{boards}}."
   }
 }

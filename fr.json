@@ -3828,5 +3828,8 @@
     "has_text": "Créez un groupe pour votre classe, puis des séries et des tournois de classe à partir d’elles.",
     "create_group": "Créer un groupe de classe",
     "error": "La demande n’a pas pu être envoyée. Réessayez."
+  },
+  "pbn": {
+    "skipped": "Certaines donnes n’ont pas pu être lues et ont été laissées de côté : {{boards}}."
   }
 }

@@ -3828,5 +3828,8 @@
     "has_text": "Create a group for your class, then build sets and run class events from them.",
     "create_group": "Create a class group",
     "error": "The request could not be sent. Try again."
+  },
+  "pbn": {
+    "skipped": "Some boards could not be read and were left out: {{boards}}."
   }
 }

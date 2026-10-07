@@ -3830,5 +3830,8 @@
     "has_text": "Utwórz grupę dla swojej klasy, a potem twórz zestawy i prowadź na ich podstawie wydarzenia klasowe.",
     "create_group": "Utwórz grupę klasową",
     "error": "Nie udało się wysłać prośby. Spróbuj ponownie."
+  },
+  "pbn": {
+    "skipped": "Niektórych rozdań nie udało się odczytać i zostały pominięte: {{boards}}."
   }
 }
