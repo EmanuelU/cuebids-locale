@@ -3818,6 +3818,20 @@
       "error": "Nie udało się zaimportować rozdań. Spróbuj ponownie.",
       "invalid_deal": "Nie udało się zaimportować rozdania {{n}}. Sprawdź układ, rozdającego i założenia.",
       "too_big": "Ten plik jest za duży. Można zaimportować plik PBN do 1 MB."
+    },
+    "flashcards": {
+      "open": "Fiszki",
+      "question": "Co licytujesz?",
+      "reveal": "Pokaż odpowiedź",
+      "knew": "Umiem",
+      "missed": "Nie umiem",
+      "left": "Pozostało kart: {{n}}",
+      "done": "Gotowe. Umiesz {{knew}} z {{total}}. Karty, których nie umiesz, wrócą szybciej.",
+      "nothing_due": "Na razie nic do powtórki.",
+      "next_due": "Kolejne karty: {{date}}.",
+      "study_all": "Przejrzyj wszystkie karty",
+      "empty": "Brak kart. Dodaj sugerowaną licytację do rozdania, a jej odzywki staną się kartami.",
+      "back": "Wróć do zestawu"
     }
   },
   "teach": {

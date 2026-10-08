@@ -3816,6 +3816,20 @@
       "error": "No se pudieron importar las manos. Inténtalo de nuevo.",
       "invalid_deal": "No se pudo importar la mano {{n}}. Revisa el reparto, el repartidor y la vulnerabilidad.",
       "too_big": "Ese archivo es demasiado grande. Se puede importar un PBN de hasta 1 MB."
+    },
+    "flashcards": {
+      "open": "Tarjetas",
+      "question": "¿Qué cantas?",
+      "reveal": "Ver la respuesta",
+      "knew": "Lo sabía",
+      "missed": "No lo sabía",
+      "left": "Tarjetas restantes: {{n}}",
+      "done": "Listo. Sabías {{knew}} de {{total}}. Las que fallaste vuelven antes.",
+      "nothing_due": "Nada que repasar ahora.",
+      "next_due": "Próximas tarjetas: {{date}}.",
+      "study_all": "Repasar todas las tarjetas",
+      "empty": "Aún no hay tarjetas. Añade una subasta sugerida a una mano y sus voces se convierten en tarjetas.",
+      "back": "Volver a la serie"
     }
   },
   "teach": {

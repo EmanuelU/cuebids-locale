@@ -3816,6 +3816,20 @@
       "error": "Could not import the boards. Try again.",
       "invalid_deal": "Board {{n}} could not be imported. Check its deal, dealer and vulnerability.",
       "too_big": "That file is too large. A PBN of up to 1 MB can be imported."
+    },
+    "flashcards": {
+      "open": "Flashcards",
+      "question": "What do you bid?",
+      "reveal": "Show answer",
+      "knew": "Knew it",
+      "missed": "Didn't know",
+      "left": "Cards left: {{n}}",
+      "done": "Done. You knew {{knew}} of {{total}}. Cards you missed come back sooner.",
+      "nothing_due": "Nothing to review right now.",
+      "next_due": "Next cards due {{date}}.",
+      "study_all": "Study all cards",
+      "empty": "No cards yet. Add a suggested auction to a board and its calls become cards.",
+      "back": "Back to the set"
     }
   },
   "teach": {

@@ -3816,6 +3816,20 @@
       "error": "Det gick inte att importera brickorna. Försök igen.",
       "invalid_deal": "Bricka {{n}} kunde inte importeras. Kontrollera korten, given och zonen.",
       "too_big": "Filen är för stor. En PBN-fil på upp till 1 MB kan importeras."
+    },
+    "flashcards": {
+      "open": "Frågekort",
+      "question": "Vad bjuder du?",
+      "reveal": "Visa svaret",
+      "knew": "Kunde det",
+      "missed": "Kunde inte",
+      "left": "Kort kvar: {{n}}",
+      "done": "Klart. Du kunde {{knew}} av {{total}}. Kort du missade kommer tillbaka tidigare.",
+      "nothing_due": "Inga kort att repetera just nu.",
+      "next_due": "Nästa kort {{date}}.",
+      "study_all": "Öva på alla kort",
+      "empty": "Inga kort ännu. Lägg till en föreslagen budgivning på en bricka så blir dess bud kort.",
+      "back": "Tillbaka till samlingen"
     }
   },
   "teach": {

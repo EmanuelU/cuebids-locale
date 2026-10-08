@@ -3816,6 +3816,20 @@
       "error": "Impossible d’importer les donnes. Réessayez.",
       "invalid_deal": "La donne {{n}} n’a pas pu être importée. Vérifiez la distribution, le donneur et la vulnérabilité.",
       "too_big": "Ce fichier est trop volumineux. Un PBN de 1 Mo au plus peut être importé."
+    },
+    "flashcards": {
+      "open": "Cartes mémo",
+      "question": "Qu’annoncez-vous ?",
+      "reveal": "Voir la réponse",
+      "knew": "Je savais",
+      "missed": "Je ne savais pas",
+      "left": "Cartes restantes : {{n}}",
+      "done": "Terminé. Vous saviez {{knew}} sur {{total}}. Les cartes manquées reviendront plus tôt.",
+      "nothing_due": "Rien à réviser pour l’instant.",
+      "next_due": "Prochaines cartes le {{date}}.",
+      "study_all": "Réviser toutes les cartes",
+      "empty": "Pas encore de cartes. Ajoutez une séquence suggérée à une donne : ses enchères deviennent des cartes.",
+      "back": "Retour à la série"
     }
   },
   "teach": {
