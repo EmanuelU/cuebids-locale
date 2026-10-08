@@ -3733,7 +3733,9 @@
       "empty": "Guarda una mano desde su resultado, o añade resultados de búsqueda a una serie, y aparecerá aquí.",
       "import_title": "Importar PBN",
       "teach_title": "Enseñar",
-      "decks_title": "Tarjetas y cuestionarios"
+      "decks_title": "Tarjetas y cuestionarios",
+      "teaching": "Enseñanza",
+      "teach_card": "Enseña con Cuebids: lecciones, tarjetas y eventos de clase, gratis para profesores."
     },
     "sets": {
       "new_placeholder": "Nombra una serie nueva",

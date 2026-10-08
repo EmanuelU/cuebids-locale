@@ -3733,7 +3733,9 @@
       "empty": "Spara en bricka från resultatet, eller lägg sökresultat i en samling, så hamnar den här.",
       "import_title": "Importera PBN",
       "teach_title": "Undervisa",
-      "decks_title": "Frågekort & quiz"
+      "decks_title": "Frågekort & quiz",
+      "teaching": "Undervisning",
+      "teach_card": "Lär ut med Cuebids: lektioner, frågekort och klassevent, gratis för lärare."
     },
     "sets": {
       "new_placeholder": "Namnge en ny samling",

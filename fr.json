@@ -3733,7 +3733,9 @@
       "empty": "Enregistrez une donne depuis son résultat, ou ajoutez des résultats de recherche à une série, et elle apparaît ici.",
       "import_title": "Importer un PBN",
       "teach_title": "Enseigner",
-      "decks_title": "Cartes mémo et quiz"
+      "decks_title": "Cartes mémo et quiz",
+      "teaching": "Enseignement",
+      "teach_card": "Enseigner avec Cuebids : leçons, cartes mémo et tournois de classe, gratuits pour les enseignants."
     },
     "sets": {
       "new_placeholder": "Nommer une nouvelle série",

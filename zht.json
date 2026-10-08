@@ -3740,7 +3740,9 @@
       "empty": "在牌局結果頁儲存一副牌，或把搜尋結果加入牌組，它就會出現在這裡。",
       "import_title": "匯入 PBN",
       "teach_title": "教學",
-      "decks_title": "閃卡和測驗"
+      "decks_title": "閃卡和測驗",
+      "teaching": "教學",
+      "teach_card": "用 Cuebids 教學：課程、閃卡和班級賽事，教師免費使用。"
     },
     "sets": {
       "new_placeholder": "為新牌組命名",

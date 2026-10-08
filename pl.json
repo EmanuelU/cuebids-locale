@@ -3735,7 +3735,9 @@
       "empty": "Zapisz rozdanie z jego wyniku albo dodaj wyniki wyszukiwania do zestawu, a pojawi się tutaj.",
       "import_title": "Importuj PBN",
       "teach_title": "Ucz",
-      "decks_title": "Fiszki i quizy"
+      "decks_title": "Fiszki i quizy",
+      "teaching": "Nauczanie",
+      "teach_card": "Ucz z Cuebids: lekcje, fiszki i wydarzenia klasowe, bezpłatnie dla nauczycieli."
     },
     "sets": {
       "new_placeholder": "Nazwij nowy zestaw",

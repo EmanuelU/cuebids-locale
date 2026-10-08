@@ -3733,7 +3733,9 @@
       "empty": "Save a board from its result, or add search results to a set, and it shows up here.",
       "import_title": "Import PBN",
       "teach_title": "Teach",
-      "decks_title": "Flashcards & quizzes"
+      "decks_title": "Flashcards & quizzes",
+      "teaching": "Teaching",
+      "teach_card": "Teach with Cuebids: lessons, flashcards and class events, free for teachers."
     },
     "sets": {
       "new_placeholder": "Name a new set",
