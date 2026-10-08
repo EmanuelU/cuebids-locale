@@ -1974,7 +1974,27 @@
     "error_free_weekly_spent": "您本週已經創建了一個免費練習",
     "error_cannot_create_free_event": "無法創建免費練習",
     "error_cannot_replace_played_deal": "已有配對打過這副牌時，不能替換。",
-    "error_cannot_rotate_played_deal": "當某些配對已經玩過時，無法輪換髮牌。"
+    "error_cannot_rotate_played_deal": "當某些配對已經玩過時，無法輪換髮牌。",
+    "tab_lessons": "課程",
+    "lessons": {
+      "none": "還沒有與本群組分享的課程。",
+      "none_teacher": "從你的資料庫分享一節課，班級就能在這裡學習。",
+      "step_count": "步驟：{{n}}",
+      "open": "開啟",
+      "present": "簡報",
+      "results": "結果",
+      "stop_sharing": "停止分享",
+      "add": "分享課程",
+      "make_lesson": "請先在資料庫中建立課程",
+      "pick": "選擇課程",
+      "share": "分享",
+      "share_hint": "成員在這裡開啟課程，按自己的節奏學習。閱讀免費；練習照常消耗門票。",
+      "no_students": "本群組還沒有學生。",
+      "student": "學生",
+      "progress": "進度",
+      "quiz": "測驗",
+      "error": "出錯了，請重試。"
+    }
   },
   "share": {
     "navigate_with_buttons_info": "通過箭頭在叫牌中導航"
@@ -4009,7 +4029,8 @@
       "previous_card": "上一張",
       "next_card": "下一張",
       "practice_text": "現在和搭檔或 Lia 一起叫幾副類似的牌。",
-      "start_practice": "練習"
+      "start_practice": "練習",
+      "practice_set_class": "你的老師會把這個牌組作為群組賽事和班級一起打。"
     }
   },
   "teach": {

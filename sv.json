@@ -1973,7 +1973,27 @@
     "error_free_weekly_spent": "Du har redan skapat ett gratisevent den här veckan",
     "error_cannot_create_free_event": "Kan inte skapa gratisevent",
     "error_cannot_replace_played_deal": "Kan inte ersätta given när några par redan har spelat den.",
-    "error_cannot_rotate_played_deal": "Kan inte rotera given när några par redan har spelat den."
+    "error_cannot_rotate_played_deal": "Kan inte rotera given när några par redan har spelat den.",
+    "tab_lessons": "Lektioner",
+    "lessons": {
+      "none": "Inga lektioner delade med gruppen ännu.",
+      "none_teacher": "Dela en lektion från ditt bibliotek så kan klassen gå igenom den här.",
+      "step_count": "Steg: {{n}}",
+      "open": "Öppna",
+      "present": "Visa",
+      "results": "Resultat",
+      "stop_sharing": "Sluta dela",
+      "add": "Dela en lektion",
+      "make_lesson": "Gör först en lektion i ditt bibliotek",
+      "pick": "Välj en lektion",
+      "share": "Dela",
+      "share_hint": "Medlemmarna öppnar den här och går igenom den i egen takt. Att läsa är gratis; övning kostar biljetter som vanligt.",
+      "no_students": "Inga elever i gruppen ännu.",
+      "student": "Elev",
+      "progress": "Framsteg",
+      "quiz": "Quiz",
+      "error": "Något gick fel. Försök igen."
+    }
   },
   "share": {
     "navigate_with_buttons_info": "Bläddra i budgivningen med pilarna"
@@ -4002,7 +4022,8 @@
       "previous_card": "Föregående kort",
       "next_card": "Nästa kort",
       "practice_text": "Bjud nu några brickor som dessa, med en partner eller med Lia.",
-      "start_practice": "Öva"
+      "start_practice": "Öva",
+      "practice_set_class": "Din lärare spelar den här samlingen med klassen som ett gruppevent."
     }
   },
   "teach": {

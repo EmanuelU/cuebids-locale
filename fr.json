@@ -1973,7 +1973,27 @@
     "error_free_weekly_spent": "Vous avez déjà créé un tournoi gratuit cette semaine",
     "error_cannot_create_free_event": "Impossible de créer un tournoi gratuit",
     "error_cannot_replace_played_deal": "Impossible de remplacer la donne lorsque certaines paires l’ont déjà jouée.",
-    "error_cannot_rotate_played_deal": "Impossible de faire tourner la donne lorsque certaines paires l’ont déjà jouée."
+    "error_cannot_rotate_played_deal": "Impossible de faire tourner la donne lorsque certaines paires l’ont déjà jouée.",
+    "tab_lessons": "Leçons",
+    "lessons": {
+      "none": "Aucune leçon partagée avec ce groupe pour l’instant.",
+      "none_teacher": "Partagez une leçon de votre bibliothèque et votre classe pourra la suivre ici.",
+      "step_count": "Étapes : {{n}}",
+      "open": "Ouvrir",
+      "present": "Présenter",
+      "results": "Résultats",
+      "stop_sharing": "Ne plus partager",
+      "add": "Partager une leçon",
+      "make_lesson": "Créez d’abord une leçon dans votre bibliothèque",
+      "pick": "Choisissez une leçon",
+      "share": "Partager",
+      "share_hint": "Les membres l’ouvrent ici et la suivent à leur rythme. La lecture est gratuite ; la pratique coûte des tickets comme d’habitude.",
+      "no_students": "Pas encore d’élèves dans ce groupe.",
+      "student": "Élève",
+      "progress": "Progression",
+      "quiz": "Quiz",
+      "error": "Un problème est survenu. Réessayez."
+    }
   },
   "share": {
     "navigate_with_buttons_info": "Naviguez dans les enchères avec les flèches"
@@ -4002,7 +4022,8 @@
       "previous_card": "Carte précédente",
       "next_card": "Carte suivante",
       "practice_text": "Enchérissez maintenant quelques donnes de ce type, avec un partenaire ou avec Lia.",
-      "start_practice": "S’entraîner"
+      "start_practice": "S’entraîner",
+      "practice_set_class": "Votre enseignant joue cette série avec la classe en tournoi de groupe."
     }
   },
   "teach": {

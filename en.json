@@ -1973,7 +1973,27 @@
     "error_free_weekly_spent": "You have already created a free event this week",
     "error_cannot_create_free_event": "Cannot create free event",
     "error_cannot_replace_played_deal": "Cannot replace deal when some pairs have played it.",
-    "error_cannot_rotate_played_deal": "Cannot rotate deal when some pairs have played it."
+    "error_cannot_rotate_played_deal": "Cannot rotate deal when some pairs have played it.",
+    "tab_lessons": "Lessons",
+    "lessons": {
+      "none": "No lessons shared with this group yet.",
+      "none_teacher": "Share a lesson from your Library and your class can work through it here.",
+      "step_count": "Steps: {{n}}",
+      "open": "Open",
+      "present": "Present",
+      "results": "Results",
+      "stop_sharing": "Stop sharing",
+      "add": "Share a lesson",
+      "make_lesson": "Make a lesson in your Library first",
+      "pick": "Pick a lesson",
+      "share": "Share",
+      "share_hint": "Members open it here and work through it at their own pace. Reading is free; practice costs tickets as usual.",
+      "no_students": "No students in this group yet.",
+      "student": "Student",
+      "progress": "Progress",
+      "quiz": "Quiz",
+      "error": "Something went wrong. Try again."
+    }
   },
   "share": {
     "navigate_with_buttons_info": "Navigate in the bidding via arrows"
@@ -4002,7 +4022,8 @@
       "previous_card": "Previous card",
       "next_card": "Next card",
       "practice_text": "Now bid some boards like these, with a partner or with Lia.",
-      "start_practice": "Practice"
+      "start_practice": "Practice",
+      "practice_set_class": "Your teacher plays this set with the class as a group event."
     }
   },
   "teach": {

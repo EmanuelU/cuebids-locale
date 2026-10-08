@@ -1975,7 +1975,27 @@
     "error_free_weekly_spent": "Już utworzyłeś darmowe wydarzenie w tym tygodniu",
     "error_cannot_create_free_event": "Nie można utworzyć darmowego wydarzenia",
     "error_cannot_replace_played_deal": "Nie można zamienić rozdania, gdy niektóre pary już je rozegrały.",
-    "error_cannot_rotate_played_deal": "Nie można obrócić rozdania, jeśli niektóre pary już je rozegrały."
+    "error_cannot_rotate_played_deal": "Nie można obrócić rozdania, jeśli niektóre pary już je rozegrały.",
+    "tab_lessons": "Lekcje",
+    "lessons": {
+      "none": "Brak lekcji udostępnionych tej grupie.",
+      "none_teacher": "Udostępnij lekcję ze swojej biblioteki, a klasa przejdzie ją tutaj.",
+      "step_count": "Kroki: {{n}}",
+      "open": "Otwórz",
+      "present": "Prezentuj",
+      "results": "Wyniki",
+      "stop_sharing": "Przestań udostępniać",
+      "add": "Udostępnij lekcję",
+      "make_lesson": "Najpierw utwórz lekcję w bibliotece",
+      "pick": "Wybierz lekcję",
+      "share": "Udostępnij",
+      "share_hint": "Członkowie otwierają ją tutaj i przechodzą ją we własnym tempie. Czytanie jest bezpłatne; praktyka kosztuje bilety jak zwykle.",
+      "no_students": "Brak uczniów w tej grupie.",
+      "student": "Uczeń",
+      "progress": "Postęp",
+      "quiz": "Quiz",
+      "error": "Coś poszło nie tak. Spróbuj ponownie."
+    }
   },
   "share": {
     "navigate_with_buttons_info": "Nawiguj licytację za pomocą strzałek"
@@ -4004,7 +4024,8 @@
       "previous_card": "Poprzednia karta",
       "next_card": "Następna karta",
       "practice_text": "Teraz zalicytuj kilka podobnych rozdań, z partnerem albo z Lią.",
-      "start_practice": "Ćwicz"
+      "start_practice": "Ćwicz",
+      "practice_set_class": "Twój nauczyciel rozgrywa ten zestaw z klasą jako wydarzenie grupowe."
     }
   },
   "teach": {

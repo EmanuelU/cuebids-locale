@@ -1973,7 +1973,27 @@
     "error_free_weekly_spent": "Ya has creado un evento gratuito esta semana",
     "error_cannot_create_free_event": "No se puede crear un evento gratuito.",
     "error_cannot_replace_played_deal": "No se puede reemplazar la mano cuando algunas parejas ya la han jugado.",
-    "error_cannot_rotate_played_deal": "No se puede girar la mano cuando algunas parejas ya la han jugado."
+    "error_cannot_rotate_played_deal": "No se puede girar la mano cuando algunas parejas ya la han jugado.",
+    "tab_lessons": "Lecciones",
+    "lessons": {
+      "none": "Aún no hay lecciones compartidas con este grupo.",
+      "none_teacher": "Comparte una lección de tu biblioteca y tu clase podrá seguirla aquí.",
+      "step_count": "Pasos: {{n}}",
+      "open": "Abrir",
+      "present": "Presentar",
+      "results": "Resultados",
+      "stop_sharing": "Dejar de compartir",
+      "add": "Compartir una lección",
+      "make_lesson": "Primero crea una lección en tu biblioteca",
+      "pick": "Elige una lección",
+      "share": "Compartir",
+      "share_hint": "Los miembros la abren aquí y la siguen a su ritmo. Leer es gratis; la práctica cuesta tickets como siempre.",
+      "no_students": "Aún no hay alumnos en este grupo.",
+      "student": "Alumno",
+      "progress": "Progreso",
+      "quiz": "Cuestionario",
+      "error": "Algo salió mal. Inténtalo de nuevo."
+    }
   },
   "share": {
     "navigate_with_buttons_info": "Navega por la subasta con las flechas"
@@ -4002,7 +4022,8 @@
       "previous_card": "Tarjeta anterior",
       "next_card": "Tarjeta siguiente",
       "practice_text": "Ahora subasta unas manos como estas, con un compañero o con Lia.",
-      "start_practice": "Practicar"
+      "start_practice": "Practicar",
+      "practice_set_class": "Tu profesor juega esta serie con la clase como evento de grupo."
     }
   },
   "teach": {
