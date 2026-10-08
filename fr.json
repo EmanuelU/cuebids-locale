@@ -4001,7 +4001,7 @@
       "invalid_auction": "Ce ne sont pas des enchères.",
       "invalid_answer": "Écrivez la réponse.",
       "insert": "Insérer",
-      "slide_placeholder": "Écrivez la diapositive. Une ligne commençant par # est un titre ; - commence une liste.",
+      "slide_placeholder": "Écrivez la diapositive : # titre, ## sous-titre, **gras**, > citation, - liste. Les enchères comme 1NT ou 2H s’affichent avec leurs couleurs.",
       "done": "Terminé",
       "cancel": "Annuler",
       "pick_deck": "Choisissez un paquet",
@@ -4023,7 +4023,12 @@
       "next_card": "Carte suivante",
       "practice_text": "Enchérissez maintenant quelques donnes de ce type, avec un partenaire ou avec Lia.",
       "start_practice": "S’entraîner",
-      "practice_set_class": "Votre enseignant joue cette série avec la classe en tournoi de groupe."
+      "practice_set_class": "Votre enseignant joue cette série avec la classe en tournoi de groupe.",
+      "format_bold": "Gras",
+      "format_heading": "Titre",
+      "format_subheading": "Sous-titre",
+      "format_quote": "Citation",
+      "format_divider": "Séparateur"
     }
   },
   "teach": {

@@ -4001,7 +4001,7 @@
       "invalid_auction": "Det är ingen budgivning.",
       "invalid_answer": "Skriv svaret.",
       "insert": "Infoga",
-      "slide_placeholder": "Skriv sidan. En rad som börjar med # är en rubrik; - börjar en lista.",
+      "slide_placeholder": "Skriv sidan: # rubrik, ## underrubrik, **fetstil**, > citat, - lista. Bud som 1NT eller 2H visas med färgsymboler.",
       "done": "Klar",
       "cancel": "Avbryt",
       "pick_deck": "Välj en kortlek",
@@ -4023,7 +4023,12 @@
       "next_card": "Nästa kort",
       "practice_text": "Bjud nu några brickor som dessa, med en partner eller med Lia.",
       "start_practice": "Öva",
-      "practice_set_class": "Din lärare spelar den här samlingen med klassen som ett gruppevent."
+      "practice_set_class": "Din lärare spelar den här samlingen med klassen som ett gruppevent.",
+      "format_bold": "Fetstil",
+      "format_heading": "Rubrik",
+      "format_subheading": "Underrubrik",
+      "format_quote": "Citat",
+      "format_divider": "Avdelare"
     }
   },
   "teach": {

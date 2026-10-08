@@ -4001,7 +4001,7 @@
       "invalid_auction": "No es una subasta.",
       "invalid_answer": "Escribe la respuesta.",
       "insert": "Insertar",
-      "slide_placeholder": "Escribe la diapositiva. Una línea que empieza con # es un título; - empieza una lista.",
+      "slide_placeholder": "Escribe la diapositiva: # título, ## subtítulo, **negrita**, > cita, - lista. Las voces como 1NT o 2H se muestran con su palo.",
       "done": "Hecho",
       "cancel": "Cancelar",
       "pick_deck": "Elige un mazo",
@@ -4023,7 +4023,12 @@
       "next_card": "Tarjeta siguiente",
       "practice_text": "Ahora subasta unas manos como estas, con un compañero o con Lia.",
       "start_practice": "Practicar",
-      "practice_set_class": "Tu profesor juega esta serie con la clase como evento de grupo."
+      "practice_set_class": "Tu profesor juega esta serie con la clase como evento de grupo.",
+      "format_bold": "Negrita",
+      "format_heading": "Título",
+      "format_subheading": "Subtítulo",
+      "format_quote": "Cita",
+      "format_divider": "Separador"
     }
   },
   "teach": {

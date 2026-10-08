@@ -4008,7 +4008,7 @@
       "invalid_auction": "這不是叫牌過程。",
       "invalid_answer": "請填寫答案。",
       "insert": "插入",
-      "slide_placeholder": "撰寫投影片。以 # 開頭的行是標題；- 開始一個清單。",
+      "slide_placeholder": "撰寫投影片：# 標題，## 副標題，**粗體**，> 引用，- 清單。像 1NT 或 2H 這樣的叫品會顯示花色符號。",
       "done": "完成",
       "cancel": "取消",
       "pick_deck": "選擇卡組",
@@ -4030,7 +4030,12 @@
       "next_card": "下一張",
       "practice_text": "現在和搭檔或 Lia 一起叫幾副類似的牌。",
       "start_practice": "練習",
-      "practice_set_class": "你的老師會把這個牌組作為群組賽事和班級一起打。"
+      "practice_set_class": "你的老師會把這個牌組作為群組賽事和班級一起打。",
+      "format_bold": "粗體",
+      "format_heading": "標題",
+      "format_subheading": "副標題",
+      "format_quote": "引用",
+      "format_divider": "分隔線"
     }
   },
   "teach": {

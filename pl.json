@@ -4003,7 +4003,7 @@
       "invalid_auction": "To nie jest licytacja.",
       "invalid_answer": "Wpisz odpowiedź.",
       "insert": "Wstaw",
-      "slide_placeholder": "Napisz slajd. Wiersz zaczynający się od # to nagłówek; - zaczyna listę.",
+      "slide_placeholder": "Napisz slajd: # nagłówek, ## podtytuł, **pogrubienie**, > cytat, - lista. Odzywki jak 1NT czy 2H pokazują symbole kolorów.",
       "done": "Gotowe",
       "cancel": "Anuluj",
       "pick_deck": "Wybierz talię",
@@ -4025,7 +4025,12 @@
       "next_card": "Następna karta",
       "practice_text": "Teraz zalicytuj kilka podobnych rozdań, z partnerem albo z Lią.",
       "start_practice": "Ćwicz",
-      "practice_set_class": "Twój nauczyciel rozgrywa ten zestaw z klasą jako wydarzenie grupowe."
+      "practice_set_class": "Twój nauczyciel rozgrywa ten zestaw z klasą jako wydarzenie grupowe.",
+      "format_bold": "Pogrubienie",
+      "format_heading": "Nagłówek",
+      "format_subheading": "Podtytuł",
+      "format_quote": "Cytat",
+      "format_divider": "Separator"
     }
   },
   "teach": {
