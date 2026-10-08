@@ -4028,7 +4028,11 @@
       "format_heading": "Título",
       "format_subheading": "Subtítulo",
       "format_quote": "Cita",
-      "format_divider": "Separador"
+      "format_divider": "Separador",
+      "callout_tip": "Consejo",
+      "callout_note": "Nota",
+      "callout_warning": "Cuidado",
+      "example_label": "Ejemplo"
     }
   },
   "teach": {

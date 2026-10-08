@@ -4030,7 +4030,11 @@
       "format_heading": "Nagłówek",
       "format_subheading": "Podtytuł",
       "format_quote": "Cytat",
-      "format_divider": "Separator"
+      "format_divider": "Separator",
+      "callout_tip": "Wskazówka",
+      "callout_note": "Uwaga",
+      "callout_warning": "Ostrożnie",
+      "example_label": "Przykład"
     }
   },
   "teach": {

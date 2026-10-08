@@ -4035,7 +4035,11 @@
       "format_heading": "标题",
       "format_subheading": "副标题",
       "format_quote": "引用",
-      "format_divider": "分隔线"
+      "format_divider": "分隔线",
+      "callout_tip": "提示",
+      "callout_note": "注意",
+      "callout_warning": "小心",
+      "example_label": "示例"
     }
   },
   "teach": {

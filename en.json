@@ -4028,7 +4028,11 @@
       "format_heading": "Heading",
       "format_subheading": "Subheading",
       "format_quote": "Quote",
-      "format_divider": "Divider"
+      "format_divider": "Divider",
+      "callout_tip": "Tip",
+      "callout_note": "Note",
+      "callout_warning": "Watch out",
+      "example_label": "Example"
     }
   },
   "teach": {

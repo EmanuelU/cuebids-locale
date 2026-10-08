@@ -4028,7 +4028,11 @@
       "format_heading": "Rubrik",
       "format_subheading": "Underrubrik",
       "format_quote": "Citat",
-      "format_divider": "Avdelare"
+      "format_divider": "Avdelare",
+      "callout_tip": "Tips",
+      "callout_note": "Obs",
+      "callout_warning": "Se upp",
+      "example_label": "Exempel"
     }
   },
   "teach": {
