@@ -3286,14 +3286,19 @@
   "code": {
     "code_claimed": "Kod inlöst!",
     "error_claim": "Något gick fel med att lösa in koden",
+    "error_not_found": "Koden finns ej",
+    "error_not_claimable": "Koden kan inte lösas in här",
+    "error_not_active": "Koden är inte aktiv än",
+    "error_expired": "Koden har löpt ut",
+    "error_already_claimed": "Koden är redan inlöst",
+    "error_user_already_claimed": "Du har redan löst in den här koden. Kolla din inbox!",
+    "error_not_new_user": "Inbjudningskoder gäller bara nya spelare",
+    "error_already_referred": "Du kan bara använda en inbjudningskod.",
     "title": "Lös in kod",
     "code_input_label": "Skriv koden här:",
     "code_input_placeholder": "KOD HÄR",
     "claim_submit_button": "LÖS IN",
-    "claim_successful_info": "Kolla din inbox",
-    "Code not found.": "Koden finns ej",
-    "Code has expired.": "Koden har löpt ut",
-    "You can only claim a referral code once.": "Du kan bara använda en inbjudningskod."
+    "claim_successful_info": "Kolla din inbox"
   },
   "ccp": {
     "history": "Historik",

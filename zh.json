@@ -3287,20 +3287,19 @@
   "code": {
     "code_claimed": "代码已领取！",
     "error_claim": "领取代码时出错",
+    "error_not_found": "未找到代码",
+    "error_not_claimable": "此代码无法在这里领取",
+    "error_not_active": "此代码尚未生效",
+    "error_expired": "代码已过期",
+    "error_already_claimed": "此代码已被领取",
+    "error_user_already_claimed": "你已经领取过此代码，请查看你的收件箱！",
+    "error_not_new_user": "推荐代码仅限新玩家使用",
+    "error_already_referred": "每个推荐代码只能领取一次。",
     "title": "领取代码",
     "code_input_label": "在此输入代码：",
     "code_input_placeholder": "代码在这里",
     "claim_submit_button": "领取",
-    "claim_successful_info": "请查看你的收件箱",
-    "Code not found": {
-      "": "未找到代码"
-    },
-    "Code has expired": {
-      "": "代码已过期"
-    },
-    "You can only claim a referral code once": {
-      "": "每个推荐代码只能领取一次。"
-    }
+    "claim_successful_info": "请查看你的收件箱"
   },
   "ccp": {
     "history": "历史",

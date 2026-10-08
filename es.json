@@ -3286,14 +3286,19 @@
   "code": {
     "code_claimed": "¡Código canjeado!",
     "error_claim": "Error al canjear el código",
+    "error_not_found": "Código no encontrado",
+    "error_not_claimable": "Este código no se puede canjear aquí",
+    "error_not_active": "Este código aún no está activo",
+    "error_expired": "El código ha caducado",
+    "error_already_claimed": "Este código ya ha sido canjeado",
+    "error_user_already_claimed": "Ya has canjeado este código. ¡Revisa tu bandeja de entrada!",
+    "error_not_new_user": "Los códigos de recomendación son solo para jugadores nuevos",
+    "error_already_referred": "Solo puedes canjear un código de recomendación una vez.",
     "title": "Canjear código",
     "code_input_label": "Introduce el código aquí:",
     "code_input_placeholder": "CÓDIGO AQUÍ",
     "claim_submit_button": "CANJEAR",
-    "claim_successful_info": "Revisa tu bandeja de entrada",
-    "Code not found.": "Código no encontrado",
-    "Code has expired.": "El código ha caducado",
-    "You can only claim a referral code once.": "Solo puedes canjear un código de recomendación una vez."
+    "claim_successful_info": "Revisa tu bandeja de entrada"
   },
   "ccp": {
     "history": "Historial",

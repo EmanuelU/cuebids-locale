@@ -3286,14 +3286,19 @@
   "code": {
     "code_claimed": "Code validé !",
     "error_claim": "Erreur lors de la validation du code",
+    "error_not_found": "Code introuvable",
+    "error_not_claimable": "Ce code ne peut pas être utilisé ici",
+    "error_not_active": "Ce code n’est pas encore actif",
+    "error_expired": "Code expiré",
+    "error_already_claimed": "Ce code a déjà été utilisé",
+    "error_user_already_claimed": "Vous avez déjà utilisé ce code. Vérifiez votre boîte de réception !",
+    "error_not_new_user": "Les codes de parrainage sont réservés aux nouveaux joueurs",
+    "error_already_referred": "Vous ne pouvez utiliser un code de parrainage qu’une seule fois.",
     "title": "Utiliser un code",
     "code_input_label": "Saisissez le code ici :",
     "code_input_placeholder": "CODE ICI",
     "claim_submit_button": "VALIDER",
-    "claim_successful_info": "Vérifiez votre boîte de réception",
-    "Code not found.": "Code introuvable",
-    "Code has expired.": "Code expiré",
-    "You can only claim a referral code once.": "Vous ne pouvez utiliser un code de parrainage qu’une seule fois."
+    "claim_successful_info": "Vérifiez votre boîte de réception"
   },
   "ccp": {
     "history": "Historique",

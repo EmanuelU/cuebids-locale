@@ -3288,14 +3288,19 @@
   "code": {
     "code_claimed": "Kod odebrany!",
     "error_claim": "Błąd podczas odbierania kodu",
+    "error_not_found": "Nie znaleziono kodu",
+    "error_not_claimable": "Tego kodu nie można odebrać tutaj",
+    "error_not_active": "Ten kod nie jest jeszcze aktywny",
+    "error_expired": "Kod wygasł",
+    "error_already_claimed": "Ten kod został już odebrany",
+    "error_user_already_claimed": "Ten kod został już przez Ciebie odebrany. Sprawdź swoją skrzynkę odbiorczą!",
+    "error_not_new_user": "Kody polecające są tylko dla nowych graczy",
+    "error_already_referred": "Możesz odebrać kod polecający tylko raz.",
     "title": "Odbierz kod",
     "code_input_label": "Wpisz kod tutaj:",
     "code_input_placeholder": "---KOD---",
     "claim_submit_button": "ODBIERZ",
-    "claim_successful_info": "Sprawdź swoją skrzynkę odbiorczą",
-    "Code not found.": "Nie znaleziono kodu",
-    "Code has expired.": "Kod wygasł",
-    "You can only claim a referral code once.": "Możesz odebrać kod polecający tylko raz."
+    "claim_successful_info": "Sprawdź swoją skrzynkę odbiorczą"
   },
   "ccp": {
     "history": "Historia",

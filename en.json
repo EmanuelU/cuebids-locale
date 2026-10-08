@@ -3286,14 +3286,19 @@
   "code": {
     "code_claimed": "Code claimed!",
     "error_claim": "Error claiming code",
+    "error_not_found": "Code not found",
+    "error_not_claimable": "This code cannot be claimed here",
+    "error_not_active": "This code is not active yet",
+    "error_expired": "Code has expired",
+    "error_already_claimed": "This code has already been claimed",
+    "error_user_already_claimed": "You have already claimed this code. Check your inbox!",
+    "error_not_new_user": "Referral codes are for new players only",
+    "error_already_referred": "You can only claim a referral code once.",
     "title": "Claim Code",
     "code_input_label": "Enter code here:",
     "code_input_placeholder": "CODE HERE",
     "claim_submit_button": "CLAIM",
-    "claim_successful_info": "Check your inbox",
-    "Code not found.": "Code not found",
-    "Code has expired.": "Code has expired",
-    "You can only claim a referral code once.": "You can only claim a referral code once."
+    "claim_successful_info": "Check your inbox"
   },
   "ccp": {
     "history": "History",
