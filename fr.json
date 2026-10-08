@@ -3936,7 +3936,8 @@
       "invalid_invalid": "Cette carte ne peut pas être enregistrée. Vérifiez les champs.",
       "invalid_type": "Choisissez un type de carte.",
       "true": "Vrai",
-      "false": "Faux"
+      "false": "Faux",
+      "language_label": "Langue des cartes"
     },
     "quiz": {
       "score": "Vous avez {{score}} sur {{total}}.",
@@ -4032,7 +4033,8 @@
       "callout_tip": "Astuce",
       "callout_note": "Remarque",
       "callout_warning": "Attention",
-      "example_label": "Exemple"
+      "example_label": "Exemple",
+      "language_label": "Langue de la leçon"
     }
   },
   "teach": {

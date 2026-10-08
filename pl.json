@@ -3938,7 +3938,8 @@
       "invalid_invalid": "Nie można zapisać tej karty. Sprawdź pola.",
       "invalid_type": "Wybierz typ karty.",
       "true": "Prawda",
-      "false": "Fałsz"
+      "false": "Fałsz",
+      "language_label": "Język kart"
     },
     "quiz": {
       "score": "Twój wynik: {{score}} z {{total}}.",
@@ -4034,7 +4035,8 @@
       "callout_tip": "Wskazówka",
       "callout_note": "Uwaga",
       "callout_warning": "Ostrożnie",
-      "example_label": "Przykład"
+      "example_label": "Przykład",
+      "language_label": "Język lekcji"
     }
   },
   "teach": {

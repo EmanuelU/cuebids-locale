@@ -3943,7 +3943,8 @@
       "invalid_invalid": "无法保存这张卡片，请检查各项。",
       "invalid_type": "请选择卡片类型。",
       "true": "对",
-      "false": "错"
+      "false": "错",
+      "language_label": "卡片语言"
     },
     "quiz": {
       "score": "你的得分：{{score}} / {{total}}。",
@@ -4039,7 +4040,8 @@
       "callout_tip": "提示",
       "callout_note": "注意",
       "callout_warning": "小心",
-      "example_label": "示例"
+      "example_label": "示例",
+      "language_label": "课程语言"
     }
   },
   "teach": {

@@ -3936,7 +3936,8 @@
       "invalid_invalid": "No se puede guardar esta tarjeta. Revisa los campos.",
       "invalid_type": "Elige un tipo de tarjeta.",
       "true": "Verdadero",
-      "false": "Falso"
+      "false": "Falso",
+      "language_label": "Idioma de las tarjetas"
     },
     "quiz": {
       "score": "Has sacado {{score}} de {{total}}.",
@@ -4032,7 +4033,8 @@
       "callout_tip": "Consejo",
       "callout_note": "Nota",
       "callout_warning": "Cuidado",
-      "example_label": "Ejemplo"
+      "example_label": "Ejemplo",
+      "language_label": "Idioma de la lección"
     }
   },
   "teach": {

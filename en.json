@@ -3936,7 +3936,8 @@
       "invalid_invalid": "This card cannot be saved. Check the fields.",
       "invalid_type": "Pick a card type.",
       "true": "True",
-      "false": "False"
+      "false": "False",
+      "language_label": "Language of the cards"
     },
     "quiz": {
       "score": "You scored {{score}} of {{total}}.",
@@ -4032,7 +4033,8 @@
       "callout_tip": "Tip",
       "callout_note": "Note",
       "callout_warning": "Watch out",
-      "example_label": "Example"
+      "example_label": "Example",
+      "language_label": "Language of the lesson"
     }
   },
   "teach": {

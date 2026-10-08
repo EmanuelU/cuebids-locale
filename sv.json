@@ -3936,7 +3936,8 @@
       "invalid_invalid": "Kortet kan inte sparas. Kontrollera fälten.",
       "invalid_type": "Välj en korttyp.",
       "true": "Sant",
-      "false": "Falskt"
+      "false": "Falskt",
+      "language_label": "Kortens språk"
     },
     "quiz": {
       "score": "Du fick {{score}} av {{total}}.",
@@ -4032,7 +4033,8 @@
       "callout_tip": "Tips",
       "callout_note": "Obs",
       "callout_warning": "Se upp",
-      "example_label": "Exempel"
+      "example_label": "Exempel",
+      "language_label": "Lektionens språk"
     }
   },
   "teach": {
