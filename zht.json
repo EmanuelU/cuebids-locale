@@ -4049,7 +4049,10 @@
       "save_error": "無法儲存。請檢查網路連線；下次修改時會再次嘗試。",
       "back_to_lesson": "返回課程",
       "continue_lesson": "繼續課程",
-      "full_screen": "全螢幕"
+      "full_screen": "全螢幕",
+      "lesson_done": "你已完成這節課。",
+      "start_again": "重新開始",
+      "finish": "完成"
     }
   },
   "teach": {

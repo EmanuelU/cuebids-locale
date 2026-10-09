@@ -4042,7 +4042,10 @@
       "save_error": "No se pudo guardar. Revisa tu conexión; se intentará de nuevo con el próximo cambio.",
       "back_to_lesson": "Volver a la lección",
       "continue_lesson": "Continuar la lección",
-      "full_screen": "Pantalla completa"
+      "full_screen": "Pantalla completa",
+      "lesson_done": "Has terminado esta lección.",
+      "start_again": "Empezar de nuevo",
+      "finish": "Terminar"
     }
   },
   "teach": {

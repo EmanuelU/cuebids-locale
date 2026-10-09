@@ -4042,7 +4042,10 @@
       "save_error": "Kunde inte spara. Kontrollera anslutningen; det försöker igen när du ändrar något.",
       "back_to_lesson": "Tillbaka till lektionen",
       "continue_lesson": "Fortsätt lektionen",
-      "full_screen": "Helskärm"
+      "full_screen": "Helskärm",
+      "lesson_done": "Du har gått igenom lektionen.",
+      "start_again": "Börja om",
+      "finish": "Avsluta"
     }
   },
   "teach": {

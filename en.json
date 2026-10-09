@@ -4042,7 +4042,10 @@
       "save_error": "Could not save. Check your connection; it tries again when you change something.",
       "back_to_lesson": "Back to the lesson",
       "continue_lesson": "Continue the lesson",
-      "full_screen": "Full screen"
+      "full_screen": "Full screen",
+      "lesson_done": "You finished this lesson.",
+      "start_again": "Start again",
+      "finish": "Finish"
     }
   },
   "teach": {

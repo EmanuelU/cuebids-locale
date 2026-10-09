@@ -4042,7 +4042,10 @@
       "save_error": "Échec de l’enregistrement. Vérifiez votre connexion ; un nouvel essai a lieu à la prochaine modification.",
       "back_to_lesson": "Retour à la leçon",
       "continue_lesson": "Continuer la leçon",
-      "full_screen": "Plein écran"
+      "full_screen": "Plein écran",
+      "lesson_done": "Vous avez terminé cette leçon.",
+      "start_again": "Recommencer",
+      "finish": "Terminer"
     }
   },
   "teach": {

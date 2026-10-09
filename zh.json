@@ -4049,7 +4049,10 @@
       "save_error": "无法保存。请检查网络连接；下次修改时会再次尝试。",
       "back_to_lesson": "返回课程",
       "continue_lesson": "继续课程",
-      "full_screen": "全屏"
+      "full_screen": "全屏",
+      "lesson_done": "你已完成这节课。",
+      "start_again": "重新开始",
+      "finish": "完成"
     }
   },
   "teach": {
