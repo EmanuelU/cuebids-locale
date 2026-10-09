@@ -3853,7 +3853,7 @@
       "next_due": "Prochaines cartes le {{date}}.",
       "study_all": "Réviser toutes les cartes",
       "empty": "Pas encore de cartes. Ajoutez une séquence suggérée à une donne : ses enchères deviennent des cartes.",
-      "back": "Retour à la série"
+      "back": "Retour"
     },
     "decks": {
       "title": "Cartes mémo et quiz",
@@ -3937,7 +3937,9 @@
       "invalid_type": "Choisissez un type de carte.",
       "true": "Vrai",
       "false": "Faux",
-      "language_label": "Langue des cartes"
+      "language_label": "Langue des cartes",
+      "update_card": "Mettre à jour la carte",
+      "edit_card": "Modifier la carte"
     },
     "quiz": {
       "score": "Vous avez {{score}} sur {{total}}.",
@@ -4034,7 +4036,13 @@
       "callout_note": "Remarque",
       "callout_warning": "Attention",
       "example_label": "Exemple",
-      "language_label": "Langue de la leçon"
+      "language_label": "Langue de la leçon",
+      "saving": "Enregistrement…",
+      "saved": "Enregistré",
+      "save_error": "Échec de l’enregistrement. Vérifiez votre connexion ; un nouvel essai a lieu à la prochaine modification.",
+      "back_to_lesson": "Retour à la leçon",
+      "continue_lesson": "Continuer la leçon",
+      "full_screen": "Plein écran"
     }
   },
   "teach": {

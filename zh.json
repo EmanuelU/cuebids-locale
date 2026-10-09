@@ -3860,7 +3860,7 @@
       "next_due": "下一批卡片：{{date}}。",
       "study_all": "复习全部卡片",
       "empty": "还没有卡片。为牌局添加建议叫牌，其中的叫品就会成为卡片。",
-      "back": "返回牌组"
+      "back": "返回"
     },
     "decks": {
       "title": "闪卡和测验",
@@ -3944,7 +3944,9 @@
       "invalid_type": "请选择卡片类型。",
       "true": "对",
       "false": "错",
-      "language_label": "卡片语言"
+      "language_label": "卡片语言",
+      "update_card": "更新卡片",
+      "edit_card": "编辑卡片"
     },
     "quiz": {
       "score": "你的得分：{{score}} / {{total}}。",
@@ -4041,7 +4043,13 @@
       "callout_note": "注意",
       "callout_warning": "小心",
       "example_label": "示例",
-      "language_label": "课程语言"
+      "language_label": "课程语言",
+      "saving": "正在保存…",
+      "saved": "已保存",
+      "save_error": "无法保存。请检查网络连接；下次修改时会再次尝试。",
+      "back_to_lesson": "返回课程",
+      "continue_lesson": "继续课程",
+      "full_screen": "全屏"
     }
   },
   "teach": {

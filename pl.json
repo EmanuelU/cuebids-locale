@@ -3855,7 +3855,7 @@
       "next_due": "Kolejne karty: {{date}}.",
       "study_all": "Przejrzyj wszystkie karty",
       "empty": "Brak kart. Dodaj sugerowaną licytację do rozdania, a jej odzywki staną się kartami.",
-      "back": "Wróć do zestawu"
+      "back": "Wróć"
     },
     "decks": {
       "title": "Fiszki i quizy",
@@ -3939,7 +3939,9 @@
       "invalid_type": "Wybierz typ karty.",
       "true": "Prawda",
       "false": "Fałsz",
-      "language_label": "Język kart"
+      "language_label": "Język kart",
+      "update_card": "Zaktualizuj kartę",
+      "edit_card": "Edytuj kartę"
     },
     "quiz": {
       "score": "Twój wynik: {{score}} z {{total}}.",
@@ -4036,7 +4038,13 @@
       "callout_note": "Uwaga",
       "callout_warning": "Ostrożnie",
       "example_label": "Przykład",
-      "language_label": "Język lekcji"
+      "language_label": "Język lekcji",
+      "saving": "Zapisywanie…",
+      "saved": "Zapisano",
+      "save_error": "Nie udało się zapisać. Sprawdź połączenie; zapis zostanie ponowiony przy kolejnej zmianie.",
+      "back_to_lesson": "Wróć do lekcji",
+      "continue_lesson": "Kontynuuj lekcję",
+      "full_screen": "Pełny ekran"
     }
   },
   "teach": {

@@ -3853,7 +3853,7 @@
       "next_due": "Próximas tarjetas: {{date}}.",
       "study_all": "Repasar todas las tarjetas",
       "empty": "Aún no hay tarjetas. Añade una subasta sugerida a una mano y sus voces se convierten en tarjetas.",
-      "back": "Volver a la serie"
+      "back": "Volver"
     },
     "decks": {
       "title": "Tarjetas y cuestionarios",
@@ -3937,7 +3937,9 @@
       "invalid_type": "Elige un tipo de tarjeta.",
       "true": "Verdadero",
       "false": "Falso",
-      "language_label": "Idioma de las tarjetas"
+      "language_label": "Idioma de las tarjetas",
+      "update_card": "Actualizar tarjeta",
+      "edit_card": "Editar tarjeta"
     },
     "quiz": {
       "score": "Has sacado {{score}} de {{total}}.",
@@ -4034,7 +4036,13 @@
       "callout_note": "Nota",
       "callout_warning": "Cuidado",
       "example_label": "Ejemplo",
-      "language_label": "Idioma de la lección"
+      "language_label": "Idioma de la lección",
+      "saving": "Guardando…",
+      "saved": "Guardado",
+      "save_error": "No se pudo guardar. Revisa tu conexión; se intentará de nuevo con el próximo cambio.",
+      "back_to_lesson": "Volver a la lección",
+      "continue_lesson": "Continuar la lección",
+      "full_screen": "Pantalla completa"
     }
   },
   "teach": {

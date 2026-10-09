@@ -3860,7 +3860,7 @@
       "next_due": "下一批卡片：{{date}}。",
       "study_all": "複習全部卡片",
       "empty": "還沒有卡片。為牌局新增建議叫牌，其中的叫品就會成為卡片。",
-      "back": "返回牌組"
+      "back": "返回"
     },
     "decks": {
       "title": "閃卡和測驗",
@@ -3944,7 +3944,9 @@
       "invalid_type": "請選擇卡片類型。",
       "true": "對",
       "false": "錯",
-      "language_label": "卡片語言"
+      "language_label": "卡片語言",
+      "update_card": "更新卡片",
+      "edit_card": "編輯卡片"
     },
     "quiz": {
       "score": "你的得分：{{score}} / {{total}}。",
@@ -4041,7 +4043,13 @@
       "callout_note": "注意",
       "callout_warning": "小心",
       "example_label": "範例",
-      "language_label": "課程語言"
+      "language_label": "課程語言",
+      "saving": "正在儲存…",
+      "saved": "已儲存",
+      "save_error": "無法儲存。請檢查網路連線；下次修改時會再次嘗試。",
+      "back_to_lesson": "返回課程",
+      "continue_lesson": "繼續課程",
+      "full_screen": "全螢幕"
     }
   },
   "teach": {

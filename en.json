@@ -3853,7 +3853,7 @@
       "next_due": "Next cards due {{date}}.",
       "study_all": "Study all cards",
       "empty": "No cards yet. Add a suggested auction to a board and its calls become cards.",
-      "back": "Back to the set"
+      "back": "Back"
     },
     "decks": {
       "title": "Flashcards & quizzes",
@@ -3937,7 +3937,9 @@
       "invalid_type": "Pick a card type.",
       "true": "True",
       "false": "False",
-      "language_label": "Language of the cards"
+      "language_label": "Language of the cards",
+      "update_card": "Update card",
+      "edit_card": "Edit card"
     },
     "quiz": {
       "score": "You scored {{score}} of {{total}}.",
@@ -4034,7 +4036,13 @@
       "callout_note": "Note",
       "callout_warning": "Watch out",
       "example_label": "Example",
-      "language_label": "Language of the lesson"
+      "language_label": "Language of the lesson",
+      "saving": "Saving…",
+      "saved": "Saved",
+      "save_error": "Could not save. Check your connection; it tries again when you change something.",
+      "back_to_lesson": "Back to the lesson",
+      "continue_lesson": "Continue the lesson",
+      "full_screen": "Full screen"
     }
   },
   "teach": {

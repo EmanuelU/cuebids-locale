@@ -3853,7 +3853,7 @@
       "next_due": "Nästa kort {{date}}.",
       "study_all": "Öva på alla kort",
       "empty": "Inga kort ännu. Lägg till en föreslagen budgivning på en bricka så blir dess bud kort.",
-      "back": "Tillbaka till samlingen"
+      "back": "Tillbaka"
     },
     "decks": {
       "title": "Frågekort & quiz",
@@ -3937,7 +3937,9 @@
       "invalid_type": "Välj en korttyp.",
       "true": "Sant",
       "false": "Falskt",
-      "language_label": "Kortens språk"
+      "language_label": "Kortens språk",
+      "update_card": "Uppdatera kortet",
+      "edit_card": "Redigera kortet"
     },
     "quiz": {
       "score": "Du fick {{score}} av {{total}}.",
@@ -4034,7 +4036,13 @@
       "callout_note": "Obs",
       "callout_warning": "Se upp",
       "example_label": "Exempel",
-      "language_label": "Lektionens språk"
+      "language_label": "Lektionens språk",
+      "saving": "Sparar…",
+      "saved": "Sparat",
+      "save_error": "Kunde inte spara. Kontrollera anslutningen; det försöker igen när du ändrar något.",
+      "back_to_lesson": "Tillbaka till lektionen",
+      "continue_lesson": "Fortsätt lektionen",
+      "full_screen": "Helskärm"
     }
   },
   "teach": {
