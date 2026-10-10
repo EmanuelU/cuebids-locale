@@ -1835,7 +1835,8 @@
       "challenge_members": "Wyzwij członków",
       "challenges_empty": "W tej grupie nie ma jeszcze wyzwań.",
       "challenges_active": "W trakcie",
-      "challenges_finished": "Zakończone"
+      "challenges_finished": "Zakończone",
+      "tab_lessons": "Lekcje"
     },
     "group_list": {
       "new_events": "Nowe wydarzenia",
@@ -1976,7 +1977,6 @@
     "error_cannot_create_free_event": "Nie można utworzyć darmowego wydarzenia",
     "error_cannot_replace_played_deal": "Nie można zamienić rozdania, gdy niektóre pary już je rozegrały.",
     "error_cannot_rotate_played_deal": "Nie można obrócić rozdania, jeśli niektóre pary już je rozegrały.",
-    "tab_lessons": "Lekcje",
     "lessons": {
       "none": "Brak lekcji udostępnionych tej grupie.",
       "none_teacher": "Udostępnij lekcję ze swojej biblioteki, a klasa przejdzie ją tutaj.",

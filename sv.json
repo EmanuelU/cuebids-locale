@@ -1833,7 +1833,8 @@
       "challenge_members": "Utmana medlemmar",
       "challenges_empty": "Inga utmaningar i gruppen än.",
       "challenges_active": "Pågår",
-      "challenges_finished": "Avslutade"
+      "challenges_finished": "Avslutade",
+      "tab_lessons": "Lektioner"
     },
     "group_list": {
       "new_events": "Nya Event",
@@ -1974,7 +1975,6 @@
     "error_cannot_create_free_event": "Kan inte skapa gratisevent",
     "error_cannot_replace_played_deal": "Kan inte ersätta given när några par redan har spelat den.",
     "error_cannot_rotate_played_deal": "Kan inte rotera given när några par redan har spelat den.",
-    "tab_lessons": "Lektioner",
     "lessons": {
       "none": "Inga lektioner delade med gruppen ännu.",
       "none_teacher": "Dela en lektion från ditt bibliotek så kan klassen gå igenom den här.",

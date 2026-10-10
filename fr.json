@@ -1833,7 +1833,8 @@
       "challenge_members": "Défier des membres",
       "challenges_empty": "Aucun défi dans ce groupe pour l’instant.",
       "challenges_active": "En cours",
-      "challenges_finished": "Terminés"
+      "challenges_finished": "Terminés",
+      "tab_lessons": "Leçons"
     },
     "group_list": {
       "new_events": "Nouveaux tournois",
@@ -1974,7 +1975,6 @@
     "error_cannot_create_free_event": "Impossible de créer un tournoi gratuit",
     "error_cannot_replace_played_deal": "Impossible de remplacer la donne lorsque certaines paires l’ont déjà jouée.",
     "error_cannot_rotate_played_deal": "Impossible de faire tourner la donne lorsque certaines paires l’ont déjà jouée.",
-    "tab_lessons": "Leçons",
     "lessons": {
       "none": "Aucune leçon partagée avec ce groupe pour l’instant.",
       "none_teacher": "Partagez une leçon de votre bibliothèque et votre classe pourra la suivre ici.",

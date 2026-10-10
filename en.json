@@ -1833,7 +1833,8 @@
       "challenge_members": "Challenge members",
       "challenges_empty": "No challenges in this group yet.",
       "challenges_active": "Being played",
-      "challenges_finished": "Finished"
+      "challenges_finished": "Finished",
+      "tab_lessons": "Lessons"
     },
     "group_list": {
       "new_events": "New Events",
@@ -1974,7 +1975,6 @@
     "error_cannot_create_free_event": "Cannot create free event",
     "error_cannot_replace_played_deal": "Cannot replace deal when some pairs have played it.",
     "error_cannot_rotate_played_deal": "Cannot rotate deal when some pairs have played it.",
-    "tab_lessons": "Lessons",
     "lessons": {
       "none": "No lessons shared with this group yet.",
       "none_teacher": "Share a lesson from your Library and your class can work through it here.",

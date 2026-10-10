@@ -1834,7 +1834,8 @@
       "challenge_members": "挑戰成員",
       "challenges_empty": "本組還沒有挑戰。",
       "challenges_active": "進行中",
-      "challenges_finished": "已結束"
+      "challenges_finished": "已結束",
+      "tab_lessons": "課程"
     },
     "group_list": {
       "new_events": "新練習",
@@ -1975,7 +1976,6 @@
     "error_cannot_create_free_event": "無法創建免費練習",
     "error_cannot_replace_played_deal": "已有配對打過這副牌時，不能替換。",
     "error_cannot_rotate_played_deal": "當某些配對已經玩過時，無法輪換髮牌。",
-    "tab_lessons": "課程",
     "lessons": {
       "none": "還沒有與本群組分享的課程。",
       "none_teacher": "從你的資料庫分享一節課，班級就能在這裡學習。",

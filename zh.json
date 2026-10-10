@@ -1834,7 +1834,8 @@
       "challenge_members": "挑战成员",
       "challenges_empty": "本组还没有挑战。",
       "challenges_active": "进行中",
-      "challenges_finished": "已结束"
+      "challenges_finished": "已结束",
+      "tab_lessons": "课程"
     },
     "group_list": {
       "new_events": "新练习",
@@ -1975,7 +1976,6 @@
     "error_cannot_create_free_event": "无法创建免费练习",
     "error_cannot_replace_played_deal": "已有配对打过这副牌时，不能替换。",
     "error_cannot_rotate_played_deal": "当某些配对已经玩过时，无法轮换发牌。",
-    "tab_lessons": "课程",
     "lessons": {
       "none": "还没有与本群组分享的课程。",
       "none_teacher": "从你的资料库分享一节课，班级就能在这里学习。",

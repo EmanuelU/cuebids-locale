@@ -1833,7 +1833,8 @@
       "challenge_members": "Desafiar a miembros",
       "challenges_empty": "Todavía no hay desafíos en este grupo.",
       "challenges_active": "En juego",
-      "challenges_finished": "Terminados"
+      "challenges_finished": "Terminados",
+      "tab_lessons": "Lecciones"
     },
     "group_list": {
       "new_events": "Nuevos eventos",
@@ -1974,7 +1975,6 @@
     "error_cannot_create_free_event": "No se puede crear un evento gratuito.",
     "error_cannot_replace_played_deal": "No se puede reemplazar la mano cuando algunas parejas ya la han jugado.",
     "error_cannot_rotate_played_deal": "No se puede girar la mano cuando algunas parejas ya la han jugado.",
-    "tab_lessons": "Lecciones",
     "lessons": {
       "none": "Aún no hay lecciones compartidas con este grupo.",
       "none_teacher": "Comparte una lección de tu biblioteca y tu clase podrá seguirla aquí.",
