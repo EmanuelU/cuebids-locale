@@ -3939,7 +3939,8 @@
       "false": "Faux",
       "language_label": "Langue des cartes",
       "update_card": "Mettre à jour la carte",
-      "edit_card": "Modifier la carte"
+      "edit_card": "Modifier la carte",
+      "answer_change": "Choisissez une autre enchère ci-dessous pour la changer."
     },
     "quiz": {
       "score": "Vous avez {{score}} sur {{total}}.",
@@ -4045,7 +4046,8 @@
       "full_screen": "Plein écran",
       "lesson_done": "Vous avez terminé cette leçon.",
       "start_again": "Recommencer",
-      "finish": "Terminer"
+      "finish": "Terminer",
+      "long_slide": "Cette diapositive est longue : en présentation, elle risque de dépasser l’écran. Pensez à la scinder en deux."
     }
   },
   "teach": {

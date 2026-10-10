@@ -3946,7 +3946,8 @@
       "false": "错",
       "language_label": "卡片语言",
       "update_card": "更新卡片",
-      "edit_card": "编辑卡片"
+      "edit_card": "编辑卡片",
+      "answer_change": "在下方选择另一个叫品即可更改。"
     },
     "quiz": {
       "score": "你的得分：{{score}} / {{total}}。",
@@ -4052,7 +4053,8 @@
       "full_screen": "全屏",
       "lesson_done": "你已完成这节课。",
       "start_again": "重新开始",
-      "finish": "完成"
+      "finish": "完成",
+      "long_slide": "这一页较长：放映时屏幕可能显示不全。可以考虑拆成两页。"
     }
   },
   "teach": {

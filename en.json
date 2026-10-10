@@ -3939,7 +3939,8 @@
       "false": "False",
       "language_label": "Language of the cards",
       "update_card": "Update card",
-      "edit_card": "Edit card"
+      "edit_card": "Edit card",
+      "answer_change": "Pick another call below to change it."
     },
     "quiz": {
       "score": "You scored {{score}} of {{total}}.",
@@ -4045,7 +4046,8 @@
       "full_screen": "Full screen",
       "lesson_done": "You finished this lesson.",
       "start_again": "Start again",
-      "finish": "Finish"
+      "finish": "Finish",
+      "long_slide": "This slide is long: presented, it may not fit a classroom screen. Consider splitting it in two."
     }
   },
   "teach": {

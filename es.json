@@ -3939,7 +3939,8 @@
       "false": "Falso",
       "language_label": "Idioma de las tarjetas",
       "update_card": "Actualizar tarjeta",
-      "edit_card": "Editar tarjeta"
+      "edit_card": "Editar tarjeta",
+      "answer_change": "Elige otra voz abajo para cambiarla."
     },
     "quiz": {
       "score": "Has sacado {{score}} de {{total}}.",
@@ -4045,7 +4046,8 @@
       "full_screen": "Pantalla completa",
       "lesson_done": "Has terminado esta lección.",
       "start_again": "Empezar de nuevo",
-      "finish": "Terminar"
+      "finish": "Terminar",
+      "long_slide": "Esta diapositiva es larga: al presentarla, puede no caber en la pantalla. Considera dividirla en dos."
     }
   },
   "teach": {

@@ -3939,7 +3939,8 @@
       "false": "Falskt",
       "language_label": "Kortens språk",
       "update_card": "Uppdatera kortet",
-      "edit_card": "Redigera kortet"
+      "edit_card": "Redigera kortet",
+      "answer_change": "Välj ett annat bud nedan för att ändra."
     },
     "quiz": {
       "score": "Du fick {{score}} av {{total}}.",
@@ -4045,7 +4046,8 @@
       "full_screen": "Helskärm",
       "lesson_done": "Du har gått igenom lektionen.",
       "start_again": "Börja om",
-      "finish": "Avsluta"
+      "finish": "Avsluta",
+      "long_slide": "Sidan är lång: när du presenterar får den kanske inte plats på skärmen. Dela gärna upp den på två sidor."
     }
   },
   "teach": {

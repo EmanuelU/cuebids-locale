@@ -3941,7 +3941,8 @@
       "false": "Fałsz",
       "language_label": "Język kart",
       "update_card": "Zaktualizuj kartę",
-      "edit_card": "Edytuj kartę"
+      "edit_card": "Edytuj kartę",
+      "answer_change": "Wybierz poniżej inną odzywkę, aby to zmienić."
     },
     "quiz": {
       "score": "Twój wynik: {{score}} z {{total}}.",
@@ -4047,7 +4048,8 @@
       "full_screen": "Pełny ekran",
       "lesson_done": "Lekcja ukończona.",
       "start_again": "Zacznij od nowa",
-      "finish": "Zakończ"
+      "finish": "Zakończ",
+      "long_slide": "Ten slajd jest długi: podczas prezentacji może nie zmieścić się na ekranie. Warto podzielić go na dwa."
     }
   },
   "teach": {
