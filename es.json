@@ -3961,7 +3961,8 @@
       "open_placeholder": "Tu respuesta",
       "show_answer": "Ver la respuesta",
       "true": "Verdadero",
-      "false": "Falso"
+      "false": "Falso",
+      "your_call": "Tu voz"
     },
     "lessons": {
       "title": "Lecciones",

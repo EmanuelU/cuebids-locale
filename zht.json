@@ -3968,7 +3968,8 @@
       "open_placeholder": "你的答案",
       "show_answer": "顯示答案",
       "true": "對",
-      "false": "錯"
+      "false": "錯",
+      "your_call": "你的叫品"
     },
     "lessons": {
       "title": "課程",
