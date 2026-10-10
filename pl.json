@@ -3240,7 +3240,9 @@
     "request_received": "Zaprosił Cię",
     "following": "Obserwujesz",
     "blocked_status": "Zablokowany",
-    "give_gift": "Podaruj prezent"
+    "give_gift": "Podaruj prezent",
+    "request_accepted": "Zaproszenie przyjęte",
+    "reply_failed": "Nie udało się. Sprawdź połączenie i spróbuj ponownie."
   },
   "stats_dashboard": {
     "tab_pairs": "Pary",

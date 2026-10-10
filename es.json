@@ -3238,7 +3238,9 @@
     "request_received": "Te ha solicitado",
     "following": "Siguiendo",
     "blocked_status": "Bloqueado",
-    "give_gift": "Hacer un regalo"
+    "give_gift": "Hacer un regalo",
+    "request_accepted": "Solicitud de amistad aceptada",
+    "reply_failed": "No se ha podido completar. Revisa tu conexión e inténtalo de nuevo."
   },
   "stats_dashboard": {
     "tab_pairs": "Parejas",

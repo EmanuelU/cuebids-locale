@@ -3239,7 +3239,9 @@
     "request_received": "已请求加你",
     "following": "已关注",
     "blocked_status": "已屏蔽",
-    "give_gift": "赠送礼物"
+    "give_gift": "赠送礼物",
+    "request_accepted": "已接受好友请求",
+    "reply_failed": "操作未成功。请检查网络连接后重试。"
   },
   "stats_dashboard": {
     "tab_pairs": "双人",

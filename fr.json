@@ -3238,7 +3238,9 @@
     "request_received": "Demande reçue",
     "following": "Suivi",
     "blocked_status": "Bloqué",
-    "give_gift": "Offrir un cadeau"
+    "give_gift": "Offrir un cadeau",
+    "request_accepted": "Demande d’ami acceptée",
+    "reply_failed": "Cela n’a pas abouti. Vérifiez votre connexion et réessayez."
   },
   "stats_dashboard": {
     "tab_pairs": "Paires",

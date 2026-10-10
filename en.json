@@ -3238,7 +3238,9 @@
     "request_received": "Requested you",
     "following": "Following",
     "blocked_status": "Blocked",
-    "give_gift": "Give a gift"
+    "give_gift": "Give a gift",
+    "request_accepted": "Friend request accepted",
+    "reply_failed": "That did not go through. Check your connection and try again."
   },
   "stats_dashboard": {
     "tab_pairs": "Pairs",
