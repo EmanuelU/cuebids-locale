@@ -1554,7 +1554,9 @@
     "sets_available": "Dostępne rozdania: {{n}}. Są dzielone po równo między zestawy.",
     "sets_order_in_order": "Po kolei",
     "sets_available_one": "Dostępne rozdania: {{n}}.",
-    "from_lesson": "Z Twojej lekcji"
+    "from_lesson": "Z Twojej lekcji",
+    "lesson_practice_cap": "Rozegrano już rozdania tego ćwiczenia, i więcej: ćwiczenie z lekcji kończy się po trzykrotności celu. Kontynuuj w zwykłej sesji.",
+    "lesson_practice_changed": "To ćwiczenie się zmieniło. Wróć do lekcji i zacznij od nowa."
   },
   "deal_type_select": {
     "random": "Losowe rozdania",

@@ -1552,7 +1552,9 @@
     "sets_available": "Tillgängliga brickor: {{n}}. De delas jämnt mellan samlingarna.",
     "sets_order_in_order": "I ordning",
     "sets_available_one": "Tillgängliga brickor: {{n}}.",
-    "from_lesson": "Från din lektion"
+    "from_lesson": "Från din lektion",
+    "lesson_practice_cap": "Du har spelat övningens brickor och mer därtill: en lektions övning tar slut vid tre gånger målet. Fortsätt med en vanlig träning.",
+    "lesson_practice_changed": "Övningen har ändrats. Gå tillbaka till lektionen och börja om."
   },
   "deal_type_select": {
     "random": "Slumpade händer",

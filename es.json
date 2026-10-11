@@ -1552,7 +1552,9 @@
     "sets_available": "Manos disponibles: {{n}}. Se reparten por igual entre las series.",
     "sets_order_in_order": "En orden",
     "sets_available_one": "Manos disponibles: {{n}}.",
-    "from_lesson": "De tu lección"
+    "from_lesson": "De tu lección",
+    "lesson_practice_cap": "Ya has jugado las manos de esta práctica, y más: la práctica de una lección termina al triple de su meta. Sigue con una sesión normal.",
+    "lesson_practice_changed": "Esta práctica ha cambiado. Vuelve a la lección y empieza de nuevo."
   },
   "deal_type_select": {
     "random": "Manos aleatorias",

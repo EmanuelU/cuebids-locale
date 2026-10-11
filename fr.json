@@ -1552,7 +1552,9 @@
     "sets_available": "Donnes disponibles : {{n}}. Elles sont réparties également entre les séries.",
     "sets_order_in_order": "Dans l’ordre",
     "sets_available_one": "Donnes disponibles : {{n}}.",
-    "from_lesson": "De votre leçon"
+    "from_lesson": "De votre leçon",
+    "lesson_practice_cap": "Vous avez joué les donnes de cet entraînement, et plus : l’entraînement d’une leçon s’arrête à trois fois son objectif. Continuez avec une séance ordinaire.",
+    "lesson_practice_changed": "Cet entraînement a changé. Revenez à la leçon et recommencez."
   },
   "deal_type_select": {
     "random": "Mains aléatoires",

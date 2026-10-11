@@ -1553,7 +1553,9 @@
     "sets_available": "可用的牌：{{n}}。会平均分配到各牌组。",
     "sets_order_in_order": "按顺序",
     "sets_available_one": "可用的牌：{{n}}。",
-    "from_lesson": "来自你的课程"
+    "from_lesson": "来自你的课程",
+    "lesson_practice_cap": "你已打完这项练习的牌，还多打了一些：课程练习最多为目标的三倍。请改用普通练习继续。",
+    "lesson_practice_changed": "这项练习已更改。请返回课程重新开始。"
   },
   "deal_type_select": {
     "random": "随机手牌",

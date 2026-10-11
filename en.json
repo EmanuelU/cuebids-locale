@@ -1552,7 +1552,9 @@
     "sets_available": "Boards available: {{n}}. They are shared evenly between the sets.",
     "sets_order_in_order": "In order",
     "sets_available_one": "Boards available: {{n}}.",
-    "from_lesson": "From your lesson"
+    "from_lesson": "From your lesson",
+    "lesson_practice_cap": "You have played this practice's boards and more: a lesson's practice stops at three times its goal. Keep going with an ordinary session.",
+    "lesson_practice_changed": "This practice step has changed. Go back to the lesson and start again."
   },
   "deal_type_select": {
     "random": "Random hands",
