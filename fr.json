@@ -2221,7 +2221,7 @@
     "no_saved": "Rien d’enregistré pour l’instant. Enregistrez une donne depuis son résultat pour la retrouver ici.",
     "play": {
       "button": "Rejouer celles-ci",
-      "title": "Rejouer ces donnes",
+      "title": "Jouer ces donnes",
       "boards": "Donnes",
       "newest": "Les {{n}} plus récentes",
       "random": "{{n}} au hasard",
@@ -4052,7 +4052,8 @@
       "lesson_done": "Vous avez terminé cette leçon.",
       "start_again": "Recommencer",
       "finish": "Terminer",
-      "long_slide": "Cette diapositive est longue : en présentation, elle risque de dépasser l’écran. Pensez à la scinder en deux."
+      "long_slide": "Cette diapositive est longue : en présentation, elle risque de dépasser l’écran. Pensez à la scinder en deux.",
+      "heart_unlocks": "Débloquer avec Cœur"
     },
     "teach_open": "Vos leçons, cartes mémo, quiz et classes."
   },

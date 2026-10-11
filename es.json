@@ -2221,7 +2221,7 @@
     "no_saved": "Aún no has guardado nada. Guarda una mano desde su resultado para tenerla aquí.",
     "play": {
       "button": "Repetir estas",
-      "title": "Repetir estas manos",
+      "title": "Jugar estas manos",
       "boards": "Manos",
       "newest": "Las {{n}} más recientes",
       "random": "{{n}} al azar",
@@ -4052,7 +4052,8 @@
       "lesson_done": "Has terminado esta lección.",
       "start_again": "Empezar de nuevo",
       "finish": "Terminar",
-      "long_slide": "Esta diapositiva es larga: al presentarla, puede no caber en la pantalla. Considera dividirla en dos."
+      "long_slide": "Esta diapositiva es larga: al presentarla, puede no caber en la pantalla. Considera dividirla en dos.",
+      "heart_unlocks": "Desbloquear con Heart"
     },
     "teach_open": "Tus lecciones, tarjetas, cuestionarios y clases."
   },

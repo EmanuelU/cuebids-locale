@@ -2221,7 +2221,7 @@
     "no_saved": "Nothing saved yet. Save a board from its result to keep it here.",
     "play": {
       "button": "Play these",
-      "title": "Play these boards again",
+      "title": "Play these boards",
       "boards": "Boards",
       "newest": "Newest {{n}}",
       "random": "{{n}} at random",
@@ -4052,7 +4052,8 @@
       "lesson_done": "You finished this lesson.",
       "start_again": "Start again",
       "finish": "Finish",
-      "long_slide": "This slide is long: presented, it may not fit a classroom screen. Consider splitting it in two."
+      "long_slide": "This slide is long: presented, it may not fit a classroom screen. Consider splitting it in two.",
+      "heart_unlocks": "Unlock with Heart"
     },
     "teach_open": "Your lessons, flashcards, quizzes and classes."
   },

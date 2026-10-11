@@ -2221,7 +2221,7 @@
     "no_saved": "Inget sparat än. Spara en bricka från resultatet så hamnar den här.",
     "play": {
       "button": "Spela om dessa",
-      "title": "Spela om de här brickorna",
+      "title": "Spela de här brickorna",
       "boards": "Brickor",
       "newest": "De senaste {{n}}",
       "random": "{{n}} slumpvis",
@@ -4052,7 +4052,8 @@
       "lesson_done": "Du har gått igenom lektionen.",
       "start_again": "Börja om",
       "finish": "Avsluta",
-      "long_slide": "Sidan är lång: när du presenterar får den kanske inte plats på skärmen. Dela gärna upp den på två sidor."
+      "long_slide": "Sidan är lång: när du presenterar får den kanske inte plats på skärmen. Dela gärna upp den på två sidor.",
+      "heart_unlocks": "Lås upp med Hjärter"
     },
     "teach_open": "Dina lektioner, frågekort, quiz och klasser."
   },

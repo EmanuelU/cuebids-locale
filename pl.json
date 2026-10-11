@@ -2223,7 +2223,7 @@
     "no_saved": "Nic jeszcze nie zapisano. Zapisz rozdanie z jego wyniku, a znajdziesz je tutaj.",
     "play": {
       "button": "Zagraj ponownie",
-      "title": "Zagraj ponownie te rozdania",
+      "title": "Zagraj te rozdania",
       "boards": "Rozdania",
       "newest": "Najnowsze {{n}}",
       "random": "{{n}} losowo",
@@ -4054,7 +4054,8 @@
       "lesson_done": "Lekcja ukończona.",
       "start_again": "Zacznij od nowa",
       "finish": "Zakończ",
-      "long_slide": "Ten slajd jest długi: podczas prezentacji może nie zmieścić się na ekranie. Warto podzielić go na dwa."
+      "long_slide": "Ten slajd jest długi: podczas prezentacji może nie zmieścić się na ekranie. Warto podzielić go na dwa.",
+      "heart_unlocks": "Odblokuj z Kier"
     },
     "teach_open": "Twoje lekcje, fiszki, quizy i klasy."
   },
