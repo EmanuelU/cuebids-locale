@@ -1833,7 +1833,8 @@
       "challenge_members": "Desafiar a miembros",
       "challenges_empty": "Todavía no hay desafíos en este grupo.",
       "challenges_active": "En juego",
-      "challenges_finished": "Terminados"
+      "challenges_finished": "Terminados",
+      "tab_lessons": "Lecciones"
     },
     "group_list": {
       "new_events": "Nuevos eventos",
@@ -1974,7 +1975,6 @@
     "error_cannot_create_free_event": "No se puede crear un evento gratuito.",
     "error_cannot_replace_played_deal": "No se puede reemplazar la mano cuando algunas parejas ya la han jugado.",
     "error_cannot_rotate_played_deal": "No se puede girar la mano cuando algunas parejas ya la han jugado.",
-    "tab_lessons": "Lecciones",
     "lessons": {
       "none": "Aún no hay lecciones compartidas con este grupo.",
       "none_teacher": "Comparte una lección de tu biblioteca y tu clase podrá seguirla aquí.",
@@ -2234,7 +2234,8 @@
       "robot_only": "Las manos de torneos y desafíos en curso solo se pueden jugar con el robot.",
       "first": "Las {{n}} primeras"
     },
-    "add_to_set": "Añadir a una serie"
+    "add_to_set": "Añadir a una serie",
+    "intro": "Busca entre las manos que ya has jugado: por la subasta, las cartas o el resultado."
   },
   "flagged_session_deals": {
     "none": "¡Todo al día! Marca una mano haciendo clic en la bandera.",
@@ -3853,7 +3854,7 @@
       "next_due": "Próximas tarjetas: {{date}}.",
       "study_all": "Repasar todas las tarjetas",
       "empty": "Aún no hay tarjetas. Añade una subasta sugerida a una mano y sus voces se convierten en tarjetas.",
-      "back": "Volver a la serie"
+      "back": "Volver"
     },
     "decks": {
       "title": "Tarjetas y cuestionarios",
@@ -3936,7 +3937,11 @@
       "invalid_invalid": "No se puede guardar esta tarjeta. Revisa los campos.",
       "invalid_type": "Elige un tipo de tarjeta.",
       "true": "Verdadero",
-      "false": "Falso"
+      "false": "Falso",
+      "language_label": "Idioma de las tarjetas",
+      "update_card": "Actualizar tarjeta",
+      "edit_card": "Editar tarjeta",
+      "answer_change": "Elige otra voz abajo para cambiarla."
     },
     "quiz": {
       "score": "Has sacado {{score}} de {{total}}.",
@@ -3957,7 +3962,8 @@
       "open_placeholder": "Tu respuesta",
       "show_answer": "Ver la respuesta",
       "true": "Verdadero",
-      "false": "Falso"
+      "false": "Falso",
+      "your_call": "Tu voz"
     },
     "lessons": {
       "title": "Lecciones",
@@ -4001,7 +4007,7 @@
       "invalid_auction": "No es una subasta.",
       "invalid_answer": "Escribe la respuesta.",
       "insert": "Insertar",
-      "slide_placeholder": "Escribe la diapositiva. Una línea que empieza con # es un título; - empieza una lista.",
+      "slide_placeholder": "Escribe la diapositiva: # título, ## subtítulo, **negrita**, > cita, - lista. Las voces como 1NT o 2H se muestran con su palo.",
       "done": "Hecho",
       "cancel": "Cancelar",
       "pick_deck": "Elige un mazo",
@@ -4023,7 +4029,27 @@
       "next_card": "Tarjeta siguiente",
       "practice_text": "Ahora subasta unas manos como estas, con un compañero o con Lia.",
       "start_practice": "Practicar",
-      "practice_set_class": "Tu profesor juega esta serie con la clase como evento de grupo."
+      "practice_set_class": "Tu profesor juega esta serie con la clase como evento de grupo.",
+      "format_bold": "Negrita",
+      "format_heading": "Título",
+      "format_subheading": "Subtítulo",
+      "format_quote": "Cita",
+      "format_divider": "Separador",
+      "callout_tip": "Consejo",
+      "callout_note": "Nota",
+      "callout_warning": "Cuidado",
+      "example_label": "Ejemplo",
+      "language_label": "Idioma de la lección",
+      "saving": "Guardando…",
+      "saved": "Guardado",
+      "save_error": "No se pudo guardar. Revisa tu conexión; se intentará de nuevo con el próximo cambio.",
+      "back_to_lesson": "Volver a la lección",
+      "continue_lesson": "Continuar la lección",
+      "full_screen": "Pantalla completa",
+      "lesson_done": "Has terminado esta lección.",
+      "start_again": "Empezar de nuevo",
+      "finish": "Terminar",
+      "long_slide": "Esta diapositiva es larga: al presentarla, puede no caber en la pantalla. Considera dividirla en dos."
     }
   },
   "teach": {

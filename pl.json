@@ -1835,7 +1835,8 @@
       "challenge_members": "Wyzwij członków",
       "challenges_empty": "W tej grupie nie ma jeszcze wyzwań.",
       "challenges_active": "W trakcie",
-      "challenges_finished": "Zakończone"
+      "challenges_finished": "Zakończone",
+      "tab_lessons": "Lekcje"
     },
     "group_list": {
       "new_events": "Nowe wydarzenia",
@@ -1976,7 +1977,6 @@
     "error_cannot_create_free_event": "Nie można utworzyć darmowego wydarzenia",
     "error_cannot_replace_played_deal": "Nie można zamienić rozdania, gdy niektóre pary już je rozegrały.",
     "error_cannot_rotate_played_deal": "Nie można obrócić rozdania, jeśli niektóre pary już je rozegrały.",
-    "tab_lessons": "Lekcje",
     "lessons": {
       "none": "Brak lekcji udostępnionych tej grupie.",
       "none_teacher": "Udostępnij lekcję ze swojej biblioteki, a klasa przejdzie ją tutaj.",
@@ -2236,7 +2236,8 @@
       "robot_only": "Rozdania z trwających turniejów i wyzwań można zagrać tylko z robotem.",
       "first": "Pierwsze {{n}}"
     },
-    "add_to_set": "Dodaj do zestawu"
+    "add_to_set": "Dodaj do zestawu",
+    "intro": "Przeszukaj rozdania, które już zostały rozegrane: według licytacji, rąk lub wyniku."
   },
   "flagged_session_deals": {
     "none": "Wszystko nadrobione! Oflaguj rozdanie używając kropkowanego menu po zakończeniu licytacji.",
@@ -3855,7 +3856,7 @@
       "next_due": "Kolejne karty: {{date}}.",
       "study_all": "Przejrzyj wszystkie karty",
       "empty": "Brak kart. Dodaj sugerowaną licytację do rozdania, a jej odzywki staną się kartami.",
-      "back": "Wróć do zestawu"
+      "back": "Wróć"
     },
     "decks": {
       "title": "Fiszki i quizy",
@@ -3938,7 +3939,11 @@
       "invalid_invalid": "Nie można zapisać tej karty. Sprawdź pola.",
       "invalid_type": "Wybierz typ karty.",
       "true": "Prawda",
-      "false": "Fałsz"
+      "false": "Fałsz",
+      "language_label": "Język kart",
+      "update_card": "Zaktualizuj kartę",
+      "edit_card": "Edytuj kartę",
+      "answer_change": "Wybierz poniżej inną odzywkę, aby to zmienić."
     },
     "quiz": {
       "score": "Twój wynik: {{score}} z {{total}}.",
@@ -3959,7 +3964,8 @@
       "open_placeholder": "Twoja odpowiedź",
       "show_answer": "Pokaż odpowiedź",
       "true": "Prawda",
-      "false": "Fałsz"
+      "false": "Fałsz",
+      "your_call": "Twoja odzywka"
     },
     "lessons": {
       "title": "Lekcje",
@@ -4003,7 +4009,7 @@
       "invalid_auction": "To nie jest licytacja.",
       "invalid_answer": "Wpisz odpowiedź.",
       "insert": "Wstaw",
-      "slide_placeholder": "Napisz slajd. Wiersz zaczynający się od # to nagłówek; - zaczyna listę.",
+      "slide_placeholder": "Napisz slajd: # nagłówek, ## podtytuł, **pogrubienie**, > cytat, - lista. Odzywki jak 1NT czy 2H pokazują symbole kolorów.",
       "done": "Gotowe",
       "cancel": "Anuluj",
       "pick_deck": "Wybierz talię",
@@ -4025,7 +4031,27 @@
       "next_card": "Następna karta",
       "practice_text": "Teraz zalicytuj kilka podobnych rozdań, z partnerem albo z Lią.",
       "start_practice": "Ćwicz",
-      "practice_set_class": "Twój nauczyciel rozgrywa ten zestaw z klasą jako wydarzenie grupowe."
+      "practice_set_class": "Twój nauczyciel rozgrywa ten zestaw z klasą jako wydarzenie grupowe.",
+      "format_bold": "Pogrubienie",
+      "format_heading": "Nagłówek",
+      "format_subheading": "Podtytuł",
+      "format_quote": "Cytat",
+      "format_divider": "Separator",
+      "callout_tip": "Wskazówka",
+      "callout_note": "Uwaga",
+      "callout_warning": "Ostrożnie",
+      "example_label": "Przykład",
+      "language_label": "Język lekcji",
+      "saving": "Zapisywanie…",
+      "saved": "Zapisano",
+      "save_error": "Nie udało się zapisać. Sprawdź połączenie; zapis zostanie ponowiony przy kolejnej zmianie.",
+      "back_to_lesson": "Wróć do lekcji",
+      "continue_lesson": "Kontynuuj lekcję",
+      "full_screen": "Pełny ekran",
+      "lesson_done": "Lekcja ukończona.",
+      "start_again": "Zacznij od nowa",
+      "finish": "Zakończ",
+      "long_slide": "Ten slajd jest długi: podczas prezentacji może nie zmieścić się na ekranie. Warto podzielić go na dwa."
     }
   },
   "teach": {

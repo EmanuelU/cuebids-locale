@@ -1834,7 +1834,8 @@
       "challenge_members": "挑戰成員",
       "challenges_empty": "本組還沒有挑戰。",
       "challenges_active": "進行中",
-      "challenges_finished": "已結束"
+      "challenges_finished": "已結束",
+      "tab_lessons": "課程"
     },
     "group_list": {
       "new_events": "新練習",
@@ -1975,7 +1976,6 @@
     "error_cannot_create_free_event": "無法創建免費練習",
     "error_cannot_replace_played_deal": "已有配對打過這副牌時，不能替換。",
     "error_cannot_rotate_played_deal": "當某些配對已經玩過時，無法輪換髮牌。",
-    "tab_lessons": "課程",
     "lessons": {
       "none": "還沒有與本群組分享的課程。",
       "none_teacher": "從你的資料庫分享一節課，班級就能在這裡學習。",
@@ -2235,7 +2235,8 @@
       "robot_only": "仍在進行的賽事和挑戰中的牌只能與機器人打。",
       "first": "前 {{n}} 副"
     },
-    "add_to_set": "加入牌組"
+    "add_to_set": "加入牌組",
+    "intro": "在你已經打過的牌局中查找：按叫牌、手牌或結果。"
   },
   "flagged_session_deals": {
     "none": "都看完啦！點擊旗標即可標記一副牌。",
@@ -3860,7 +3861,7 @@
       "next_due": "下一批卡片：{{date}}。",
       "study_all": "複習全部卡片",
       "empty": "還沒有卡片。為牌局新增建議叫牌，其中的叫品就會成為卡片。",
-      "back": "返回牌組"
+      "back": "返回"
     },
     "decks": {
       "title": "閃卡和測驗",
@@ -3943,7 +3944,11 @@
       "invalid_invalid": "無法儲存這張卡片，請檢查各項。",
       "invalid_type": "請選擇卡片類型。",
       "true": "對",
-      "false": "錯"
+      "false": "錯",
+      "language_label": "卡片語言",
+      "update_card": "更新卡片",
+      "edit_card": "編輯卡片",
+      "answer_change": "在下方選擇另一個叫品即可更改。"
     },
     "quiz": {
       "score": "你的得分：{{score}} / {{total}}。",
@@ -3964,7 +3969,8 @@
       "open_placeholder": "你的答案",
       "show_answer": "顯示答案",
       "true": "對",
-      "false": "錯"
+      "false": "錯",
+      "your_call": "你的叫品"
     },
     "lessons": {
       "title": "課程",
@@ -4008,7 +4014,7 @@
       "invalid_auction": "這不是叫牌過程。",
       "invalid_answer": "請填寫答案。",
       "insert": "插入",
-      "slide_placeholder": "撰寫投影片。以 # 開頭的行是標題；- 開始一個清單。",
+      "slide_placeholder": "撰寫投影片：# 標題，## 副標題，**粗體**，> 引用，- 清單。像 1NT 或 2H 這樣的叫品會顯示花色符號。",
       "done": "完成",
       "cancel": "取消",
       "pick_deck": "選擇卡組",
@@ -4030,7 +4036,27 @@
       "next_card": "下一張",
       "practice_text": "現在和搭檔或 Lia 一起叫幾副類似的牌。",
       "start_practice": "練習",
-      "practice_set_class": "你的老師會把這個牌組作為群組賽事和班級一起打。"
+      "practice_set_class": "你的老師會把這個牌組作為群組賽事和班級一起打。",
+      "format_bold": "粗體",
+      "format_heading": "標題",
+      "format_subheading": "副標題",
+      "format_quote": "引用",
+      "format_divider": "分隔線",
+      "callout_tip": "提示",
+      "callout_note": "注意",
+      "callout_warning": "小心",
+      "example_label": "範例",
+      "language_label": "課程語言",
+      "saving": "正在儲存…",
+      "saved": "已儲存",
+      "save_error": "無法儲存。請檢查網路連線；下次修改時會再次嘗試。",
+      "back_to_lesson": "返回課程",
+      "continue_lesson": "繼續課程",
+      "full_screen": "全螢幕",
+      "lesson_done": "你已完成這節課。",
+      "start_again": "重新開始",
+      "finish": "完成",
+      "long_slide": "這一頁較長：放映時螢幕可能顯示不全。可以考慮拆成兩頁。"
     }
   },
   "teach": {

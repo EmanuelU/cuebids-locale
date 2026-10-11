@@ -1833,7 +1833,8 @@
       "challenge_members": "Utmana medlemmar",
       "challenges_empty": "Inga utmaningar i gruppen än.",
       "challenges_active": "Pågår",
-      "challenges_finished": "Avslutade"
+      "challenges_finished": "Avslutade",
+      "tab_lessons": "Lektioner"
     },
     "group_list": {
       "new_events": "Nya Event",
@@ -1974,13 +1975,12 @@
     "error_cannot_create_free_event": "Kan inte skapa gratisevent",
     "error_cannot_replace_played_deal": "Kan inte ersätta given när några par redan har spelat den.",
     "error_cannot_rotate_played_deal": "Kan inte rotera given när några par redan har spelat den.",
-    "tab_lessons": "Lektioner",
     "lessons": {
       "none": "Inga lektioner delade med gruppen ännu.",
       "none_teacher": "Dela en lektion från ditt bibliotek så kan klassen gå igenom den här.",
       "step_count": "Steg: {{n}}",
       "open": "Öppna",
-      "present": "Visa",
+      "present": "Presentera",
       "results": "Resultat",
       "stop_sharing": "Sluta dela",
       "add": "Dela en lektion",
@@ -2234,7 +2234,8 @@
       "robot_only": "Brickor från tävlingar och utmaningar som pågår kan bara spelas med roboten.",
       "first": "De första {{n}}"
     },
-    "add_to_set": "Lägg till i en samling"
+    "add_to_set": "Lägg till i en samling",
+    "intro": "Sök bland brickor du redan har spelat: på budgivningen, händerna eller resultatet."
   },
   "flagged_session_deals": {
     "none": "Allt klart! Markera en giv genom att klicka på flaggan.",
@@ -3853,7 +3854,7 @@
       "next_due": "Nästa kort {{date}}.",
       "study_all": "Öva på alla kort",
       "empty": "Inga kort ännu. Lägg till en föreslagen budgivning på en bricka så blir dess bud kort.",
-      "back": "Tillbaka till samlingen"
+      "back": "Tillbaka"
     },
     "decks": {
       "title": "Frågekort & quiz",
@@ -3936,7 +3937,11 @@
       "invalid_invalid": "Kortet kan inte sparas. Kontrollera fälten.",
       "invalid_type": "Välj en korttyp.",
       "true": "Sant",
-      "false": "Falskt"
+      "false": "Falskt",
+      "language_label": "Kortens språk",
+      "update_card": "Uppdatera kortet",
+      "edit_card": "Redigera kortet",
+      "answer_change": "Välj ett annat bud nedan för att ändra."
     },
     "quiz": {
       "score": "Du fick {{score}} av {{total}}.",
@@ -3957,11 +3962,12 @@
       "open_placeholder": "Ditt svar",
       "show_answer": "Visa svaret",
       "true": "Sant",
-      "false": "Falskt"
+      "false": "Falskt",
+      "your_call": "Du bjöd"
     },
     "lessons": {
       "title": "Lektioner",
-      "intro": "En lektion tar en klass genom ett ämne steg för steg: bilder, frågekort eller ett quiz, sedan övning vid bordet.",
+      "intro": "En lektion tar en klass genom ett ämne steg för steg: sidor, frågekort eller ett quiz, sedan övning vid bordet.",
       "new": "Ny lektion",
       "new_title": "Ny lektion",
       "teach_link": "Lärare gör lektioner till sina klasser. Lär ut med Cuebids",
@@ -3970,14 +3976,14 @@
       "error": "Något gick fel. Försök igen.",
       "not_found": "Lektionen finns inte här.",
       "title_label": "Namn",
-      "open": "Öppna",
-      "present": "Visa",
-      "empty": "Inga steg ännu. Lägg till en bild, en kortlek eller övning.",
+      "open": "Gå igenom",
+      "present": "Presentera",
+      "empty": "Inga steg ännu. Lägg till en sida, en kortlek eller övning.",
       "edit": "Redigera",
       "move_up": "Flytta upp",
       "move_down": "Flytta ner",
       "remove": "Ta bort",
-      "add_slide": "Bild",
+      "add_slide": "Sida",
       "add_deck": "Frågekort eller quiz",
       "add_practice": "Övning",
       "save": "Spara",
@@ -4001,7 +4007,7 @@
       "invalid_auction": "Det är ingen budgivning.",
       "invalid_answer": "Skriv svaret.",
       "insert": "Infoga",
-      "slide_placeholder": "Skriv bilden. En rad som börjar med # är en rubrik; - börjar en lista.",
+      "slide_placeholder": "Skriv sidan: # rubrik, ## underrubrik, **fetstil**, > citat, - lista. Bud som 1NT eller 2H visas med färgsymboler.",
       "done": "Klar",
       "cancel": "Avbryt",
       "pick_deck": "Välj en kortlek",
@@ -4023,7 +4029,27 @@
       "next_card": "Nästa kort",
       "practice_text": "Bjud nu några brickor som dessa, med en partner eller med Lia.",
       "start_practice": "Öva",
-      "practice_set_class": "Din lärare spelar den här samlingen med klassen som ett gruppevent."
+      "practice_set_class": "Din lärare spelar den här samlingen med klassen som ett gruppevent.",
+      "format_bold": "Fetstil",
+      "format_heading": "Rubrik",
+      "format_subheading": "Underrubrik",
+      "format_quote": "Citat",
+      "format_divider": "Avdelare",
+      "callout_tip": "Tips",
+      "callout_note": "Obs",
+      "callout_warning": "Se upp",
+      "example_label": "Exempel",
+      "language_label": "Lektionens språk",
+      "saving": "Sparar…",
+      "saved": "Sparat",
+      "save_error": "Kunde inte spara. Kontrollera anslutningen; det försöker igen när du ändrar något.",
+      "back_to_lesson": "Tillbaka till lektionen",
+      "continue_lesson": "Fortsätt lektionen",
+      "full_screen": "Helskärm",
+      "lesson_done": "Du har gått igenom lektionen.",
+      "start_again": "Börja om",
+      "finish": "Avsluta",
+      "long_slide": "Sidan är lång: när du presenterar får den kanske inte plats på skärmen. Dela gärna upp den på två sidor."
     }
   },
   "teach": {
