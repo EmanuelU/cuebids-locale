@@ -1834,7 +1834,8 @@
       "challenges_empty": "Inga utmaningar i gruppen än.",
       "challenges_active": "Pågår",
       "challenges_finished": "Avslutade",
-      "tab_lessons": "Lektioner"
+      "tab_lessons": "Lektioner",
+      "manage_in_teach": "Hantera i Undervisa"
     },
     "group_list": {
       "new_events": "Nya Event",
@@ -1977,14 +1978,14 @@
     "error_cannot_rotate_played_deal": "Kan inte rotera given när några par redan har spelat den.",
     "lessons": {
       "none": "Inga lektioner delade med gruppen ännu.",
-      "none_teacher": "Dela en lektion från ditt bibliotek så kan klassen gå igenom den här.",
+      "none_teacher": "Dela en av dina lektioner så kan klassen gå igenom den i appen.",
       "step_count": "Steg: {{n}}",
       "open": "Öppna",
       "present": "Presentera",
       "results": "Resultat",
       "stop_sharing": "Sluta dela",
       "add": "Dela en lektion",
-      "make_lesson": "Gör först en lektion i ditt bibliotek",
+      "make_lesson": "Gör en lektion först",
       "pick": "Välj en lektion",
       "share": "Dela",
       "share_hint": "Medlemmarna öppnar den här och går igenom den i egen takt. Att läsa är gratis; övning kostar biljetter som vanligt.",
@@ -4074,7 +4075,29 @@
     "has_title": "Du har lärarverktygen",
     "has_text": "Skapa en grupp för din klass, bygg samlingar och kör klassevent från dem.",
     "create_group": "Skapa en klassgrupp",
-    "error": "Förfrågan kunde inte skickas. Försök igen."
+    "error": "Förfrågan kunde inte skickas. Försök igen.",
+    "workspace": {
+      "title": "Undervisa",
+      "nav_home": "Översikt",
+      "nav_lessons": "Lektioner",
+      "nav_decks": "Frågekort & quiz",
+      "nav_classes": "Klasser",
+      "back_to_app": "Tillbaka till Cuebids",
+      "menu": "Meny",
+      "home_title": "Undervisa",
+      "home_intro": "Här gör du lektioner, kort och quiz och ger dem till dina klasser. Eleverna går igenom dem i appen.",
+      "start_title": "Kom igång",
+      "start_class": "Skapa en klass",
+      "start_lesson": "Gör en lektion",
+      "start_give": "Ge en lektion till en klass",
+      "see_all": "Visa alla",
+      "none_yet": "Inget ännu.",
+      "no_classes": "Du har ingen klass ännu.",
+      "members": "Medlemmar: {{count}}",
+      "classes_intro": "Grupperna du undervisar. Öppna en för att ge den lektioner och följa hur det går för klassen.",
+      "new_class": "Ny klass",
+      "open_group": "Öppna gruppen"
+    }
   },
   "pbn": {
     "skipped": "Några brickor kunde inte läsas och togs inte med: {{boards}}."

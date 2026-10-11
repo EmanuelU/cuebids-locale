@@ -1836,7 +1836,8 @@
       "challenges_empty": "W tej grupie nie ma jeszcze wyzwań.",
       "challenges_active": "W trakcie",
       "challenges_finished": "Zakończone",
-      "tab_lessons": "Lekcje"
+      "tab_lessons": "Lekcje",
+      "manage_in_teach": "Zarządzaj w Nauczaniu"
     },
     "group_list": {
       "new_events": "Nowe wydarzenia",
@@ -1979,14 +1980,14 @@
     "error_cannot_rotate_played_deal": "Nie można obrócić rozdania, jeśli niektóre pary już je rozegrały.",
     "lessons": {
       "none": "Brak lekcji udostępnionych tej grupie.",
-      "none_teacher": "Udostępnij lekcję ze swojej biblioteki, a klasa przejdzie ją tutaj.",
+      "none_teacher": "Udostępnij jedną ze swoich lekcji, a klasa przerobi ją w aplikacji.",
       "step_count": "Kroki: {{n}}",
       "open": "Otwórz",
       "present": "Prezentuj",
       "results": "Wyniki",
       "stop_sharing": "Przestań udostępniać",
       "add": "Udostępnij lekcję",
-      "make_lesson": "Najpierw utwórz lekcję w bibliotece",
+      "make_lesson": "Najpierw przygotuj lekcję",
       "pick": "Wybierz lekcję",
       "share": "Udostępnij",
       "share_hint": "Członkowie otwierają ją tutaj i przechodzą ją we własnym tempie. Czytanie jest bezpłatne; praktyka kosztuje bilety jak zwykle.",
@@ -4076,7 +4077,29 @@
     "has_title": "Masz narzędzia dla nauczycieli",
     "has_text": "Utwórz grupę dla swojej klasy, a potem twórz zestawy i prowadź na ich podstawie wydarzenia klasowe.",
     "create_group": "Utwórz grupę klasową",
-    "error": "Nie udało się wysłać prośby. Spróbuj ponownie."
+    "error": "Nie udało się wysłać prośby. Spróbuj ponownie.",
+    "workspace": {
+      "title": "Nauczanie",
+      "nav_home": "Przegląd",
+      "nav_lessons": "Lekcje",
+      "nav_decks": "Fiszki i quizy",
+      "nav_classes": "Klasy",
+      "back_to_app": "Wróć do Cuebids",
+      "menu": "Menu",
+      "home_title": "Nauczanie",
+      "home_intro": "Tu tworzysz lekcje, fiszki i quizy i przekazujesz je swoim klasom. Uczniowie przerabiają je w aplikacji.",
+      "start_title": "Na początek",
+      "start_class": "Utwórz klasę",
+      "start_lesson": "Przygotuj lekcję",
+      "start_give": "Przekaż lekcję klasie",
+      "see_all": "Pokaż wszystkie",
+      "none_yet": "Jeszcze nic.",
+      "no_classes": "Nie prowadzisz jeszcze żadnej klasy.",
+      "members": "Członkowie: {{count}}",
+      "classes_intro": "Grupy, które uczysz. Otwórz jedną, aby przekazać jej lekcje i śledzić postępy klasy.",
+      "new_class": "Nowa klasa",
+      "open_group": "Otwórz grupę"
+    }
   },
   "pbn": {
     "skipped": "Niektórych rozdań nie udało się odczytać i zostały pominięte: {{boards}}."

@@ -1835,7 +1835,8 @@
       "challenges_empty": "本组还没有挑战。",
       "challenges_active": "进行中",
       "challenges_finished": "已结束",
-      "tab_lessons": "课程"
+      "tab_lessons": "课程",
+      "manage_in_teach": "在教学中管理"
     },
     "group_list": {
       "new_events": "新练习",
@@ -1978,14 +1979,14 @@
     "error_cannot_rotate_played_deal": "当某些配对已经玩过时，无法轮换发牌。",
     "lessons": {
       "none": "还没有与本群组分享的课程。",
-      "none_teacher": "从你的资料库分享一节课，班级就能在这里学习。",
+      "none_teacher": "分享你的一节课，班级即可在应用中学习。",
       "step_count": "步骤：{{n}}",
       "open": "打开",
       "present": "演示",
       "results": "结果",
       "stop_sharing": "停止分享",
       "add": "分享课程",
-      "make_lesson": "请先在资料库中创建课程",
+      "make_lesson": "请先制作一节课",
       "pick": "选择课程",
       "share": "分享",
       "share_hint": "成员在这里打开课程，按自己的节奏学习。阅读免费；练习照常消耗门票。",
@@ -4081,7 +4082,29 @@
     "has_title": "你已拥有教师工具",
     "has_text": "为你的班级创建一个群组，然后创建牌组并用它们举办班级赛事。",
     "create_group": "创建班级群组",
-    "error": "申请发送失败，请重试。"
+    "error": "申请发送失败，请重试。",
+    "workspace": {
+      "title": "教学",
+      "nav_home": "概览",
+      "nav_lessons": "课程",
+      "nav_decks": "闪卡和测验",
+      "nav_classes": "班级",
+      "back_to_app": "返回 Cuebids",
+      "menu": "菜单",
+      "home_title": "教学",
+      "home_intro": "在这里制作课程、卡片和测验，并发给你的班级。学生在应用中学习。",
+      "start_title": "开始使用",
+      "start_class": "创建班级",
+      "start_lesson": "制作一节课",
+      "start_give": "把课程发给班级",
+      "see_all": "查看全部",
+      "none_yet": "暂无内容。",
+      "no_classes": "你还没有班级。",
+      "members": "成员：{{count}}",
+      "classes_intro": "你教的小组。打开一个即可发给它课程，并查看班级进度。",
+      "new_class": "新建班级",
+      "open_group": "打开小组"
+    }
   },
   "pbn": {
     "skipped": "部分牌无法读取，已略去：{{boards}}。"

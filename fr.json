@@ -1834,7 +1834,8 @@
       "challenges_empty": "Aucun défi dans ce groupe pour l’instant.",
       "challenges_active": "En cours",
       "challenges_finished": "Terminés",
-      "tab_lessons": "Leçons"
+      "tab_lessons": "Leçons",
+      "manage_in_teach": "Gérer dans Enseigner"
     },
     "group_list": {
       "new_events": "Nouveaux tournois",
@@ -1977,14 +1978,14 @@
     "error_cannot_rotate_played_deal": "Impossible de faire tourner la donne lorsque certaines paires l’ont déjà jouée.",
     "lessons": {
       "none": "Aucune leçon partagée avec ce groupe pour l’instant.",
-      "none_teacher": "Partagez une leçon de votre bibliothèque et votre classe pourra la suivre ici.",
+      "none_teacher": "Partagez une de vos leçons et la classe pourra la suivre dans l’application.",
       "step_count": "Étapes : {{n}}",
       "open": "Ouvrir",
       "present": "Présenter",
       "results": "Résultats",
       "stop_sharing": "Ne plus partager",
       "add": "Partager une leçon",
-      "make_lesson": "Créez d’abord une leçon dans votre bibliothèque",
+      "make_lesson": "Préparez d’abord une leçon",
       "pick": "Choisissez une leçon",
       "share": "Partager",
       "share_hint": "Les membres l’ouvrent ici et la suivent à leur rythme. La lecture est gratuite ; la pratique coûte des tickets comme d’habitude.",
@@ -4074,7 +4075,29 @@
     "has_title": "Vous avez les outils pour enseignants",
     "has_text": "Créez un groupe pour votre classe, puis des séries et des tournois de classe à partir d’elles.",
     "create_group": "Créer un groupe de classe",
-    "error": "La demande n’a pas pu être envoyée. Réessayez."
+    "error": "La demande n’a pas pu être envoyée. Réessayez.",
+    "workspace": {
+      "title": "Enseigner",
+      "nav_home": "Vue d’ensemble",
+      "nav_lessons": "Leçons",
+      "nav_decks": "Cartes mémo et quiz",
+      "nav_classes": "Classes",
+      "back_to_app": "Retour à Cuebids",
+      "menu": "Menu",
+      "home_title": "Enseigner",
+      "home_intro": "Créez ici vos leçons, fiches et quiz, et donnez-les à vos classes. Vos élèves les suivent dans l’application.",
+      "start_title": "Pour commencer",
+      "start_class": "Créer une classe",
+      "start_lesson": "Préparer une leçon",
+      "start_give": "Donner une leçon à une classe",
+      "see_all": "Tout voir",
+      "none_yet": "Rien pour l’instant.",
+      "no_classes": "Vous n’animez pas encore de classe.",
+      "members": "Membres : {{count}}",
+      "classes_intro": "Les groupes où vous enseignez. Ouvrez-en un pour lui donner des leçons et suivre la progression de la classe.",
+      "new_class": "Nouvelle classe",
+      "open_group": "Ouvrir le groupe"
+    }
   },
   "pbn": {
     "skipped": "Certaines donnes n’ont pas pu être lues et ont été laissées de côté : {{boards}}."

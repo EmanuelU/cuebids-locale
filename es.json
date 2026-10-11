@@ -1834,7 +1834,8 @@
       "challenges_empty": "Todavía no hay desafíos en este grupo.",
       "challenges_active": "En juego",
       "challenges_finished": "Terminados",
-      "tab_lessons": "Lecciones"
+      "tab_lessons": "Lecciones",
+      "manage_in_teach": "Gestionar en Enseñar"
     },
     "group_list": {
       "new_events": "Nuevos eventos",
@@ -1977,14 +1978,14 @@
     "error_cannot_rotate_played_deal": "No se puede girar la mano cuando algunas parejas ya la han jugado.",
     "lessons": {
       "none": "Aún no hay lecciones compartidas con este grupo.",
-      "none_teacher": "Comparte una lección de tu biblioteca y tu clase podrá seguirla aquí.",
+      "none_teacher": "Comparte una de tus lecciones y la clase podrá trabajarla en la app.",
       "step_count": "Pasos: {{n}}",
       "open": "Abrir",
       "present": "Presentar",
       "results": "Resultados",
       "stop_sharing": "Dejar de compartir",
       "add": "Compartir una lección",
-      "make_lesson": "Primero crea una lección en tu biblioteca",
+      "make_lesson": "Prepara primero una lección",
       "pick": "Elige una lección",
       "share": "Compartir",
       "share_hint": "Los miembros la abren aquí y la siguen a su ritmo. Leer es gratis; la práctica cuesta tickets como siempre.",
@@ -4074,7 +4075,29 @@
     "has_title": "Tienes las herramientas para profesores",
     "has_text": "Crea un grupo para tu clase y luego crea series y organiza eventos de clase con ellas.",
     "create_group": "Crear un grupo de clase",
-    "error": "No se pudo enviar la solicitud. Inténtalo de nuevo."
+    "error": "No se pudo enviar la solicitud. Inténtalo de nuevo.",
+    "workspace": {
+      "title": "Enseñar",
+      "nav_home": "Resumen",
+      "nav_lessons": "Lecciones",
+      "nav_decks": "Tarjetas y cuestionarios",
+      "nav_classes": "Clases",
+      "back_to_app": "Volver a Cuebids",
+      "menu": "Menú",
+      "home_title": "Enseñar",
+      "home_intro": "Aquí creas lecciones, tarjetas y cuestionarios y se los das a tus clases. Tus alumnos los trabajan en la app.",
+      "start_title": "Para empezar",
+      "start_class": "Crea una clase",
+      "start_lesson": "Prepara una lección",
+      "start_give": "Da una lección a una clase",
+      "see_all": "Ver todo",
+      "none_yet": "Nada todavía.",
+      "no_classes": "Todavía no diriges ninguna clase.",
+      "members": "Miembros: {{count}}",
+      "classes_intro": "Los grupos a los que enseñas. Abre uno para darle lecciones y seguir cómo va la clase.",
+      "new_class": "Nueva clase",
+      "open_group": "Abrir el grupo"
+    }
   },
   "pbn": {
     "skipped": "Algunas manos no se pudieron leer y se dejaron fuera: {{boards}}."

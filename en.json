@@ -1834,7 +1834,8 @@
       "challenges_empty": "No challenges in this group yet.",
       "challenges_active": "Being played",
       "challenges_finished": "Finished",
-      "tab_lessons": "Lessons"
+      "tab_lessons": "Lessons",
+      "manage_in_teach": "Manage in Teach"
     },
     "group_list": {
       "new_events": "New Events",
@@ -1977,14 +1978,14 @@
     "error_cannot_rotate_played_deal": "Cannot rotate deal when some pairs have played it.",
     "lessons": {
       "none": "No lessons shared with this group yet.",
-      "none_teacher": "Share a lesson from your Library and your class can work through it here.",
+      "none_teacher": "Share one of your lessons and the class can work through it in the app.",
       "step_count": "Steps: {{n}}",
       "open": "Open",
       "present": "Present",
       "results": "Results",
       "stop_sharing": "Stop sharing",
       "add": "Share a lesson",
-      "make_lesson": "Make a lesson in your Library first",
+      "make_lesson": "Make a lesson first",
       "pick": "Pick a lesson",
       "share": "Share",
       "share_hint": "Members open it here and work through it at their own pace. Reading is free; practice costs tickets as usual.",
@@ -4074,7 +4075,29 @@
     "has_title": "You have teacher tools",
     "has_text": "Create a group for your class, then build sets and run class events from them.",
     "create_group": "Create a class group",
-    "error": "The request could not be sent. Try again."
+    "error": "The request could not be sent. Try again.",
+    "workspace": {
+      "title": "Teach",
+      "nav_home": "Overview",
+      "nav_lessons": "Lessons",
+      "nav_decks": "Flashcards & quizzes",
+      "nav_classes": "Classes",
+      "back_to_app": "Back to Cuebids",
+      "menu": "Menu",
+      "home_title": "Teach",
+      "home_intro": "Make lessons, flashcards and quizzes here, and give them to your classes. Your students work through them in the app.",
+      "start_title": "Get started",
+      "start_class": "Create a class",
+      "start_lesson": "Make a lesson",
+      "start_give": "Give a lesson to a class",
+      "see_all": "See all",
+      "none_yet": "Nothing yet.",
+      "no_classes": "You do not run a class yet.",
+      "members": "Members: {{count}}",
+      "classes_intro": "The groups you teach. Open one to give it lessons and follow how the class is doing.",
+      "new_class": "New class",
+      "open_group": "Open the group"
+    }
   },
   "pbn": {
     "skipped": "Some boards could not be read and were left out: {{boards}}."
