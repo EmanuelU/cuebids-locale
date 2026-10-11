@@ -1548,7 +1548,8 @@
     "sets_order_shuffled": "Shuffled",
     "sets_available": "Boards available: {{n}}. They are shared evenly between the sets.",
     "sets_order_in_order": "In order",
-    "sets_available_one": "Boards available: {{n}}."
+    "sets_available_one": "Boards available: {{n}}.",
+    "from_lesson": "From your lesson"
   },
   "deal_type_select": {
     "random": "Random hands",
@@ -1993,7 +1994,8 @@
       "student": "Student",
       "progress": "Progress",
       "quiz": "Quiz",
-      "error": "Something went wrong. Try again."
+      "error": "Something went wrong. Try again.",
+      "practice": "Practice"
     }
   },
   "share": {
@@ -4053,7 +4055,12 @@
       "start_again": "Start again",
       "finish": "Finish",
       "long_slide": "This slide is long: presented, it may not fit a classroom screen. Consider splitting it in two.",
-      "heart_unlocks": "Unlock with Heart"
+      "heart_unlocks": "Unlock with Heart",
+      "practice_boards": "Boards to play",
+      "practice_settings_hint": "The student only picks a partner; the boards are the goal their progress counts towards.",
+      "practice_progress": "{{done}} of {{goal}} boards played",
+      "practice_reached": "Done: {{done}} of {{goal}} boards played",
+      "keep_practising": "Keep practicing"
     },
     "teach_open": "Your lessons, flashcards, quizzes and classes."
   },

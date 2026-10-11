@@ -1548,7 +1548,8 @@
     "sets_order_shuffled": "Mezcladas",
     "sets_available": "Manos disponibles: {{n}}. Se reparten por igual entre las series.",
     "sets_order_in_order": "En orden",
-    "sets_available_one": "Manos disponibles: {{n}}."
+    "sets_available_one": "Manos disponibles: {{n}}.",
+    "from_lesson": "De tu lección"
   },
   "deal_type_select": {
     "random": "Manos aleatorias",
@@ -1993,7 +1994,8 @@
       "student": "Alumno",
       "progress": "Progreso",
       "quiz": "Cuestionario",
-      "error": "Algo salió mal. Inténtalo de nuevo."
+      "error": "Algo salió mal. Inténtalo de nuevo.",
+      "practice": "Práctica"
     }
   },
   "share": {
@@ -4053,7 +4055,12 @@
       "start_again": "Empezar de nuevo",
       "finish": "Terminar",
       "long_slide": "Esta diapositiva es larga: al presentarla, puede no caber en la pantalla. Considera dividirla en dos.",
-      "heart_unlocks": "Desbloquear con Heart"
+      "heart_unlocks": "Desbloquear con Heart",
+      "practice_boards": "Manos a jugar",
+      "practice_settings_hint": "El alumno solo elige compañero; las manos son la meta de su progreso.",
+      "practice_progress": "{{done}} de {{goal}} manos jugadas",
+      "practice_reached": "Hecho: {{done}} de {{goal}} manos jugadas",
+      "keep_practising": "Seguir practicando"
     },
     "teach_open": "Tus lecciones, tarjetas, cuestionarios y clases."
   },

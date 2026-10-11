@@ -1550,7 +1550,8 @@
     "sets_order_shuffled": "Wymieszane",
     "sets_available": "Dostępne rozdania: {{n}}. Są dzielone po równo między zestawy.",
     "sets_order_in_order": "Po kolei",
-    "sets_available_one": "Dostępne rozdania: {{n}}."
+    "sets_available_one": "Dostępne rozdania: {{n}}.",
+    "from_lesson": "Z Twojej lekcji"
   },
   "deal_type_select": {
     "random": "Losowe rozdania",
@@ -1995,7 +1996,8 @@
       "student": "Uczeń",
       "progress": "Postęp",
       "quiz": "Quiz",
-      "error": "Coś poszło nie tak. Spróbuj ponownie."
+      "error": "Coś poszło nie tak. Spróbuj ponownie.",
+      "practice": "Ćwiczenia"
     }
   },
   "share": {
@@ -4055,7 +4057,12 @@
       "start_again": "Zacznij od nowa",
       "finish": "Zakończ",
       "long_slide": "Ten slajd jest długi: podczas prezentacji może nie zmieścić się na ekranie. Warto podzielić go na dwa.",
-      "heart_unlocks": "Odblokuj z Kier"
+      "heart_unlocks": "Odblokuj z Kier",
+      "practice_boards": "Rozdania do zagrania",
+      "practice_settings_hint": "Uczeń wybiera tylko partnera; liczba rozdań to cel, do którego liczy się postęp.",
+      "practice_progress": "Rozegrane rozdania: {{done}} z {{goal}}",
+      "practice_reached": "Gotowe: rozegrane rozdania {{done}} z {{goal}}",
+      "keep_practising": "Ćwicz dalej"
     },
     "teach_open": "Twoje lekcje, fiszki, quizy i klasy."
   },

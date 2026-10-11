@@ -1549,7 +1549,8 @@
     "sets_order_shuffled": "打乱",
     "sets_available": "可用的牌：{{n}}。会平均分配到各牌组。",
     "sets_order_in_order": "按顺序",
-    "sets_available_one": "可用的牌：{{n}}。"
+    "sets_available_one": "可用的牌：{{n}}。",
+    "from_lesson": "来自你的课程"
   },
   "deal_type_select": {
     "random": "随机手牌",
@@ -1994,7 +1995,8 @@
       "student": "学生",
       "progress": "进度",
       "quiz": "测验",
-      "error": "出错了，请重试。"
+      "error": "出错了，请重试。",
+      "practice": "练习"
     }
   },
   "share": {
@@ -4060,7 +4062,12 @@
       "start_again": "重新开始",
       "finish": "完成",
       "long_slide": "这一页较长：放映时屏幕可能显示不全。可以考虑拆成两页。",
-      "heart_unlocks": "用红桃解锁"
+      "heart_unlocks": "用红桃解锁",
+      "practice_boards": "要打的牌数",
+      "practice_settings_hint": "学生只需选择搭档；牌数是进度的目标。",
+      "practice_progress": "已打 {{done}} / {{goal}} 副牌",
+      "practice_reached": "完成：已打 {{done}} / {{goal}} 副牌",
+      "keep_practising": "继续练习"
     },
     "teach_open": "你的课程、闪卡、测验和班级。"
   },

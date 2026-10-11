@@ -1548,7 +1548,8 @@
     "sets_order_shuffled": "Mélangées",
     "sets_available": "Donnes disponibles : {{n}}. Elles sont réparties également entre les séries.",
     "sets_order_in_order": "Dans l’ordre",
-    "sets_available_one": "Donnes disponibles : {{n}}."
+    "sets_available_one": "Donnes disponibles : {{n}}.",
+    "from_lesson": "De votre leçon"
   },
   "deal_type_select": {
     "random": "Mains aléatoires",
@@ -1993,7 +1994,8 @@
       "student": "Élève",
       "progress": "Progression",
       "quiz": "Quiz",
-      "error": "Un problème est survenu. Réessayez."
+      "error": "Un problème est survenu. Réessayez.",
+      "practice": "Entraînement"
     }
   },
   "share": {
@@ -4053,7 +4055,12 @@
       "start_again": "Recommencer",
       "finish": "Terminer",
       "long_slide": "Cette diapositive est longue : en présentation, elle risque de dépasser l’écran. Pensez à la scinder en deux.",
-      "heart_unlocks": "Débloquer avec Cœur"
+      "heart_unlocks": "Débloquer avec Cœur",
+      "practice_boards": "Donnes à jouer",
+      "practice_settings_hint": "L’élève choisit seulement un partenaire ; les donnes sont l’objectif de sa progression.",
+      "practice_progress": "{{done}} donnes jouées sur {{goal}}",
+      "practice_reached": "Terminé : {{done}} donnes jouées sur {{goal}}",
+      "keep_practising": "Continuer à s’entraîner"
     },
     "teach_open": "Vos leçons, cartes mémo, quiz et classes."
   },

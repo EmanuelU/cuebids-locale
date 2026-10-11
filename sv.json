@@ -1548,7 +1548,8 @@
     "sets_order_shuffled": "Blandade",
     "sets_available": "Tillgängliga brickor: {{n}}. De delas jämnt mellan samlingarna.",
     "sets_order_in_order": "I ordning",
-    "sets_available_one": "Tillgängliga brickor: {{n}}."
+    "sets_available_one": "Tillgängliga brickor: {{n}}.",
+    "from_lesson": "Från din lektion"
   },
   "deal_type_select": {
     "random": "Slumpade händer",
@@ -1993,7 +1994,8 @@
       "student": "Elev",
       "progress": "Framsteg",
       "quiz": "Quiz",
-      "error": "Något gick fel. Försök igen."
+      "error": "Något gick fel. Försök igen.",
+      "practice": "Övning"
     }
   },
   "share": {
@@ -4053,7 +4055,12 @@
       "start_again": "Börja om",
       "finish": "Avsluta",
       "long_slide": "Sidan är lång: när du presenterar får den kanske inte plats på skärmen. Dela gärna upp den på två sidor.",
-      "heart_unlocks": "Lås upp med Hjärter"
+      "heart_unlocks": "Lås upp med Hjärter",
+      "practice_boards": "Brickor att spela",
+      "practice_settings_hint": "Eleven väljer bara partner; brickorna är målet som framstegen räknas mot.",
+      "practice_progress": "{{done}} av {{goal}} brickor spelade",
+      "practice_reached": "Klart: {{done}} av {{goal}} brickor spelade",
+      "keep_practising": "Fortsätt öva"
     },
     "teach_open": "Dina lektioner, frågekort, quiz och klasser."
   },
