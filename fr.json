@@ -4051,7 +4051,8 @@
       "start_again": "Recommencer",
       "finish": "Terminer",
       "long_slide": "Cette diapositive est longue : en présentation, elle risque de dépasser l’écran. Pensez à la scinder en deux."
-    }
+    },
+    "teach_open": "Vos leçons, cartes mémo, quiz et classes."
   },
   "teach": {
     "title": "Enseigner avec Cuebids",

@@ -4051,7 +4051,8 @@
       "start_again": "Empezar de nuevo",
       "finish": "Terminar",
       "long_slide": "Esta diapositiva es larga: al presentarla, puede no caber en la pantalla. Considera dividirla en dos."
-    }
+    },
+    "teach_open": "Tus lecciones, tarjetas, cuestionarios y clases."
   },
   "teach": {
     "title": "Enseña con Cuebids",

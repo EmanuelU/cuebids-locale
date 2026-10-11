@@ -4051,7 +4051,8 @@
       "start_again": "Börja om",
       "finish": "Avsluta",
       "long_slide": "Sidan är lång: när du presenterar får den kanske inte plats på skärmen. Dela gärna upp den på två sidor."
-    }
+    },
+    "teach_open": "Dina lektioner, frågekort, quiz och klasser."
   },
   "teach": {
     "title": "Undervisa med Cuebids",

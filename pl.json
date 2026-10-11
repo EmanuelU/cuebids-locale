@@ -4053,7 +4053,8 @@
       "start_again": "Zacznij od nowa",
       "finish": "Zakończ",
       "long_slide": "Ten slajd jest długi: podczas prezentacji może nie zmieścić się na ekranie. Warto podzielić go na dwa."
-    }
+    },
+    "teach_open": "Twoje lekcje, fiszki, quizy i klasy."
   },
   "teach": {
     "title": "Ucz z Cuebids",

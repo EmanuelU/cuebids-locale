@@ -4058,7 +4058,8 @@
       "start_again": "重新开始",
       "finish": "完成",
       "long_slide": "这一页较长：放映时屏幕可能显示不全。可以考虑拆成两页。"
-    }
+    },
+    "teach_open": "你的课程、闪卡、测验和班级。"
   },
   "teach": {
     "title": "用 Cuebids 教学",
