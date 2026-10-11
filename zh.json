@@ -1834,7 +1834,8 @@
       "challenge_members": "挑战成员",
       "challenges_empty": "本组还没有挑战。",
       "challenges_active": "进行中",
-      "challenges_finished": "已结束"
+      "challenges_finished": "已结束",
+      "tab_lessons": "课程"
     },
     "group_list": {
       "new_events": "新练习",
@@ -1975,7 +1976,6 @@
     "error_cannot_create_free_event": "无法创建免费练习",
     "error_cannot_replace_played_deal": "已有配对打过这副牌时，不能替换。",
     "error_cannot_rotate_played_deal": "当某些配对已经玩过时，无法轮换发牌。",
-    "tab_lessons": "课程",
     "lessons": {
       "none": "还没有与本群组分享的课程。",
       "none_teacher": "从你的资料库分享一节课，班级就能在这里学习。",
@@ -2235,7 +2235,8 @@
       "robot_only": "仍在进行的赛事和挑战中的牌只能与机器人打。",
       "first": "前 {{n}} 副"
     },
-    "add_to_set": "加入牌组"
+    "add_to_set": "加入牌组",
+    "intro": "在你已经打过的牌局中查找：按叫牌、手牌或结果。"
   },
   "flagged_session_deals": {
     "none": "都看完啦！点击旗标即可标记一副牌。",
@@ -3861,7 +3862,7 @@
       "next_due": "下一批卡片：{{date}}。",
       "study_all": "复习全部卡片",
       "empty": "还没有卡片。为牌局添加建议叫牌，其中的叫品就会成为卡片。",
-      "back": "返回牌组"
+      "back": "返回"
     },
     "decks": {
       "title": "闪卡和测验",
@@ -3944,7 +3945,11 @@
       "invalid_invalid": "无法保存这张卡片，请检查各项。",
       "invalid_type": "请选择卡片类型。",
       "true": "对",
-      "false": "错"
+      "false": "错",
+      "language_label": "卡片语言",
+      "update_card": "更新卡片",
+      "edit_card": "编辑卡片",
+      "answer_change": "在下方选择另一个叫品即可更改。"
     },
     "quiz": {
       "score": "你的得分：{{score}} / {{total}}。",
@@ -3965,7 +3970,8 @@
       "open_placeholder": "你的答案",
       "show_answer": "显示答案",
       "true": "对",
-      "false": "错"
+      "false": "错",
+      "your_call": "你的叫品"
     },
     "lessons": {
       "title": "课程",
@@ -4009,7 +4015,7 @@
       "invalid_auction": "这不是叫牌过程。",
       "invalid_answer": "请填写答案。",
       "insert": "插入",
-      "slide_placeholder": "编写幻灯片。以 # 开头的行是标题；- 开始一个列表。",
+      "slide_placeholder": "编写幻灯片：# 标题，## 副标题，**粗体**，> 引用，- 列表。像 1NT 或 2H 这样的叫品会显示花色符号。",
       "done": "完成",
       "cancel": "取消",
       "pick_deck": "选择卡组",
@@ -4031,7 +4037,27 @@
       "next_card": "下一张",
       "practice_text": "现在和搭档或 Lia 一起叫几副类似的牌。",
       "start_practice": "练习",
-      "practice_set_class": "你的老师会把这个牌组作为群组赛事和班级一起打。"
+      "practice_set_class": "你的老师会把这个牌组作为群组赛事和班级一起打。",
+      "format_bold": "粗体",
+      "format_heading": "标题",
+      "format_subheading": "副标题",
+      "format_quote": "引用",
+      "format_divider": "分隔线",
+      "callout_tip": "提示",
+      "callout_note": "注意",
+      "callout_warning": "小心",
+      "example_label": "示例",
+      "language_label": "课程语言",
+      "saving": "正在保存…",
+      "saved": "已保存",
+      "save_error": "无法保存。请检查网络连接；下次修改时会再次尝试。",
+      "back_to_lesson": "返回课程",
+      "continue_lesson": "继续课程",
+      "full_screen": "全屏",
+      "lesson_done": "你已完成这节课。",
+      "start_again": "重新开始",
+      "finish": "完成",
+      "long_slide": "这一页较长：放映时屏幕可能显示不全。可以考虑拆成两页。"
     }
   },
   "teach": {

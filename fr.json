@@ -1833,7 +1833,8 @@
       "challenge_members": "Défier des membres",
       "challenges_empty": "Aucun défi dans ce groupe pour l’instant.",
       "challenges_active": "En cours",
-      "challenges_finished": "Terminés"
+      "challenges_finished": "Terminés",
+      "tab_lessons": "Leçons"
     },
     "group_list": {
       "new_events": "Nouveaux tournois",
@@ -1974,7 +1975,6 @@
     "error_cannot_create_free_event": "Impossible de créer un tournoi gratuit",
     "error_cannot_replace_played_deal": "Impossible de remplacer la donne lorsque certaines paires l’ont déjà jouée.",
     "error_cannot_rotate_played_deal": "Impossible de faire tourner la donne lorsque certaines paires l’ont déjà jouée.",
-    "tab_lessons": "Leçons",
     "lessons": {
       "none": "Aucune leçon partagée avec ce groupe pour l’instant.",
       "none_teacher": "Partagez une leçon de votre bibliothèque et votre classe pourra la suivre ici.",
@@ -2234,7 +2234,8 @@
       "robot_only": "Les donnes de tournois et de défis en cours ne se jouent qu’avec le robot.",
       "first": "Les {{n}} premières"
     },
-    "add_to_set": "Ajouter à une série"
+    "add_to_set": "Ajouter à une série",
+    "intro": "Retrouvez les donnes que vous avez déjà jouées : par les enchères, les mains ou le résultat."
   },
   "flagged_session_deals": {
     "none": "Aucune donne marquée ! Marquez une donne en cliquant sur le drapeau.",
@@ -3860,7 +3861,7 @@
       "next_due": "Prochaines cartes le {{date}}.",
       "study_all": "Réviser toutes les cartes",
       "empty": "Pas encore de cartes. Ajoutez une séquence suggérée à une donne : ses enchères deviennent des cartes.",
-      "back": "Retour à la série"
+      "back": "Retour"
     },
     "decks": {
       "title": "Cartes mémo et quiz",
@@ -3943,7 +3944,11 @@
       "invalid_invalid": "Cette carte ne peut pas être enregistrée. Vérifiez les champs.",
       "invalid_type": "Choisissez un type de carte.",
       "true": "Vrai",
-      "false": "Faux"
+      "false": "Faux",
+      "language_label": "Langue des cartes",
+      "update_card": "Mettre à jour la carte",
+      "edit_card": "Modifier la carte",
+      "answer_change": "Choisissez une autre enchère ci-dessous pour la changer."
     },
     "quiz": {
       "score": "Vous avez {{score}} sur {{total}}.",
@@ -3964,7 +3969,8 @@
       "open_placeholder": "Votre réponse",
       "show_answer": "Voir la réponse",
       "true": "Vrai",
-      "false": "Faux"
+      "false": "Faux",
+      "your_call": "Votre enchère"
     },
     "lessons": {
       "title": "Leçons",
@@ -4008,7 +4014,7 @@
       "invalid_auction": "Ce ne sont pas des enchères.",
       "invalid_answer": "Écrivez la réponse.",
       "insert": "Insérer",
-      "slide_placeholder": "Écrivez la diapositive. Une ligne commençant par # est un titre ; - commence une liste.",
+      "slide_placeholder": "Écrivez la diapositive : # titre, ## sous-titre, **gras**, > citation, - liste. Les enchères comme 1NT ou 2H s’affichent avec leurs couleurs.",
       "done": "Terminé",
       "cancel": "Annuler",
       "pick_deck": "Choisissez un paquet",
@@ -4030,7 +4036,27 @@
       "next_card": "Carte suivante",
       "practice_text": "Enchérissez maintenant quelques donnes de ce type, avec un partenaire ou avec Lia.",
       "start_practice": "S’entraîner",
-      "practice_set_class": "Votre enseignant joue cette série avec la classe en tournoi de groupe."
+      "practice_set_class": "Votre enseignant joue cette série avec la classe en tournoi de groupe.",
+      "format_bold": "Gras",
+      "format_heading": "Titre",
+      "format_subheading": "Sous-titre",
+      "format_quote": "Citation",
+      "format_divider": "Séparateur",
+      "callout_tip": "Astuce",
+      "callout_note": "Remarque",
+      "callout_warning": "Attention",
+      "example_label": "Exemple",
+      "language_label": "Langue de la leçon",
+      "saving": "Enregistrement…",
+      "saved": "Enregistré",
+      "save_error": "Échec de l’enregistrement. Vérifiez votre connexion ; un nouvel essai a lieu à la prochaine modification.",
+      "back_to_lesson": "Retour à la leçon",
+      "continue_lesson": "Continuer la leçon",
+      "full_screen": "Plein écran",
+      "lesson_done": "Vous avez terminé cette leçon.",
+      "start_again": "Recommencer",
+      "finish": "Terminer",
+      "long_slide": "Cette diapositive est longue : en présentation, elle risque de dépasser l’écran. Pensez à la scinder en deux."
     }
   },
   "teach": {

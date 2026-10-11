@@ -1833,7 +1833,8 @@
       "challenge_members": "Challenge members",
       "challenges_empty": "No challenges in this group yet.",
       "challenges_active": "Being played",
-      "challenges_finished": "Finished"
+      "challenges_finished": "Finished",
+      "tab_lessons": "Lessons"
     },
     "group_list": {
       "new_events": "New Events",
@@ -1974,7 +1975,6 @@
     "error_cannot_create_free_event": "Cannot create free event",
     "error_cannot_replace_played_deal": "Cannot replace deal when some pairs have played it.",
     "error_cannot_rotate_played_deal": "Cannot rotate deal when some pairs have played it.",
-    "tab_lessons": "Lessons",
     "lessons": {
       "none": "No lessons shared with this group yet.",
       "none_teacher": "Share a lesson from your Library and your class can work through it here.",
@@ -2234,7 +2234,8 @@
       "robot_only": "Boards from events and challenges still running can only be played with the robot.",
       "first": "First {{n}}"
     },
-    "add_to_set": "Add to a set"
+    "add_to_set": "Add to a set",
+    "intro": "Search the boards you have already played: by the auction, the hands or the result."
   },
   "flagged_session_deals": {
     "none": "All caught up! Flag a deal by clicking the flag.",
@@ -3860,7 +3861,7 @@
       "next_due": "Next cards due {{date}}.",
       "study_all": "Study all cards",
       "empty": "No cards yet. Add a suggested auction to a board and its calls become cards.",
-      "back": "Back to the set"
+      "back": "Back"
     },
     "decks": {
       "title": "Flashcards & quizzes",
@@ -3943,7 +3944,11 @@
       "invalid_invalid": "This card cannot be saved. Check the fields.",
       "invalid_type": "Pick a card type.",
       "true": "True",
-      "false": "False"
+      "false": "False",
+      "language_label": "Language of the cards",
+      "update_card": "Update card",
+      "edit_card": "Edit card",
+      "answer_change": "Pick another call below to change it."
     },
     "quiz": {
       "score": "You scored {{score}} of {{total}}.",
@@ -3964,7 +3969,8 @@
       "open_placeholder": "Your answer",
       "show_answer": "Show answer",
       "true": "True",
-      "false": "False"
+      "false": "False",
+      "your_call": "You bid"
     },
     "lessons": {
       "title": "Lessons",
@@ -4008,7 +4014,7 @@
       "invalid_auction": "That is not an auction.",
       "invalid_answer": "Write the answer.",
       "insert": "Insert",
-      "slide_placeholder": "Write the slide. A line starting with # is a heading; - starts a list.",
+      "slide_placeholder": "Write the slide: # heading, ## subheading, **bold**, > quote, - list. Calls like 1NT or 2H show their suits.",
       "done": "Done",
       "cancel": "Cancel",
       "pick_deck": "Pick a deck",
@@ -4030,7 +4036,27 @@
       "next_card": "Next card",
       "practice_text": "Now bid some boards like these, with a partner or with Lia.",
       "start_practice": "Practice",
-      "practice_set_class": "Your teacher plays this set with the class as a group event."
+      "practice_set_class": "Your teacher plays this set with the class as a group event.",
+      "format_bold": "Bold",
+      "format_heading": "Heading",
+      "format_subheading": "Subheading",
+      "format_quote": "Quote",
+      "format_divider": "Divider",
+      "callout_tip": "Tip",
+      "callout_note": "Note",
+      "callout_warning": "Watch out",
+      "example_label": "Example",
+      "language_label": "Language of the lesson",
+      "saving": "Saving…",
+      "saved": "Saved",
+      "save_error": "Could not save. Check your connection; it tries again when you change something.",
+      "back_to_lesson": "Back to the lesson",
+      "continue_lesson": "Continue the lesson",
+      "full_screen": "Full screen",
+      "lesson_done": "You finished this lesson.",
+      "start_again": "Start again",
+      "finish": "Finish",
+      "long_slide": "This slide is long: presented, it may not fit a classroom screen. Consider splitting it in two."
     }
   },
   "teach": {
