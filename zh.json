@@ -4104,7 +4104,13 @@
       "members": "成员：{{count}}",
       "classes_intro": "你教的小组。打开一个即可发给它课程，并查看班级进度。",
       "new_class": "新建班级",
-      "open_group": "打开小组"
+      "open_group": "打开小组",
+      "published": "已发布：你的班级看到的是这个版本。",
+      "unpublished": "有未发布的更改：你的班级仍看到你上次发布的版本。",
+      "publish": "发布",
+      "publish_error": "发布失败。请检查网络连接后重试。",
+      "duplicate": "复制",
+      "copy_title": "{{title}}（副本）"
     }
   },
   "pbn": {

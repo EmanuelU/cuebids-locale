@@ -4097,7 +4097,13 @@
       "members": "Miembros: {{count}}",
       "classes_intro": "Los grupos a los que enseñas. Abre uno para darle lecciones y seguir cómo va la clase.",
       "new_class": "Nueva clase",
-      "open_group": "Abrir el grupo"
+      "open_group": "Abrir el grupo",
+      "published": "Publicado: tus clases ven esta versión.",
+      "unpublished": "Cambios sin publicar: tus clases siguen viendo la última versión que publicaste.",
+      "publish": "Publicar",
+      "publish_error": "No se pudo publicar. Revisa tu conexión e inténtalo de nuevo.",
+      "duplicate": "Duplicar",
+      "copy_title": "{{title}} (copia)"
     }
   },
   "pbn": {

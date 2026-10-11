@@ -4097,7 +4097,13 @@
       "members": "Medlemmar: {{count}}",
       "classes_intro": "Grupperna du undervisar. Öppna en för att ge den lektioner och följa hur det går för klassen.",
       "new_class": "Ny klass",
-      "open_group": "Öppna gruppen"
+      "open_group": "Öppna gruppen",
+      "published": "Publicerad: dina klasser ser den här versionen.",
+      "unpublished": "Opublicerade ändringar: dina klasser ser fortfarande den senaste versionen du publicerade.",
+      "publish": "Publicera",
+      "publish_error": "Kunde inte publicera. Kontrollera anslutningen och försök igen.",
+      "duplicate": "Duplicera",
+      "copy_title": "{{title}} (kopia)"
     }
   },
   "pbn": {

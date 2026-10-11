@@ -4099,7 +4099,13 @@
       "members": "Członkowie: {{count}}",
       "classes_intro": "Grupy, które uczysz. Otwórz jedną, aby przekazać jej lekcje i śledzić postępy klasy.",
       "new_class": "Nowa klasa",
-      "open_group": "Otwórz grupę"
+      "open_group": "Otwórz grupę",
+      "published": "Opublikowano: Twoje klasy widzą tę wersję.",
+      "unpublished": "Nieopublikowane zmiany: Twoje klasy wciąż widzą ostatnią opublikowaną wersję.",
+      "publish": "Opublikuj",
+      "publish_error": "Nie udało się opublikować. Sprawdź połączenie i spróbuj ponownie.",
+      "duplicate": "Duplikuj",
+      "copy_title": "{{title}} (kopia)"
     }
   },
   "pbn": {
