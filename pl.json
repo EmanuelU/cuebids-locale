@@ -2236,7 +2236,8 @@
       "robot_only": "Rozdania z trwających turniejów i wyzwań można zagrać tylko z robotem.",
       "first": "Pierwsze {{n}}"
     },
-    "add_to_set": "Dodaj do zestawu"
+    "add_to_set": "Dodaj do zestawu",
+    "intro": "Przeszukaj rozdania, które już zostały rozegrane: według licytacji, rąk lub wyniku."
   },
   "flagged_session_deals": {
     "none": "Wszystko nadrobione! Oflaguj rozdanie używając kropkowanego menu po zakończeniu licytacji.",

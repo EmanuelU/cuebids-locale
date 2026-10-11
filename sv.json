@@ -2234,7 +2234,8 @@
       "robot_only": "Brickor från tävlingar och utmaningar som pågår kan bara spelas med roboten.",
       "first": "De första {{n}}"
     },
-    "add_to_set": "Lägg till i en samling"
+    "add_to_set": "Lägg till i en samling",
+    "intro": "Sök bland brickor du redan har spelat: på budgivningen, händerna eller resultatet."
   },
   "flagged_session_deals": {
     "none": "Allt klart! Markera en giv genom att klicka på flaggan.",

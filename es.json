@@ -2234,7 +2234,8 @@
       "robot_only": "Las manos de torneos y desafíos en curso solo se pueden jugar con el robot.",
       "first": "Las {{n}} primeras"
     },
-    "add_to_set": "Añadir a una serie"
+    "add_to_set": "Añadir a una serie",
+    "intro": "Busca entre las manos que ya has jugado: por la subasta, las cartas o el resultado."
   },
   "flagged_session_deals": {
     "none": "¡Todo al día! Marca una mano haciendo clic en la bandera.",

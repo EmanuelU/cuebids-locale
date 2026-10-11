@@ -2234,7 +2234,8 @@
       "robot_only": "Boards from events and challenges still running can only be played with the robot.",
       "first": "First {{n}}"
     },
-    "add_to_set": "Add to a set"
+    "add_to_set": "Add to a set",
+    "intro": "Search the boards you have already played: by the auction, the hands or the result."
   },
   "flagged_session_deals": {
     "none": "All caught up! Flag a deal by clicking the flag.",

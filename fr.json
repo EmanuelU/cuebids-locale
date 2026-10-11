@@ -2234,7 +2234,8 @@
       "robot_only": "Les donnes de tournois et de défis en cours ne se jouent qu’avec le robot.",
       "first": "Les {{n}} premières"
     },
-    "add_to_set": "Ajouter à une série"
+    "add_to_set": "Ajouter à une série",
+    "intro": "Retrouvez les donnes que vous avez déjà jouées : par les enchères, les mains ou le résultat."
   },
   "flagged_session_deals": {
     "none": "Aucune donne marquée ! Marquez une donne en cliquant sur le drapeau.",
