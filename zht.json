@@ -1404,7 +1404,10 @@
     "show_older_sessions": "顯示更早的叫牌練習",
     "no_tickets": "<strong>訂閱</strong>或在<strong>商店</strong>購買<strong>門票</strong>",
     "no_subscription": "<strong>訂閱</strong>以解鎖更多<strong>功能</strong>",
-    "no_heart_subscription": "開通<strong>紅桃訂閱</strong>即可解鎖全部內容"
+    "no_heart_subscription": "開通<strong>紅桃訂閱</strong>即可解鎖全部內容",
+    "lesson_in_progress": "你的課程",
+    "lesson_continue": "繼續",
+    "lesson_drop": "移除"
   },
   "practice": {
     "title": "叫牌練習",

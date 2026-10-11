@@ -1403,7 +1403,10 @@
     "show_older_sessions": "Show older sessions",
     "no_tickets": "<strong>Subscribe</strong> or buy <strong>Tickets</strong> in the <strong>Store</strong>",
     "no_subscription": "<strong>Subscribe</strong> to unlock more <strong>features</strong>",
-    "no_heart_subscription": "Get a <strong>Heart Subscription</strong> to unlock everything"
+    "no_heart_subscription": "Get a <strong>Heart Subscription</strong> to unlock everything",
+    "lesson_in_progress": "Your lesson",
+    "lesson_continue": "Continue",
+    "lesson_drop": "Drop"
   },
   "practice": {
     "title": "Practice bidding",

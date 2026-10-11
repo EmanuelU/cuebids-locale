@@ -1403,7 +1403,10 @@
     "show_older_sessions": "Visa äldre sessioner",
     "no_tickets": "<strong>Prenumerera</strong> eller köp <strong>Biljetter</strong> i <strong>Butiken</strong>",
     "no_subscription": "<strong>Prenumerera</strong> för att låsa upp fler <strong>Funktioner</strong>",
-    "no_heart_subscription": "Bli <strong>Hjärterprenumerant</strong> för tillgång till <strong>allt</strong>!"
+    "no_heart_subscription": "Bli <strong>Hjärterprenumerant</strong> för tillgång till <strong>allt</strong>!",
+    "lesson_in_progress": "Din lektion",
+    "lesson_continue": "Fortsätt",
+    "lesson_drop": "Ta bort"
   },
   "practice": {
     "title": "Träna budgivning",

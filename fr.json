@@ -1403,7 +1403,10 @@
     "show_older_sessions": "Afficher les sessions plus anciennes",
     "no_tickets": "<strong>Abonnez-vous</strong> ou achetez des <strong>tickets</strong> dans la <strong>boutique</strong>",
     "no_subscription": "<strong>Abonnez-vous</strong> pour débloquer plus de <strong>fonctionnalités</strong>",
-    "no_heart_subscription": "Obtenez un <strong>abonnement Cœur</strong> pour tout débloquer"
+    "no_heart_subscription": "Obtenez un <strong>abonnement Cœur</strong> pour tout débloquer",
+    "lesson_in_progress": "Votre leçon",
+    "lesson_continue": "Continuer",
+    "lesson_drop": "Abandonner"
   },
   "practice": {
     "title": "S'entraîner aux enchères",

@@ -1403,7 +1403,10 @@
     "show_older_sessions": "Mostrar sesiones anteriores",
     "no_tickets": "<strong>Suscríbete</strong> o compra <strong>tickets</strong> en la <strong>tienda</strong>",
     "no_subscription": "<strong>Suscríbete</strong> para desbloquear más <strong>funciones</strong>",
-    "no_heart_subscription": "Consigue una <strong>suscripción Heart</strong> para desbloquearlo todo"
+    "no_heart_subscription": "Consigue una <strong>suscripción Heart</strong> para desbloquearlo todo",
+    "lesson_in_progress": "Tu lección",
+    "lesson_continue": "Continuar",
+    "lesson_drop": "Dejar"
   },
   "practice": {
     "title": "Práctica de subasta",

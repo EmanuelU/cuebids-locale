@@ -1405,7 +1405,10 @@
     "show_older_sessions": "Pokaż poprzednie sesje",
     "no_tickets": "<strong>Subskrybuj</strong> lub kup <strong>Bilety</strong> w <strong>Sklepie</strong>",
     "no_subscription": "<strong>Subskrybuj</strong>, aby odblokować więcej <strong>Funkcji</strong>",
-    "no_heart_subscription": "Zdobądź <strong>Subskrypcję kier</strong>, aby uzyskać dostęp do wszystkiego"
+    "no_heart_subscription": "Zdobądź <strong>Subskrypcję kier</strong>, aby uzyskać dostęp do wszystkiego",
+    "lesson_in_progress": "Twoja lekcja",
+    "lesson_continue": "Kontynuuj",
+    "lesson_drop": "Porzuć"
   },
   "practice": {
     "title": "Ćwicz licytację",
