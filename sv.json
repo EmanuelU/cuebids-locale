@@ -3964,7 +3964,9 @@
       "show_answer": "Visa svaret",
       "true": "Sant",
       "false": "Falskt",
-      "your_call": "Du bjöd"
+      "your_call": "Du bjöd",
+      "choose_all": "Välj alla som stämmer.",
+      "selected_call": "Ditt bud"
     },
     "lessons": {
       "title": "Lektioner",

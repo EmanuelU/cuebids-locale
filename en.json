@@ -3964,7 +3964,9 @@
       "show_answer": "Show answer",
       "true": "True",
       "false": "False",
-      "your_call": "You bid"
+      "your_call": "You bid",
+      "choose_all": "Choose all that apply.",
+      "selected_call": "Your call"
     },
     "lessons": {
       "title": "Lessons",

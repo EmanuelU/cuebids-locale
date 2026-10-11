@@ -3971,7 +3971,9 @@
       "show_answer": "显示答案",
       "true": "对",
       "false": "错",
-      "your_call": "你的叫品"
+      "your_call": "你的叫品",
+      "choose_all": "选出所有正确答案。",
+      "selected_call": "你的叫品"
     },
     "lessons": {
       "title": "课程",

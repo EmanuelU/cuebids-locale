@@ -3964,7 +3964,9 @@
       "show_answer": "Voir la réponse",
       "true": "Vrai",
       "false": "Faux",
-      "your_call": "Votre enchère"
+      "your_call": "Votre enchère",
+      "choose_all": "Choisissez toutes les bonnes réponses.",
+      "selected_call": "Votre enchère"
     },
     "lessons": {
       "title": "Leçons",

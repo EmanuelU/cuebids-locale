@@ -3964,7 +3964,9 @@
       "show_answer": "Ver la respuesta",
       "true": "Verdadero",
       "false": "Falso",
-      "your_call": "Tu voz"
+      "your_call": "Tu voz",
+      "choose_all": "Elige todas las correctas.",
+      "selected_call": "Tu voz"
     },
     "lessons": {
       "title": "Lecciones",

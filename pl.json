@@ -3966,7 +3966,9 @@
       "show_answer": "Pokaż odpowiedź",
       "true": "Prawda",
       "false": "Fałsz",
-      "your_call": "Twoja odzywka"
+      "your_call": "Twoja odzywka",
+      "choose_all": "Wybierz wszystkie poprawne.",
+      "selected_call": "Twoja odzywka"
     },
     "lessons": {
       "title": "Lekcje",
