@@ -1406,7 +1406,10 @@
     "no_heart_subscription": "Obtenez un <strong>abonnement Cœur</strong> pour tout débloquer",
     "lesson_in_progress": "Votre leçon",
     "lesson_continue": "Continuer",
-    "lesson_drop": "Abandonner"
+    "lesson_drop": "Abandonner",
+    "lesson_done": "Leçon terminée",
+    "lesson_done_text": "Vous avez fait toutes les étapes, entraînement compris.",
+    "lesson_ok": "OK"
   },
   "practice": {
     "title": "S'entraîner aux enchères",

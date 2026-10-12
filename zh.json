@@ -1407,7 +1407,10 @@
     "no_heart_subscription": "开通<strong>红桃订阅</strong>即可解锁全部内容",
     "lesson_in_progress": "你的课程",
     "lesson_continue": "继续",
-    "lesson_drop": "移除"
+    "lesson_drop": "移除",
+    "lesson_done": "课程已完成",
+    "lesson_done_text": "你已完成所有步骤，包括练习。",
+    "lesson_ok": "好"
   },
   "practice": {
     "title": "叫牌练习",

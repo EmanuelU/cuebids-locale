@@ -1406,7 +1406,10 @@
     "no_heart_subscription": "Consigue una <strong>suscripción Heart</strong> para desbloquearlo todo",
     "lesson_in_progress": "Tu lección",
     "lesson_continue": "Continuar",
-    "lesson_drop": "Dejar"
+    "lesson_drop": "Dejar",
+    "lesson_done": "Lección terminada",
+    "lesson_done_text": "Has hecho todos los pasos, incluida la práctica.",
+    "lesson_ok": "OK"
   },
   "practice": {
     "title": "Práctica de subasta",

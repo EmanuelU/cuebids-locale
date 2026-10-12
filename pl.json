@@ -1408,7 +1408,10 @@
     "no_heart_subscription": "Zdobądź <strong>Subskrypcję kier</strong>, aby uzyskać dostęp do wszystkiego",
     "lesson_in_progress": "Twoja lekcja",
     "lesson_continue": "Kontynuuj",
-    "lesson_drop": "Porzuć"
+    "lesson_drop": "Porzuć",
+    "lesson_done": "Lekcja ukończona",
+    "lesson_done_text": "Wszystkie kroki zrobione, łącznie z ćwiczeniem.",
+    "lesson_ok": "OK"
   },
   "practice": {
     "title": "Ćwicz licytację",

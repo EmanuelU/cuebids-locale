@@ -1406,7 +1406,10 @@
     "no_heart_subscription": "Get a <strong>Heart Subscription</strong> to unlock everything",
     "lesson_in_progress": "Your lesson",
     "lesson_continue": "Continue",
-    "lesson_drop": "Drop"
+    "lesson_drop": "Drop",
+    "lesson_done": "Lesson finished",
+    "lesson_done_text": "You have done every step, practice included.",
+    "lesson_ok": "OK"
   },
   "practice": {
     "title": "Practice bidding",

@@ -1406,7 +1406,10 @@
     "no_heart_subscription": "Bli <strong>Hjärterprenumerant</strong> för tillgång till <strong>allt</strong>!",
     "lesson_in_progress": "Din lektion",
     "lesson_continue": "Fortsätt",
-    "lesson_drop": "Ta bort"
+    "lesson_drop": "Ta bort",
+    "lesson_done": "Lektionen klar",
+    "lesson_done_text": "Du har gjort alla steg, övningen också.",
+    "lesson_ok": "OK"
   },
   "practice": {
     "title": "Träna budgivning",
