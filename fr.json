@@ -3569,7 +3569,11 @@
     "error_code_unknown": "Ce code n’est pas reconnu. Vérifiez-le et réessayez.",
     "error_code_used": "Ce code a déjà été utilisé.",
     "error_code_expired": "Ce code a expiré.",
-    "error_too_many": "Trop de tentatives. Patientez un peu et réessayez."
+    "error_too_many": "Trop de tentatives. Patientez un peu et réessayez.",
+    "product_reward_heart_one": "{{count}} mois de Cœur",
+    "product_reward_heart_other": "{{count}} mois de Cœur",
+    "product_reward_tickets_one": "{{count}} ticket",
+    "product_reward_tickets_other": "{{count}} tickets"
   },
   "guides_hub": {
     "page_title": "Guides Cuebids – aide et dépannage",

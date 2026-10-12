@@ -3571,7 +3571,15 @@
     "error_code_unknown": "Nie znamy tego kodu. Sprawdź go i spróbuj ponownie.",
     "error_code_used": "Ten kod został już użyty.",
     "error_code_expired": "Ten kod wygasł.",
-    "error_too_many": "Zbyt wiele prób. Odczekaj chwilę i spróbuj ponownie."
+    "error_too_many": "Zbyt wiele prób. Odczekaj chwilę i spróbuj ponownie.",
+    "product_reward_heart_one": "Kier na {{count}} miesiąc",
+    "product_reward_heart_few": "Kier na {{count}} miesiące",
+    "product_reward_heart_many": "Kier na {{count}} miesięcy",
+    "product_reward_heart_other": "Kier na {{count}} miesiąca",
+    "product_reward_tickets_one": "{{count}} bilet",
+    "product_reward_tickets_few": "{{count}} bilety",
+    "product_reward_tickets_many": "{{count}} biletów",
+    "product_reward_tickets_other": "{{count}} biletu"
   },
   "guides_hub": {
     "page_title": "Przewodniki Cuebids – pomoc i rozwiązywanie problemów",

@@ -3569,7 +3569,11 @@
     "error_code_unknown": "That code isn't one of ours. Check it and try again.",
     "error_code_used": "This code has already been used.",
     "error_code_expired": "This code has expired.",
-    "error_too_many": "Too many attempts. Wait a while and try again."
+    "error_too_many": "Too many attempts. Wait a while and try again.",
+    "product_reward_heart_one": "a month of Heart",
+    "product_reward_heart_other": "{{count}} months of Heart",
+    "product_reward_tickets_one": "{{count}} ticket",
+    "product_reward_tickets_other": "{{count}} tickets"
   },
   "guides_hub": {
     "page_title": "Cuebids guides – help and troubleshooting",

@@ -3570,7 +3570,11 @@
     "error_code_unknown": "我們不認識這個禮品碼。請檢查後重試。",
     "error_code_used": "此禮品碼已被使用。",
     "error_code_expired": "此禮品碼已過期。",
-    "error_too_many": "嘗試次數過多。請稍等片刻再試。"
+    "error_too_many": "嘗試次數過多。請稍等片刻再試。",
+    "product_reward_heart_other": "{{count}} 個月紅桃會員",
+    "product_reward_tickets_other": "{{count}} 張門票",
+    "product_reward_heart_one": "{{count}} 個月紅桃會員",
+    "product_reward_tickets_one": "{{count}} 張門票"
   },
   "guides_hub": {
     "page_title": "Cuebids 指南 – 幫助與疑難排解",

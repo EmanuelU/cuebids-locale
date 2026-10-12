@@ -3569,7 +3569,11 @@
     "error_code_unknown": "No reconocemos ese código. Revísalo e inténtalo de nuevo.",
     "error_code_used": "Este código ya se ha usado.",
     "error_code_expired": "Este código ha caducado.",
-    "error_too_many": "Demasiados intentos. Espera un poco e inténtalo de nuevo."
+    "error_too_many": "Demasiados intentos. Espera un poco e inténtalo de nuevo.",
+    "product_reward_heart_one": "un mes de Heart",
+    "product_reward_heart_other": "{{count}} meses de Heart",
+    "product_reward_tickets_one": "{{count}} ticket",
+    "product_reward_tickets_other": "{{count}} tickets"
   },
   "guides_hub": {
     "page_title": "Guías de Cuebids – ayuda y solución de problemas",

@@ -3570,7 +3570,11 @@
     "error_code_unknown": "我们不认识这个礼品码。请检查后重试。",
     "error_code_used": "此礼品码已被使用。",
     "error_code_expired": "此礼品码已过期。",
-    "error_too_many": "尝试次数过多。请稍等片刻再试。"
+    "error_too_many": "尝试次数过多。请稍等片刻再试。",
+    "product_reward_heart_other": "{{count}} 个月红桃会员",
+    "product_reward_tickets_other": "{{count}} 张门票",
+    "product_reward_heart_one": "{{count}} 个月红桃会员",
+    "product_reward_tickets_one": "{{count}} 张门票"
   },
   "guides_hub": {
     "page_title": "Cuebids 指南 – 帮助与故障排除",

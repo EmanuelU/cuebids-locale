@@ -3569,7 +3569,11 @@
     "error_code_unknown": "Den koden känner vi inte igen. Kontrollera den och försök igen.",
     "error_code_used": "Den här koden är redan använd.",
     "error_code_expired": "Den här koden har gått ut.",
-    "error_too_many": "För många försök. Vänta en stund och försök igen."
+    "error_too_many": "För många försök. Vänta en stund och försök igen.",
+    "product_reward_heart_one": "en månad Hjärter",
+    "product_reward_heart_other": "{{count}} månader Hjärter",
+    "product_reward_tickets_one": "{{count}} biljett",
+    "product_reward_tickets_other": "{{count}} biljetter"
   },
   "guides_hub": {
     "page_title": "Cuebids-guider – hjälp och felsökning",
