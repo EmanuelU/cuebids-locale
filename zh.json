@@ -3776,7 +3776,8 @@
       "decks_title": "闪卡和测验",
       "teaching": "教学",
       "teach_card": "用 Cuebids 教学：课程、闪卡和班级赛事，教师免费使用。",
-      "lessons_title": "课程"
+      "lessons_title": "课程",
+      "teach_open": "你的课程、闪卡、测验、牌局和班级。"
     },
     "sets": {
       "new_placeholder": "为新牌组命名",
@@ -4083,9 +4084,13 @@
       "byline": "作者：{{name}}",
       "other_languages": "其他语言",
       "public_title": "Cuebids 课程",
-      "public_intro": "按自己的节奏阅读，做做测验，然后到牌桌上练习。阅读免费；练习每副牌消耗一张门票。"
-    },
-    "teach_open": "你的课程、闪卡、测验和班级。"
+      "public_intro": "按自己的节奏阅读，做做测验，然后到牌桌上练习。阅读免费；练习每副牌消耗一张门票。",
+      "preview_banner": "投稿预览：你看到的与学生相同。不会保存任何内容，这里的练习也不计入。",
+      "admins_only": "仅管理员",
+      "cards_done": "你已看完所有卡片，答对 {{knew}} / {{total}}。",
+      "cards_none": "这个卡组还没有卡片。",
+      "cards_again": "再看一遍"
+    }
   },
   "teach": {
     "title": "用 Cuebids 教学",
@@ -4191,7 +4196,14 @@
       "show_contracts": "最佳定约",
       "submit_withdraw": "撤回",
       "submit_withdraw_error": "无法撤回，可能已经审核过了。",
-      "back": "返回"
+      "back": "返回",
+      "open_submission": "打开试用",
+      "public_audience_off": "关闭",
+      "public_audience_admins": "仅管理员",
+      "public_audience_everyone": "所有人",
+      "public_audience_off_hint": "只有你能在教学区看到它。",
+      "public_audience_admins_hint": "管理员可在资料库中找到它，并像学生一样完整体验。玩家暂时看不到。",
+      "public_audience_everyone_hint": "所有玩家无需加入班级即可在资料库中找到它，看到的是你最近发布的版本。"
     }
   },
   "pbn": {

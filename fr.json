@@ -3775,7 +3775,8 @@
       "decks_title": "Cartes mémo et quiz",
       "teaching": "Enseignement",
       "teach_card": "Enseigner avec Cuebids : leçons, cartes mémo et tournois de classe, gratuits pour les enseignants.",
-      "lessons_title": "Leçons"
+      "lessons_title": "Leçons",
+      "teach_open": "Vos leçons, cartes mémo, quiz, donnes et classes."
     },
     "sets": {
       "new_placeholder": "Nommer une nouvelle série",
@@ -4082,9 +4083,13 @@
       "byline": "Par {{name}}",
       "other_languages": "Aussi en",
       "public_title": "Leçons de Cuebids",
-      "public_intro": "Lisez à votre rythme, testez-vous, puis entraînez-vous à la table. La lecture est gratuite ; l’entraînement coûte un ticket par donne."
-    },
-    "teach_open": "Vos leçons, cartes mémo, quiz et classes."
+      "public_intro": "Lisez à votre rythme, testez-vous, puis entraînez-vous à la table. La lecture est gratuite ; l’entraînement coûte un ticket par donne.",
+      "preview_banner": "Aperçu d’une proposition : vous la voyez comme un élève. Rien n’est enregistré, et l’entraînement ici ne compte pas.",
+      "admins_only": "Admins seulement",
+      "cards_done": "Vous avez vu toutes les cartes et en connaissiez {{knew}} sur {{total}}.",
+      "cards_none": "Ce paquet n’a pas encore de cartes.",
+      "cards_again": "Les revoir"
+    }
   },
   "teach": {
     "title": "Enseigner avec Cuebids",
@@ -4190,7 +4195,14 @@
       "show_contracts": "Meilleurs contrats",
       "submit_withdraw": "Retirer",
       "submit_withdraw_error": "Impossible de la retirer. Elle a peut-être déjà été examinée.",
-      "back": "Retour"
+      "back": "Retour",
+      "open_submission": "Ouvrir et essayer",
+      "public_audience_off": "Désactivée",
+      "public_audience_admins": "Admins seulement",
+      "public_audience_everyone": "Tout le monde",
+      "public_audience_off_hint": "Vous seul la voyez, ici dans Enseigner.",
+      "public_audience_admins_hint": "Les admins la trouvent dans la Bibliothèque et la suivent exactement comme un élève. Les joueurs ne la voient pas encore.",
+      "public_audience_everyone_hint": "Tous les joueurs la trouvent dans la Bibliothèque, sans classe, et voient la dernière version publiée."
     }
   },
   "pbn": {

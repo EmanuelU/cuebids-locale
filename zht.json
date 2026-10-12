@@ -3776,7 +3776,8 @@
       "decks_title": "閃卡和測驗",
       "teaching": "教學",
       "teach_card": "用 Cuebids 教學：課程、閃卡和班級賽事，教師免費使用。",
-      "lessons_title": "課程"
+      "lessons_title": "課程",
+      "teach_open": "你的課程、閃卡、測驗、牌局和班級。"
     },
     "sets": {
       "new_placeholder": "為新牌組命名",
@@ -4083,9 +4084,13 @@
       "byline": "作者：{{name}}",
       "other_languages": "其他語言",
       "public_title": "Cuebids 課程",
-      "public_intro": "依自己的節奏閱讀，做做測驗，再到牌桌上練習。閱讀免費；練習每副牌消耗一張門票。"
-    },
-    "teach_open": "你的課程、閃卡、測驗和班級。"
+      "public_intro": "依自己的節奏閱讀，做做測驗，再到牌桌上練習。閱讀免費；練習每副牌消耗一張門票。",
+      "preview_banner": "投稿預覽：你看到的與學生相同。不會儲存任何內容，這裡的練習也不計入。",
+      "admins_only": "僅管理員",
+      "cards_done": "你已看完所有卡片，答對 {{knew}} / {{total}}。",
+      "cards_none": "這個卡組還沒有卡片。",
+      "cards_again": "再看一遍"
+    }
   },
   "teach": {
     "title": "用 Cuebids 教學",
@@ -4191,7 +4196,14 @@
       "show_contracts": "最佳合約",
       "submit_withdraw": "撤回",
       "submit_withdraw_error": "無法撤回，可能已經審核過了。",
-      "back": "返回"
+      "back": "返回",
+      "open_submission": "開啟試用",
+      "public_audience_off": "關閉",
+      "public_audience_admins": "僅管理員",
+      "public_audience_everyone": "所有人",
+      "public_audience_off_hint": "只有你能在教學區看到它。",
+      "public_audience_admins_hint": "管理員可在資料庫中找到它，並像學生一樣完整體驗。玩家暫時看不到。",
+      "public_audience_everyone_hint": "所有玩家不必加入班級即可在資料庫中找到它，看到的是你最近發布的版本。"
     }
   },
   "pbn": {

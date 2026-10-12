@@ -3775,7 +3775,8 @@
       "decks_title": "Tarjetas y cuestionarios",
       "teaching": "Enseñanza",
       "teach_card": "Enseña con Cuebids: lecciones, tarjetas y eventos de clase, gratis para profesores.",
-      "lessons_title": "Lecciones"
+      "lessons_title": "Lecciones",
+      "teach_open": "Tus lecciones, tarjetas, cuestionarios, manos y clases."
     },
     "sets": {
       "new_placeholder": "Nombra una serie nueva",
@@ -4082,9 +4083,13 @@
       "byline": "Por {{name}}",
       "other_languages": "También en",
       "public_title": "Lecciones de Cuebids",
-      "public_intro": "Lee a tu ritmo, ponte a prueba y luego practica en la mesa. Leer es gratis; la práctica cuesta un ticket por mano."
-    },
-    "teach_open": "Tus lecciones, tarjetas, cuestionarios y clases."
+      "public_intro": "Lee a tu ritmo, ponte a prueba y luego practica en la mesa. Leer es gratis; la práctica cuesta un ticket por mano.",
+      "preview_banner": "Vista previa de una propuesta: la ves como un alumno. No se guarda nada, y la práctica aquí no cuenta.",
+      "admins_only": "Solo admins",
+      "cards_done": "Has repasado todas las tarjetas y sabías {{knew}} de {{total}}.",
+      "cards_none": "Este mazo aún no tiene tarjetas.",
+      "cards_again": "Repasarlas otra vez"
+    }
   },
   "teach": {
     "title": "Enseña con Cuebids",
@@ -4190,7 +4195,14 @@
       "show_contracts": "Mejores contratos",
       "submit_withdraw": "Retirar",
       "submit_withdraw_error": "No se pudo retirar. Puede que ya se haya revisado.",
-      "back": "Atrás"
+      "back": "Atrás",
+      "open_submission": "Abrir y probar",
+      "public_audience_off": "Desactivada",
+      "public_audience_admins": "Solo admins",
+      "public_audience_everyone": "Todos",
+      "public_audience_off_hint": "Solo tú la ves, aquí en Enseñar.",
+      "public_audience_admins_hint": "Los admins la encuentran en la Biblioteca y la recorren igual que un alumno. Los jugadores aún no la ven.",
+      "public_audience_everyone_hint": "Todos los jugadores la encuentran en la Biblioteca, sin clase, y ven la última versión que publicaste."
     }
   },
   "pbn": {

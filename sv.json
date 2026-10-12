@@ -3775,7 +3775,8 @@
       "decks_title": "Frågekort & quiz",
       "teaching": "Undervisning",
       "teach_card": "Lär ut med Cuebids: lektioner, frågekort och klassevent, gratis för lärare.",
-      "lessons_title": "Lektioner"
+      "lessons_title": "Lektioner",
+      "teach_open": "Dina lektioner, frågekort, quiz, brickor och klasser."
     },
     "sets": {
       "new_placeholder": "Namnge en ny samling",
@@ -4082,9 +4083,13 @@
       "byline": "Av {{name}}",
       "other_languages": "Finns även på",
       "public_title": "Lektioner från Cuebids",
-      "public_intro": "Läs i egen takt, testa dig själv och öva sedan vid bordet. Att läsa är gratis; övningen kostar en biljett per bricka."
-    },
-    "teach_open": "Dina lektioner, frågekort, quiz och klasser."
+      "public_intro": "Läs i egen takt, testa dig själv och öva sedan vid bordet. Att läsa är gratis; övningen kostar en biljett per bricka.",
+      "preview_banner": "Förhandsvisning av en inskickad lektion: du ser den som en elev. Inget sparas, och övning här räknas inte.",
+      "admins_only": "Bara admins",
+      "cards_done": "Du har gått igenom alla kort och kunde {{knew}} av {{total}}.",
+      "cards_none": "Kortleken har inga kort än.",
+      "cards_again": "Gå igenom dem igen"
+    }
   },
   "teach": {
     "title": "Undervisa med Cuebids",
@@ -4190,7 +4195,14 @@
       "show_contracts": "Bästa kontrakt",
       "submit_withdraw": "Ta tillbaka",
       "submit_withdraw_error": "Det gick inte att ta tillbaka. Den kan redan ha granskats.",
-      "back": "Tillbaka"
+      "back": "Tillbaka",
+      "open_submission": "Öppna och prova",
+      "public_audience_off": "Av",
+      "public_audience_admins": "Bara admins",
+      "public_audience_everyone": "Alla",
+      "public_audience_off_hint": "Bara du ser den, här i Undervisa.",
+      "public_audience_admins_hint": "Admins hittar den i biblioteket och går igenom den precis som en elev. Spelarna ser den inte än.",
+      "public_audience_everyone_hint": "Alla spelare hittar den i biblioteket, utan att vara med i en klass, och ser den version du senast publicerade."
     }
   },
   "pbn": {

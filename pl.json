@@ -3777,7 +3777,8 @@
       "decks_title": "Fiszki i quizy",
       "teaching": "Nauczanie",
       "teach_card": "Ucz z Cuebids: lekcje, fiszki i wydarzenia klasowe, bezpłatnie dla nauczycieli.",
-      "lessons_title": "Lekcje"
+      "lessons_title": "Lekcje",
+      "teach_open": "Twoje lekcje, fiszki, quizy, rozdania i klasy."
     },
     "sets": {
       "new_placeholder": "Nazwij nowy zestaw",
@@ -4084,9 +4085,13 @@
       "byline": "Autor: {{name}}",
       "other_languages": "Także w języku",
       "public_title": "Lekcje od Cuebids",
-      "public_intro": "Czytaj we własnym tempie, sprawdź się w quizie, a potem ćwicz przy stole. Czytanie jest bezpłatne; ćwiczenie kosztuje bilet za rozdanie."
-    },
-    "teach_open": "Twoje lekcje, fiszki, quizy i klasy."
+      "public_intro": "Czytaj we własnym tempie, sprawdź się w quizie, a potem ćwicz przy stole. Czytanie jest bezpłatne; ćwiczenie kosztuje bilet za rozdanie.",
+      "preview_banner": "Podgląd zgłoszenia: widzisz lekcję tak jak uczeń. Nic nie jest zapisywane, a ćwiczenie tutaj się nie liczy.",
+      "admins_only": "Tylko admini",
+      "cards_done": "Wszystkie karty przerobione. Znane: {{knew}} z {{total}}.",
+      "cards_none": "Ta talia nie ma jeszcze kart.",
+      "cards_again": "Przejdź je jeszcze raz"
+    }
   },
   "teach": {
     "title": "Ucz z Cuebids",
@@ -4192,7 +4197,14 @@
       "show_contracts": "Najlepsze kontrakty",
       "submit_withdraw": "Wycofaj",
       "submit_withdraw_error": "Nie udało się wycofać. Lekcja mogła już zostać sprawdzona.",
-      "back": "Wstecz"
+      "back": "Wstecz",
+      "open_submission": "Otwórz i wypróbuj",
+      "public_audience_off": "Wyłączona",
+      "public_audience_admins": "Tylko admini",
+      "public_audience_everyone": "Wszyscy",
+      "public_audience_off_hint": "Widzisz ją tylko ty, tutaj w Nauczaniu.",
+      "public_audience_admins_hint": "Admini znajdą ją w Bibliotece i przejdą ją dokładnie tak jak uczeń. Gracze jeszcze jej nie widzą.",
+      "public_audience_everyone_hint": "Każdy gracz znajdzie ją w Bibliotece, bez klasy, i zobaczy ostatnio opublikowaną wersję."
     }
   },
   "pbn": {

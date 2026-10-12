@@ -3775,7 +3775,8 @@
       "decks_title": "Flashcards & quizzes",
       "teaching": "Teaching",
       "teach_card": "Teach with Cuebids: lessons, flashcards and class events, free for teachers.",
-      "lessons_title": "Lessons"
+      "lessons_title": "Lessons",
+      "teach_open": "Your lessons, flashcards, quizzes, boards and classes."
     },
     "sets": {
       "new_placeholder": "Name a new set",
@@ -4082,9 +4083,13 @@
       "byline": "By {{name}}",
       "other_languages": "Also in",
       "public_title": "Lessons from Cuebids",
-      "public_intro": "Read at your own pace, quiz yourself, then practice at the table. Reading is free; practice costs a ticket a board."
-    },
-    "teach_open": "Your lessons, flashcards, quizzes and classes."
+      "public_intro": "Read at your own pace, quiz yourself, then practice at the table. Reading is free; practice costs a ticket a board.",
+      "preview_banner": "Preview of a submission: you see it as a student would. Nothing is recorded, and practice here counts towards nothing.",
+      "admins_only": "Admins only",
+      "cards_done": "You went through every card and knew {{knew}} of {{total}}.",
+      "cards_none": "There are no cards in this deck yet.",
+      "cards_again": "Go through them again"
+    }
   },
   "teach": {
     "title": "Teach with Cuebids",
@@ -4190,7 +4195,14 @@
       "show_contracts": "Best contracts",
       "submit_withdraw": "Withdraw",
       "submit_withdraw_error": "Could not withdraw it. It may already have been looked at.",
-      "back": "Back"
+      "back": "Back",
+      "open_submission": "Open and try it",
+      "public_audience_off": "Off",
+      "public_audience_admins": "Admins only",
+      "public_audience_everyone": "Everyone",
+      "public_audience_off_hint": "Only you see it, here in Teach.",
+      "public_audience_admins_hint": "Admins find it in the Library and go through it exactly as a student will. Players do not see it yet.",
+      "public_audience_everyone_hint": "Every player finds it in the Library, without a class, and sees the version you last published."
     }
   },
   "pbn": {
