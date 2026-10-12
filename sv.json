@@ -2129,7 +2129,22 @@
     "divergence_text": "{{count}} utav {{total}} proffs bjöd annorlunda",
     "divergence_info": "Få en överblick över vilka proffs som bjöd annorlunda än du.",
     "divergence_title": "Proffspanel",
-    "divergence_settings": "Du kan stänga av detta i Inställningar."
+    "divergence_settings": "Du kan stänga av detta i Inställningar.",
+    "teacher": {
+      "button": "Läraren",
+      "title": "Lärarens budgivning",
+      "yours": "Din budgivning",
+      "teachers": "Lärarens budgivning",
+      "compare": "Jämför med andra spelare",
+      "ok": "OK",
+      "followed": "Du bjöd som läraren.",
+      "diverged_you": "Här gick du din egen väg.",
+      "diverged_partner": "Här lämnade din partner lärarens budgivning.",
+      "diverged_opponents": "Här bjöd motståndarna annorlunda än i lärarens budgivning.",
+      "call_yours": "Vid bordet",
+      "call_teachers": "Läraren",
+      "call_ended": "(slut)"
+    }
   },
   "contracts_modal": {
     "par_contract": "Par-kontrakt",

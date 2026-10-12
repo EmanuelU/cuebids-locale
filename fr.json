@@ -2129,7 +2129,22 @@
     "divergence_text": "{{count}} pros sur {{total}} ont fait une autre enchère",
     "divergence_info": "Voyez en un coup d’œil quels pros ont choisi une autre enchère à votre place.",
     "divergence_title": "Afficher le panel des pros",
-    "divergence_settings": "Vous pouvez désactiver cette option dans les Paramètres."
+    "divergence_settings": "Vous pouvez désactiver cette option dans les Paramètres.",
+    "teacher": {
+      "button": "Professeur",
+      "title": "La séquence du professeur",
+      "yours": "Votre séquence",
+      "teachers": "Séquence du professeur",
+      "compare": "Comparer avec les autres joueurs",
+      "ok": "OK",
+      "followed": "Vous avez enchéri comme le professeur.",
+      "diverged_you": "Ici, vous avez suivi votre propre chemin.",
+      "diverged_partner": "Ici, votre partenaire a quitté la séquence du professeur.",
+      "diverged_opponents": "Ici, les adversaires ont enchéri autrement que dans la séquence du professeur.",
+      "call_yours": "À la table",
+      "call_teachers": "Professeur",
+      "call_ended": "(fin)"
+    }
   },
   "contracts_modal": {
     "par_contract": "Contrat par",

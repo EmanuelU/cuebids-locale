@@ -2129,7 +2129,22 @@
     "divergence_text": "{{count}} de {{total}} pros pujaron otra cosa",
     "divergence_info": "Obtén rápidamente una visión general de qué pros pujaron algo distinto en tu situación.",
     "divergence_title": "Mostrar panel Pro",
-    "divergence_settings": "Puedes desactivar esto en Configuración."
+    "divergence_settings": "Puedes desactivar esto en Configuración.",
+    "teacher": {
+      "button": "Profesor",
+      "title": "La subasta del profesor",
+      "yours": "Tu subasta",
+      "teachers": "Subasta del profesor",
+      "compare": "Comparar con otros jugadores",
+      "ok": "OK",
+      "followed": "Has subastado como el profesor.",
+      "diverged_you": "Aquí seguiste tu propio camino.",
+      "diverged_partner": "Aquí tu compañero se apartó de la subasta del profesor.",
+      "diverged_opponents": "Aquí los contrarios subastaron distinto de la subasta del profesor.",
+      "call_yours": "En la mesa",
+      "call_teachers": "Profesor",
+      "call_ended": "(fin)"
+    }
   },
   "contracts_modal": {
     "par_contract": "Contrato par",

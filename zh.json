@@ -2130,7 +2130,22 @@
     "divergence_text": "{{count}} 位（共 {{total}} 位）专家叫牌其他内容",
     "divergence_info": "快速了解哪些 PRO 牌手在你的位置上叫牌不同。",
     "divergence_title": "显示专业面板",
-    "divergence_settings": "您可以在“设置”中关闭此功能。"
+    "divergence_settings": "您可以在“设置”中关闭此功能。",
+    "teacher": {
+      "button": "老师",
+      "title": "老师的叫牌",
+      "yours": "你的叫牌",
+      "teachers": "老师的叫牌",
+      "compare": "与其他牌手比较",
+      "ok": "好",
+      "followed": "你的叫牌和老师的一样。",
+      "diverged_you": "你在这里走了自己的路。",
+      "diverged_partner": "你的同伴在这里偏离了老师的叫牌。",
+      "diverged_opponents": "对手在这里的叫牌与老师的叫牌不同。",
+      "call_yours": "牌桌上",
+      "call_teachers": "老师",
+      "call_ended": "（已结束）"
+    }
   },
   "contracts_modal": {
     "par_contract": "标准定约",

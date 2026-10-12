@@ -2131,7 +2131,22 @@
     "divergence_text": "{{count}} z {{total}} zawodowców wybrało inną odzywkę",
     "divergence_info": "Zobacz szybko, którzy profesjonaliści licytowali inaczej w Twoim miejscu.",
     "divergence_title": "Panel Pro",
-    "divergence_settings": "Możesz wyłączyć to w Ustawieniach."
+    "divergence_settings": "Możesz wyłączyć to w Ustawieniach.",
+    "teacher": {
+      "button": "Nauczyciel",
+      "title": "Licytacja nauczyciela",
+      "yours": "Twoja licytacja",
+      "teachers": "Licytacja nauczyciela",
+      "compare": "Porównaj z innymi graczami",
+      "ok": "OK",
+      "followed": "Twoja licytacja jest taka sama jak licytacja nauczyciela.",
+      "diverged_you": "Tutaj Twoja licytacja odeszła od licytacji nauczyciela.",
+      "diverged_partner": "Tutaj partner odszedł od licytacji nauczyciela.",
+      "diverged_opponents": "Tutaj przeciwnicy licytowali inaczej niż w licytacji nauczyciela.",
+      "call_yours": "Przy stole",
+      "call_teachers": "Nauczyciel",
+      "call_ended": "(koniec)"
+    }
   },
   "contracts_modal": {
     "par_contract": "Kontrakt Par",

@@ -2129,7 +2129,22 @@
     "divergence_text": "{{count}} out of {{total}} pros bid something else",
     "divergence_info": "Quickly get an overview of which pros bid something different in your spot.",
     "divergence_title": "Show Pro Panel",
-    "divergence_settings": "You can turn this off in Settings."
+    "divergence_settings": "You can turn this off in Settings.",
+    "teacher": {
+      "button": "Teacher",
+      "title": "The teacher's auction",
+      "yours": "Your auction",
+      "teachers": "Teacher's auction",
+      "compare": "Compare with other players",
+      "ok": "OK",
+      "followed": "You bid it the teacher's way.",
+      "diverged_you": "You went your own way here.",
+      "diverged_partner": "Your partner left the teacher's auction here.",
+      "diverged_opponents": "The opponents bid differently from the teacher's auction here.",
+      "call_yours": "At the table",
+      "call_teachers": "Teacher",
+      "call_ended": "(over)"
+    }
   },
   "contracts_modal": {
     "par_contract": "Par contract",
