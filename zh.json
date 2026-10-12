@@ -4217,13 +4217,14 @@
       "deal_count": "{{seat}} 不是 13 张牌。",
       "deal_unreadable": "{{seat}}：请写出用点分隔的四门花色。",
       "fill_random": "随机补齐其余",
-      "fill_keep": "随机补齐，保留我的花色",
+      "fill_keep": "只补齐空花色",
       "fill_cannot": "这些牌组不成完整的牌局：有一手超过 13 张。",
-      "fill_keep_cannot": "保留这些花色后，无法让每手都有 13 张。",
+      "fill_keep_cannot": "只用空花色无法让每手都有 13 张。",
       "deal_to": "发给{{seat}}的牌",
       "small_card": "一张小牌",
       "spot_cards": "显示小牌",
-      "undo": "撤销"
+      "undo": "撤销",
+      "fill_keep_hint": "每位玩家只会在你还没给过牌的花色中拿到牌：给了黑桃 AK，就不会再拿到黑桃。"
     },
     "can_title": "你可以做什么",
     "can_lessons": "制作课程：包含牌手和叫牌过程的页面、闪卡和测验，以及牌桌练习，全部集中在一处。",

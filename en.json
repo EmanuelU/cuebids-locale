@@ -4216,13 +4216,14 @@
       "deal_count": "{{seat}} does not have 13 cards.",
       "deal_unreadable": "{{seat}}: write four suits separated by dots.",
       "fill_random": "Fill the rest at random",
-      "fill_keep": "Fill the rest, keeping my suits",
+      "fill_keep": "Fill only the empty suits",
       "fill_cannot": "Those cards do not leave a whole deal: a hand has more than 13.",
-      "fill_keep_cannot": "With those suits kept, there is no way to give everyone 13 cards.",
+      "fill_keep_cannot": "There is no way to give everyone 13 cards using only their empty suits.",
       "deal_to": "Cards for {{seat}}",
       "small_card": "A small card",
       "spot_cards": "Show the spot cards",
-      "undo": "Undo"
+      "undo": "Undo",
+      "fill_keep_hint": "Each player gets cards only in the suits you have not given them any of: AK of spades means no more spades."
     },
     "can_title": "What you can do",
     "can_lessons": "Make lessons: pages with hands and auctions, flashcards and quizzes, and practice at the table, all in one place.",

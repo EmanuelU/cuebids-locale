@@ -4216,13 +4216,14 @@
       "deal_count": "{{seat}} no tiene 13 cartas.",
       "deal_unreadable": "{{seat}}: escribe cuatro palos separados por puntos.",
       "fill_random": "Completar al azar",
-      "fill_keep": "Completar manteniendo mis palos",
+      "fill_keep": "Completar solo los palos vacíos",
       "fill_cannot": "Esas cartas no forman un reparto completo: una mano tiene más de 13.",
-      "fill_keep_cannot": "Manteniendo esos palos no se puede dar 13 cartas a todos.",
+      "fill_keep_cannot": "No se puede dar 13 cartas a todos usando solo sus palos vacíos.",
       "deal_to": "Cartas para {{seat}}",
       "small_card": "Una carta baja",
       "spot_cards": "Mostrar las cartas bajas",
-      "undo": "Deshacer"
+      "undo": "Deshacer",
+      "fill_keep_hint": "Cada jugador recibe cartas solo en los palos en los que no le has dado nada: AK de picas significa que no habrá más picas."
     },
     "can_title": "Qué puedes hacer",
     "can_lessons": "Crear lecciones: páginas con manos y subastas, tarjetas y cuestionarios, y práctica en la mesa, todo en un mismo lugar.",

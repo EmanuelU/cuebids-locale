@@ -4216,13 +4216,14 @@
       "deal_count": "{{seat}} n’a pas 13 cartes.",
       "deal_unreadable": "{{seat}} : écrivez quatre couleurs séparées par des points.",
       "fill_random": "Compléter au hasard",
-      "fill_keep": "Compléter en gardant mes couleurs",
+      "fill_keep": "Compléter seulement les couleurs vides",
       "fill_cannot": "Ces cartes ne forment pas une donne entière : une main en a plus de 13.",
-      "fill_keep_cannot": "En gardant ces couleurs, impossible de donner 13 cartes à chacun.",
+      "fill_keep_cannot": "Impossible de donner 13 cartes à chacun en n’utilisant que leurs couleurs vides.",
       "deal_to": "Cartes pour {{seat}}",
       "small_card": "Une petite carte",
       "spot_cards": "Afficher les petites cartes",
-      "undo": "Annuler"
+      "undo": "Annuler",
+      "fill_keep_hint": "Chaque joueur ne reçoit des cartes que dans les couleurs où vous ne lui avez rien donné : AK à pique veut dire plus aucun pique."
     },
     "can_title": "Ce que vous pouvez faire",
     "can_lessons": "Créer des leçons : des pages avec des mains et des séquences d’enchères, des cartes mémo et des quiz, et de l’entraînement à la table, au même endroit.",

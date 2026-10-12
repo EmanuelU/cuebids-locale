@@ -4222,13 +4222,14 @@
       "deal_count": "{{seat}} nie ma 13 kart.",
       "deal_unreadable": "{{seat}}: wpisz cztery kolory oddzielone kropkami.",
       "fill_random": "Uzupełnij resztę losowo",
-      "fill_keep": "Uzupełnij resztę, zachowując moje kolory",
+      "fill_keep": "Uzupełnij tylko puste kolory",
       "fill_cannot": "Te karty nie tworzą całego rozdania: jedna ręka ma więcej niż 13.",
-      "fill_keep_cannot": "Przy zachowanych kolorach nie da się dać każdemu 13 kart.",
+      "fill_keep_cannot": "Nie da się dać każdemu 13 kart tylko w pustych kolorach.",
       "deal_to": "Karty dla: {{seat}}",
       "small_card": "Blotka",
       "spot_cards": "Pokaż blotki",
-      "undo": "Cofnij"
+      "undo": "Cofnij",
+      "fill_keep_hint": "Każdy gracz dostaje karty tylko w kolorach, w których nic mu nie dałeś: AK w pikach oznacza, że więcej pików nie będzie."
     },
     "can_title": "Co możesz zrobić",
     "can_lessons": "Tworzyć lekcje: strony z rękami i licytacjami, fiszki i quizy oraz ćwiczenia przy stole, wszystko w jednym miejscu.",
