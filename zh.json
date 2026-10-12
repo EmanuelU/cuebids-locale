@@ -4169,7 +4169,17 @@
       "apply_update": "接受更新",
       "decline": "拒绝",
       "decline_reason": "原因（教师可见）",
-      "review_error": "无法保存决定。"
+      "review_error": "无法保存决定。",
+      "nav_boards": "牌局",
+      "boards_title": "牌局",
+      "boards_intro": "你的牌组和保存的牌局，用于课程和班级。可按牌型或场景添加牌局，或导入 PBN 文件。",
+      "new_set": "新建牌组",
+      "sets_title": "牌组",
+      "saved_title": "已保存的牌局",
+      "saved_intro": "你在牌桌上或搜索中保存的所有牌局，完整显示。可将任意一副加入牌组。",
+      "saved_none": "还没有保存的牌局。可在复盘或搜索中保存。",
+      "delete_set_confirm": "删除这个牌组？再按一次",
+      "make_deck": "生成卡组"
     }
   },
   "pbn": {

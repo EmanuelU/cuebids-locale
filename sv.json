@@ -4168,7 +4168,17 @@
       "apply_update": "Godkänn uppdateringen",
       "decline": "Avböj",
       "decline_reason": "Skäl, som läraren ser",
-      "review_error": "Beslutet kunde inte sparas."
+      "review_error": "Beslutet kunde inte sparas.",
+      "nav_boards": "Brickor",
+      "boards_title": "Brickor",
+      "boards_intro": "Dina samlingar och sparade brickor, till lektioner och klasser. Lägg till brickor efter givtyp eller scenario, eller importera en PBN-fil.",
+      "new_set": "Ny samling",
+      "sets_title": "Samlingar",
+      "saved_title": "Sparade brickor",
+      "saved_intro": "Alla brickor du har sparat vid bordet eller i sökningen, som hela givar. Lägg till vilken som helst i en samling.",
+      "saved_none": "Inga sparade brickor än. Spara en bricka från genomgången eller från sökningen.",
+      "delete_set_confirm": "Ta bort samlingen? Tryck igen",
+      "make_deck": "Gör en kortlek"
     }
   },
   "pbn": {

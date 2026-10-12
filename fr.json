@@ -4168,7 +4168,17 @@
       "apply_update": "Accepter la mise à jour",
       "decline": "Refuser",
       "decline_reason": "Motif, montré à l’enseignant",
-      "review_error": "La décision n’a pas pu être enregistrée."
+      "review_error": "La décision n’a pas pu être enregistrée.",
+      "nav_boards": "Donnes",
+      "boards_title": "Donnes",
+      "boards_intro": "Vos séries et vos donnes enregistrées, pour les leçons et pour la classe. Ajoutez des donnes par type de donne ou par scénario, ou importez un fichier PBN.",
+      "new_set": "Nouvelle série",
+      "sets_title": "Séries",
+      "saved_title": "Donnes enregistrées",
+      "saved_intro": "Toutes les donnes enregistrées à la table ou dans la recherche, en entier. Ajoutez-en une à une série.",
+      "saved_none": "Aucune donne enregistrée. Enregistrez une donne depuis sa revue ou depuis la recherche.",
+      "delete_set_confirm": "Supprimer la série ? Appuyez à nouveau",
+      "make_deck": "Faire un paquet"
     }
   },
   "pbn": {

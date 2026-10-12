@@ -4170,7 +4170,17 @@
       "apply_update": "Zaakceptuj aktualizację",
       "decline": "Odrzuć",
       "decline_reason": "Powód, widoczny dla nauczyciela",
-      "review_error": "Nie udało się zapisać decyzji."
+      "review_error": "Nie udało się zapisać decyzji.",
+      "nav_boards": "Rozdania",
+      "boards_title": "Rozdania",
+      "boards_intro": "Twoje zestawy i zapisane rozdania, do lekcji i dla klasy. Dodawaj rozdania według typu rozdania lub scenariusza albo zaimportuj plik PBN.",
+      "new_set": "Nowy zestaw",
+      "sets_title": "Zestawy",
+      "saved_title": "Zapisane rozdania",
+      "saved_intro": "Wszystkie rozdania zapisane przy stole lub w wyszukiwarce, w całości. Każde można dodać do zestawu.",
+      "saved_none": "Brak zapisanych rozdań. Zapisz rozdanie z jego omówienia lub z wyszukiwarki.",
+      "delete_set_confirm": "Usunąć zestaw? Naciśnij ponownie",
+      "make_deck": "Utwórz talię"
     }
   },
   "pbn": {

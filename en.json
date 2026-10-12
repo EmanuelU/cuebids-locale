@@ -4168,7 +4168,17 @@
       "apply_update": "Accept the update",
       "decline": "Decline",
       "decline_reason": "Reason, shown to the teacher",
-      "review_error": "Could not save the decision."
+      "review_error": "Could not save the decision.",
+      "nav_boards": "Boards",
+      "boards_title": "Boards",
+      "boards_intro": "Your sets and saved boards, for lessons and for class. Add boards by deal type or scenario, or import a PBN file.",
+      "new_set": "New set",
+      "sets_title": "Sets",
+      "saved_title": "Saved boards",
+      "saved_intro": "Every board you saved at the table or in search, as a whole deal. Add any of them to a set.",
+      "saved_none": "No saved boards yet. Save a board from its review, or from search.",
+      "delete_set_confirm": "Delete the set? Press again",
+      "make_deck": "Make a deck"
     }
   },
   "pbn": {

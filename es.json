@@ -4168,7 +4168,17 @@
       "apply_update": "Aceptar la actualización",
       "decline": "Rechazar",
       "decline_reason": "Motivo, visible para el profesor",
-      "review_error": "No se pudo guardar la decisión."
+      "review_error": "No se pudo guardar la decisión.",
+      "nav_boards": "Manos",
+      "boards_title": "Manos",
+      "boards_intro": "Tus series y manos guardadas, para lecciones y para la clase. Añade manos por tipo de reparto o escenario, o importa un archivo PBN.",
+      "new_set": "Nueva serie",
+      "sets_title": "Series",
+      "saved_title": "Manos guardadas",
+      "saved_intro": "Todas las manos que guardaste en la mesa o en la búsqueda, completas. Añade cualquiera a una serie.",
+      "saved_none": "Aún no hay manos guardadas. Guarda una mano desde su revisión o desde la búsqueda.",
+      "delete_set_confirm": "¿Eliminar la serie? Pulsa otra vez",
+      "make_deck": "Crear un mazo"
     }
   },
   "pbn": {
