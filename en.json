@@ -4224,7 +4224,10 @@
       "spot_cards": "Show the spot cards",
       "undo": "Undo",
       "fill_keep_hint": "Each player gets cards only in the suits you have not given them any of: AK of spades means no more spades.",
-      "fill_again": "Deal again"
+      "fill_again": "Deal again",
+      "edit_deal": "Edit deal",
+      "save_deal_edit": "Save the deal",
+      "edit_deal_suggestion": "The board keeps its suggested auction and comment; check they still fit the new hands."
     },
     "can_title": "What you can do",
     "can_lessons": "Make lessons: pages with hands and auctions, flashcards and quizzes, and practice at the table, all in one place.",

@@ -4224,7 +4224,10 @@
       "spot_cards": "Afficher les petites cartes",
       "undo": "Annuler",
       "fill_keep_hint": "Chaque joueur ne reçoit des cartes que dans les couleurs où vous ne lui avez rien donné : AK à pique veut dire plus aucun pique.",
-      "fill_again": "Redonner"
+      "fill_again": "Redonner",
+      "edit_deal": "Modifier la donne",
+      "save_deal_edit": "Enregistrer la donne",
+      "edit_deal_suggestion": "La donne garde sa séquence suggérée et son commentaire ; vérifiez qu’ils vont toujours avec les nouvelles mains."
     },
     "can_title": "Ce que vous pouvez faire",
     "can_lessons": "Créer des leçons : des pages avec des mains et des séquences d’enchères, des cartes mémo et des quiz, et de l’entraînement à la table, au même endroit.",

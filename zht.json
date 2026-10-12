@@ -4225,7 +4225,10 @@
       "spot_cards": "顯示小牌",
       "undo": "復原",
       "fill_keep_hint": "每位玩家只會在你還沒給過牌的花色中拿到牌：給了黑桃 AK，就不會再拿到黑桃。",
-      "fill_again": "重新發牌"
+      "fill_again": "重新發牌",
+      "edit_deal": "編輯牌局",
+      "save_deal_edit": "儲存牌局",
+      "edit_deal_suggestion": "這副牌保留原來的建議叫牌和評論；請確認它們仍然適合新的牌。"
     },
     "can_title": "你可以做什麼",
     "can_lessons": "製作課程：包含牌手和叫牌過程的頁面、閃卡和測驗，以及牌桌練習，全部集中在一處。",

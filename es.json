@@ -4224,7 +4224,10 @@
       "spot_cards": "Mostrar las cartas bajas",
       "undo": "Deshacer",
       "fill_keep_hint": "Cada jugador recibe cartas solo en los palos en los que no le has dado nada: AK de picas significa que no habrá más picas.",
-      "fill_again": "Repartir de nuevo"
+      "fill_again": "Repartir de nuevo",
+      "edit_deal": "Editar el reparto",
+      "save_deal_edit": "Guardar el reparto",
+      "edit_deal_suggestion": "La mano conserva su subasta sugerida y su comentario; comprueba que sigan valiendo para las nuevas manos."
     },
     "can_title": "Qué puedes hacer",
     "can_lessons": "Crear lecciones: páginas con manos y subastas, tarjetas y cuestionarios, y práctica en la mesa, todo en un mismo lugar.",

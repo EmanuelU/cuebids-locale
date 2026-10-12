@@ -4230,7 +4230,10 @@
       "spot_cards": "Pokaż blotki",
       "undo": "Cofnij",
       "fill_keep_hint": "Każdy gracz dostaje karty tylko w kolorach, w których nic mu nie dałeś: AK w pikach oznacza, że więcej pików nie będzie.",
-      "fill_again": "Rozdaj ponownie"
+      "fill_again": "Rozdaj ponownie",
+      "edit_deal": "Edytuj rozdanie",
+      "save_deal_edit": "Zapisz rozdanie",
+      "edit_deal_suggestion": "Rozdanie zachowuje proponowaną licytację i komentarz; sprawdź, czy pasują do nowych rąk."
     },
     "can_title": "Co możesz zrobić",
     "can_lessons": "Tworzyć lekcje: strony z rękami i licytacjami, fiszki i quizy oraz ćwiczenia przy stole, wszystko w jednym miejscu.",
