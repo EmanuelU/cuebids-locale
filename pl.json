@@ -4233,7 +4233,12 @@
       "fill_again": "Rozdaj ponownie",
       "edit_deal": "Edytuj rozdanie",
       "save_deal_edit": "Zapisz rozdanie",
-      "edit_deal_suggestion": "Rozdanie zachowuje proponowaną licytację i komentarz; sprawdź, czy pasują do nowych rąk."
+      "edit_deal_suggestion": "Rozdanie zachowuje proponowaną licytację i komentarz; sprawdź, czy pasują do nowych rąk.",
+      "yours": "Twoja przestrzeń do nauczania",
+      "status_heart": "Narzędzia nauczyciela w ramach Kier",
+      "status_until": "Narzędzia nauczyciela do {{date}}",
+      "status_admin": "Admin",
+      "home_greeting": "Cześć, {{name}}"
     },
     "can_title": "Co możesz zrobić",
     "can_lessons": "Tworzyć lekcje: strony z rękami i licytacjami, fiszki i quizy oraz ćwiczenia przy stole, wszystko w jednym miejscu.",

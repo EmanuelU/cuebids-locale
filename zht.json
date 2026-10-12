@@ -4228,7 +4228,12 @@
       "fill_again": "重新發牌",
       "edit_deal": "編輯牌局",
       "save_deal_edit": "儲存牌局",
-      "edit_deal_suggestion": "這副牌保留原來的建議叫牌和評論；請確認它們仍然適合新的牌。"
+      "edit_deal_suggestion": "這副牌保留原來的建議叫牌和評論；請確認它們仍然適合新的牌。",
+      "yours": "你的教學空間",
+      "status_heart": "紅桃會員含教師工具",
+      "status_until": "教師工具有效期至 {{date}}",
+      "status_admin": "管理員",
+      "home_greeting": "你好，{{name}}"
     },
     "can_title": "你可以做什麼",
     "can_lessons": "製作課程：包含牌手和叫牌過程的頁面、閃卡和測驗，以及牌桌練習，全部集中在一處。",

@@ -4227,7 +4227,12 @@
       "fill_again": "Dela igen",
       "edit_deal": "Ändra given",
       "save_deal_edit": "Spara given",
-      "edit_deal_suggestion": "Brickan behåller sitt budförslag och sin kommentar; kontrollera att de fortfarande passar de nya händerna."
+      "edit_deal_suggestion": "Brickan behåller sitt budförslag och sin kommentar; kontrollera att de fortfarande passar de nya händerna.",
+      "yours": "Ditt undervisningsrum",
+      "status_heart": "Lärarverktyg med Hjärter",
+      "status_until": "Lärarverktyg till {{date}}",
+      "status_admin": "Admin",
+      "home_greeting": "Hej {{name}}"
     },
     "can_title": "Det här kan du göra",
     "can_lessons": "Göra lektioner: sidor med händer och budgivningar, frågekort och quiz, och övning vid bordet, samlat på ett ställe.",

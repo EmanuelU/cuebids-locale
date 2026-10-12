@@ -4227,7 +4227,12 @@
       "fill_again": "Repartir de nuevo",
       "edit_deal": "Editar el reparto",
       "save_deal_edit": "Guardar el reparto",
-      "edit_deal_suggestion": "La mano conserva su subasta sugerida y su comentario; comprueba que sigan valiendo para las nuevas manos."
+      "edit_deal_suggestion": "La mano conserva su subasta sugerida y su comentario; comprueba que sigan valiendo para las nuevas manos.",
+      "yours": "Tu espacio de enseñanza",
+      "status_heart": "Herramientas de profesor con Heart",
+      "status_until": "Herramientas de profesor hasta el {{date}}",
+      "status_admin": "Admin",
+      "home_greeting": "Hola, {{name}}"
     },
     "can_title": "Qué puedes hacer",
     "can_lessons": "Crear lecciones: páginas con manos y subastas, tarjetas y cuestionarios, y práctica en la mesa, todo en un mismo lugar.",

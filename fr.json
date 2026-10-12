@@ -4227,7 +4227,12 @@
       "fill_again": "Redonner",
       "edit_deal": "Modifier la donne",
       "save_deal_edit": "Enregistrer la donne",
-      "edit_deal_suggestion": "La donne garde sa séquence suggérée et son commentaire ; vérifiez qu’ils vont toujours avec les nouvelles mains."
+      "edit_deal_suggestion": "La donne garde sa séquence suggérée et son commentaire ; vérifiez qu’ils vont toujours avec les nouvelles mains.",
+      "yours": "Votre espace d’enseignement",
+      "status_heart": "Outils enseignant avec Cœur",
+      "status_until": "Outils enseignant jusqu’au {{date}}",
+      "status_admin": "Admin",
+      "home_greeting": "Bonjour {{name}}"
     },
     "can_title": "Ce que vous pouvez faire",
     "can_lessons": "Créer des leçons : des pages avec des mains et des séquences d’enchères, des cartes mémo et des quiz, et de l’entraînement à la table, au même endroit.",
