@@ -3906,7 +3906,7 @@
       "invalid_front": "請填寫卡片正面。",
       "invalid_back": "請填寫卡片背面。",
       "invalid_hand": "這不是 13 張牌的手牌。",
-      "invalid_auction": "其中一個叫品無效。",
+      "invalid_auction": "這不是合法的叫牌過程：請檢查每個叫品以及輪到誰叫。",
       "invalid_answer": "請填寫一個叫品，例如 2C。",
       "move_up": "上移",
       "move_down": "下移",
@@ -3960,7 +3960,10 @@
       "language_label": "卡片語言",
       "update_card": "更新卡片",
       "edit_card": "編輯卡片",
-      "answer_change": "在下方選擇另一個叫品即可更改。"
+      "answer_change": "在下方選擇另一個叫品即可更改。",
+      "bidding_box_show": "使用叫牌盒",
+      "bidding_box_hide": "隱藏叫牌盒",
+      "bidding_box_undo": "撤回上一個叫品"
     },
     "quiz": {
       "score": "你的得分：{{score}} / {{total}}。",
@@ -4025,7 +4028,7 @@
       "answer_placeholder": "叫 2D",
       "why": "原因",
       "invalid_hand": "這不是 13 張牌的手牌。",
-      "invalid_auction": "這不是叫牌過程。",
+      "invalid_auction": "這不是合法的叫牌過程：請檢查每個叫品以及輪到誰叫。",
       "invalid_answer": "請填寫答案。",
       "insert": "插入",
       "slide_placeholder": "撰寫投影片：# 標題，## 副標題，**粗體**，> 引用，- 清單。像 1NT 或 2H 這樣的叫品會顯示花色符號。",

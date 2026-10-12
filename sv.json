@@ -3905,7 +3905,7 @@
       "invalid_front": "Skriv kortets framsida.",
       "invalid_back": "Skriv kortets baksida.",
       "invalid_hand": "Det är ingen hand med 13 kort.",
-      "invalid_auction": "Ett av buden är inget bud.",
+      "invalid_auction": "Det är ingen tillåten budgivning: kontrollera varje bud och vems tur det är.",
       "invalid_answer": "Skriv ett bud, till exempel 2C.",
       "move_up": "Flytta upp",
       "move_down": "Flytta ner",
@@ -3959,7 +3959,10 @@
       "language_label": "Kortens språk",
       "update_card": "Uppdatera kortet",
       "edit_card": "Redigera kortet",
-      "answer_change": "Välj ett annat bud nedan för att ändra."
+      "answer_change": "Välj ett annat bud nedan för att ändra.",
+      "bidding_box_show": "Använd budlådan",
+      "bidding_box_hide": "Dölj budlådan",
+      "bidding_box_undo": "Ångra senaste budet"
     },
     "quiz": {
       "score": "Du fick {{score}} av {{total}}.",
@@ -4024,7 +4027,7 @@
       "answer_placeholder": "Bjud 2D",
       "why": "Varför",
       "invalid_hand": "Det är ingen hand med 13 kort.",
-      "invalid_auction": "Det är ingen budgivning.",
+      "invalid_auction": "Det är ingen tillåten budgivning: kontrollera varje bud och vems tur det är.",
       "invalid_answer": "Skriv svaret.",
       "insert": "Infoga",
       "slide_placeholder": "Skriv sidan: # rubrik, ## underrubrik, **fetstil**, > citat, - lista. Bud som 1NT eller 2H visas med färgsymboler.",

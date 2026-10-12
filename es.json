@@ -3905,7 +3905,7 @@
       "invalid_front": "Escribe el frente de la tarjeta.",
       "invalid_back": "Escribe el reverso de la tarjeta.",
       "invalid_hand": "No es una mano de 13 cartas.",
-      "invalid_auction": "Una de las voces no es una voz.",
+      "invalid_auction": "No es una subasta válida: revisa cada voz y a quién le toca.",
       "invalid_answer": "Escribe una voz, como 2C.",
       "move_up": "Subir",
       "move_down": "Bajar",
@@ -3959,7 +3959,10 @@
       "language_label": "Idioma de las tarjetas",
       "update_card": "Actualizar tarjeta",
       "edit_card": "Editar tarjeta",
-      "answer_change": "Elige otra voz abajo para cambiarla."
+      "answer_change": "Elige otra voz abajo para cambiarla.",
+      "bidding_box_show": "Usar la caja de pujas",
+      "bidding_box_hide": "Ocultar la caja de pujas",
+      "bidding_box_undo": "Quitar la última voz"
     },
     "quiz": {
       "score": "Has sacado {{score}} de {{total}}.",
@@ -4024,7 +4027,7 @@
       "answer_placeholder": "Canta 2D",
       "why": "Por qué",
       "invalid_hand": "No es una mano de 13 cartas.",
-      "invalid_auction": "No es una subasta.",
+      "invalid_auction": "No es una subasta válida: revisa cada voz y a quién le toca.",
       "invalid_answer": "Escribe la respuesta.",
       "insert": "Insertar",
       "slide_placeholder": "Escribe la diapositiva: # título, ## subtítulo, **negrita**, > cita, - lista. Las voces como 1NT o 2H se muestran con su palo.",

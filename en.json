@@ -3905,7 +3905,7 @@
       "invalid_front": "Write the front of the card.",
       "invalid_back": "Write the back of the card.",
       "invalid_hand": "That is not a 13-card hand.",
-      "invalid_auction": "One of the calls is not a call.",
+      "invalid_auction": "That is not a legal auction: check each call and whose turn it is.",
       "invalid_answer": "Write one call, such as 2C.",
       "move_up": "Move up",
       "move_down": "Move down",
@@ -3959,7 +3959,10 @@
       "language_label": "Language of the cards",
       "update_card": "Update card",
       "edit_card": "Edit card",
-      "answer_change": "Pick another call below to change it."
+      "answer_change": "Pick another call below to change it.",
+      "bidding_box_show": "Use the bidding box",
+      "bidding_box_hide": "Hide the bidding box",
+      "bidding_box_undo": "Take back the last call"
     },
     "quiz": {
       "score": "You scored {{score}} of {{total}}.",
@@ -4024,7 +4027,7 @@
       "answer_placeholder": "Bid 2D",
       "why": "Why",
       "invalid_hand": "That is not a 13-card hand.",
-      "invalid_auction": "That is not an auction.",
+      "invalid_auction": "That is not a legal auction: check each call and whose turn it is.",
       "invalid_answer": "Write the answer.",
       "insert": "Insert",
       "slide_placeholder": "Write the slide: # heading, ## subheading, **bold**, > quote, - list. Calls like 1NT or 2H show their suits.",

@@ -3907,7 +3907,7 @@
       "invalid_front": "Wpisz przód karty.",
       "invalid_back": "Wpisz tył karty.",
       "invalid_hand": "To nie jest ręka z 13 kartami.",
-      "invalid_auction": "Jedna z odzywek nie jest odzywką.",
+      "invalid_auction": "To nie jest poprawna licytacja: sprawdź każdą odzywkę i czyja jest kolej.",
       "invalid_answer": "Wpisz jedną odzywkę, np. 2C.",
       "move_up": "W górę",
       "move_down": "W dół",
@@ -3961,7 +3961,10 @@
       "language_label": "Język kart",
       "update_card": "Zaktualizuj kartę",
       "edit_card": "Edytuj kartę",
-      "answer_change": "Wybierz poniżej inną odzywkę, aby to zmienić."
+      "answer_change": "Wybierz poniżej inną odzywkę, aby to zmienić.",
+      "bidding_box_show": "Użyj pudełka licytacyjnego",
+      "bidding_box_hide": "Ukryj pudełko licytacyjne",
+      "bidding_box_undo": "Cofnij ostatnią odzywkę"
     },
     "quiz": {
       "score": "Twój wynik: {{score}} z {{total}}.",
@@ -4026,7 +4029,7 @@
       "answer_placeholder": "Licytuj 2D",
       "why": "Dlaczego",
       "invalid_hand": "To nie jest ręka z 13 kartami.",
-      "invalid_auction": "To nie jest licytacja.",
+      "invalid_auction": "To nie jest poprawna licytacja: sprawdź każdą odzywkę i czyja jest kolej.",
       "invalid_answer": "Wpisz odpowiedź.",
       "insert": "Wstaw",
       "slide_placeholder": "Napisz slajd: # nagłówek, ## podtytuł, **pogrubienie**, > cytat, - lista. Odzywki jak 1NT czy 2H pokazują symbole kolorów.",

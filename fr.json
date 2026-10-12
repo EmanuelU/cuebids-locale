@@ -3905,7 +3905,7 @@
       "invalid_front": "Écrivez le recto de la carte.",
       "invalid_back": "Écrivez le verso de la carte.",
       "invalid_hand": "Ce n’est pas une main de 13 cartes.",
-      "invalid_auction": "Une des enchères n’en est pas une.",
+      "invalid_auction": "Ces enchères ne sont pas régulières : vérifiez chaque enchère et à qui c’est le tour.",
       "invalid_answer": "Écrivez une enchère, par exemple 2♣.",
       "move_up": "Monter",
       "move_down": "Descendre",
@@ -3959,7 +3959,10 @@
       "language_label": "Langue des cartes",
       "update_card": "Mettre à jour la carte",
       "edit_card": "Modifier la carte",
-      "answer_change": "Choisissez une autre enchère ci-dessous pour la changer."
+      "answer_change": "Choisissez une autre enchère ci-dessous pour la changer.",
+      "bidding_box_show": "Utiliser la boîte à enchères",
+      "bidding_box_hide": "Masquer la boîte à enchères",
+      "bidding_box_undo": "Annuler la dernière enchère"
     },
     "quiz": {
       "score": "Vous avez {{score}} sur {{total}}.",
@@ -4024,7 +4027,7 @@
       "answer_placeholder": "Dites 2♦",
       "why": "Pourquoi",
       "invalid_hand": "Ce n’est pas une main de 13 cartes.",
-      "invalid_auction": "Ce ne sont pas des enchères.",
+      "invalid_auction": "Ces enchères ne sont pas régulières : vérifiez chaque enchère et à qui c’est le tour.",
       "invalid_answer": "Écrivez la réponse.",
       "insert": "Insérer",
       "slide_placeholder": "Écrivez la diapositive : # titre, ## sous-titre, **gras**, > citation, - liste. Les enchères comme 1NT ou 2H s’affichent avec leurs couleurs.",
