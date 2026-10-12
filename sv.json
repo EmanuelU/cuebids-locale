@@ -4223,7 +4223,8 @@
       "small_card": "En liten hacka",
       "spot_cards": "Visa småkorten",
       "undo": "Ångra",
-      "fill_keep_hint": "Varje spelare får kort bara i färger du inte har gett hen något i: AK i spader betyder inga fler spader."
+      "fill_keep_hint": "Varje spelare får kort bara i färger du inte har gett hen något i: AK i spader betyder inga fler spader.",
+      "fill_again": "Dela igen"
     },
     "can_title": "Det här kan du göra",
     "can_lessons": "Göra lektioner: sidor med händer och budgivningar, frågekort och quiz, och övning vid bordet, samlat på ett ställe.",

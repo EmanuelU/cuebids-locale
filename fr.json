@@ -4223,7 +4223,8 @@
       "small_card": "Une petite carte",
       "spot_cards": "Afficher les petites cartes",
       "undo": "Annuler",
-      "fill_keep_hint": "Chaque joueur ne reçoit des cartes que dans les couleurs où vous ne lui avez rien donné : AK à pique veut dire plus aucun pique."
+      "fill_keep_hint": "Chaque joueur ne reçoit des cartes que dans les couleurs où vous ne lui avez rien donné : AK à pique veut dire plus aucun pique.",
+      "fill_again": "Redonner"
     },
     "can_title": "Ce que vous pouvez faire",
     "can_lessons": "Créer des leçons : des pages avec des mains et des séquences d’enchères, des cartes mémo et des quiz, et de l’entraînement à la table, au même endroit.",

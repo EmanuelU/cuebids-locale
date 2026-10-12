@@ -4223,7 +4223,8 @@
       "small_card": "Una carta baja",
       "spot_cards": "Mostrar las cartas bajas",
       "undo": "Deshacer",
-      "fill_keep_hint": "Cada jugador recibe cartas solo en los palos en los que no le has dado nada: AK de picas significa que no habrá más picas."
+      "fill_keep_hint": "Cada jugador recibe cartas solo en los palos en los que no le has dado nada: AK de picas significa que no habrá más picas.",
+      "fill_again": "Repartir de nuevo"
     },
     "can_title": "Qué puedes hacer",
     "can_lessons": "Crear lecciones: páginas con manos y subastas, tarjetas y cuestionarios, y práctica en la mesa, todo en un mismo lugar.",
