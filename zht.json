@@ -4187,7 +4187,8 @@
       "board": "牌局",
       "show_contracts": "最佳合約",
       "submit_withdraw": "撤回",
-      "submit_withdraw_error": "無法撤回，可能已經審核過了。"
+      "submit_withdraw_error": "無法撤回，可能已經審核過了。",
+      "back": "返回"
     }
   },
   "pbn": {

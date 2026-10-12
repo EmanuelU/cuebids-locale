@@ -4186,7 +4186,8 @@
       "board": "Board",
       "show_contracts": "Best contracts",
       "submit_withdraw": "Withdraw",
-      "submit_withdraw_error": "Could not withdraw it. It may already have been looked at."
+      "submit_withdraw_error": "Could not withdraw it. It may already have been looked at.",
+      "back": "Back"
     }
   },
   "pbn": {

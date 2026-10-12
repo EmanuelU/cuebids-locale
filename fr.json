@@ -4186,7 +4186,8 @@
       "board": "Donne",
       "show_contracts": "Meilleurs contrats",
       "submit_withdraw": "Retirer",
-      "submit_withdraw_error": "Impossible de la retirer. Elle a peut-être déjà été examinée."
+      "submit_withdraw_error": "Impossible de la retirer. Elle a peut-être déjà été examinée.",
+      "back": "Retour"
     }
   },
   "pbn": {

@@ -4186,7 +4186,8 @@
       "board": "Mano",
       "show_contracts": "Mejores contratos",
       "submit_withdraw": "Retirar",
-      "submit_withdraw_error": "No se pudo retirar. Puede que ya se haya revisado."
+      "submit_withdraw_error": "No se pudo retirar. Puede que ya se haya revisado.",
+      "back": "Atrás"
     }
   },
   "pbn": {

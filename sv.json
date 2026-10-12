@@ -4186,7 +4186,8 @@
       "board": "Bricka",
       "show_contracts": "Bästa kontrakt",
       "submit_withdraw": "Ta tillbaka",
-      "submit_withdraw_error": "Det gick inte att ta tillbaka. Den kan redan ha granskats."
+      "submit_withdraw_error": "Det gick inte att ta tillbaka. Den kan redan ha granskats.",
+      "back": "Tillbaka"
     }
   },
   "pbn": {

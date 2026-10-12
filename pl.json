@@ -4188,7 +4188,8 @@
       "board": "Rozdanie",
       "show_contracts": "Najlepsze kontrakty",
       "submit_withdraw": "Wycofaj",
-      "submit_withdraw_error": "Nie udało się wycofać. Lekcja mogła już zostać sprawdzona."
+      "submit_withdraw_error": "Nie udało się wycofać. Lekcja mogła już zostać sprawdzona.",
+      "back": "Wstecz"
     }
   },
   "pbn": {
