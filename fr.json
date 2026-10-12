@@ -3895,7 +3895,7 @@
       "front": "Recto",
       "back_side": "Verso",
       "hand": "Main",
-      "hand_hint": "Piques, cœurs, carreaux, trèfles, séparés par des points.",
+      "hand_hint": "Piques, cœurs, carreaux, trèfles, séparés par des points. x pour une petite carte : AKxx.AKxx.AKxx.x.",
       "dealer": "Donneur",
       "vulnerability": "Vulnérabilité",
       "auction": "Enchères jusqu’ici",
@@ -4184,7 +4184,9 @@
       "view_label": "Affichage",
       "close": "Fermer",
       "board": "Donne",
-      "show_contracts": "Meilleurs contrats"
+      "show_contracts": "Meilleurs contrats",
+      "submit_withdraw": "Retirer",
+      "submit_withdraw_error": "Impossible de la retirer. Elle a peut-être déjà été examinée."
     }
   },
   "pbn": {

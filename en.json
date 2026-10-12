@@ -3895,7 +3895,7 @@
       "front": "Front",
       "back_side": "Back",
       "hand": "Hand",
-      "hand_hint": "Spades, hearts, diamonds, clubs, separated by dots.",
+      "hand_hint": "Spades, hearts, diamonds, clubs, separated by dots. x for a small card: AKxx.AKxx.AKxx.x.",
       "dealer": "Dealer",
       "vulnerability": "Vulnerability",
       "auction": "Auction so far",
@@ -4184,7 +4184,9 @@
       "view_label": "View",
       "close": "Close",
       "board": "Board",
-      "show_contracts": "Best contracts"
+      "show_contracts": "Best contracts",
+      "submit_withdraw": "Withdraw",
+      "submit_withdraw_error": "Could not withdraw it. It may already have been looked at."
     }
   },
   "pbn": {

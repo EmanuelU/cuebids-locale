@@ -3895,7 +3895,7 @@
       "front": "Framsida",
       "back_side": "Baksida",
       "hand": "Hand",
-      "hand_hint": "Spader, hjärter, ruter, klöver, åtskilda med punkter.",
+      "hand_hint": "Spader, hjärter, ruter, klöver, åtskilda med punkter. x för en liten hacka: AKxx.AKxx.AKxx.x.",
       "dealer": "Giv",
       "vulnerability": "Zon",
       "auction": "Budgivningen hittills",
@@ -4184,7 +4184,9 @@
       "view_label": "Visning",
       "close": "Stäng",
       "board": "Bricka",
-      "show_contracts": "Bästa kontrakt"
+      "show_contracts": "Bästa kontrakt",
+      "submit_withdraw": "Ta tillbaka",
+      "submit_withdraw_error": "Det gick inte att ta tillbaka. Den kan redan ha granskats."
     }
   },
   "pbn": {

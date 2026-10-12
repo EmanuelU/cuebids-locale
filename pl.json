@@ -3897,7 +3897,7 @@
       "front": "Przód",
       "back_side": "Tył",
       "hand": "Ręka",
-      "hand_hint": "Piki, kiery, kara, trefle, oddzielone kropkami.",
+      "hand_hint": "Piki, kiery, kara, trefle, oddzielone kropkami. x oznacza blotkę: AKxx.AKxx.AKxx.x.",
       "dealer": "Rozdający",
       "vulnerability": "Założenia",
       "auction": "Dotychczasowa licytacja",
@@ -4186,7 +4186,9 @@
       "view_label": "Widok",
       "close": "Zamknij",
       "board": "Rozdanie",
-      "show_contracts": "Najlepsze kontrakty"
+      "show_contracts": "Najlepsze kontrakty",
+      "submit_withdraw": "Wycofaj",
+      "submit_withdraw_error": "Nie udało się wycofać. Lekcja mogła już zostać sprawdzona."
     }
   },
   "pbn": {

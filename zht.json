@@ -3896,7 +3896,7 @@
       "front": "正面",
       "back_side": "背面",
       "hand": "手牌",
-      "hand_hint": "黑桃、紅心、方塊、梅花，用點分隔。",
+      "hand_hint": "黑桃、紅心、方塊、梅花，用點分隔。小牌可寫作 x：AKxx.AKxx.AKxx.x。",
       "dealer": "發牌人",
       "vulnerability": "局況",
       "auction": "目前的叫牌",
@@ -4185,7 +4185,9 @@
       "view_label": "顯示",
       "close": "關閉",
       "board": "牌局",
-      "show_contracts": "最佳合約"
+      "show_contracts": "最佳合約",
+      "submit_withdraw": "撤回",
+      "submit_withdraw_error": "無法撤回，可能已經審核過了。"
     }
   },
   "pbn": {

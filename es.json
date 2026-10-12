@@ -3895,7 +3895,7 @@
       "front": "Delante",
       "back_side": "Detrás",
       "hand": "Mano",
-      "hand_hint": "Picas, corazones, diamantes, tréboles, separados por puntos.",
+      "hand_hint": "Picas, corazones, diamantes, tréboles, separados por puntos. x para una carta baja: AKxx.AKxx.AKxx.x.",
       "dealer": "Repartidor",
       "vulnerability": "Vulnerabilidad",
       "auction": "Subasta hasta ahora",
@@ -4184,7 +4184,9 @@
       "view_label": "Vista",
       "close": "Cerrar",
       "board": "Mano",
-      "show_contracts": "Mejores contratos"
+      "show_contracts": "Mejores contratos",
+      "submit_withdraw": "Retirar",
+      "submit_withdraw_error": "No se pudo retirar. Puede que ya se haya revisado."
     }
   },
   "pbn": {
