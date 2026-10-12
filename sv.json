@@ -4178,7 +4178,13 @@
       "saved_intro": "Alla brickor du har sparat vid bordet eller i sökningen, som hela givar. Lägg till vilken som helst i en samling.",
       "saved_none": "Inga sparade brickor än. Spara en bricka från genomgången eller från sökningen.",
       "delete_set_confirm": "Ta bort samlingen? Tryck igen",
-      "make_deck": "Gör en kortlek"
+      "make_deck": "Gör en kortlek",
+      "view_full": "Hela givar",
+      "view_compact": "Kompakt",
+      "view_label": "Visning",
+      "close": "Stäng",
+      "board": "Bricka",
+      "show_contracts": "Bästa kontrakt"
     }
   },
   "pbn": {

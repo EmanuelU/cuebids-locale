@@ -4178,7 +4178,13 @@
       "saved_intro": "Toutes les donnes enregistrées à la table ou dans la recherche, en entier. Ajoutez-en une à une série.",
       "saved_none": "Aucune donne enregistrée. Enregistrez une donne depuis sa revue ou depuis la recherche.",
       "delete_set_confirm": "Supprimer la série ? Appuyez à nouveau",
-      "make_deck": "Faire un paquet"
+      "make_deck": "Faire un paquet",
+      "view_full": "Complet",
+      "view_compact": "Compact",
+      "view_label": "Affichage",
+      "close": "Fermer",
+      "board": "Donne",
+      "show_contracts": "Meilleurs contrats"
     }
   },
   "pbn": {

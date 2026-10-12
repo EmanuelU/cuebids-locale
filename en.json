@@ -4178,7 +4178,13 @@
       "saved_intro": "Every board you saved at the table or in search, as a whole deal. Add any of them to a set.",
       "saved_none": "No saved boards yet. Save a board from its review, or from search.",
       "delete_set_confirm": "Delete the set? Press again",
-      "make_deck": "Make a deck"
+      "make_deck": "Make a deck",
+      "view_full": "Full",
+      "view_compact": "Compact",
+      "view_label": "View",
+      "close": "Close",
+      "board": "Board",
+      "show_contracts": "Best contracts"
     }
   },
   "pbn": {

@@ -4179,7 +4179,13 @@
       "saved_intro": "你在牌桌上或搜索中保存的所有牌局，完整显示。可将任意一副加入牌组。",
       "saved_none": "还没有保存的牌局。可在复盘或搜索中保存。",
       "delete_set_confirm": "删除这个牌组？再按一次",
-      "make_deck": "生成卡组"
+      "make_deck": "生成卡组",
+      "view_full": "完整",
+      "view_compact": "紧凑",
+      "view_label": "显示",
+      "close": "关闭",
+      "board": "牌局",
+      "show_contracts": "最佳定约"
     }
   },
   "pbn": {

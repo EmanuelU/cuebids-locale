@@ -4178,7 +4178,13 @@
       "saved_intro": "Todas las manos que guardaste en la mesa o en la búsqueda, completas. Añade cualquiera a una serie.",
       "saved_none": "Aún no hay manos guardadas. Guarda una mano desde su revisión o desde la búsqueda.",
       "delete_set_confirm": "¿Eliminar la serie? Pulsa otra vez",
-      "make_deck": "Crear un mazo"
+      "make_deck": "Crear un mazo",
+      "view_full": "Completo",
+      "view_compact": "Compacto",
+      "view_label": "Vista",
+      "close": "Cerrar",
+      "board": "Mano",
+      "show_contracts": "Mejores contratos"
     }
   },
   "pbn": {

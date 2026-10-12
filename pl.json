@@ -4180,7 +4180,13 @@
       "saved_intro": "Wszystkie rozdania zapisane przy stole lub w wyszukiwarce, w całości. Każde można dodać do zestawu.",
       "saved_none": "Brak zapisanych rozdań. Zapisz rozdanie z jego omówienia lub z wyszukiwarki.",
       "delete_set_confirm": "Usunąć zestaw? Naciśnij ponownie",
-      "make_deck": "Utwórz talię"
+      "make_deck": "Utwórz talię",
+      "view_full": "Pełny",
+      "view_compact": "Kompaktowy",
+      "view_label": "Widok",
+      "close": "Zamknij",
+      "board": "Rozdanie",
+      "show_contracts": "Najlepsze kontrakty"
     }
   },
   "pbn": {
