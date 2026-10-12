@@ -4097,11 +4097,8 @@
   },
   "teach": {
     "title": "Undervisa med Cuebids",
-    "intro": "Lärarverktygen är gratis för lärare som tar med sina elever till Cuebids.",
-    "how_title": "Så fungerar det",
-    "how_tools": "Skapa samlingar, importera PBN-filer, lägg till föreslagen budgivning och kör klassevent från dina samlingar.",
+    "intro": "Lärare tar med nya spelare till bridgen, och många av dem till Cuebids. Det vill vi ge något tillbaka för: undervisar du och tar med dina elever är lärarverktygen gratis.",
     "how_students": "Eleverna spelar på egna konton. Alla konton, även gratiskonton, får 48 biljetter i månaden. Klassevent kostar biljetter som vanligt, om inte eleven har Hjärter eller du står för dem.",
-    "how_free": "Gratis i 6 månader till att börja med. När nya spelare kommer till Cuebids genom din klass fortsätter det att vara gratis.",
     "how_yours": "Det du bygger är ditt och går alltid att spela.",
     "where_label": "Var undervisar du?",
     "where": {
@@ -4111,7 +4108,7 @@
       "online": "Online"
     },
     "students_label": "Ungefär hur många elever har du åt gången?",
-    "submit": "Skicka förfrågan",
+    "submit": "Slå på lärarverktygen",
     "pending_title": "Förfrågan mottagen",
     "pending_text": "Vi läser varje förfrågan själva. Du får ett mejl när lärarverktygen är aktiverade.",
     "has_title": "Du har lärarverktygen",
@@ -4207,7 +4204,22 @@
       "public_audience_off_hint": "Bara du ser den, här i Undervisa.",
       "public_audience_admins_hint": "Admins hittar den i biblioteket och går igenom den precis som en elev. Spelarna ser den inte än.",
       "public_audience_everyone_hint": "Alla spelare hittar den i biblioteket, utan att vara med i en klass, och ser den version du senast publicerade."
-    }
+    },
+    "can_title": "Det här kan du göra",
+    "can_lessons": "Göra lektioner: sidor med händer och budgivningar, frågekort och quiz, och övning vid bordet, samlat på ett ställe.",
+    "can_class": "Ge en lektion till din klass och se hur långt varje elev har kommit, deras quizresultat och brickorna de har övat på.",
+    "can_sets": "Bygga samlingar av brickor från dina egna spel, efter givtyp eller från en PBN-fil, med ditt förslag på budgivning till varje bricka.",
+    "can_events": "Köra klassevent från en samling och följa hur varje elev bjöd.",
+    "can_share": "Skicka en lektion till Cuebids. Publicerar vi den för alla spelare står ditt namn på den, och vi tackar med en gåva.",
+    "free_title": "Så förblir det gratis",
+    "free_start": "Lärarverktygen slås på direkt när du ber om dem, gratis i sex månader.",
+    "free_renew": "När nya spelare börjar på Cuebids genom din klass förnyar vi dem i sex månader till. Det räcker med tre: spelare som är nya på Cuebids, spelar minst tre dagar och med någon annan än dig.",
+    "free_ending": "Blir de färre skriver vi till dig innan verktygen tar slut.",
+    "students_title": "Vad dina elever betalar",
+    "form_title": "Be om lärarverktyg",
+    "submit_hint": "Två snabba frågor, så att vi vet vilka vi bygger för. Verktygen slås på så fort du har skickat svaren.",
+    "has_text_teach": "Gör lektioner, bygg samlingar och sköt din klass från Undervisa.",
+    "open_teach": "Öppna Undervisa"
   },
   "pbn": {
     "skipped": "Några brickor kunde inte läsas och togs inte med: {{boards}}."

@@ -4097,11 +4097,8 @@
   },
   "teach": {
     "title": "Enseña con Cuebids",
-    "intro": "Las herramientas para profesores son gratis para los profesores que traen a sus alumnos a Cuebids.",
-    "how_title": "Cómo funciona",
-    "how_tools": "Crea series, importa archivos PBN, añade subastas sugeridas y organiza eventos de clase a partir de tus series.",
+    "intro": "Los profesores traen nuevos jugadores al bridge, y muchos de ellos a Cuebids. Queremos devolverles algo: si enseñas y traes a tus alumnos, las herramientas de profesor son gratis.",
     "how_students": "Tus alumnos juegan con sus propias cuentas. Cada cuenta, también las gratuitas, recibe 48 tickets al mes. Los eventos de clase cuestan tickets como siempre, salvo que el alumno tenga Corazón o tú lo cubras.",
-    "how_free": "Gratis durante 6 meses para empezar. Si llegan jugadores nuevos a Cuebids a través de tu clase, sigue siendo gratis.",
     "how_yours": "Lo que creas es tuyo y siempre se puede jugar.",
     "where_label": "¿Dónde enseñas?",
     "where": {
@@ -4111,7 +4108,7 @@
       "online": "En línea"
     },
     "students_label": "¿Más o menos cuántos alumnos tienes a la vez?",
-    "submit": "Enviar solicitud",
+    "submit": "Activar las herramientas de profesor",
     "pending_title": "Solicitud recibida",
     "pending_text": "Leemos cada solicitud nosotros mismos. Recibirás un correo cuando las herramientas estén activadas.",
     "has_title": "Tienes las herramientas para profesores",
@@ -4207,7 +4204,22 @@
       "public_audience_off_hint": "Solo tú la ves, aquí en Enseñar.",
       "public_audience_admins_hint": "Los admins la encuentran en la Biblioteca y la recorren igual que un alumno. Los jugadores aún no la ven.",
       "public_audience_everyone_hint": "Todos los jugadores la encuentran en la Biblioteca, sin clase, y ven la última versión que publicaste."
-    }
+    },
+    "can_title": "Qué puedes hacer",
+    "can_lessons": "Crear lecciones: páginas con manos y subastas, tarjetas y cuestionarios, y práctica en la mesa, todo en un mismo lugar.",
+    "can_class": "Dar una lección a tu clase y ver hasta dónde llegó cada alumno, sus resultados en los cuestionarios y las manos que practicó.",
+    "can_sets": "Armar series de manos a partir de tus propias partidas, por tipo de reparto o desde un archivo PBN, con tu subasta sugerida en cada una.",
+    "can_events": "Organizar eventos de clase con una serie y seguir cómo subastó cada alumno.",
+    "can_share": "Enviar una lección a Cuebids. Si la publicamos para todos los jugadores, lleva tu nombre, y te lo agradecemos con un regalo.",
+    "free_title": "Cómo sigue siendo gratis",
+    "free_start": "Tus herramientas de profesor se activan en cuanto las pides, gratis durante seis meses.",
+    "free_renew": "Cuando llegan jugadores nuevos a Cuebids a través de tu clase, las renovamos seis meses más. Bastan tres: jugadores nuevos en Cuebids que juegan al menos tres días y con alguien que no seas tú.",
+    "free_ending": "Si llegan menos, te escribimos antes de que terminen tus herramientas.",
+    "students_title": "Qué pagan tus alumnos",
+    "form_title": "Pide las herramientas de profesor",
+    "submit_hint": "Dos preguntas rápidas, para saber para quién construimos. Tus herramientas se activan en cuanto las envías.",
+    "has_text_teach": "Crea lecciones, arma series y lleva tu clase desde Enseñar.",
+    "open_teach": "Abrir Enseñar"
   },
   "pbn": {
     "skipped": "Algunas manos no se pudieron leer y se dejaron fuera: {{boards}}."

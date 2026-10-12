@@ -4097,11 +4097,8 @@
   },
   "teach": {
     "title": "Enseigner avec Cuebids",
-    "intro": "Les outils pour enseignants sont gratuits pour les enseignants qui amènent leurs élèves sur Cuebids.",
-    "how_title": "Comment ça marche",
-    "how_tools": "Créez des séries, importez des fichiers PBN, ajoutez des séquences suggérées et organisez des tournois de classe à partir de vos séries.",
+    "intro": "Les enseignants amènent de nouveaux joueurs au bridge, et beaucoup d’entre eux sur Cuebids. Nous voulons leur rendre la pareille : si vous enseignez et amenez vos élèves, les outils enseignant sont gratuits.",
     "how_students": "Vos élèves jouent avec leur propre compte. Chaque compte, gratuit compris, reçoit 48 tickets par mois. Les tournois de classe coûtent des tickets comme d’habitude, sauf si l’élève a Cœur ou si vous les prenez en charge.",
-    "how_free": "Gratuit pendant 6 mois pour commencer. Quand de nouveaux joueurs arrivent sur Cuebids grâce à votre classe, cela reste gratuit.",
     "how_yours": "Ce que vous créez vous appartient et reste jouable.",
     "where_label": "Où enseignez-vous ?",
     "where": {
@@ -4111,7 +4108,7 @@
       "online": "En ligne"
     },
     "students_label": "Combien d’élèves avez-vous à la fois, à peu près ?",
-    "submit": "Envoyer la demande",
+    "submit": "Activer les outils enseignant",
     "pending_title": "Demande reçue",
     "pending_text": "Nous lisons chaque demande nous-mêmes. Vous recevrez un e-mail quand les outils seront activés.",
     "has_title": "Vous avez les outils pour enseignants",
@@ -4207,7 +4204,22 @@
       "public_audience_off_hint": "Vous seul la voyez, ici dans Enseigner.",
       "public_audience_admins_hint": "Les admins la trouvent dans la Bibliothèque et la suivent exactement comme un élève. Les joueurs ne la voient pas encore.",
       "public_audience_everyone_hint": "Tous les joueurs la trouvent dans la Bibliothèque, sans classe, et voient la dernière version publiée."
-    }
+    },
+    "can_title": "Ce que vous pouvez faire",
+    "can_lessons": "Créer des leçons : des pages avec des mains et des séquences d’enchères, des cartes mémo et des quiz, et de l’entraînement à la table, au même endroit.",
+    "can_class": "Donner une leçon à votre classe et voir où en est chaque élève, ses résultats aux quiz et les donnes qu’il a travaillées.",
+    "can_sets": "Constituer des séries de donnes à partir de vos propres parties, par type de donne ou d’un fichier PBN, avec votre séquence d’enchères suggérée pour chacune.",
+    "can_events": "Organiser des tournois de classe à partir d’une série et suivre les enchères de chaque élève.",
+    "can_share": "Envoyer une leçon à Cuebids. Si nous la publions pour tous les joueurs, elle porte votre nom, et nous vous remercions avec un cadeau.",
+    "free_title": "Comment cela reste gratuit",
+    "free_start": "Vos outils enseignant sont activés dès que vous les demandez, gratuitement pendant six mois.",
+    "free_renew": "Quand de nouveaux joueurs arrivent sur Cuebids grâce à votre classe, nous les renouvelons pour six mois. Trois suffisent : des joueurs nouveaux sur Cuebids, qui jouent au moins trois jours et avec quelqu’un d’autre que vous.",
+    "free_ending": "S’il y en a moins, nous vous écrivons avant la fin de vos outils.",
+    "students_title": "Ce que paient vos élèves",
+    "form_title": "Demander les outils enseignant",
+    "submit_hint": "Deux questions rapides, pour savoir pour qui nous construisons. Vos outils sont activés dès l’envoi.",
+    "has_text_teach": "Créez des leçons, constituez des séries et animez votre classe depuis Enseigner.",
+    "open_teach": "Ouvrir Enseigner"
   },
   "pbn": {
     "skipped": "Certaines donnes n’ont pas pu être lues et ont été laissées de côté : {{boards}}."

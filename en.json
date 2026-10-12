@@ -4097,11 +4097,8 @@
   },
   "teach": {
     "title": "Teach with Cuebids",
-    "intro": "Teacher tools are free for teachers who bring their students to Cuebids.",
-    "how_title": "How it works",
-    "how_tools": "Build sets, import PBN files, add suggested auctions and run class events from your sets.",
+    "intro": "Teachers bring new players to bridge, and many of them to Cuebids. We want to give something back: if you teach and bring your students, the teacher tools are free.",
     "how_students": "Your students play on their own accounts. Every account, free ones too, gets 48 tickets a month. Class events cost tickets as usual, unless a student has Heart or you cover them.",
-    "how_free": "Free for 6 months to start. When new players join Cuebids through your class, it stays free.",
     "how_yours": "What you build stays yours, and stays playable.",
     "where_label": "Where do you teach?",
     "where": {
@@ -4111,7 +4108,7 @@
       "online": "Online"
     },
     "students_label": "Roughly how many students at a time?",
-    "submit": "Send request",
+    "submit": "Turn on teacher tools",
     "pending_title": "Request received",
     "pending_text": "We read every request ourselves. You will get an email when teacher tools are on.",
     "has_title": "You have teacher tools",
@@ -4207,7 +4204,22 @@
       "public_audience_off_hint": "Only you see it, here in Teach.",
       "public_audience_admins_hint": "Admins find it in the Library and go through it exactly as a student will. Players do not see it yet.",
       "public_audience_everyone_hint": "Every player finds it in the Library, without a class, and sees the version you last published."
-    }
+    },
+    "can_title": "What you can do",
+    "can_lessons": "Make lessons: pages with hands and auctions, flashcards and quizzes, and practice at the table, all in one place.",
+    "can_class": "Give a lesson to your class and see how far each student got, their quiz scores and the boards they practiced.",
+    "can_sets": "Build sets of boards from your own play, by deal type or from a PBN file, with your suggested auction on each one.",
+    "can_events": "Run class events from a set and follow how each student bid.",
+    "can_share": "Send a lesson to Cuebids. If we publish it for every player, it carries your name, and we thank you with a gift.",
+    "free_title": "How it stays free",
+    "free_start": "Your teacher tools are on as soon as you ask, free for six months.",
+    "free_renew": "When new players join Cuebids through your class, we renew them for six more months. Three are enough: players new to Cuebids who play on at least three days, and with someone other than you.",
+    "free_ending": "If fewer join, we write to you before your tools end.",
+    "students_title": "What your students pay",
+    "form_title": "Ask for teacher tools",
+    "submit_hint": "Two quick questions, so we know who we are building for. Your tools are on as soon as you send them.",
+    "has_text_teach": "Make lessons, build sets and run your class from Teach.",
+    "open_teach": "Open Teach"
   },
   "pbn": {
     "skipped": "Some boards could not be read and were left out: {{boards}}."
