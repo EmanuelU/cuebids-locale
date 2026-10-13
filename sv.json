@@ -4125,7 +4125,13 @@
       "cards_done": "Du har gått igenom alla kort och kunde {{knew}} av {{total}}.",
       "cards_none": "Kortleken har inga kort än.",
       "cards_again": "Gå igenom dem igen",
-      "start_lesson": "Starta lektionen"
+      "start_lesson": "Starta lektionen",
+      "admin_bar": "Admin:",
+      "take_down_admins": "Bara för admins igen",
+      "take_down_off": "Ta ner den",
+      "take_down_confirm": "Tryck igen för att bekräfta",
+      "taken_down_admins": "Bara admins ser lektionen nu.",
+      "taken_down_off": "Lektionen är inte längre offentlig. Ägaren kan lägga upp den igen från Undervisa."
     }
   },
   "teach": {

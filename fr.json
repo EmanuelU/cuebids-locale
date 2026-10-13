@@ -4125,7 +4125,13 @@
       "cards_done": "Vous avez vu toutes les cartes et en connaissiez {{knew}} sur {{total}}.",
       "cards_none": "Ce paquet n’a pas encore de cartes.",
       "cards_again": "Les revoir",
-      "start_lesson": "Commencer la leçon"
+      "start_lesson": "Commencer la leçon",
+      "admin_bar": "Admin :",
+      "take_down_admins": "Réserver de nouveau aux admins",
+      "take_down_off": "La retirer",
+      "take_down_confirm": "Touchez encore pour confirmer",
+      "taken_down_admins": "Seuls les admins voient cette leçon maintenant.",
+      "taken_down_off": "La leçon n'est plus publique. Son auteur peut la remettre depuis Enseigner."
     }
   },
   "teach": {

@@ -4125,7 +4125,13 @@
       "cards_done": "You went through every card and knew {{knew}} of {{total}}.",
       "cards_none": "There are no cards in this deck yet.",
       "cards_again": "Go through them again",
-      "start_lesson": "Start the lesson"
+      "start_lesson": "Start the lesson",
+      "admin_bar": "Admin:",
+      "take_down_admins": "Back to admins only",
+      "take_down_off": "Take it down",
+      "take_down_confirm": "Tap again to confirm",
+      "taken_down_admins": "Only admins see this lesson now.",
+      "taken_down_off": "The lesson is no longer public. Its owner can put it back from Teach."
     }
   },
   "teach": {

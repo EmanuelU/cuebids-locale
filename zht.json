@@ -4126,7 +4126,13 @@
       "cards_done": "你已看完所有卡片，答對 {{knew}} / {{total}}。",
       "cards_none": "這個卡組還沒有卡片。",
       "cards_again": "再看一遍",
-      "start_lesson": "開始課程"
+      "start_lesson": "開始課程",
+      "admin_bar": "管理員：",
+      "take_down_admins": "改回僅管理員可見",
+      "take_down_off": "下架",
+      "take_down_confirm": "再點一次確認",
+      "taken_down_admins": "現在只有管理員能看到這堂課。",
+      "taken_down_off": "這堂課已不再公開。作者可以在教學中重新發布。"
     }
   },
   "teach": {

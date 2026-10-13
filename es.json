@@ -4125,7 +4125,13 @@
       "cards_done": "Has repasado todas las tarjetas y sabías {{knew}} de {{total}}.",
       "cards_none": "Este mazo aún no tiene tarjetas.",
       "cards_again": "Repasarlas otra vez",
-      "start_lesson": "Empezar la lección"
+      "start_lesson": "Empezar la lección",
+      "admin_bar": "Admin:",
+      "take_down_admins": "Solo para admins de nuevo",
+      "take_down_off": "Retirarla",
+      "take_down_confirm": "Toca otra vez para confirmar",
+      "taken_down_admins": "Ahora solo los admins ven esta lección.",
+      "taken_down_off": "La lección ya no es pública. Su autor puede volver a publicarla desde Enseñar."
     }
   },
   "teach": {

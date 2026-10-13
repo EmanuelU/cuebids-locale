@@ -4131,7 +4131,13 @@
       "cards_done": "Wszystkie karty przerobione. Znane: {{knew}} z {{total}}.",
       "cards_none": "Ta talia nie ma jeszcze kart.",
       "cards_again": "Przejdź je jeszcze raz",
-      "start_lesson": "Rozpocznij lekcję"
+      "start_lesson": "Rozpocznij lekcję",
+      "admin_bar": "Admin:",
+      "take_down_admins": "Z powrotem tylko dla adminów",
+      "take_down_off": "Wycofaj lekcję",
+      "take_down_confirm": "Stuknij ponownie, aby potwierdzić",
+      "taken_down_admins": "Teraz tę lekcję widzą tylko admini.",
+      "taken_down_off": "Lekcja nie jest już publiczna. Właściciel może ją przywrócić w Nauczaniu."
     }
   },
   "teach": {
