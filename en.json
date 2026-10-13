@@ -421,7 +421,9 @@
     "tab_gift": "Gift",
     "source_gift": "Gift",
     "plan_renews_on": "Renews {{date}}",
-    "plan_ends_on": "Ends {{date}}"
+    "plan_ends_on": "Ends {{date}}",
+    "payment_failed_title": "Your payment didn't go through",
+    "payment_failed_text": "We couldn't renew {{plan}}. Update your payment method to keep it."
   },
   "go_to_store": {
     "no_iap_error": "Store is currently not available in the mobile app. Please visit our website to subscribe to Cuebids."

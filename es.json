@@ -421,7 +421,9 @@
     "tab_gift": "Regalo",
     "source_gift": "Regalo",
     "plan_renews_on": "Se renueva el {{date}}",
-    "plan_ends_on": "Válido hasta el {{date}}"
+    "plan_ends_on": "Válido hasta el {{date}}",
+    "payment_failed_title": "El pago no se ha completado",
+    "payment_failed_text": "No hemos podido renovar {{plan}}. Actualiza tu método de pago para conservarlo."
   },
   "go_to_store": {
     "no_iap_error": "La tienda no está disponible en la app móvil en este momento. Visita nuestro sitio web para suscribirte a Cuebids."
