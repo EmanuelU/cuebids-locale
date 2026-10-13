@@ -2005,6 +2005,23 @@
       "quiz": "測驗",
       "error": "出錯了，請重試。",
       "practice": "練習"
+    },
+    "join_class": {
+      "eyebrow": "加入班級",
+      "teacher": "老師：{{name}}",
+      "join_text": "加入後即可看到老師為班級安排的課程和活動。",
+      "join": "用代碼 {{code}} 加入",
+      "joined": "你已加入班級。",
+      "already": "你已經在這個班級裡了。",
+      "open_class": "打開班級",
+      "get_app": "在手機上叫牌？",
+      "get_app_link": "下載 Cuebids 應用程式",
+      "enter_title": "用代碼加入班級",
+      "enter_text": "你的老師有一個六位班級代碼。請在這裡輸入。",
+      "code_label": "班級代碼",
+      "unknown": "這個代碼沒有對應的班級。請向老師確認。",
+      "error": "加入失敗，請稍後再試。",
+      "continue": "繼續"
     }
   },
   "share": {
@@ -4108,7 +4125,8 @@
       "admins_only": "僅管理員",
       "cards_done": "你已看完所有卡片，答對 {{knew}} / {{total}}。",
       "cards_none": "這個卡組還沒有卡片。",
-      "cards_again": "再看一遍"
+      "cards_again": "再看一遍",
+      "start_lesson": "開始課程"
     }
   },
   "teach": {
@@ -4248,7 +4266,31 @@
       "status_heart": "紅桃會員含教師工具",
       "status_until": "教師工具有效期至 {{date}}",
       "status_admin": "管理員",
-      "home_greeting": "你好，{{name}}"
+      "home_greeting": "你好，{{name}}",
+      "invite": {
+        "title": "邀請你的學生",
+        "text": "學生掃描 QR 碼或打開連結，新用戶註冊後即進入班級。透過這種方式加入的新玩家都算作由你帶來。",
+        "copy_link": "複製連結",
+        "copied": "連結已複製",
+        "show_slide": "顯示加入頁面",
+        "slide_first": "向這個班級簡報時，先顯示加入頁面",
+        "slide_eyebrow": "在 Cuebids 上加入班級",
+        "slide_scan": "用手機相機掃描 QR 碼",
+        "slide_or": "或打開",
+        "slide_code": "並輸入代碼",
+        "slide_done": "完成"
+      },
+      "brought": {
+        "title": "你帶來的玩家",
+        "text": "透過這個班級加入 Cuebids 的新玩家。玩家在幾天裡打過牌、並和你以外的人打過之後，就計入你保留教師工具的條件。",
+        "none": "還沒有。把班級代碼分享給你的學生吧。",
+        "joined": "{{date}} 加入",
+        "left_class": "已離開班級",
+        "counts": "已計入",
+        "days_one": "{{count}}/{{needed}} 天",
+        "days_other": "{{count}}/{{needed}} 天",
+        "needs_partner": "還沒有和你以外的人打過"
+      }
     },
     "can_title": "你可以做什麼",
     "can_lessons": "製作課程：包含牌手和叫牌過程的頁面、閃卡和測驗，以及牌桌練習，全部集中在一處。",

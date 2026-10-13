@@ -2004,6 +2004,23 @@
       "quiz": "Quiz",
       "error": "Un problème est survenu. Réessayez.",
       "practice": "Entraînement"
+    },
+    "join_class": {
+      "eyebrow": "Rejoindre une classe",
+      "teacher": "Avec {{name}}",
+      "join_text": "Rejoignez-la pour voir les leçons et les événements que le professeur donne à la classe.",
+      "join": "Rejoindre avec le code {{code}}",
+      "joined": "Vous faites partie de la classe.",
+      "already": "Vous faites déjà partie de cette classe.",
+      "open_class": "Ouvrir la classe",
+      "get_app": "Vous enchérissez sur votre téléphone ?",
+      "get_app_link": "Télécharger l'application Cuebids",
+      "enter_title": "Rejoindre une classe avec un code",
+      "enter_text": "Votre professeur a un code de six caractères pour la classe. Saisissez-le ici.",
+      "code_label": "Code de la classe",
+      "unknown": "Ce code n'ouvre aucune classe. Vérifiez-le avec votre professeur.",
+      "error": "Impossible de rejoindre la classe. Réessayez dans un instant.",
+      "continue": "Continuer"
     }
   },
   "share": {
@@ -4107,7 +4124,8 @@
       "admins_only": "Admins seulement",
       "cards_done": "Vous avez vu toutes les cartes et en connaissiez {{knew}} sur {{total}}.",
       "cards_none": "Ce paquet n’a pas encore de cartes.",
-      "cards_again": "Les revoir"
+      "cards_again": "Les revoir",
+      "start_lesson": "Commencer la leçon"
     }
   },
   "teach": {
@@ -4247,7 +4265,31 @@
       "status_heart": "Outils enseignant avec Cœur",
       "status_until": "Outils enseignant jusqu’au {{date}}",
       "status_admin": "Admin",
-      "home_greeting": "Bonjour {{name}}"
+      "home_greeting": "Bonjour {{name}}",
+      "invite": {
+        "title": "Invitez vos élèves",
+        "text": "Les élèves scannent le code ou ouvrent le lien, créent un compte s'ils sont nouveaux et arrivent dans la classe. Les nouveaux joueurs qui arrivent ainsi comptent comme amenés par vous.",
+        "copy_link": "Copier le lien",
+        "copied": "Lien copié",
+        "show_slide": "Afficher la page d'inscription",
+        "slide_first": "Commencer mes leçons par la page d'inscription quand je présente à cette classe",
+        "slide_eyebrow": "Rejoignez la classe sur Cuebids",
+        "slide_scan": "Scannez le code avec l'appareil photo du téléphone",
+        "slide_or": "Ou ouvrez",
+        "slide_code": "et saisissez le code",
+        "slide_done": "Terminé"
+      },
+      "brought": {
+        "title": "Les joueurs que vous avez amenés",
+        "text": "Les nouveaux joueurs arrivés sur Cuebids par cette classe. Un joueur compte pour garder vos outils d'enseignant dès qu'il a joué quelques jours et avec quelqu'un d'autre que vous.",
+        "none": "Personne pour l’instant. Partagez le code de la classe avec vos élèves.",
+        "joined": "Arrivée le {{date}}",
+        "left_class": "a quitté la classe",
+        "counts": "Compte",
+        "days_one": "{{count}} jour sur {{needed}}",
+        "days_other": "{{count}} jours sur {{needed}}",
+        "needs_partner": "Pas encore avec quelqu'un d'autre que vous"
+      }
     },
     "can_title": "Ce que vous pouvez faire",
     "can_lessons": "Créer des leçons : des pages avec des mains et des séquences d’enchères, des cartes mémo et des quiz, et de l’entraînement à la table, au même endroit.",

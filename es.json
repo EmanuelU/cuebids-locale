@@ -2004,6 +2004,23 @@
       "quiz": "Cuestionario",
       "error": "Algo salió mal. Inténtalo de nuevo.",
       "practice": "Práctica"
+    },
+    "join_class": {
+      "eyebrow": "Unirse a una clase",
+      "teacher": "Con {{name}}",
+      "join_text": "Únete para ver las lecciones y los eventos que el profesor da a la clase.",
+      "join": "Unirse con el código {{code}}",
+      "joined": "Ya estás en la clase.",
+      "already": "Ya estabas en esta clase.",
+      "open_class": "Abrir la clase",
+      "get_app": "¿Subastas en el móvil?",
+      "get_app_link": "Descarga la app de Cuebids",
+      "enter_title": "Unirse a una clase con un código",
+      "enter_text": "Tu profesor tiene un código de seis caracteres para la clase. Escríbelo aquí.",
+      "code_label": "Código de la clase",
+      "unknown": "Ese código no abre ninguna clase. Compruébalo con tu profesor.",
+      "error": "No se pudo unir. Inténtalo de nuevo en un momento.",
+      "continue": "Continuar"
     }
   },
   "share": {
@@ -4107,7 +4124,8 @@
       "admins_only": "Solo admins",
       "cards_done": "Has repasado todas las tarjetas y sabías {{knew}} de {{total}}.",
       "cards_none": "Este mazo aún no tiene tarjetas.",
-      "cards_again": "Repasarlas otra vez"
+      "cards_again": "Repasarlas otra vez",
+      "start_lesson": "Empezar la lección"
     }
   },
   "teach": {
@@ -4247,7 +4265,31 @@
       "status_heart": "Herramientas de profesor con Heart",
       "status_until": "Herramientas de profesor hasta el {{date}}",
       "status_admin": "Admin",
-      "home_greeting": "Hola, {{name}}"
+      "home_greeting": "Hola, {{name}}",
+      "invite": {
+        "title": "Invita a tus alumnos",
+        "text": "Los alumnos escanean el código o abren el enlace, se registran si son nuevos y entran en la clase. Los jugadores nuevos que llegan así cuentan como traídos por ti.",
+        "copy_link": "Copiar el enlace",
+        "copied": "Enlace copiado",
+        "show_slide": "Mostrar la diapositiva de acceso",
+        "slide_first": "Empezar mis lecciones con la diapositiva de acceso cuando presento a esta clase",
+        "slide_eyebrow": "Únete a la clase en Cuebids",
+        "slide_scan": "Escanea el código con la cámara del móvil",
+        "slide_or": "O abre",
+        "slide_code": "y escribe el código",
+        "slide_done": "Listo"
+      },
+      "brought": {
+        "title": "Jugadores que has traído",
+        "text": "Jugadores nuevos que llegaron a Cuebids a través de esta clase. Un jugador cuenta para mantener tus herramientas de profesor cuando ha jugado varios días y con alguien que no seas tú.",
+        "none": "Todavía nadie. Comparte el código de la clase con tus alumnos.",
+        "joined": "Llegó el {{date}}",
+        "left_class": "dejó la clase",
+        "counts": "Cuenta",
+        "days_one": "{{count}} de {{needed}} días",
+        "days_other": "{{count}} de {{needed}} días",
+        "needs_partner": "Aún no con alguien que no seas tú"
+      }
     },
     "can_title": "Qué puedes hacer",
     "can_lessons": "Crear lecciones: páginas con manos y subastas, tarjetas y cuestionarios, y práctica en la mesa, todo en un mismo lugar.",

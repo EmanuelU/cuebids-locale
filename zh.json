@@ -2005,6 +2005,23 @@
       "quiz": "测验",
       "error": "出错了，请重试。",
       "practice": "练习"
+    },
+    "join_class": {
+      "eyebrow": "加入班级",
+      "teacher": "老师：{{name}}",
+      "join_text": "加入后即可看到老师为班级安排的课程和活动。",
+      "join": "用代码 {{code}} 加入",
+      "joined": "你已加入班级。",
+      "already": "你已经在这个班级里了。",
+      "open_class": "打开班级",
+      "get_app": "在手机上叫牌？",
+      "get_app_link": "下载 Cuebids 应用",
+      "enter_title": "用代码加入班级",
+      "enter_text": "你的老师有一个六位班级代码。请在这里输入。",
+      "code_label": "班级代码",
+      "unknown": "这个代码没有对应的班级。请向老师确认。",
+      "error": "加入失败，请稍后再试。",
+      "continue": "继续"
     }
   },
   "share": {
@@ -4108,7 +4125,8 @@
       "admins_only": "仅管理员",
       "cards_done": "你已看完所有卡片，答对 {{knew}} / {{total}}。",
       "cards_none": "这个卡组还没有卡片。",
-      "cards_again": "再看一遍"
+      "cards_again": "再看一遍",
+      "start_lesson": "开始课程"
     }
   },
   "teach": {
@@ -4248,7 +4266,31 @@
       "status_heart": "红桃会员含教师工具",
       "status_until": "教师工具有效期至 {{date}}",
       "status_admin": "管理员",
-      "home_greeting": "你好，{{name}}"
+      "home_greeting": "你好，{{name}}",
+      "invite": {
+        "title": "邀请你的学生",
+        "text": "学生扫描二维码或打开链接，新用户注册后即进入班级。通过这种方式加入的新玩家都算作由你带来。",
+        "copy_link": "复制链接",
+        "copied": "链接已复制",
+        "show_slide": "显示加入页面",
+        "slide_first": "向这个班级演示时，先显示加入页面",
+        "slide_eyebrow": "在 Cuebids 上加入班级",
+        "slide_scan": "用手机相机扫描二维码",
+        "slide_or": "或打开",
+        "slide_code": "并输入代码",
+        "slide_done": "完成"
+      },
+      "brought": {
+        "title": "你带来的玩家",
+        "text": "通过这个班级加入 Cuebids 的新玩家。玩家在几天里打过牌、并和你以外的人打过之后，就计入你保留教师工具的条件。",
+        "none": "还没有。把班级代码分享给你的学生吧。",
+        "joined": "{{date}} 加入",
+        "left_class": "已离开班级",
+        "counts": "已计入",
+        "days_one": "{{count}}/{{needed}} 天",
+        "days_other": "{{count}}/{{needed}} 天",
+        "needs_partner": "还没有和你以外的人打过"
+      }
     },
     "can_title": "你可以做什么",
     "can_lessons": "制作课程：包含牌手和叫牌过程的页面、闪卡和测验，以及牌桌练习，全部集中在一处。",

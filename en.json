@@ -2004,6 +2004,23 @@
       "quiz": "Quiz",
       "error": "Something went wrong. Try again.",
       "practice": "Practice"
+    },
+    "join_class": {
+      "eyebrow": "Join a class",
+      "teacher": "With {{name}}",
+      "join_text": "Join to see the lessons and events your teacher gives the class.",
+      "join": "Join with code {{code}}",
+      "joined": "You're in the class.",
+      "already": "You're already in this class.",
+      "open_class": "Open the class",
+      "get_app": "Bidding on your phone?",
+      "get_app_link": "Get the Cuebids app",
+      "enter_title": "Join a class with a code",
+      "enter_text": "Your teacher has a six-character code for the class. Type it here.",
+      "code_label": "Class code",
+      "unknown": "That code did not open a class. Check it with your teacher.",
+      "error": "Joining did not work. Try again in a moment.",
+      "continue": "Continue"
     }
   },
   "share": {
@@ -4107,7 +4124,8 @@
       "admins_only": "Admins only",
       "cards_done": "You went through every card and knew {{knew}} of {{total}}.",
       "cards_none": "There are no cards in this deck yet.",
-      "cards_again": "Go through them again"
+      "cards_again": "Go through them again",
+      "start_lesson": "Start the lesson"
     }
   },
   "teach": {
@@ -4247,7 +4265,31 @@
       "status_heart": "Teacher tools with Heart",
       "status_until": "Teacher tools until {{date}}",
       "status_admin": "Admin",
-      "home_greeting": "Hi {{name}}"
+      "home_greeting": "Hi {{name}}",
+      "invite": {
+        "title": "Invite your students",
+        "text": "Students scan the code or open the link, sign up if they are new, and land in the class. New players who join this way count as brought by you.",
+        "copy_link": "Copy the link",
+        "copied": "Link copied",
+        "show_slide": "Show the join slide",
+        "slide_first": "Open my lessons with the join slide when I present to this class",
+        "slide_eyebrow": "Join the class on Cuebids",
+        "slide_scan": "Scan the code with your phone camera",
+        "slide_or": "Or open",
+        "slide_code": "and type the code",
+        "slide_done": "Done"
+      },
+      "brought": {
+        "title": "Players you brought",
+        "text": "New players who joined Cuebids through this class. A player counts towards keeping your teacher tools once they have played on a few days and with someone other than you.",
+        "none": "Nobody yet. Share the class code with your students.",
+        "joined": "Joined {{date}}",
+        "left_class": "left the class",
+        "counts": "Counts",
+        "days_one": "{{count}} of {{needed}} days",
+        "days_other": "{{count}} of {{needed}} days",
+        "needs_partner": "Not yet with someone other than you"
+      }
     },
     "can_title": "What you can do",
     "can_lessons": "Make lessons: pages with hands and auctions, flashcards and quizzes, and practice at the table, all in one place.",

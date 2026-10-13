@@ -2004,6 +2004,23 @@
       "quiz": "Quiz",
       "error": "Något gick fel. Försök igen.",
       "practice": "Övning"
+    },
+    "join_class": {
+      "eyebrow": "Gå med i en klass",
+      "teacher": "Med {{name}}",
+      "join_text": "Gå med för att se lektionerna och eventen som läraren ger klassen.",
+      "join": "Gå med med koden {{code}}",
+      "joined": "Du är med i klassen.",
+      "already": "Du är redan med i klassen.",
+      "open_class": "Öppna klassen",
+      "get_app": "Bjuder du i mobilen?",
+      "get_app_link": "Hämta Cuebids-appen",
+      "enter_title": "Gå med i en klass med en kod",
+      "enter_text": "Din lärare har en kod på sex tecken för klassen. Skriv in den här.",
+      "code_label": "Klasskod",
+      "unknown": "Koden öppnade ingen klass. Kontrollera den med din lärare.",
+      "error": "Det gick inte att gå med. Försök igen om en stund.",
+      "continue": "Fortsätt"
     }
   },
   "share": {
@@ -4107,7 +4124,8 @@
       "admins_only": "Bara admins",
       "cards_done": "Du har gått igenom alla kort och kunde {{knew}} av {{total}}.",
       "cards_none": "Kortleken har inga kort än.",
-      "cards_again": "Gå igenom dem igen"
+      "cards_again": "Gå igenom dem igen",
+      "start_lesson": "Starta lektionen"
     }
   },
   "teach": {
@@ -4247,7 +4265,31 @@
       "status_heart": "Lärarverktyg med Hjärter",
       "status_until": "Lärarverktyg till {{date}}",
       "status_admin": "Admin",
-      "home_greeting": "Hej {{name}}"
+      "home_greeting": "Hej {{name}}",
+      "invite": {
+        "title": "Bjud in dina elever",
+        "text": "Eleverna skannar koden eller öppnar länken, skapar ett konto om de är nya och hamnar i klassen. Nya spelare som går med så räknas som dina.",
+        "copy_link": "Kopiera länken",
+        "copied": "Länken är kopierad",
+        "show_slide": "Visa anslutningssidan",
+        "slide_first": "Börja mina lektioner med anslutningssidan när jag presenterar för klassen",
+        "slide_eyebrow": "Gå med i klassen på Cuebids",
+        "slide_scan": "Skanna koden med mobilkameran",
+        "slide_or": "Eller öppna",
+        "slide_code": "och skriv in koden",
+        "slide_done": "Klar"
+      },
+      "brought": {
+        "title": "Spelare du har tagit med",
+        "text": "Nya spelare som har börjat på Cuebids genom den här klassen. En spelare räknas för att du ska behålla lärarverktygen när hen har spelat några dagar och med någon annan än dig.",
+        "none": "Ingen än. Dela klasskoden med dina elever.",
+        "joined": "Gick med {{date}}",
+        "left_class": "har lämnat klassen",
+        "counts": "Räknas",
+        "days_one": "{{count}} av {{needed}} dagar",
+        "days_other": "{{count}} av {{needed}} dagar",
+        "needs_partner": "Inte än med någon annan än dig"
+      }
     },
     "can_title": "Det här kan du göra",
     "can_lessons": "Göra lektioner: sidor med händer och budgivningar, frågekort och quiz, och övning vid bordet, samlat på ett ställe.",
