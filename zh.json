@@ -421,7 +421,9 @@
     "tab_gift": "礼物",
     "source_gift": "礼物",
     "plan_renews_on": "{{date}} 自动续订",
-    "plan_ends_on": "有效期至 {{date}}"
+    "plan_ends_on": "有效期至 {{date}}",
+    "payment_failed_title": "付款未成功",
+    "payment_failed_text": "我们无法续订 {{plan}}。请更新付款方式以保留它。"
   },
   "go_to_store": {
     "no_iap_error": "商店目前无法在移动应用程序中使用。请访问我们的网站订阅 Cuebids。"

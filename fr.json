@@ -421,7 +421,9 @@
     "tab_gift": "Cadeau",
     "source_gift": "Cadeau",
     "plan_renews_on": "Renouvellement le {{date}}",
-    "plan_ends_on": "Valable jusqu’au {{date}}"
+    "plan_ends_on": "Valable jusqu’au {{date}}",
+    "payment_failed_title": "Le paiement n’est pas passé",
+    "payment_failed_text": "Nous n’avons pas pu renouveler {{plan}}. Mettez à jour votre moyen de paiement pour le conserver."
   },
   "go_to_store": {
     "no_iap_error": "La boutique est actuellement indisponible dans l’application mobile. Merci d’utiliser notre site web pour vous abonner à Cuebids."

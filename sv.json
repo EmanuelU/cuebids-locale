@@ -421,7 +421,9 @@
     "tab_gift": "Gåva",
     "source_gift": "Gåva",
     "plan_renews_on": "Förnyas {{date}}",
-    "plan_ends_on": "Gäller till {{date}}"
+    "plan_ends_on": "Gäller till {{date}}",
+    "payment_failed_title": "Betalningen gick inte igenom",
+    "payment_failed_text": "Vi kunde inte förnya {{plan}}. Uppdatera ditt betalsätt för att behålla den."
   },
   "go_to_store": {
     "no_iap_error": "Butiken finns för närvarande inte i mobilappen. Vänligen besök vår hemsida för att prenumerera på Cuebids."
