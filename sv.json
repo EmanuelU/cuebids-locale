@@ -4257,13 +4257,15 @@
     "can_share": "Skicka en lektion till Cuebids. Publicerar vi den för alla spelare står ditt namn på den, och vi tackar med en gåva.",
     "free_title": "Så förblir det gratis",
     "free_start": "Lärarverktygen slås på direkt när du ber om dem, gratis i sex månader.",
-    "free_renew": "När nya spelare börjar på Cuebids genom din klass förnyar vi dem i sex månader till. Det räcker med tre: spelare som är nya på Cuebids, spelar minst tre dagar och med någon annan än dig.",
+    "free_renew": "När nya spelare börjar på Cuebids genom din klass förnyar vi dem i sex månader till. Vi räknar spelare som är nya på Cuebids, spelar minst tre dagar och med någon annan än dig.",
     "free_ending": "Blir de färre skriver vi till dig innan verktygen tar slut.",
     "students_title": "Vad dina elever betalar",
     "form_title": "Be om lärarverktyg",
     "submit_hint": "Två snabba frågor, så att vi vet vilka vi bygger för. Verktygen slås på så fort du har skickat svaren.",
     "has_text_teach": "Gör lektioner, bygg samlingar och sköt din klass från Undervisa.",
-    "open_teach": "Öppna Undervisa"
+    "open_teach": "Öppna Undervisa",
+    "about_label": "Några ord om din undervisning (valfritt)",
+    "about_placeholder": "Vilka du undervisar, på vilken nivå och hur ofta."
   },
   "pbn": {
     "skipped": "Några brickor kunde inte läsas och togs inte med: {{boards}}."

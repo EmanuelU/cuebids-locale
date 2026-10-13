@@ -4263,13 +4263,15 @@
     "can_share": "Wysłać lekcję do Cuebids. Jeśli opublikujemy ją dla wszystkich graczy, będzie podpisana Twoim nazwiskiem, a my podziękujemy prezentem.",
     "free_title": "Jak to pozostaje bezpłatne",
     "free_start": "Narzędzia nauczyciela włączają się od razu, gdy o nie poprosisz, bezpłatnie na sześć miesięcy.",
-    "free_renew": "Gdy dzięki Twojej klasie do Cuebids dołączają nowi gracze, przedłużamy je o kolejne sześć miesięcy. Wystarczy trzech: nowych w Cuebids, grających co najmniej trzy dni i z kimś innym niż Ty.",
+    "free_renew": "Gdy dzięki Twojej klasie do Cuebids dołączają nowi gracze, przedłużamy je o kolejne sześć miesięcy. Liczymy graczy nowych w Cuebids, którzy grają co najmniej trzy dni i z kimś innym niż Ty.",
     "free_ending": "Jeśli dołączy mniej osób, napiszemy do Ciebie, zanim narzędzia wygasną.",
     "students_title": "Ile płacą Twoi uczniowie",
     "form_title": "Poproś o narzędzia nauczyciela",
     "submit_hint": "Dwa krótkie pytania, żebyśmy wiedzieli, dla kogo budujemy. Narzędzia włączą się, gdy tylko je wyślesz.",
     "has_text_teach": "Twórz lekcje, buduj zestawy i prowadź klasę w module Nauczanie.",
-    "open_teach": "Otwórz Nauczanie"
+    "open_teach": "Otwórz Nauczanie",
+    "about_label": "Kilka słów o Twoim nauczaniu (opcjonalnie)",
+    "about_placeholder": "Kogo uczysz, na jakim poziomie i jak często."
   },
   "pbn": {
     "skipped": "Niektórych rozdań nie udało się odczytać i zostały pominięte: {{boards}}."

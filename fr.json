@@ -4257,13 +4257,15 @@
     "can_share": "Envoyer une leçon à Cuebids. Si nous la publions pour tous les joueurs, elle porte votre nom, et nous vous remercions avec un cadeau.",
     "free_title": "Comment cela reste gratuit",
     "free_start": "Vos outils enseignant sont activés dès que vous les demandez, gratuitement pendant six mois.",
-    "free_renew": "Quand de nouveaux joueurs arrivent sur Cuebids grâce à votre classe, nous les renouvelons pour six mois. Trois suffisent : des joueurs nouveaux sur Cuebids, qui jouent au moins trois jours et avec quelqu’un d’autre que vous.",
+    "free_renew": "Quand de nouveaux joueurs arrivent sur Cuebids grâce à votre classe, nous les renouvelons pour six mois. Nous comptons les joueurs nouveaux sur Cuebids qui jouent au moins trois jours et avec quelqu’un d’autre que vous.",
     "free_ending": "S’il y en a moins, nous vous écrivons avant la fin de vos outils.",
     "students_title": "Ce que paient vos élèves",
     "form_title": "Demander les outils enseignant",
     "submit_hint": "Deux questions rapides, pour savoir pour qui nous construisons. Vos outils sont activés dès l’envoi.",
     "has_text_teach": "Créez des leçons, constituez des séries et animez votre classe depuis Enseigner.",
-    "open_teach": "Ouvrir Enseigner"
+    "open_teach": "Ouvrir Enseigner",
+    "about_label": "Quelques mots sur votre enseignement (facultatif)",
+    "about_placeholder": "Qui vous formez, à quel niveau et à quelle fréquence."
   },
   "pbn": {
     "skipped": "Certaines donnes n’ont pas pu être lues et ont été laissées de côté : {{boards}}."
