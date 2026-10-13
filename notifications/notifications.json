@@ -1135,5 +1135,35 @@
       "title": "{{partner}} har kommenterat på ett bud du följer",
       "text": "{{message}}"
     }
+  },
+  "subscription_past_due_reminder": {
+    "en": {
+      "title": "Your card still hasn't gone through",
+      "text": "Update your payment method to keep your subscription."
+    },
+    "sv": {
+      "title": "Ditt kort har fortfarande inte gått igenom",
+      "text": "Uppdatera ditt betalsätt för att behålla din prenumeration."
+    },
+    "pl": {
+      "title": "Płatność kartą nadal się nie powiodła",
+      "text": "Zaktualizuj metodę płatności, aby zachować subskrypcję."
+    },
+    "fr": {
+      "title": "Votre carte n’est toujours pas passée",
+      "text": "Mettez à jour votre moyen de paiement pour conserver votre abonnement."
+    },
+    "es": {
+      "title": "Tu tarjeta sigue sin pasar",
+      "text": "Actualiza tu método de pago para mantener tu suscripción."
+    },
+    "zh": {
+      "title": "你的银行卡仍未付款成功",
+      "text": "请更新付款方式以保留你的订阅。"
+    },
+    "zht": {
+      "title": "你的信用卡仍未付款成功",
+      "text": "請更新付款方式以保留你的訂閱。"
+    }
   }
 }

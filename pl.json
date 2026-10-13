@@ -421,7 +421,9 @@
     "tab_gift": "Prezent",
     "source_gift": "Prezent",
     "plan_renews_on": "Odnawia się {{date}}",
-    "plan_ends_on": "Ważny do {{date}}"
+    "plan_ends_on": "Ważny do {{date}}",
+    "payment_failed_title": "Płatność nie powiodła się",
+    "payment_failed_text": "Nie udało się odnowić planu {{plan}}. Zaktualizuj metodę płatności, aby go zachować."
   },
   "go_to_store": {
     "no_iap_error": "Sklep jest obecnie niedostępny w aplikacji mobilnej. Proszę odwiedzić naszą stronę internetową, aby uzyskać subskrypcję Cuebids."
