@@ -423,7 +423,13 @@
     "plan_renews_on": "Renews {{date}}",
     "plan_ends_on": "Ends {{date}}",
     "payment_failed_title": "Your payment didn't go through",
-    "payment_failed_text": "We couldn't renew {{plan}}. Update your payment method to keep it."
+    "payment_failed_text": "We couldn't renew {{plan}}. Update your payment method to keep it.",
+    "redundant_plan_title": "You're paying for two plans",
+    "redundant_plan_iap": "{{covered}} already includes everything in {{plan}}, which you also pay for in the App Store or Google Play. You can cancel {{plan}} there.",
+    "redundant_plan_web": "{{covered}} already includes everything in {{plan}}, which you also pay for on the web. You can cancel {{plan}} from here.",
+    "redundant_plan_same_iap": "You pay for {{plan}} twice, and one of them is in the App Store or Google Play. You can cancel that one there.",
+    "redundant_plan_same_web": "You pay for {{plan}} twice, and one of them is on the web. You can cancel that one from here.",
+    "redundant_plan_past_due_iap": "You also pay for {{plan}} in the App Store or Google Play. If you fix the {{covered}} payment, you can cancel {{plan}} there. If you'd rather keep {{plan}}, do nothing: {{covered}} ends when the payment retries stop."
   },
   "go_to_store": {
     "no_iap_error": "Store is currently not available in the mobile app. Please visit our website to subscribe to Cuebids."

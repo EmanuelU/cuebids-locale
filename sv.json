@@ -423,7 +423,13 @@
     "plan_renews_on": "Förnyas {{date}}",
     "plan_ends_on": "Gäller till {{date}}",
     "payment_failed_title": "Betalningen gick inte igenom",
-    "payment_failed_text": "Vi kunde inte förnya {{plan}}. Uppdatera ditt betalsätt för att behålla den."
+    "payment_failed_text": "Vi kunde inte förnya {{plan}}. Uppdatera ditt betalsätt för att behålla den.",
+    "redundant_plan_title": "Du betalar för två prenumerationer",
+    "redundant_plan_iap": "{{covered}} innehåller redan allt som ingår i {{plan}}, som du också betalar för i App Store eller Google Play. Du kan säga upp {{plan}} där.",
+    "redundant_plan_web": "{{covered}} innehåller redan allt som ingår i {{plan}}, som du också betalar för på webben. Du kan säga upp {{plan}} härifrån.",
+    "redundant_plan_same_iap": "Du betalar för {{plan}} två gånger, och den ena är i App Store eller Google Play. Du kan säga upp den där.",
+    "redundant_plan_same_web": "Du betalar för {{plan}} två gånger, och den ena är på webben. Du kan säga upp den härifrån.",
+    "redundant_plan_past_due_iap": "Du betalar också för {{plan}} i App Store eller Google Play. Om du löser betalningen för {{covered}} kan du säga upp {{plan}} där. Vill du hellre behålla {{plan}} behöver du inte göra något: {{covered}} upphör när betalningsförsöken tar slut."
   },
   "go_to_store": {
     "no_iap_error": "Butiken finns för närvarande inte i mobilappen. Vänligen besök vår hemsida för att prenumerera på Cuebids."

@@ -423,7 +423,13 @@
     "plan_renews_on": "Odnawia się {{date}}",
     "plan_ends_on": "Ważny do {{date}}",
     "payment_failed_title": "Płatność nie powiodła się",
-    "payment_failed_text": "Nie udało się odnowić planu {{plan}}. Zaktualizuj metodę płatności, aby go zachować."
+    "payment_failed_text": "Nie udało się odnowić planu {{plan}}. Zaktualizuj metodę płatności, aby go zachować.",
+    "redundant_plan_title": "Płacisz za dwa plany",
+    "redundant_plan_iap": "{{covered}} zawiera już wszystko, co oferuje {{plan}}, za który płacisz też w App Store lub Google Play. Możesz tam anulować {{plan}}.",
+    "redundant_plan_web": "{{covered}} zawiera już wszystko, co oferuje {{plan}}, za który płacisz też w przeglądarce. Możesz anulować {{plan}} stąd.",
+    "redundant_plan_same_iap": "Płacisz za {{plan}} dwa razy, a jedna z tych subskrypcji jest w App Store lub Google Play. Możesz ją tam anulować.",
+    "redundant_plan_same_web": "Płacisz za {{plan}} dwa razy, a jedna z tych subskrypcji jest w przeglądarce. Możesz ją anulować stąd.",
+    "redundant_plan_past_due_iap": "Płacisz też za {{plan}} w App Store lub Google Play. Jeśli naprawisz płatność za {{covered}}, możesz tam anulować {{plan}}. Jeśli wolisz zostać przy {{plan}}, nic nie rób: {{covered}} wygaśnie, gdy skończą się ponowne próby płatności."
   },
   "go_to_store": {
     "no_iap_error": "Sklep jest obecnie niedostępny w aplikacji mobilnej. Proszę odwiedzić naszą stronę internetową, aby uzyskać subskrypcję Cuebids."

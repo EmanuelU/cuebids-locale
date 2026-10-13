@@ -423,7 +423,13 @@
     "plan_renews_on": "Renouvellement le {{date}}",
     "plan_ends_on": "Valable jusqu’au {{date}}",
     "payment_failed_title": "Le paiement n’est pas passé",
-    "payment_failed_text": "Nous n’avons pas pu renouveler {{plan}}. Mettez à jour votre moyen de paiement pour le conserver."
+    "payment_failed_text": "Nous n’avons pas pu renouveler {{plan}}. Mettez à jour votre moyen de paiement pour le conserver.",
+    "redundant_plan_title": "Vous payez deux abonnements",
+    "redundant_plan_iap": "{{covered}} comprend déjà tout ce qu’offre {{plan}}, que vous payez aussi dans l’App Store ou Google Play. Vous pouvez y résilier {{plan}}.",
+    "redundant_plan_web": "{{covered}} comprend déjà tout ce qu’offre {{plan}}, que vous payez aussi sur le web. Vous pouvez résilier {{plan}} d’ici.",
+    "redundant_plan_same_iap": "Vous payez {{plan}} deux fois, dont une dans l’App Store ou Google Play. Vous pouvez y résilier celui-là.",
+    "redundant_plan_same_web": "Vous payez {{plan}} deux fois, dont une sur le web. Vous pouvez résilier celui-là d’ici.",
+    "redundant_plan_past_due_iap": "Vous payez aussi {{plan}} dans l’App Store ou Google Play. Si vous régularisez le paiement de {{covered}}, vous pouvez y résilier {{plan}}. Si vous préférez garder {{plan}}, ne faites rien : {{covered}} prendra fin quand les nouvelles tentatives de paiement s’arrêteront."
   },
   "go_to_store": {
     "no_iap_error": "La boutique est actuellement indisponible dans l’application mobile. Merci d’utiliser notre site web pour vous abonner à Cuebids."

@@ -423,7 +423,13 @@
     "plan_renews_on": "{{date}} 自動續訂",
     "plan_ends_on": "有效期至 {{date}}",
     "payment_failed_title": "付款未成功",
-    "payment_failed_text": "我們無法續訂 {{plan}}。請更新付款方式以保留它。"
+    "payment_failed_text": "我們無法續訂 {{plan}}。請更新付款方式以保留它。",
+    "redundant_plan_title": "你正在為兩個方案付費",
+    "redundant_plan_iap": "{{covered}} 已包含 {{plan}} 的全部內容，而你還在 App Store 或 Google Play 為 {{plan}} 付費。你可以在那裡取消 {{plan}}。",
+    "redundant_plan_web": "{{covered}} 已包含 {{plan}} 的全部內容，而你還在網頁上為 {{plan}} 付費。你可以從這裡取消 {{plan}}。",
+    "redundant_plan_same_iap": "你為 {{plan}} 付了兩次費，其中一個在 App Store 或 Google Play。你可以在那裡取消它。",
+    "redundant_plan_same_web": "你為 {{plan}} 付了兩次費，其中一個在網頁上。你可以從這裡取消它。",
+    "redundant_plan_past_due_iap": "你還在 App Store 或 Google Play 為 {{plan}} 付費。如果你解決了 {{covered}} 的付款問題，可以在那裡取消 {{plan}}。如果你想保留 {{plan}}，無需操作：付款重試結束後 {{covered}} 將終止。"
   },
   "go_to_store": {
     "no_iap_error": "商店目前無法在移動應用程序中使用。請訪問我們的網站訂閱 Cuebids。"
