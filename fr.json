@@ -2004,6 +2004,23 @@
       "quiz": "Quiz",
       "error": "Un problème est survenu. Réessayez.",
       "practice": "Entraînement"
+    },
+    "join_class": {
+      "eyebrow": "Rejoindre une classe",
+      "teacher": "Avec {{name}}",
+      "join_text": "Rejoignez-la pour voir les leçons et les événements que le professeur donne à la classe.",
+      "join": "Rejoindre avec le code {{code}}",
+      "joined": "Vous faites partie de la classe.",
+      "already": "Vous faites déjà partie de cette classe.",
+      "open_class": "Ouvrir la classe",
+      "get_app": "Vous enchérissez sur votre téléphone ?",
+      "get_app_link": "Télécharger l'application Cuebids",
+      "enter_title": "Rejoindre une classe avec un code",
+      "enter_text": "Votre professeur a un code de six caractères pour la classe. Saisissez-le ici.",
+      "code_label": "Code de la classe",
+      "unknown": "Ce code n'ouvre aucune classe. Vérifiez-le avec votre professeur.",
+      "error": "Impossible de rejoindre la classe. Réessayez dans un instant.",
+      "continue": "Continuer"
     }
   },
   "share": {
@@ -2129,7 +2146,22 @@
     "divergence_text": "{{count}} pros sur {{total}} ont fait une autre enchère",
     "divergence_info": "Voyez en un coup d’œil quels pros ont choisi une autre enchère à votre place.",
     "divergence_title": "Afficher le panel des pros",
-    "divergence_settings": "Vous pouvez désactiver cette option dans les Paramètres."
+    "divergence_settings": "Vous pouvez désactiver cette option dans les Paramètres.",
+    "teacher": {
+      "button": "Professeur",
+      "title": "La séquence du professeur",
+      "yours": "Votre séquence",
+      "teachers": "Séquence du professeur",
+      "compare": "Comparer avec les autres joueurs",
+      "ok": "OK",
+      "followed": "Vous avez enchéri comme le professeur.",
+      "diverged_you": "Ici, vous avez suivi votre propre chemin.",
+      "diverged_partner": "Ici, votre partenaire a quitté la séquence du professeur.",
+      "diverged_opponents": "Ici, les adversaires ont enchéri autrement que dans la séquence du professeur.",
+      "call_yours": "À la table",
+      "call_teachers": "Professeur",
+      "call_ended": "(fin)"
+    }
   },
   "contracts_modal": {
     "par_contract": "Contrat par",
@@ -4057,7 +4089,7 @@
       "next_card": "Carte suivante",
       "practice_text": "Enchérissez maintenant quelques donnes de ce type, avec un partenaire ou avec Lia.",
       "start_practice": "S’entraîner",
-      "practice_set_class": "Votre enseignant joue cette série avec la classe en tournoi de groupe.",
+      "practice_set_class": "Ici, les élèves s'entraînent sur les donnes du professeur. La série appartient au professeur : un aperçu ne peut pas la distribuer.",
       "format_bold": "Gras",
       "format_heading": "Titre",
       "format_subheading": "Sous-titre",
@@ -4092,7 +4124,14 @@
       "admins_only": "Admins seulement",
       "cards_done": "Vous avez vu toutes les cartes et en connaissiez {{knew}} sur {{total}}.",
       "cards_none": "Ce paquet n’a pas encore de cartes.",
-      "cards_again": "Les revoir"
+      "cards_again": "Les revoir",
+      "start_lesson": "Commencer la leçon",
+      "admin_bar": "Admin :",
+      "take_down_admins": "Réserver de nouveau aux admins",
+      "take_down_off": "La retirer",
+      "take_down_confirm": "Touchez encore pour confirmer",
+      "taken_down_admins": "Seuls les admins voient cette leçon maintenant.",
+      "taken_down_off": "La leçon n'est plus publique. Son auteur peut la remettre depuis Enseigner."
     }
   },
   "teach": {
@@ -4232,7 +4271,31 @@
       "status_heart": "Outils enseignant avec Cœur",
       "status_until": "Outils enseignant jusqu’au {{date}}",
       "status_admin": "Admin",
-      "home_greeting": "Bonjour {{name}}"
+      "home_greeting": "Bonjour {{name}}",
+      "invite": {
+        "title": "Invitez vos élèves",
+        "text": "Les élèves scannent le code ou ouvrent le lien, créent un compte s'ils sont nouveaux et arrivent dans la classe. Les nouveaux joueurs qui arrivent ainsi comptent comme amenés par vous.",
+        "copy_link": "Copier le lien",
+        "copied": "Lien copié",
+        "show_slide": "Afficher la page d'inscription",
+        "slide_first": "Commencer mes leçons par la page d'inscription quand je présente à cette classe",
+        "slide_eyebrow": "Rejoignez la classe sur Cuebids",
+        "slide_scan": "Scannez le code avec l'appareil photo du téléphone",
+        "slide_or": "Ou ouvrez",
+        "slide_code": "et saisissez le code",
+        "slide_done": "Terminé"
+      },
+      "brought": {
+        "title": "Les joueurs que vous avez amenés",
+        "text": "Les nouveaux joueurs arrivés sur Cuebids par cette classe. Un joueur compte pour garder vos outils d'enseignant dès qu'il a joué quelques jours et avec quelqu'un d'autre que vous.",
+        "none": "Personne pour l’instant. Partagez le code de la classe avec vos élèves.",
+        "joined": "Arrivée le {{date}}",
+        "left_class": "a quitté la classe",
+        "counts": "Compte",
+        "days_one": "{{count}} jour sur {{needed}}",
+        "days_other": "{{count}} jours sur {{needed}}",
+        "needs_partner": "Pas encore avec quelqu'un d'autre que vous"
+      }
     },
     "can_title": "Ce que vous pouvez faire",
     "can_lessons": "Créer des leçons : des pages avec des mains et des séquences d’enchères, des cartes mémo et des quiz, et de l’entraînement à la table, au même endroit.",
@@ -4242,13 +4305,15 @@
     "can_share": "Envoyer une leçon à Cuebids. Si nous la publions pour tous les joueurs, elle porte votre nom, et nous vous remercions avec un cadeau.",
     "free_title": "Comment cela reste gratuit",
     "free_start": "Vos outils enseignant sont activés dès que vous les demandez, gratuitement pendant six mois.",
-    "free_renew": "Quand de nouveaux joueurs arrivent sur Cuebids grâce à votre classe, nous les renouvelons pour six mois. Trois suffisent : des joueurs nouveaux sur Cuebids, qui jouent au moins trois jours et avec quelqu’un d’autre que vous.",
+    "free_renew": "Quand de nouveaux joueurs arrivent sur Cuebids grâce à votre classe, nous les renouvelons pour six mois. Nous comptons les joueurs nouveaux sur Cuebids qui jouent au moins trois jours et avec quelqu’un d’autre que vous.",
     "free_ending": "S’il y en a moins, nous vous écrivons avant la fin de vos outils.",
     "students_title": "Ce que paient vos élèves",
     "form_title": "Demander les outils enseignant",
     "submit_hint": "Deux questions rapides, pour savoir pour qui nous construisons. Vos outils sont activés dès l’envoi.",
     "has_text_teach": "Créez des leçons, constituez des séries et animez votre classe depuis Enseigner.",
-    "open_teach": "Ouvrir Enseigner"
+    "open_teach": "Ouvrir Enseigner",
+    "about_label": "Quelques mots sur votre enseignement (facultatif)",
+    "about_placeholder": "Qui vous formez, à quel niveau et à quelle fréquence."
   },
   "pbn": {
     "skipped": "Certaines donnes n’ont pas pu être lues et ont été laissées de côté : {{boards}}."

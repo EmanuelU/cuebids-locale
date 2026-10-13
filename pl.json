@@ -2006,6 +2006,23 @@
       "quiz": "Quiz",
       "error": "Coś poszło nie tak. Spróbuj ponownie.",
       "practice": "Ćwiczenia"
+    },
+    "join_class": {
+      "eyebrow": "Dołącz do klasy",
+      "teacher": "Prowadzi: {{name}}",
+      "join_text": "Dołącz, aby widzieć lekcje i wydarzenia, które nauczyciel daje klasie.",
+      "join": "Dołącz kodem {{code}}",
+      "joined": "Należysz do klasy.",
+      "already": "Już należysz do tej klasy.",
+      "open_class": "Otwórz klasę",
+      "get_app": "Licytujesz na telefonie?",
+      "get_app_link": "Pobierz aplikację Cuebids",
+      "enter_title": "Dołącz do klasy kodem",
+      "enter_text": "Nauczyciel ma sześcioznakowy kod klasy. Wpisz go tutaj.",
+      "code_label": "Kod klasy",
+      "unknown": "Ten kod nie otwiera żadnej klasy. Sprawdź go z nauczycielem.",
+      "error": "Nie udało się dołączyć. Spróbuj ponownie za chwilę.",
+      "continue": "Dalej"
     }
   },
   "share": {
@@ -2131,7 +2148,22 @@
     "divergence_text": "{{count}} z {{total}} zawodowców wybrało inną odzywkę",
     "divergence_info": "Zobacz szybko, którzy profesjonaliści licytowali inaczej w Twoim miejscu.",
     "divergence_title": "Panel Pro",
-    "divergence_settings": "Możesz wyłączyć to w Ustawieniach."
+    "divergence_settings": "Możesz wyłączyć to w Ustawieniach.",
+    "teacher": {
+      "button": "Nauczyciel",
+      "title": "Licytacja nauczyciela",
+      "yours": "Twoja licytacja",
+      "teachers": "Licytacja nauczyciela",
+      "compare": "Porównaj z innymi graczami",
+      "ok": "OK",
+      "followed": "Twoja licytacja jest taka sama jak licytacja nauczyciela.",
+      "diverged_you": "Tutaj Twoja licytacja odeszła od licytacji nauczyciela.",
+      "diverged_partner": "Tutaj partner odszedł od licytacji nauczyciela.",
+      "diverged_opponents": "Tutaj przeciwnicy licytowali inaczej niż w licytacji nauczyciela.",
+      "call_yours": "Przy stole",
+      "call_teachers": "Nauczyciel",
+      "call_ended": "(koniec)"
+    }
   },
   "contracts_modal": {
     "par_contract": "Kontrakt Par",
@@ -4063,7 +4095,7 @@
       "next_card": "Następna karta",
       "practice_text": "Teraz zalicytuj kilka podobnych rozdań, z partnerem albo z Lią.",
       "start_practice": "Ćwicz",
-      "practice_set_class": "Twój nauczyciel rozgrywa ten zestaw z klasą jako wydarzenie grupowe.",
+      "practice_set_class": "Tutaj uczniowie ćwiczą na rozdaniach nauczyciela. Zestaw należy do nauczyciela, więc w podglądzie nie można go rozdać.",
       "format_bold": "Pogrubienie",
       "format_heading": "Nagłówek",
       "format_subheading": "Podtytuł",
@@ -4098,7 +4130,14 @@
       "admins_only": "Tylko admini",
       "cards_done": "Wszystkie karty przerobione. Znane: {{knew}} z {{total}}.",
       "cards_none": "Ta talia nie ma jeszcze kart.",
-      "cards_again": "Przejdź je jeszcze raz"
+      "cards_again": "Przejdź je jeszcze raz",
+      "start_lesson": "Rozpocznij lekcję",
+      "admin_bar": "Admin:",
+      "take_down_admins": "Z powrotem tylko dla adminów",
+      "take_down_off": "Wycofaj lekcję",
+      "take_down_confirm": "Stuknij ponownie, aby potwierdzić",
+      "taken_down_admins": "Teraz tę lekcję widzą tylko admini.",
+      "taken_down_off": "Lekcja nie jest już publiczna. Właściciel może ją przywrócić w Nauczaniu."
     }
   },
   "teach": {
@@ -4238,7 +4277,33 @@
       "status_heart": "Narzędzia nauczyciela w ramach Kier",
       "status_until": "Narzędzia nauczyciela do {{date}}",
       "status_admin": "Admin",
-      "home_greeting": "Cześć, {{name}}"
+      "home_greeting": "Cześć, {{name}}",
+      "invite": {
+        "title": "Zaproś uczniów",
+        "text": "Uczniowie skanują kod lub otwierają link, zakładają konto, jeśli są nowi, i trafiają do klasy. Nowi gracze, którzy dołączą w ten sposób, liczą się jako Twoi.",
+        "copy_link": "Skopiuj link",
+        "copied": "Link skopiowany",
+        "show_slide": "Pokaż slajd z kodem",
+        "slide_first": "Zaczynaj moje lekcje od slajdu z kodem, gdy prezentuję tej klasie",
+        "slide_eyebrow": "Dołącz do klasy w Cuebids",
+        "slide_scan": "Zeskanuj kod aparatem telefonu",
+        "slide_or": "Albo otwórz",
+        "slide_code": "i wpisz kod",
+        "slide_done": "Gotowe"
+      },
+      "brought": {
+        "title": "Gracze przyprowadzeni przez Ciebie",
+        "text": "Nowi gracze, którzy dołączyli do Cuebids przez tę klasę. Gracz liczy się do utrzymania narzędzi nauczyciela, gdy zagra przez kilka dni i z kimś innym niż Ty.",
+        "none": "Jeszcze nikt. Udostępnij uczniom kod klasy.",
+        "joined": "Dołączenie: {{date}}",
+        "left_class": "poza klasą",
+        "counts": "Liczy się",
+        "days_one": "Dni: {{count}} z {{needed}}",
+        "days_few": "Dni: {{count}} z {{needed}}",
+        "days_many": "Dni: {{count}} z {{needed}}",
+        "days_other": "Dni: {{count}} z {{needed}}",
+        "needs_partner": "Jeszcze nie z kimś innym niż Ty"
+      }
     },
     "can_title": "Co możesz zrobić",
     "can_lessons": "Tworzyć lekcje: strony z rękami i licytacjami, fiszki i quizy oraz ćwiczenia przy stole, wszystko w jednym miejscu.",
@@ -4248,13 +4313,15 @@
     "can_share": "Wysłać lekcję do Cuebids. Jeśli opublikujemy ją dla wszystkich graczy, będzie podpisana Twoim nazwiskiem, a my podziękujemy prezentem.",
     "free_title": "Jak to pozostaje bezpłatne",
     "free_start": "Narzędzia nauczyciela włączają się od razu, gdy o nie poprosisz, bezpłatnie na sześć miesięcy.",
-    "free_renew": "Gdy dzięki Twojej klasie do Cuebids dołączają nowi gracze, przedłużamy je o kolejne sześć miesięcy. Wystarczy trzech: nowych w Cuebids, grających co najmniej trzy dni i z kimś innym niż Ty.",
+    "free_renew": "Gdy dzięki Twojej klasie do Cuebids dołączają nowi gracze, przedłużamy je o kolejne sześć miesięcy. Liczymy graczy nowych w Cuebids, którzy grają co najmniej trzy dni i z kimś innym niż Ty.",
     "free_ending": "Jeśli dołączy mniej osób, napiszemy do Ciebie, zanim narzędzia wygasną.",
     "students_title": "Ile płacą Twoi uczniowie",
     "form_title": "Poproś o narzędzia nauczyciela",
     "submit_hint": "Dwa krótkie pytania, żebyśmy wiedzieli, dla kogo budujemy. Narzędzia włączą się, gdy tylko je wyślesz.",
     "has_text_teach": "Twórz lekcje, buduj zestawy i prowadź klasę w module Nauczanie.",
-    "open_teach": "Otwórz Nauczanie"
+    "open_teach": "Otwórz Nauczanie",
+    "about_label": "Kilka słów o Twoim nauczaniu (opcjonalnie)",
+    "about_placeholder": "Kogo uczysz, na jakim poziomie i jak często."
   },
   "pbn": {
     "skipped": "Niektórych rozdań nie udało się odczytać i zostały pominięte: {{boards}}."

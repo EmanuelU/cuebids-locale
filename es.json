@@ -2004,6 +2004,23 @@
       "quiz": "Cuestionario",
       "error": "Algo salió mal. Inténtalo de nuevo.",
       "practice": "Práctica"
+    },
+    "join_class": {
+      "eyebrow": "Unirse a una clase",
+      "teacher": "Con {{name}}",
+      "join_text": "Únete para ver las lecciones y los eventos que el profesor da a la clase.",
+      "join": "Unirse con el código {{code}}",
+      "joined": "Ya estás en la clase.",
+      "already": "Ya estabas en esta clase.",
+      "open_class": "Abrir la clase",
+      "get_app": "¿Subastas en el móvil?",
+      "get_app_link": "Descarga la app de Cuebids",
+      "enter_title": "Unirse a una clase con un código",
+      "enter_text": "Tu profesor tiene un código de seis caracteres para la clase. Escríbelo aquí.",
+      "code_label": "Código de la clase",
+      "unknown": "Ese código no abre ninguna clase. Compruébalo con tu profesor.",
+      "error": "No se pudo unir. Inténtalo de nuevo en un momento.",
+      "continue": "Continuar"
     }
   },
   "share": {
@@ -2129,7 +2146,22 @@
     "divergence_text": "{{count}} de {{total}} pros pujaron otra cosa",
     "divergence_info": "Obtén rápidamente una visión general de qué pros pujaron algo distinto en tu situación.",
     "divergence_title": "Mostrar panel Pro",
-    "divergence_settings": "Puedes desactivar esto en Configuración."
+    "divergence_settings": "Puedes desactivar esto en Configuración.",
+    "teacher": {
+      "button": "Profesor",
+      "title": "La subasta del profesor",
+      "yours": "Tu subasta",
+      "teachers": "Subasta del profesor",
+      "compare": "Comparar con otros jugadores",
+      "ok": "OK",
+      "followed": "Has subastado como el profesor.",
+      "diverged_you": "Aquí seguiste tu propio camino.",
+      "diverged_partner": "Aquí tu compañero se apartó de la subasta del profesor.",
+      "diverged_opponents": "Aquí los contrarios subastaron distinto de la subasta del profesor.",
+      "call_yours": "En la mesa",
+      "call_teachers": "Profesor",
+      "call_ended": "(fin)"
+    }
   },
   "contracts_modal": {
     "par_contract": "Contrato par",
@@ -4057,7 +4089,7 @@
       "next_card": "Tarjeta siguiente",
       "practice_text": "Ahora subasta unas manos como estas, con un compañero o con Lia.",
       "start_practice": "Practicar",
-      "practice_set_class": "Tu profesor juega esta serie con la clase como evento de grupo.",
+      "practice_set_class": "Aquí los alumnos practican con las manos del profesor. El conjunto es del profesor, así que una vista previa no puede repartirlo.",
       "format_bold": "Negrita",
       "format_heading": "Título",
       "format_subheading": "Subtítulo",
@@ -4092,7 +4124,14 @@
       "admins_only": "Solo admins",
       "cards_done": "Has repasado todas las tarjetas y sabías {{knew}} de {{total}}.",
       "cards_none": "Este mazo aún no tiene tarjetas.",
-      "cards_again": "Repasarlas otra vez"
+      "cards_again": "Repasarlas otra vez",
+      "start_lesson": "Empezar la lección",
+      "admin_bar": "Admin:",
+      "take_down_admins": "Solo para admins de nuevo",
+      "take_down_off": "Retirarla",
+      "take_down_confirm": "Toca otra vez para confirmar",
+      "taken_down_admins": "Ahora solo los admins ven esta lección.",
+      "taken_down_off": "La lección ya no es pública. Su autor puede volver a publicarla desde Enseñar."
     }
   },
   "teach": {
@@ -4232,7 +4271,31 @@
       "status_heart": "Herramientas de profesor con Heart",
       "status_until": "Herramientas de profesor hasta el {{date}}",
       "status_admin": "Admin",
-      "home_greeting": "Hola, {{name}}"
+      "home_greeting": "Hola, {{name}}",
+      "invite": {
+        "title": "Invita a tus alumnos",
+        "text": "Los alumnos escanean el código o abren el enlace, se registran si son nuevos y entran en la clase. Los jugadores nuevos que llegan así cuentan como traídos por ti.",
+        "copy_link": "Copiar el enlace",
+        "copied": "Enlace copiado",
+        "show_slide": "Mostrar la diapositiva de acceso",
+        "slide_first": "Empezar mis lecciones con la diapositiva de acceso cuando presento a esta clase",
+        "slide_eyebrow": "Únete a la clase en Cuebids",
+        "slide_scan": "Escanea el código con la cámara del móvil",
+        "slide_or": "O abre",
+        "slide_code": "y escribe el código",
+        "slide_done": "Listo"
+      },
+      "brought": {
+        "title": "Jugadores que has traído",
+        "text": "Jugadores nuevos que llegaron a Cuebids a través de esta clase. Un jugador cuenta para mantener tus herramientas de profesor cuando ha jugado varios días y con alguien que no seas tú.",
+        "none": "Todavía nadie. Comparte el código de la clase con tus alumnos.",
+        "joined": "Llegó el {{date}}",
+        "left_class": "dejó la clase",
+        "counts": "Cuenta",
+        "days_one": "{{count}} de {{needed}} días",
+        "days_other": "{{count}} de {{needed}} días",
+        "needs_partner": "Aún no con alguien que no seas tú"
+      }
     },
     "can_title": "Qué puedes hacer",
     "can_lessons": "Crear lecciones: páginas con manos y subastas, tarjetas y cuestionarios, y práctica en la mesa, todo en un mismo lugar.",
@@ -4242,13 +4305,15 @@
     "can_share": "Enviar una lección a Cuebids. Si la publicamos para todos los jugadores, lleva tu nombre, y te lo agradecemos con un regalo.",
     "free_title": "Cómo sigue siendo gratis",
     "free_start": "Tus herramientas de profesor se activan en cuanto las pides, gratis durante seis meses.",
-    "free_renew": "Cuando llegan jugadores nuevos a Cuebids a través de tu clase, las renovamos seis meses más. Bastan tres: jugadores nuevos en Cuebids que juegan al menos tres días y con alguien que no seas tú.",
+    "free_renew": "Cuando llegan jugadores nuevos a Cuebids a través de tu clase, las renovamos seis meses más. Contamos a los jugadores nuevos en Cuebids que juegan al menos tres días y con alguien que no seas tú.",
     "free_ending": "Si llegan menos, te escribimos antes de que terminen tus herramientas.",
     "students_title": "Qué pagan tus alumnos",
     "form_title": "Pide las herramientas de profesor",
     "submit_hint": "Dos preguntas rápidas, para saber para quién construimos. Tus herramientas se activan en cuanto las envías.",
     "has_text_teach": "Crea lecciones, arma series y lleva tu clase desde Enseñar.",
-    "open_teach": "Abrir Enseñar"
+    "open_teach": "Abrir Enseñar",
+    "about_label": "Unas palabras sobre tus clases (opcional)",
+    "about_placeholder": "A quién enseñas, a qué nivel y con qué frecuencia."
   },
   "pbn": {
     "skipped": "Algunas manos no se pudieron leer y se dejaron fuera: {{boards}}."

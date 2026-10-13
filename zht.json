@@ -2005,6 +2005,23 @@
       "quiz": "測驗",
       "error": "出錯了，請重試。",
       "practice": "練習"
+    },
+    "join_class": {
+      "eyebrow": "加入班級",
+      "teacher": "老師：{{name}}",
+      "join_text": "加入後即可看到老師為班級安排的課程和活動。",
+      "join": "用代碼 {{code}} 加入",
+      "joined": "你已加入班級。",
+      "already": "你已經在這個班級裡了。",
+      "open_class": "打開班級",
+      "get_app": "在手機上叫牌？",
+      "get_app_link": "下載 Cuebids 應用程式",
+      "enter_title": "用代碼加入班級",
+      "enter_text": "你的老師有一個六位班級代碼。請在這裡輸入。",
+      "code_label": "班級代碼",
+      "unknown": "這個代碼沒有對應的班級。請向老師確認。",
+      "error": "加入失敗，請稍後再試。",
+      "continue": "繼續"
     }
   },
   "share": {
@@ -2130,7 +2147,22 @@
     "divergence_text": "{{count}} 位（共 {{total}} 位）專家叫牌其他內容",
     "divergence_info": "快速瞭解哪些 PRO 牌手在你的位置上叫牌不同。",
     "divergence_title": "顯示專業面板",
-    "divergence_settings": "您可以在“設置”中關閉此功能。"
+    "divergence_settings": "您可以在“設置”中關閉此功能。",
+    "teacher": {
+      "button": "老師",
+      "title": "老師的叫牌",
+      "yours": "你的叫牌",
+      "teachers": "老師的叫牌",
+      "compare": "與其他牌手比較",
+      "ok": "好",
+      "followed": "你的叫牌和老師的一樣。",
+      "diverged_you": "你在這裡走了自己的路。",
+      "diverged_partner": "你的同伴在這裡偏離了老師的叫牌。",
+      "diverged_opponents": "對手在這裡的叫牌與老師的叫牌不同。",
+      "call_yours": "牌桌上",
+      "call_teachers": "老師",
+      "call_ended": "（已結束）"
+    }
   },
   "contracts_modal": {
     "par_contract": "標準定約",
@@ -4058,7 +4090,7 @@
       "next_card": "下一張",
       "practice_text": "現在和搭檔或 Lia 一起叫幾副類似的牌。",
       "start_practice": "練習",
-      "practice_set_class": "你的老師會把這個牌組作為群組賽事和班級一起打。",
+      "practice_set_class": "學生在這裡練習老師自己的牌。牌組屬於老師，預覽時無法發牌。",
       "format_bold": "粗體",
       "format_heading": "標題",
       "format_subheading": "副標題",
@@ -4093,7 +4125,14 @@
       "admins_only": "僅管理員",
       "cards_done": "你已看完所有卡片，答對 {{knew}} / {{total}}。",
       "cards_none": "這個卡組還沒有卡片。",
-      "cards_again": "再看一遍"
+      "cards_again": "再看一遍",
+      "start_lesson": "開始課程",
+      "admin_bar": "管理員：",
+      "take_down_admins": "改回僅管理員可見",
+      "take_down_off": "下架",
+      "take_down_confirm": "再點一次確認",
+      "taken_down_admins": "現在只有管理員能看到這堂課。",
+      "taken_down_off": "這堂課已不再公開。作者可以在教學中重新發布。"
     }
   },
   "teach": {
@@ -4233,7 +4272,31 @@
       "status_heart": "紅桃會員含教師工具",
       "status_until": "教師工具有效期至 {{date}}",
       "status_admin": "管理員",
-      "home_greeting": "你好，{{name}}"
+      "home_greeting": "你好，{{name}}",
+      "invite": {
+        "title": "邀請你的學生",
+        "text": "學生掃描 QR 碼或打開連結，新用戶註冊後即進入班級。透過這種方式加入的新玩家都算作由你帶來。",
+        "copy_link": "複製連結",
+        "copied": "連結已複製",
+        "show_slide": "顯示加入頁面",
+        "slide_first": "向這個班級簡報時，先顯示加入頁面",
+        "slide_eyebrow": "在 Cuebids 上加入班級",
+        "slide_scan": "用手機相機掃描 QR 碼",
+        "slide_or": "或打開",
+        "slide_code": "並輸入代碼",
+        "slide_done": "完成"
+      },
+      "brought": {
+        "title": "你帶來的玩家",
+        "text": "透過這個班級加入 Cuebids 的新玩家。玩家在幾天裡打過牌、並和你以外的人打過之後，就計入你保留教師工具的條件。",
+        "none": "還沒有。把班級代碼分享給你的學生吧。",
+        "joined": "{{date}} 加入",
+        "left_class": "已離開班級",
+        "counts": "已計入",
+        "days_one": "{{count}}/{{needed}} 天",
+        "days_other": "{{count}}/{{needed}} 天",
+        "needs_partner": "還沒有和你以外的人打過"
+      }
     },
     "can_title": "你可以做什麼",
     "can_lessons": "製作課程：包含牌手和叫牌過程的頁面、閃卡和測驗，以及牌桌練習，全部集中在一處。",
@@ -4243,13 +4306,15 @@
     "can_share": "把課程投稿給 Cuebids。如果我們為所有玩家發布，課程會署上你的名字，我們還會送你一份禮物表示感謝。",
     "free_title": "如何保持免費",
     "free_start": "申請後教師工具立即開通，免費六個月。",
-    "free_renew": "當有新玩家透過你的班級加入 Cuebids，我們會再續期六個月。三位就夠了：Cuebids 的新玩家，至少在三天裡打過牌，並且和你以外的人打過。",
+    "free_renew": "當有新玩家透過你的班級加入 Cuebids，我們會再續期六個月。我們計算的是 Cuebids 的新玩家：至少在三天裡打過牌，並且和你以外的人打過。",
     "free_ending": "如果人數不足，我們會在工具到期前寫信給你。",
     "students_title": "學生需要付什麼",
     "form_title": "申請教師工具",
     "submit_hint": "兩個簡單問題，讓我們知道在為誰打造。送出後工具立即開通。",
     "has_text_teach": "在教學區製作課程、建立牌組、管理班級。",
-    "open_teach": "開啟教學區"
+    "open_teach": "開啟教學區",
+    "about_label": "簡單介紹一下你的教學（可選）",
+    "about_placeholder": "你教誰、什麼程度、多久一次。"
   },
   "pbn": {
     "skipped": "部分牌無法讀取，已略去：{{boards}}。"
