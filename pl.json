@@ -4305,7 +4305,8 @@
         "days_many": "Dni: {{count}} z {{needed}}",
         "days_other": "Dni: {{count}} z {{needed}}",
         "needs_partner": "Jeszcze nie z kimś innym niż Ty"
-      }
+      },
+      "edit_deal_played": "To rozdanie było już grane, więc zmiana zapisuje się jako nowe rozdanie. Wcześniejsze wyniki zostają przy starym."
     },
     "can_title": "Co możesz zrobić",
     "can_lessons": "Tworzyć lekcje: strony z rękami i licytacjami, fiszki i quizy oraz ćwiczenia przy stole, wszystko w jednym miejscu.",

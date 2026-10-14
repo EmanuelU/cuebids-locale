@@ -4297,7 +4297,8 @@
         "days_one": "{{count}} of {{needed}} days",
         "days_other": "{{count}} of {{needed}} days",
         "needs_partner": "Not yet with someone other than you"
-      }
+      },
+      "edit_deal_played": "This board had been played, so your edit is saved as a new deal. Earlier results stay with the old one."
     },
     "can_title": "What you can do",
     "can_lessons": "Make lessons: pages with hands and auctions, flashcards and quizzes, and practice at the table, all in one place.",
