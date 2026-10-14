@@ -4297,7 +4297,8 @@
         "days_one": "{{count}} de {{needed}} días",
         "days_other": "{{count}} de {{needed}} días",
         "needs_partner": "Aún no con alguien que no seas tú"
-      }
+      },
+      "edit_deal_played": "Esta mano ya se había jugado, así que tu cambio se guarda como un reparto nuevo. Los resultados anteriores se quedan con el antiguo."
     },
     "can_title": "Qué puedes hacer",
     "can_lessons": "Crear lecciones: páginas con manos y subastas, tarjetas y cuestionarios, y práctica en la mesa, todo en un mismo lugar.",

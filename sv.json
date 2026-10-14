@@ -4297,7 +4297,8 @@
         "days_one": "{{count}} av {{needed}} dagar",
         "days_other": "{{count}} av {{needed}} dagar",
         "needs_partner": "Inte än med någon annan än dig"
-      }
+      },
+      "edit_deal_played": "Brickan hade redan spelats, så din ändring sparas som en ny giv. Tidigare resultat stannar hos den gamla."
     },
     "can_title": "Det här kan du göra",
     "can_lessons": "Göra lektioner: sidor med händer och budgivningar, frågekort och quiz, och övning vid bordet, samlat på ett ställe.",

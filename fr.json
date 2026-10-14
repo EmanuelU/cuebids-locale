@@ -4297,7 +4297,8 @@
         "days_one": "{{count}} jour sur {{needed}}",
         "days_other": "{{count}} jours sur {{needed}}",
         "needs_partner": "Pas encore avec quelqu'un d'autre que vous"
-      }
+      },
+      "edit_deal_played": "Cette donne avait déjà été jouée : votre modification est enregistrée comme une nouvelle donne. Les résultats précédents restent avec l’ancienne."
     },
     "can_title": "Ce que vous pouvez faire",
     "can_lessons": "Créer des leçons : des pages avec des mains et des séquences d’enchères, des cartes mémo et des quiz, et de l’entraînement à la table, au même endroit.",

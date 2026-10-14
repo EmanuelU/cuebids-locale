@@ -4298,7 +4298,8 @@
         "days_one": "{{count}}/{{needed}} 天",
         "days_other": "{{count}}/{{needed}} 天",
         "needs_partner": "还没有和你以外的人打过"
-      }
+      },
+      "edit_deal_played": "这副牌已经有人打过，所以你的修改另存为一副新牌。之前的成绩仍属于旧牌。"
     },
     "can_title": "你可以做什么",
     "can_lessons": "制作课程：包含牌手和叫牌过程的页面、闪卡和测验，以及牌桌练习，全部集中在一处。",
