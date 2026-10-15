@@ -4349,5 +4349,11 @@
   },
   "pbn": {
     "skipped": "Certaines donnes n’ont pas pu être lues et ont été laissées de côté : {{boards}}."
+  },
+  "rate_limit": {
+    "pdf": "Vous pouvez exporter {{limit}} PDF par heure. Réessayez à {{time}}.",
+    "email": "Vous pouvez demander {{limit}} e-mails par heure. Réessayez à {{time}}.",
+    "generic": "Un peu trop vite. Réessayez à {{time}}.",
+    "later": "Un peu trop vite. Réessayez dans quelques minutes."
   }
 }

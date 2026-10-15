@@ -4349,5 +4349,11 @@
   },
   "pbn": {
     "skipped": "Några brickor kunde inte läsas och togs inte med: {{boards}}."
+  },
+  "rate_limit": {
+    "pdf": "Du kan exportera {{limit}} PDF:er i timmen. Försök igen kl. {{time}}.",
+    "email": "Du kan be om {{limit}} mejl i timmen. Försök igen kl. {{time}}.",
+    "generic": "Det går lite fort. Försök igen kl. {{time}}.",
+    "later": "Det går lite fort. Försök igen om några minuter."
   }
 }

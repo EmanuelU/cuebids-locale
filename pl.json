@@ -4355,5 +4355,11 @@
   },
   "pbn": {
     "skipped": "Niektórych rozdań nie udało się odczytać i zostały pominięte: {{boards}}."
+  },
+  "rate_limit": {
+    "pdf": "Możesz wyeksportować {{limit}} PDF na godzinę. Spróbuj ponownie o {{time}}.",
+    "email": "Możesz poprosić o {{limit}} e-maili na godzinę. Spróbuj ponownie o {{time}}.",
+    "generic": "Trochę za szybko. Spróbuj ponownie o {{time}}.",
+    "later": "Trochę za szybko. Spróbuj ponownie za kilka minut."
   }
 }

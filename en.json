@@ -4349,5 +4349,11 @@
   },
   "pbn": {
     "skipped": "Some boards could not be read and were left out: {{boards}}."
+  },
+  "rate_limit": {
+    "pdf": "You can export {{limit}} PDFs an hour. Try again at {{time}}.",
+    "email": "You can ask for {{limit}} emails an hour. Try again at {{time}}.",
+    "generic": "Going a bit fast. Try again at {{time}}.",
+    "later": "Going a bit fast. Try again in a few minutes."
   }
 }
