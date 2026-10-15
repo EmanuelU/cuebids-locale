@@ -151,7 +151,7 @@
       "contract": "定约",
       "stars": "星级",
       "fast_scoring": "快速计分",
-      "regular_scoring": "普通计分"
+      "regular_scoring": "Cuebids 计分"
     },
     "group_card": {
       "premium_group_badge": "VIP 群组"
@@ -1642,7 +1642,8 @@
     "desc_vsPreempt": "发牌人持弱牌，应作阻击叫。",
     "desc_vs2DMulti": "发牌人持六张或更长高花和弱牌，将开叫 2D multi。",
     "desc_weakTwoX": "发牌人持六张或更长高花和弱牌，将开叫弱二。南北两家可作示意加倍。",
-    "desc_checkback": "练习开叫人再叫 1NT 之后的续叫，包括 Checkback、New Minor Forcing、Two-Way New Minor 以及自然叫法。"
+    "desc_checkback": "练习开叫人再叫 1NT 之后的续叫，包括 Checkback、New Minor Forcing、Two-Way New Minor 以及自然叫法。",
+    "practice": "练习"
   },
   "groups": {
     "replace_deal_confirm": "确定要替换这副牌吗？替换后原来的副牌将永久删除。请注意，新副牌的编号可能与旧副牌不同。",
@@ -1723,20 +1724,36 @@
       "forbidden_characters_error": "禁止字符",
       "group_name_taken_error": "已存在同名群组",
       "group_created_success": "群组已创建",
-      "create_group_info": "创建群组后，你会拥有一个只有群组成员可以进入的私人空间，可以在里面聊天并创建私人练习。请注意，参加练习需要门票；红桃订阅者照常无需额外费用。",
-      "invite_members_bullet": "邀请成员",
-      "group_chat_bullet": "私人群聊",
-      "group_events_bullet": "私人群组练习",
       "group_name_label": "名称",
       "group_name_placeholder": "输入群组名称",
       "group_description_label": "描述",
       "group_description_placeholder": "输入群组描述",
-      "sub_level_error": "红桃订阅用户可以创建群组",
       "submit_button": "创建群组",
-      "purpose_title": "这个群组用来做什么？",
-      "purpose_class": "在教桥牌班？对于带学生来 Cuebids 的老师，教师工具免费。",
-      "purpose_class_has_tools": "你已拥有教师工具。在下方为你的班级创建群组。",
-      "purpose_team": "球队或练习小组？高级群组让你的群组有更多举办赛事的方式。"
+      "title": "创建群组",
+      "question": "用来做什么？",
+      "class_title": "我教的班级",
+      "class_point_lessons": "为学生准备的课程、测验和练习",
+      "class_point_code": "用于加入的班级代码和二维码",
+      "class_point_progress": "查看每位学生的进度",
+      "class_point_events": "用你挑选的牌组织班级活动",
+      "class_point_link": "学生通过链接加入",
+      "class_point_chat": "班级专属聊天",
+      "class_badge_free": "教师免费",
+      "class_badge_have": "你已有教师工具",
+      "group_title": "朋友、俱乐部或队伍",
+      "group_point_chat": "专属聊天",
+      "group_point_events": "群组专属活动",
+      "group_point_link": "通过链接邀请",
+      "group_badge_heart": "需要红桃会员",
+      "group_badge_have": "红桃会员已包含",
+      "class_needs_tools": "创建班级需要教师工具。带学生来 Cuebids 的教师可免费使用。",
+      "class_get_tools": "免费获取教师工具",
+      "group_needs_heart": "创建群组需要红桃会员。",
+      "group_get_heart": "了解红桃会员",
+      "class_name_placeholder": "例如：周二初学班",
+      "group_tickets_note": "群组活动照常消耗票。红桃会员参加无需额外费用。",
+      "submit_class": "创建班级",
+      "premium_link": "经营俱乐部？了解高级群组"
     },
     "create_group_session": {
       "scenarios_robot_error": "某些选定的场景在机器人设置之间存在冲突。",
@@ -3808,14 +3825,19 @@
       "recent_saved": "最近保存",
       "see_all": "查看全部",
       "board_count": "牌数：{{n}}",
-      "empty": "在牌局结果页保存一副牌，或把搜索结果加入牌组，它就会出现在这里。",
+      "empty": "在结果页保存一副牌，它就会出现在这里。",
       "import_title": "导入 PBN",
       "teach_title": "教学",
       "decks_title": "闪卡和测验",
       "teaching": "教学",
       "teach_card": "用 Cuebids 教学：课程、闪卡和班级赛事，教师免费使用。",
       "lessons_title": "课程",
-      "teach_open": "你的课程、闪卡、测验、牌局和班级。"
+      "teach_open": "你的课程、闪卡、测验、牌局和班级。",
+      "tools_title": "练习与探索",
+      "tool_search": "按牌或叫牌搜索你叫过的牌。",
+      "tool_deal_types": "每种牌型练什么。直接从列表开始练习。",
+      "tool_scenarios": "创建你自己的牌型并练习。",
+      "tool_import": "把 PBN 文件里的牌导入到牌组。"
     },
     "sets": {
       "new_placeholder": "为新牌组命名",
@@ -3968,7 +3990,7 @@
       "question": "问题",
       "question_hint_call": "留空则问“你叫什么？”",
       "show_hand": "显示手牌和叫牌过程",
-      "answer_sequence": "你的叫品，按顺序",
+      "answer_sequence": "搭档双方的叫牌，按顺序",
       "options": "答案",
       "options_hint": "勾选正确答案。",
       "add_option": "添加答案",
@@ -4002,7 +4024,14 @@
       "answer_change": "在下方选择另一个叫品即可更改。",
       "bidding_box_show": "使用叫牌盒",
       "bidding_box_hide": "隐藏叫牌盒",
-      "bidding_box_undo": "撤回上一个叫品"
+      "bidding_box_undo": "撤回上一个叫品",
+      "card_partner": "同伴",
+      "card_you": "你",
+      "partner_hand": "同伴的牌",
+      "sequence_answer_hint": "你和同伴的叫牌，例如 1NT 2C 2H 4H。对手始终不叫。",
+      "invalid_partner_hand": "缺少同伴的牌，或无法识别。",
+      "invalid_sequence": "在对手始终不叫的情况下，这些叫牌不构成合法的叫牌过程。",
+      "preview": "预览"
     },
     "quiz": {
       "score": "你的得分：{{score}} / {{total}}。",
@@ -4014,7 +4043,6 @@
       "next": "下一题",
       "finish": "查看得分",
       "check": "检查",
-      "sequence_hint": "你的叫品，用空格分隔。",
       "shape_total": "张数：{{n}} / 13",
       "self_grade": "你答对了吗？",
       "self_no": "没有",
@@ -4026,7 +4054,9 @@
       "false": "错",
       "your_call": "你的叫品",
       "choose_all": "选出所有正确答案。",
-      "selected_call": "你的叫品"
+      "selected_call": "你的叫品",
+      "sequence_your_call": "轮到你叫",
+      "sequence_partner_call": "轮到同伴叫"
     },
     "lessons": {
       "title": "课程",
@@ -4249,7 +4279,7 @@
       "search_intro": "你叫过的所有牌局，可按叫牌、牌手和结果搜索。打开一副查看完整牌局并加入牌组。",
       "new_deal": "新建牌局",
       "new_deal_intro": "自己写出四手牌，正好是课程需要的例子。",
-      "new_deal_hint": "选择一位玩家，点击牌发给他，或直接输入：黑桃、红心、方块、梅花，用点分隔；x 表示小牌，- 表示缺门。留一手空着，它会得到剩下的牌。",
+      "new_deal_hint": "选择一位玩家，点击牌发给他，或直接输入：黑桃、红心、方块、梅花，用点分隔；x 表示小牌，- 表示缺门。留一手空着，它会得到剩下的牌。 东西可以留空：会尽量平均地发牌。",
       "save_deal": "加入牌组",
       "save_deal_another": "加入并再建一副",
       "deal_error": "无法加入这副牌，请重试。",
@@ -4290,16 +4320,16 @@
       },
       "brought": {
         "title": "你带来的玩家",
-        "text": "通过这个班级加入 Cuebids 的新玩家。玩家在几天里打过牌、并和你以外的人打过之后，就计入你保留教师工具的条件。",
+        "text": "通过这个班级加入 Cuebids 的新玩家。标有“已计入”的玩家计入你保留教师工具的条件。",
         "none": "还没有。把班级代码分享给你的学生吧。",
         "joined": "{{date}} 加入",
         "left_class": "已离开班级",
-        "counts": "已计入",
-        "days_one": "{{count}}/{{needed}} 天",
-        "days_other": "{{count}}/{{needed}} 天",
-        "needs_partner": "还没有和你以外的人打过"
+        "counts": "已计入"
       },
-      "edit_deal_played": "这副牌已经有人打过，所以你的修改另存为一副新牌。之前的成绩仍属于旧牌。"
+      "edit_deal_played": "这副牌已经有人打过，所以你的修改另存为一副新牌。之前的成绩仍属于旧牌。",
+      "cuebids_scoring": "使用 Cuebids 计分",
+      "cuebids_scoring_hint": "快速计分按这副牌的实际分布计算。Cuebids 计分保留南北、重新洗东西，与 Cuebids 自己的牌一样计分。耗时更长，适合不想让具体分布决定结果的时候。",
+      "ew_evenly": "保存时，东西两家会尽量平均地发牌。"
     },
     "can_title": "你可以做什么",
     "can_lessons": "制作课程：包含牌手和叫牌过程的页面、闪卡和测验，以及牌桌练习，全部集中在一处。",
@@ -4309,8 +4339,7 @@
     "can_share": "把课程投稿给 Cuebids。如果我们为所有玩家发布，课程会署上你的名字，我们还会送你一份礼物以表感谢。",
     "free_title": "如何保持免费",
     "free_start": "申请后教师工具立即开通，免费六个月。",
-    "free_renew": "当有新玩家通过你的班级加入 Cuebids，我们会再续期六个月。我们计算的是 Cuebids 的新玩家：至少在三天里打过牌，并且和你以外的人打过。",
-    "free_ending": "如果人数不足，我们会在工具到期前写信给你。",
+    "free_renew": "只要你持续带学生来 Cuebids，教师工具就一直免费。我们每六个月查看一次，并为你自动续期。",
     "students_title": "学生需要付什么",
     "form_title": "申请教师工具",
     "submit_hint": "两个简单问题，让我们知道在为谁打造。提交后工具立即开通。",

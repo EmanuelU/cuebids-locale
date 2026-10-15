@@ -151,7 +151,7 @@
       "contract": "Kontrakt",
       "stars": "Stjärnor",
       "fast_scoring": "Snabb scoring",
-      "regular_scoring": "Normal scoring"
+      "regular_scoring": "Cuebids-poängsättning"
     },
     "group_card": {
       "premium_group_badge": "PREMIUMGRUPP"
@@ -1641,7 +1641,8 @@
     "desc_oppsMichaels": "Given har en femkorts högfärg eller längre och öppningsstyrka. Ö/V gör ett tvåfärgsinkliv.",
     "desc_vs2DMulti": "Given har en sexkorts högfärg eller längre och en svag hand, och öppnar med 2ru multi.",
     "desc_weakTwoX": "Given har en sexkorts högfärg eller längre och en svag hand, och öppnar med svag tvåöppning. N/S har en upplysningsdubbling.",
-    "desc_checkback": "Träna fortsättningar efter att öppnaren återbjudit 1NT, bland annat Checkback, New Minor Forcing, Two-Way New Minor och naturliga metoder."
+    "desc_checkback": "Träna fortsättningar efter att öppnaren återbjudit 1NT, bland annat Checkback, New Minor Forcing, Two-Way New Minor och naturliga metoder.",
+    "practice": "Öva"
   },
   "groups": {
     "replace_deal_confirm": "Är du säker på att du vill byta ut given? Det går inte att ångra. Notera också att den nya given kan få ett annat nummer än den gamla.",
@@ -1722,20 +1723,36 @@
       "forbidden_characters_error": "Otillåtna tecken",
       "group_name_taken_error": "Det finns redan en grupp med det namnet",
       "group_created_success": "Grupp skapad",
-      "create_group_info": "När du skapar en grupp får du tillgång till en privat yta som bara medlemmar i din grupp kan nå. Där kan du chatta och skapa privata event. Notera att man behöver biljetter för att delta i eventen. Som vanlig så kan hjärterprenumeranter delta utan någon extra kostnad.",
-      "invite_members_bullet": "Bjud in medlemmar",
-      "group_chat_bullet": "Privat gruppchat",
-      "group_events_bullet": "Privata gruppevent",
       "group_name_label": "Namn",
       "group_name_placeholder": "Skriv gruppnamn",
       "group_description_label": "Beskrivning",
       "group_description_placeholder": "Skriv gruppbeskrivning",
-      "sub_level_error": "Hjärterprenumeranter kan skapa grupper",
       "submit_button": "Skapa grupp",
-      "purpose_title": "Vad ska gruppen användas till?",
-      "purpose_class": "Undervisar du en klass? Lärarverktygen är gratis för lärare som tar med sina elever till Cuebids.",
-      "purpose_class_has_tools": "Du har lärarverktygen. Skapa en grupp för din klass här nedanför.",
-      "purpose_team": "Ett lag eller en träningsgrupp? Med en premiumgrupp får gruppen fler sätt att köra event."
+      "title": "Skapa en grupp",
+      "question": "Vad ska den användas till?",
+      "class_title": "En klass jag undervisar",
+      "class_point_lessons": "Lektioner, quiz och övning för dina elever",
+      "class_point_code": "En klasskod och QR-kod för att gå med",
+      "class_point_progress": "Se hur det går för varje elev",
+      "class_point_events": "Klassevent med brickor du väljer",
+      "class_point_link": "Eleverna går med via en länk",
+      "class_point_chat": "En privat klasschatt",
+      "class_badge_free": "Gratis för lärare",
+      "class_badge_have": "Du har lärarverktyg",
+      "group_title": "Vänner, en klubb eller ett lag",
+      "group_point_chat": "En privat chatt",
+      "group_point_events": "Privata event för gruppen",
+      "group_point_link": "Bjud in med en länk",
+      "group_badge_heart": "Kräver Hjärter",
+      "group_badge_have": "Ingår i Hjärter",
+      "class_needs_tools": "En klass kräver lärarverktyg. De är gratis för lärare som tar med sina elever till Cuebids.",
+      "class_get_tools": "Skaffa gratis lärarverktyg",
+      "group_needs_heart": "Att skapa en grupp kräver Hjärter.",
+      "group_get_heart": "Se Hjärter",
+      "class_name_placeholder": "Till exempel: Nybörjare tisdagar",
+      "group_tickets_note": "Gruppevent kostar biljetter som vanligt. Medlemmar med Hjärter spelar dem utan extra kostnad.",
+      "submit_class": "Skapa klass",
+      "premium_link": "Driver du en klubb? Fråga oss om premiumgrupper"
     },
     "create_group_session": {
       "scenarios_robot_error": "Några valda scenarion har en konflikt mellan robotinställningar.",
@@ -3807,14 +3824,19 @@
       "recent_saved": "Senast sparade",
       "see_all": "Visa alla",
       "board_count": "Brickor: {{n}}",
-      "empty": "Spara en bricka från resultatet, eller lägg sökresultat i en samling, så hamnar den här.",
+      "empty": "Spara en bricka från dess resultat så hamnar den här.",
       "import_title": "Importera PBN",
       "teach_title": "Undervisa",
       "decks_title": "Frågekort & quiz",
       "teaching": "Undervisning",
       "teach_card": "Undervisa med Cuebids: lektioner, frågekort och klassevent, gratis för lärare.",
       "lessons_title": "Lektioner",
-      "teach_open": "Dina lektioner, frågekort, quiz, brickor och klasser."
+      "teach_open": "Dina lektioner, frågekort, quiz, brickor och klasser.",
+      "tools_title": "Öva och utforska",
+      "tool_search": "Sök bland brickorna du har bjudit, på hand eller budgivning.",
+      "tool_deal_types": "Vad varje givtyp tränar. Öva på en direkt från listan.",
+      "tool_scenarios": "Gör egna givtyper och öva på dem.",
+      "tool_import": "Hämta brickor från en PBN-fil till en samling."
     },
     "sets": {
       "new_placeholder": "Namnge en ny samling",
@@ -3967,7 +3989,7 @@
       "question": "Fråga",
       "question_hint_call": "Lämna tomt för att fråga ”Vad bjuder du?”",
       "show_hand": "Visa en hand och budgivningen",
-      "answer_sequence": "Dina bud, i tur och ordning",
+      "answer_sequence": "Partnerskapets bud, i tur och ordning",
       "options": "Svar",
       "options_hint": "Bocka för de rätta.",
       "add_option": "Lägg till ett svar",
@@ -4001,7 +4023,14 @@
       "answer_change": "Välj ett annat bud nedan för att ändra.",
       "bidding_box_show": "Använd budlådan",
       "bidding_box_hide": "Dölj budlådan",
-      "bidding_box_undo": "Ångra senaste budet"
+      "bidding_box_undo": "Ångra senaste budet",
+      "card_partner": "Partner",
+      "card_you": "Du",
+      "partner_hand": "Partners hand",
+      "sequence_answer_hint": "Dina och partners, till exempel 1NT 2C 2H 4H. Motståndarna passar hela vägen.",
+      "invalid_partner_hand": "Partners hand saknas eller går inte att läsa.",
+      "invalid_sequence": "Buden blir ingen tillåten budgivning när motståndarna passar.",
+      "preview": "Förhandsvisning"
     },
     "quiz": {
       "score": "Du fick {{score}} av {{total}}.",
@@ -4013,7 +4042,6 @@
       "next": "Nästa",
       "finish": "Se resultatet",
       "check": "Kontrollera",
-      "sequence_hint": "Dina bud, åtskilda med mellanslag.",
       "shape_total": "Kort: {{n}} av 13",
       "self_grade": "Kunde du det?",
       "self_no": "Nej",
@@ -4025,7 +4053,9 @@
       "false": "Falskt",
       "your_call": "Du bjöd",
       "choose_all": "Välj alla som stämmer.",
-      "selected_call": "Ditt bud"
+      "selected_call": "Ditt bud",
+      "sequence_your_call": "Ditt bud",
+      "sequence_partner_call": "Partners bud"
     },
     "lessons": {
       "title": "Lektioner",
@@ -4248,7 +4278,7 @@
       "search_intro": "Alla brickor du har bjudit, sökbara efter budgivning, händer och resultat. Öppna en för att se hela given och lägga den i en samling.",
       "new_deal": "Ny giv",
       "new_deal_intro": "Skriv de fyra händerna själv, för precis det exempel en lektion behöver.",
-      "new_deal_hint": "Välj en spelare och klicka på kort för att ge dem, eller skriv: spader, hjärter, ruter, klöver, åtskilda med punkter; x för en liten hacka, - för renons. Lämna en hand tom så får den korten som blir över.",
+      "new_deal_hint": "Välj en spelare och klicka på kort för att ge dem, eller skriv: spader, hjärter, ruter, klöver, åtskilda med punkter; x för en liten hacka, - för renons. Lämna en hand tom så får den korten som blir över. Öst och Väst kan lämnas tomma: de delas då ut så jämnt som korten tillåter.",
       "save_deal": "Lägg till i samlingen",
       "save_deal_another": "Lägg till och gör en till",
       "deal_error": "Given kunde inte läggas till. Försök igen.",
@@ -4289,16 +4319,16 @@
       },
       "brought": {
         "title": "Spelare du har tagit med",
-        "text": "Nya spelare som har börjat på Cuebids genom den här klassen. En spelare räknas för att du ska behålla lärarverktygen när hen har spelat några dagar och med någon annan än dig.",
+        "text": "Nya spelare som har börjat på Cuebids genom den här klassen. Räknas visar vilka som räknas för att du ska behålla lärarverktygen.",
         "none": "Ingen än. Dela klasskoden med dina elever.",
         "joined": "Gick med {{date}}",
         "left_class": "har lämnat klassen",
-        "counts": "Räknas",
-        "days_one": "{{count}} av {{needed}} dagar",
-        "days_other": "{{count}} av {{needed}} dagar",
-        "needs_partner": "Inte än med någon annan än dig"
+        "counts": "Räknas"
       },
-      "edit_deal_played": "Brickan hade redan spelats, så din ändring sparas som en ny giv. Tidigare resultat stannar hos den gamla."
+      "edit_deal_played": "Brickan hade redan spelats, så din ändring sparas som en ny giv. Tidigare resultat stannar hos den gamla.",
+      "cuebids_scoring": "Använd Cuebids-poängsättning",
+      "cuebids_scoring_hint": "Snabb poängsättning räknar på given som den ligger. Cuebids-poängsättning behåller Nord-Syd och blandar Öst-Väst, som Cuebids egna brickor räknas. Den tar längre tid, så använd den när fördelningen inte ska avgöra resultatet.",
+      "ew_evenly": "Öst och Väst delas ut så jämnt som korten tillåter när du sparar."
     },
     "can_title": "Det här kan du göra",
     "can_lessons": "Göra lektioner: sidor med händer och budgivningar, frågekort och quiz, och övning vid bordet, samlat på ett ställe.",
@@ -4308,8 +4338,7 @@
     "can_share": "Skicka en lektion till Cuebids. Publicerar vi den för alla spelare står ditt namn på den, och vi tackar med en gåva.",
     "free_title": "Så förblir det gratis",
     "free_start": "Lärarverktygen slås på direkt när du ber om dem, gratis i sex månader.",
-    "free_renew": "När nya spelare börjar på Cuebids genom din klass förnyar vi dem i sex månader till. Vi räknar spelare som är nya på Cuebids, spelar minst tre dagar och med någon annan än dig.",
-    "free_ending": "Blir de färre skriver vi till dig innan verktygen tar slut.",
+    "free_renew": "Så länge du tar med elever till Cuebids förblir lärarverktygen gratis. Vi tittar på det var sjätte månad och förnyar dem åt dig.",
     "students_title": "Vad dina elever betalar",
     "form_title": "Be om lärarverktyg",
     "submit_hint": "Två snabba frågor, så att vi vet vilka vi bygger för. Verktygen slås på så fort du har skickat svaren.",

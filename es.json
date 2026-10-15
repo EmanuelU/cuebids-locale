@@ -151,7 +151,7 @@
       "contract": "Contrato",
       "stars": "Estrellas",
       "fast_scoring": "Puntuación rápida",
-      "regular_scoring": "Puntuación normal"
+      "regular_scoring": "Puntuación de Cuebids"
     },
     "group_card": {
       "premium_group_badge": "GRUPO PREMIUM"
@@ -1641,7 +1641,8 @@
     "desc_vsPreempt": "El repartidor tiene una mano débil y debe hacer una preapertura.",
     "desc_vs2DMulti": "El repartidor tiene un mayor de seis cartas o más y una mano débil; abrirá 2 diamantes multi.",
     "desc_weakTwoX": "El repartidor tiene un mayor de seis cartas o más y una mano débil; abrirá con un dos débil. N/S tienen un doblo de despeje.",
-    "desc_checkback": "Practica las continuaciones tras la redeclaración de 1NT del abridor, incluidos Checkback, New Minor Forcing, Two-Way New Minor y los métodos naturales."
+    "desc_checkback": "Practica las continuaciones tras la redeclaración de 1NT del abridor, incluidos Checkback, New Minor Forcing, Two-Way New Minor y los métodos naturales.",
+    "practice": "Practicar"
   },
   "groups": {
     "replace_deal_confirm": "¿Seguro que quieres reemplazar esta mano? Una vez reemplazada, la mano desaparece para siempre. Además, la nueva mano podría tener un número distinto al de la anterior.",
@@ -1722,20 +1723,36 @@
       "forbidden_characters_error": "Caracteres no permitidos",
       "group_name_taken_error": "Ya existe un grupo con ese nombre.",
       "group_created_success": "Grupo creado",
-      "create_group_info": "Cuando creas un grupo, obtienes acceso a un espacio privado al que solo pueden entrar los miembros del grupo. Allí podéis chatear y crear eventos privados. Ten en cuenta que participar en eventos requiere tickets. Como siempre, los suscriptores Corazón pueden participar sin coste adicional.",
-      "invite_members_bullet": "Invitar miembros",
-      "group_chat_bullet": "Chat privado del grupo",
-      "group_events_bullet": "Eventos privados del grupo",
       "group_name_label": "Nombre",
       "group_name_placeholder": "Introduce el nombre del grupo",
       "group_description_label": "Descripción",
       "group_description_placeholder": "Introduce la descripción del grupo",
-      "sub_level_error": "Los suscriptores Corazón pueden crear grupos.",
       "submit_button": "Crear grupo",
-      "purpose_title": "¿Para qué es este grupo?",
-      "purpose_class": "¿Das clases? Las herramientas para profesores son gratis para los profesores que traen a sus alumnos a Cuebids.",
-      "purpose_class_has_tools": "Tienes las herramientas para profesores. Crea abajo un grupo para tu clase.",
-      "purpose_team": "¿Un equipo o un grupo de práctica? Un grupo premium da más formas de organizar eventos."
+      "title": "Crear un grupo",
+      "question": "¿Para qué es?",
+      "class_title": "Una clase que enseño",
+      "class_point_lessons": "Lecciones, cuestionarios y práctica para tus alumnos",
+      "class_point_code": "Un código de clase y un código QR para unirse",
+      "class_point_progress": "Ver cómo va cada alumno",
+      "class_point_events": "Eventos de clase con las manos que elijas",
+      "class_point_link": "Los alumnos se unen con un enlace",
+      "class_point_chat": "Un chat privado de la clase",
+      "class_badge_free": "Gratis para profesores",
+      "class_badge_have": "Tienes herramientas de profesor",
+      "group_title": "Amigos, un club o un equipo",
+      "group_point_chat": "Un chat privado",
+      "group_point_events": "Eventos privados para el grupo",
+      "group_point_link": "Invitación con un enlace",
+      "group_badge_heart": "Requiere Heart",
+      "group_badge_have": "Incluido con Heart",
+      "class_needs_tools": "Una clase requiere herramientas de profesor. Son gratis para los profesores que traen a sus alumnos a Cuebids.",
+      "class_get_tools": "Obtener herramientas gratis",
+      "group_needs_heart": "Crear un grupo requiere Heart.",
+      "group_get_heart": "Ver Heart",
+      "class_name_placeholder": "Por ejemplo: Principiantes del martes",
+      "group_tickets_note": "Los eventos del grupo cuestan tickets como siempre. Los miembros con Heart juegan sin coste extra.",
+      "submit_class": "Crear clase",
+      "premium_link": "¿Diriges un club? Pregúntanos por los grupos premium"
     },
     "create_group_session": {
       "scenarios_robot_error": "Algunos escenarios seleccionados tienen un conflicto entre los ajustes del robot.",
@@ -3807,14 +3824,19 @@
       "recent_saved": "Guardadas recientemente",
       "see_all": "Ver todas",
       "board_count": "Manos: {{n}}",
-      "empty": "Guarda una mano desde su resultado, o añade resultados de búsqueda a una serie, y aparecerá aquí.",
+      "empty": "Guarda una mano desde su resultado y aparecerá aquí.",
       "import_title": "Importar PBN",
       "teach_title": "Enseñar",
       "decks_title": "Tarjetas y cuestionarios",
       "teaching": "Enseñanza",
       "teach_card": "Enseña con Cuebids: lecciones, tarjetas y eventos de clase, gratis para profesores.",
       "lessons_title": "Lecciones",
-      "teach_open": "Tus lecciones, tarjetas, cuestionarios, manos y clases."
+      "teach_open": "Tus lecciones, tarjetas, cuestionarios, manos y clases.",
+      "tools_title": "Practicar y explorar",
+      "tool_search": "Busca entre las manos que has subastado, por mano o subasta.",
+      "tool_deal_types": "Qué entrena cada tipo de mano. Practica uno desde la lista.",
+      "tool_scenarios": "Crea tus propios tipos de mano y practícalos.",
+      "tool_import": "Trae manos de un archivo PBN a un conjunto."
     },
     "sets": {
       "new_placeholder": "Nombra una serie nueva",
@@ -3967,7 +3989,7 @@
       "question": "Pregunta",
       "question_hint_call": "Déjalo vacío para preguntar «¿Qué cantas?»",
       "show_hand": "Mostrar una mano y la subasta",
-      "answer_sequence": "Tus voces, por orden",
+      "answer_sequence": "Las voces de la pareja, por turno",
       "options": "Respuestas",
       "options_hint": "Marca las correctas.",
       "add_option": "Añadir una respuesta",
@@ -4001,7 +4023,14 @@
       "answer_change": "Elige otra voz abajo para cambiarla.",
       "bidding_box_show": "Usar la caja de pujas",
       "bidding_box_hide": "Ocultar la caja de pujas",
-      "bidding_box_undo": "Quitar la última voz"
+      "bidding_box_undo": "Quitar la última voz",
+      "card_partner": "Compañero",
+      "card_you": "Tú",
+      "partner_hand": "La mano del compañero",
+      "sequence_answer_hint": "Las tuyas y las del compañero, como 1NT 2C 2H 4H. Los contrarios pasan siempre.",
+      "invalid_partner_hand": "Falta la mano del compañero o no se puede leer.",
+      "invalid_sequence": "Esas voces no forman una subasta legal con los contrarios pasando.",
+      "preview": "Vista previa"
     },
     "quiz": {
       "score": "Has sacado {{score}} de {{total}}.",
@@ -4013,7 +4042,6 @@
       "next": "Siguiente",
       "finish": "Ver resultado",
       "check": "Comprobar",
-      "sequence_hint": "Tus voces, separadas por espacios.",
       "shape_total": "Cartas: {{n}} de 13",
       "self_grade": "¿Lo sabías?",
       "self_no": "No",
@@ -4025,7 +4053,9 @@
       "false": "Falso",
       "your_call": "Tu voz",
       "choose_all": "Elige todas las correctas.",
-      "selected_call": "Tu voz"
+      "selected_call": "Tu voz",
+      "sequence_your_call": "Tu voz",
+      "sequence_partner_call": "La voz del compañero"
     },
     "lessons": {
       "title": "Lecciones",
@@ -4248,7 +4278,7 @@
       "search_intro": "Todas las manos que has subastado, por subasta, manos y resultado. Abre una para ver el reparto completo y añadirla a una serie.",
       "new_deal": "Nuevo reparto",
       "new_deal_intro": "Escribe tú las cuatro manos, para el ejemplo exacto que necesita una lección.",
-      "new_deal_hint": "Elige un jugador y haz clic en las cartas para dárselas, o escribe: picas, corazones, diamantes, tréboles, separados por puntos; x para una carta baja, - para un fallo. Deja una mano vacía y recibe las cartas que sobran.",
+      "new_deal_hint": "Elige un jugador y haz clic en las cartas para dárselas, o escribe: picas, corazones, diamantes, tréboles, separados por puntos; x para una carta baja, - para un fallo. Deja una mano vacía y recibe las cartas que sobran. Este y Oeste pueden quedar vacíos: se reparten entonces lo más equilibrado posible.",
       "save_deal": "Añadir a la serie",
       "save_deal_another": "Añadir y crear otro",
       "deal_error": "No se pudo añadir el reparto. Inténtalo de nuevo.",
@@ -4289,16 +4319,16 @@
       },
       "brought": {
         "title": "Jugadores que has traído",
-        "text": "Jugadores nuevos que llegaron a Cuebids a través de esta clase. Un jugador cuenta para mantener tus herramientas de profesor cuando ha jugado varios días y con alguien que no seas tú.",
+        "text": "Jugadores nuevos que llegaron a Cuebids a través de esta clase. «Cuenta» marca a quien cuenta para mantener tus herramientas de profesor.",
         "none": "Todavía nadie. Comparte el código de la clase con tus alumnos.",
         "joined": "Llegó el {{date}}",
         "left_class": "dejó la clase",
-        "counts": "Cuenta",
-        "days_one": "{{count}} de {{needed}} días",
-        "days_other": "{{count}} de {{needed}} días",
-        "needs_partner": "Aún no con alguien que no seas tú"
+        "counts": "Cuenta"
       },
-      "edit_deal_played": "Esta mano ya se había jugado, así que tu cambio se guarda como un reparto nuevo. Los resultados anteriores se quedan con el antiguo."
+      "edit_deal_played": "Esta mano ya se había jugado, así que tu cambio se guarda como un reparto nuevo. Los resultados anteriores se quedan con el antiguo.",
+      "cuebids_scoring": "Usar la puntuación de Cuebids",
+      "cuebids_scoring_hint": "La puntuación rápida cuenta la mano tal como está. La de Cuebids mantiene Norte-Sur y baraja Este-Oeste, como se puntúan las manos de Cuebids. Tarda más, así que úsala cuando la distribución no deba decidir el resultado.",
+      "ew_evenly": "Al guardar, Este y Oeste se reparten lo más equilibrado posible."
     },
     "can_title": "Qué puedes hacer",
     "can_lessons": "Crear lecciones: páginas con manos y subastas, tarjetas y cuestionarios, y práctica en la mesa, todo en un mismo lugar.",
@@ -4308,8 +4338,7 @@
     "can_share": "Enviar una lección a Cuebids. Si la publicamos para todos los jugadores, lleva tu nombre, y te lo agradecemos con un regalo.",
     "free_title": "Cómo sigue siendo gratis",
     "free_start": "Tus herramientas de profesor se activan en cuanto las pides, gratis durante seis meses.",
-    "free_renew": "Cuando llegan jugadores nuevos a Cuebids a través de tu clase, las renovamos seis meses más. Contamos a los jugadores nuevos en Cuebids que juegan al menos tres días y con alguien que no seas tú.",
-    "free_ending": "Si llegan menos, te escribimos antes de que terminen tus herramientas.",
+    "free_renew": "Mientras traigas alumnos a Cuebids, tus herramientas de profesor siguen siendo gratis. Lo revisamos cada seis meses y las renovamos por ti.",
     "students_title": "Qué pagan tus alumnos",
     "form_title": "Pide las herramientas de profesor",
     "submit_hint": "Dos preguntas rápidas, para saber para quién construimos. Tus herramientas se activan en cuanto las envías.",

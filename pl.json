@@ -151,7 +151,7 @@
       "contract": "Kontrakt",
       "stars": "Gwiazdki",
       "fast_scoring": "Szybkie punktowanie",
-      "regular_scoring": "Zwykłe punktowanie"
+      "regular_scoring": "Punktacja Cuebids"
     },
     "group_card": {
       "premium_group_badge": "GRUPA PREMIUM"
@@ -1643,7 +1643,8 @@
     "desc_vsPreempt": "Rozdający ma słabą rękę i powinien blokować.",
     "desc_vs2DMulti": "Rozdający ma starszy kolor sześciokartowy lub dłuższy i słabą rękę; otworzy 2D multi.",
     "desc_weakTwoX": "Rozdający ma starszy kolor sześciokartowy lub dłuższy i słabą rękę; otworzy słabymi dwoma. N/S mają kontrę wywoławczą.",
-    "desc_checkback": "Poćwicz kontynuacje po rebidzie 1NT otwierającego, w tym Checkback, New Minor Forcing, Two-Way New Minor i metody naturalne."
+    "desc_checkback": "Poćwicz kontynuacje po rebidzie 1NT otwierającego, w tym Checkback, New Minor Forcing, Two-Way New Minor i metody naturalne.",
+    "practice": "Ćwicz"
   },
   "groups": {
     "replace_deal_confirm": "Czy na pewno chcesz zamienić to rozdanie? Po zamianie rozdanie zostanie trwale usunięte.",
@@ -1724,20 +1725,36 @@
       "forbidden_characters_error": "Niedozwolone znaki",
       "group_name_taken_error": "Grupa o tej nazwie już istnieje",
       "group_created_success": "Grupa utworzona",
-      "create_group_info": "Tworząc grupę, uzyskujesz dostęp do prywatnej przestrzeni, do której dostęp mają tylko członkowie Twojej grupy. Możesz tam czatować i tworzyć prywatne wydarzenia. Udział w wydarzeniach wymaga biletów. Jak zawsze, subskrybenci Kier mogą uczestniczyć bez dodatkowych kosztów.",
-      "invite_members_bullet": "Zaproś członków",
-      "group_chat_bullet": "Prywatny czat grupowy",
-      "group_events_bullet": "Prywatne wydarzenia grupowe",
       "group_name_label": "Nazwa",
       "group_name_placeholder": "Wprowadź nazwę grupy",
       "group_description_label": "Opis",
       "group_description_placeholder": "Wprowadź opis grupy",
-      "sub_level_error": "Subskrybenci Kier mogą tworzyć grupy",
       "submit_button": "Utwórz grupę",
-      "purpose_title": "Do czego ma służyć ta grupa?",
-      "purpose_class": "Uczysz grupę? Narzędzia dla nauczycieli są darmowe dla nauczycieli, którzy przyprowadzają swoich uczniów do Cuebids.",
-      "purpose_class_has_tools": "Masz narzędzia dla nauczycieli. Utwórz poniżej grupę dla swojej klasy.",
-      "purpose_team": "Drużyna albo grupa treningowa? Grupa premium daje więcej sposobów prowadzenia wydarzeń."
+      "title": "Utwórz grupę",
+      "question": "Do czego ma służyć?",
+      "class_title": "Klasa, którą uczę",
+      "class_point_lessons": "Lekcje, quizy i ćwiczenia dla uczniów",
+      "class_point_code": "Kod klasy i kod QR do dołączenia",
+      "class_point_progress": "Postępy każdego ucznia",
+      "class_point_events": "Wydarzenia klasowe z wybranych rozdań",
+      "class_point_link": "Uczniowie dołączają przez link",
+      "class_point_chat": "Prywatny czat klasy",
+      "class_badge_free": "Bezpłatnie dla nauczycieli",
+      "class_badge_have": "Masz narzędzia nauczyciela",
+      "group_title": "Znajomi, klub lub drużyna",
+      "group_point_chat": "Prywatny czat",
+      "group_point_events": "Prywatne wydarzenia grupy",
+      "group_point_link": "Zaproszenie przez link",
+      "group_badge_heart": "Wymaga Kier",
+      "group_badge_have": "W ramach Kier",
+      "class_needs_tools": "Klasa wymaga narzędzi nauczyciela. Są bezpłatne dla nauczycieli, którzy przyprowadzają uczniów do Cuebids.",
+      "class_get_tools": "Odbierz bezpłatne narzędzia",
+      "group_needs_heart": "Tworzenie grupy wymaga Kier.",
+      "group_get_heart": "Zobacz Kier",
+      "class_name_placeholder": "Na przykład: Początkujący, wtorki",
+      "group_tickets_note": "Wydarzenia grupy kosztują bilety jak zwykle. Członkowie z Kier grają bez dodatkowych kosztów.",
+      "submit_class": "Utwórz klasę",
+      "premium_link": "Prowadzisz klub? Zapytaj o grupy premium"
     },
     "create_group_session": {
       "scenarios_robot_error": "Niektóre wybrane scenariusze kłócą się z ustawieniami robotów.",
@@ -3813,14 +3830,19 @@
       "recent_saved": "Ostatnio zapisane",
       "see_all": "Zobacz wszystkie",
       "board_count": "Rozdania: {{n}}",
-      "empty": "Zapisz rozdanie z jego wyniku albo dodaj wyniki wyszukiwania do zestawu, a pojawi się tutaj.",
+      "empty": "Zapisz rozdanie z jego wyniku, a pojawi się tutaj.",
       "import_title": "Importuj PBN",
       "teach_title": "Ucz",
       "decks_title": "Fiszki i quizy",
       "teaching": "Nauczanie",
       "teach_card": "Ucz z Cuebids: lekcje, fiszki i wydarzenia klasowe, bezpłatnie dla nauczycieli.",
       "lessons_title": "Lekcje",
-      "teach_open": "Twoje lekcje, fiszki, quizy, rozdania i klasy."
+      "teach_open": "Twoje lekcje, fiszki, quizy, rozdania i klasy.",
+      "tools_title": "Ćwicz i odkrywaj",
+      "tool_search": "Szukaj wśród licytowanych rozdań, po ręce lub licytacji.",
+      "tool_deal_types": "Czego uczy każdy typ rozdań. Ćwicz wybrany prosto z listy.",
+      "tool_scenarios": "Twórz własne typy rozdań i ćwicz je.",
+      "tool_import": "Wczytaj rozdania z pliku PBN do zestawu."
     },
     "sets": {
       "new_placeholder": "Nazwij nowy zestaw",
@@ -3973,7 +3995,7 @@
       "question": "Pytanie",
       "question_hint_call": "Zostaw puste, aby zapytać „Co licytujesz?”",
       "show_hand": "Pokaż rękę i licytację",
-      "answer_sequence": "Twoje odzywki po kolei",
+      "answer_sequence": "Odzywki pary, po kolei",
       "options": "Odpowiedzi",
       "options_hint": "Zaznacz prawidłowe.",
       "add_option": "Dodaj odpowiedź",
@@ -4007,7 +4029,14 @@
       "answer_change": "Wybierz poniżej inną odzywkę, aby to zmienić.",
       "bidding_box_show": "Użyj pudełka licytacyjnego",
       "bidding_box_hide": "Ukryj pudełko licytacyjne",
-      "bidding_box_undo": "Cofnij ostatnią odzywkę"
+      "bidding_box_undo": "Cofnij ostatnią odzywkę",
+      "card_partner": "Partner",
+      "card_you": "Ty",
+      "partner_hand": "Ręka partnera",
+      "sequence_answer_hint": "Twoje i partnera, na przykład 1NT 2C 2H 4H. Przeciwnicy cały czas pasują.",
+      "invalid_partner_hand": "Brak ręki partnera albo nie da się jej odczytać.",
+      "invalid_sequence": "Te odzywki nie tworzą poprawnej licytacji, gdy przeciwnicy pasują.",
+      "preview": "Podgląd"
     },
     "quiz": {
       "score": "Twój wynik: {{score}} z {{total}}.",
@@ -4019,7 +4048,6 @@
       "next": "Dalej",
       "finish": "Zobacz wynik",
       "check": "Sprawdź",
-      "sequence_hint": "Twoje odzywki oddzielone spacjami.",
       "shape_total": "Karty: {{n}} z 13",
       "self_grade": "Czy to wiedziałeś?",
       "self_no": "Nie",
@@ -4031,7 +4059,9 @@
       "false": "Fałsz",
       "your_call": "Twoja odzywka",
       "choose_all": "Wybierz wszystkie poprawne.",
-      "selected_call": "Twoja odzywka"
+      "selected_call": "Twoja odzywka",
+      "sequence_your_call": "Twoja odzywka",
+      "sequence_partner_call": "Odzywka partnera"
     },
     "lessons": {
       "title": "Lekcje",
@@ -4254,7 +4284,7 @@
       "search_intro": "Wszystkie rozdania, które licytowałeś, do wyszukania po licytacji, rękach i wyniku. Otwórz jedno, by zobaczyć całe rozdanie i dodać je do zestawu.",
       "new_deal": "Nowe rozdanie",
       "new_deal_intro": "Wpisz cztery ręce sam, dokładnie pod przykład, którego potrzebuje lekcja.",
-      "new_deal_hint": "Wybierz gracza i klikaj karty, żeby mu je dać, albo wpisz: piki, kiery, kara, trefle, oddzielone kropkami; x oznacza blotkę, - renons. Zostaw jedną rękę pustą, a dostanie pozostałe karty.",
+      "new_deal_hint": "Wybierz gracza i klikaj karty, żeby mu je dać, albo wpisz: piki, kiery, kara, trefle, oddzielone kropkami; x oznacza blotkę, - renons. Zostaw jedną rękę pustą, a dostanie pozostałe karty. E i W można pominąć: zostaną wtedy rozdane tak równo, jak pozwalają karty.",
       "save_deal": "Dodaj do zestawu",
       "save_deal_another": "Dodaj i utwórz kolejne",
       "deal_error": "Nie udało się dodać rozdania. Spróbuj ponownie.",
@@ -4295,18 +4325,16 @@
       },
       "brought": {
         "title": "Gracze przyprowadzeni przez Ciebie",
-        "text": "Nowi gracze, którzy dołączyli do Cuebids przez tę klasę. Gracz liczy się do utrzymania narzędzi nauczyciela, gdy zagra przez kilka dni i z kimś innym niż Ty.",
+        "text": "Nowi gracze, którzy dołączyli do Cuebids przez tę klasę. „Liczy się” oznacza gracza, który liczy się do utrzymania narzędzi nauczyciela.",
         "none": "Jeszcze nikt. Udostępnij uczniom kod klasy.",
         "joined": "Dołączenie: {{date}}",
         "left_class": "poza klasą",
-        "counts": "Liczy się",
-        "days_one": "Dni: {{count}} z {{needed}}",
-        "days_few": "Dni: {{count}} z {{needed}}",
-        "days_many": "Dni: {{count}} z {{needed}}",
-        "days_other": "Dni: {{count}} z {{needed}}",
-        "needs_partner": "Jeszcze nie z kimś innym niż Ty"
+        "counts": "Liczy się"
       },
-      "edit_deal_played": "To rozdanie było już grane, więc zmiana zapisuje się jako nowe rozdanie. Wcześniejsze wyniki zostają przy starym."
+      "edit_deal_played": "To rozdanie było już grane, więc zmiana zapisuje się jako nowe rozdanie. Wcześniejsze wyniki zostają przy starym.",
+      "cuebids_scoring": "Użyj punktacji Cuebids",
+      "cuebids_scoring_hint": "Szybka punktacja liczy rozdanie tak, jak leży. Punktacja Cuebids zostawia NS i tasuje EW, tak jak liczone są rozdania Cuebids. Trwa dłużej, więc używaj jej, gdy układ nie powinien decydować o wyniku.",
+      "ew_evenly": "Przy zapisie E i W zostaną rozdane tak równo, jak pozwalają karty."
     },
     "can_title": "Co możesz zrobić",
     "can_lessons": "Tworzyć lekcje: strony z rękami i licytacjami, fiszki i quizy oraz ćwiczenia przy stole, wszystko w jednym miejscu.",
@@ -4316,8 +4344,7 @@
     "can_share": "Wysłać lekcję do Cuebids. Jeśli opublikujemy ją dla wszystkich graczy, będzie podpisana Twoim nazwiskiem, a my podziękujemy prezentem.",
     "free_title": "Jak to pozostaje bezpłatne",
     "free_start": "Narzędzia nauczyciela włączają się od razu, gdy o nie poprosisz, bezpłatnie na sześć miesięcy.",
-    "free_renew": "Gdy dzięki Twojej klasie do Cuebids dołączają nowi gracze, przedłużamy je o kolejne sześć miesięcy. Liczymy graczy nowych w Cuebids, którzy grają co najmniej trzy dni i z kimś innym niż Ty.",
-    "free_ending": "Jeśli dołączy mniej osób, napiszemy do Ciebie, zanim narzędzia wygasną.",
+    "free_renew": "Dopóki przyprowadzasz uczniów do Cuebids, narzędzia nauczyciela pozostają bezpłatne. Co sześć miesięcy sprawdzamy to i przedłużamy je za Ciebie.",
     "students_title": "Ile płacą Twoi uczniowie",
     "form_title": "Poproś o narzędzia nauczyciela",
     "submit_hint": "Dwa krótkie pytania, żebyśmy wiedzieli, dla kogo budujemy. Narzędzia włączą się, gdy tylko je wyślesz.",
