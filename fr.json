@@ -151,7 +151,7 @@
       "contract": "Contrat",
       "stars": "Étoiles",
       "fast_scoring": "Évaluation rapide",
-      "regular_scoring": "Évaluation normale"
+      "regular_scoring": "Score Cuebids"
     },
     "group_card": {
       "premium_group_badge": "GROUPE PREMIUM"
@@ -1641,7 +1641,8 @@
     "desc_vsPreempt": "Le donneur a une main faible et doit barrer.",
     "desc_vs2DMulti": "Le donneur a une majeure sixième ou plus et une main faible ; il ouvrira de 2♦ multi.",
     "desc_weakTwoX": "Le donneur a une majeure sixième ou plus et une main faible ; il ouvrira d’un 2 faible. N/S disposent d’un contre d’appel.",
-    "desc_checkback": "Travaillez les continuations après la redemande à 1SA de l’ouvreur : Checkback, New Minor Forcing, Two-Way New Minor et méthodes naturelles."
+    "desc_checkback": "Travaillez les continuations après la redemande à 1SA de l’ouvreur : Checkback, New Minor Forcing, Two-Way New Minor et méthodes naturelles.",
+    "practice": "S’entraîner"
   },
   "groups": {
     "replace_deal_confirm": "Êtes-vous sûr de vouloir remplacer cette donne ? Une fois remplacée, elle sera définitivement perdue. Notez aussi que la nouvelle donne peut porter un numéro différent de l’ancienne.",
@@ -1722,20 +1723,36 @@
       "forbidden_characters_error": "Caractères interdits",
       "group_name_taken_error": "Un groupe du même nom existe déjà",
       "group_created_success": "Groupe créé",
-      "create_group_info": "Lorsque vous créez un groupe, vous avez accès à un espace privé réservé aux membres du groupe. Vous pouvez y discuter et créer des tournois privés. Notez que la participation aux tournois nécessite des tickets. Comme toujours, les abonnés Cœur peuvent participer sans surcoût.",
-      "invite_members_bullet": "Inviter des membres",
-      "group_chat_bullet": "Tchat de groupe privé",
-      "group_events_bullet": "Tournois de groupe privés",
       "group_name_label": "Nom",
       "group_name_placeholder": "Entrez le nom du groupe",
       "group_description_label": "Description",
       "group_description_placeholder": "Entrez la description du groupe",
-      "sub_level_error": "Seuls les abonnés Cœur peuvent créer des groupes",
       "submit_button": "Créer un groupe",
-      "purpose_title": "À quoi servira ce groupe ?",
-      "purpose_class": "Vous enseignez à une classe ? Les outils pour enseignants sont gratuits pour les enseignants qui amènent leurs élèves sur Cuebids.",
-      "purpose_class_has_tools": "Vous avez les outils pour enseignants. Créez ci-dessous un groupe pour votre classe.",
-      "purpose_team": "Une équipe ou un groupe d’entraînement ? Un groupe premium offre plus de façons d’organiser vos tournois."
+      "title": "Créer un groupe",
+      "question": "À quoi va-t-il servir ?",
+      "class_title": "Une classe que j’enseigne",
+      "class_point_lessons": "Leçons, quiz et entraînement pour vos élèves",
+      "class_point_code": "Un code de classe et un QR code pour rejoindre",
+      "class_point_progress": "Voir où en est chaque élève",
+      "class_point_events": "Des événements de classe avec les donnes de votre choix",
+      "class_point_link": "Les élèves rejoignent par un lien",
+      "class_point_chat": "Une discussion privée pour la classe",
+      "class_badge_free": "Gratuit pour les enseignants",
+      "class_badge_have": "Vous avez les outils enseignant",
+      "group_title": "Des amis, un club ou une équipe",
+      "group_point_chat": "Une discussion privée",
+      "group_point_events": "Des événements privés pour le groupe",
+      "group_point_link": "Invitation par lien",
+      "group_badge_heart": "Nécessite Cœur",
+      "group_badge_have": "Inclus avec Cœur",
+      "class_needs_tools": "Une classe nécessite les outils enseignant. Ils sont gratuits pour les enseignants qui amènent leurs élèves sur Cuebids.",
+      "class_get_tools": "Obtenir les outils gratuits",
+      "group_needs_heart": "Créer un groupe nécessite Cœur.",
+      "group_get_heart": "Voir Cœur",
+      "class_name_placeholder": "Par exemple : Débutants du mardi",
+      "group_tickets_note": "Les événements du groupe coûtent des tickets comme d’habitude. Les membres avec Cœur y jouent sans frais supplémentaires.",
+      "submit_class": "Créer la classe",
+      "premium_link": "Vous dirigez un club ? Renseignez-vous sur les groupes premium"
     },
     "create_group_session": {
       "scenarios_robot_error": "Certains scénarios sélectionnés ont des paramètres de robot incompatibles.",
@@ -3807,14 +3824,19 @@
       "recent_saved": "Enregistrées récemment",
       "see_all": "Tout voir",
       "board_count": "Donnes : {{n}}",
-      "empty": "Enregistrez une donne depuis son résultat, ou ajoutez des résultats de recherche à une série, et elle apparaît ici.",
+      "empty": "Enregistrez une donne depuis son résultat et elle apparaît ici.",
       "import_title": "Importer un PBN",
       "teach_title": "Enseigner",
       "decks_title": "Cartes mémo et quiz",
       "teaching": "Enseignement",
       "teach_card": "Enseigner avec Cuebids : leçons, cartes mémo et tournois de classe, gratuits pour les enseignants.",
       "lessons_title": "Leçons",
-      "teach_open": "Vos leçons, cartes mémo, quiz, donnes et classes."
+      "teach_open": "Vos leçons, cartes mémo, quiz, donnes et classes.",
+      "tools_title": "S’entraîner et explorer",
+      "tool_search": "Cherchez parmi les donnes que vous avez enchéries, par main ou séquence.",
+      "tool_deal_types": "Ce que chaque type de donne travaille. Entraînez-vous depuis la liste.",
+      "tool_scenarios": "Créez vos propres types de donnes et entraînez-vous dessus.",
+      "tool_import": "Importez des donnes d’un fichier PBN dans une série."
     },
     "sets": {
       "new_placeholder": "Nommer une nouvelle série",
@@ -3967,7 +3989,7 @@
       "question": "Question",
       "question_hint_call": "Laissez vide pour demander « Qu’annoncez-vous ? »",
       "show_hand": "Montrer une main et les enchères",
-      "answer_sequence": "Vos enchères, dans l’ordre",
+      "answer_sequence": "Les enchères du camp, dans l’ordre",
       "options": "Réponses",
       "options_hint": "Cochez les bonnes.",
       "add_option": "Ajouter une réponse",
@@ -4001,7 +4023,14 @@
       "answer_change": "Choisissez une autre enchère ci-dessous pour la changer.",
       "bidding_box_show": "Utiliser la boîte à enchères",
       "bidding_box_hide": "Masquer la boîte à enchères",
-      "bidding_box_undo": "Annuler la dernière enchère"
+      "bidding_box_undo": "Annuler la dernière enchère",
+      "card_partner": "Partenaire",
+      "card_you": "Vous",
+      "partner_hand": "La main du partenaire",
+      "sequence_answer_hint": "Les vôtres et celles du partenaire, par exemple 1NT 2C 2H 4H. Les adversaires passent tout du long.",
+      "invalid_partner_hand": "La main du partenaire manque ou est illisible.",
+      "invalid_sequence": "Ces enchères ne forment pas une séquence légale avec des adversaires qui passent.",
+      "preview": "Aperçu"
     },
     "quiz": {
       "score": "Vous avez {{score}} sur {{total}}.",
@@ -4013,7 +4042,6 @@
       "next": "Suivante",
       "finish": "Voir le score",
       "check": "Vérifier",
-      "sequence_hint": "Vos enchères, séparées par des espaces.",
       "shape_total": "Cartes : {{n}} sur 13",
       "self_grade": "L’aviez-vous ?",
       "self_no": "Non",
@@ -4025,7 +4053,9 @@
       "false": "Faux",
       "your_call": "Votre enchère",
       "choose_all": "Choisissez toutes les bonnes réponses.",
-      "selected_call": "Votre enchère"
+      "selected_call": "Votre enchère",
+      "sequence_your_call": "Votre enchère",
+      "sequence_partner_call": "L’enchère du partenaire"
     },
     "lessons": {
       "title": "Leçons",
@@ -4248,7 +4278,7 @@
       "search_intro": "Toutes les donnes que vous avez enchéries, à chercher par séquence, mains et résultat. Ouvrez-en une pour voir la donne entière et l’ajouter à une série.",
       "new_deal": "Nouvelle donne",
       "new_deal_intro": "Écrivez vous-même les quatre mains, pour l’exemple exact dont une leçon a besoin.",
-      "new_deal_hint": "Choisissez un joueur puis cliquez sur des cartes pour les lui donner, ou tapez : piques, cœurs, carreaux, trèfles, séparés par des points ; x pour une petite carte, - pour une chicane. Laissez une main vide et elle reçoit les cartes restantes.",
+      "new_deal_hint": "Choisissez un joueur puis cliquez sur des cartes pour les lui donner, ou tapez : piques, cœurs, carreaux, trèfles, séparés par des points ; x pour une petite carte, - pour une chicane. Laissez une main vide et elle reçoit les cartes restantes. Est et Ouest peuvent rester vides : ils sont alors distribués aussi équitablement que possible.",
       "save_deal": "Ajouter à la série",
       "save_deal_another": "Ajouter et en faire une autre",
       "deal_error": "La donne n’a pas pu être ajoutée. Réessayez.",
@@ -4289,16 +4319,16 @@
       },
       "brought": {
         "title": "Les joueurs que vous avez amenés",
-        "text": "Les nouveaux joueurs arrivés sur Cuebids par cette classe. Un joueur compte pour garder vos outils d'enseignant dès qu'il a joué quelques jours et avec quelqu'un d'autre que vous.",
+        "text": "Les nouveaux joueurs arrivés sur Cuebids par cette classe. « Compte » signale un joueur qui compte pour garder vos outils d’enseignant.",
         "none": "Personne pour l’instant. Partagez le code de la classe avec vos élèves.",
         "joined": "Arrivée le {{date}}",
         "left_class": "a quitté la classe",
-        "counts": "Compte",
-        "days_one": "{{count}} jour sur {{needed}}",
-        "days_other": "{{count}} jours sur {{needed}}",
-        "needs_partner": "Pas encore avec quelqu'un d'autre que vous"
+        "counts": "Compte"
       },
-      "edit_deal_played": "Cette donne avait déjà été jouée : votre modification est enregistrée comme une nouvelle donne. Les résultats précédents restent avec l’ancienne."
+      "edit_deal_played": "Cette donne avait déjà été jouée : votre modification est enregistrée comme une nouvelle donne. Les résultats précédents restent avec l’ancienne.",
+      "cuebids_scoring": "Utiliser le score Cuebids",
+      "cuebids_scoring_hint": "Le score rapide compte la donne telle qu’elle est. Le score Cuebids garde Nord-Sud et redistribue Est-Ouest, comme pour les donnes de Cuebids. Il prend plus de temps : utilisez-le quand la répartition ne doit pas décider du résultat.",
+      "ew_evenly": "Est et Ouest sont distribués aussi équitablement que possible à l’enregistrement."
     },
     "can_title": "Ce que vous pouvez faire",
     "can_lessons": "Créer des leçons : des pages avec des mains et des séquences d’enchères, des cartes mémo et des quiz, et de l’entraînement à la table, au même endroit.",
@@ -4308,8 +4338,7 @@
     "can_share": "Envoyer une leçon à Cuebids. Si nous la publions pour tous les joueurs, elle porte votre nom, et nous vous remercions avec un cadeau.",
     "free_title": "Comment cela reste gratuit",
     "free_start": "Vos outils enseignant sont activés dès que vous les demandez, gratuitement pendant six mois.",
-    "free_renew": "Quand de nouveaux joueurs arrivent sur Cuebids grâce à votre classe, nous les renouvelons pour six mois. Nous comptons les joueurs nouveaux sur Cuebids qui jouent au moins trois jours et avec quelqu’un d’autre que vous.",
-    "free_ending": "S’il y en a moins, nous vous écrivons avant la fin de vos outils.",
+    "free_renew": "Tant que vous amenez des élèves sur Cuebids, vos outils d’enseignant restent gratuits. Nous faisons le point tous les six mois et les renouvelons pour vous.",
     "students_title": "Ce que paient vos élèves",
     "form_title": "Demander les outils enseignant",
     "submit_hint": "Deux questions rapides, pour savoir pour qui nous construisons. Vos outils sont activés dès l’envoi.",

@@ -151,7 +151,7 @@
       "contract": "Contract",
       "stars": "Stars",
       "fast_scoring": "Fast scoring",
-      "regular_scoring": "Regular scoring"
+      "regular_scoring": "Cuebids scoring"
     },
     "group_card": {
       "premium_group_badge": "PREMIUM GROUP"
@@ -1641,7 +1641,8 @@
     "desc_oppsMichaels": "Dealer will have a 5+ card major and opening values. E/W will make a two suited overcall.",
     "desc_vs2DMulti": "Dealer will have a 6+ card major and a weak hand, they will open with 2D multi.",
     "desc_weakTwoX": "Dealer will have a 6+ card major and a weak hand, they will open with 2M weak. N/S will have a takeout double.",
-    "desc_checkback": "Practice continuations after 1x - 1M - 1NT, including Checkback, New Minor Forcing, Two-Way New Minor and natural methods."
+    "desc_checkback": "Practice continuations after 1x - 1M - 1NT, including Checkback, New Minor Forcing, Two-Way New Minor and natural methods.",
+    "practice": "Practice"
   },
   "groups": {
     "replace_deal_confirm": "Are you sure you want to replace this deal? Once replaced the deal is gone forever. Also note that the new deal might get a different number than the old.",
@@ -1722,20 +1723,36 @@
       "forbidden_characters_error": "Forbidden characters",
       "group_name_taken_error": "A group with that name already exists",
       "group_created_success": "Group created",
-      "create_group_info": "When you create a group you get access to a private space only members of your group can access. There you can chat and create private events. Note that participating in events requires tickets. As always, heart subscribers can participate without any additional cost.",
-      "invite_members_bullet": "Invite members",
-      "group_chat_bullet": "Private group chat",
-      "group_events_bullet": "Private group events",
       "group_name_label": "Name",
       "group_name_placeholder": "Enter group name",
       "group_description_label": "Description",
       "group_description_placeholder": "Enter group description",
-      "sub_level_error": "Heart subscribers can create groups",
       "submit_button": "Create group",
-      "purpose_title": "What is this group for?",
-      "purpose_class": "Teaching a class? Teacher tools are free for teachers who bring their students to Cuebids.",
-      "purpose_class_has_tools": "You have teacher tools. Create a group for your class below.",
-      "purpose_team": "A team or practice group? Premium groups give your group more ways to run events."
+      "title": "Create a group",
+      "question": "What is it for?",
+      "class_title": "A class I teach",
+      "class_point_lessons": "Lessons, quizzes and practice for your students",
+      "class_point_code": "A class code and QR code to join",
+      "class_point_progress": "See how each student is doing",
+      "class_point_events": "Class events from boards you choose",
+      "class_point_link": "Students join with a link",
+      "class_point_chat": "A private class chat",
+      "class_badge_free": "Free for teachers",
+      "class_badge_have": "You have teacher tools",
+      "group_title": "Friends, a club or a team",
+      "group_point_chat": "A private chat",
+      "group_point_events": "Private events for the group",
+      "group_point_link": "Invite with a link",
+      "group_badge_heart": "Needs Heart",
+      "group_badge_have": "Included with Heart",
+      "class_needs_tools": "A class needs teacher tools. They are free for teachers who bring their students to Cuebids.",
+      "class_get_tools": "Get free teacher tools",
+      "group_needs_heart": "Creating a group needs Heart.",
+      "group_get_heart": "See Heart",
+      "class_name_placeholder": "For example: Tuesday beginners",
+      "group_tickets_note": "Group events cost tickets as usual. Members with Heart play them at no extra cost.",
+      "submit_class": "Create class",
+      "premium_link": "Running a club? Ask us about premium groups"
     },
     "create_group_session": {
       "scenarios_robot_error": "Some selected scenarios have a conflict between the robot settings.",
@@ -3807,14 +3824,19 @@
       "recent_saved": "Recently saved",
       "see_all": "See all",
       "board_count": "Boards: {{n}}",
-      "empty": "Save a board from its result, or add search results to a set, and it shows up here.",
+      "empty": "Save a board from its result and it shows up here.",
       "import_title": "Import PBN",
       "teach_title": "Teach",
       "decks_title": "Flashcards & quizzes",
       "teaching": "Teaching",
       "teach_card": "Teach with Cuebids: lessons, flashcards and class events, free for teachers.",
       "lessons_title": "Lessons",
-      "teach_open": "Your lessons, flashcards, quizzes, boards and classes."
+      "teach_open": "Your lessons, flashcards, quizzes, boards and classes.",
+      "tools_title": "Practice and explore",
+      "tool_search": "Search the boards you have bid, by hand or auction.",
+      "tool_deal_types": "What each deal type trains. Practice one from its row.",
+      "tool_scenarios": "Make your own deal types and practice them.",
+      "tool_import": "Bring boards from a PBN file into a set."
     },
     "sets": {
       "new_placeholder": "Name a new set",
@@ -3967,7 +3989,7 @@
       "question": "Question",
       "question_hint_call": "Leave it empty to ask “What do you bid?”",
       "show_hand": "Show a hand and the auction",
-      "answer_sequence": "Your calls, in turn",
+      "answer_sequence": "The partnership's calls, in turn",
       "options": "Answers",
       "options_hint": "Tick the right ones.",
       "add_option": "Add an answer",
@@ -4001,7 +4023,14 @@
       "answer_change": "Pick another call below to change it.",
       "bidding_box_show": "Use the bidding box",
       "bidding_box_hide": "Hide the bidding box",
-      "bidding_box_undo": "Take back the last call"
+      "bidding_box_undo": "Take back the last call",
+      "card_partner": "Partner",
+      "card_you": "You",
+      "partner_hand": "Partner's hand",
+      "sequence_answer_hint": "Yours and partner's, such as 1NT 2C 2H 4H. The opponents pass throughout.",
+      "invalid_partner_hand": "Partner's hand is missing or cannot be read.",
+      "invalid_sequence": "Those calls are not a legal auction with the opponents passing.",
+      "preview": "Preview"
     },
     "quiz": {
       "score": "You scored {{score}} of {{total}}.",
@@ -4013,7 +4042,6 @@
       "next": "Next",
       "finish": "See your score",
       "check": "Check",
-      "sequence_hint": "Your calls, separated by spaces.",
       "shape_total": "Cards: {{n}} of 13",
       "self_grade": "Did you have it?",
       "self_no": "No",
@@ -4025,7 +4053,9 @@
       "false": "False",
       "your_call": "You bid",
       "choose_all": "Choose all that apply.",
-      "selected_call": "Your call"
+      "selected_call": "Your call",
+      "sequence_your_call": "Your call",
+      "sequence_partner_call": "Partner's call"
     },
     "lessons": {
       "title": "Lessons",
@@ -4248,7 +4278,7 @@
       "search_intro": "Every board you have bid, searched by auction, hands and result. Open one to see the whole deal and add it to a set.",
       "new_deal": "New deal",
       "new_deal_intro": "Write the four hands yourself, for the exact example a lesson needs.",
-      "new_deal_hint": "Pick a player, then click cards to give them, or type: spades, hearts, diamonds, clubs, separated by dots; x for a small card, - for a void. Leave one hand empty and it gets the cards left over.",
+      "new_deal_hint": "Pick a player, then click cards to give them, or type: spades, hearts, diamonds, clubs, separated by dots; x for a small card, - for a void. Leave one hand empty and it gets the cards left over. East and West can be left out: they are then dealt as evenly as the cards allow.",
       "save_deal": "Add to the set",
       "save_deal_another": "Add and make another",
       "deal_error": "The deal could not be added. Try again.",
@@ -4289,16 +4319,16 @@
       },
       "brought": {
         "title": "Players you brought",
-        "text": "New players who joined Cuebids through this class. A player counts towards keeping your teacher tools once they have played on a few days and with someone other than you.",
+        "text": "New players who joined Cuebids through this class. Counts marks a player who counts towards keeping your teacher tools.",
         "none": "Nobody yet. Share the class code with your students.",
         "joined": "Joined {{date}}",
         "left_class": "left the class",
-        "counts": "Counts",
-        "days_one": "{{count}} of {{needed}} days",
-        "days_other": "{{count}} of {{needed}} days",
-        "needs_partner": "Not yet with someone other than you"
+        "counts": "Counts"
       },
-      "edit_deal_played": "This board had been played, so your edit is saved as a new deal. Earlier results stay with the old one."
+      "edit_deal_played": "This board had been played, so your edit is saved as a new deal. Earlier results stay with the old one.",
+      "cuebids_scoring": "Use Cuebids scoring",
+      "cuebids_scoring_hint": "Fast scoring scores the deal as laid out. Cuebids scoring keeps North-South and shuffles East-West, as Cuebids' own boards are scored. It takes longer, so use it when the layout should not decide the result.",
+      "ew_evenly": "East and West are dealt as evenly as the cards allow when you save."
     },
     "can_title": "What you can do",
     "can_lessons": "Make lessons: pages with hands and auctions, flashcards and quizzes, and practice at the table, all in one place.",
@@ -4308,8 +4338,7 @@
     "can_share": "Send a lesson to Cuebids. If we publish it for every player, it carries your name, and we thank you with a gift.",
     "free_title": "How it stays free",
     "free_start": "Your teacher tools are on as soon as you ask, free for six months.",
-    "free_renew": "When new players join Cuebids through your class, we renew them for six more months. We count players new to Cuebids who play on at least three days, and with someone other than you.",
-    "free_ending": "If fewer join, we write to you before your tools end.",
+    "free_renew": "As long as you are bringing students to Cuebids, your teacher tools stay free. We look every six months and renew them for you.",
     "students_title": "What your students pay",
     "form_title": "Ask for teacher tools",
     "submit_hint": "Two quick questions, so we know who we are building for. Your tools are on as soon as you send them.",
