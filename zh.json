@@ -4172,7 +4172,17 @@
       "task_quiz": "测验",
       "task_flashcards": "闪卡",
       "task_practice": "练习",
-      "skip_task": "暂时跳过这个任务"
+      "skip_task": "暂时跳过这个任务",
+      "feedback_title": "你觉得这节课怎么样？",
+      "feedback_stars": "星级：{{count}}",
+      "feedback_comment": "有什么需要改进的吗？（可选）",
+      "feedback_send": "发送",
+      "feedback_thanks": "感谢你的反馈。",
+      "feedback_error": "反馈未能发送，请重试。",
+      "teach_note": "你教桥牌吗？你可以在 Cuebids 上免费制作这样的课程。",
+      "teach_note_link": "获取教师工具",
+      "rating": "★ {{average}} · 评分数：{{count}}",
+      "rating_none": "暂无评分"
     }
   },
   "teach": {

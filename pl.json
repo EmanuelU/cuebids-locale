@@ -4177,7 +4177,17 @@
       "task_quiz": "Quiz",
       "task_flashcards": "Fiszki",
       "task_practice": "Ćwiczenie",
-      "skip_task": "Pomiń to zadanie na razie"
+      "skip_task": "Pomiń to zadanie na razie",
+      "feedback_title": "Jak oceniasz tę lekcję?",
+      "feedback_stars": "Gwiazdki: {{count}}",
+      "feedback_comment": "Co powinniśmy zmienić? (opcjonalnie)",
+      "feedback_send": "Wyślij",
+      "feedback_thanks": "Dziękujemy za opinię.",
+      "feedback_error": "Nie udało się wysłać opinii. Spróbuj ponownie.",
+      "teach_note": "Uczysz brydża? Możesz bezpłatnie tworzyć takie lekcje w Cuebids.",
+      "teach_note_link": "Odbierz narzędzia nauczyciela",
+      "rating": "★ {{average}} · oceny: {{count}}",
+      "rating_none": "Brak ocen"
     }
   },
   "teach": {

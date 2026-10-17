@@ -4171,7 +4171,17 @@
       "task_quiz": "Quiz",
       "task_flashcards": "Cartes",
       "task_practice": "Entraînement",
-      "skip_task": "Passer cette tâche pour l’instant"
+      "skip_task": "Passer cette tâche pour l’instant",
+      "feedback_title": "Qu’avez-vous pensé de cette leçon ?",
+      "feedback_stars": "Étoiles : {{count}}",
+      "feedback_comment": "Quelque chose à changer ? (facultatif)",
+      "feedback_send": "Envoyer",
+      "feedback_thanks": "Merci pour votre avis.",
+      "feedback_error": "Votre avis n’a pas été envoyé. Réessayez.",
+      "teach_note": "Vous enseignez le bridge ? Vous pouvez créer des leçons comme celle-ci gratuitement sur Cuebids.",
+      "teach_note_link": "Obtenir les outils enseignant",
+      "rating": "★ {{average}} · avis : {{count}}",
+      "rating_none": "Pas encore d’avis"
     }
   },
   "teach": {

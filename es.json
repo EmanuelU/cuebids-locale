@@ -4171,7 +4171,17 @@
       "task_quiz": "Cuestionario",
       "task_flashcards": "Tarjetas",
       "task_practice": "Práctica",
-      "skip_task": "Saltar esta tarea por ahora"
+      "skip_task": "Saltar esta tarea por ahora",
+      "feedback_title": "¿Qué te ha parecido la lección?",
+      "feedback_stars": "Estrellas: {{count}}",
+      "feedback_comment": "¿Algo que debamos cambiar? (opcional)",
+      "feedback_send": "Enviar",
+      "feedback_thanks": "Gracias por tu opinión.",
+      "feedback_error": "Tu opinión no se envió. Inténtalo de nuevo.",
+      "teach_note": "¿Enseñas bridge? Puedes crear lecciones como esta gratis en Cuebids.",
+      "teach_note_link": "Obtener herramientas de profesor",
+      "rating": "★ {{average}} · valoraciones: {{count}}",
+      "rating_none": "Aún sin valoraciones"
     }
   },
   "teach": {
