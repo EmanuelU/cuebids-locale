@@ -3881,7 +3881,7 @@
       "board_of": "Donne {{n}} sur {{total}}",
       "suggestions_teachers": "Les séquences suggérées font partie des outils pour enseignants.",
       "add_boards": "Ajouter des donnes",
-      "add_boards_hint": "Trouver une donne et Importer un PBN ajoutent des donnes que vous avez déjà. Les thèmes de donnes et les scénarios ajoutent de nouvelles donnes de Cuebids.",
+      "add_boards_hint": "Trouver une donne, Donnes enregistrées et Importer un PBN ajoutent des donnes que vous avez déjà. Les thèmes de donnes et les scénarios ajoutent de nouvelles donnes de Cuebids.",
       "show_scoring": "Afficher les scores",
       "show_more": "Afficher plus",
       "show_fewer": "Afficher moins",
