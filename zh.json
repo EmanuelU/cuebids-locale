@@ -1643,7 +1643,9 @@
     "desc_vs2DMulti": "发牌人持六张或更长高花和弱牌，将开叫 2D multi。",
     "desc_weakTwoX": "发牌人持六张或更长高花和弱牌，将开叫弱二。南北两家可作示意加倍。",
     "desc_checkback": "练习开叫人再叫 1NT 之后的续叫，包括 Checkback、New Minor Forcing、Two-Way New Minor 以及自然叫法。",
-    "practice": "练习"
+    "practice": "练习",
+    "search": "搜索牌型",
+    "no_match": "没有匹配的牌型。"
   },
   "groups": {
     "replace_deal_confirm": "确定要替换这副牌吗？替换后原来的副牌将永久删除。请注意，新副牌的编号可能与旧副牌不同。",
@@ -3064,7 +3066,8 @@
     "th_progress": "进行中",
     "by": "通过",
     "heart_sub_info": "红桃订阅用户可以创建场景。",
-    "subscribe": "在此订阅"
+    "subscribe": "在此订阅",
+    "none_yet": "还没有场景。创建一个，或从场景市场复制一个。"
   },
   "messages": {
     "item_claimed": "物品被认领！",
@@ -3825,7 +3828,7 @@
       "recent_saved": "最近保存",
       "see_all": "查看全部",
       "board_count": "牌数：{{n}}",
-      "empty": "在结果页保存一副牌，它就会出现在这里。",
+      "empty": "这里还没有内容。叫完一副牌后保存它，或创建一个牌组，它就会出现在这里。",
       "import_title": "导入 PBN",
       "teach_title": "教学",
       "decks_title": "闪卡和测验",

@@ -1642,7 +1642,9 @@
     "desc_vs2DMulti": "Le donneur a une majeure sixième ou plus et une main faible ; il ouvrira de 2♦ multi.",
     "desc_weakTwoX": "Le donneur a une majeure sixième ou plus et une main faible ; il ouvrira d’un 2 faible. N/S disposent d’un contre d’appel.",
     "desc_checkback": "Travaillez les continuations après la redemande à 1SA de l’ouvreur : Checkback, New Minor Forcing, Two-Way New Minor et méthodes naturelles.",
-    "practice": "S’entraîner"
+    "practice": "S’entraîner",
+    "search": "Rechercher un type de donne",
+    "no_match": "Aucun type de donne ne correspond."
   },
   "groups": {
     "replace_deal_confirm": "Êtes-vous sûr de vouloir remplacer cette donne ? Une fois remplacée, elle sera définitivement perdue. Notez aussi que la nouvelle donne peut porter un numéro différent de l’ancienne.",
@@ -3063,7 +3065,8 @@
     "th_progress": "En cours",
     "by": "par",
     "heart_sub_info": "Les abonnés Cœur peuvent créer des scénarios.",
-    "subscribe": "Abonnez-vous ici"
+    "subscribe": "Abonnez-vous ici",
+    "none_yet": "Pas encore de scénario. Créez-en un, ou copiez-en un depuis le marché des scénarios."
   },
   "messages": {
     "item_claimed": "Objet récupéré !",
@@ -3824,7 +3827,7 @@
       "recent_saved": "Enregistrées récemment",
       "see_all": "Tout voir",
       "board_count": "Donnes : {{n}}",
-      "empty": "Enregistrez une donne depuis son résultat et elle apparaît ici.",
+      "empty": "Rien ici pour l’instant. Enregistrez une donne après l’avoir enchérie, ou créez une sélection, et elle apparaîtra ici.",
       "import_title": "Importer un PBN",
       "teach_title": "Enseigner",
       "decks_title": "Cartes mémo et quiz",

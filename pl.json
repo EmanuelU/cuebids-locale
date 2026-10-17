@@ -1644,7 +1644,9 @@
     "desc_vs2DMulti": "Rozdający ma starszy kolor sześciokartowy lub dłuższy i słabą rękę; otworzy 2D multi.",
     "desc_weakTwoX": "Rozdający ma starszy kolor sześciokartowy lub dłuższy i słabą rękę; otworzy słabymi dwoma. N/S mają kontrę wywoławczą.",
     "desc_checkback": "Poćwicz kontynuacje po rebidzie 1NT otwierającego, w tym Checkback, New Minor Forcing, Two-Way New Minor i metody naturalne.",
-    "practice": "Ćwicz"
+    "practice": "Ćwicz",
+    "search": "Szukaj typów rozdań",
+    "no_match": "Żaden typ rozdania nie pasuje."
   },
   "groups": {
     "replace_deal_confirm": "Czy na pewno chcesz zamienić to rozdanie? Po zamianie rozdanie zostanie trwale usunięte.",
@@ -3065,7 +3067,8 @@
     "th_progress": "W toku",
     "by": "przez",
     "heart_sub_info": "Tylko subskrybenci Kier mogą tworzyć scenariusze.",
-    "subscribe": "Subskrybuj"
+    "subscribe": "Subskrybuj",
+    "none_yet": "Nie masz jeszcze scenariuszy. Utwórz własny albo skopiuj któryś z rynku scenariuszy."
   },
   "messages": {
     "item_claimed": "Prezent odebrany!",
@@ -3830,7 +3833,7 @@
       "recent_saved": "Ostatnio zapisane",
       "see_all": "Zobacz wszystkie",
       "board_count": "Rozdania: {{n}}",
-      "empty": "Zapisz rozdanie z jego wyniku, a pojawi się tutaj.",
+      "empty": "Na razie nic tu nie ma. Zapisz rozdanie po licytacji albo utwórz zestaw, a pojawi się tutaj.",
       "import_title": "Importuj PBN",
       "teach_title": "Ucz",
       "decks_title": "Fiszki i quizy",

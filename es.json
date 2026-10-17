@@ -1642,7 +1642,9 @@
     "desc_vs2DMulti": "El repartidor tiene un mayor de seis cartas o más y una mano débil; abrirá 2 diamantes multi.",
     "desc_weakTwoX": "El repartidor tiene un mayor de seis cartas o más y una mano débil; abrirá con un dos débil. N/S tienen un doblo de despeje.",
     "desc_checkback": "Practica las continuaciones tras la redeclaración de 1NT del abridor, incluidos Checkback, New Minor Forcing, Two-Way New Minor y los métodos naturales.",
-    "practice": "Practicar"
+    "practice": "Practicar",
+    "search": "Buscar tipos de mano",
+    "no_match": "Ningún tipo de mano coincide."
   },
   "groups": {
     "replace_deal_confirm": "¿Seguro que quieres reemplazar esta mano? Una vez reemplazada, la mano desaparece para siempre. Además, la nueva mano podría tener un número distinto al de la anterior.",
@@ -3063,7 +3065,8 @@
     "th_progress": "En progreso",
     "by": "por",
     "heart_sub_info": "Los suscriptores Heart pueden crear escenarios.",
-    "subscribe": "Suscríbete aquí"
+    "subscribe": "Suscríbete aquí",
+    "none_yet": "Aún no tienes escenarios. Crea uno o copia uno del mercado de escenarios."
   },
   "messages": {
     "item_claimed": "¡Artículo reclamado!",
@@ -3824,7 +3827,7 @@
       "recent_saved": "Guardadas recientemente",
       "see_all": "Ver todas",
       "board_count": "Manos: {{n}}",
-      "empty": "Guarda una mano desde su resultado y aparecerá aquí.",
+      "empty": "Aún no hay nada aquí. Guarda un tablero después de subastarlo, o crea una colección, y aparecerá aquí.",
       "import_title": "Importar PBN",
       "teach_title": "Enseñar",
       "decks_title": "Tarjetas y cuestionarios",

@@ -1642,7 +1642,9 @@
     "desc_vs2DMulti": "Given har en sexkorts högfärg eller längre och en svag hand, och öppnar med 2ru multi.",
     "desc_weakTwoX": "Given har en sexkorts högfärg eller längre och en svag hand, och öppnar med svag tvåöppning. N/S har en upplysningsdubbling.",
     "desc_checkback": "Träna fortsättningar efter att öppnaren återbjudit 1NT, bland annat Checkback, New Minor Forcing, Two-Way New Minor och naturliga metoder.",
-    "practice": "Öva"
+    "practice": "Öva",
+    "search": "Sök givtyper",
+    "no_match": "Ingen givtyp matchar."
   },
   "groups": {
     "replace_deal_confirm": "Är du säker på att du vill byta ut given? Det går inte att ångra. Notera också att den nya given kan få ett annat nummer än den gamla.",
@@ -3063,7 +3065,8 @@
     "th_progress": "Pågående",
     "by": "av",
     "heart_sub_info": "Hjärterprenumeranter kan skapa scenarion.",
-    "subscribe": "Prenumerera här"
+    "subscribe": "Prenumerera här",
+    "none_yet": "Inga scenarion än. Skapa ett, eller kopiera ett från scenariomarknaden."
   },
   "messages": {
     "item_claimed": "Gåva mottagen!",
@@ -3824,7 +3827,7 @@
       "recent_saved": "Senast sparade",
       "see_all": "Visa alla",
       "board_count": "Brickor: {{n}}",
-      "empty": "Spara en bricka från dess resultat så hamnar den här.",
+      "empty": "Inget här än. Spara en bricka när du har bjudit den, eller gör en samling, så hamnar den här.",
       "import_title": "Importera PBN",
       "teach_title": "Undervisa",
       "decks_title": "Frågekort & quiz",
