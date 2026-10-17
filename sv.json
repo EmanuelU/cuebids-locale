@@ -3884,7 +3884,7 @@
       "board_of": "Bricka {{n}} av {{total}}",
       "suggestions_teachers": "Föreslagen budgivning ingår i lärarverktygen.",
       "add_boards": "Lägg till brickor",
-      "add_boards_hint": "Hitta en bricka och Importera PBN lägger till brickor du redan har. Givtyper och scenarion lägger till nya brickor från Cuebids.",
+      "add_boards_hint": "Hitta en bricka, Sparade brickor och Importera PBN lägger till brickor du redan har. Givtyper och scenarion lägger till nya brickor från Cuebids.",
       "show_scoring": "Visa poäng",
       "show_more": "Visa fler",
       "show_fewer": "Visa färre",

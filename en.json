@@ -3884,7 +3884,7 @@
       "board_of": "Board {{n}} of {{total}}",
       "suggestions_teachers": "Suggested auctions are part of teacher tools.",
       "add_boards": "Add boards",
-      "add_boards_hint": "Find a deal and Import PBN add boards you already have. Deal types and scenarios add new boards from Cuebids.",
+      "add_boards_hint": "Find a deal, Saved boards and Import PBN add boards you already have. Deal types and scenarios add new boards from Cuebids.",
       "show_scoring": "Show scoring",
       "show_more": "Show more",
       "show_fewer": "Show fewer",
