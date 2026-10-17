@@ -4176,7 +4176,8 @@
       "task_go_back": "Krok {{n}}: {{task}}",
       "task_quiz": "Quiz",
       "task_flashcards": "Fiszki",
-      "task_practice": "Ćwiczenie"
+      "task_practice": "Ćwiczenie",
+      "skip_task": "Pomiń to zadanie na razie"
     }
   },
   "teach": {
