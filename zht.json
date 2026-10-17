@@ -4164,7 +4164,14 @@
       "take_down_off": "下架",
       "take_down_confirm": "再點一次確認",
       "taken_down_admins": "現在只有管理員能看到這堂課。",
-      "taken_down_off": "這堂課已不再公開。作者可以在教學中重新發布。"
+      "taken_down_off": "這堂課已不再公開。作者可以在教學中重新發布。",
+      "skip_for_now": "暫時跳過",
+      "tasks_skipped": "還有任務未完成",
+      "tasks_skipped_text": "完成它們即可完成本課，現在或稍後都可以。",
+      "task_go_back": "第 {{n}} 步：{{task}}",
+      "task_quiz": "測驗",
+      "task_flashcards": "閃卡",
+      "task_practice": "練習"
     }
   },
   "teach": {

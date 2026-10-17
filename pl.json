@@ -4169,7 +4169,14 @@
       "take_down_off": "Wycofaj lekcję",
       "take_down_confirm": "Stuknij ponownie, aby potwierdzić",
       "taken_down_admins": "Teraz tę lekcję widzą tylko admini.",
-      "taken_down_off": "Lekcja nie jest już publiczna. Właściciel może ją przywrócić w Nauczaniu."
+      "taken_down_off": "Lekcja nie jest już publiczna. Właściciel może ją przywrócić w Nauczaniu.",
+      "skip_for_now": "Pomiń na razie",
+      "tasks_skipped": "Zadania do zrobienia",
+      "tasks_skipped_text": "Zrób je, aby ukończyć lekcję, teraz albo później.",
+      "task_go_back": "Krok {{n}}: {{task}}",
+      "task_quiz": "Quiz",
+      "task_flashcards": "Fiszki",
+      "task_practice": "Ćwiczenie"
     }
   },
   "teach": {
