@@ -3881,7 +3881,7 @@
       "board_of": "Mano {{n}} de {{total}}",
       "suggestions_teachers": "Las subastas sugeridas forman parte de las herramientas para profesores.",
       "add_boards": "Añadir manos",
-      "add_boards_hint": "Buscar una mano e Importar PBN añaden manos que ya tienes. Los tipos de mano y los escenarios añaden manos nuevas de Cuebids.",
+      "add_boards_hint": "Buscar una mano, Manos guardadas e Importar PBN añaden manos que ya tienes. Los tipos de mano y los escenarios añaden manos nuevas de Cuebids.",
       "show_scoring": "Mostrar puntuación",
       "show_more": "Mostrar más",
       "show_fewer": "Mostrar menos",

@@ -3882,7 +3882,7 @@
       "board_of": "第 {{n}} / {{total}} 副",
       "suggestions_teachers": "建议叫牌属于教师工具。",
       "add_boards": "添加牌",
-      "add_boards_hint": "“查找牌局”和“导入 PBN”添加你已有的牌。牌型和场景会从 Cuebids 添加新牌。",
+      "add_boards_hint": "“查找牌局”、“已保存的牌局”和“导入 PBN”添加你已有的牌。牌型和场景会从 Cuebids 添加新牌。",
       "show_scoring": "显示得分",
       "show_more": "显示更多",
       "show_fewer": "收起",

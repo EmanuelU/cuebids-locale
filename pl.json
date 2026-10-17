@@ -3887,7 +3887,7 @@
       "board_of": "Rozdanie {{n}} z {{total}}",
       "suggestions_teachers": "Sugerowana licytacja jest częścią narzędzi dla nauczycieli.",
       "add_boards": "Dodaj rozdania",
-      "add_boards_hint": "Znajdź rozdanie i Importuj PBN dodają rozdania, które już masz. Typy rozdań i scenariusze dodają nowe rozdania z Cuebids.",
+      "add_boards_hint": "Znajdź rozdanie, Zapisane rozdania i Importuj PBN dodają rozdania, które już masz. Typy rozdań i scenariusze dodają nowe rozdania z Cuebids.",
       "show_scoring": "Pokaż punktację",
       "show_more": "Pokaż więcej",
       "show_fewer": "Pokaż mniej",
