@@ -4172,7 +4172,15 @@
       "task_quiz": "測驗",
       "task_flashcards": "閃卡",
       "task_practice": "練習",
-      "skip_task": "暫時跳過這個任務"
+      "skip_task": "暫時跳過這個任務",
+      "feedback_title": "你覺得這堂課怎麼樣？",
+      "feedback_stars": "星級：{{count}}",
+      "feedback_comment": "有什麼需要改進的嗎？（可選）",
+      "feedback_send": "發送",
+      "feedback_thanks": "感謝你的回饋。",
+      "feedback_error": "回饋未能發送，請重試。",
+      "teach_note": "你教橋牌嗎？你可以在 Cuebids 上免費製作這樣的課程。",
+      "teach_note_link": "取得教師工具"
     }
   },
   "teach": {

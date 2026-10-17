@@ -4171,7 +4171,15 @@
       "task_quiz": "Quiz",
       "task_flashcards": "Flashcards",
       "task_practice": "Practice",
-      "skip_task": "Skip this task for now"
+      "skip_task": "Skip this task for now",
+      "feedback_title": "How was this lesson?",
+      "feedback_stars": "Stars: {{count}}",
+      "feedback_comment": "Anything we should change? (optional)",
+      "feedback_send": "Send",
+      "feedback_thanks": "Thank you for the feedback.",
+      "feedback_error": "Your feedback was not sent. Try again.",
+      "teach_note": "Do you teach bridge? You can make lessons like this for free on Cuebids.",
+      "teach_note_link": "Get teacher tools"
     }
   },
   "teach": {
