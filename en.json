@@ -4170,7 +4170,8 @@
       "task_go_back": "Step {{n}}: {{task}}",
       "task_quiz": "Quiz",
       "task_flashcards": "Flashcards",
-      "task_practice": "Practice"
+      "task_practice": "Practice",
+      "skip_task": "Skip this task for now"
     }
   },
   "teach": {

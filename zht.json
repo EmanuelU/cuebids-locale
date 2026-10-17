@@ -4171,7 +4171,8 @@
       "task_go_back": "第 {{n}} 步：{{task}}",
       "task_quiz": "測驗",
       "task_flashcards": "閃卡",
-      "task_practice": "練習"
+      "task_practice": "練習",
+      "skip_task": "暫時跳過這個任務"
     }
   },
   "teach": {
