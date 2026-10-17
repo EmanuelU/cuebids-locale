@@ -4179,7 +4179,9 @@
       "feedback_thanks": "Gracias por tu opinión.",
       "feedback_error": "Tu opinión no se envió. Inténtalo de nuevo.",
       "teach_note": "¿Enseñas bridge? Puedes crear lecciones como esta gratis en Cuebids.",
-      "teach_note_link": "Obtener herramientas de profesor"
+      "teach_note_link": "Obtener herramientas de profesor",
+      "rating": "★ {{average}} · valoraciones: {{count}}",
+      "rating_none": "Aún sin valoraciones"
     }
   },
   "teach": {

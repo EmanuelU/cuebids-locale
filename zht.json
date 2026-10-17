@@ -4180,7 +4180,9 @@
       "feedback_thanks": "感謝你的回饋。",
       "feedback_error": "回饋未能發送，請重試。",
       "teach_note": "你教橋牌嗎？你可以在 Cuebids 上免費製作這樣的課程。",
-      "teach_note_link": "取得教師工具"
+      "teach_note_link": "取得教師工具",
+      "rating": "★ {{average}} · 評分數：{{count}}",
+      "rating_none": "尚無評分"
     }
   },
   "teach": {

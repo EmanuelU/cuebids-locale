@@ -4180,7 +4180,9 @@
       "feedback_thanks": "感谢你的反馈。",
       "feedback_error": "反馈未能发送，请重试。",
       "teach_note": "你教桥牌吗？你可以在 Cuebids 上免费制作这样的课程。",
-      "teach_note_link": "获取教师工具"
+      "teach_note_link": "获取教师工具",
+      "rating": "★ {{average}} · 评分数：{{count}}",
+      "rating_none": "暂无评分"
     }
   },
   "teach": {

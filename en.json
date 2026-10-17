@@ -4179,7 +4179,9 @@
       "feedback_thanks": "Thank you for the feedback.",
       "feedback_error": "Your feedback was not sent. Try again.",
       "teach_note": "Do you teach bridge? You can make lessons like this for free on Cuebids.",
-      "teach_note_link": "Get teacher tools"
+      "teach_note_link": "Get teacher tools",
+      "rating": "★ {{average}} · ratings: {{count}}",
+      "rating_none": "No ratings yet"
     }
   },
   "teach": {

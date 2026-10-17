@@ -4179,7 +4179,9 @@
       "feedback_thanks": "Merci pour votre avis.",
       "feedback_error": "Votre avis n’a pas été envoyé. Réessayez.",
       "teach_note": "Vous enseignez le bridge ? Vous pouvez créer des leçons comme celle-ci gratuitement sur Cuebids.",
-      "teach_note_link": "Obtenir les outils enseignant"
+      "teach_note_link": "Obtenir les outils enseignant",
+      "rating": "★ {{average}} · avis : {{count}}",
+      "rating_none": "Pas encore d’avis"
     }
   },
   "teach": {

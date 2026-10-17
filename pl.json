@@ -4185,7 +4185,9 @@
       "feedback_thanks": "Dziękujemy za opinię.",
       "feedback_error": "Nie udało się wysłać opinii. Spróbuj ponownie.",
       "teach_note": "Uczysz brydża? Możesz bezpłatnie tworzyć takie lekcje w Cuebids.",
-      "teach_note_link": "Odbierz narzędzia nauczyciela"
+      "teach_note_link": "Odbierz narzędzia nauczyciela",
+      "rating": "★ {{average}} · oceny: {{count}}",
+      "rating_none": "Brak ocen"
     }
   },
   "teach": {

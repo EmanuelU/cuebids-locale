@@ -4179,7 +4179,9 @@
       "feedback_thanks": "Tack för din återkoppling.",
       "feedback_error": "Din återkoppling skickades inte. Försök igen.",
       "teach_note": "Undervisar du i bridge? Du kan göra lektioner som den här gratis på Cuebids.",
-      "teach_note_link": "Skaffa lärarverktyg"
+      "teach_note_link": "Skaffa lärarverktyg",
+      "rating": "★ {{average}} · betyg: {{count}}",
+      "rating_none": "Inga betyg än"
     }
   },
   "teach": {
