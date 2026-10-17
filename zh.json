@@ -4164,7 +4164,14 @@
       "take_down_off": "下架",
       "take_down_confirm": "再点一次确认",
       "taken_down_admins": "现在只有管理员能看到这节课。",
-      "taken_down_off": "这节课已不再公开。作者可以在教学中重新发布。"
+      "taken_down_off": "这节课已不再公开。作者可以在教学中重新发布。",
+      "skip_for_now": "暂时跳过",
+      "tasks_skipped": "还有任务未完成",
+      "tasks_skipped_text": "完成它们即可完成本课，现在或稍后都可以。",
+      "task_go_back": "第 {{n}} 步：{{task}}",
+      "task_quiz": "测验",
+      "task_flashcards": "闪卡",
+      "task_practice": "练习"
     }
   },
   "teach": {

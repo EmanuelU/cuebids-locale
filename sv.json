@@ -4163,7 +4163,14 @@
       "take_down_off": "Ta ner den",
       "take_down_confirm": "Tryck igen för att bekräfta",
       "taken_down_admins": "Bara admins ser lektionen nu.",
-      "taken_down_off": "Lektionen är inte längre offentlig. Ägaren kan lägga upp den igen från Undervisa."
+      "taken_down_off": "Lektionen är inte längre offentlig. Ägaren kan lägga upp den igen från Undervisa.",
+      "skip_for_now": "Hoppa över tills vidare",
+      "tasks_skipped": "Uppgifter kvar att göra",
+      "tasks_skipped_text": "Gör dem för att slutföra lektionen, nu eller senare.",
+      "task_go_back": "Steg {{n}}: {{task}}",
+      "task_quiz": "Quiz",
+      "task_flashcards": "Frågekort",
+      "task_practice": "Övning"
     }
   },
   "teach": {

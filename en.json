@@ -4163,7 +4163,14 @@
       "take_down_off": "Take it down",
       "take_down_confirm": "Tap again to confirm",
       "taken_down_admins": "Only admins see this lesson now.",
-      "taken_down_off": "The lesson is no longer public. Its owner can put it back from Teach."
+      "taken_down_off": "The lesson is no longer public. Its owner can put it back from Teach.",
+      "skip_for_now": "Skip for now",
+      "tasks_skipped": "Tasks left to do",
+      "tasks_skipped_text": "Finish them to complete the lesson, now or later.",
+      "task_go_back": "Step {{n}}: {{task}}",
+      "task_quiz": "Quiz",
+      "task_flashcards": "Flashcards",
+      "task_practice": "Practice"
     }
   },
   "teach": {

@@ -4163,7 +4163,14 @@
       "take_down_off": "La retirer",
       "take_down_confirm": "Touchez encore pour confirmer",
       "taken_down_admins": "Seuls les admins voient cette leçon maintenant.",
-      "taken_down_off": "La leçon n'est plus publique. Son auteur peut la remettre depuis Enseigner."
+      "taken_down_off": "La leçon n'est plus publique. Son auteur peut la remettre depuis Enseigner.",
+      "skip_for_now": "Passer pour l’instant",
+      "tasks_skipped": "Tâches restantes",
+      "tasks_skipped_text": "Faites-les pour terminer la leçon, maintenant ou plus tard.",
+      "task_go_back": "Étape {{n}} : {{task}}",
+      "task_quiz": "Quiz",
+      "task_flashcards": "Cartes",
+      "task_practice": "Entraînement"
     }
   },
   "teach": {
