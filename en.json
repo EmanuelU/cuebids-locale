@@ -1642,7 +1642,9 @@
     "desc_vs2DMulti": "Dealer will have a 6+ card major and a weak hand, they will open with 2D multi.",
     "desc_weakTwoX": "Dealer will have a 6+ card major and a weak hand, they will open with 2M weak. N/S will have a takeout double.",
     "desc_checkback": "Practice continuations after 1x - 1M - 1NT, including Checkback, New Minor Forcing, Two-Way New Minor and natural methods.",
-    "practice": "Practice"
+    "practice": "Practice",
+    "search": "Search deal types",
+    "no_match": "No deal type matches."
   },
   "groups": {
     "replace_deal_confirm": "Are you sure you want to replace this deal? Once replaced the deal is gone forever. Also note that the new deal might get a different number than the old.",
@@ -3063,7 +3065,8 @@
     "th_progress": "In Progress",
     "by": "by",
     "heart_sub_info": "Heart subscribers can create scenarios.",
-    "subscribe": "Subscribe here"
+    "subscribe": "Subscribe here",
+    "none_yet": "No scenarios yet. Create one, or copy one from the Scenario Market."
   },
   "messages": {
     "item_claimed": "Item claimed!",
@@ -3824,7 +3827,7 @@
       "recent_saved": "Recently saved",
       "see_all": "See all",
       "board_count": "Boards: {{n}}",
-      "empty": "Save a board from its result and it shows up here.",
+      "empty": "Nothing here yet. Save a board after you bid it, or make a set, and it shows up here.",
       "import_title": "Import PBN",
       "teach_title": "Teach",
       "decks_title": "Flashcards & quizzes",
